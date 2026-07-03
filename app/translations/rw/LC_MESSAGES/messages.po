@@ -1,0 +1,1039 @@
+# Translations for RW.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: rw\n"
+"Language-Team: rw <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Nyamuneka injira kugirango ugere kuriyi page."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Iyi IMEI yamaze kwandikwa muri sisitemu."
+
+msgid "Accès non autorisé."
+msgstr "Kubona uruhushya."
+
+msgid "Appareil déverrouillé."
+msgstr "Igikoresho gifunguye."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Imenyesha ryakozwe! Amatangazo yoherejwe."
+
+msgid "Alerte résolue."
+msgstr "Imenyesha ryakemutse."
+
+msgid "Pas encore de compte ?"
+msgstr "Nta konti?"
+
+msgid "Mon Profil"
+msgstr "Umwirondoro wanjye"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Kwihuza bigenda neza! Murakaza neza."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Imeri cyangwa ijambo ryibanga."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Imirima yose isabwa igomba kuba yuzuye."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Ijambobanga ntirihuye."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Ijambobanga rigomba kuba rifite byibuze inyuguti 6."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Iyi imeri isanzwe ikoreshwa."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Konti yashizweho neza! Injira."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Nta konte iboneka hamwe niyi imeri."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Inomero ya terefone ntabwo ihuye nimero ya konti."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Ijambobanga rishya ni itegeko."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Gusubiramo ijambo ryibanga neza! Injira."
+
+msgid "Vous avez été déconnecté."
+msgstr "Waciwe."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Ibirango, icyitegererezo na IMEI birakenewe."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Igikoresho gifite iyi IMEI kimaze kubaho."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Igikoresho cyanditswe neza!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Ntabwo wemerewe gukora iki gikorwa."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Igikoresho gifunze kure neza."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Igikoresho gifunguye neza."
+
+msgid "Appareil supprimé."
+msgstr "Igikoresho cyasibwe."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Nyamuneka hitamo igikoresho n'ubwoko bwo kumenyesha."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Iki gikoresho ntabwo ari icyawe."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Imenyesha ryatanzwe neza. Igikoresho gifite umutekano."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Imenyesha ryerekanwe nkuko byakemuwe."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Izina ryambere, izina ryanyuma na imeri birakenewe."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Iyi imeri isanzwe ikoreshwa nindi konte."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Umwirondoro wavuguruwe neza!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Kwinjira byabitswe kubayobozi."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Ikosa ryerekanwe nkuko byakemuwe."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Ntushobora gusiba konte yawe."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Umukoresha yasibwe neza."
+
+msgid "Administration"
+msgstr "Ubuyobozi"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Ubuyobozi bukuru bwa sisitemu yo kurwanya ubujura"
+
+msgid "Utilisateurs"
+msgstr "Abakoresha"
+
+msgid "Actifs aujourd'hui"
+msgstr "Bikora uyu munsi"
+
+msgid "Nouveaux ce mois"
+msgstr "Gishya muri uku kwezi"
+
+msgid "Appareils"
+msgstr "Ibikoresho"
+
+msgid "Alertes actives"
+msgstr "Imenyesha rikora"
+
+msgid "Analytique"
+msgstr "Isesengura"
+
+msgid "Journal d'activité"
+msgstr "Igitabo cyibikorwa"
+
+msgid "Erreurs"
+msgstr "Amakosa"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Kwihuza (iminsi 7 ishize)"
+
+msgid "Alertes par type"
+msgstr "Imenyesha ryubwoko"
+
+msgid "Appareils par opérateur"
+msgstr "Ibikoresho kubakoresha"
+
+msgid "Résumé du système"
+msgstr "Incamake ya sisitemu"
+
+msgid "Utilisateurs total"
+msgstr "Abakoresha bose"
+
+msgid "Appareils enregistrés"
+msgstr "Ibikoresho byanditse"
+
+msgid "Total alertes"
+msgstr "Imenyesha ryose"
+
+msgid "Alertes en cours"
+msgstr "Imenyesha ryubu"
+
+msgid "Erreurs non résolues"
+msgstr "Amakosa adakemutse"
+
+msgid "Dernières activités"
+msgstr "Ibikorwa bigezweho"
+
+msgid "récentes"
+msgstr "vuba aha"
+
+msgid "Utilisateur"
+msgstr "Umukoresha"
+
+msgid "Action"
+msgstr "Igikorwa"
+
+msgid "Détails"
+msgstr "Ibisobanuro"
+
+msgid "Adresse IP"
+msgstr "Aderesi ya IP"
+
+msgid "Navigateur"
+msgstr "Mucukumbuzi"
+
+msgid "Date"
+msgstr "Itariki"
+
+msgid "Aucune activité"
+msgstr "Nta gikorwa"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Ibikorwa byabakoresha bizagaragara hano."
+
+msgid "Journal d'erreurs"
+msgstr "Ikosa"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Gukosora amakosa yose?"
+
+msgid "Tout résoudre"
+msgstr "Gukemura byose"
+
+msgid "non résolues"
+msgstr "kidakemutse"
+
+msgid "Tout est résolu"
+msgstr "Byose birakemutse"
+
+msgid "Type"
+msgstr "Ineza"
+
+msgid "Description"
+msgstr "Ibisobanuro"
+
+msgid "Statut"
+msgstr "Imiterere"
+
+msgid "Résolu"
+msgstr "Byakemutse"
+
+msgid "Non résolu"
+msgstr "Ntibikemutse"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Nta makosa yanditse"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sisitemu ikora neza."
+
+msgid "Gestion des utilisateurs"
+msgstr "Gucunga abakoresha"
+
+msgid "comptes"
+msgstr "Konti"
+
+msgid "Email"
+msgstr "E-imeri"
+
+msgid "Téléphone"
+msgstr "Terefone"
+
+msgid "Rôle"
+msgstr "Uruhare"
+
+msgid "Inscrit le"
+msgstr "Kwiyandikisha kuri"
+
+msgid "Actions"
+msgstr "Ibikorwa"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Siba uyu ukoresha nibikoresho byabo byose?"
+
+msgid "Vous"
+msgstr "WOWE"
+
+msgid "Connexions"
+msgstr "Kwihuza"
+
+msgid "Vol"
+msgstr "Indege"
+
+msgid "Perte"
+msgstr "Igihombo"
+
+msgid "Anomalie"
+msgstr "Anomaly"
+
+msgid "Alertes"
+msgstr "Imenyesha"
+
+msgid "Gestion des alertes"
+msgstr "Gucunga imenyesha"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Menyesha ubujura cyangwa igihombo kandi ukurikirane amateka"
+
+msgid "Signaler un vol / perte"
+msgstr "Menyesha ubujura / igihombo"
+
+msgid "En cours"
+msgstr "Birakomeje"
+
+msgid "Résolues"
+msgstr "Byakemutse"
+
+msgid "Historique des alertes"
+msgstr "Kumenyesha Amateka"
+
+msgid "Appareil"
+msgstr "Igikoresho"
+
+msgid "Priorité"
+msgstr "Ibyingenzi"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Shyira akamenyetso kuri iki kibazo nkuko byakemuwe?"
+
+msgid "Résoudre"
+msgstr "Gukemura"
+
+msgid "Aucune alerte"
+msgstr "Nta nteguza"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Amakuru meza! Nta nteguza zigeze zitangazwa."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Menyesha ubujura cyangwa igihombo"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Mugutangaza ubujura, igikoresho cyawe kizahita gifungwa kandi imenyesha "
+"ryoherejwe."
+
+msgid "Appareil concerné"
+msgstr "Igikoresho cyanduye"
+
+msgid "Sélectionner un appareil"
+msgstr "Hitamo igikoresho"
+
+msgid "Type d'alerte"
+msgstr "Ubwoko bw'imenyesha"
+
+msgid "Décrivez les circonstances..."
+msgstr "Sobanura uko ibintu bimeze ..."
+
+msgid "Annuler"
+msgstr "Kureka"
+
+msgid "Signaler"
+msgstr "Raporo"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Sisitemu Yubwenge Kurwanya Ubujura - Urubuga rwumutekano kuri terefone"
+
+msgid "Système Anti-Vol"
+msgstr "Sisitemu yo Kurwanya Ubujura"
+
+msgid "PRINCIPAL"
+msgstr "INGINGO"
+
+msgid "Tableau de bord"
+msgstr "Ikibaho"
+
+msgid "SÉCURITÉ"
+msgstr "UMUTEKANO"
+
+msgid "Géolocalisation"
+msgstr "Geolocation"
+
+msgid "ADMINISTRATION"
+msgstr "UBUYOBOZI"
+
+msgid "Déconnexion"
+msgstr "Guhagarika"
+
+msgid "Changer de langue"
+msgstr "Hindura imvugo"
+
+msgid "Rechercher une langue..."
+msgstr "Shakisha ururimi ..."
+
+msgid "Profil"
+msgstr "Umwirondoro"
+
+msgid "Changer de thème"
+msgstr "Hindura insanganyamatsiko"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Incamake yumutekano wibikoresho byawe"
+
+msgid "Ajouter un appareil"
+msgstr "Ongeramo igikoresho"
+
+msgid "Appareils volés"
+msgstr "Ibikoresho byibwe"
+
+msgid "Verrouillés à distance"
+msgstr "Ifunze kure"
+
+msgid "Alertes récentes"
+msgstr "Imenyesha rya vuba"
+
+msgid "Voir tout"
+msgstr "Reba byose"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Nta nteguza. Ibikoresho byawe bifite umutekano!"
+
+msgid "Mes appareils"
+msgstr "Ibikoresho byanjye"
+
+msgid "Aucun appareil enregistré"
+msgstr "Nta bikoresho byanditse"
+
+msgid "Ajouter"
+msgstr "Ongeraho"
+
+msgid "en attente"
+msgstr "guhagarara"
+
+msgid "Gestion des appareils"
+msgstr "Gucunga ibikoresho"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Iyandikishe kandi ucunge amaterefone yawe"
+
+msgid "Opérateur"
+msgstr "Umukoresha"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Funga iki gikoresho kure?"
+
+msgid "Verrouiller"
+msgstr "Funga"
+
+msgid "Déverrouiller"
+msgstr "Fungura"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Siba iki gikoresho?"
+
+msgid "Supprimer"
+msgstr "DELETE"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Ongeraho terefone yawe yambere kugirango utangire kuyirinda."
+
+msgid "Nouvel appareil"
+msgstr "Igikoresho gishya"
+
+msgid "Marque"
+msgstr "Ikirango"
+
+msgid "Sélectionner"
+msgstr "Hitamo"
+
+msgid "Autre"
+msgstr "Ibindi"
+
+msgid "Modèle"
+msgstr "Icyitegererezo"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "andika * # 06 # kuri terefone yawe"
+
+msgid "Système d'exploitation"
+msgstr "Sisitemu y'imikorere"
+
+msgid "Numéro de téléphone"
+msgstr "Numero ya terefone"
+
+msgid "Enregistrer"
+msgstr "Bika"
+
+msgid "Connexion"
+msgstr "Kwihuza"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sisitemu yumutekano ya terefone"
+
+msgid "Adresse email"
+msgstr "Aderesi ya imeri"
+
+msgid "Mot de passe"
+msgstr "Ijambobanga"
+
+msgid "Se connecter"
+msgstr "Injira"
+
+msgid "Mot de passe oublié ?"
+msgstr "Ijambobanga ryibagiwe?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Ufite konti? Bitabaye ibyo, komeza ukore konti yawe!"
+
+msgid "Créer un compte"
+msgstr "Kora konti"
+
+msgid "Sécurité maximale"
+msgstr "Umutekano ntarengwa"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Rinda amakuru yawe wenyine hamwe no gufunga kure"
+
+msgid "Localisation GPS"
+msgstr "Ikibanza cya GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Shakisha ahantu nyaburanga terefone yawe mugihe nyacyo"
+
+msgid "Alertes instantanées"
+msgstr "Kumenyesha ako kanya"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Akira SMS, imeri no gusunika imenyesha mugihe habaye ubujura"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Shakisha ibikoresho byawe kandi wiyumvire ahantu hashobora kwibasirwa"
+
+msgid "Aucun appareil"
+msgstr "Nta gikoresho"
+
+msgid "Zones à risque"
+msgstr "Ahantu hashobora kwibasirwa"
+
+msgid "incidents"
+msgstr "ibyabaye"
+
+msgid "Aucune zone signalée"
+msgstr "Nta gace kavuzwe"
+
+msgid "Niveau"
+msgstr "Urwego"
+
+msgid "Incidents"
+msgstr "Ibyabaye"
+
+msgid "Profile utilisateur"
+msgstr "Umwirondoro wabakoresha"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Gucunga amakuru yawe bwite"
+
+msgid "Membre depuis"
+msgstr "Umunyamuryango kuva"
+
+msgid "Modifier mes informations"
+msgstr "Hindura amakuru yanjye"
+
+msgid "Prénom"
+msgstr "Izina ryambere"
+
+msgid "Nom"
+msgstr "Izina"
+
+msgid "Changer le mot de passe"
+msgstr "Hindura ijambo ryibanga"
+
+msgid "Nouveau mot de passe"
+msgstr "Ijambobanga Rishya"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "usige ubusa kugirango udahinduka"
+
+msgid "Enregistrer les modifications"
+msgstr "Bika impinduka"
+
+msgid "Inscription"
+msgstr "Kwiyandikisha"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Murakaza neza Kurwanya Ubujura kubwumutekano mwiza wibikoresho byawe"
+
+msgid "Confirmer"
+msgstr "Emeza"
+
+msgid "Créer mon compte"
+msgstr "Kora konti yanjye"
+
+msgid "Déjà un compte ?"
+msgstr "Ufite konti?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Ongera usubize ijambo ryibanga"
+
+msgid "Réinitialisation"
+msgstr "Gusubiramo"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Injira imeri yawe na numero ya terefone kugirango umenye umwirondoro wawe"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Umubare wakoreshejwe mugihe cyo kwiyandikisha"
+
+msgid "Minimum 6 caractères"
+msgstr "Nibura inyuguti 6"
+
+msgid "Confirmer le mot de passe"
+msgstr "Emeza ijambo ryibanga"
+
+msgid "Retourner à la"
+msgstr "Garuka kuri"
+
+msgid "page de connexion"
+msgstr "urupapuro rwinjira"
+
+msgid "Vérification sécurisée"
+msgstr "Kugenzura neza"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Indangamuntu yawe igenzurwa ukoresheje imeri yawe na numero ya terefone"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Hitamo ijambo ryibanga ryizewe byibuze inyuguti 6"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{umwanditsi}: Guhindura byarananiranye"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{umwanditsi}: Guhindura byananiranye: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Ikosa rya Windows: {ikosa}"
+
+msgid "deprecated"
+msgstr "gutesha agaciro"
+
+msgid "Options"
+msgstr "Amahitamo"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Kubona ibitekerezo bitunguranye ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"Gutesha agaciroIburira: itegeko {izina! R} ryataye agaciro. "
+"{Extra_message}"
+
+msgid "Aborted!"
+msgstr "Yakuweho!"
+
+msgid "Commands"
+msgstr "Amabwiriza"
+
+msgid "Missing command."
+msgstr "Kubura itegeko."
+
+msgid "Value must be an iterable."
+msgstr "Agaciro kagomba kuba gisubirwamo."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Ifata {nargs} indangagaciro ariko 1 yatanzwe."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Gutesha agaciro Umuburo: {param_type} {izina! R} itaye agaciro. "
+"{Extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Izina '{izina}' ryasobanuwe kabiri"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Ihitamo rya Boolean {decl! R} ntishobora gukoresha ibendera rimwe kwukuri"
+" / ibinyoma."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Ntushobora kumenya izina ryamahitamo hamwe namatangazo {decls! R}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Nta mahitamo yasobanuwe ariko izina ryatsinzwe ({izina}). Washakaga "
+"kuvuga impaka aho? Washakaga kuvuga '- {izina}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "Mburabuzi: {Mburabuzi}"
+
+msgid "required"
+msgstr "bisabwa"
+
+msgid "(dynamic)"
+msgstr "(dinamike)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Impaka zifata neza ikintu kimwe cyerekana, cyabonye {uburebure}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Urashaka gukomeza?"
+
+msgid "Confirm the action without prompting."
+msgstr "Emeza ibikorwa utabigusabye."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "% (prog) s, verisiyo% (verisiyo) s"
+
+msgid "Show the version and exit."
+msgstr "Erekana verisiyo hanyuma usohoke."
+
+msgid "Show this message and exit."
+msgstr "Erekana ubu butumwa hanyuma usohoke."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Washakaga kuvuga {ibishoboka}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Ikosa: {ubutumwa}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Gerageza '{itegeko} {ihitamo}' kugirango ubafashe."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Agaciro katemewe: {ubutumwa}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Agaciro katemewe kuri {param_hint}: {ubutumwa}"
+
+msgid "Missing argument"
+msgstr "Kubura impaka"
+
+msgid "Missing option"
+msgstr "Guhitamo"
+
+msgid "Missing parameter"
+msgstr "Kubura ibipimo"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Kubura {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Kubura ibipimo: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Nta buryo nk'ubwo {izina! R}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Nta tegeko nk'iryo {izina! R}."
+
+msgid "unknown error"
+msgstr "ikosa ritazwi"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Ntushobora gufungura dosiye {filename! R}: {ubutumwa}"
+
+msgid "Usage:"
+msgstr "Koresha:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Imyitozo yo gutangira itemewe kumahitamo ({amahitamo})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Impaka {izina! R} ifata {nargs} indangagaciro."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Ihitamo {izina! R} ntabwo rifata agaciro."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Ihitamo {izina! R} bisaba impaka."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Igikonoshwa cyuzuye ntabwo gishyigikiwe na Bash verisiyo irenga 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Ntushobora kumenya verisiyo ya Bash, kurangiza shell ntabwo ishyigikiwe."
+
+msgid "Repeat for confirmation"
+msgstr "Subiramo kugirango wemeze"
+
+msgid "Error: The two entered values do not match."
+msgstr "Ikosa: Byombi byinjijwe ntabwo bihuye."
+
+msgid "Error: invalid input"
+msgstr "Ikosa: ibyinjijwe bitemewe"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Ibara ritazwi {ibara! R}"
+
+msgid "Press any key to continue..."
+msgstr "Kanda urufunguzo urwo arirwo rwose kugirango ukomeze ..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Hitamo muri: \\ n \\ t {guhitamo}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "agaciro! r} ntabwo {guhitamo}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Guhitamo ({guhitamo})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "agaciro! r} ntabwo ihuye nimiterere {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "agaciro! r} ntabwo byemewe {umubare_ubwoko}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "agaciro} ntabwo iri murwego {urwego}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "agaciro! r} ntabwo ari boolean yemewe. Indangagaciro zizwi: {leta}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "agaciro! r} ntabwo ari UUID yemewe."
+
+msgid "file"
+msgstr "dosiye"
+
+msgid "directory"
+msgstr "ububiko"
+
+msgid "path"
+msgstr "inzira"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "izina} {izina ryizina! r} ntiribaho."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "izina} {filename! r} ni dosiye."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "izina} {filename! r} ni ububiko."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "izina} {filename! r} ntabwo isomeka."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "izina} {izina ryizina! r} ntabwo ryandikwa."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "izina} {filename! r} ntabwo bikorwa."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} indangagaciro zirakenewe, ariko {len_gaciro} yatanzwe."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Inzira isanzwe itazwi '{izina}'"
+
+msgid "This field is required."
+msgstr "Uyu murima urakenewe."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Idosiye ntabwo ifite umugereka wemewe: {kwagura}"
+
+msgid "File does not have an approved extension."
+msgstr "Idosiye ntabwo ifite umugereka wemewe."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Idosiye igomba kuba hagati ya {min_size} na {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Izina ryumwanya utemewe '% s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Umwanya ugomba kuba uhwanye na% (andi_izina) s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Umwanya ugomba kuba byibuze% (min) d inyuguti ndende."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Umwanya ntushobora kurenza% (max) d inyuguti."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Umwanya ugomba kuba rwose% (max) d inyuguti ndende."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Umwanya ugomba kuba hagati ya% (min) d na% (max) d inyuguti ndende."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Umubare ugomba kuba byibuze% (min) s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Umubare ugomba kuba kuri byinshi% (max) s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Umubare ugomba kuba hagati ya% (min) s na% (max) s."
+
+msgid "Invalid input."
+msgstr "Iyinjiza ritemewe."
+
+msgid "Invalid email address."
+msgstr "Aderesi imeri itemewe."
+
+msgid "Invalid IP address."
+msgstr "Aderesi ya IP itemewe."
+
+msgid "Invalid Mac address."
+msgstr "Aderesi ya Mac itemewe."
+
+msgid "Invalid URL."
+msgstr "URL itemewe."
+
+msgid "Invalid UUID."
+msgstr "UUID itemewe."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Agaciro katemewe, kagomba kuba umwe muri:% (indangagaciro) s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Agaciro katemewe, ntigashobora kuba na kimwe muri:% (indangagaciro) s."
+
+msgid "This field cannot be edited."
+msgstr "Uyu murima ntushobora guhindurwa."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Uyu murima urahagaritswe kandi ntushobora kugira agaciro."
+
+msgid "Invalid CSRF Token."
+msgstr "CSRF itemewe."
+
+msgid "CSRF token missing."
+msgstr "Ikimenyetso cya CSRF cyabuze."
+
+msgid "CSRF failed."
+msgstr "CSRF yananiwe."
+
+msgid "CSRF token expired."
+msgstr "Ikimenyetso cya CSRF cyararangiye."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Guhitamo bitemewe: ntibishobora guhatira."
+
+msgid "Choices cannot be None."
+msgstr "Guhitamo ntibishobora."
+
+msgid "Not a valid choice."
+msgstr "Ntabwo ari amahitamo yemewe."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Guhitamo bitemewe: kimwe cyangwa byinshi byinjira byinjira ntibishobora "
+"guhatirwa."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'% (agaciro) s' ntabwo ari amahitamo yemewe kuri uyu murima."
+
+msgid "Not a valid datetime value."
+msgstr "Ntabwo agaciro kemewe."
+
+msgid "Not a valid date value."
+msgstr "Ntabwo ari itariki yemewe."
+
+msgid "Not a valid time value."
+msgstr "Ntabwo ari igihe cyemewe."
+
+msgid "Not a valid week value."
+msgstr "Ntabwo ari icyumweru cyemewe."
+
+msgid "Not a valid integer value."
+msgstr "Ntabwo ari agaciro keza."
+
+msgid "Not a valid decimal value."
+msgstr "Ntabwo agaciro kemewe."
+
+msgid "Not a valid float value."
+msgstr "Ntabwo agaciro kareremba."
+

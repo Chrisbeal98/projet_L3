@@ -1,0 +1,1048 @@
+# Translations for ALS.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: als\n"
+"Language-Team: als <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Ju lutemi identifikohuni për të hyrë në këtë faqe."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Ky IMEI është i regjistruar tashmë në sistem."
+
+msgid "Accès non autorisé."
+msgstr "Qasje e paautorizuar."
+
+msgid "Appareil déverrouillé."
+msgstr "Pajisja u shkyç."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alarmi u krijua! Njoftimet u dërguan."
+
+msgid "Alerte résolue."
+msgstr "Alarmi u zgjidh."
+
+msgid "Pas encore de compte ?"
+msgstr "Nuk ka ende llogari?"
+
+msgid "Mon Profil"
+msgstr "Profili im"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Lidhja e suksesshme! Mirë se vini."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email ose fjalëkalim i pasaktë."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Të gjitha fushat e kërkuara duhet të plotësohen."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Fjalëkalimet nuk përputhen."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Fjalëkalimi duhet të përmbajë të paktën 6 karaktere."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Ky email është tashmë në përdorim."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Llogaria u krijua me sukses! Identifikohu."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Nuk u gjet asnjë llogari me këtë email."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Numri i telefonit nuk përputhet me numrin e llogarisë."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Fjalëkalimi i ri është i detyrueshëm."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Rivendosja e fjalëkalimit me sukses! Identifikohu."
+
+msgid "Vous avez été déconnecté."
+msgstr "Ju jeni shkëputur."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Kërkohet marka, modeli dhe IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Një pajisje me këtë IMEI ekziston tashmë."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Pajisja u regjistrua me sukses!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Ju nuk jeni të autorizuar për të kryer këtë veprim."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Pajisja u kyç me sukses nga distanca."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Pajisja u shkyç me sukses."
+
+msgid "Appareil supprimé."
+msgstr "Pajisja u fshi."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Ju lutemi zgjidhni një pajisje dhe lloj sinjalizimi."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Kjo pajisje nuk ju përket juve."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alarmi u raportua me sukses. Pajisja është siguruar."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alarmi u shënua si i zgjidhur."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Kërkohet emri, mbiemri dhe emaili."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Ky email përdoret tashmë nga një llogari tjetër."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profili u përditësua me sukses!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Qasja është e rezervuar për administratorët."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Gabim u shënua si i zgjidhur."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Ju nuk mund të fshini llogarinë tuaj."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Përdoruesi u fshi me sukses."
+
+msgid "Administration"
+msgstr "Administrata"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Menaxhimi i centralizuar i sistemit Anti-Vjedhje"
+
+msgid "Utilisateurs"
+msgstr "Përdoruesit"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktiv sot"
+
+msgid "Nouveaux ce mois"
+msgstr "E re këtë muaj"
+
+msgid "Appareils"
+msgstr "Pajisjet"
+
+msgid "Alertes actives"
+msgstr "Sinjalizime aktive"
+
+msgid "Analytique"
+msgstr "Analitike"
+
+msgid "Journal d'activité"
+msgstr "Regjistri i aktiviteteve"
+
+msgid "Erreurs"
+msgstr "Gabimet"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Lidhjet (7 ditët e fundit)"
+
+msgid "Alertes par type"
+msgstr "Alarmet sipas llojit"
+
+msgid "Appareils par opérateur"
+msgstr "Pajisjet sipas operatorit"
+
+msgid "Résumé du système"
+msgstr "Përmbledhja e sistemit"
+
+msgid "Utilisateurs total"
+msgstr "Totali i përdoruesve"
+
+msgid "Appareils enregistrés"
+msgstr "Pajisjet e regjistruara"
+
+msgid "Total alertes"
+msgstr "Sinjalizimet totale"
+
+msgid "Alertes en cours"
+msgstr "Sinjalizimet aktuale"
+
+msgid "Erreurs non résolues"
+msgstr "Gabime të pazgjidhura"
+
+msgid "Dernières activités"
+msgstr "Aktivitetet e fundit"
+
+msgid "récentes"
+msgstr "e fundit"
+
+msgid "Utilisateur"
+msgstr "Përdoruesi"
+
+msgid "Action"
+msgstr "Veprimi"
+
+msgid "Détails"
+msgstr "Detajet"
+
+msgid "Adresse IP"
+msgstr "Adresa IP"
+
+msgid "Navigateur"
+msgstr "Shfletuesi"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Aucune activité"
+msgstr "Asnjë aktivitet"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Aktivitetet e përdoruesit do të shfaqen këtu."
+
+msgid "Journal d'erreurs"
+msgstr "Regjistri i gabimeve"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Të rregullohen të gjitha gabimet?"
+
+msgid "Tout résoudre"
+msgstr "Zgjidh gjithçka"
+
+msgid "non résolues"
+msgstr "e pazgjidhur"
+
+msgid "Tout est résolu"
+msgstr "Gjithçka është zgjidhur"
+
+msgid "Type"
+msgstr "E sjellshme"
+
+msgid "Description"
+msgstr "Përshkrimi"
+
+msgid "Statut"
+msgstr "Statusi"
+
+msgid "Résolu"
+msgstr "E zgjidhur"
+
+msgid "Non résolu"
+msgstr "E pazgjidhur"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Nuk u regjistruan asnjë gabim"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sistemi po funksionon si duhet."
+
+msgid "Gestion des utilisateurs"
+msgstr "Menaxhimi i përdoruesit"
+
+msgid "comptes"
+msgstr "llogaritë"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telefoni"
+
+msgid "Rôle"
+msgstr "Roli"
+
+msgid "Inscrit le"
+msgstr "Regjistruar në"
+
+msgid "Actions"
+msgstr "Veprimet"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Të fshihet ky përdorues dhe të gjitha pajisjet e tij?"
+
+msgid "Vous"
+msgstr "JU"
+
+msgid "Connexions"
+msgstr "Lidhjet"
+
+msgid "Vol"
+msgstr "Fluturimi"
+
+msgid "Perte"
+msgstr "Humbje"
+
+msgid "Anomalie"
+msgstr "Anomali"
+
+msgid "Alertes"
+msgstr "Alarmet"
+
+msgid "Gestion des alertes"
+msgstr "Menaxhimi i alarmit"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Raportoni vjedhjen ose humbjen dhe gjurmoni historinë"
+
+msgid "Signaler un vol / perte"
+msgstr "Raportoni vjedhjen/humbjen"
+
+msgid "En cours"
+msgstr "Në vazhdim"
+
+msgid "Résolues"
+msgstr "E zgjidhur"
+
+msgid "Historique des alertes"
+msgstr "Historia e alarmit"
+
+msgid "Appareil"
+msgstr "Pajisja"
+
+msgid "Priorité"
+msgstr "Prioriteti"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Të shënohet ky alarm si i zgjidhur?"
+
+msgid "Résoudre"
+msgstr "Zgjidheni"
+
+msgid "Aucune alerte"
+msgstr "Asnjë alarm"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Lajm i mirë! Nuk është raportuar asnjë alarm."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Raportoni vjedhjen ose humbjen"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Duke raportuar një vjedhje, pajisja juaj do të kyçet automatikisht dhe do"
+" të dërgohen njoftime."
+
+msgid "Appareil concerné"
+msgstr "Pajisja e prekur"
+
+msgid "Sélectionner un appareil"
+msgstr "Zgjidhni një pajisje"
+
+msgid "Type d'alerte"
+msgstr "Lloji i alarmit"
+
+msgid "Décrivez les circonstances..."
+msgstr "Përshkruani rrethanat..."
+
+msgid "Annuler"
+msgstr "Anulo"
+
+msgid "Signaler"
+msgstr "Raportoni"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Sistemi inteligjent kundër vjedhjes — Platformë sigurie për telefonat "
+"inteligjentë"
+
+msgid "Système Anti-Vol"
+msgstr "Sistemi kundër vjedhjes"
+
+msgid "PRINCIPAL"
+msgstr "KRYESORE"
+
+msgid "Tableau de bord"
+msgstr "Paneli"
+
+msgid "SÉCURITÉ"
+msgstr "SIGURIA"
+
+msgid "Géolocalisation"
+msgstr "Gjeolokimi"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRATA"
+
+msgid "Déconnexion"
+msgstr "Shkëputeni"
+
+msgid "Changer de langue"
+msgstr "Ndrysho gjuhën"
+
+msgid "Rechercher une langue..."
+msgstr "Kërkoni një gjuhë..."
+
+msgid "Profil"
+msgstr "Profili"
+
+msgid "Changer de thème"
+msgstr "Ndrysho temën"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Pasqyrë e sigurisë së pajisjes suaj"
+
+msgid "Ajouter un appareil"
+msgstr "Shto një pajisje"
+
+msgid "Appareils volés"
+msgstr "Pajisjet e vjedhura"
+
+msgid "Verrouillés à distance"
+msgstr "E kyçur nga distanca"
+
+msgid "Alertes récentes"
+msgstr "Alarmet e fundit"
+
+msgid "Voir tout"
+msgstr "Shihni të gjitha"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Asnjë alarm. Pajisjet tuaja janë të sigurta!"
+
+msgid "Mes appareils"
+msgstr "Pajisjet e mia"
+
+msgid "Aucun appareil enregistré"
+msgstr "Asnjë pajisje e regjistruar"
+
+msgid "Ajouter"
+msgstr "Shtoni"
+
+msgid "en attente"
+msgstr "në pritje"
+
+msgid "Gestion des appareils"
+msgstr "Menaxhimi i pajisjes"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Regjistrohuni dhe menaxhoni smartfonët tuaj"
+
+msgid "Opérateur"
+msgstr "Operatori"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Të kyçet kjo pajisje nga distanca?"
+
+msgid "Verrouiller"
+msgstr "Kyç"
+
+msgid "Déverrouiller"
+msgstr "Zhblloko"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Të fshihet kjo pajisje?"
+
+msgid "Supprimer"
+msgstr "FSHIJE"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Shtoni smartfonin tuaj të parë për të filluar ta mbroni atë."
+
+msgid "Nouvel appareil"
+msgstr "Pajisja e re"
+
+msgid "Marque"
+msgstr "Markë"
+
+msgid "Sélectionner"
+msgstr "Zgjidhni"
+
+msgid "Autre"
+msgstr "Të tjera"
+
+msgid "Modèle"
+msgstr "Model"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "shkruani *#06# në telefonin tuaj"
+
+msgid "Système d'exploitation"
+msgstr "Sistemi operativ"
+
+msgid "Numéro de téléphone"
+msgstr "Numri i telefonit"
+
+msgid "Enregistrer"
+msgstr "Ruaj"
+
+msgid "Connexion"
+msgstr "Lidhja"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistemi i sigurisë së smartfonëve"
+
+msgid "Adresse email"
+msgstr "Adresa e postës elektronike"
+
+msgid "Mot de passe"
+msgstr "Fjalëkalimi"
+
+msgid "Se connecter"
+msgstr "Identifikohu"
+
+msgid "Mot de passe oublié ?"
+msgstr "Keni harruar fjalëkalimin?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "A keni tashmë një llogari? Përndryshe, vazhdoni të krijoni llogarinë tuaj!"
+
+msgid "Créer un compte"
+msgstr "Krijo një llogari"
+
+msgid "Sécurité maximale"
+msgstr "Siguria maksimale"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Mbroni të dhënat tuaja personale me kyçje në distancë"
+
+msgid "Localisation GPS"
+msgstr "Vendndodhja GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Gjeni vendndodhjen e saktë të smartphone tuaj në kohë reale"
+
+msgid "Alertes instantanées"
+msgstr "Sinjalizime të menjëhershme"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Merrni SMS, email dhe njoftime push në rast vjedhjeje"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Gjeni pajisjet tuaja dhe vizualizoni zonat e rrezikut"
+
+msgid "Aucun appareil"
+msgstr "Asnjë pajisje"
+
+msgid "Zones à risque"
+msgstr "Zonat e rrezikut"
+
+msgid "incidents"
+msgstr "incidentet"
+
+msgid "Aucune zone signalée"
+msgstr "Asnjë zonë nuk raportohet"
+
+msgid "Niveau"
+msgstr "Niveli"
+
+msgid "Incidents"
+msgstr "Incidentet"
+
+msgid "Profile utilisateur"
+msgstr "Profili i përdoruesit"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Menaxhoni informacionin tuaj personal"
+
+msgid "Membre depuis"
+msgstr "Anëtar që nga"
+
+msgid "Modifier mes informations"
+msgstr "Redakto informacionin tim"
+
+msgid "Prénom"
+msgstr "Emri i parë"
+
+msgid "Nom"
+msgstr "Emri"
+
+msgid "Changer le mot de passe"
+msgstr "Ndrysho fjalëkalimin"
+
+msgid "Nouveau mot de passe"
+msgstr "Fjalëkalim i ri"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "lëreni bosh për të mos ndryshuar"
+
+msgid "Enregistrer les modifications"
+msgstr "Ruaj ndryshimet"
+
+msgid "Inscription"
+msgstr "Regjistrimi"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Mirë se vini në Anti-Theft për siguri më të mirë të pajisjeve tuaja"
+
+msgid "Confirmer"
+msgstr "Konfirmo"
+
+msgid "Créer mon compte"
+msgstr "Krijo llogarinë time"
+
+msgid "Déjà un compte ?"
+msgstr "Keni tashmë një llogari?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Rivendos fjalëkalimin"
+
+msgid "Réinitialisation"
+msgstr "Rivendos"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Futni emailin dhe numrin tuaj të telefonit për të verifikuar identitetin "
+"tuaj"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Numri i përdorur gjatë regjistrimit"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimumi 6 karaktere"
+
+msgid "Confirmer le mot de passe"
+msgstr "Konfirmo fjalëkalimin"
+
+msgid "Retourner à la"
+msgstr "Kthehu në"
+
+msgid "page de connexion"
+msgstr "faqja e hyrjes"
+
+msgid "Vérification sécurisée"
+msgstr "Verifikimi i sigurt"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Identiteti juaj verifikohet duke përdorur emailin dhe numrin tuaj të "
+"telefonit"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Zgjidhni një fjalëkalim të sigurt me të paktën 6 karaktere"
+
+msgid "d"
+msgstr "dejtingsajt d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{redaktori}: Redaktimi dështoi"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Redaktimi dështoi: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Gabim i Windows: {gabim}"
+
+msgid "deprecated"
+msgstr "i zhvlerësuar"
+
+msgid "Options"
+msgstr "Opsionet"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Mori argument shtesë të papritur ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Komanda {name!r} është e vjetëruar.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Abortuar!"
+
+msgid "Commands"
+msgstr "Komandat"
+
+msgid "Missing command."
+msgstr "Mungon komanda."
+
+msgid "Value must be an iterable."
+msgstr "Vlera duhet të jetë e përsëritur."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Merr vlerat {nargs} por u dha 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Vërejtje Paralajmërim: {param_type} {name!r} është "
+"vjetëruar.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Emri '{name}' është përcaktuar dy herë"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Opsioni Boolean {decl!r} nuk mund të përdorë të njëjtin flamur për "
+"true/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Nuk mund të përcaktohej emri për opsionin me deklaratat {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Nuk u përcaktuan asnjë opsion, por u kalua një emër ({name}). A doje të "
+"deklaroje një argument në vend të kësaj? Keni dashur të kaloni "
+"'--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "vAR ENV: (VAR)"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "e paracaktuar: {default}"
+
+msgid "required"
+msgstr "kërkohet"
+
+msgid "(dynamic)"
+msgstr "(dinamik)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumentet marrin saktësisht një deklaratë parametri, mori {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Dëshironi të vazhdoni?"
+
+msgid "Confirm the action without prompting."
+msgstr "Konfirmoni veprimin pa kërkuar."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, versioni %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Shfaq versionin dhe dil."
+
+msgid "Show this message and exit."
+msgstr "Shfaq këtë mesazh dhe dil."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "E kishe fjalën për {mundësi}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Gabim: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Provoni '{command} {option}' për ndihmë."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Vlera e pavlefshme: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Vlera e pavlefshme për {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Mungon argumenti"
+
+msgid "Missing option"
+msgstr "Mungon opsioni"
+
+msgid "Missing parameter"
+msgstr "Mungon parametri"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Mungon {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Mungon parametri: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Nuk ka opsion të tillë {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Nuk ka komandë të tillë {name!r}."
+
+msgid "unknown error"
+msgstr "gabim i panjohur"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Skedari {filename!r} nuk mund të hapej: {message}"
+
+msgid "Usage:"
+msgstr "Përdorimi:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Karakter fillestar i pavlefshëm për opsionin ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumenti {name!r} merr vlera {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Opsioni {name!r} nuk merr një vlerë."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Opsioni {name!r} kërkon një argument."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Përfundimi i shell nuk mbështetet për versionet e Bash më të vjetra se "
+"4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Versioni i Bash nuk mund të zbulohej, plotësimi i guaskës nuk mbështetet."
+
+msgid "Repeat for confirmation"
+msgstr "Përsëriteni për konfirmim"
+
+msgid "Error: The two entered values do not match."
+msgstr "Gabim: Dy vlerat e futura nuk përputhen."
+
+msgid "Error: invalid input"
+msgstr "Gabim: hyrje e pavlefshme"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Ngjyra e panjohur {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Shtypni çdo buton për të vazhduar..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Zgjidhni nga:\\n\\t{zgjedhjet}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} nuk është {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Zgjedhja ({zgjedhjet})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} nuk përputhet me formatin {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} nuk është një {number_type} i vlefshëm."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} nuk është në intervalin {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} nuk është një boolean i vlefshëm. Vlerat e njohura: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} nuk është një UUID e vlefshme."
+
+msgid "file"
+msgstr "dosje"
+
+msgid "directory"
+msgstr "drejtoria"
+
+msgid "path"
+msgstr "shteg"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} nuk ekziston."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} është një skedar."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} është një direktori."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} nuk lexohet."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} nuk mund të shkruhet."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} nuk është i ekzekutueshëm."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Kërkohen vlera {len_type}, por u dha {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Transmetim standard i panjohur \"{name}\""
+
+msgid "This field is required."
+msgstr "Kjo fushë është e nevojshme."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Skedari nuk ka një shtesë të miratuar: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Skedari nuk ka një shtesë të miratuar."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Skedari duhet të jetë ndërmjet {min_size} dhe {max_size} byte."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Emri i pavlefshëm i fushës '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Fusha duhet të jetë e barabartë me %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Fusha duhet të jetë e gjatë të paktën %(min)d karakter."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Fusha nuk mund të jetë më e gjatë se %(max)d karakter."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Fusha duhet të jetë saktësisht %(max)d e gjatë."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Fusha duhet të jetë e gjatë ndërmjet %(min)d dhe %(max)d karaktereve."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Numri duhet të jetë të paktën %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Numri duhet të jetë maksimumi %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Numri duhet të jetë ndërmjet %(min)s dhe %(maks)s."
+
+msgid "Invalid input."
+msgstr "Hyrja e pavlefshme."
+
+msgid "Invalid email address."
+msgstr "Adresë e pavlefshme emaili."
+
+msgid "Invalid IP address."
+msgstr "Adresa IP e pavlefshme."
+
+msgid "Invalid Mac address."
+msgstr "Adresa e pavlefshme Mac."
+
+msgid "Invalid URL."
+msgstr "URL e pavlefshme."
+
+msgid "Invalid UUID."
+msgstr "UUID e pavlefshme."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Vlera e pavlefshme, duhet të jetë një nga: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Vlera e pavlefshme, nuk mund të jetë asnjë nga: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Kjo fushë nuk mund të modifikohet."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Kjo fushë është e çaktivizuar dhe nuk mund të ketë vlerë."
+
+msgid "Invalid CSRF Token."
+msgstr "Shenja CSRF e pavlefshme."
+
+msgid "CSRF token missing."
+msgstr "Mungon token CSRF."
+
+msgid "CSRF failed."
+msgstr "CSRF dështoi."
+
+msgid "CSRF token expired."
+msgstr "Shenja CSRF ka skaduar."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Zgjedhja e pavlefshme: nuk mund të detyrohej."
+
+msgid "Choices cannot be None."
+msgstr "Zgjedhjet nuk mund të jenë Asnjë."
+
+msgid "Not a valid choice."
+msgstr "Nuk është një zgjedhje e vlefshme."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Zgjedhje(at) e pavlefshme: një ose më shumë hyrje të dhënash nuk mund të "
+"detyroheshin."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' nuk është një zgjedhje e vlefshme për këtë fushë."
+
+msgid "Not a valid datetime value."
+msgstr "Nuk është një vlerë e vlefshme e datës."
+
+msgid "Not a valid date value."
+msgstr "Nuk është një vlerë e vlefshme e datës."
+
+msgid "Not a valid time value."
+msgstr "Nuk është një vlerë kohore e vlefshme."
+
+msgid "Not a valid week value."
+msgstr "Vlera jo e vlefshme e javës."
+
+msgid "Not a valid integer value."
+msgstr "Nuk është një vlerë e plotë e vlefshme."
+
+msgid "Not a valid decimal value."
+msgstr "Nuk është një vlerë dhjetore e vlefshme."
+
+msgid "Not a valid float value."
+msgstr "Nuk është një vlerë e vlefshme notuese."
+

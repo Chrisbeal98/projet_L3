@@ -1,0 +1,1042 @@
+# Translations for ID.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: id\n"
+"Language-Team: id <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Silakan masuk untuk mengakses halaman ini."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "IMEI ini sudah terdaftar di sistem."
+
+msgid "Accès non autorisé."
+msgstr "Akses tidak sah."
+
+msgid "Appareil déverrouillé."
+msgstr "Perangkat tidak terkunci."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Peringatan dibuat! Pemberitahuan terkirim."
+
+msgid "Alerte résolue."
+msgstr "Peringatan teratasi."
+
+msgid "Pas encore de compte ?"
+msgstr "Belum punya akun?"
+
+msgid "Mon Profil"
+msgstr "Profil Saya"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Koneksi berhasil! Selamat datang."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email atau kata sandi salah."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Semua bidang yang diperlukan harus diisi."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Kata sandi tidak cocok."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Kata sandi harus berisi minimal 6 karakter."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Email ini sudah digunakan."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Akun berhasil dibuat! Masuk."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Tidak ada akun yang ditemukan dengan email ini."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Nomor telepon tidak sesuai dengan nomor rekening."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Kata sandi baru adalah wajib."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Reset kata sandi berhasil! Masuk."
+
+msgid "Vous avez été déconnecté."
+msgstr "Anda telah terputus."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Merek, model, dan IMEI diperlukan."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Perangkat dengan IMEI ini sudah ada."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Perangkat berhasil didaftarkan!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Anda tidak berwenang untuk melakukan tindakan ini."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Perangkat berhasil dikunci dari jarak jauh."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Perangkat berhasil dibuka kuncinya."
+
+msgid "Appareil supprimé."
+msgstr "Perangkat dihapus."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Silakan pilih perangkat dan jenis peringatan."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Perangkat ini bukan milik Anda."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Peringatan berhasil dilaporkan. Perangkat telah diamankan."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Peringatan ditandai sebagai terselesaikan."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Nama depan, nama belakang, dan email wajib diisi."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Email ini sudah digunakan oleh akun lain."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil berhasil diperbarui!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Akses disediakan untuk administrator."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Kesalahan ditandai sebagai terselesaikan."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Anda tidak dapat menghapus akun Anda sendiri."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Pengguna berhasil dihapus."
+
+msgid "Administration"
+msgstr "Administrasi"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Manajemen terpusat dari sistem Anti-Pencurian"
+
+msgid "Utilisateurs"
+msgstr "Pengguna"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktif hari ini"
+
+msgid "Nouveaux ce mois"
+msgstr "Baru bulan ini"
+
+msgid "Appareils"
+msgstr "Perangkat"
+
+msgid "Alertes actives"
+msgstr "Peringatan aktif"
+
+msgid "Analytique"
+msgstr "Analitis"
+
+msgid "Journal d'activité"
+msgstr "Catatan aktivitas"
+
+msgid "Erreurs"
+msgstr "Kesalahan"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Koneksi (7 hari terakhir)"
+
+msgid "Alertes par type"
+msgstr "Peringatan berdasarkan jenis"
+
+msgid "Appareils par opérateur"
+msgstr "Perangkat menurut operator"
+
+msgid "Résumé du système"
+msgstr "Ringkasan Sistem"
+
+msgid "Utilisateurs total"
+msgstr "Jumlah pengguna"
+
+msgid "Appareils enregistrés"
+msgstr "Perangkat terdaftar"
+
+msgid "Total alertes"
+msgstr "Peringatan total"
+
+msgid "Alertes en cours"
+msgstr "Peringatan saat ini"
+
+msgid "Erreurs non résolues"
+msgstr "Kesalahan yang belum terselesaikan"
+
+msgid "Dernières activités"
+msgstr "Kegiatan terbaru"
+
+msgid "récentes"
+msgstr "terkini"
+
+msgid "Utilisateur"
+msgstr "Pengguna"
+
+msgid "Action"
+msgstr "Tindakan"
+
+msgid "Détails"
+msgstr "Detail"
+
+msgid "Adresse IP"
+msgstr "alamat IP"
+
+msgid "Navigateur"
+msgstr "Peramban"
+
+msgid "Date"
+msgstr "Tanggal"
+
+msgid "Aucune activité"
+msgstr "Tidak ada kegiatan"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Aktivitas pengguna akan muncul di sini."
+
+msgid "Journal d'erreurs"
+msgstr "Catatan kesalahan"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Perbaiki semua kesalahan?"
+
+msgid "Tout résoudre"
+msgstr "Selesaikan semuanya"
+
+msgid "non résolues"
+msgstr "belum terselesaikan"
+
+msgid "Tout est résolu"
+msgstr "Semuanya terpecahkan"
+
+msgid "Type"
+msgstr "Baik"
+
+msgid "Description"
+msgstr "Keterangan"
+
+msgid "Statut"
+msgstr "Status"
+
+msgid "Résolu"
+msgstr "Terselesaikan"
+
+msgid "Non résolu"
+msgstr "Belum terselesaikan"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Tidak ada kesalahan yang tercatat"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sistem berfungsi dengan baik."
+
+msgid "Gestion des utilisateurs"
+msgstr "Manajemen pengguna"
+
+msgid "comptes"
+msgstr "akun"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telepon"
+
+msgid "Rôle"
+msgstr "Peran"
+
+msgid "Inscrit le"
+msgstr "Terdaftar pada"
+
+msgid "Actions"
+msgstr "Tindakan"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Hapus pengguna ini dan semua perangkatnya?"
+
+msgid "Vous"
+msgstr "ANDA"
+
+msgid "Connexions"
+msgstr "Koneksi"
+
+msgid "Vol"
+msgstr "Penerbangan"
+
+msgid "Perte"
+msgstr "Kehilangan"
+
+msgid "Anomalie"
+msgstr "Anomali"
+
+msgid "Alertes"
+msgstr "Peringatan"
+
+msgid "Gestion des alertes"
+msgstr "Manajemen peringatan"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Laporkan pencurian atau kehilangan dan lacak riwayat"
+
+msgid "Signaler un vol / perte"
+msgstr "Laporkan pencurian/kehilangan"
+
+msgid "En cours"
+msgstr "Sedang berlangsung"
+
+msgid "Résolues"
+msgstr "Terselesaikan"
+
+msgid "Historique des alertes"
+msgstr "Riwayat Peringatan"
+
+msgid "Appareil"
+msgstr "Perangkat"
+
+msgid "Priorité"
+msgstr "Prioritas"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Tandai peringatan ini sebagai terselesaikan?"
+
+msgid "Résoudre"
+msgstr "Menyelesaikan"
+
+msgid "Aucune alerte"
+msgstr "Tidak ada peringatan"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Kabar baik! Tidak ada peringatan yang dilaporkan."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Laporkan pencurian atau kehilangan"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Dengan melaporkan pencurian, perangkat Anda akan terkunci secara otomatis"
+" dan pemberitahuan akan dikirimkan."
+
+msgid "Appareil concerné"
+msgstr "Perangkat yang terpengaruh"
+
+msgid "Sélectionner un appareil"
+msgstr "Pilih perangkat"
+
+msgid "Type d'alerte"
+msgstr "Jenis peringatan"
+
+msgid "Décrivez les circonstances..."
+msgstr "Jelaskan keadaan..."
+
+msgid "Annuler"
+msgstr "Membatalkan"
+
+msgid "Signaler"
+msgstr "Laporan"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Sistem Anti-Pencurian Cerdas — Platform keamanan untuk ponsel cerdas"
+
+msgid "Système Anti-Vol"
+msgstr "Sistem Anti Pencurian"
+
+msgid "PRINCIPAL"
+msgstr "UTAMA"
+
+msgid "Tableau de bord"
+msgstr "Dasbor"
+
+msgid "SÉCURITÉ"
+msgstr "KEAMANAN"
+
+msgid "Géolocalisation"
+msgstr "Geolokasi"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRASI"
+
+msgid "Déconnexion"
+msgstr "Memutuskan"
+
+msgid "Changer de langue"
+msgstr "Ubah bahasa"
+
+msgid "Rechercher une langue..."
+msgstr "Telusuri bahasa..."
+
+msgid "Profil"
+msgstr "Profil"
+
+msgid "Changer de thème"
+msgstr "Ubah tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Ikhtisar keamanan perangkat Anda"
+
+msgid "Ajouter un appareil"
+msgstr "Tambahkan perangkat"
+
+msgid "Appareils volés"
+msgstr "Perangkat yang dicuri"
+
+msgid "Verrouillés à distance"
+msgstr "Terkunci dari jarak jauh"
+
+msgid "Alertes récentes"
+msgstr "Peringatan terkini"
+
+msgid "Voir tout"
+msgstr "Lihat semuanya"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Tidak ada peringatan. Perangkat Anda aman!"
+
+msgid "Mes appareils"
+msgstr "Perangkat saya"
+
+msgid "Aucun appareil enregistré"
+msgstr "Tidak ada perangkat yang terdaftar"
+
+msgid "Ajouter"
+msgstr "Menambahkan"
+
+msgid "en attente"
+msgstr "ditahan"
+
+msgid "Gestion des appareils"
+msgstr "Manajemen perangkat"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Daftarkan dan kelola ponsel cerdas Anda"
+
+msgid "Opérateur"
+msgstr "Operator"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Kunci perangkat ini dari jarak jauh?"
+
+msgid "Verrouiller"
+msgstr "Kunci"
+
+msgid "Déverrouiller"
+msgstr "Membuka kunci"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Hapus perangkat ini?"
+
+msgid "Supprimer"
+msgstr "MENGHAPUS"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Tambahkan ponsel cerdas pertama Anda untuk mulai melindunginya."
+
+msgid "Nouvel appareil"
+msgstr "Perangkat baru"
+
+msgid "Marque"
+msgstr "Merek"
+
+msgid "Sélectionner"
+msgstr "Memilih"
+
+msgid "Autre"
+msgstr "Lainnya"
+
+msgid "Modèle"
+msgstr "Model"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "ketik *#06# di ponsel Anda"
+
+msgid "Système d'exploitation"
+msgstr "Sistem operasi"
+
+msgid "Numéro de téléphone"
+msgstr "Nomor telepon"
+
+msgid "Enregistrer"
+msgstr "Menyimpan"
+
+msgid "Connexion"
+msgstr "Koneksi"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistem keamanan ponsel cerdas"
+
+msgid "Adresse email"
+msgstr "Alamat email"
+
+msgid "Mot de passe"
+msgstr "Kata sandi"
+
+msgid "Se connecter"
+msgstr "Masuk"
+
+msgid "Mot de passe oublié ?"
+msgstr "Lupa kata sandi?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Apakah Anda sudah memiliki akun? Jika tidak, lanjutkan untuk membuat akun"
+" Anda!"
+
+msgid "Créer un compte"
+msgstr "Buat akun"
+
+msgid "Sécurité maximale"
+msgstr "Keamanan maksimal"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Lindungi data pribadi Anda dengan penguncian jarak jauh"
+
+msgid "Localisation GPS"
+msgstr "Lokasi GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Temukan lokasi pasti ponsel cerdas Anda secara real time"
+
+msgid "Alertes instantanées"
+msgstr "Peringatan instan"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Terima SMS, email, dan pemberitahuan push jika terjadi pencurian"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Temukan perangkat Anda dan visualisasikan area berisiko"
+
+msgid "Aucun appareil"
+msgstr "Tidak ada perangkat"
+
+msgid "Zones à risque"
+msgstr "Area risiko"
+
+msgid "incidents"
+msgstr "insiden"
+
+msgid "Aucune zone signalée"
+msgstr "Tidak ada area yang dilaporkan"
+
+msgid "Niveau"
+msgstr "Tingkat"
+
+msgid "Incidents"
+msgstr "Insiden"
+
+msgid "Profile utilisateur"
+msgstr "Profil pengguna"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Kelola informasi pribadi Anda"
+
+msgid "Membre depuis"
+msgstr "Anggota sejak itu"
+
+msgid "Modifier mes informations"
+msgstr "Edit informasi saya"
+
+msgid "Prénom"
+msgstr "Nama depan"
+
+msgid "Nom"
+msgstr "Nama"
+
+msgid "Changer le mot de passe"
+msgstr "Ubah kata sandi"
+
+msgid "Nouveau mot de passe"
+msgstr "Kata Sandi Baru"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "biarkan kosong agar tidak berubah"
+
+msgid "Enregistrer les modifications"
+msgstr "Simpan perubahan"
+
+msgid "Inscription"
+msgstr "Pendaftaran"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Selamat datang di Anti-Theft untuk keamanan perangkat Anda yang lebih baik"
+
+msgid "Confirmer"
+msgstr "Mengonfirmasi"
+
+msgid "Créer mon compte"
+msgstr "Buat akun saya"
+
+msgid "Déjà un compte ?"
+msgstr "Sudah punya akun?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Atur Ulang Kata Sandi"
+
+msgid "Réinitialisation"
+msgstr "Mengatur ulang"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Masukkan email dan nomor telepon Anda untuk memverifikasi identitas Anda"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Nomor yang digunakan saat pendaftaran"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimal 6 karakter"
+
+msgid "Confirmer le mot de passe"
+msgstr "Konfirmasikan kata sandi"
+
+msgid "Retourner à la"
+msgstr "Kembali ke"
+
+msgid "page de connexion"
+msgstr "halaman masuk"
+
+msgid "Vérification sécurisée"
+msgstr "Verifikasi aman"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Identitas Anda diverifikasi menggunakan email dan nomor telepon Anda"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Pilih kata sandi aman minimal 6 karakter"
+
+msgid "d"
+msgstr "D"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Pengeditan gagal"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Pengeditan gagal: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Kesalahan Windows: {kesalahan}"
+
+msgid "deprecated"
+msgstr "tidak digunakan lagi"
+
+msgid "Options"
+msgstr "Pilihan"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Mendapat argumen tambahan yang tidak terduga ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Perintah {name!r} tidak digunakan lagi.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Dibatalkan!"
+
+msgid "Commands"
+msgstr "Perintah"
+
+msgid "Missing command."
+msgstr "Perintah hilang."
+
+msgid "Value must be an iterable."
+msgstr "Nilai harus dapat diubah."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Mengambil nilai {nargs} tetapi diberikan 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"DeprecationWarning: {param_type} {name!r} tidak digunakan "
+"lagi.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Nama '{name}' didefinisikan dua kali"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Opsi Boolean {decl!r} tidak dapat menggunakan tanda yang sama untuk "
+"benar/salah."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Tidak dapat menentukan nama opsi dengan deklarasi {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Tidak ada opsi yang ditentukan tetapi nama telah diberikan ({name}). "
+"Apakah Anda bermaksud mendeklarasikan argumen? Apakah Anda bermaksud "
+"memberikan '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "bawaan: {bawaan}"
+
+msgid "required"
+msgstr "diperlukan"
+
+msgid "(dynamic)"
+msgstr "(dinamis)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumen mengambil tepat satu deklarasi parameter, didapat {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Apakah Anda ingin melanjutkan?"
+
+msgid "Confirm the action without prompting."
+msgstr "Konfirmasikan tindakan tanpa disuruh."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, versi %(versi)s"
+
+msgid "Show the version and exit."
+msgstr "Tampilkan versinya dan keluar."
+
+msgid "Show this message and exit."
+msgstr "Tampilkan pesan ini dan keluar."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Apakah maksud Anda {kemungkinan}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Kesalahan: {pesan}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Coba '{command} {option}' untuk bantuan."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Nilai tidak valid: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Nilai tidak valid untuk {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Argumen yang hilang"
+
+msgid "Missing option"
+msgstr "Opsi hilang"
+
+msgid "Missing parameter"
+msgstr "Parameter tidak ada"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} tidak ada"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parameter tidak ada: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Tidak ada opsi seperti itu {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Tidak ada perintah seperti itu {name!r}."
+
+msgid "unknown error"
+msgstr "kesalahan yang tidak diketahui"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Tidak dapat membuka file {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Menggunakan:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Karakter awal untuk opsi tidak valid ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumen {name!r} mengambil nilai {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Opsi {name!r} tidak mengambil nilai."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Opsi {name!r} memerlukan argumen."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Penyelesaian shell tidak didukung untuk versi Bash yang lebih lama dari "
+"4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Tidak dapat mendeteksi versi Bash, penyelesaian shell tidak didukung."
+
+msgid "Repeat for confirmation"
+msgstr "Ulangi untuk konfirmasi"
+
+msgid "Error: The two entered values do not match."
+msgstr "Kesalahan: Kedua nilai yang dimasukkan tidak cocok."
+
+msgid "Error: invalid input"
+msgstr "Kesalahan: masukan tidak valid"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Warna tidak diketahui {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Tekan tombol apa saja untuk melanjutkan..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Pilih dari:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} bukan {pilihan}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Pilihan({pilihan})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} tidak cocok dengan format {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} bukan {number_type} yang valid."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} tidak berada dalam rentang {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} bukan boolean yang valid. Nilai yang diakui: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} bukan UUID yang valid."
+
+msgid "file"
+msgstr "mengajukan"
+
+msgid "directory"
+msgstr "direktori"
+
+msgid "path"
+msgstr "jalur"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{nama} {nama file!r} tidak ada."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} adalah sebuah file."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} adalah sebuah direktori."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} tidak dapat dibaca."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} tidak dapat ditulis."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} tidak dapat dieksekusi."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Nilai {len_type} diperlukan, tetapi {len_value} diberikan."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Aliran standar '{name}' tidak diketahui"
+
+msgid "This field is required."
+msgstr "Bidang ini wajib diisi."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "File tidak memiliki ekstensi yang disetujui: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "File tidak memiliki ekstensi yang disetujui."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "File harus berukuran antara {min_size} dan {max_size} byte."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Nama bidang '%s' tidak valid."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Bidang harus sama dengan %(nama_lain)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Panjang bidang minimal harus %(min)d karakter."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Bidang tidak boleh lebih panjang dari %(maks)d karakter."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Panjang kolom harus tepat %(maks)d karakter."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Panjang kolom harus antara %(min)d dan %(max)d karakter."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Jumlahnya minimal harus %(mnt)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Jumlahnya harus maksimal %(maks)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Angka harus antara %(min)s dan %(max)s."
+
+msgid "Invalid input."
+msgstr "Masukan tidak valid."
+
+msgid "Invalid email address."
+msgstr "Alamat email tidak valid."
+
+msgid "Invalid IP address."
+msgstr "Alamat IP tidak valid."
+
+msgid "Invalid Mac address."
+msgstr "Alamat Mac tidak valid."
+
+msgid "Invalid URL."
+msgstr "URL tidak valid."
+
+msgid "Invalid UUID."
+msgstr "UUID tidak valid."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Nilai tidak valid, harus berupa salah satu dari: %(nilai)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Nilai tidak valid, tidak boleh salah satu dari: %(nilai)s."
+
+msgid "This field cannot be edited."
+msgstr "Bidang ini tidak dapat diedit."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Bidang ini dinonaktifkan dan tidak dapat mempunyai nilai."
+
+msgid "Invalid CSRF Token."
+msgstr "Token CSRF tidak valid."
+
+msgid "CSRF token missing."
+msgstr "Token CSRF hilang."
+
+msgid "CSRF failed."
+msgstr "CSRF gagal."
+
+msgid "CSRF token expired."
+msgstr "Token CSRF sudah habis masa berlakunya."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Pilihan Tidak Sah: tidak bisa memaksa."
+
+msgid "Choices cannot be None."
+msgstr "Pilihan tidak boleh Tidak Ada."
+
+msgid "Not a valid choice."
+msgstr "Bukan pilihan yang valid."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Pilihan tidak valid: satu atau lebih input data tidak dapat dipaksakan."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' bukan pilihan yang valid untuk bidang ini."
+
+msgid "Not a valid datetime value."
+msgstr "Bukan nilai tanggalwaktu yang valid."
+
+msgid "Not a valid date value."
+msgstr "Bukan nilai tanggal yang valid."
+
+msgid "Not a valid time value."
+msgstr "Bukan nilai waktu yang valid."
+
+msgid "Not a valid week value."
+msgstr "Bukan nilai minggu yang valid."
+
+msgid "Not a valid integer value."
+msgstr "Bukan nilai integer yang valid."
+
+msgid "Not a valid decimal value."
+msgstr "Bukan nilai desimal yang valid."
+
+msgid "Not a valid float value."
+msgstr "Bukan nilai float yang valid."
+

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.antivol.mobile.app-mergeDebugResources-37:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kouad\\.gradle\\caches\\transforms-4\\1175e600604f0ef8603a80d95351c79a\\transformed\\material-1.12.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1045 @@
+# Translations for OM.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: om\n"
+"Language-Team: om <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Fuula kana argachuuf mee seena."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "IMEI kun duraan sirnicha keessatti galmaa'ee jira."
+
+msgid "Accès non autorisé."
+msgstr "Hayyama malee argachuu."
+
+msgid "Appareil déverrouillé."
+msgstr "Meeshaan cufame."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Akeekkachiisni uumame! Beeksisa ergame."
+
+msgid "Alerte résolue."
+msgstr "Alert furmaata argateera."
+
+msgid "Pas encore de compte ?"
+msgstr "Ammatti akkaawuntii hin qabu?"
+
+msgid "Mon Profil"
+msgstr "Profaayila koo"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Walitti hidhamiinsi milkaa'aa! Baga nagaan dhufte."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Imeelii ykn jecha icciitii sirrii hin taane."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Dirreewwan barbaachisan hundi guutamuu qabu."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Jechoonni icciitii wal hin simne."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Jechi icciitii yoo xiqqaate arfiilee 6 qabaachuu qaba."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Email kun duraanuu fayyadama irra jira."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Account milkaa'inaan uumame! Galmaa'aa."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Akkaawuntii email kanaan hin argamne."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Lakkoofsi bilbilaa lakkoofsa herrega waliin wal hin simne."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Jechi icciitii haaraan dirqama."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Password reset milkaa'inaan! Galmaa'aa."
+
+msgid "Vous avez été déconnecté."
+msgstr "Walitti hidhamiinsi addaan cittee jirta."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Brand, model fi IMEI barbaachisa."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Meeshaan IMEI kana qabu duraan jira."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Meeshaan milkaa'inaan galmaa'eera!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Gocha kana raawwachuuf hayyama hin qabdu."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Meeshaan fageenya irraa milkaa'inaan cufame."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Meeshaan milkaa'inaan baname."
+
+msgid "Appareil supprimé."
+msgstr "Meeshaan haqame."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Maaloo meeshaa fi gosa akeekkachiisaa filadhu."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Meeshaan kun kan keessan miti."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert milkaa'inaan gabaafame. Meeshaan kun eegumsa ta'ee jira."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Akeekkachiisni akka furmaata argateetti mallatteeffameera."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Maqaa jalqabaa, maqaa dhumaa fi email barbaachisa."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Email kun duraanuu akkaawuntii biraatiin fayyadamaa jira."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profile milkaa'inaan haaromfame!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Qabxiin bulchitootaaf kan eegamedha."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Dogoggorri akka furmaata argateetti mallatteeffame."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Akkaawuntii mataa keessanii haquu hin dandeessan."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Fayyadamaan milkaa'inaan haqame."
+
+msgid "Administration"
+msgstr "Bulchiinsa"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Hoggansa giddugaleessaa sirna Farra Hannaa"
+
+msgid "Utilisateurs"
+msgstr "Fayyadamtoota"
+
+msgid "Actifs aujourd'hui"
+msgstr "Har'a sochiirra jira"
+
+msgid "Nouveaux ce mois"
+msgstr "Ji'a kana keessa haaraa"
+
+msgid "Appareils"
+msgstr "Meeshaalee"
+
+msgid "Alertes actives"
+msgstr "Akeekkachiisa sochii qabu"
+
+msgid "Analytique"
+msgstr "Xiinxala"
+
+msgid "Journal d'activité"
+msgstr "Galmee hojii"
+
+msgid "Erreurs"
+msgstr "Dogoggora"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Walitti hidhamiinsa (guyyoota 7 darban) ."
+
+msgid "Alertes par type"
+msgstr "Gosa akeekkachiisa"
+
+msgid "Appareils par opérateur"
+msgstr "Meeshaalee opereteraan"
+
+msgid "Résumé du système"
+msgstr "Cuunfaa Sirna"
+
+msgid "Utilisateurs total"
+msgstr "Fayyadamtoota waliigalaa"
+
+msgid "Appareils enregistrés"
+msgstr "Meeshaalee galmaa’an"
+
+msgid "Total alertes"
+msgstr "Akeekkachiisa waliigalaa"
+
+msgid "Alertes en cours"
+msgstr "Akeekkachiisa yeroo ammaa"
+
+msgid "Erreurs non résolues"
+msgstr "Dogoggora hin furamne"
+
+msgid "Dernières activités"
+msgstr "Hojiiwwan yeroo ammaa"
+
+msgid "récentes"
+msgstr "dhiyoo"
+
+msgid "Utilisateur"
+msgstr "Fayyadamaa"
+
+msgid "Action"
+msgstr "Gocha"
+
+msgid "Détails"
+msgstr "Gadifageenyaan"
+
+msgid "Adresse IP"
+msgstr "Teessoo IP"
+
+msgid "Navigateur"
+msgstr "Browser jedhamuun beekama"
+
+msgid "Date"
+msgstr "Guyyaa"
+
+msgid "Aucune activité"
+msgstr "Sochii hin qabu"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Sochiiwwan fayyadamaa asitti ni mul'atu."
+
+msgid "Journal d'erreurs"
+msgstr "Galmee dogongoraa"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Dogoggora hunda sirreessuu?"
+
+msgid "Tout résoudre"
+msgstr "Waan hundumaa furuu"
+
+msgid "non résolues"
+msgstr "furmaata hin arganne"
+
+msgid "Tout est résolu"
+msgstr "Wanti hundi furmaata argateera"
+
+msgid "Type"
+msgstr "Akaakuu"
+
+msgid "Description"
+msgstr "Ibsa"
+
+msgid "Statut"
+msgstr "Sadarkaa"
+
+msgid "Résolu"
+msgstr "Furmaata argateera"
+
+msgid "Non résolu"
+msgstr "Furmaata hin arganne"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Dogoggorri galmaa'e hin jiru"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sirni kun sirnaan hojjechaa jira."
+
+msgid "Gestion des utilisateurs"
+msgstr "Bulchiinsa fayyadamaa"
+
+msgid "comptes"
+msgstr "herrega"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Bilbila"
+
+msgid "Rôle"
+msgstr "Ga'ee"
+
+msgid "Inscrit le"
+msgstr "Galmaa'e irratti"
+
+msgid "Actions"
+msgstr "Gochaalee"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Fayyadamaa kanaa fi meeshaalee isaanii hunda haquu?"
+
+msgid "Vous"
+msgstr "ATI"
+
+msgid "Connexions"
+msgstr "Walitti hidhamiinsa"
+
+msgid "Vol"
+msgstr "Balallii"
+
+msgid "Perte"
+msgstr "Kisaaraa"
+
+msgid "Anomalie"
+msgstr "Anomaly jedhamuun beekama"
+
+msgid "Alertes"
+msgstr "Akeekkachiisa"
+
+msgid "Gestion des alertes"
+msgstr "Bulchiinsa akeekkachiisaa"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Hanna ykn kasaaraa gabaasuu fi seenaa hordofuu"
+
+msgid "Signaler un vol / perte"
+msgstr "Hanna/kasaaraa gabaasuu"
+
+msgid "En cours"
+msgstr "Adeemsa irra jira"
+
+msgid "Résolues"
+msgstr "Furmaata argateera"
+
+msgid "Historique des alertes"
+msgstr "Seenaa Akeekkachiisa"
+
+msgid "Appareil"
+msgstr "Meeshaa"
+
+msgid "Priorité"
+msgstr "Dursa"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Akeekkachiisa kana akka furmaata argateetti mallatteessi?"
+
+msgid "Résoudre"
+msgstr "Furuu"
+
+msgid "Aucune alerte"
+msgstr "Akeekkachiisa hin qabu"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Oduu gammachiisaa! Akeekkachiisni tokkollee hin gabaafamne."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Hanna ykn kasaaraa gabaasuu"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr "Hanna gabaasuudhaan meeshaan keessan ofumaan cufamee beeksisni ni ergama."
+
+msgid "Appareil concerné"
+msgstr "Meeshaa dhiibbaa irra gahe"
+
+msgid "Sélectionner un appareil"
+msgstr "Meeshaa tokko filadhu"
+
+msgid "Type d'alerte"
+msgstr "Gosa akeekkachiisaa"
+
+msgid "Décrivez les circonstances..."
+msgstr "Haala jiru ibsi..."
+
+msgid "Annuler"
+msgstr "Haquu"
+
+msgid "Signaler"
+msgstr "Gabaasuu"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Sirna Farra Hannaa Intelligent — Waltajjii nageenyaa bilbiloota ismaartii"
+
+msgid "Système Anti-Vol"
+msgstr "Sirna Farra Hannaa"
+
+msgid "PRINCIPAL"
+msgstr "IJOO"
+
+msgid "Tableau de bord"
+msgstr "Daashboordii"
+
+msgid "SÉCURITÉ"
+msgstr "NAGEENYA"
+
+msgid "Géolocalisation"
+msgstr "Ji’oolookaashinii"
+
+msgid "ADMINISTRATION"
+msgstr "BULCHIINSA"
+
+msgid "Déconnexion"
+msgstr "Walitti hidhamiinsa addaan kutuu"
+
+msgid "Changer de langue"
+msgstr "Afaan jijjiiri"
+
+msgid "Rechercher une langue..."
+msgstr "Afaan tokko barbaadi..."
+
+msgid "Profil"
+msgstr "Ibsama"
+
+msgid "Changer de thème"
+msgstr "Mata duree jijjiiri"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Haala waliigalaa nageenya meeshaa keessanii"
+
+msgid "Ajouter un appareil"
+msgstr "Meeshaa itti dabali"
+
+msgid "Appareils volés"
+msgstr "Meeshaalee hataman"
+
+msgid "Verrouillés à distance"
+msgstr "Fageenya irraa kan cufame"
+
+msgid "Alertes récentes"
+msgstr "Akeekkachiisa dhiheenya kanaa"
+
+msgid "Voir tout"
+msgstr "Hundaa ilaalaa"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Akeekkachiisa hin qabu. Meeshaaleen keessan nageenya qabu!"
+
+msgid "Mes appareils"
+msgstr "Meeshaalee koo"
+
+msgid "Aucun appareil enregistré"
+msgstr "Meeshaaleen galmaa'an hin jiran"
+
+msgid "Ajouter"
+msgstr "Ida'uu"
+
+msgid "en attente"
+msgstr "turtii irratti"
+
+msgid "Gestion des appareils"
+msgstr "Bulchiinsa meeshaalee"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Bilbiloota ismaartii keessan galmaa'aa bulchaa"
+
+msgid "Opérateur"
+msgstr "Opereetara"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Meeshaa kana fageenya irraa cufuu?"
+
+msgid "Verrouiller"
+msgstr "Furtuun cufuu"
+
+msgid "Déverrouiller"
+msgstr "Qulfii banaa"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Meeshaa kana haquu?"
+
+msgid "Supprimer"
+msgstr "HAQUU"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr ""
+"Smartphone keessan isa jalqabaa itti dabaluudhaan eeguu jalqabuu "
+"dandeessu."
+
+msgid "Nouvel appareil"
+msgstr "Meeshaa haaraa"
+
+msgid "Marque"
+msgstr "Maqaa oomishaa"
+
+msgid "Sélectionner"
+msgstr "Filuu"
+
+msgid "Autre"
+msgstr "Kan biraa"
+
+msgid "Modèle"
+msgstr "Adda duree"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "bilbila keessan irratti **#06# barreessaa"
+
+msgid "Système d'exploitation"
+msgstr "Sirna hojii (operating system)."
+
+msgid "Numéro de téléphone"
+msgstr "Lakkoofsa bilbilaa"
+
+msgid "Enregistrer"
+msgstr "Qusachuu"
+
+msgid "Connexion"
+msgstr "Walitti hidhamiinsa"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sirna nageenya bilbila ismaartii"
+
+msgid "Adresse email"
+msgstr "Teessoo iimeelii"
+
+msgid "Mot de passe"
+msgstr "Jecha iccitii"
+
+msgid "Se connecter"
+msgstr "Galmaa'aa"
+
+msgid "Mot de passe oublié ?"
+msgstr "Jecha icciitii dagattee?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Duraanis akkaawuntii qabduu? Yoo kana hin taane gara account keessan "
+"uumuutti ce'aa!"
+
+msgid "Créer un compte"
+msgstr "Akkaawuntii uumuu"
+
+msgid "Sécurité maximale"
+msgstr "Nageenya olaanaa"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Daataa dhuunfaa keessan fageenya irraa qulfiidhaan eegaa"
+
+msgid "Localisation GPS"
+msgstr "Bakka GPS itti argamu"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr ""
+"Bakka sirrii bilbila ismaartii keessanii yeroo qabatamaa keessatti "
+"barbaadi"
+
+msgid "Alertes instantanées"
+msgstr "Akeekkachiisa battalaa"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Yoo hanni mudate ergaa gabaabaa, email fi push beeksisa fudhachuu"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Meeshaalee keessan barbaadaatii bakka balaan itti mul’atu mul’adhaa"
+
+msgid "Aucun appareil"
+msgstr "Meeshaa hin qabu"
+
+msgid "Zones à risque"
+msgstr "Bakkeewwan balaa ta’an"
+
+msgid "incidents"
+msgstr "taateewwan mudatan"
+
+msgid "Aucune zone signalée"
+msgstr "Naannoowwan hin gabaafamne"
+
+msgid "Niveau"
+msgstr "Sadarkaa"
+
+msgid "Incidents"
+msgstr "Taateewwan"
+
+msgid "Profile utilisateur"
+msgstr "Profaayilii fayyadamaa"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Odeeffannoo dhuunfaa kee bulchi"
+
+msgid "Membre depuis"
+msgstr "Miseensa erga"
+
+msgid "Modifier mes informations"
+msgstr "Odeeffannoo koo gulaali"
+
+msgid "Prénom"
+msgstr "Maqaa jalqabaa"
+
+msgid "Nom"
+msgstr "Maqaa"
+
+msgid "Changer le mot de passe"
+msgstr "Jecha icciitii jijjiiri"
+
+msgid "Nouveau mot de passe"
+msgstr "Jecha Darbii Haaraa"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "akka hin jijjiiramneef duwwaa dhiisi"
+
+msgid "Enregistrer les modifications"
+msgstr "Jijjiirama qusadhu"
+
+msgid "Inscription"
+msgstr "Galmee"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"Nageenya meeshaalee keessanii fooyya'aa ta'eef gara Farra Hannaa baga "
+"nagaan dhuftan"
+
+msgid "Confirmer"
+msgstr "Mirkaneessuu"
+
+msgid "Créer mon compte"
+msgstr "Akkaawuntii koo uumi"
+
+msgid "Déjà un compte ?"
+msgstr "Duraanis akkaawuntii qabduu?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Jecha Darbii Irra Deebi'i"
+
+msgid "Réinitialisation"
+msgstr "Reset gochuu"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Eenyummaa kee mirkaneessuuf email fi lakkoofsa bilbilaa kee galchi"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Lakkoofsa yeroo galmee itti fayyadamnu"
+
+msgid "Minimum 6 caractères"
+msgstr "Yoo xiqqaate arfiilee 6"
+
+msgid "Confirmer le mot de passe"
+msgstr "Jecha icciitii mirkaneessuu"
+
+msgid "Retourner à la"
+msgstr "Gara deebi'aa"
+
+msgid "page de connexion"
+msgstr "fuula seensaa"
+
+msgid "Vérification sécurisée"
+msgstr "Mirkaneessuu nageenya qabu"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Eenyummaan kee kan mirkanaa'u email fi lakkoofsa bilbilaa kee fayyadamuun"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Jecha icciitii nageenya qabu yoo xiqqaate arfiilee 6 filadhu"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{gulaaltuu}: Gulaaluun hin milkoofne"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{gulaala}: Gulaaluun hin milkoofne: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Dogoggora Windows: {dogongora}."
+
+msgid "deprecated"
+msgstr "kan hin fayyadamne"
+
+msgid "Options"
+msgstr "Filannoo"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Falmii dabalataa hin eegamne argate ({args}) ."
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationAkeekkachiisa: Ajajni {name!r} hin fayyadamne.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Ulfa irraa baafame!"
+
+msgid "Commands"
+msgstr "Ajajoota"
+
+msgid "Missing command."
+msgstr "Ajajni dhabame."
+
+msgid "Value must be an iterable."
+msgstr "Gatiin iterable ta'uu qaba."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Gatii {nargs} fudhata garuu 1 kennameera."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Akeekkachiisa DeprecationAkeekkachiisa: {param_type} {name!r} hin "
+"barbaachifne.{extra_message}."
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Maqaa '{name}' yeroo lama ibsame"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Filannoon Boolii {decl!r} dhugaa/sobaaf alaabaa walfakkaataa fayyadamuu "
+"hin danda'u."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Maqaa filannoo labsii {decls!r} waliin murteessuu hin dandeenye."
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Filannoon hin ibsamne garuu maqaan darbe ({name}). Kanaa mannaa falmii "
+"labsuu barbaaddee? '--{name}' dabarsuu barbaaddee?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var} jedhu."
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "durtii: {durtii}."
+
+msgid "required"
+msgstr "kan barbaadamu"
+
+msgid "(dynamic)"
+msgstr "(daayinamikii) ."
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Falmiin sirriitti ibsa paarameetara tokko fudhatu, {dheerina} argate: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Itti fufuu barbaaddaa?"
+
+msgid "Confirm the action without prompting."
+msgstr "Gocha osoo hin gaafatin mirkaneessi."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, gosa %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Version agarsiisitii ba'i."
+
+msgid "Show this message and exit."
+msgstr "Ergaa kana agarsiisiitii ba'i."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "{Carraa} jechuu keetii?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Dogoggora: {ergaa}."
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Gargaarsa argachuuf '{ajaja} {filannoo}' yaali."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Gatii sirrii hin taane: {ergaa}."
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Gatii sirrii hin taane {param_hint}: {message} ."
+
+msgid "Missing argument"
+msgstr "Falmii dhabame"
+
+msgid "Missing option"
+msgstr "Filannoo dhabame"
+
+msgid "Missing parameter"
+msgstr "Qabduu dhabame"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{gosa_param} dhabame."
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Qabduu dhabame: {maqaa_param}."
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Filannoon akkasii {maqaa!r} hin jiru."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Ajajni akkasii {maqaa!r} hin jiru."
+
+msgid "unknown error"
+msgstr "dogongora hin beekamne"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Faayilii {maqaa faayilii!r}: {ergaa} banuun hin dandeenye."
+
+msgid "Usage:"
+msgstr "Fayyadamuu:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Arfii jalqabaa sirrii hin taane filannoo ({option}) ."
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Falmiin {maqaa!r} gatiiwwan {nargs} fudhata."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Filannoon {maqaa!r} gatii hin fudhatu."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Filannoon {maqaa!r} falmii barbaada."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Xumurri sheel gosoota Bash 4.4 ol ta'aniif hin deeggaramu."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Version Bash adda baasuu hin dandeenye, xumurri shell hin deeggaramu."
+
+msgid "Repeat for confirmation"
+msgstr "Mirkaneessuuf irra deebi'aa"
+
+msgid "Error: The two entered values do not match."
+msgstr "Dogoggora: Gatiin lamaan galfaman wal hin simne."
+
+msgid "Error: invalid input"
+msgstr "Dogoggora: galtee sirrii hin taane"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Halluu hin beekamne {halluu!r}."
+
+msgid "Press any key to continue..."
+msgstr "Itti fufuuf furtuu kamiyyuu dhiibaa..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Filannoo keessaa:\\n\\t{filannoo}."
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{gatii!r} {filannoo} miti."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Filannoo({filannoo}) ."
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{gatii!r} bifa {format} waliin wal hin simne."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{gatii!r} {gosa_lakkoofsa} sirrii miti."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{gatii} hanga {range} keessa hin jiru."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} boolean sirrii miti. Gatii beekamtii: {states}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} UUID sirrii miti."
+
+msgid "file"
+msgstr "dosee"
+
+msgid "directory"
+msgstr "galmee"
+
+msgid "path"
+msgstr "karaa"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{maqaa} {maqaa faayilii!r} hin jiru."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{maqaa} {maqaa faayilii!r} faayilii dha."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{maqaa} {maqaa faayilii!r} galmee dha."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{maqaa} {maqaa faayilii!r} dubbifamuu hin danda'u."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{maqaa} {maqaa faayilii!r} barreeffamuu hin danda'u."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{maqaa} {maqaa faayilii!r} raawwatamuu hin danda'u."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Gatiin {len_type} barbaachisaadha, garuu {len_value} kennameera."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Dhangala'aa istaandaardii hin beekamne '{name}'."
+
+msgid "This field is required."
+msgstr "Dirreen kun barbaachisaadha."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Faayilii dheerina mirkanaa'e hin qabu: {extensions}."
+
+msgid "File does not have an approved extension."
+msgstr "Faayilii dheerina mirkanaa'e hin qabu."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Faayilii {min_size} fi {max_size} baayitii gidduutti ta'uu qaba."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Maqaa dirree sirrii hin taane '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Dirreen %(maqaa_kanneen) wajjin walqixa ta'uu qaba."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Dirreen yoo xiqqaate arfii %(min)d dheerachuu qaba."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Dirreen arfii %(max)d caalaa dheerachuu hin danda'u."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Dirreen sirriitti arfii %(max)d dheerachuu qaba."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Dirreen arfiilee %(min)d fi %(max)d gidduutti dheerachuu qaba."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Lakkoofsi yoo xiqqaate %(min)s ta'uu qaba."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Lakkoofsi yoo baay'ate %(max)s ta'uu qaba."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Lakkoofsi %(min)s fi %(max)s gidduutti ta'uu qaba."
+
+msgid "Invalid input."
+msgstr "Galtee sirrii hin taane."
+
+msgid "Invalid email address."
+msgstr "Teessoo imeelii sirrii hin taane."
+
+msgid "Invalid IP address."
+msgstr "Teessoo IP sirrii hin taane."
+
+msgid "Invalid Mac address."
+msgstr "Teessoo Mac sirrii hin taane."
+
+msgid "Invalid URL."
+msgstr "URL sirrii hin taane."
+
+msgid "Invalid UUID."
+msgstr "UUID sirrii hin taane."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Gatiin sirrii hin taane, tokko ta'uu qaba: %(gatiiwwan)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Gatiin sirrii hin taane, kamiyyuu ta'uu hin danda'u: %(gatiiwwan)s."
+
+msgid "This field cannot be edited."
+msgstr "Dirreen kun gulaalamuu hin danda'u."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Dirreen kun hojii irraa kan hafe yoo ta'u gatii qabaachuu hin danda'u."
+
+msgid "Invalid CSRF Token."
+msgstr "Mallattoo CSRF sirrii hin taane."
+
+msgid "CSRF token missing."
+msgstr "Mallattoon CSRF dhabame."
+
+msgid "CSRF failed."
+msgstr "CSRFn hin milkoofne."
+
+msgid "CSRF token expired."
+msgstr "Mallattoon CSRF yeroon isaa darbe."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Filannoo Sirrii Hin Taane: dirqisiisuu hin dandeenye."
+
+msgid "Choices cannot be None."
+msgstr "Filannoon Tokkollee ta'uu hin danda'u."
+
+msgid "Not a valid choice."
+msgstr "Filannoo sirrii miti."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Filannoo(wwan) sirrii hin taane: galteen deetaa tokko ykn isaa ol "
+"dirqisiifamuu hin dandeenye."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' dirree kanaaf filannoo sirrii miti."
+
+msgid "Not a valid datetime value."
+msgstr "Gatii yeroo guyyaa sirrii miti."
+
+msgid "Not a valid date value."
+msgstr "Gatii guyyaa sirrii miti."
+
+msgid "Not a valid time value."
+msgstr "Gatii yeroo sirrii miti."
+
+msgid "Not a valid week value."
+msgstr "Gatii torban sirrii miti."
+
+msgid "Not a valid integer value."
+msgstr "Gatii lakkoofsa guutuu sirrii miti."
+
+msgid "Not a valid decimal value."
+msgstr "Gatii kurnyee sirrii miti."
+
+msgid "Not a valid float value."
+msgstr "Gatii lola'aa sirrii miti."
+

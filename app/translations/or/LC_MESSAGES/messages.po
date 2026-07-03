@@ -1,0 +1,1042 @@
+# Translations for OR.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: or\n"
+"Language-Team: or <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "ଏହି ପୃଷ୍ଠାକୁ ପ୍ରବେଶ କରିବାକୁ ଦୟାକରି ଲଗ୍ ଇନ୍ କରନ୍ତୁ |"
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "ଏହି IMEI ସିଷ୍ଟମରେ ପୂର୍ବରୁ ପଞ୍ଜିକୃତ ହୋଇଛି |"
+
+msgid "Accès non autorisé."
+msgstr "ଅନଧିକୃତ ପ୍ରବେଶ"
+
+msgid "Appareil déverrouillé."
+msgstr "ଉପକରଣ ଅନଲକ୍ ହୋଇଛି |"
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "ସତର୍କ ସୃଷ୍ଟି! ବିଜ୍ଞପ୍ତି ପଠାଯାଇଛି |"
+
+msgid "Alerte résolue."
+msgstr "ସତର୍କତା ସମାଧାନ ହେଲା |"
+
+msgid "Pas encore de compte ?"
+msgstr "ଏପର୍ଯ୍ୟନ୍ତ କ account ଣସି ଖାତା ନାହିଁ?"
+
+msgid "Mon Profil"
+msgstr "ମୋର ପ୍ରୋଫାଇଲ୍"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "ସଂଯୋଗ ସଫଳ! ସ୍ Welcome ାଗତ"
+
+msgid "Email ou mot de passe incorrect."
+msgstr "ଭୁଲ ଇମେଲ କିମ୍ବା ପାସୱାର୍ଡ |"
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "ସମସ୍ତ ଆବଶ୍ୟକୀୟ କ୍ଷେତ୍ର ସମାପ୍ତ ହେବା ଜରୁରୀ |"
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "ପାସୱାର୍ଡ ମେଳ ଖାଉ ନାହିଁ |"
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "ପାସୱାର୍ଡରେ ଅତି କମରେ 6 ଟି ଅକ୍ଷର ରହିବା ଜରୁରୀ |"
+
+msgid "Cet email est déjà utilisé."
+msgstr "ଏହି ଇମେଲ୍ ପୂର୍ବରୁ ବ୍ୟବହାରରେ ଅଛି |"
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "ଖାତା ସଫଳତାର ସହିତ ସୃଷ୍ଟି ହେଲା! ଲଗ୍ ଇନ୍ କରନ୍ତୁ |"
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "ଏହି ଇମେଲ ସହିତ କ accounts ଣସି ଖାତା ମିଳିଲା ନାହିଁ |"
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "ଫୋନ୍ ନମ୍ବର ଖାତା ନମ୍ବର ସହିତ ମେଳ ଖାଉ ନାହିଁ |"
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "ନୂତନ ପାସୱାର୍ଡ ବାଧ୍ୟତାମୂଳକ ଅଟେ |"
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "ପାସୱାର୍ଡ ସଫଳତାର ସହିତ ପୁନ et ସେଟ୍ କରନ୍ତୁ! ଲଗ୍ ଇନ୍ କରନ୍ତୁ |"
+
+msgid "Vous avez été déconnecté."
+msgstr "ତୁମେ ସଂଯୋଗ ବିଚ୍ଛିନ୍ନ ହୋଇଛି |"
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "ବ୍ରାଣ୍ଡ, ମଡେଲ୍ ଏବଂ IMEI ଆବଶ୍ୟକ |"
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "ଏହି IMEI ସହିତ ଏକ ଉପକରଣ ପୂର୍ବରୁ ବିଦ୍ୟମାନ ଅଛି |"
+
+msgid "Appareil enregistré avec succès !"
+msgstr "ଉପକରଣ ସଫଳତାର ସହିତ ପଞ୍ଜିକୃତ ହୋଇଛି!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "ଆପଣ ଏହି କାର୍ଯ୍ୟ କରିବାକୁ କ୍ଷମତାପ୍ରାପ୍ତ ନୁହଁନ୍ତି |"
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "ଡିଭାଇସ୍ ସୁଦୂର ଭାବରେ ସଫଳତାର ସହିତ ଲକ୍ ହୋଇଛି |"
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "ଡିଭାଇସ୍ ସଫଳତାର ସହିତ ଅନଲକ୍ ହୋଇଛି |"
+
+msgid "Appareil supprimé."
+msgstr "ଉପକରଣ ବିଲୋପ ହେଲା |"
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "ଦୟାକରି ଏକ ଉପକରଣ ଏବଂ ଆଲର୍ଟ ପ୍ରକାର ଚୟନ କରନ୍ତୁ |"
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "ଏହି ଡିଭାଇସ୍ ଆପଣଙ୍କର ନୁହେଁ |"
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "ଆଲର୍ଟ ସଫଳତାର ସହିତ ରିପୋର୍ଟ କଲା | ଡିଭାଇସ୍ ସୁରକ୍ଷିତ ଅଛି |"
+
+msgid "Alerte marquée comme résolue."
+msgstr "ସମାଧାନ ପରି ଚିହ୍ନିତ ଆଲର୍ଟ |"
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "ପ୍ରଥମ ନାମ, ଶେଷ ନାମ ଏବଂ ଇମେଲ୍ ଆବଶ୍ୟକ |"
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "ଏହି ଇମେଲ୍ ଅନ୍ୟ ଏକ ଆକାଉଣ୍ଟ୍ ଦ୍ୱାରା ପୂର୍ବରୁ ବ୍ୟବହୃତ ହୋଇଛି |"
+
+msgid "Profil mis à jour avec succès !"
+msgstr "ପ୍ରୋଫାଇଲ୍ ସଫଳତାର ସହିତ ଅଦ୍ୟତନ ହେଲା!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "ପ୍ରଶାସକଙ୍କ ପାଇଁ ଆକ୍ସେସ୍ ସଂରକ୍ଷିତ |"
+
+msgid "Erreur marquée comme résolue."
+msgstr "ତ୍ରୁଟି ସମାଧାନ ଭାବରେ ଚିହ୍ନିତ |"
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "ଆପଣ ନିଜ ଖାତା ବିଲୋପ କରିପାରିବେ ନାହିଁ |"
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "ଉପଯୋଗକର୍ତ୍ତା ସଫଳତାର ସହିତ ବିଲୋପ ହେଲା |"
+
+msgid "Administration"
+msgstr "ପ୍ରଶାସନ"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "ଚୋରି ଆଣ୍ଟି ସିଷ୍ଟମର କେନ୍ଦ୍ରୀୟ ପରିଚାଳନା |"
+
+msgid "Utilisateurs"
+msgstr "ଉପଯୋଗକର୍ତ୍ତାଗଣ |"
+
+msgid "Actifs aujourd'hui"
+msgstr "ଆଜି ସକ୍ରିୟ |"
+
+msgid "Nouveaux ce mois"
+msgstr "ଏହି ମାସରେ ନୂଆ |"
+
+msgid "Appareils"
+msgstr "ଉପକରଣଗୁଡ଼ିକ"
+
+msgid "Alertes actives"
+msgstr "ସକ୍ରିୟ ଆଲର୍ଟ |"
+
+msgid "Analytique"
+msgstr "ଆନାଲିଟିକାଲ୍ |"
+
+msgid "Journal d'activité"
+msgstr "କାର୍ଯ୍ୟକଳାପ ଲଗ୍ |"
+
+msgid "Erreurs"
+msgstr "ତ୍ରୁଟି |"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "ସଂଯୋଗ (ଗତ 7 ଦିନ)"
+
+msgid "Alertes par type"
+msgstr "ପ୍ରକାର ଅନୁଯାୟୀ ଆଲର୍ଟ |"
+
+msgid "Appareils par opérateur"
+msgstr "ଅପରେଟର୍ ଦ୍ୱାରା ଉପକରଣଗୁଡ଼ିକ |"
+
+msgid "Résumé du système"
+msgstr "ସିଷ୍ଟମ୍ ସାରାଂଶ"
+
+msgid "Utilisateurs total"
+msgstr "ମୋଟ ବ୍ୟବହାରକାରୀ |"
+
+msgid "Appareils enregistrés"
+msgstr "ପଞ୍ଜିକୃତ ଉପକରଣଗୁଡ଼ିକ |"
+
+msgid "Total alertes"
+msgstr "ମୋଟ ଆଲର୍ଟ |"
+
+msgid "Alertes en cours"
+msgstr "ସାମ୍ପ୍ରତିକ ସତର୍କତା |"
+
+msgid "Erreurs non résolues"
+msgstr "ସମାଧାନ ହୋଇନଥିବା ତ୍ରୁଟି |"
+
+msgid "Dernières activités"
+msgstr "ସର୍ବଶେଷ କାର୍ଯ୍ୟକଳାପ |"
+
+msgid "récentes"
+msgstr "ସମ୍ପ୍ରତି"
+
+msgid "Utilisateur"
+msgstr "ଉପଯୋଗକର୍ତ୍ତା |"
+
+msgid "Action"
+msgstr "କାର୍ଯ୍ୟ"
+
+msgid "Détails"
+msgstr "ବିବରଣୀ"
+
+msgid "Adresse IP"
+msgstr "IP ଠିକଣା"
+
+msgid "Navigateur"
+msgstr "ବ୍ରାଉଜର୍"
+
+msgid "Date"
+msgstr "ତାରିଖ"
+
+msgid "Aucune activité"
+msgstr "କ activity ଣସି କାର୍ଯ୍ୟକଳାପ ନାହିଁ |"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "ଉପଭୋକ୍ତା କାର୍ଯ୍ୟକଳାପ ଏଠାରେ ଦେଖାଯିବ |"
+
+msgid "Journal d'erreurs"
+msgstr "ତ୍ରୁଟି ଲଗ୍ |"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "ସମସ୍ତ ତ୍ରୁଟି ଠିକ କରନ୍ତୁ?"
+
+msgid "Tout résoudre"
+msgstr "ସବୁକିଛି ସମାଧାନ କର |"
+
+msgid "non résolues"
+msgstr "ସମାଧାନ ହୋଇନାହିଁ"
+
+msgid "Tout est résolu"
+msgstr "ସବୁକିଛି ସମାଧାନ ହୋଇଛି |"
+
+msgid "Type"
+msgstr "ଦୟାଳୁ"
+
+msgid "Description"
+msgstr "ବର୍ଣ୍ଣନା"
+
+msgid "Statut"
+msgstr "ସ୍ଥିତି"
+
+msgid "Résolu"
+msgstr "ସମାଧାନ ହୋଇଛି"
+
+msgid "Non résolu"
+msgstr "ସମାଧାନ ହୋଇନାହିଁ"
+
+msgid "Aucune erreur enregistrée"
+msgstr "କ No ଣସି ତ୍ରୁଟି ରେକର୍ଡ ହୋଇନାହିଁ |"
+
+msgid "Le système fonctionne correctement."
+msgstr "ସିଷ୍ଟମ୍ ସଠିକ୍ ଭାବରେ କାମ କରୁଛି |"
+
+msgid "Gestion des utilisateurs"
+msgstr "ବ୍ୟବହାରକାରୀ ପରିଚାଳନା"
+
+msgid "comptes"
+msgstr "ଖାତା"
+
+msgid "Email"
+msgstr "ଇ-ମେଲ୍ |"
+
+msgid "Téléphone"
+msgstr "ଫୋନ୍ |"
+
+msgid "Rôle"
+msgstr "ଭୂମିକା"
+
+msgid "Inscrit le"
+msgstr "ପଞ୍ଜିକୃତ"
+
+msgid "Actions"
+msgstr "କାର୍ଯ୍ୟ"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "ଏହି ଉପଭୋକ୍ତା ଏବଂ ସେମାନଙ୍କର ସମସ୍ତ ଡିଭାଇସ୍ ବିଲୋପ କରିବେ କି?"
+
+msgid "Vous"
+msgstr "ତୁମେ"
+
+msgid "Connexions"
+msgstr "ସଂଯୋଗଗୁଡ଼ିକ"
+
+msgid "Vol"
+msgstr "ଉଡ଼ାଣ"
+
+msgid "Perte"
+msgstr "କ୍ଷତି"
+
+msgid "Anomalie"
+msgstr "ଅନୋମାଲିୟା |"
+
+msgid "Alertes"
+msgstr "ସତର୍କତା"
+
+msgid "Gestion des alertes"
+msgstr "ସତର୍କ ପରିଚାଳନା"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "ଚୋରି କିମ୍ବା କ୍ଷତି ରିପୋର୍ଟ କରନ୍ତୁ ଏବଂ ଇତିହାସ ଟ୍ରାକ୍ କରନ୍ତୁ |"
+
+msgid "Signaler un vol / perte"
+msgstr "ଚୋରି / କ୍ଷତି ରିପୋର୍ଟ କରନ୍ତୁ |"
+
+msgid "En cours"
+msgstr "ଚାଲିଛି |"
+
+msgid "Résolues"
+msgstr "ସମାଧାନ ହୋଇଛି"
+
+msgid "Historique des alertes"
+msgstr "ସତର୍କ ଇତିହାସ |"
+
+msgid "Appareil"
+msgstr "ଉପକରଣ"
+
+msgid "Priorité"
+msgstr "ପ୍ରାଥମିକତା |"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "ସମାଧାନ ହୋଇଥିବା ଏହି ଆଲର୍ଟକୁ ଚିହ୍ନିତ କର?"
+
+msgid "Résoudre"
+msgstr "ସମାଧାନ କରନ୍ତୁ |"
+
+msgid "Aucune alerte"
+msgstr "କ alert ଣସି ସତର୍କତା ନାହିଁ |"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "ଭଲ ଖବର! କ No ଣସି ଆଲର୍ଟ ରିପୋର୍ଟ ହୋଇନାହିଁ |"
+
+msgid "Signaler un vol ou une perte"
+msgstr "ଚୋରି କିମ୍ବା କ୍ଷତି ରିପୋର୍ଟ କରନ୍ତୁ |"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"ଏକ ଚୋରି ରିପୋର୍ଟ କରି, ଆପଣଙ୍କର ଡିଭାଇସ୍ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଲକ୍ ହୋଇଯିବ ଏବଂ "
+"ବିଜ୍ଞପ୍ତି ପଠାଯିବ |"
+
+msgid "Appareil concerné"
+msgstr "ପ୍ରଭାବିତ ଉପକରଣ |"
+
+msgid "Sélectionner un appareil"
+msgstr "ଏକ ଉପକରଣ ବାଛନ୍ତୁ |"
+
+msgid "Type d'alerte"
+msgstr "ଆଲର୍ଟ ପ୍ରକାର |"
+
+msgid "Décrivez les circonstances..."
+msgstr "ପରିସ୍ଥିତି ବର୍ଣ୍ଣନା କର ..."
+
+msgid "Annuler"
+msgstr "ବାତିଲ୍ କରନ୍ତୁ |"
+
+msgid "Signaler"
+msgstr "ରିପୋର୍ଟ କରନ୍ତୁ |"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "ଇଣ୍ଟେଲିଜେଣ୍ଟ୍ ଆଣ୍ଟି ଚୋରି ସିଷ୍ଟମ୍ - ସ୍ମାର୍ଟଫୋନ୍ ପାଇଁ ସୁରକ୍ଷା ପ୍ଲାଟଫର୍ମ |"
+
+msgid "Système Anti-Vol"
+msgstr "ଚୋରି ବିରୋଧୀ ବ୍ୟବସ୍ଥା |"
+
+msgid "PRINCIPAL"
+msgstr "MAIN"
+
+msgid "Tableau de bord"
+msgstr "ଡ୍ୟାସବୋର୍ଡ |"
+
+msgid "SÉCURITÉ"
+msgstr "ସୁରକ୍ଷା"
+
+msgid "Géolocalisation"
+msgstr "ଭୂଗୋଳ"
+
+msgid "ADMINISTRATION"
+msgstr "ଆଡମିନିଷ୍ଟ୍ରେସନ୍"
+
+msgid "Déconnexion"
+msgstr "ବିଚ୍ଛିନ୍ନ କରନ୍ତୁ |"
+
+msgid "Changer de langue"
+msgstr "ଭାଷା ପରିବର୍ତ୍ତନ କରନ୍ତୁ |"
+
+msgid "Rechercher une langue..."
+msgstr "ଏକ ଭାଷା ଖୋଜ ..."
+
+msgid "Profil"
+msgstr "ପ୍ରୋଫାଇଲ୍"
+
+msgid "Changer de thème"
+msgstr "ଥିମ୍ ପରିବର୍ତ୍ତନ କରନ୍ତୁ |"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "ଆପଣଙ୍କର ଉପକରଣ ସୁରକ୍ଷା ବିଷୟରେ ସମୀକ୍ଷା"
+
+msgid "Ajouter un appareil"
+msgstr "ଏକ ଉପକରଣ ଯୋଗକର |"
+
+msgid "Appareils volés"
+msgstr "ଚୋରି ହୋଇଥିବା ଉପକରଣଗୁଡ଼ିକ |"
+
+msgid "Verrouillés à distance"
+msgstr "ଦୂରରୁ ଲକ୍ ହୋଇଛି |"
+
+msgid "Alertes récentes"
+msgstr "ସାମ୍ପ୍ରତିକ ସତର୍କତା |"
+
+msgid "Voir tout"
+msgstr "ସମସ୍ତ ଦେଖନ୍ତୁ |"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "କ alert ଣସି ସତର୍କତା ନାହିଁ | ଆପଣଙ୍କର ଉପକରଣଗୁଡ଼ିକ ସୁରକ୍ଷିତ!"
+
+msgid "Mes appareils"
+msgstr "ମୋର ଉପକରଣଗୁଡ଼ିକ"
+
+msgid "Aucun appareil enregistré"
+msgstr "କ devices ଣସି ଉପକରଣ ପଞ୍ଜିକୃତ ହୋଇନାହିଁ |"
+
+msgid "Ajouter"
+msgstr "ଯୋଡନ୍ତୁ |"
+
+msgid "en attente"
+msgstr "ଧରନ୍ତୁ"
+
+msgid "Gestion des appareils"
+msgstr "ଉପକରଣ ପରିଚାଳନା"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "ଆପଣଙ୍କର ସ୍ମାର୍ଟଫୋନ୍ ପଞ୍ଜିକରଣ ଏବଂ ପରିଚାଳନା କରନ୍ତୁ |"
+
+msgid "Opérateur"
+msgstr "ଅପରେଟର୍"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "ଏହି ଉପକରଣକୁ ଦୂରରୁ ଲକ୍ କରନ୍ତୁ କି?"
+
+msgid "Verrouiller"
+msgstr "ଲକ୍ କରନ୍ତୁ |"
+
+msgid "Déverrouiller"
+msgstr "ଅନଲକ୍ କରନ୍ତୁ |"
+
+msgid "Supprimer cet appareil ?"
+msgstr "ଏହି ଉପକରଣକୁ ବିଲୋପ କରନ୍ତୁ?"
+
+msgid "Supprimer"
+msgstr "ବିଲୋପ କରନ୍ତୁ |"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "ଏହାର ସୁରକ୍ଷା ଆରମ୍ଭ କରିବା ପାଇଁ ଆପଣଙ୍କର ପ୍ରଥମ ସ୍ମାର୍ଟଫୋନ୍ ଯୋଡନ୍ତୁ |"
+
+msgid "Nouvel appareil"
+msgstr "ନୂତନ ଉପକରଣ |"
+
+msgid "Marque"
+msgstr "ବ୍ରାଣ୍ଡ"
+
+msgid "Sélectionner"
+msgstr "ଚୟନ କରନ୍ତୁ |"
+
+msgid "Autre"
+msgstr "ଅନ୍ୟମାନେ |"
+
+msgid "Modèle"
+msgstr "ମଡେଲ୍ |"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "ଆପଣଙ୍କ ଫୋନରେ * # 06 # ଟାଇପ୍ କରନ୍ତୁ |"
+
+msgid "Système d'exploitation"
+msgstr "ଅପରେଟିଂ ସିଷ୍ଟମ୍ |"
+
+msgid "Numéro de téléphone"
+msgstr "ଫୋନ୍ ନମ୍ବର |"
+
+msgid "Enregistrer"
+msgstr "ସଞ୍ଚୟ କରନ୍ତୁ |"
+
+msgid "Connexion"
+msgstr "ସଂଯୋଗ"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "ସ୍ମାର୍ଟଫୋନ୍ ସୁରକ୍ଷା ବ୍ୟବସ୍ଥା |"
+
+msgid "Adresse email"
+msgstr "ଇ-ମେଲ୍ ଠିକଣା |"
+
+msgid "Mot de passe"
+msgstr "ପାସୱାର୍ଡ"
+
+msgid "Se connecter"
+msgstr "ଲଗ୍ ଇନ୍ କରନ୍ତୁ |"
+
+msgid "Mot de passe oublié ?"
+msgstr "ଭୁଲିଯାଇଥିବା ପାସୱାର୍ଡ?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"ଆପଣଙ୍କର ପୂର୍ବରୁ ଏକ ଖାତା ଅଛି କି? ଅନ୍ୟଥା, ଆପଣଙ୍କର ଖାତା ସୃଷ୍ଟି କରିବାକୁ "
+"ଅଗ୍ରଗତି କରନ୍ତୁ!"
+
+msgid "Créer un compte"
+msgstr "ଏକ ଖାତା ସୃଷ୍ଟି କରନ୍ତୁ |"
+
+msgid "Sécurité maximale"
+msgstr "ସର୍ବାଧିକ ସୁରକ୍ଷା"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "ରିମୋଟ ଲକିଂ ସହିତ ଆପଣଙ୍କର ବ୍ୟକ୍ତିଗତ ତଥ୍ୟକୁ ସୁରକ୍ଷିତ କରନ୍ତୁ |"
+
+msgid "Localisation GPS"
+msgstr "GPS ଅବସ୍ଥାନ |"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "ପ୍ରକୃତ ସମୟରେ ଆପଣଙ୍କ ସ୍ମାର୍ଟଫୋନର ସଠିକ୍ ସ୍ଥାନ ଖୋଜ |"
+
+msgid "Alertes instantanées"
+msgstr "ତତକ୍ଷଣାତ୍ ଆଲର୍ଟ |"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "ଚୋରି ଘଟଣାରେ SMS, ଇମେଲ ଏବଂ ପୁସ୍ ବିଜ୍ଞପ୍ତି ଗ୍ରହଣ କର |"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "ଆପଣଙ୍କର ଡିଭାଇସ୍ ସନ୍ଧାନ କରନ୍ତୁ ଏବଂ ବିପଦ କ୍ଷେତ୍ରଗୁଡିକ ଭିଜୁଆଲ୍ କରନ୍ତୁ |"
+
+msgid "Aucun appareil"
+msgstr "କ device ଣସି ଉପକରଣ ନାହିଁ |"
+
+msgid "Zones à risque"
+msgstr "ବିପଦ କ୍ଷେତ୍ରଗୁଡିକ |"
+
+msgid "incidents"
+msgstr "ଘଟଣା"
+
+msgid "Aucune zone signalée"
+msgstr "କ areas ଣସି କ୍ଷେତ୍ର ରିପୋର୍ଟ ହୋଇନାହିଁ |"
+
+msgid "Niveau"
+msgstr "ସ୍ତର"
+
+msgid "Incidents"
+msgstr "ଘଟଣା"
+
+msgid "Profile utilisateur"
+msgstr "ଉପଯୋଗକର୍ତ୍ତା ପ୍ରୋଫାଇଲ୍ |"
+
+msgid "Gérez vos informations personnelles"
+msgstr "ଆପଣଙ୍କର ବ୍ୟକ୍ତିଗତ ସୂଚନା ପରିଚାଳନା କରନ୍ତୁ |"
+
+msgid "Membre depuis"
+msgstr "ସେବେଠାରୁ ସଦସ୍ୟ |"
+
+msgid "Modifier mes informations"
+msgstr "ମୋର ସୂଚନା ସଂପାଦନ କରନ୍ତୁ |"
+
+msgid "Prénom"
+msgstr "ପ୍ରଥମ ନାମ"
+
+msgid "Nom"
+msgstr "ନାମ"
+
+msgid "Changer le mot de passe"
+msgstr "ପାସୱାର୍ଡ ପରିବର୍ତ୍ତନ କରନ୍ତୁ |"
+
+msgid "Nouveau mot de passe"
+msgstr "ନୂତନ ପାସୱାର୍ଡ |"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "ପରିବର୍ତ୍ତନ ନକରିବା ପାଇଁ ଖାଲି ଛାଡିଦିଅ |"
+
+msgid "Enregistrer les modifications"
+msgstr "ପରିବର୍ତ୍ତନଗୁଡିକ ସଞ୍ଚୟ କରନ୍ତୁ |"
+
+msgid "Inscription"
+msgstr "ପଞ୍ଜୀକରଣ"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "ଆପଣଙ୍କର ଡିଭାଇସର ଉନ୍ନତ ସୁରକ୍ଷା ପାଇଁ ଆଣ୍ଟି-ଚୋରିକୁ ସ୍ୱାଗତ |"
+
+msgid "Confirmer"
+msgstr "ନିଶ୍ଚିତ କରନ୍ତୁ |"
+
+msgid "Créer mon compte"
+msgstr "ମୋ ଖାତା ସୃଷ୍ଟି କରନ୍ତୁ |"
+
+msgid "Déjà un compte ?"
+msgstr "ପୂର୍ବରୁ ଏକ ଖାତା ଅଛି କି?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "ପାସୱାର୍ଡ ପୁନ Res ସେଟ୍ କରନ୍ତୁ |"
+
+msgid "Réinitialisation"
+msgstr "ପୁନ et ସେଟ୍ କରନ୍ତୁ |"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "ଆପଣଙ୍କର ପରିଚୟ ଯାଞ୍ଚ କରିବାକୁ ଆପଣଙ୍କର ଇମେଲ୍ ଏବଂ ଫୋନ୍ ନମ୍ବର ପ୍ରବେଶ କରନ୍ତୁ |"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "ପଞ୍ଜୀକରଣ ସମୟରେ ବ୍ୟବହୃତ ସଂଖ୍ୟା |"
+
+msgid "Minimum 6 caractères"
+msgstr "ସର୍ବନିମ୍ନ 6 ଅକ୍ଷର |"
+
+msgid "Confirmer le mot de passe"
+msgstr "ପାସୱାର୍ଡ ନିଶ୍ଚିତ କରନ୍ତୁ |"
+
+msgid "Retourner à la"
+msgstr "କୁ ଫେରନ୍ତୁ |"
+
+msgid "page de connexion"
+msgstr "ଲଗଇନ୍ ପୃଷ୍ଠା |"
+
+msgid "Vérification sécurisée"
+msgstr "ସୁରକ୍ଷିତ ଯା ification ୍ଚ"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "ଆପଣଙ୍କର ପରିଚୟ ଆପଣଙ୍କର ଇମେଲ୍ ଏବଂ ଫୋନ୍ ନମ୍ବର ବ୍ୟବହାର କରି ଯାଞ୍ଚ କରାଯାଇଥାଏ |"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "ଅତିକମରେ 6 ଅକ୍ଷରର ଏକ ସୁରକ୍ଷିତ ପାସୱାର୍ଡ ବାଛନ୍ତୁ |"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{ସମ୍ପାଦକ}: ସମ୍ପାଦନା ବିଫଳ ହେଲା |"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{ସମ୍ପାଦକ}: ସମ୍ପାଦନା ବିଫଳ: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "ୱିଣ୍ଡୋଜ୍ ତ୍ରୁଟି: {ତ୍ରୁଟି}"
+
+msgid "deprecated"
+msgstr "ନାପସନ୍ଦ"
+
+msgid "Options"
+msgstr "ବିକଳ୍ପଗୁଡ଼ିକ"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "ଅପ୍ରତ୍ୟାଶିତ ଅତିରିକ୍ତ ଯୁକ୍ତି ପାଇଛି ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "ଅବନତି ଚେତାବନୀ: {ନାମ! R command କମାଣ୍ଡ ପୁରୁଣା | {extra_message}"
+
+msgid "Aborted!"
+msgstr "ପରିତ୍ୟାଗ!"
+
+msgid "Commands"
+msgstr "ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକ"
+
+msgid "Missing command."
+msgstr "ନିଖୋଜ କମାଣ୍ଡ |"
+
+msgid "Value must be an iterable."
+msgstr "ମୂଲ୍ୟ ନିଶ୍ଚିତ ଭାବରେ ଏକ ପୁନରାବୃତ୍ତି ହେବ |"
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{Nargs} ମୂଲ୍ୟ ନିଏ କିନ୍ତୁ 1 ଦିଆଗଲା |"
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "ଅବନତି ଚେତାବନୀ: {param_type} {name! R} ପୁରୁଣା ହୋଇଛି | {extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "ନାମ '{ନାମ}' ଦୁଇଥର ବ୍ୟାଖ୍ୟା କରାଯାଇଛି |"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"ବୁଲିୟନ୍ ବିକଳ୍ପ {decl! R true ସତ୍ୟ / ମିଥ୍ୟା ପାଇଁ ସମାନ ପତାକା ବ୍ୟବହାର "
+"କରିପାରିବ ନାହିଁ |"
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "ଘୋଷଣାନାମା {decls! R with ସହିତ ବିକଳ୍ପ ପାଇଁ ନାମ ନିର୍ଣ୍ଣୟ କରିପାରିଲା ନାହିଁ |"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"କ options ଣସି ବିକଳ୍ପ ବ୍ୟାଖ୍ୟା କରାଯାଇ ନାହିଁ କିନ୍ତୁ ଏକ ନାମ ପାସ୍ ହେଲା "
+"({ନାମ}) | ଆପଣ ଏହା ବଦଳରେ ଏକ ଯୁକ୍ତି ଘୋଷଣା କରିବାକୁ ଚାହୁଁଛନ୍ତି କି? ଆପଣ '- "
+"{ନାମ}' ପାସ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "ଡିଫଲ୍ଟ: {ଡିଫଲ୍ଟ}"
+
+msgid "required"
+msgstr "ଆବଶ୍ୟକ"
+
+msgid "(dynamic)"
+msgstr "(ଗତିଶୀଳ)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"ଯୁକ୍ତିଗୁଡ଼ିକ ଠିକ୍ ଗୋଟିଏ ପାରାମିଟର ଘୋଷଣାନାମା ନେଇଥାଏ, {ଦ length ର୍ଘ୍ୟ}: "
+"{ଡିକଲ୍ସ got ପାଇଲା |"
+
+msgid "Do you want to continue?"
+msgstr "ଆପଣ ଜାରି ରଖିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+msgid "Confirm the action without prompting."
+msgstr "ବିନା ପ୍ରଶ୍ନରେ କାର୍ଯ୍ୟକୁ ନିଶ୍ଚିତ କରନ୍ତୁ |"
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "% (prog) s, ସଂସ୍କରଣ% (ସଂସ୍କରଣ) s |"
+
+msgid "Show the version and exit."
+msgstr "ସଂସ୍କରଣ ଦେଖାନ୍ତୁ ଏବଂ ପ୍ରସ୍ଥାନ କରନ୍ତୁ |"
+
+msgid "Show this message and exit."
+msgstr "ଏହି ବାର୍ତ୍ତା ଦେଖାନ୍ତୁ ଏବଂ ପ୍ରସ୍ଥାନ କରନ୍ତୁ |"
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "ତୁମର ଅର୍ଥ {ସମ୍ଭାବନା}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "ତ୍ରୁଟି: {ବାର୍ତ୍ତା}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "ସହାୟତା ପାଇଁ '{ନିର୍ଦ୍ଦେଶ} {ବିକଳ୍ପ}' ଚେଷ୍ଟା କରନ୍ତୁ |"
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "ଅବ val ଧ ମୂଲ୍ୟ: {ବାର୍ତ୍ତା}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{Param_hint}: {ବାର୍ତ୍ତା} ପାଇଁ ଅବ val ଧ ମୂଲ୍ୟ |"
+
+msgid "Missing argument"
+msgstr "ନିଖୋଜ ଯୁକ୍ତି |"
+
+msgid "Missing option"
+msgstr "ନିଖୋଜ ବିକଳ୍ପ |"
+
+msgid "Missing parameter"
+msgstr "ଅନୁପସ୍ଥିତ ପାରାମିଟର |"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "ନିଖୋଜ {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "ନିଖୋଜ ପାରାମିଟର: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "ସେପରି କ option ଣସି ବିକଳ୍ପ {ନାମ! R} ନାହିଁ |"
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "ଏପରି କ command ଣସି ନିର୍ଦ୍ଦେଶ {ନାମ! R} ନାହିଁ |"
+
+msgid "unknown error"
+msgstr "ଅଜ୍ଞାତ ତ୍ରୁଟି |"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "ଫାଇଲ୍ {ଫାଇଲନାମ! R}: {ସନ୍ଦେଶ} ଖୋଲି ପାରିଲା ନାହିଁ |"
+
+msgid "Usage:"
+msgstr "ବ୍ୟବହାର:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "ବିକଳ୍ପ ପାଇଁ ଅବ val ଧ ପ୍ରାରମ୍ଭ ବର୍ଣ୍ଣ ({ବିକଳ୍ପ})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "ଯୁକ୍ତି {ନାମ! R {{nargs} ମୂଲ୍ୟ ନେଇଥାଏ |"
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "ବିକଳ୍ପ {ନାମ! R a ଏକ ମୂଲ୍ୟ ନିଏ ନାହିଁ |"
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "ବିକଳ୍ପ {ନାମ! R an ଏକ ଯୁକ୍ତି ଆବଶ୍ୟକ କରେ |"
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "4.4 ରୁ ଅଧିକ ପୁରୁଣା ସଂସ୍କରଣ ପାଇଁ ସେଲ୍ ସମାପ୍ତି ସମର୍ଥିତ ନୁହେଁ |"
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "ବାସ୍ ସଂସ୍କରଣ ଚିହ୍ନଟ କରିପାରିଲା ନାହିଁ, ସେଲ୍ ସମାପ୍ତି ସମର୍ଥିତ ନୁହେଁ |"
+
+msgid "Repeat for confirmation"
+msgstr "ନିଶ୍ଚିତକରଣ ପାଇଁ ପୁନରାବୃତ୍ତି କରନ୍ତୁ |"
+
+msgid "Error: The two entered values do not match."
+msgstr "ତ୍ରୁଟି: ଦୁଇଟି ପ୍ରବିଷ୍ଟ ମୂଲ୍ୟ ମେଳ ଖାଉ ନାହିଁ |"
+
+msgid "Error: invalid input"
+msgstr "ତ୍ରୁଟି: ଅବ inv ଧ ଇନପୁଟ୍ |"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "ଅଜ୍ଞାତ ରଙ୍ଗ {ରଙ୍ଗ! R}"
+
+msgid "Press any key to continue..."
+msgstr "ଜାରି ରଖିବାକୁ ଯେକ key ଣସି ଚାବିକୁ ଦବାନ୍ତୁ ..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "ଏଥିରୁ ବାଛନ୍ତୁ: \\ n \\ t {ପସନ୍ଦ}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{ମୂଲ୍ୟ! r} {ପସନ୍ଦ} ନୁହେଁ |"
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "ପସନ୍ଦ ({ପସନ୍ଦ})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{ମୂଲ୍ୟ! r} ଫର୍ମାଟ୍ {ଫର୍ମାଟ୍ match ସହିତ ମେଳ ଖାଉ ନାହିଁ |"
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{ମୂଲ୍ୟ! r a ଏକ ବ valid ଧ {ସଂଖ୍ୟା_ ପ୍ରକାର ନୁହେଁ |"
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{ମୂଲ୍ୟ} ପରିସର {ପରିସର} ରେ ନାହିଁ |"
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{ମୂଲ୍ୟ! r a ଏକ ବ valid ଧ ବୁଲିଅନ୍ ନୁହେଁ | ସ୍ୱୀକୃତିପ୍ରାପ୍ତ ମୂଲ୍ୟ: {ରାଜ୍ୟ}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{ମୂଲ୍ୟ! r a ଏକ ବ valid ଧ UUID ନୁହେଁ |"
+
+msgid "file"
+msgstr "ଫାଇଲ୍ |"
+
+msgid "directory"
+msgstr "ଡିରେକ୍ଟୋରୀ"
+
+msgid "path"
+msgstr "ପଥ"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{ନାମ} {ଫାଇଲନାମ! r exist ବିଦ୍ୟମାନ ନାହିଁ |"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{ନାମ} {ଫାଇଲନାମ! r} ହେଉଛି ଏକ ଫାଇଲ୍ |"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{ନାମ} {ଫାଇଲନାମ! r} ଏକ ଡିରେକ୍ଟୋରୀ |"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{ନାମ} {ଫାଇଲନାମ! r read ପଠନୀୟ ନୁହେଁ |"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{ନାମ} {ଫାଇଲନାମ! r write ଲେଖା ଯୋଗ୍ୟ ନୁହେଁ |"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{ନାମ} {ଫାଇଲନାମ! r} ଏକଜେକ୍ୟୁଟେବଲ୍ ନୁହେଁ |"
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} ମୂଲ୍ୟଗୁଡ଼ିକ ଆବଶ୍ୟକ, କିନ୍ତୁ {len_value} ଦିଆଯାଇଥିଲା |"
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "ଅଜ୍ଞାତ ମାନକ ଷ୍ଟ୍ରିମ୍ '{ନାମ}'"
+
+msgid "This field is required."
+msgstr "ଏହି କ୍ଷେତ୍ର ଆବଶ୍ୟକ |"
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "ଫାଇଲର ଏକ ଅନୁମୋଦିତ ବିସ୍ତୃତକରଣ ନାହିଁ: {ବିସ୍ତୃତକରଣ}"
+
+msgid "File does not have an approved extension."
+msgstr "ଫାଇଲର ଏକ ଅନୁମୋଦିତ ବିସ୍ତୃତକରଣ ନାହିଁ |"
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "ଫାଇଲ୍ {min_size} ଏବଂ {max_size} ବାଇଟ୍ ମଧ୍ୟରେ ହେବା ଜରୁରୀ |"
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "ଅବ% ଧ କ୍ଷେତ୍ର ନାମ '% s' |"
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "କ୍ଷେତ୍ର ନିଶ୍ଚିତ ଭାବରେ% (ଅନ୍ୟ_ନାମ) s ସହିତ ସମାନ ହେବା ଉଚିତ |"
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "କ୍ଷେତ୍ର ଅତିକମରେ% (ମିନିଟ୍) d ଅକ୍ଷର ଲମ୍ବା ହେବା ଜରୁରୀ |"
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "କ୍ଷେତ୍ର% (ସର୍ବାଧିକ) d ବର୍ଣ୍ଣରୁ ଅଧିକ ହୋଇପାରିବ ନାହିଁ |"
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "ଫିଲ୍ଡ ନିଶ୍ଚିତ ଭାବରେ% (ସର୍ବାଧିକ) d ଅକ୍ଷର ଲମ୍ବା ହେବା ଜରୁରୀ |"
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr ""
+"କ୍ଷେତ୍ର ନିଶ୍ଚିତ ଭାବରେ% (ମିନିଟ୍) d ରୁ% (ସର୍ବାଧିକ) d ଅକ୍ଷର ଲମ୍ବା ହେବା "
+"ଆବଶ୍ୟକ |"
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "ସଂଖ୍ୟା ଅତିକମରେ% (ମିନିଟ୍) s ହେବା ଜରୁରୀ |"
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "ସଂଖ୍ୟା ନିଶ୍ଚିତ ଭାବରେ ସର୍ବାଧିକ% (ସର୍ବାଧିକ) s ହେବା ଆବଶ୍ୟକ |"
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "ସଂଖ୍ୟା ନିଶ୍ଚିତ ଭାବରେ% (ମିନିଟ୍) s ଏବଂ% (ସର୍ବାଧିକ) s ମଧ୍ୟରେ ହେବା ଆବଶ୍ୟକ |"
+
+msgid "Invalid input."
+msgstr "ଅବ val ଧ ଇନପୁଟ୍ |"
+
+msgid "Invalid email address."
+msgstr "ଅବ val ଧ ଇମେଲ ଠିକଣା |"
+
+msgid "Invalid IP address."
+msgstr "ଅବ IP ଧ IP ଠିକଣା |"
+
+msgid "Invalid Mac address."
+msgstr "ଅବ val ଧ ମ୍ୟାକ୍ ଠିକଣା |"
+
+msgid "Invalid URL."
+msgstr "ଅବ val ଧ URL"
+
+msgid "Invalid UUID."
+msgstr "ଅବ U ଧ UUID |"
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "ଅବ val ଧ ମୂଲ୍ୟ, ନିଶ୍ଚିତ ଭାବରେ ଗୋଟିଏ:% (ମୂଲ୍ୟ) ଗୁଡିକ |"
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "ଅବ val ଧ ମୂଲ୍ୟ, କ% ଣସି ହୋଇପାରିବ ନାହିଁ:% (ମୂଲ୍ୟ) s |"
+
+msgid "This field cannot be edited."
+msgstr "ଏହି କ୍ଷେତ୍ର ସମ୍ପାଦିତ ହୋଇପାରିବ ନାହିଁ |"
+
+msgid "This field is disabled and cannot have a value."
+msgstr "ଏହି କ୍ଷେତ୍ର ଅକ୍ଷମ ହୋଇଛି ଏବଂ ଏହାର ମୂଲ୍ୟ ରହିପାରିବ ନାହିଁ |"
+
+msgid "Invalid CSRF Token."
+msgstr "ଅବ val ଧ CSRF ଟୋକେନ୍ |"
+
+msgid "CSRF token missing."
+msgstr "CSRF ଟୋକେନ୍ ନିଖୋଜ |"
+
+msgid "CSRF failed."
+msgstr "CSRF ବିଫଳ ହେଲା |"
+
+msgid "CSRF token expired."
+msgstr "CSRF ଟୋକେନ୍ ମିଆଦ ପୂର୍ଣ୍ଣ ହୋଇଛି |"
+
+msgid "Invalid Choice: could not coerce."
+msgstr "ଅବ val ଧ ପସନ୍ଦ: ବାଧ୍ୟ କରିପାରିଲା ନାହିଁ |"
+
+msgid "Choices cannot be None."
+msgstr "ପସନ୍ଦ କିଛି ହୋଇପାରିବ ନାହିଁ |"
+
+msgid "Not a valid choice."
+msgstr "ଏକ ବ valid ଧ ପସନ୍ଦ ନୁହେଁ |"
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"ଅବ val ଧ ପସନ୍ଦ (ଗୁଡିକ): ଗୋଟିଏ କିମ୍ବା ଅଧିକ ଡାଟା ଇନପୁଟ୍ ବାଧ୍ୟ ହୋଇପାରିବ "
+"ନାହିଁ |"
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'% (ମୂଲ୍ୟ) s' ଏହି କ୍ଷେତ୍ର ପାଇଁ ଏକ ବ valid ଧ ପସନ୍ଦ ନୁହେଁ |"
+
+msgid "Not a valid datetime value."
+msgstr "ଏକ ବ valid ଧ ଡାଟାଇଟ୍ ମୂଲ୍ୟ ନୁହେଁ |"
+
+msgid "Not a valid date value."
+msgstr "ଏକ ବ date ଧ ତାରିଖ ମୂଲ୍ୟ ନୁହେଁ |"
+
+msgid "Not a valid time value."
+msgstr "ଏକ ବ valid ଧ ସମୟ ମୂଲ୍ୟ ନୁହେଁ |"
+
+msgid "Not a valid week value."
+msgstr "ଏକ ବ week ଧ ସପ୍ତାହ ମୂଲ୍ୟ ନୁହେଁ |"
+
+msgid "Not a valid integer value."
+msgstr "ଏକ ବ valid ଧ ପୂର୍ଣ୍ଣ ମୂଲ୍ୟ ନୁହେଁ |"
+
+msgid "Not a valid decimal value."
+msgstr "ଏକ ବ valid ଧ ଦଶମିକ ମୂଲ୍ୟ ନୁହେଁ |"
+
+msgid "Not a valid float value."
+msgstr "ଏକ ବ valid ଧ ଫ୍ଲୋଟ୍ ମୂଲ୍ୟ ନୁହେଁ |"
+

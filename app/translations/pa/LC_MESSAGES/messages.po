@@ -1,0 +1,1038 @@
+# Translations for PA.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: pa\n"
+"Language-Team: pa <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਪੰਨੇ ਨੂੰ ਐਕਸੈਸ ਕਰਨ ਲਈ ਲੌਗ ਇਨ ਕਰੋ।"
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "ਇਹ IMEI ਪਹਿਲਾਂ ਹੀ ਸਿਸਟਮ ਵਿੱਚ ਰਜਿਸਟਰਡ ਹੈ।"
+
+msgid "Accès non autorisé."
+msgstr "ਅਣਅਧਿਕਾਰਤ ਪਹੁੰਚ."
+
+msgid "Appareil déverrouillé."
+msgstr "ਡਿਵਾਈਸ ਅਨਲੌਕ ਕੀਤੀ ਗਈ।"
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "ਚੇਤਾਵਨੀ ਬਣਾਈ ਗਈ! ਸੂਚਨਾਵਾਂ ਭੇਜੀਆਂ।"
+
+msgid "Alerte résolue."
+msgstr "ਚੇਤਾਵਨੀ ਹੱਲ ਕੀਤੀ ਗਈ।"
+
+msgid "Pas encore de compte ?"
+msgstr "ਅਜੇ ਤੱਕ ਕੋਈ ਖਾਤਾ ਨਹੀਂ ਹੈ?"
+
+msgid "Mon Profil"
+msgstr "ਮੇਰੀ ਪ੍ਰੋਫ਼ਾਈਲ"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "ਕਨੈਕਸ਼ਨ ਸਫਲ! ਸੁਆਗਤ ਹੈ।"
+
+msgid "Email ou mot de passe incorrect."
+msgstr "ਗਲਤ ਈਮੇਲ ਜਾਂ ਪਾਸਵਰਡ।"
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "ਸਾਰੇ ਲੋੜੀਂਦੇ ਖੇਤਰ ਪੂਰੇ ਕੀਤੇ ਜਾਣੇ ਚਾਹੀਦੇ ਹਨ।"
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "ਪਾਸਵਰਡ ਮੇਲ ਨਹੀਂ ਖਾਂਦੇ।"
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 6 ਅੱਖਰ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।"
+
+msgid "Cet email est déjà utilisé."
+msgstr "ਇਹ ਈਮੇਲ ਪਹਿਲਾਂ ਹੀ ਵਰਤੋਂ ਵਿੱਚ ਹੈ।"
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "ਖਾਤਾ ਸਫਲਤਾਪੂਰਵਕ ਬਣਾਇਆ ਗਿਆ! ਲਾਗਿਨ."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "ਇਸ ਈਮੇਲ ਨਾਲ ਕੋਈ ਖਾਤਾ ਨਹੀਂ ਮਿਲਿਆ।"
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "ਫ਼ੋਨ ਨੰਬਰ ਖਾਤਾ ਨੰਬਰ ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ।"
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "ਨਵਾਂ ਪਾਸਵਰਡ ਲਾਜ਼ਮੀ ਹੈ।"
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "ਪਾਸਵਰਡ ਸਫਲਤਾਪੂਰਵਕ ਰੀਸੈਟ! ਲਾਗਿਨ."
+
+msgid "Vous avez été déconnecté."
+msgstr "ਤੁਹਾਨੂੰ ਡਿਸਕਨੈਕਟ ਕੀਤਾ ਗਿਆ ਹੈ।"
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "ਬ੍ਰਾਂਡ, ਮਾਡਲ ਅਤੇ IMEI ਲੋੜੀਂਦੇ ਹਨ।"
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "ਇਸ IMEI ਵਾਲਾ ਇੱਕ ਡਿਵਾਈਸ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।"
+
+msgid "Appareil enregistré avec succès !"
+msgstr "ਡਿਵਾਈਸ ਸਫਲਤਾਪੂਰਵਕ ਰਜਿਸਟਰ ਹੋਈ!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "ਤੁਸੀਂ ਇਹ ਕਾਰਵਾਈ ਕਰਨ ਲਈ ਅਧਿਕਾਰਤ ਨਹੀਂ ਹੋ।"
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "ਡਿਵਾਈਸ ਰਿਮੋਟਲੀ ਸਫਲਤਾਪੂਰਵਕ ਲੌਕ ਕੀਤੀ ਗਈ।"
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "ਡਿਵਾਈਸ ਸਫਲਤਾਪੂਰਵਕ ਅਨਲੌਕ ਕੀਤੀ ਗਈ।"
+
+msgid "Appareil supprimé."
+msgstr "ਡੀਵਾਈਸ ਮਿਟਾਇਆ ਗਿਆ।"
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਡਿਵਾਈਸ ਅਤੇ ਚੇਤਾਵਨੀ ਕਿਸਮ ਚੁਣੋ।"
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "ਇਹ ਡਿਵਾਈਸ ਤੁਹਾਡੀ ਨਹੀਂ ਹੈ।"
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "ਚੇਤਾਵਨੀ ਸਫਲਤਾਪੂਰਵਕ ਰਿਪੋਰਟ ਕੀਤੀ ਗਈ। ਡਿਵਾਈਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ ਹੈ।"
+
+msgid "Alerte marquée comme résolue."
+msgstr "ਸੁਚੇਤਨਾ ਨੂੰ ਹੱਲ ਕੀਤਾ ਗਿਆ ਵਜੋਂ ਚਿੰਨ੍ਹਿਤ ਕੀਤਾ ਗਿਆ।"
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "ਪਹਿਲਾ ਨਾਮ, ਆਖਰੀ ਨਾਮ ਅਤੇ ਈਮੇਲ ਦੀ ਲੋੜ ਹੈ।"
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "ਇਹ ਈਮੇਲ ਪਹਿਲਾਂ ਹੀ ਕਿਸੇ ਹੋਰ ਖਾਤੇ ਦੁਆਰਾ ਵਰਤੀ ਜਾਂਦੀ ਹੈ।"
+
+msgid "Profil mis à jour avec succès !"
+msgstr "ਪ੍ਰੋਫਾਈਲ ਸਫਲਤਾਪੂਰਵਕ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "ਪ੍ਰਸ਼ਾਸਕਾਂ ਲਈ ਪਹੁੰਚ ਰਾਖਵੀਂ ਹੈ।"
+
+msgid "Erreur marquée comme résolue."
+msgstr "ਤਰੁੱਟੀ ਨੂੰ ਹੱਲ ਕੀਤਾ ਗਿਆ ਵਜੋਂ ਚਿੰਨ੍ਹਿਤ ਕੀਤਾ ਗਿਆ।"
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "ਤੁਸੀਂ ਆਪਣਾ ਖਾਤਾ ਨਹੀਂ ਮਿਟਾ ਸਕਦੇ।"
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "ਉਪਭੋਗਤਾ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਮਿਟਾਇਆ ਗਿਆ।"
+
+msgid "Administration"
+msgstr "ਪ੍ਰਸ਼ਾਸਨ"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "ਐਂਟੀ-ਚੋਰੀ ਸਿਸਟਮ ਦਾ ਕੇਂਦਰੀਕ੍ਰਿਤ ਪ੍ਰਬੰਧਨ"
+
+msgid "Utilisateurs"
+msgstr "ਉਪਭੋਗਤਾ"
+
+msgid "Actifs aujourd'hui"
+msgstr "ਅੱਜ ਸਰਗਰਮ ਹੈ"
+
+msgid "Nouveaux ce mois"
+msgstr "ਇਸ ਮਹੀਨੇ ਨਵਾਂ"
+
+msgid "Appareils"
+msgstr "ਡਿਵਾਈਸਾਂ"
+
+msgid "Alertes actives"
+msgstr "ਕਿਰਿਆਸ਼ੀਲ ਚੇਤਾਵਨੀਆਂ"
+
+msgid "Analytique"
+msgstr "ਵਿਸ਼ਲੇਸ਼ਣਾਤਮਕ"
+
+msgid "Journal d'activité"
+msgstr "ਗਤੀਵਿਧੀ ਲੌਗ"
+
+msgid "Erreurs"
+msgstr "ਗਲਤੀਆਂ"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "ਕਨੈਕਸ਼ਨ (ਪਿਛਲੇ 7 ਦਿਨ)"
+
+msgid "Alertes par type"
+msgstr "ਕਿਸਮ ਦੁਆਰਾ ਚੇਤਾਵਨੀਆਂ"
+
+msgid "Appareils par opérateur"
+msgstr "ਆਪਰੇਟਰ ਦੁਆਰਾ ਡਿਵਾਈਸਾਂ"
+
+msgid "Résumé du système"
+msgstr "ਸਿਸਟਮ ਸੰਖੇਪ"
+
+msgid "Utilisateurs total"
+msgstr "ਕੁੱਲ ਉਪਭੋਗਤਾ"
+
+msgid "Appareils enregistrés"
+msgstr "ਰਜਿਸਟਰਡ ਡਿਵਾਈਸਾਂ"
+
+msgid "Total alertes"
+msgstr "ਕੁੱਲ ਚੇਤਾਵਨੀਆਂ"
+
+msgid "Alertes en cours"
+msgstr "ਮੌਜੂਦਾ ਚੇਤਾਵਨੀਆਂ"
+
+msgid "Erreurs non résolues"
+msgstr "ਅਣਸੁਲਝੀਆਂ ਤਰੁੱਟੀਆਂ"
+
+msgid "Dernières activités"
+msgstr "ਨਵੀਨਤਮ ਗਤੀਵਿਧੀਆਂ"
+
+msgid "récentes"
+msgstr "ਹਾਲੀਆ"
+
+msgid "Utilisateur"
+msgstr "ਉਪਭੋਗਤਾ"
+
+msgid "Action"
+msgstr "ਕਾਰਵਾਈ"
+
+msgid "Détails"
+msgstr "ਵੇਰਵੇ"
+
+msgid "Adresse IP"
+msgstr "IP ਪਤਾ"
+
+msgid "Navigateur"
+msgstr "ਬ੍ਰਾਊਜ਼ਰ"
+
+msgid "Date"
+msgstr "ਮਿਤੀ"
+
+msgid "Aucune activité"
+msgstr "ਕੋਈ ਗਤੀਵਿਧੀ ਨਹੀਂ"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "ਉਪਭੋਗਤਾ ਗਤੀਵਿਧੀਆਂ ਇੱਥੇ ਦਿਖਾਈ ਦੇਣਗੀਆਂ।"
+
+msgid "Journal d'erreurs"
+msgstr "ਗਲਤੀ ਲੌਗ"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "ਕੀ ਸਾਰੀਆਂ ਤਰੁੱਟੀਆਂ ਨੂੰ ਠੀਕ ਕਰਨਾ ਹੈ?"
+
+msgid "Tout résoudre"
+msgstr "ਹਰ ਚੀਜ਼ ਨੂੰ ਹੱਲ ਕਰੋ"
+
+msgid "non résolues"
+msgstr "ਅਣਸੁਲਝਿਆ"
+
+msgid "Tout est résolu"
+msgstr "ਹਰ ਚੀਜ਼ ਦਾ ਹੱਲ ਹੈ"
+
+msgid "Type"
+msgstr "ਕਿਸਮ"
+
+msgid "Description"
+msgstr "ਵਰਣਨ"
+
+msgid "Statut"
+msgstr "ਸਥਿਤੀ"
+
+msgid "Résolu"
+msgstr "ਹੱਲ ਕੀਤਾ"
+
+msgid "Non résolu"
+msgstr "ਅਣਸੁਲਝਿਆ"
+
+msgid "Aucune erreur enregistrée"
+msgstr "ਕੋਈ ਗਲਤੀ ਦਰਜ ਨਹੀਂ ਕੀਤੀ ਗਈ"
+
+msgid "Le système fonctionne correctement."
+msgstr "ਸਿਸਟਮ ਸਹੀ ਢੰਗ ਨਾਲ ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ।"
+
+msgid "Gestion des utilisateurs"
+msgstr "ਉਪਭੋਗਤਾ ਪ੍ਰਬੰਧਨ"
+
+msgid "comptes"
+msgstr "ਖਾਤੇ"
+
+msgid "Email"
+msgstr "ਈ-ਮੇਲ"
+
+msgid "Téléphone"
+msgstr "ਫ਼ੋਨ"
+
+msgid "Rôle"
+msgstr "ਭੂਮਿਕਾ"
+
+msgid "Inscrit le"
+msgstr "'ਤੇ ਦਰਜ ਕੀਤਾ ਗਿਆ"
+
+msgid "Actions"
+msgstr "ਕਾਰਵਾਈਆਂ"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "ਕੀ ਇਸ ਉਪਭੋਗਤਾ ਅਤੇ ਉਹਨਾਂ ਦੀਆਂ ਸਾਰੀਆਂ ਡਿਵਾਈਸਾਂ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?"
+
+msgid "Vous"
+msgstr "ਤੁਸੀਂ"
+
+msgid "Connexions"
+msgstr "ਕਨੈਕਸ਼ਨ"
+
+msgid "Vol"
+msgstr "ਫਲਾਈਟ"
+
+msgid "Perte"
+msgstr "ਨੁਕਸਾਨ"
+
+msgid "Anomalie"
+msgstr "ਵਿਗਾੜ"
+
+msgid "Alertes"
+msgstr "ਚੇਤਾਵਨੀਆਂ"
+
+msgid "Gestion des alertes"
+msgstr "ਚੇਤਾਵਨੀ ਪ੍ਰਬੰਧਨ"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "ਚੋਰੀ ਜਾਂ ਨੁਕਸਾਨ ਦੀ ਰਿਪੋਰਟ ਕਰੋ ਅਤੇ ਇਤਿਹਾਸ ਨੂੰ ਟਰੈਕ ਕਰੋ"
+
+msgid "Signaler un vol / perte"
+msgstr "ਚੋਰੀ/ਨੁਕਸਾਨ ਦੀ ਰਿਪੋਰਟ ਕਰੋ"
+
+msgid "En cours"
+msgstr "ਤਰੱਕੀ ਹੋ ਰਹੀ ਹੈ"
+
+msgid "Résolues"
+msgstr "ਹੱਲ ਕੀਤਾ"
+
+msgid "Historique des alertes"
+msgstr "ਚੇਤਾਵਨੀ ਇਤਿਹਾਸ"
+
+msgid "Appareil"
+msgstr "ਡਿਵਾਈਸ"
+
+msgid "Priorité"
+msgstr "ਤਰਜੀਹ"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "ਕੀ ਇਸ ਸੁਚੇਤਨਾ ਦੀ ਹੱਲ ਕੀਤੀ ਵਜੋਂ ਨਿਸ਼ਾਨਦੇਹੀ ਕਰਨੀ ਹੈ?"
+
+msgid "Résoudre"
+msgstr "ਹੱਲ"
+
+msgid "Aucune alerte"
+msgstr "ਕੋਈ ਚੇਤਾਵਨੀ ਨਹੀਂ"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "ਖੁਸ਼ਖਬਰੀ! ਕੋਈ ਅਲਰਟ ਦੀ ਰਿਪੋਰਟ ਨਹੀਂ ਕੀਤੀ ਗਈ ਹੈ।"
+
+msgid "Signaler un vol ou une perte"
+msgstr "ਚੋਰੀ ਜਾਂ ਨੁਕਸਾਨ ਦੀ ਰਿਪੋਰਟ ਕਰੋ"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"ਚੋਰੀ ਦੀ ਰਿਪੋਰਟ ਕਰਨ ਨਾਲ, ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਆਪਣੇ ਆਪ ਲਾਕ ਹੋ ਜਾਵੇਗੀ ਅਤੇ ਸੂਚਨਾਵਾਂ "
+"ਭੇਜੀਆਂ ਜਾਣਗੀਆਂ।"
+
+msgid "Appareil concerné"
+msgstr "ਪ੍ਰਭਾਵਿਤ ਡਿਵਾਈਸ"
+
+msgid "Sélectionner un appareil"
+msgstr "ਇੱਕ ਡਿਵਾਈਸ ਚੁਣੋ"
+
+msgid "Type d'alerte"
+msgstr "ਚੇਤਾਵਨੀ ਕਿਸਮ"
+
+msgid "Décrivez les circonstances..."
+msgstr "ਹਾਲਾਤਾਂ ਦਾ ਵਰਣਨ ਕਰੋ..."
+
+msgid "Annuler"
+msgstr "ਰੱਦ ਕਰੋ"
+
+msgid "Signaler"
+msgstr "ਰਿਪੋਰਟ"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "ਇੰਟੈਲੀਜੈਂਟ ਐਂਟੀ-ਥੈਫਟ ਸਿਸਟਮ — ਸਮਾਰਟਫੋਨ ਲਈ ਸੁਰੱਖਿਆ ਪਲੇਟਫਾਰਮ"
+
+msgid "Système Anti-Vol"
+msgstr "ਐਂਟੀ-ਚੋਰੀ ਸਿਸਟਮ"
+
+msgid "PRINCIPAL"
+msgstr "ਮੁੱਖ"
+
+msgid "Tableau de bord"
+msgstr "ਡੈਸ਼ਬੋਰਡ"
+
+msgid "SÉCURITÉ"
+msgstr "ਸੁਰੱਖਿਆ"
+
+msgid "Géolocalisation"
+msgstr "ਭੂਗੋਲਿਕ ਸਥਾਨ"
+
+msgid "ADMINISTRATION"
+msgstr "ਪ੍ਰਸ਼ਾਸਨ"
+
+msgid "Déconnexion"
+msgstr "ਡਿਸਕਨੈਕਟ ਕਰੋ"
+
+msgid "Changer de langue"
+msgstr "ਭਾਸ਼ਾ ਬਦਲੋ"
+
+msgid "Rechercher une langue..."
+msgstr "ਕਿਸੇ ਭਾਸ਼ਾ ਦੀ ਖੋਜ ਕਰੋ..."
+
+msgid "Profil"
+msgstr "ਪ੍ਰੋਫਾਈਲ"
+
+msgid "Changer de thème"
+msgstr "ਥੀਮ ਬਦਲੋ"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਸੁਰੱਖਿਆ ਦੀ ਸੰਖੇਪ ਜਾਣਕਾਰੀ"
+
+msgid "Ajouter un appareil"
+msgstr "ਇੱਕ ਡਿਵਾਈਸ ਸ਼ਾਮਲ ਕਰੋ"
+
+msgid "Appareils volés"
+msgstr "ਚੋਰੀ ਹੋਏ ਯੰਤਰ"
+
+msgid "Verrouillés à distance"
+msgstr "ਰਿਮੋਟਲੀ ਲਾਕ ਹੈ"
+
+msgid "Alertes récentes"
+msgstr "ਹਾਲੀਆ ਚੇਤਾਵਨੀਆਂ"
+
+msgid "Voir tout"
+msgstr "ਸਾਰੇ ਦੇਖੋ"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "ਕੋਈ ਚੇਤਾਵਨੀ ਨਹੀਂ। ਤੁਹਾਡੀਆਂ ਡਿਵਾਈਸਾਂ ਸੁਰੱਖਿਅਤ ਹਨ!"
+
+msgid "Mes appareils"
+msgstr "ਮੇਰੀਆਂ ਡਿਵਾਈਸਾਂ"
+
+msgid "Aucun appareil enregistré"
+msgstr "ਕੋਈ ਡਿਵਾਈਸ ਰਜਿਸਟਰਡ ਨਹੀਂ ਹੈ"
+
+msgid "Ajouter"
+msgstr "ਸ਼ਾਮਲ ਕਰੋ"
+
+msgid "en attente"
+msgstr "ਹੋਲਡ ਤੇ"
+
+msgid "Gestion des appareils"
+msgstr "ਡਿਵਾਈਸ ਪ੍ਰਬੰਧਨ"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "ਆਪਣੇ ਸਮਾਰਟਫ਼ੋਨ ਨੂੰ ਰਜਿਸਟਰ ਕਰੋ ਅਤੇ ਪ੍ਰਬੰਧਿਤ ਕਰੋ"
+
+msgid "Opérateur"
+msgstr "ਆਪਰੇਟਰ"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "ਕੀ ਇਸ ਡਿਵਾਈਸ ਨੂੰ ਰਿਮੋਟਲੀ ਲਾਕ ਕਰਨਾ ਹੈ?"
+
+msgid "Verrouiller"
+msgstr "ਤਾਲਾ"
+
+msgid "Déverrouiller"
+msgstr "ਅਨਲੌਕ ਕਰੋ"
+
+msgid "Supprimer cet appareil ?"
+msgstr "ਕੀ ਇਸ ਡੀਵਾਈਸ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?"
+
+msgid "Supprimer"
+msgstr "ਮਿਟਾਓ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "ਇਸਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਆਪਣੇ ਪਹਿਲੇ ਸਮਾਰਟਫੋਨ ਨੂੰ ਸ਼ਾਮਲ ਕਰੋ।"
+
+msgid "Nouvel appareil"
+msgstr "ਨਵੀਂ ਡਿਵਾਈਸ"
+
+msgid "Marque"
+msgstr "ਬ੍ਰਾਂਡ"
+
+msgid "Sélectionner"
+msgstr "ਚੁਣੋ"
+
+msgid "Autre"
+msgstr "ਹੋਰ"
+
+msgid "Modèle"
+msgstr "ਮਾਡਲ"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "ਆਪਣੇ ਫ਼ੋਨ 'ਤੇ *#06# ਟਾਈਪ ਕਰੋ"
+
+msgid "Système d'exploitation"
+msgstr "ਆਪਰੇਟਿੰਗ ਸਿਸਟਮ"
+
+msgid "Numéro de téléphone"
+msgstr "ਫੋਨ ਨੰਬਰ"
+
+msgid "Enregistrer"
+msgstr "ਸੇਵ ਕਰੋ"
+
+msgid "Connexion"
+msgstr "ਕਨੈਕਸ਼ਨ"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "ਸਮਾਰਟਫੋਨ ਸੁਰੱਖਿਆ ਸਿਸਟਮ"
+
+msgid "Adresse email"
+msgstr "ਈਮੇਲ ਪਤਾ"
+
+msgid "Mot de passe"
+msgstr "ਪਾਸਵਰਡ"
+
+msgid "Se connecter"
+msgstr "ਲਾਗਿਨ"
+
+msgid "Mot de passe oublié ?"
+msgstr "ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ਹੋ?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ? ਨਹੀਂ ਤਾਂ, ਆਪਣਾ ਖਾਤਾ ਬਣਾਉਣ ਲਈ ਅੱਗੇ ਵਧੋ!"
+
+msgid "Créer un compte"
+msgstr "ਅਕਾਉਂਟ ਬਣਾਓ"
+
+msgid "Sécurité maximale"
+msgstr "ਵੱਧ ਤੋਂ ਵੱਧ ਸੁਰੱਖਿਆ"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "ਰਿਮੋਟ ਲੌਕਿੰਗ ਨਾਲ ਆਪਣੇ ਨਿੱਜੀ ਡੇਟਾ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ"
+
+msgid "Localisation GPS"
+msgstr "GPS ਟਿਕਾਣਾ"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "ਰੀਅਲ ਟਾਈਮ ਵਿੱਚ ਆਪਣੇ ਸਮਾਰਟਫੋਨ ਦੀ ਸਹੀ ਸਥਿਤੀ ਲੱਭੋ"
+
+msgid "Alertes instantanées"
+msgstr "ਤਤਕਾਲ ਚੇਤਾਵਨੀਆਂ"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "ਚੋਰੀ ਦੀ ਸਥਿਤੀ ਵਿੱਚ SMS, ਈਮੇਲ ਅਤੇ ਪੁਸ਼ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "ਆਪਣੀਆਂ ਡਿਵਾਈਸਾਂ ਦਾ ਪਤਾ ਲਗਾਓ ਅਤੇ ਜੋਖਮ ਵਾਲੇ ਖੇਤਰਾਂ ਦੀ ਕਲਪਨਾ ਕਰੋ"
+
+msgid "Aucun appareil"
+msgstr "ਕੋਈ ਡਿਵਾਈਸ ਨਹੀਂ"
+
+msgid "Zones à risque"
+msgstr "ਜੋਖਮ ਵਾਲੇ ਖੇਤਰ"
+
+msgid "incidents"
+msgstr "ਘਟਨਾਵਾਂ"
+
+msgid "Aucune zone signalée"
+msgstr "ਕਿਸੇ ਖੇਤਰ ਦੀ ਰਿਪੋਰਟ ਨਹੀਂ ਕੀਤੀ ਗਈ"
+
+msgid "Niveau"
+msgstr "ਪੱਧਰ"
+
+msgid "Incidents"
+msgstr "ਘਟਨਾਵਾਂ"
+
+msgid "Profile utilisateur"
+msgstr "ਉਪਭੋਗਤਾ ਪ੍ਰੋਫਾਈਲ"
+
+msgid "Gérez vos informations personnelles"
+msgstr "ਆਪਣੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ"
+
+msgid "Membre depuis"
+msgstr "ਤੋਂ ਮੈਂਬਰ"
+
+msgid "Modifier mes informations"
+msgstr "ਮੇਰੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸੋਧੋ"
+
+msgid "Prénom"
+msgstr "ਪਹਿਲਾ ਨਾਂ"
+
+msgid "Nom"
+msgstr "ਨਾਮ"
+
+msgid "Changer le mot de passe"
+msgstr "ਪਾਸਵਰਡ ਬਦਲੋ"
+
+msgid "Nouveau mot de passe"
+msgstr "ਨਵਾਂ ਪਾਸਵਰਡ"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "ਖਾਲੀ ਛੱਡੋ ਤਾਂ ਜੋ ਬਦਲਿਆ ਨਾ ਜਾਵੇ"
+
+msgid "Enregistrer les modifications"
+msgstr "ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ"
+
+msgid "Inscription"
+msgstr "ਰਜਿਸਟ੍ਰੇਸ਼ਨ"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "ਤੁਹਾਡੀਆਂ ਡਿਵਾਈਸਾਂ ਦੀ ਬਿਹਤਰ ਸੁਰੱਖਿਆ ਲਈ ਐਂਟੀ-ਚੋਰੀ ਵਿੱਚ ਸੁਆਗਤ ਹੈ"
+
+msgid "Confirmer"
+msgstr "ਪੁਸ਼ਟੀ ਕਰੋ"
+
+msgid "Créer mon compte"
+msgstr "ਮੇਰਾ ਖਾਤਾ ਬਣਾਓ"
+
+msgid "Déjà un compte ?"
+msgstr "ਕੀ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਖਾਤਾ ਹੈ?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰੋ"
+
+msgid "Réinitialisation"
+msgstr "ਰੀਸੈਟ ਕਰੋ"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "ਆਪਣੀ ਪਛਾਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਆਪਣਾ ਈਮੇਲ ਅਤੇ ਫ਼ੋਨ ਨੰਬਰ ਦਾਖਲ ਕਰੋ"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "ਰਜਿਸਟਰੇਸ਼ਨ ਦੌਰਾਨ ਵਰਤਿਆ ਗਿਆ ਨੰਬਰ"
+
+msgid "Minimum 6 caractères"
+msgstr "ਘੱਟੋ-ਘੱਟ 6 ਅੱਖਰ"
+
+msgid "Confirmer le mot de passe"
+msgstr "ਪਾਸਵਰਡ ਪੱਕਾ ਕਰੋ"
+
+msgid "Retourner à la"
+msgstr "'ਤੇ ਵਾਪਸ ਜਾਓ"
+
+msgid "page de connexion"
+msgstr "ਲਾਗਇਨ ਪੰਨਾ"
+
+msgid "Vérification sécurisée"
+msgstr "ਸੁਰੱਖਿਅਤ ਤਸਦੀਕ"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"ਤੁਹਾਡੀ ਈਮੇਲ ਅਤੇ ਫ਼ੋਨ ਨੰਬਰ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤੁਹਾਡੀ ਪਛਾਣ ਦੀ ਪੁਸ਼ਟੀ ਕੀਤੀ ਜਾਂਦੀ "
+"ਹੈ"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "ਘੱਟੋ-ਘੱਟ 6 ਅੱਖਰਾਂ ਦਾ ਸੁਰੱਖਿਅਤ ਪਾਸਵਰਡ ਚੁਣੋ"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: ਸੰਪਾਦਨ ਅਸਫਲ ਰਿਹਾ"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: ਸੰਪਾਦਨ ਅਸਫਲ: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "ਵਿੰਡੋਜ਼ ਗਲਤੀ: {error}"
+
+msgid "deprecated"
+msgstr "ਬਰਤਰਫ਼ ਕੀਤਾ ਗਿਆ"
+
+msgid "Options"
+msgstr "ਵਿਕਲਪ"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "ਅਚਾਨਕ ਵਾਧੂ ਦਲੀਲ ਮਿਲੀ ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "ਨਾਪਸੰਦ ਚੇਤਾਵਨੀ: ਕਮਾਂਡ {name!r} ਨੂੰ ਬਰਤਰਫ਼ ਕੀਤਾ ਗਿਆ ਹੈ।{extra_message}"
+
+msgid "Aborted!"
+msgstr "ਅਧੂਰਾ ਛੱਡਿਆ ਗਿਆ!"
+
+msgid "Commands"
+msgstr "ਹੁਕਮ"
+
+msgid "Missing command."
+msgstr "ਗੁੰਮ ਕਮਾਂਡ।"
+
+msgid "Value must be an iterable."
+msgstr "ਮੁੱਲ ਇੱਕ ਦੁਹਰਾਉਣਯੋਗ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} ਮੁੱਲ ਲੈਂਦਾ ਹੈ ਪਰ 1 ਦਿੱਤਾ ਗਿਆ ਸੀ।"
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"ਨਾਪਸੰਦ ਚੇਤਾਵਨੀ: {param_type} {name!r} ਨੂੰ ਬਰਤਰਫ਼ ਕੀਤਾ ਗਿਆ "
+"ਹੈ।{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "ਨਾਮ '{name}' ਦੋ ਵਾਰ ਪਰਿਭਾਸ਼ਿਤ ਕੀਤਾ ਗਿਆ"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "ਬੂਲੀਅਨ ਵਿਕਲਪ {decl!r} ਸਹੀ/ਗਲਤ ਲਈ ਇੱਕੋ ਫਲੈਗ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।"
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "ਘੋਸ਼ਣਾਵਾਂ {decls!r} ਦੇ ਨਾਲ ਵਿਕਲਪ ਲਈ ਨਾਮ ਨਿਰਧਾਰਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"ਕੋਈ ਵਿਕਲਪ ਪਰਿਭਾਸ਼ਿਤ ਨਹੀਂ ਪਰ ਇੱਕ ਨਾਮ ਪਾਸ ਕੀਤਾ ਗਿਆ ਸੀ ({name})। ਕੀ ਤੁਹਾਡਾ "
+"ਮਤਲਬ ਇਸਦੀ ਬਜਾਏ ਇੱਕ ਦਲੀਲ ਘੋਸ਼ਿਤ ਕਰਨਾ ਸੀ? ਕੀ ਤੁਹਾਡਾ ਮਤਲਬ '--{name}' ਪਾਸ "
+"ਕਰਨਾ ਸੀ?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "ਪੂਰਵ-ਨਿਰਧਾਰਤ: {default}"
+
+msgid "required"
+msgstr "ਲੋੜੀਂਦਾ ਹੈ"
+
+msgid "(dynamic)"
+msgstr "(ਗਤੀਸ਼ੀਲ)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "ਆਰਗੂਮੈਂਟਸ ਬਿਲਕੁਲ ਇੱਕ ਪੈਰਾਮੀਟਰ ਘੋਸ਼ਣਾ ਲੈਂਦੇ ਹਨ, {ਲੰਬਾਈ} ਮਿਲੀ: {decls}।"
+
+msgid "Do you want to continue?"
+msgstr "ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+msgid "Confirm the action without prompting."
+msgstr "ਬਿਨਾਂ ਪੁੱਛੇ ਕਾਰਵਾਈ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।"
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, ਵਰਜਨ %(ਵਰਜਨ)s"
+
+msgid "Show the version and exit."
+msgstr "ਸੰਸਕਰਣ ਦਿਖਾਓ ਅਤੇ ਬਾਹਰ ਨਿਕਲੋ।"
+
+msgid "Show this message and exit."
+msgstr "ਇਹ ਸੁਨੇਹਾ ਦਿਖਾਓ ਅਤੇ ਬਾਹਰ ਨਿਕਲੋ।"
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "ਕੀ ਤੁਹਾਡਾ ਮਤਲਬ {possibility} ਸੀ?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "ਤਰੁੱਟੀ: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "ਮਦਦ ਲਈ '{command} {option}' ਅਜ਼ਮਾਓ।"
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "ਅਵੈਧ ਮੁੱਲ: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint} ਲਈ ਅਵੈਧ ਮੁੱਲ: {message}"
+
+msgid "Missing argument"
+msgstr "ਗੁੰਮ ਦਲੀਲ"
+
+msgid "Missing option"
+msgstr "ਗੁੰਮ ਵਿਕਲਪ"
+
+msgid "Missing parameter"
+msgstr "ਗੁੰਮ ਪੈਰਾਮੀਟਰ"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "ਗੁੰਮ {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "ਗੁੰਮ ਪੈਰਾਮੀਟਰ: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "ਅਜਿਹਾ ਕੋਈ ਵਿਕਲਪ ਨਹੀਂ {name!r}।"
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "ਅਜਿਹਾ ਕੋਈ ਹੁਕਮ {name!r} ਨਹੀਂ ਹੈ।"
+
+msgid "unknown error"
+msgstr "ਅਣਜਾਣ ਗਲਤੀ"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "ਫ਼ਾਈਲ {filename!r} ਨੂੰ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ: {message}"
+
+msgid "Usage:"
+msgstr "ਵਰਤੋ:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "ਵਿਕਲਪ ({option}) ਲਈ ਅਵੈਧ ਸ਼ੁਰੂਆਤੀ ਅੱਖਰ"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "ਆਰਗੂਮੈਂਟ {name!r} {nargs} ਮੁੱਲ ਲੈਂਦਾ ਹੈ।"
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "ਵਿਕਲਪ {name!r} ਕੋਈ ਮੁੱਲ ਨਹੀਂ ਲੈਂਦਾ।"
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "ਵਿਕਲਪ {name!r} ਲਈ ਇੱਕ ਆਰਗੂਮੈਂਟ ਦੀ ਲੋੜ ਹੈ।"
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "ਸ਼ੈੱਲ ਸੰਪੂਰਨਤਾ 4.4 ਤੋਂ ਪੁਰਾਣੇ Bash ਸੰਸਕਰਣਾਂ ਲਈ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ।"
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Bash ਸੰਸਕਰਣ ਖੋਜਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ, ਸ਼ੈੱਲ ਸੰਪੂਰਨਤਾ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ।"
+
+msgid "Repeat for confirmation"
+msgstr "ਪੁਸ਼ਟੀ ਲਈ ਦੁਹਰਾਓ"
+
+msgid "Error: The two entered values do not match."
+msgstr "ਗਲਤੀ: ਦੋ ਦਰਜ ਕੀਤੇ ਮੁੱਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦੇ।"
+
+msgid "Error: invalid input"
+msgstr "ਗਲਤੀ: ਅਵੈਧ ਇਨਪੁਟ"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "ਅਣਜਾਣ ਰੰਗ {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "ਜਾਰੀ ਰੱਖਣ ਲਈ ਕੋਈ ਵੀ ਕੁੰਜੀ ਦਬਾਓ..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "ਇਸ ਵਿੱਚੋਂ ਚੁਣੋ:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} {choice} ਨਹੀਂ ਹੈ।"
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "ਚੋਣ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ਫਾਰਮੈਟ {format} ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ।"
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ਇੱਕ ਵੈਧ {number_type} ਨਹੀਂ ਹੈ।"
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} ਰੇਂਜ {range} ਵਿੱਚ ਨਹੀਂ ਹੈ।"
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ਇੱਕ ਵੈਧ ਬੂਲੀਅਨ ਨਹੀਂ ਹੈ। ਮਾਨਤਾ ਪ੍ਰਾਪਤ ਮੁੱਲ: {ਸਟੇਟਸ}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ਇੱਕ ਵੈਧ UUID ਨਹੀਂ ਹੈ।"
+
+msgid "file"
+msgstr "ਫਾਈਲ"
+
+msgid "directory"
+msgstr "ਡਾਇਰੈਕਟਰੀ"
+
+msgid "path"
+msgstr "ਮਾਰਗ"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} ਮੌਜੂਦ ਨਹੀਂ ਹੈ।"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} ਇੱਕ ਫ਼ਾਈਲ ਹੈ।"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} ਇੱਕ ਡਾਇਰੈਕਟਰੀ ਹੈ।"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} ਪੜ੍ਹਨਯੋਗ ਨਹੀਂ ਹੈ।"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} ਲਿਖਣਯੋਗ ਨਹੀਂ ਹੈ।"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} ਚੱਲਣਯੋਗ ਨਹੀਂ ਹੈ।"
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} ਮੁੱਲ ਲੋੜੀਂਦੇ ਹਨ, ਪਰ {len_value} ਦਿੱਤਾ ਗਿਆ ਸੀ।"
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "ਅਣਜਾਣ ਮਿਆਰੀ ਸਟ੍ਰੀਮ '{name}'"
+
+msgid "This field is required."
+msgstr "ਇਸ ਫੀਲਡ ਦੀ ਲੋੜ ਹੈ."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "ਫ਼ਾਈਲ ਵਿੱਚ ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਐਕਸਟੈਂਸ਼ਨ ਨਹੀਂ ਹੈ: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "ਫ਼ਾਈਲ ਵਿੱਚ ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਐਕਸਟੈਂਸ਼ਨ ਨਹੀਂ ਹੈ।"
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "ਫ਼ਾਈਲ {min_size} ਅਤੇ {max_size} ਬਾਈਟਾਂ ਵਿਚਕਾਰ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।"
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "ਅਵੈਧ ਫੀਲਡ ਨਾਮ '%s'।"
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "ਖੇਤਰ %(other_name)s ਦੇ ਬਰਾਬਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "ਫੀਲਡ ਘੱਟੋ-ਘੱਟ %(ਮਿੰਟ)d ਅੱਖਰ ਲੰਮਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "ਫੀਲਡ %(ਅਧਿਕਤਮ)d ਅੱਖਰ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "ਫੀਲਡ ਬਿਲਕੁਲ %(ਅਧਿਕਤਮ)d ਅੱਖਰ ਲੰਮਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "ਫੀਲਡ %(min)d ਅਤੇ %(max)d ਅੱਖਰਾਂ ਦੇ ਵਿਚਕਾਰ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।"
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "ਸੰਖਿਆ ਘੱਟੋ-ਘੱਟ %(ਮਿੰਟ) ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।"
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "ਸੰਖਿਆ ਵੱਧ ਤੋਂ ਵੱਧ % (ਅਧਿਕਤਮ) ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।"
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "ਸੰਖਿਆ %(min)s ਅਤੇ %(max)s ਦੇ ਵਿਚਕਾਰ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।"
+
+msgid "Invalid input."
+msgstr "ਅਵੈਧ ਇਨਪੁਟ।"
+
+msgid "Invalid email address."
+msgstr "ਅਵੈਧ ਈਮੇਲ ਪਤਾ।"
+
+msgid "Invalid IP address."
+msgstr "ਅਵੈਧ IP ਪਤਾ।"
+
+msgid "Invalid Mac address."
+msgstr "ਅਵੈਧ ਮੈਕ ਪਤਾ।"
+
+msgid "Invalid URL."
+msgstr "ਅਵੈਧ URL।"
+
+msgid "Invalid UUID."
+msgstr "ਅਵੈਧ UUID।"
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "ਅਵੈਧ ਮੁੱਲ, ਇਹਨਾਂ ਵਿੱਚੋਂ ਇੱਕ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ: %(ਮੁੱਲ)।"
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "ਅਵੈਧ ਮੁੱਲ, ਇਹਨਾਂ ਵਿੱਚੋਂ ਕੋਈ ਵੀ ਨਹੀਂ ਹੋ ਸਕਦਾ: %(ਮੁੱਲ)।"
+
+msgid "This field cannot be edited."
+msgstr "ਇਹ ਖੇਤਰ ਸੰਪਾਦਿਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।"
+
+msgid "This field is disabled and cannot have a value."
+msgstr "ਇਹ ਖੇਤਰ ਅਯੋਗ ਹੈ ਅਤੇ ਇਸਦਾ ਕੋਈ ਮੁੱਲ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
+
+msgid "Invalid CSRF Token."
+msgstr "ਅਵੈਧ CSRF ਟੋਕਨ।"
+
+msgid "CSRF token missing."
+msgstr "CSRF ਟੋਕਨ ਗੁੰਮ ਹੈ।"
+
+msgid "CSRF failed."
+msgstr "CSRF ਅਸਫਲ ਰਿਹਾ।"
+
+msgid "CSRF token expired."
+msgstr "CSRF ਟੋਕਨ ਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ।"
+
+msgid "Invalid Choice: could not coerce."
+msgstr "ਅਵੈਧ ਚੋਣ: ਜ਼ਬਰਦਸਤੀ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।"
+
+msgid "Choices cannot be None."
+msgstr "ਚੋਣਾਂ ਕੋਈ ਨਹੀਂ ਹੋ ਸਕਦੀਆਂ।"
+
+msgid "Not a valid choice."
+msgstr "ਵੈਧ ਚੋਣ ਨਹੀਂ ਹੈ।"
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"ਅਵੈਧ ਵਿਕਲਪ: ਇੱਕ ਜਾਂ ਇੱਕ ਤੋਂ ਵੱਧ ਡੇਟਾ ਇਨਪੁਟਸ ਨੂੰ ਜ਼ਬਰਦਸਤੀ ਨਹੀਂ ਲਿਆ ਜਾ ਸਕਦਾ"
+" ਹੈ।"
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' ਇਸ ਖੇਤਰ ਲਈ ਵੈਧ ਚੋਣ ਨਹੀਂ ਹੈ।"
+
+msgid "Not a valid datetime value."
+msgstr "ਵੈਧ ਮਿਤੀ ਸਮਾਂ ਮੁੱਲ ਨਹੀਂ ਹੈ।"
+
+msgid "Not a valid date value."
+msgstr "ਵੈਧ ਮਿਤੀ ਮੁੱਲ ਨਹੀਂ ਹੈ।"
+
+msgid "Not a valid time value."
+msgstr "ਇੱਕ ਵੈਧ ਸਮਾਂ ਮੁੱਲ ਨਹੀਂ ਹੈ।"
+
+msgid "Not a valid week value."
+msgstr "ਵੈਧ ਹਫ਼ਤੇ ਦਾ ਮੁੱਲ ਨਹੀਂ ਹੈ।"
+
+msgid "Not a valid integer value."
+msgstr "ਵੈਧ ਪੂਰਨ ਅੰਕ ਮੁੱਲ ਨਹੀਂ ਹੈ।"
+
+msgid "Not a valid decimal value."
+msgstr "ਵੈਧ ਦਸ਼ਮਲਵ ਮੁੱਲ ਨਹੀਂ ਹੈ।"
+
+msgid "Not a valid float value."
+msgstr "ਵੈਧ ਫਲੋਟ ਮੁੱਲ ਨਹੀਂ ਹੈ।"
+

@@ -1,0 +1,1061 @@
+# Translations for SG.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: sg\n"
+"Language-Team: sg <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "E hunda na mo ti lï na yâ ni ti wara lembeti so."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "IMEI so ayeke na yâ ti système ni awe."
+
+msgid "Accès non autorisé."
+msgstr "Azo so amû lege na ala pëpe ti lï dä."
+
+msgid "Appareil déverrouillé."
+msgstr "Appareil ni a zi ni."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "A leke alerte! A tokua a-avis."
+
+msgid "Alerte résolue."
+msgstr "Alert a leke ni."
+
+msgid "Pas encore de compte ?"
+msgstr "Compte ni ayeke dä pëpe?"
+
+msgid "Mon Profil"
+msgstr "Profil ti mbi"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Connexion ni aga nzoni! Nzoni gangon."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email wala mot de passe so ayeke na lege ni pëpe."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "A lingbi a sû atënë kue so a hunda."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "A-mot de passe ayeke lingbi tere pëpe."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "A lingbi mot de passe ni aduti na atënë 6 wala ahon so."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Email so ayeke na yâ ti kua ti e."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Compte so a créé ni nzoni! Lo lï na yâ ni."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "A wara pëpe mbeni compte na yâ ti email so."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Numéro ti téléphone ni alingbi pëpe na numéro ti compte ni."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Afini mot de passe ayeke obligatoire."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "A réinitialiser mot de passe nzoni! Lo lï na yâ ni."
+
+msgid "Vous avez été déconnecté."
+msgstr "A déconnecté e awe."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "A hunda ti wara marque, model nga na IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Mbeni appareil so ayeke na IMEI so ayeke dä awe."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Appareil so a enregistré ni nzoni!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "A mû lege na mo pëpe ti sara ye so."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Appareil so a kanga ni nzoni."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Appareil ni a zi ni nzoni."
+
+msgid "Appareil supprimé."
+msgstr "Appareil ni ayeke supprimé."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Pardon, soro mbeni appareil nga na mara ti alerte ni."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Appareil so ayeke ti mo pëpe."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert afa tënë ni nzoni. Appareil ni ayeke na securité."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alert marqué tongana a leke ni awe."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "A hunda ti wara kozo iri, iri ti sewa nga na e-mail."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Email so ayeke na yâ ti mbeni compte nde awe."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil ti mo aga nzoni!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "A bata lege ti lï dä gi teti azo so ayeke bâ lege ti aye."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Erreur so a marqué ni awe."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "E lingbi pëpe ti supprimé compte ti e wani."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "User ni ayeke supprimé ni."
+
+msgid "Administration"
+msgstr "Ndokua ti komande"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "A yeke kota ye ti tene a sara kua na système ti Anti-Vol ."
+
+msgid "Utilisateurs"
+msgstr "Azo ti kua"
+
+msgid "Actifs aujourd'hui"
+msgstr "Active laso"
+
+msgid "Nouveaux ce mois"
+msgstr "Fini nze so ."
+
+msgid "Appareils"
+msgstr "Appareil"
+
+msgid "Alertes actives"
+msgstr "A-alerte so ayeke sara kua"
+
+msgid "Analytique"
+msgstr "Analyse"
+
+msgid "Journal d'activité"
+msgstr "Mbeti ti kusala"
+
+msgid "Erreurs"
+msgstr "Afaute"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Abungbi (lango 7 so ahon)"
+
+msgid "Alertes par type"
+msgstr "A-alerte na lege ti mara ni"
+
+msgid "Appareils par opérateur"
+msgstr "Appareil na lege ti zo ti kua ni"
+
+msgid "Résumé du système"
+msgstr "Résumé ti système ni"
+
+msgid "Utilisateurs total"
+msgstr "Wungo ti azo kue"
+
+msgid "Appareils enregistrés"
+msgstr "A-appareil so a sû iri ti ala na mbeti ."
+
+msgid "Total alertes"
+msgstr "A-alerte kue"
+
+msgid "Alertes en cours"
+msgstr "A-alerte ti fadeso"
+
+msgid "Erreurs non résolues"
+msgstr "Afaute so a leke ni pëpe"
+
+msgid "Dernières activités"
+msgstr "Afini kusala"
+
+msgid "récentes"
+msgstr "ti fafadeso"
+
+msgid "Utilisateur"
+msgstr "User"
+
+msgid "Action"
+msgstr "Sara aye"
+
+msgid "Détails"
+msgstr "Akete tene"
+
+msgid "Adresse IP"
+msgstr "Adresse IP"
+
+msgid "Navigateur"
+msgstr "Navigateur"
+
+msgid "Date"
+msgstr "Lango"
+
+msgid "Aucune activité"
+msgstr "Mbeni kusala ayeke dä pëpe ."
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Akusala ti kusala ayeke sigigi ande ge."
+
+msgid "Journal d'erreurs"
+msgstr "Mbeti ti erreur"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Ti leke afaute kue?"
+
+msgid "Tout résoudre"
+msgstr "Lo leke aye kue ."
+
+msgid "non résolues"
+msgstr "a leke ni pëpe"
+
+msgid "Tout est résolu"
+msgstr "A leke aye kue awe ."
+
+msgid "Type"
+msgstr "Nzobe"
+
+msgid "Description"
+msgstr "Fango ye"
+
+msgid "Statut"
+msgstr "Dutingo ti zo"
+
+msgid "Résolu"
+msgstr "A leke ni"
+
+msgid "Non résolu"
+msgstr "A leke ni pëpe"
+
+msgid "Aucune erreur enregistrée"
+msgstr "A sû afaute na mbeti pëpe ."
+
+msgid "Le système fonctionne correctement."
+msgstr "Système ni ayeke sara kua nzoni."
+
+msgid "Gestion des utilisateurs"
+msgstr "Gestion ti azo"
+
+msgid "comptes"
+msgstr "acompte"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Singa"
+
+msgid "Rôle"
+msgstr "Kua"
+
+msgid "Inscrit le"
+msgstr "A sû iri ti lo na mbeti na ."
+
+msgid "Actions"
+msgstr "Akusala"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Effacé user so na a-appareil ti ala kue?"
+
+msgid "Vous"
+msgstr "MO"
+
+msgid "Connexions"
+msgstr "Abungbi"
+
+msgid "Vol"
+msgstr "Lapara"
+
+msgid "Perte"
+msgstr "Girisa"
+
+msgid "Anomalie"
+msgstr "Anomalie"
+
+msgid "Alertes"
+msgstr "A-alerte"
+
+msgid "Gestion des alertes"
+msgstr "Gestion ti alerte"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Fa tënë ti nzi wala ti bubango ye nga na mbaï ti ."
+
+msgid "Signaler un vol / perte"
+msgstr "Rapport ti nzi/perte"
+
+msgid "En cours"
+msgstr "Na yâ ti guengo na li ni"
+
+msgid "Résolues"
+msgstr "A leke ni"
+
+msgid "Historique des alertes"
+msgstr "Histoire ti alerte"
+
+msgid "Appareil"
+msgstr "Ye so a leke ni"
+
+msgid "Priorité"
+msgstr "Kozoni"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Marqué alerte so tongana a leke ni awe?"
+
+msgid "Résoudre"
+msgstr "Leke ye"
+
+msgid "Aucune alerte"
+msgstr "Alerte ayeke dä pëpe"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Nzoni tënë! A fa tënë ti a-alerte pëpe."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Rapport ti nzi wala ti bubango ye ."
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Tongana mo fa so mbeni zo anzi ye, a yeke kanga appareil ti mo gi tongaso"
+" nga a yeke tokua na mo ambeni notification."
+
+msgid "Appareil concerné"
+msgstr "Appareil so a sara ngangu na ndo ni"
+
+msgid "Sélectionner un appareil"
+msgstr "Soro mbeni appareil ."
+
+msgid "Type d'alerte"
+msgstr "Mara ti alerte"
+
+msgid "Décrivez les circonstances..."
+msgstr "Fa aye so asi..."
+
+msgid "Annuler"
+msgstr "zi ni"
+
+msgid "Signaler"
+msgstr "Songo"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Système ti nzi so ayeke na ndara — Plateforme ti sécurité ndali ti "
+"a-smartphone"
+
+msgid "Système Anti-Vol"
+msgstr "Système ti kangango lege na nzi"
+
+msgid "PRINCIPAL"
+msgstr "MABOKO"
+
+msgid "Tableau de bord"
+msgstr "Tableau de bord"
+
+msgid "SÉCURITÉ"
+msgstr "BATANGO TI AYE"
+
+msgid "Géolocalisation"
+msgstr "Geolocalisation"
+
+msgid "ADMINISTRATION"
+msgstr "NGOI TI FANGO YE"
+
+msgid "Déconnexion"
+msgstr "Déconnexion"
+
+msgid "Changer de langue"
+msgstr "Changé yanga ti kodoro ."
+
+msgid "Rechercher une langue..."
+msgstr "Gi mbeni yanga ti kodoro..."
+
+msgid "Profil"
+msgstr "Ye ti zo"
+
+msgid "Changer de thème"
+msgstr "Changé li ti tënë ni ."
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Akota tënë ti sécurité ti appareil ti mo ."
+
+msgid "Ajouter un appareil"
+msgstr "Zia mbeni appareil ."
+
+msgid "Appareils volés"
+msgstr "A-appareil so a nzi ni"
+
+msgid "Verrouillés à distance"
+msgstr "A kanga ni na yongoro ndo ."
+
+msgid "Alertes récentes"
+msgstr "A-alerte so asi ade ti ninga pëpe"
+
+msgid "Voir tout"
+msgstr "Bâ aye kue ."
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Alerte ayeke dä pëpe. A-appareil ti e ayeke nzoni!"
+
+msgid "Mes appareils"
+msgstr "Appareil ti mbi"
+
+msgid "Aucun appareil enregistré"
+msgstr "A sû iri ti a-appareil na mbeti pëpe ."
+
+msgid "Ajouter"
+msgstr "Za da"
+
+msgid "en attente"
+msgstr "na ndo ti kungo"
+
+msgid "Gestion des appareils"
+msgstr "Gestion ti appareil"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Enregistré na sara kua na a-smartphone ti mo ."
+
+msgid "Opérateur"
+msgstr "Opérateur"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Lo yeke na appareil so?"
+
+msgid "Verrouiller"
+msgstr "Kanga"
+
+msgid "Déverrouiller"
+msgstr "Zi yanga ti"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Effacé appareil so?"
+
+msgid "Supprimer"
+msgstr "ZI NI"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "A yeke kozo téléphone ti mo ti komanse ti bata ni."
+
+msgid "Nouvel appareil"
+msgstr "Fini appareil"
+
+msgid "Marque"
+msgstr "Mara ye"
+
+msgid "Sélectionner"
+msgstr "Soro ye"
+
+msgid "Autre"
+msgstr "Nde nde"
+
+msgid "Modèle"
+msgstr "Mara ti aye"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "sû *#06# na téléphone ti mo"
+
+msgid "Système d'exploitation"
+msgstr "Système ti kua"
+
+msgid "Numéro de téléphone"
+msgstr "Numéro ti téléphone"
+
+msgid "Enregistrer"
+msgstr "Bata"
+
+msgid "Connexion"
+msgstr "Connexion"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Système ti sécurité ti téléphone ti li"
+
+msgid "Adresse email"
+msgstr "Adresse ti e-mail"
+
+msgid "Mot de passe"
+msgstr "Aye ti honde ngo ni"
+
+msgid "Se connecter"
+msgstr "Lo lï na yâ ni"
+
+msgid "Mot de passe oublié ?"
+msgstr "Mo girisa mot de passe?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Mo yeke na mbeni compte awe? Tongaso pëpe, gue na li ni ti sara compte ti"
+" mo!"
+
+msgid "Créer un compte"
+msgstr "Sara mbeni compte ."
+
+msgid "Sécurité maximale"
+msgstr "Maximum ti sécurité ."
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Bata asango ti mo na lege ti télécommande ."
+
+msgid "Localisation GPS"
+msgstr "GPS ti ndo ni"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Gi mbilimbili ndo so téléphone ti mo ayeke dä na tâ ngoi ni ."
+
+msgid "Alertes instantanées"
+msgstr "A-alerte hio"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Ti wara a-SMS, a-email nga na a-avis ti push tongana a nzi ye ."
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Gi a-appareil ti mo na bâ na yâ ti li ti mo ando so ayeke na yâ ti kpale ."
+
+msgid "Aucun appareil"
+msgstr "Appareil oko pëpe"
+
+msgid "Zones à risque"
+msgstr "Azo so ayeke na yâ ti kpale"
+
+msgid "incidents"
+msgstr "aye so asi"
+
+msgid "Aucune zone signalée"
+msgstr "A fa tënë ti ando ni pëpe ."
+
+msgid "Niveau"
+msgstr "Kere"
+
+msgid "Incidents"
+msgstr "Aye so asi"
+
+msgid "Profile utilisateur"
+msgstr "Profil ti zo"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Sara kua na asango ti mo ."
+
+msgid "Membre depuis"
+msgstr "Membre depuis ngu 1990."
+
+msgid "Modifier mes informations"
+msgstr "Mo leke asango ti mo ."
+
+msgid "Prénom"
+msgstr "Iri ti nzapa"
+
+msgid "Nom"
+msgstr "Iri"
+
+msgid "Changer le mot de passe"
+msgstr "Changé mot de passe ."
+
+msgid "Nouveau mot de passe"
+msgstr "Fini mot de passe"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "zia senge senge ti tene a changé pëpe ."
+
+msgid "Enregistrer les modifications"
+msgstr "Bata achangement ni"
+
+msgid "Inscription"
+msgstr "Ti sû iri ti mo na mbeti"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"A yeke nzoni e sara kua na Anti-Theft ti tene e bata nzoni a-appareil ti "
+"e ."
+
+msgid "Confirmer"
+msgstr "Ye da"
+
+msgid "Créer mon compte"
+msgstr "Sara compte ti mo ."
+
+msgid "Déjà un compte ?"
+msgstr "Mo yeke na mbeni compte awe?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Réinitialiser mot de passe"
+
+msgid "Réinitialisation"
+msgstr "Réinitialiser"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Zia e-mail ti mo nga na numéro ti téléphone ti mo ti hinga zo so mo yeke ."
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Numéro so a sala kusala na ni na ngoi ti sungo iri ti zo ."
+
+msgid "Minimum 6 caractères"
+msgstr "A yeke wara a-image 6"
+
+msgid "Confirmer le mot de passe"
+msgstr "Confirmé mot de passe"
+
+msgid "Retourner à la"
+msgstr "Kiri na ."
+
+msgid "page de connexion"
+msgstr "lembeti ti lï na yâ ni"
+
+msgid "Vérification sécurisée"
+msgstr "Vérification ti sécurité"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"A yeke hinga iri ti mo na lege ti e-mail nga na numéro ti téléphone ti mo"
+" ."
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Soro mbeni mot de passe so ayeke na atënë 6 wala ahon so ."
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{éditeur}: A leke ni nzoni pëpe"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{éditeur}: A leke ni nzoni pëpe: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Faute ti Windows: {faute}"
+
+msgid "deprecated"
+msgstr "a buba ni awe"
+
+msgid "Options"
+msgstr "Alege ti soro"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Mo wara mbeni tënë nde so mo ku tere ti mo na ni pëpe ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"Gbotongo mê ti ziango na sese: Komandema {iri!r} ayeke na lege ni "
+"pëpe.{mbeni_sango nde}"
+
+msgid "Aborted!"
+msgstr "A fâ aborte!"
+
+msgid "Commands"
+msgstr "Akomandema ."
+
+msgid "Missing command."
+msgstr "Komandema so amanke."
+
+msgid "Value must be an iterable."
+msgstr "A lingbi ngere ni aduti mbeni ye so a lingbi ti kiri pekoni."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "A mû {nargs} a-valeur me 1 a mû."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Agboto mê ti azo: {param_type} {iri!r} ayeke na lege ni pëpe.{mbeni_sango"
+" nde}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Iri '{iri}' a fa nda ni fani use"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Option ti Boolean {decl!r} alingbi pëpe ti sala kusala na oko drapeau ni "
+"teti tâ tënë/mvene."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr ""
+"A lingbi ti hinga iri ti option ni pëpe na lege ti atënë ti fango na gigi"
+" {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"A fa nda ti a-option pëpe me a mû mbeni iri ({iri}). Mo ye ti fa mbeni "
+"tënë na place ni? Mo ye ti tene '--{iri}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {bar}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "defaut: {defaut}"
+
+msgid "required"
+msgstr "ahunda ni"
+
+msgid "(dynamic)"
+msgstr "(ngangu)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"A-argument ni amû mbilimbili mbeni paramètre oko ti fa ni, a wara "
+"{longueur}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Mo ye ti ngbâ ti sara ni?"
+
+msgid "Confirm the action without prompting."
+msgstr "Confirmé kusala ni sân ti tene a hunda mo."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, version %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Fa version ni na gigi."
+
+msgid "Show this message and exit."
+msgstr "Fa tokua so na mo sigigi."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Mo ye ti tene {possibilité}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Erreur: {tokua}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Tara ti wara '{commandement} {option}' ti wara mungo maboko."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Valeur so ayeke na lege ni pëpe: {tokua}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Valeur so ayeke na lege ni pëpe ndali ti {param_hint}: {tokua}"
+
+msgid "Missing argument"
+msgstr "Argument so amanke"
+
+msgid "Missing option"
+msgstr "Option so amanke"
+
+msgid "Missing parameter"
+msgstr "Paramètre so amanke"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{mara_ti_paramètre} amanke"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Paramètre so amanke: {iri_ti_paramètre}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Mara ti option tongaso ayeke dä pëpe {iri!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Mara ti komandema tongaso ayeke dä pëpe {iri!r}."
+
+msgid "unknown error"
+msgstr "faute so a hinga ni pëpe"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "A lingbi ti zi fichier {iri ti fichier!r}: {tokua} pepe"
+
+msgid "Usage:"
+msgstr "Sara:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Mbeti ti tongo nda ni so ayeke na lege ni pëpe ndali ti option ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argument {iri!r} amû {nargs} a-valeur."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Option {iri!r} ayeke mû mbeni ngere pëpe."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Option {iri!r} ahunda ti tene a zia mbeni tënë na ndo ni."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"A yeke mû maboko pëpe na hunzingo ti Shell teti aversion ti Bash so ayeke"
+" ngbele ye ahon 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"A lingbi ti hinga version ti Bash pëpe, a yeke mû maboko pëpe na hunzingo"
+" ti shell."
+
+msgid "Repeat for confirmation"
+msgstr "Kiri mo tene ni ti tene a confirmé ni ."
+
+msgid "Error: The two entered values do not match."
+msgstr "Erreur: A-valeur use so a sû na yâ ni ague oko pëpe."
+
+msgid "Error: invalid input"
+msgstr "Erreur: entrée so ayeke na lege ni pëpe"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "A hinga couleur ni pëpe {couleur!r}"
+
+msgid "Press any key to continue..."
+msgstr "Zia mbeni clé ti gue na li ni..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Soro na popo ti:\\n\\t{asoro}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{valeur!r} ayeke pëpe {sorongo}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Sorongo ({asoro})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{valeur!r} a lingbi na format {format} pepe."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{valeur!r} ayeke pëpe mbeni {mara ti_numéro} so ayeke na lege ni."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{valeur} ayeke na yâ ti range {range} pëpe."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr ""
+"{valeur!r} ayeke pëpe mbeni boolean so ayeke na lege ni. A hinga akota "
+"ye: {a-état}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{valeur!r} ayeke pëpe mbeni UUID so ayeke na lege ni."
+
+msgid "file"
+msgstr "mbeti"
+
+msgid "directory"
+msgstr "répertoire"
+
+msgid "path"
+msgstr "lege"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{iri} {iri ti fichier!r} ayeke dä pëpe."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{iri} {iri ti fichier!r} ayeke mbeni fichier."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{iri} {iri ti fichier!r} ayeke mbeni répertoire."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{iri} {iri ti fichier!r} ayeke ye ti dikongo ni pëpe."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{iri} {iri ti fichier!r} ayeke ye ti sungo mbeti pepe."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{iri} {iri ti fichier!r} ayeke sara kua pëpe."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} a yeke hunda, me {len_valeur} a yeke."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "A hinga pepe stream ti standard '{iri}'"
+
+msgid "This field is required."
+msgstr "A hunda ti sara ni."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Fichier ni ayeke na mbeni extension so a yeda na ni pëpe: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Fichier ni ayeke na mbeni extension so a yeda na ni pëpe."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "A lingbi fichier ni aduti na popo ti {mini_taille} na {max_taille} octets."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Iri ti ndo ni ayeke '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "A lingbi ndo ni aduti legeoko na %(mbeni_iri)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "A lingbi ndo ni aduti kamême %(min)d ti atënë."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Field alingbi ti duti yongoro ahon %(max)d pëpe."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "A lingbi ndo ni aduti mbilimbili %(max)d ti atënë."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "A lingbi ndo ni aduti na popo ti %(min)d na %(max)d ti akota tënë."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "A lingbi wungo ni aduti kamême %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "A lingbi wungo ni aduti mingi ahon %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "A lingbi wungo ni aduti na popo ti %(min)s na %(max)s."
+
+msgid "Invalid input."
+msgstr "Input so ayeke na lege ni pëpe."
+
+msgid "Invalid email address."
+msgstr "Adresse e-mail so ayeke na lege ni pëpe."
+
+msgid "Invalid IP address."
+msgstr "Adresse IP so ayeke na lege ni pëpe."
+
+msgid "Invalid Mac address."
+msgstr "Adresse ti Mac so ayeke na lege ni pëpe."
+
+msgid "Invalid URL."
+msgstr "URL so ayeke na lege ni pëpe."
+
+msgid "Invalid UUID."
+msgstr "UUID so ayeke na lege ni pëpe."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr ""
+"Valeur so ayeke na lege ni pëpe, a lingbi ti duti mbeni oko ti: "
+"%(valeur)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr ""
+"Valeur so ayeke na lege ni pëpe, alingbi ti duti pëpe mbeni oko ti: "
+"%(valeur)s."
+
+msgid "This field cannot be edited."
+msgstr "A lingbi ti leke yâ ti aye so pëpe."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "A yeke na lege ni ti tene a lingbi ti duti na mbeni ngere pëpe."
+
+msgid "Invalid CSRF Token."
+msgstr "Jeton ti CSRF so ayeke na lege ni pëpe."
+
+msgid "CSRF token missing."
+msgstr "CSRF jeton ni ayeke dä pëpe."
+
+msgid "CSRF failed."
+msgstr "CSRF asala kusala."
+
+msgid "CSRF token expired."
+msgstr "CSRF jeton ni ahunzi."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Choix so ayeke na lege ni pëpe: alingbi pëpe ti gbu zo na ngangu."
+
+msgid "Choices cannot be None."
+msgstr "Asoro alingbi pëpe ti duti Mbeni oko pëpe."
+
+msgid "Not a valid choice."
+msgstr "A yeke pëpe mbeni nzoni ye ti soro."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Choix(s) so ayeke na lege ni pëpe: a lingbi pëpe ti gbu zo na ngangu ti "
+"sû asango oko wala mingi."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(valeur)s' ayeke pëpe mbeni nzoni ye ti soro ni ndali ti ndo so."
+
+msgid "Not a valid datetime value."
+msgstr "A yeke pëpe mbeni ngele ti date-heure so ayeke na lege ni."
+
+msgid "Not a valid date value."
+msgstr "A yeke pëpe mbeni ngele ti date so ayeke na lege ni."
+
+msgid "Not a valid time value."
+msgstr "A yeke pëpe mbeni ngele ti ngoi so ayeke na lege ni."
+
+msgid "Not a valid week value."
+msgstr "A yeke pëpe mbeni ngele ti yenga so ayeke na lege ni."
+
+msgid "Not a valid integer value."
+msgstr "A yeke pëpe mbeni ngele ti wungo kue so ayeke na lege ni."
+
+msgid "Not a valid decimal value."
+msgstr "A yeke pëpe mbeni ngele ti décimal so ayeke na lege ni."
+
+msgid "Not a valid float value."
+msgstr "A yeke pëpe mbeni ngele ti flotteur so ayeke na lege ni."
+

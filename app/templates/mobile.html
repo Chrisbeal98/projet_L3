@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AntiVol — Vérification de verrouillage</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #02000e;
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+        .status-bar {
+            background: rgba(59, 130, 246, 0.1);
+            border: 1px solid rgba(59, 130, 246, 0.3);
+            border-radius: 12px;
+            padding: 12px 20px;
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .status-bar.connected { border-color: rgba(34, 197, 94, 0.5); color: #22c55e; }
+        .status-bar.error { border-color: rgba(239, 68, 68, 0.5); color: #ef4444; }
+        .device-info {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            padding: 24px;
+            width: 100%;
+            max-width: 400px;
+            margin-bottom: 20px;
+        }
+        .device-info h2 { font-size: 18px; margin-bottom: 16px; }
+        .info-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            font-size: 14px;
+        }
+        .info-row:last-child { border: none; }
+        .info-label { color: #64748b; }
+        .info-value { font-weight: 600; }
+        .log-box {
+            background: #000;
+            border-radius: 12px;
+            padding: 16px;
+            width: 100%;
+            max-width: 400px;
+            max-height: 300px;
+            overflow-y: auto;
+            font-family: monospace;
+            font-size: 12px;
+            color: #22c55e;
+        }
+        .log-box .error { color: #ef4444; }
+        .log-box .warn { color: #f59e0b; }
+        .log-box .info { color: #3b82f6; }
+    </style>
+</head>
+<body>
+    <div class="status-bar" id="statusBar">Vérification en cours...</div>
+
+    <div class="device-info">
+        <h2>État de l'appareil</h2>
+        <div class="info-row">
+            <span class="info-label">IMEI</span>
+            <span class="info-value" id="imeiDisplay">—</span>
+        </div>
+        <div class="info-row">
+            <span class="info-label">Statut</span>
+            <span class="info-value" id="statutDisplay">—</span>
+        </div>
+        <div class="info-row">
+            <span class="info-label">Verrouillé</span>
+            <span class="info-value" id="lockedDisplay">—</span>
+        </div>
+    </div>
+
+    <div class="log-box" id="logBox"></div>
+
+    <script>
+        // ═══════════════════════════════════════════
+        // CONFIGURATION AUTO — détecte l'hôte
+        // ═══════════════════════════════════════════
+        const API_URL = window.location.protocol + '//' + window.location.host + '/api';
+        const POLL_INTERVAL = 3000;
+
+        // Détection des appareils de l'utilisateur connecté
+        let APPAREIL_ID = null;
+        let IMEI = 'Inconnu';
+
+        function chargerAppareils() {
+            fetch(API_URL + '/appareils', { credentials: 'include' })
+                .then(function(r) { return r.json(); })
+                .then(function(appareils) {
+                    if (appareils && appareils.length > 0) {
+                        var app = appareils[0];
+                        APPAREIL_ID = app.id;
+                        IMEI = app.imei;
+                        document.getElementById('imeiDisplay').textContent = IMEI;
+                        addLog('Appareil chargé: ' + app.marque + ' ' + app.modele, 'info');
+                        addLog('Appareil ID: ' + APPAREIL_ID, 'info');
+                        checkDeviceStatus();
+                        setInterval(checkDeviceStatus, POLL_INTERVAL);
+                    } else {
+                        addLog('Aucun appareil trouvé. Ajoutez-en un depuis le tableau de bord.', 'warn');
+                        document.getElementById('statusBar').textContent = 'Aucun appareil';
+                        document.getElementById('statusBar').className = 'status-bar error';
+                    }
+                })
+                .catch(function(err) {
+                    addLog('Erreur chargement appareils: ' + err.message, 'error');
+                });
+        }
+
+        let isLocked = false;
+        let lockOverlay = null;
+
+        // ═══════════════════════════════════════════
+        // LOG
+        // ═══════════════════════════════════════════
+        function addLog(msg, type = '') {
+            const logBox = document.getElementById('logBox');
+            const time = new Date().toLocaleTimeString('fr-FR');
+            const entry = document.createElement('div');
+            entry.className = type;
+            entry.textContent = `[${time}] ${msg}`;
+            logBox.appendChild(entry);
+            logBox.scrollTop = logBox.scrollHeight;
+        }
+
+        // ═══════════════════════════════════════════
+        // ÉCRAN DE VERROUILLAGE
+        // ═══════════════════════════════════════════
+        function showLockScreen() {
+            if (lockOverlay) return;
+
+            lockOverlay = document.createElement('div');
+            lockOverlay.id = 'antivol-lock-screen';
+            lockOverlay.className = 'lock-overlay';
+            lockOverlay.innerHTML = `
+                <div class="lock-content">
+                    <div class="lock-icon">
+                        <svg width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2">
+                            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
+                            <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
+                            <circle cx="12" cy="16" r="1"/>
+                        </svg>
+                    </div>
+                    <h1>Appareil Verrouillé</h1>
+                    <p>Cet appareil a été signalé comme volé ou perdu.</p>
+                    <p class="warning-text">Contactez le propriétaire ou les autorités.</p>
+                    <div class="device-info" style="margin-top:20px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.1);">
+                        <p style="color:#64748b;font-size:12px;font-family:monospace;">IMEI: ${IMEI}</p>
+                        <p style="color:#64748b;font-size:12px;font-family:monospace;">ID: ${APPAREIL_ID}</p>
+                    </div>
+                </div>
+            `;
+            document.body.appendChild(lockOverlay);
+            isLocked = true;
+            addLog('VERROUILLAGE ACTIVÉ !', 'error');
+        }
+
+        function hideLockScreen() {
+            if (lockOverlay) {
+                lockOverlay.remove();
+                lockOverlay = null;
+            }
+            isLocked = false;
+            addLog('Appareil déverrouillé', 'info');
+        }
+
+        // ═══════════════════════════════════════════
+        // POLLING
+        // ═══════════════════════════════════════════
+        function checkDeviceStatus() {
+            fetch(`${API_URL}/appareils/${APPAREIL_ID}/statut`)
+                .then(res => {
+                    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                    return res.json();
+                })
+                .then(data => {
+                    document.getElementById('statusBar').textContent = 'Connecté au serveur';
+                    document.getElementById('statusBar').className = 'status-bar connected';
+                    document.getElementById('imeiDisplay').textContent = data.imei;
+                    document.getElementById('statutDisplay').textContent = data.statut;
+                    document.getElementById('statutDisplay').style.color =
+                        data.verrouille ? '#ef4444' : '#22c55e';
+                    document.getElementById('lockedDisplay').textContent =
+                        data.verrouille ? 'OUI' : 'NON';
+                    document.getElementById('lockedDisplay').style.color =
+                        data.verrouille ? '#ef4444' : '#22c55e';
+
+                    if (data.verrouille && !isLocked) {
+                        showLockScreen();
+                    } else if (!data.verrouille && isLocked) {
+                        hideLockScreen();
+                    }
+                })
+                .catch(err => {
+                    document.getElementById('statusBar').textContent = `Erreur: ${err.message}`;
+                    document.getElementById('statusBar').className = 'status-bar error';
+                    addLog(`Erreur: ${err.message}`, 'error');
+                });
+        }
+
+        // ═══════════════════════════════════════════
+        // DÉMARRAGE
+        // ═══════════════════════════════════════════
+        addLog('Service AntiVol démarré', 'info');
+        addLog(`Polling toutes les ${POLL_INTERVAL / 1000}s`, 'info');
+        addLog('Connexion au serveur...', 'info');
+
+        chargerAppareils();
+    </script>
+</body>
+</html>

@@ -1,0 +1,1063 @@
+# Translations for ILO.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ilo\n"
+"Language-Team: ilo <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Pangngaasiyo ta aglog-in tapno makastrek iti daytoy a panid."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Daytoy nga IMEI ket nairehistron iti sistema."
+
+msgid "Accès non autorisé."
+msgstr "Di autorisado a panagserrek."
+
+msgid "Appareil déverrouillé."
+msgstr "Naluktan ti alikamen."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Naparsua ti alerto! Naipatuloden dagiti pakaammo."
+
+msgid "Alerte résolue."
+msgstr "Narisut ti alerto."
+
+msgid "Pas encore de compte ?"
+msgstr "Awan pay ti account?"
+
+msgid "Mon Profil"
+msgstr "Ti Profile-ko"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Naballigi ti koneksion! Naragsak nga isasangbay."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Di umiso nga email wenno password."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Masapul a makompleto amin a kasapulan a tay-ak."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Saan nga agtunos dagiti password."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Masapul nga aglaon ti password iti di kumurang nga 6 a karakter."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Daytoy nga email ket maus-usaren."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Naballigi ti pannakaparsua ti account! Aglog-in."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Awan ti nasarakan nga account iti daytoy nga email."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Saan a maitunos ti numero ti telepono iti numero ti account."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Mandatory ti baro a password."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Naballigi ti panangi-reset iti password! Aglog-in."
+
+msgid "Vous avez été déconnecté."
+msgstr "Nadiskonektaka."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Masapul ti brand, model ken IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Addan ti alikamen nga addaan iti daytoy nga IMEI."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Naballigi a nairehistro ti alikamen!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Saanka nga autorisado a mangaramid iti daytoy nga aramid."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Device remotely lock a sibaballigi."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Naballigi a naluktan ti alikamen."
+
+msgid "Appareil supprimé."
+msgstr "Naikkat ti alikamen."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Pangngaasiyo ta agpilikayo iti alikamen ken kita ti alerto."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Saan a kukuam daytoy nga alikamen."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Naballigi ti impadamag ti Alert. Naseguro ti alikamen."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alerto a namarkaan kas nasolbar."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Masapul ti umuna a nagan, apeliedo ken email."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Daytoy nga email ket us-usarenen ti sabali nga account."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Naballigi a na-update ti profile!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Naireserba ti akses para kadagiti administrador."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Biddut a namarkaan a kas nasolbar."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Dimo mabalin nga i-delete ti bukodmo nga account."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Naballigi a naikkat ti user."
+
+msgid "Administration"
+msgstr "Administrasion ti Administrasion"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Sentral a panangtarawidwid ti sistema ti Anti-Theft"
+
+msgid "Utilisateurs"
+msgstr "Dagiti Agus-usar"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktibo ita nga aldaw"
+
+msgid "Nouveaux ce mois"
+msgstr "Baro ita a bulan"
+
+msgid "Appareils"
+msgstr "Dagiti Alikamen"
+
+msgid "Alertes actives"
+msgstr "Aktibo nga alerto"
+
+msgid "Analytique"
+msgstr "Analitikal nga"
+
+msgid "Journal d'activité"
+msgstr "Log ti aktibidad"
+
+msgid "Erreurs"
+msgstr "Dagiti Biddut"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Dagiti koneksion (maudi a 7 nga aldaw) ."
+
+msgid "Alertes par type"
+msgstr "Alerto babaen ti tipo"
+
+msgid "Appareils par opérateur"
+msgstr "Dagiti alikamen babaen ti operator"
+
+msgid "Résumé du système"
+msgstr "Pakagupgopan ti Sistema"
+
+msgid "Utilisateurs total"
+msgstr "Dagup dagiti agus-usar"
+
+msgid "Appareils enregistrés"
+msgstr "Dagiti nairehistro nga alikamen"
+
+msgid "Total alertes"
+msgstr "Dagup nga alerto"
+
+msgid "Alertes en cours"
+msgstr "Agdama nga alerto"
+
+msgid "Erreurs non résolues"
+msgstr "Di pay narisut a biddut"
+
+msgid "Dernières activités"
+msgstr "Kabarbaro nga aktibidad"
+
+msgid "récentes"
+msgstr "nabiit pay"
+
+msgid "Utilisateur"
+msgstr "Agus-usar"
+
+msgid "Action"
+msgstr "Aksion"
+
+msgid "Détails"
+msgstr "Dagiti detalye"
+
+msgid "Adresse IP"
+msgstr "Address ti IP"
+
+msgid "Navigateur"
+msgstr "Browser ti"
+
+msgid "Date"
+msgstr "Petsa"
+
+msgid "Aucune activité"
+msgstr "Awan ti aktibidad"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Agparang ditoy dagiti aktibidad ti agar-aramat."
+
+msgid "Journal d'erreurs"
+msgstr "Log ti biddut"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Ayosen amin a biddut?"
+
+msgid "Tout résoudre"
+msgstr "Solbaren ti amin"
+
+msgid "non résolues"
+msgstr "saan a nasolbar"
+
+msgid "Tout est résolu"
+msgstr "Nasolbar ti amin"
+
+msgid "Type"
+msgstr "Kita"
+
+msgid "Description"
+msgstr "Panangiladawan"
+
+msgid "Statut"
+msgstr "Estado"
+
+msgid "Résolu"
+msgstr "Narisut"
+
+msgid "Non résolu"
+msgstr "Saan a nasolbar"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Awan ti nairekord a biddut"
+
+msgid "Le système fonctionne correctement."
+msgstr "Umiso ti panagandar ti sistema."
+
+msgid "Gestion des utilisateurs"
+msgstr "Panagmanehar ti agar-aramat"
+
+msgid "comptes"
+msgstr "dagiti kuenta"
+
+msgid "Email"
+msgstr "E-mail ti e-mail"
+
+msgid "Téléphone"
+msgstr "Telepono"
+
+msgid "Rôle"
+msgstr "Amad"
+
+msgid "Inscrit le"
+msgstr "Nairehistro iti"
+
+msgid "Actions"
+msgstr "Dagiti Aramiden"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "I-delete daytoy nga user ken amin nga device-da?"
+
+msgid "Vous"
+msgstr "SIKA"
+
+msgid "Connexions"
+msgstr "Dagiti Koneksyon"
+
+msgid "Vol"
+msgstr "Panagtayab"
+
+msgid "Perte"
+msgstr "Pannakapukaw"
+
+msgid "Anomalie"
+msgstr "Anomalia ti"
+
+msgid "Alertes"
+msgstr "Dagiti Alerto"
+
+msgid "Gestion des alertes"
+msgstr "Panagmanehar ti alerto"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Ireport ti panagtakaw wenno pannakapukaw ken subadan ti pakasaritaan"
+
+msgid "Signaler un vol / perte"
+msgstr "Ireport ti panagtakaw/pannakapukaw"
+
+msgid "En cours"
+msgstr "Agtultuloy"
+
+msgid "Résolues"
+msgstr "Narisut"
+
+msgid "Historique des alertes"
+msgstr "Pakasaritaan ti Alerto"
+
+msgid "Appareil"
+msgstr "Ramit"
+
+msgid "Priorité"
+msgstr "Prioridad"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Markaam daytoy nga alerto kas nasolbar?"
+
+msgid "Résoudre"
+msgstr "Ipamuspusan"
+
+msgid "Aucune alerte"
+msgstr "Awan ti alerto"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Naimbag a damag! Awan pay ti naipadamag nga alerto."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Ireport ti panagtakaw wenno pannakapukaw"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Babaen ti panangireport iti panagtakaw, automatiko a mai-lock ti device-"
+"mo ken maipatulod dagiti pakaammo."
+
+msgid "Appareil concerné"
+msgstr "Naapektaran nga alikamen"
+
+msgid "Sélectionner un appareil"
+msgstr "Pilien ti maysa nga alikamen"
+
+msgid "Type d'alerte"
+msgstr "Tipo ti alerto"
+
+msgid "Décrivez les circonstances..."
+msgstr "Iladawan dagiti kasasaad..."
+
+msgid "Annuler"
+msgstr "Ikansela"
+
+msgid "Signaler"
+msgstr "Ipadamag"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Intelligent Anti-Theft System — Plataforma ti seguridad para kadagiti "
+"smartphone"
+
+msgid "Système Anti-Vol"
+msgstr "Sistema a Kontra-Panagtakaw"
+
+msgid "PRINCIPAL"
+msgstr "KANGRUNAAN"
+
+msgid "Tableau de bord"
+msgstr "Dashboard ti Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "SEGURIDAD"
+
+msgid "Géolocalisation"
+msgstr "Geolokasion"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRATION TI PANANGIWANWAN"
+
+msgid "Déconnexion"
+msgstr "Idiskonekta"
+
+msgid "Changer de langue"
+msgstr "Baliwan ti pagsasao"
+
+msgid "Rechercher une langue..."
+msgstr "Agbirok iti pagsasao..."
+
+msgid "Profil"
+msgstr "Profile"
+
+msgid "Changer de thème"
+msgstr "Baliwan ti tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Panangmatmat iti seguridad ti device-mo"
+
+msgid "Ajouter un appareil"
+msgstr "Manginayon iti alikamen"
+
+msgid "Appareils volés"
+msgstr "Natakaw nga alikamen"
+
+msgid "Verrouillés à distance"
+msgstr "Remote ti nakandaduan"
+
+msgid "Alertes récentes"
+msgstr "Dagiti nabiit pay nga alerto"
+
+msgid "Voir tout"
+msgstr "Kitaen amin"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Awan ti alerto. Natalged dagiti alikamenmo!"
+
+msgid "Mes appareils"
+msgstr "Dagiti alikamenko"
+
+msgid "Aucun appareil enregistré"
+msgstr "Awan dagiti nairehistro nga alikamen"
+
+msgid "Ajouter"
+msgstr "Agnayon"
+
+msgid "en attente"
+msgstr "on hold"
+
+msgid "Gestion des appareils"
+msgstr "Panagmanehar ti alikamen"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Agparehistro ken imanehar dagiti smartphone-yo"
+
+msgid "Opérateur"
+msgstr "Operator ti"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "I-lock daytoy nga alikamen iti adayo?"
+
+msgid "Verrouiller"
+msgstr "Ikandado"
+
+msgid "Déverrouiller"
+msgstr "Ilukat ti kandado"
+
+msgid "Supprimer cet appareil ?"
+msgstr "I-delete daytoy nga alikamen?"
+
+msgid "Supprimer"
+msgstr "IKKATEN"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Inayonmo ti umuna nga smartphone-mo tapno rugiam a salakniban dayta."
+
+msgid "Nouvel appareil"
+msgstr "Baro nga alikamen"
+
+msgid "Marque"
+msgstr "Marka"
+
+msgid "Sélectionner"
+msgstr "Agpili"
+
+msgid "Autre"
+msgstr "Sabali pay"
+
+msgid "Modèle"
+msgstr "Modelo"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "i-type ti *#06# iti teleponom"
+
+msgid "Système d'exploitation"
+msgstr "Sistema ti panagpataray"
+
+msgid "Numéro de téléphone"
+msgstr "Numero ti telepono"
+
+msgid "Enregistrer"
+msgstr "Ispalen"
+
+msgid "Connexion"
+msgstr "Koneksyon"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistema ti seguridad ti smartphone"
+
+msgid "Adresse email"
+msgstr "Address ti e-mail"
+
+msgid "Mot de passe"
+msgstr "Password"
+
+msgid "Se connecter"
+msgstr "Aglog-in"
+
+msgid "Mot de passe oublié ?"
+msgstr "Nalipatanyo ti password?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Adda kadi account-mo? Ta no saan, ituloymo ti mangparnuay iti account-mo!"
+
+msgid "Créer un compte"
+msgstr "Mangaramid iti account"
+
+msgid "Sécurité maximale"
+msgstr "Maximum a seguridad"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Salaknibam ti personal a datam babaen ti remote locking"
+
+msgid "Localisation GPS"
+msgstr "GPS lokasyon"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Sapulen ti eksakto a lokasion ti smartphone-mo iti aktual nga oras"
+
+msgid "Alertes instantanées"
+msgstr "Dagus nga alerto"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Umawat iti SMS, email ken push notifications no adda panagtakaw"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr ""
+"Sapulem dagiti alikamenmo ken iladawanmo iti panunotmo dagiti lugar a "
+"pagpeggadan"
+
+msgid "Aucun appareil"
+msgstr "Awan ti alikamen"
+
+msgid "Zones à risque"
+msgstr "Dagiti lugar a pagpeggadan"
+
+msgid "incidents"
+msgstr "dagiti insidente"
+
+msgid "Aucune zone signalée"
+msgstr "Awan dagiti lugar a naipadamag"
+
+msgid "Niveau"
+msgstr "Lebel"
+
+msgid "Incidents"
+msgstr "Dagiti pasamak"
+
+msgid "Profile utilisateur"
+msgstr "Profile ti agar-aramat"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Imaneharmo ti personal nga impormasionmo"
+
+msgid "Membre depuis"
+msgstr "Miembro manipud idi"
+
+msgid "Modifier mes informations"
+msgstr "I-edit ti impormasionko"
+
+msgid "Prénom"
+msgstr "Nagan"
+
+msgid "Nom"
+msgstr "Nagan"
+
+msgid "Changer le mot de passe"
+msgstr "Baliwan ti password"
+
+msgid "Nouveau mot de passe"
+msgstr "Baro a Password"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "bay-an a blangko tapno saan nga agbaliw"
+
+msgid "Enregistrer les modifications"
+msgstr "Idulin dagiti panagbalbaliw"
+
+msgid "Inscription"
+msgstr "Panagrehistro"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"Maikablaawkayo iti Anti-Theft para iti nasaysayaat a seguridad dagiti "
+"devices-yo"
+
+msgid "Confirmer"
+msgstr "Kumpirmaen"
+
+msgid "Créer mon compte"
+msgstr "Mangaramid iti account-ko"
+
+msgid "Déjà un compte ?"
+msgstr "Adda kadi account?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "I-reset ti Password"
+
+msgid "Réinitialisation"
+msgstr "I-reset-na"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Isuratmo ti email ken numero ti teleponom tapno mapaneknekan ti "
+"kinasiasino"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Ti numero a nausar bayat ti panagrehistro"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimum nga 6 a karakter"
+
+msgid "Confirmer le mot de passe"
+msgstr "Pasingkedan ti password"
+
+msgid "Retourner à la"
+msgstr "Sublian ti"
+
+msgid "page de connexion"
+msgstr "panid ti panaglogin"
+
+msgid "Vérification sécurisée"
+msgstr "Natalged a panangpaneknek"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Mapaneknekan ti kinasiasinomo babaen ti email ken numero ti teleponom"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Pilien ti natalged a password nga addaan iti di kumurang nga 6 a karakter"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Napaay ti panag-edit"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Napaay ti panag-edit: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Biddut ti Windows: {biddut} ."
+
+msgid "deprecated"
+msgstr "saanen a maus-usar"
+
+msgid "Options"
+msgstr "Dagiti Pagpilian"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Naala ti di ninamnama nga ekstra nga argumento ({args}) ."
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"DeprecationWarning: Ti bilin a {name!r} ket saanen a maus-"
+"usar.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Na-aborted!"
+
+msgid "Commands"
+msgstr "Dagiti bilin"
+
+msgid "Missing command."
+msgstr "Awan ti bilin."
+
+msgid "Value must be an iterable."
+msgstr "Masapul a ti pateg ket maysa nga iterable."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Alaenna dagiti pateg ti {nargs} ngem 1 ti naited."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"DeprecationWarning: Ti {param_type} {name!r} ket saanen a maus-"
+"usar.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Namin a naikeddeng ti nagan a '{name}'"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Ti Boolean a pagpilian {decl!r} ket saan a makausar ti isu met laeng a "
+"bandera para iti pudno/ulbod."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr ""
+"Saan a maikeddeng ti nagan para iti pagpilian nga addaan kadagiti "
+"deklarasion {decls!r} ."
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Awan dagiti pagpilian a naikeddeng ngem ti maysa a nagan ket naipasa "
+"({name}). Kayatmo kadi nga ideklara ketdi ti argumento? Kayatmo kadi nga "
+"ipasa ti '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var} ."
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "kasisigud: {default} ."
+
+msgid "required"
+msgstr "kasapulan"
+
+msgid "(dynamic)"
+msgstr "(dinamiko) ."
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Dagiti argumento ket mangala ti eksakto a maysa a deklarasion ti "
+"parametro, nakagun-od ti {kaatiddog}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Kayatmo kadi ti agtultuloy?"
+
+msgid "Confirm the action without prompting."
+msgstr "Pasingkedan ti tignay a di agkiddaw."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, bersion %(bersion)s"
+
+msgid "Show the version and exit."
+msgstr "Ipakita ti bersion ken rummuar."
+
+msgid "Show this message and exit."
+msgstr "Ipakita daytoy a mensahe ken rummuar."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Kayatmo kadi a sawen ti {possibility}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Biddut: {mensahe} ."
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Padasen ti '{command} {option}' para iti tulong."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Di umiso a pateg: {mensahe} ."
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Di umiso a pateg para iti {param_hint}: {mensahe} ."
+
+msgid "Missing argument"
+msgstr "Awan ti argumento"
+
+msgid "Missing option"
+msgstr "Awan ti pagpilian"
+
+msgid "Missing parameter"
+msgstr "Awan ti parametro"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Awan ti {param_type} ."
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Awan ti parametro: {param_name} ."
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Awan ti kasta a pagpilian {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Awan ti kasta a bilin {name!r}."
+
+msgid "unknown error"
+msgstr "di ammo a biddut"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Saan a malukatan ti file {filename!r}: {message}."
+
+msgid "Usage:"
+msgstr "Usaren:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Di umiso a karakter ti pangrugian para iti pagpilian ({option}) ."
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Ti argumento {name!r} ket mangala kadagiti pateg ti {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Ti pagpilian {name!r} ket saan nga mangala ti pateg."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Ti pagpilian {name!r} ket agkasapulan ti argumento."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Ti pannakaileppas ti shell ket saan a nasuportaran para kadagiti bersion "
+"ti Bash a natataengan ngem 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Saan a naduktalan ti bersion ti Bash, saan a nasuportaran ti "
+"pannakaileppas ti shell."
+
+msgid "Repeat for confirmation"
+msgstr "Uliten para iti pammatalged"
+
+msgid "Error: The two entered values do not match."
+msgstr "Biddut: Saan nga agtunos ti dua a naiserrek a pateg."
+
+msgid "Error: invalid input"
+msgstr "Biddut: saan nga umiso nga input"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Di ammo a kolor {kolor!r}."
+
+msgid "Press any key to continue..."
+msgstr "Pinduten ti aniaman a teklado tapno maituloy..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Pilien manipud iti:\\n\\t{pili} ."
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "Ti {value!r} ket saan a {pili}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Pili({dagiti pagpilian}) ."
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "Ti {value!r} ket saan a maitunos iti pormat a {pormat}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "Ti {value!r} ket saan a balido a {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "Ti {value} ket awan iti sakop ti {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr ""
+"Ti {value!r} ket saan a balido a boolean. Dagiti mabigbigan a pateg: "
+"{estado} ."
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "Ti {value!r} ket saan a balido nga UUID."
+
+msgid "file"
+msgstr "urnosen"
+
+msgid "directory"
+msgstr "direktorio"
+
+msgid "path"
+msgstr "dalan"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "Awan ti {name} {filename!r}."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "Ti {name} {nagan ti file!r} ket maysa a file."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "Ti {name} {filename!r} ket maysa a direktorio."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "Ti {name} {filename!r} ket saan a mabasa."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "Ti {name} {filename!r} ket saan a maisurat."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "Ti {name} {filename!r} ket saan a maipatungpal."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Dagiti pateg ti {len_type} ket kasapulan, ngem naited ti {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Di ammo a pagalagadan nga ayus '{name}'."
+
+msgid "This field is required."
+msgstr "Masapul daytoy a tay-ak."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Awan ti naaprobaran nga ekstension ti file: {extensions} ."
+
+msgid "File does not have an approved extension."
+msgstr "Awan ti naaprobaran nga ekstension ti file."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr ""
+"Ti papeles ket masapul nga adda iti nagbaetan ti {min_size} ken "
+"{max_size} a byte."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Di umiso a nagan ti tay-ak '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Ti tay-ak ket masapul a kapada ti %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr ""
+"Masapul a ti tay-ak ket saan a basbassit ngem %(min)d ti kaatiddog ​​ti "
+"karakter."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Ti tay-ak ket saan a mabalin nga at-atiddog ​​ngem ti %(max)d a karakter."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Masapul nga eksakto a %(max)d ti kaatiddog ​​ti karakter ti tay-ak."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr ""
+"Masapul nga adda iti nagbaetan ti %(min)d ken %(max)d a karakter ti "
+"kaatiddog ​​ti tay-ak."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Ti numero ket masapul a di kumurang a %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Ti numero ket masapul nga iti kaaduan a %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Masapul nga adda ti numero iti nagbaetan ti %(min)s ken %(max)s."
+
+msgid "Invalid input."
+msgstr "Di umiso nga input."
+
+msgid "Invalid email address."
+msgstr "Di umiso nga email address."
+
+msgid "Invalid IP address."
+msgstr "Di umiso nga IP address."
+
+msgid "Invalid Mac address."
+msgstr "Di umiso nga adres ti Mac."
+
+msgid "Invalid URL."
+msgstr "Di umiso nga URL."
+
+msgid "Invalid UUID."
+msgstr "Di umiso nga UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Di umiso a pateg, masapul a maysa kadagiti: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Di umiso a pateg, saan a mabalin nga aniaman kadagiti: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Saan a ma-edit daytoy a tay-ak."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Daytoy a tay-ak ket nabalbaliwan ken saan a mabalin nga addaan iti pateg."
+
+msgid "Invalid CSRF Token."
+msgstr "Di umiso a Token ti CSRF."
+
+msgid "CSRF token missing."
+msgstr "Awan ti token ti CSRF."
+
+msgid "CSRF failed."
+msgstr "Napaay ti CSRF."
+
+msgid "CSRF token expired."
+msgstr "Nagpaso ti token ti CSRF."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Invalid Choice: saan a makapilit."
+
+msgid "Choices cannot be None."
+msgstr "Saan a mabalin nga Awan dagiti pagpilian."
+
+msgid "Not a valid choice."
+msgstr "Saan a balido a pili."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Di umiso a pagpilian (dagiti): maysa wenno ad-adu pay nga input ti datos "
+"ket saan a mapilit."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "Ti '%(value)s' ket saan a balido a pili para iti daytoy a tay-ak."
+
+msgid "Not a valid datetime value."
+msgstr "Saan a balido a pateg ti datetime."
+
+msgid "Not a valid date value."
+msgstr "Saan a balido a pateg ti petsa."
+
+msgid "Not a valid time value."
+msgstr "Saan a balido a pateg ti oras."
+
+msgid "Not a valid week value."
+msgstr "Saan a balido a pateg ti lawas."
+
+msgid "Not a valid integer value."
+msgstr "Saan a balido a pateg ti intero a bilang."
+
+msgid "Not a valid decimal value."
+msgstr "Saan a balido a decimal value."
+
+msgid "Not a valid float value."
+msgstr "Saan a balido a float value."
+

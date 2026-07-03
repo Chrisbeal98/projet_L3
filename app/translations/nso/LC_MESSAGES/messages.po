@@ -1,0 +1,1054 @@
+# Translations for NSO.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: nso\n"
+"Language-Team: nso <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Hle tsena go tsena letlakaleng le."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "IMEI ye e šetše e ngwadišitšwe ka gare ga tshepedišo."
+
+msgid "Accès non autorisé."
+msgstr "Phihlelelo ye e sa dumelelwago."
+
+msgid "Appareil déverrouillé."
+msgstr "Sedirišwa se notletšwe."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Tlhokomedišo e hlotšwe! Ditsebišo tše di rometšwego."
+
+msgid "Alerte résolue."
+msgstr "Tlhokomedišo e ile ya rarollwa."
+
+msgid "Pas encore de compte ?"
+msgstr "Ga go na akhaonto ga bjale?"
+
+msgid "Mon Profil"
+msgstr "Profaele ya ka"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Kgokagano e atlegile! Le amogetšwe."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Imeile goba phasewete ye e fošagetšego."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Mabala ka moka ao a nyakegago a swanetše go tlatšwa."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Diphasewete ga di swane."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Phasewete e swanetše go ba le bonyane ditlhaka tše 6."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Imeile ye e šetše e šomišwa."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Akhaonto e hlotšwe ka katlego! Tsena ka gare."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Ga go na diakhaonto tše di hweditšwego ka imeile ye."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Nomoro ya mogala ga e swane le nomoro ya akhaonto."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Phasewete e mpsha ke ya kgapeletšo."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Password reset ka katlego! Tsena ka gare."
+
+msgid "Vous avez été déconnecté."
+msgstr "O kgaotšwe kgokagano."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Brand, mohlala le IMEI di a hlokahala."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Sedirišwa seo se nago le IMEI ye se šetše se le gona."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Sesebediswa ngodisitswe ka katleho!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Ga o dumelelwa go dira tiro ye."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Sesebediswa ka hole notletsoe ka katleho."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Sesebediswa notlolloa ka katleho."
+
+msgid "Appareil supprimé."
+msgstr "Sesebediswa hlakolwa."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Hle kgetha sedirišwa le mohuta wa temošo."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "sesebediswa sena ha se sa hao."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert e begile ka katlego. sesebediswa se se secured."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Tlhokomedišo e swailwe bjalo ka yeo e rarolotšwego."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Leina la mathomo, leina la mafelelo le imeile di a nyakega."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Imeile ye e šetše e šomišwa ke akhaonto ye nngwe."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profile ntjhafatswa ka katleho!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Phihlelelo e boloketšwe balaodi."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Phošo yeo e swailwego bjalo ka yeo e rarolotšwego."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "O ka se phumole akhaonto ya gago."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Mosebedisi ka katleho hlakolwa."
+
+msgid "Administration"
+msgstr "Taolo ya"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Taolo ya bogareng ya tshepedišo ya Anti-Theft"
+
+msgid "Utilisateurs"
+msgstr "Badiriši"
+
+msgid "Actifs aujourd'hui"
+msgstr "E mafolofolo lehono"
+
+msgid "Nouveaux ce mois"
+msgstr "E mpsha kgweding ye"
+
+msgid "Appareils"
+msgstr "Didirišwa tša go šoma"
+
+msgid "Alertes actives"
+msgstr "Ditemošo tše di šomago"
+
+msgid "Analytique"
+msgstr "Go sekaseka"
+
+msgid "Journal d'activité"
+msgstr "Log ya mošomo"
+
+msgid "Erreurs"
+msgstr "Diphošo"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Dikgokagano (matsatsi a 7 a ho qetela) ."
+
+msgid "Alertes par type"
+msgstr "Ditemošo ka mohuta"
+
+msgid "Appareils par opérateur"
+msgstr "Didirišwa ka opareitara"
+
+msgid "Résumé du système"
+msgstr "Kakaretšo ya Tshepedišo"
+
+msgid "Utilisateurs total"
+msgstr "Palomoka ya badiriši"
+
+msgid "Appareils enregistrés"
+msgstr "disebediswa ngodisitsweng"
+
+msgid "Total alertes"
+msgstr "Palomoka ya ditemošo"
+
+msgid "Alertes en cours"
+msgstr "Ditemošo tša bjale"
+
+msgid "Erreurs non résolues"
+msgstr "Diphošo tšeo di sa rarollwago"
+
+msgid "Dernières activités"
+msgstr "Ditiro tša moragorago"
+
+msgid "récentes"
+msgstr "bjale"
+
+msgid "Utilisateur"
+msgstr "Modiriši"
+
+msgid "Action"
+msgstr "Kgato"
+
+msgid "Détails"
+msgstr "Dintlha"
+
+msgid "Adresse IP"
+msgstr "Aterese ya IP"
+
+msgid "Navigateur"
+msgstr "Sephephediši"
+
+msgid "Date"
+msgstr "Letšatšikgwedi"
+
+msgid "Aucune activité"
+msgstr "Ga go na modiro"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Ditiro tša modiriši di tla tšwelela mo."
+
+msgid "Journal d'erreurs"
+msgstr "Log ya phošo"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Lokiša diphošo ka moka?"
+
+msgid "Tout résoudre"
+msgstr "Rarolla se sengwe le se sengwe"
+
+msgid "non résolues"
+msgstr "e sa rarollwago"
+
+msgid "Tout est résolu"
+msgstr "Se sengwe le se sengwe se rarolotšwe"
+
+msgid "Type"
+msgstr "Mohuta"
+
+msgid "Description"
+msgstr "Tlhalošo"
+
+msgid "Statut"
+msgstr "Maemo"
+
+msgid "Résolu"
+msgstr "E rarolotšwe"
+
+msgid "Non résolu"
+msgstr "Ga se ya rarollwa"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Ga go na diphošo tšeo di ngwadilwego"
+
+msgid "Le système fonctionne correctement."
+msgstr "Tshepedišo e šoma gabotse."
+
+msgid "Gestion des utilisateurs"
+msgstr "Taolo ya mosebedisi"
+
+msgid "comptes"
+msgstr "diakhaonto"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Mogala"
+
+msgid "Rôle"
+msgstr "Tema"
+
+msgid "Inscrit le"
+msgstr "E ngwadišitšwe ka"
+
+msgid "Actions"
+msgstr "Ditiro"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Phimola mosebedisi ena le disebediswa bona tsohle?"
+
+msgid "Vous"
+msgstr "WENA"
+
+msgid "Connexions"
+msgstr "Dikgokagano"
+
+msgid "Vol"
+msgstr "Go fofa"
+
+msgid "Perte"
+msgstr "Tahlegelo"
+
+msgid "Anomalie"
+msgstr "Go se swane ga selo"
+
+msgid "Alertes"
+msgstr "Ditemošo"
+
+msgid "Gestion des alertes"
+msgstr "Taolo ya temošo"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Bega bohodu goba tahlegelo gomme o latele histori"
+
+msgid "Signaler un vol / perte"
+msgstr "Bega bohodu/tahlegelo"
+
+msgid "En cours"
+msgstr "E tšwela pele"
+
+msgid "Résolues"
+msgstr "E rarolotšwe"
+
+msgid "Historique des alertes"
+msgstr "Histori ya Tlhokomedišo"
+
+msgid "Appareil"
+msgstr "Setlabela"
+
+msgid "Priorité"
+msgstr "Bohlokwa"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Swaya temošo ye bjalo ka yeo e rarolotšwego?"
+
+msgid "Résoudre"
+msgstr "Rarolla"
+
+msgid "Aucune alerte"
+msgstr "Ga go na temošo"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Ditaba tše dibotse! Ga go na ditemošo tšeo di begilwego."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Bega bohodu goba tahlegelo"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Ka go bega bohodu, sedirišwa sa gago se tla notlelwa ka go itiragalela "
+"gomme ditsebišo di tla romelwa."
+
+msgid "Appareil concerné"
+msgstr "sesebediswa amehang"
+
+msgid "Sélectionner un appareil"
+msgstr "Kgetha sesebediswa"
+
+msgid "Type d'alerte"
+msgstr "Mohuta wa temošo"
+
+msgid "Décrivez les circonstances..."
+msgstr "Hlaloša maemo..."
+
+msgid "Annuler"
+msgstr "Khansela"
+
+msgid "Signaler"
+msgstr "Pego"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Bohlale Anti-Theft System - Security sethaleng bakeng sa smartphones"
+
+msgid "Système Anti-Vol"
+msgstr "Tshepedišo ya go Lwantšha Bohodu"
+
+msgid "PRINCIPAL"
+msgstr "KGOLO"
+
+msgid "Tableau de bord"
+msgstr "Dashboard ya"
+
+msgid "SÉCURITÉ"
+msgstr "TŠHIRELETŠO"
+
+msgid "Géolocalisation"
+msgstr "Lefelo la lefase"
+
+msgid "ADMINISTRATION"
+msgstr "TSAMAISO YA TSAMAISO"
+
+msgid "Déconnexion"
+msgstr "Kgaola kgokagano"
+
+msgid "Changer de langue"
+msgstr "Fetoša polelo"
+
+msgid "Rechercher une langue..."
+msgstr "Batla leleme..."
+
+msgid "Profil"
+msgstr "Phorofaele"
+
+msgid "Changer de thème"
+msgstr "Fetoša sehlogo"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Kakaretšo ya tšhireletšo ya gago ya sedirišwa"
+
+msgid "Ajouter un appareil"
+msgstr "Add sesebediswa"
+
+msgid "Appareils volés"
+msgstr "disebediswa tse utswitsweng"
+
+msgid "Verrouillés à distance"
+msgstr "E notletšwe ka kgole"
+
+msgid "Alertes récentes"
+msgstr "Ditemošo tša morago bjale"
+
+msgid "Voir tout"
+msgstr "Bona ka moka"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Ga go na temošo. Didirišwa tša gago di bolokegile!"
+
+msgid "Mes appareils"
+msgstr "Didirišwa tša ka"
+
+msgid "Aucun appareil enregistré"
+msgstr "Ga go na didirišwa tšeo di ngwadišitšwego"
+
+msgid "Ajouter"
+msgstr "Hlakanya"
+
+msgid "en attente"
+msgstr "ka go emišwa"
+
+msgid "Gestion des appareils"
+msgstr "Taolo ya sesebediswa"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Ngwadiša le go laola di-smartphone tša gago"
+
+msgid "Opérateur"
+msgstr "Modiriši"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Notlela sesebediswa sena ka hole?"
+
+msgid "Verrouiller"
+msgstr "Senotlelo"
+
+msgid "Déverrouiller"
+msgstr "Notlolla"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Phimola sesebediswa sena?"
+
+msgid "Supprimer"
+msgstr "PHUMOLA"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Oketša smartphone sa gago sa mathomo go thoma go e šireletša."
+
+msgid "Nouvel appareil"
+msgstr "Sesebediswa se secha"
+
+msgid "Marque"
+msgstr "Leswao"
+
+msgid "Sélectionner"
+msgstr "Kgetha"
+
+msgid "Autre"
+msgstr "Nngwe"
+
+msgid "Modèle"
+msgstr "Mmotlolo"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "thaepa *#06# mo founong ya gago"
+
+msgid "Système d'exploitation"
+msgstr "Tshepedišo ya go šoma"
+
+msgid "Numéro de téléphone"
+msgstr "Nomoro ya mogala"
+
+msgid "Enregistrer"
+msgstr "Boloka"
+
+msgid "Connexion"
+msgstr "Kgokagano"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Smartphone tshireletso tsamaiso"
+
+msgid "Adresse email"
+msgstr "Aterese ya imeile"
+
+msgid "Mot de passe"
+msgstr "Phasewete"
+
+msgid "Se connecter"
+msgstr "Tsena ka gare"
+
+msgid "Mot de passe oublié ?"
+msgstr "O lebetše phasewete?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Na o šetše o na le akhaonto? Go sego bjalo, tšwela pele go hlama akhaonto"
+" ya gago!"
+
+msgid "Créer un compte"
+msgstr "Hlama akhaonto"
+
+msgid "Sécurité maximale"
+msgstr "Palo e kahodimodimo tshireletso"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Sireletša ya data ya gago ya motho ka noši ka go notlela kgole"
+
+msgid "Localisation GPS"
+msgstr "Lefelo la GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Hwetša lefelo le le nepagetšego la smartphone sa gago ka nako ya kgonthe"
+
+msgid "Alertes instantanées"
+msgstr "Ditemošo tša ka pela"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Amogela ditsebišo tša SMS, imeile le go kgorometša ge go ka direga bohodu"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Hwetša didirišwa tša gago gomme o bone ka leihlo la kgopolo mafelo a kotsi"
+
+msgid "Aucun appareil"
+msgstr "Ga go na sedirišwa"
+
+msgid "Zones à risque"
+msgstr "Mafelo a kotsi"
+
+msgid "incidents"
+msgstr "ditiragalo"
+
+msgid "Aucune zone signalée"
+msgstr "Ga go na mafelo ao a begilwego"
+
+msgid "Niveau"
+msgstr "Kelo"
+
+msgid "Incidents"
+msgstr "Ditiragalo"
+
+msgid "Profile utilisateur"
+msgstr "Profaele ya mosebedisi"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Laola tshedimošo ya gago ya motho ka noši"
+
+msgid "Membre depuis"
+msgstr "Setho go tloga ka nako yeo"
+
+msgid "Modifier mes informations"
+msgstr "Edita tshedimošo ya ka"
+
+msgid "Prénom"
+msgstr "Leina"
+
+msgid "Nom"
+msgstr "Leina"
+
+msgid "Changer le mot de passe"
+msgstr "Fetola phasewete"
+
+msgid "Nouveau mot de passe"
+msgstr "Phasewete ye Mpsha"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "tlogela se se na selo gore o se ke wa fetoga"
+
+msgid "Enregistrer les modifications"
+msgstr "Boloka diphetogo"
+
+msgid "Inscription"
+msgstr "Boingwadišo"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"Re a le amogela go Anti-Theft bakeng sa tšhireletšo e kaone ya didirišwa "
+"tša gago"
+
+msgid "Confirmer"
+msgstr "Tiišetša"
+
+msgid "Créer mon compte"
+msgstr "Hlama akhaonto ya ka"
+
+msgid "Déjà un compte ?"
+msgstr "O šetše o na le akhaonto?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Seta Phasewete gape"
+
+msgid "Réinitialisation"
+msgstr "Seta gape"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Tsenya imeile ya gago le nomoro ya mogala go netefatša boitšhupo bja gago"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Nomoro yeo e šomišitšwego nakong ya ngwadišo"
+
+msgid "Minimum 6 caractères"
+msgstr "Bonyane ba ditlhaka tše 6"
+
+msgid "Confirmer le mot de passe"
+msgstr "Netefatša phasewete"
+
+msgid "Retourner à la"
+msgstr "Boela morago go"
+
+msgid "page de connexion"
+msgstr "letlakala la go tsena"
+
+msgid "Vérification sécurisée"
+msgstr "Netefatšo ye e šireletšegilego"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Boitsebišo bja gago bo netefatšwa ka go šomiša imeile ya gago le nomoro "
+"ya mogala"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Kgetha phasewete ye e bolokegilego ya bonyane ditlhaka tše 6"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{morulaganyi}: Go rulaganya go paletšwe"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{morulaganyi}: Go rulaganya go paletšwe: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Phošo ya Windows: {phošo} ."
+
+msgid "deprecated"
+msgstr "e sa nyakegego"
+
+msgid "Options"
+msgstr "Dikgetho"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Got ngangišano e oketšegilego yeo e sa letelwago ({args}) ."
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Taelo ya {leina! r} e tlošitšwe.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Go ntšhitšwe mpa!"
+
+msgid "Commands"
+msgstr "Ditaelo"
+
+msgid "Missing command."
+msgstr "Taelo ye e hlaelelago."
+
+msgid "Value must be an iterable."
+msgstr "Boleng e swanetše go ba yeo e ipoeletšago."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "E tšea dikelo tša {nargs} eupša 1 e filwe."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"TlhokomedišoTemošo: {mohuta_wa_param} {leina!r} ga o "
+"dirišwe.{molaetša_wa_e oketšegilego}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Leina '{leina}' le hlalošitšwe gabedi"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Kgetho ya Boolean {decl!r} e ka se šomiše folaga ye e swanago bakeng sa "
+"therešo/maaka."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Ga se ya kgona go laetša leina la kgetho ka dipolelo {decls!r}."
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Ga go dikgetho tše di hlalošitšwego eupša leina le fetišitšwe ({leina}). "
+"Na o be o nyaka go tsebatša ngangišano go e na le moo? Na o be o nyaka go"
+" feta '--{leina}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}."
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default} ."
+
+msgid "required"
+msgstr "nyakegago"
+
+msgid "(dynamic)"
+msgstr "(mafolofolo) ."
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Dingangišano tšea gabotse kgoeletšo e tee ya paramethara, e hweditše "
+"{bolelele}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Na o nyaka go tšwela pele?"
+
+msgid "Confirm the action without prompting."
+msgstr "Netefatša tiro ntle le go hlohleletša."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "% (prog) s, phetolelo % (phetolelo) s"
+
+msgid "Show the version and exit."
+msgstr "Bontša phetolelo le tsoa."
+
+msgid "Show this message and exit."
+msgstr "Bontšha molaetša wo gomme o tšwe."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Na o be o bolela {kgonagalo}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Phošo: {molaetša} ."
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Leka '{taelo} {kgetho}' bakeng sa thušo."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Boleng bjo bo sa šomego: {molaetša} ."
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Boleng bjo bo sa šomego bja {param_hint}: {molaetša} ."
+
+msgid "Missing argument"
+msgstr "Kgang yeo e hlaelelago"
+
+msgid "Missing option"
+msgstr "Kgetho ye e hlaelelago"
+
+msgid "Missing parameter"
+msgstr "Paramethara ye e hlaelelago"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "E hlaelela {mohuta_wa_param} ."
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Paramethara e hlaelelago: {param_name} ."
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Ga go na kgetho ye bjalo {leina!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Ga go na taelo ye bjalo {leina!r}."
+
+msgid "unknown error"
+msgstr "phošo yeo e sa tsebjego"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Ga se ya kgona go bula faele {leina la faele!r}: {molaetša}"
+
+msgid "Usage:"
+msgstr "Šomiša:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Semelo sa go thoma seo se sa šomego bakeng sa kgetho ({kgetho}) ."
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Kgang {lebitso!r} e nka {nargs} boleng."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Kgetho {leina!r} ga e tšee boleng."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Kgetho {lebitso!r} hloka ngangišano."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Go phethwa ga khetla ga go thekgwe bakeng sa diphetolelo tša Bash tša "
+"kgale go feta 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Ga se ya kgona go lemoga phetolelo ya Bash, go phethwa ga khetla ga go "
+"thekgwe."
+
+msgid "Repeat for confirmation"
+msgstr "Pheta bakeng sa tiišetšo"
+
+msgid "Error: The two entered values do not match."
+msgstr "Phošo: Dikelo tše pedi tše di tsentšwego ga di swane."
+
+msgid "Error: invalid input"
+msgstr "Phošo: tsenyo ye e sa šomego"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Mmala o sa tsebjego {mmala!r}"
+
+msgid "Press any key to continue..."
+msgstr "Tobetsa konopo efe kapa efe ho tsoela pele..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Kgetha go tšwa go:\\n\\t{dikgetho}."
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{boleng!r} ga se {kgetho}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Kgetho ({dikgetho}) ."
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{boleng!r} ga e swane le sebopego sa {fomete}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{boleng!r} ga se {mohuta_wa_nomoro} ye e šomago."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{boleng} ga bo ka gare ga legoro la {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr ""
+"{boleng!r} ga se boolean ye e šomago. Ditekanyetšo tše di lemogilwego: "
+"{dilete} ."
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{boleng!r} ga se UUID ye e šomago."
+
+msgid "file"
+msgstr "faele"
+
+msgid "directory"
+msgstr "tšhupamabaka"
+
+msgid "path"
+msgstr "tsela"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{leina} {leina la faele!r} ga e gona."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{leina} {leina la faele!r} ke faele."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{leina} {leina la faele!r} ke tšhupetšo."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{leina} {leina la faele!r} ga e balege."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{leina} {leina la faele!r} ga e ngwalwe."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{leina} {leina la faele!r} ga e phethagatšwe."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} boleng di a nyakega, eupša {len_value} e filwe."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Moela wa maemo wo o sa tsebjego '{leina}'."
+
+msgid "This field is required."
+msgstr "Tšhemo ye e a nyakega."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Faele ga e na katoloso ye e dumeletšwego: {dikatoloso} ."
+
+msgid "File does not have an approved extension."
+msgstr "Faele ga e na katoloso ye e dumeletšwego."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Faele e swanetše go ba magareng ga {min_size} le {max_size} di-byte."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Leina la tšhemo leo le sa šomego '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Tšhemo e swanetše go lekana le % (leina_le lengwe)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Tšhemo e swanetše go ba bonnyane bja botelele bja sebopego sa %(min)d."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Tšhemo e ka se be ye telele go feta semelo sa %(max)d."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Tšhemo e swanetše go ba ka botelele bja sebopego sa %(max)d gabotse."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr ""
+"Tšhemo e swanetše go ba magareng ga %(min)d le %(max)d ditlhaka tše "
+"telele."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Palo e swanetše go ba bonyane %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Palo e swanetše go ba palomoka ya %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Palo e swanetše go ba magareng ga %(min)s le %(max)s."
+
+msgid "Invalid input."
+msgstr "Tsenyo ye e sa šomego."
+
+msgid "Invalid email address."
+msgstr "Aterese ya imeile ye e sa šomego."
+
+msgid "Invalid IP address."
+msgstr "Aterese ya IP ye e sa šomego."
+
+msgid "Invalid Mac address."
+msgstr "Aterese ya Mac yeo e sa šomego."
+
+msgid "Invalid URL."
+msgstr "URL ye e sa šomego."
+
+msgid "Invalid UUID."
+msgstr "UUID ye e sa šomego."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Boleng bjo bo sa šomego, bo swanetše go ba bjo bongwe bja: %(boleng)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Boleng bjo bo sa šomego, e ka se be efe goba efe ya: % (boleng)s."
+
+msgid "This field cannot be edited."
+msgstr "Tšhemo ye e ka se rulaganywe."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Tšhemo ye e šitišitšwe gomme e ka se be le boleng."
+
+msgid "Invalid CSRF Token."
+msgstr "Letshwao la CSRF leo le sa šomego."
+
+msgid "CSRF token missing."
+msgstr "Letshwao la CSRF le hlaela."
+
+msgid "CSRF failed."
+msgstr "CSRF e paletšwe."
+
+msgid "CSRF token expired."
+msgstr "Letshwao la CSRF le fedile nako."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Kgetho ye e sa šomego: o be a sa kgone go gapeletša."
+
+msgid "Choices cannot be None."
+msgstr "Dikgetho e ka se be Ga go na."
+
+msgid "Not a valid choice."
+msgstr "E sego kgetho ye e kwagalago."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Kgetho (dikgetho) ye e sa šomego: tsenyo e tee goba tše ntši tša datha di"
+" be di sa kgone go gapeletšwa."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' ga se kgetho ye e šomago ya tšhemo ye."
+
+msgid "Not a valid datetime value."
+msgstr "E sego boleng bja nako ya letšatšikgwedi bjo bo šomago."
+
+msgid "Not a valid date value."
+msgstr "E sego boleng bja letšatšikgwedi bjo bo šomago."
+
+msgid "Not a valid time value."
+msgstr "E sego boleng bja nako bjo bo šomago."
+
+msgid "Not a valid week value."
+msgstr "E sego boleng bja beke bjo bo šomago."
+
+msgid "Not a valid integer value."
+msgstr "E sego boleng bja palomoka bjo bo šomago."
+
+msgid "Not a valid decimal value."
+msgstr "E sego boleng bja tesimale bjo bo šomago."
+
+msgid "Not a valid float value."
+msgstr "E sego boleng bja go phaphamala bjo bo šomago."
+

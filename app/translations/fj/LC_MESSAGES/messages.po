@@ -1,0 +1,1062 @@
+# Translations for FJ.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fj\n"
+"Language-Team: fj <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Kerekere mo ni curu mai mo ni raica na page oqo."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Na IMEI oqo sa volai tu ena ivakarau."
+
+msgid "Accès non autorisé."
+msgstr "Na curu sega ni vakadonui."
+
+msgid "Appareil déverrouillé."
+msgstr "Sa dolavi na misini."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Sa buli na ivakasala! Na veivakadeitaki e vakau."
+
+msgid "Alerte résolue."
+msgstr "Sa vakatulewataki na veivakaroti."
+
+msgid "Pas encore de compte ?"
+msgstr "Sega ni dua na akaude?"
+
+msgid "Mon Profil"
+msgstr "Noqu itukutuku"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Sa rawa vinaka na veitaratara! Kidavaki."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Cala na imeli se vosanicuru."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Na veivanua kece e gadrevi me vakacavari."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "E sega ni veiganiti na vosanicuru."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Na vosanicuru e dodonu me tiko kina e lailai mai na 6 na matanivola."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Na imeli oqo e sa vakayagataki tiko."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Akaude sa buli vinaka! Loma mai."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "E sega ni kune e dua na akaude ena imeli oqo."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Na naba ni talevoni e sega ni salavata kei na naba ni akaude."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Na vosanicuru vou e dodonu me vakayacori."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Vakavoutaka na vosanicuru vinaka! Loma mai."
+
+msgid "Vous avez été déconnecté."
+msgstr "O sa vakasevi tani."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "E gadrevi na ivakatakilakila, ivakaraitaki kei na IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "E dua na misini kei na IMEI oqo sa tiko."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Device rejisitataki vakavinaka!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "E sega ni vakadonui mo vakayacora na cakacaka oqo."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Na misini vakayawa e lokataki vakavinaka."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Sa dolavi vinaka na misini."
+
+msgid "Appareil supprimé."
+msgstr "Sa bokoci na misini."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Yalovinaka digitaka e dua na misini kei na mataqali ivakasala."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Na misini oqo e sega ni nomu."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "E ripotetaki vakavinaka na Alert. Sa vakadeitaki na misini."
+
+msgid "Alerte marquée comme résolue."
+msgstr "E vakatakilakilataki na veivakaroti me sa vakatulewataki."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "E gadrevi na imatai ni yaca, iotioti ni yaca kei na imeli."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Na imeli oqo e sa vakayagataki tiko ena dua tale na akaude."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Sa vakavoutaki vinaka na itukutuku!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Na curu e maroroi tu vei ira na vakailesilesi."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Na cala e vakatakilakilataki me sa wali."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "E sega ni rawa ni o bokoca na nomu akaude."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Sa bokoci rawa na vakayagataki."
+
+msgid "Administration"
+msgstr "Veiliutaki"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Na kena cicivaki na ivakarau ni Anti-butako"
+
+msgid "Utilisateurs"
+msgstr "Vakayagataki"
+
+msgid "Actifs aujourd'hui"
+msgstr "Gugumatua nikua"
+
+msgid "Nouveaux ce mois"
+msgstr "Vou ena vula oqo"
+
+msgid "Appareils"
+msgstr "iyaya"
+
+msgid "Alertes actives"
+msgstr "Na veivakaroti gugumatua"
+
+msgid "Analytique"
+msgstr "Vakadidike"
+
+msgid "Journal d'activité"
+msgstr "Na ivola ni itaviqaravi"
+
+msgid "Erreurs"
+msgstr "Cala"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Veisemati (iotioti ni 7 na siga)"
+
+msgid "Alertes par type"
+msgstr "Veivakasalataki ena mataqali"
+
+msgid "Appareils par opérateur"
+msgstr "Na iyaya mai na dauveiqaravi"
+
+msgid "Résumé du système"
+msgstr "Vakalekalekataki ni Sistema"
+
+msgid "Utilisateurs total"
+msgstr "Iwiliwili taucoko ni vakayagataki"
+
+msgid "Appareils enregistrés"
+msgstr "Na misini rejisitataki"
+
+msgid "Total alertes"
+msgstr "Na iwiliwili taucoko ni veivakaroti"
+
+msgid "Alertes en cours"
+msgstr "Na veivakaroti ena gauna oqo"
+
+msgid "Erreurs non résolues"
+msgstr "Cala sega ni wali"
+
+msgid "Dernières activités"
+msgstr "Na itaviqaravi vou"
+
+msgid "récentes"
+msgstr "vou"
+
+msgid "Utilisateur"
+msgstr "Vakayagataki"
+
+msgid "Action"
+msgstr "Itavi"
+
+msgid "Détails"
+msgstr "Itukutuku matailalai"
+
+msgid "Adresse IP"
+msgstr "IP itikotiko"
+
+msgid "Navigateur"
+msgstr "Barausa"
+
+msgid "Date"
+msgstr "Tikinisiga"
+
+msgid "Aucune activité"
+msgstr "Sega na itaviqaravi"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Ena basika eke na itaviqaravi ni vakayagataki."
+
+msgid "Journal d'erreurs"
+msgstr "Tukutuku ni cala"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Vakavinakataka na cala kece?"
+
+msgid "Tout résoudre"
+msgstr "Vakaotia na ka kecega"
+
+msgid "non résolues"
+msgstr "sega ni wali"
+
+msgid "Tout est résolu"
+msgstr "Sa wali na ka kecega ."
+
+msgid "Type"
+msgstr "Yalo vinaka"
+
+msgid "Description"
+msgstr "Ivakamacala"
+
+msgid "Statut"
+msgstr "ITuvatuva"
+
+msgid "Résolu"
+msgstr "Sa wali"
+
+msgid "Non résolu"
+msgstr "Sega ni wali"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Sega ni dua na cala e volai"
+
+msgid "Le système fonctionne correctement."
+msgstr "E cakacaka vinaka tiko na ivakarau."
+
+msgid "Gestion des utilisateurs"
+msgstr "Veiliutaki ni vakayagataki"
+
+msgid "comptes"
+msgstr "akaude"
+
+msgid "Email"
+msgstr "Imeli"
+
+msgid "Téléphone"
+msgstr "Talevoni"
+
+msgid "Rôle"
+msgstr "Itavi"
+
+msgid "Inscrit le"
+msgstr "Rejisitataki ena"
+
+msgid "Actions"
+msgstr "Cakacaka"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Bokoca na vakayagataki oqo kei na nodra iyaya kece?"
+
+msgid "Vous"
+msgstr "O IKO"
+
+msgid "Connexions"
+msgstr "Veisemati"
+
+msgid "Vol"
+msgstr "Vuka"
+
+msgid "Perte"
+msgstr "Yali"
+
+msgid "Anomalie"
+msgstr "Veisau"
+
+msgid "Alertes"
+msgstr "Veivakasalataki"
+
+msgid "Gestion des alertes"
+msgstr "Veiliutaki ni ivakasala"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Ripotetaka na butako se yali ka vakamuria na itukutuku"
+
+msgid "Signaler un vol / perte"
+msgstr "Ripotetaka na butako/lusi"
+
+msgid "En cours"
+msgstr "Sa toso tiko"
+
+msgid "Résolues"
+msgstr "Sa wali"
+
+msgid "Historique des alertes"
+msgstr "iTukutuku Makawa"
+
+msgid "Appareil"
+msgstr "Iyaya"
+
+msgid "Priorité"
+msgstr "Vakaliuci"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Vakatakilakilataka na ivakasala oqo me vaka ni sa wali?"
+
+msgid "Résoudre"
+msgstr "Walia"
+
+msgid "Aucune alerte"
+msgstr "Sega na ivakasala"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Na itukutuku vinaka! E sega ni dua na ripotetaki ni veivakaroti."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Ripotetaka na butako se yali ."
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Ena nomu ripotetaka e dua na butako, ena lokataki vakataki koya na nomu "
+"misini ka na vakau na itukutuku."
+
+msgid "Appareil concerné"
+msgstr "Na iyaya e vakaleqai"
+
+msgid "Sélectionner un appareil"
+msgstr "Digitaka e dua na iyaya ."
+
+msgid "Type d'alerte"
+msgstr "Mataqali ivakasala"
+
+msgid "Décrivez les circonstances..."
+msgstr "Vakamacalataka na ituvaki..."
+
+msgid "Annuler"
+msgstr "Biuta laivi"
+
+msgid "Signaler"
+msgstr "Ripote"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Vuku Anti-butako ivakarau — Na ituvatuva ni veitaqomaki me baleta na "
+"talevoni veikauyaki ."
+
+msgid "Système Anti-Vol"
+msgstr "Sistema ni Anti-Butako"
+
+msgid "PRINCIPAL"
+msgstr "LEVU"
+
+msgid "Tableau de bord"
+msgstr "Dasibodi"
+
+msgid "SÉCURITÉ"
+msgstr "VEITAQOMAKI"
+
+msgid "Géolocalisation"
+msgstr "Vanua"
+
+msgid "ADMINISTRATION"
+msgstr "VEILIUTAKI"
+
+msgid "Déconnexion"
+msgstr "Tarova na veitaratara"
+
+msgid "Changer de langue"
+msgstr "Veisautaka na vosa"
+
+msgid "Rechercher une langue..."
+msgstr "Vakasaqara e dua na vosa..."
+
+msgid "Profil"
+msgstr "Itukutuku"
+
+msgid "Changer de thème"
+msgstr "Veisautaka na ulutaga"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Railesuva na nomu taqomaki ni misini ."
+
+msgid "Ajouter un appareil"
+msgstr "Kuria e dua na misini"
+
+msgid "Appareils volés"
+msgstr "Na misini butakoci"
+
+msgid "Verrouillés à distance"
+msgstr "Lokataki vakayawa"
+
+msgid "Alertes récentes"
+msgstr "Na veivakaroti se qai oti toka ga"
+
+msgid "Voir tout"
+msgstr "Raica kece"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Sega na veivakaroti. Na nomu misini e taqomaki!"
+
+msgid "Mes appareils"
+msgstr "Na noqu iyaya"
+
+msgid "Aucun appareil enregistré"
+msgstr "Sega ni dua na iyaya e rejisitataki"
+
+msgid "Ajouter"
+msgstr "Vakuria"
+
+msgid "en attente"
+msgstr "ena wawa"
+
+msgid "Gestion des appareils"
+msgstr "Na kena cicivaki na misini"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Rejisita ka vakayagataka na nomu talevoni veikauyaki ."
+
+msgid "Opérateur"
+msgstr "Dauveiqaravi"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Lokataka na misini oqo mai na vanua yawa?"
+
+msgid "Verrouiller"
+msgstr "Sogo"
+
+msgid "Déverrouiller"
+msgstr "Dolava"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Bokoca na misini oqo?"
+
+msgid "Supprimer"
+msgstr "BOKOCA"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Kuria na imatai ni nomu talevoni veikauyaki me tekivu taqomaki kina."
+
+msgid "Nouvel appareil"
+msgstr "Na misini vou"
+
+msgid "Marque"
+msgstr "Ivakatakilakila"
+
+msgid "Sélectionner"
+msgstr "Digia"
+
+msgid "Autre"
+msgstr "So tale"
+
+msgid "Modèle"
+msgstr "Ivakaraitaki"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "tabaka na *#06# ena nomu talevoni"
+
+msgid "Système d'exploitation"
+msgstr "Sistema ni cakacaka"
+
+msgid "Numéro de téléphone"
+msgstr "Naba ni talevoni"
+
+msgid "Enregistrer"
+msgstr "Maroroi"
+
+msgid "Connexion"
+msgstr "Veisemati"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Na ivakarau ni veitaqomaki ni talevoni veikauyaki"
+
+msgid "Adresse email"
+msgstr "Na itikotiko ni imeli"
+
+msgid "Mot de passe"
+msgstr "Vosavuni"
+
+msgid "Se connecter"
+msgstr "Vakacuruma"
+
+msgid "Mot de passe oublié ?"
+msgstr "Guilecava na vosanicuru?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Sa tiko beka na nomu akaude? Ke sega, toso ki liu ki na kena buli na nomu"
+" akaude!"
+
+msgid "Créer un compte"
+msgstr "Cakava e dua na akaude"
+
+msgid "Sécurité maximale"
+msgstr "Veitaqomaki cecere duadua"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Taqomaka na nomu itukutuku vakatamata ena lokataki vakayawa ."
+
+msgid "Localisation GPS"
+msgstr "Vanua ni GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Vaqara na vanua dina ni nomu talevoni veikauyaki ena gauna dina ."
+
+msgid "Alertes instantanées"
+msgstr "Vakasala totolo"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Ciqoma na SMS, imeli kei na veivakadeitaki ni push ena gauna ni butako"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Vaqara na nomu iyaya ka raitayaloyalotaka na vanua rerevaki ."
+
+msgid "Aucun appareil"
+msgstr "Sega na misini"
+
+msgid "Zones à risque"
+msgstr "Vanua ni ririko"
+
+msgid "incidents"
+msgstr "veika e yaco"
+
+msgid "Aucune zone signalée"
+msgstr "Sega ni dua na vanua e ripotetaki"
+
+msgid "Niveau"
+msgstr "Ivakatagedegede"
+
+msgid "Incidents"
+msgstr "Na veika e yaco"
+
+msgid "Profile utilisateur"
+msgstr "Na itukutuku ni vakayagataki"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Vakarautaka na nomu itukutuku vakaitaukei ."
+
+msgid "Membre depuis"
+msgstr "Lewenilotu mai na"
+
+msgid "Modifier mes informations"
+msgstr "Edita na noqu itukutuku ."
+
+msgid "Prénom"
+msgstr "Imatai ni yaca"
+
+msgid "Nom"
+msgstr "Yaca"
+
+msgid "Changer le mot de passe"
+msgstr "Veisautaka na vosanicuru"
+
+msgid "Nouveau mot de passe"
+msgstr "Vosanicuru vou"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "biuta vakalalai me kua ni veisau"
+
+msgid "Enregistrer les modifications"
+msgstr "Maroroya na veisau"
+
+msgid "Inscription"
+msgstr "Rejisita"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"Kidavaki ki na Anti-Butako me baleta na taqomaki vinaka cake ni nomu "
+"misini ."
+
+msgid "Confirmer"
+msgstr "Vakadeitaka"
+
+msgid "Créer mon compte"
+msgstr "Cakava na noqu akaude"
+
+msgid "Déjà un compte ?"
+msgstr "Sa tiko beka e dua na nomu akaude?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Vakavoutaka na vosanicuru"
+
+msgid "Réinitialisation"
+msgstr "Vakavoutaka"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Vakacuruma na nomu imeli kei na naba ni talevoni me vakadeitaka na nomu "
+"ivakatakilakila ."
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Na naba e vakayagataki ena gauna ni rejisita ."
+
+msgid "Minimum 6 caractères"
+msgstr "lailai duadua e 6 na matanivola"
+
+msgid "Confirmer le mot de passe"
+msgstr "Vakadeitaka na vosanicuru"
+
+msgid "Retourner à la"
+msgstr "Lesu tale ki na"
+
+msgid "page de connexion"
+msgstr "tabana ni curu"
+
+msgid "Vérification sécurisée"
+msgstr "Veivakadeitaki taqomaki"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Na nomu ivakatakilakila e vakadeitaki ena kena vakayagataki na nomu imeli"
+" kei na naba ni talevoni ."
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Digitaka e dua na vosanicuru taqomaki ni lailai duadua 6 na matanivola ."
+
+msgid "d"
+msgstr "kei d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{edita}: E sega ni rawa na veisau"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{edita}: E sega ni rawa na veisau: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Cala ni katubaleka: {cala}"
+
+msgid "deprecated"
+msgstr "vakacacani"
+
+msgid "Options"
+msgstr "Digidigi"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Sa rawata na ikuri ni veileti sega ni namaki ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "VakacacaniVakasala: Na ivakaro {yaca!r} sa vakacacani.{itukutuku_ikuri}"
+
+msgid "Aborted!"
+msgstr "Sa vakalutu!"
+
+msgid "Commands"
+msgstr "Na ivakaro"
+
+msgid "Missing command."
+msgstr "E yali na ivakaro."
+
+msgid "Value must be an iterable."
+msgstr "Na isau e dodonu me dua na iterative."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Taura na {nargs} na isau ia e soli 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "Vakacacani: Na {mataqali_param} {yaca!r} sa vakacacani.{itukutuku_ikuri}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Yaca '{yaca}' vakamacalataki vakarua"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Na digidigi ni Boolean {vakasuka! r} e sega ni rawa ni vakayagataka na "
+"kuila vata ga me baleta na dina/lasu."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr ""
+"E sega ni rawa ni vakadeitaka na yaca ni digidigi kei na veivakadeitaki "
+"{decls! r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"E sega ni dua na digidigi e vakamacalataki ia e dua na yaca e "
+"vakadewataki ({yaca}). O vakaibalebaletaka beka mo vakaraitaka e dua na "
+"veileti ena kena isosomi? O sa vakaibalebaletaka beka mo vakadewataka na "
+"'--{yaca}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env veisau: {veivakaleqai}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "vakadeitaki: {vakadeitaki}"
+
+msgid "required"
+msgstr "gadrevi"
+
+msgid "(dynamic)"
+msgstr "(kaukauwa)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Na veileti e taura sara ga e dua na vakadeitaki ni paramita, rawata "
+"{balavu}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "O vinakata mo tomana tiko?"
+
+msgid "Confirm the action without prompting."
+msgstr "Vakadeitaka na cakacaka ka sega ni vakauqeti."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(parokaramu)s, vakadewa%(vakadewa)s"
+
+msgid "Show the version and exit."
+msgstr "Vakaraitaka na vakadewa kei na lako tani."
+
+msgid "Show this message and exit."
+msgstr "Vakaraitaka na itukutuku oqo ka lako tani."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "O vakaibalebaletaka beka na {e rawa}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Cala: {itukutuku}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Tovolea '{ivakaro} {digidigi}' me baleta na veivuke."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Na isau sega ni dodonu: {itukutuku}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Na isau sega ni dodonu me baleta na {param_ivakasala}: {itukutuku}"
+
+msgid "Missing argument"
+msgstr "Veileti e yali"
+
+msgid "Missing option"
+msgstr "Digidigi e yali"
+
+msgid "Missing parameter"
+msgstr "Paramita yali"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Yali {mataqali_paramita}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Paramita yali: {yaca_paramita}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "E sega ni dua na digidigi vakaoqo {yaca!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Sega ni dua na ivakaro vakaoqo {yaca!r}."
+
+msgid "unknown error"
+msgstr "cala sega ni kilai"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "E sega ni rawa ni dolava na faile {yaca ni faile!r}: {itukutuku}"
+
+msgid "Usage:"
+msgstr "Vakayagataki:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr ""
+"Na ivakatakilakila ni tekivu sega ni dodonu me baleta na digidigi "
+"({digidigi})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Na veileti {yaca! r} e taura na {nargs} na isau."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Na digidigi {yaca!r} e sega ni taura e dua na isau."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Na digidigi {yaca!r} e gadrevi kina e dua na veileti."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Na vakacavari ni shell e sega ni tokoni me baleta na vakadewataki ni Bash"
+" makawa cake mai na 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"E sega ni rawa ni kunei na itukutuku ni Bash, e sega ni tokoni na "
+"vakacavari ni shell."
+
+msgid "Repeat for confirmation"
+msgstr "Tokaruataka me vakadeitaki"
+
+msgid "Error: The two entered values do not match."
+msgstr "Cala: Na rua na ivakavuvuli e vakacurumi e sega ni veiganiti."
+
+msgid "Error: invalid input"
+msgstr "Cala: sega ni dodonu na vakacuru"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Roka sega ni kilai {roka!r}"
+
+msgid "Press any key to continue..."
+msgstr "Tabaka e dua na ki mo tomana..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Digitaka mai na:\\n\\t{digidigi}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{ibalebale!r} e sega ni {digidigi}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Digidigi ({digidigi})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{ibalebale! r} e sega ni veiganiti kei na ituvatuva {ivakarau}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{ibalebale!r} e sega ni dua na {naba_mataqali} dodonu."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{ibalebale} e sega ni tiko ena ilawalawa {iwasewase}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr ""
+"{ibalebale! r} e sega ni dua na vakasama dodonu. Na veika e kilai: "
+"{matanitu}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{ibalebale! r} e sega ni dua na UUID dodonu."
+
+msgid "file"
+msgstr "itukutuku"
+
+msgid "directory"
+msgstr "dairekita"
+
+msgid "path"
+msgstr "gaunisala"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{yaca} {yaca ni faile!r} e sega ni tiko."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{yaca} {yaca ni faile! r} e dua na faile."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{yaca} {yaca ni faile! r} e dua na dairekita."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{yaca} {yaca ni faile!r} e sega ni wiliki rawa."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{yaca} {yaca ni faile!r} e sega ni volai rawa."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{yaca} {yaca ni faile! r} e sega ni vakayacori rawa."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_mataqali} na isau e gadrevi, ia {len_ivakarau} e soli."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Na ivakarau ni uciwai sega ni kilai '{yaca}'"
+
+msgid "This field is required."
+msgstr "E gadrevi na vanua oqo."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Faile e sega ni dua na kena vakadonui na vakabalavutaki: {vakabalavutaki}"
+
+msgid "File does not have an approved extension."
+msgstr "Faile e sega ni dua na kena vakadonui na vakabalavutaki."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr ""
+"Na faile e dodonu me tiko ena maliwa ni {min_levu} kei na {levu_levu} "
+"baiti."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Na yaca ni vanua e sega ni dodonu '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Na vanua e dodonu me tautauvata kei na % (yaca_dua tale) s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Na vanua e dodonu me lailai duadua % (min) d na ivakatakilakila balavu."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Na vanua e sega ni rawa ni balavu cake mai na % (max) d ivakatakilakila."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Na vanua e dodonu me dodonu sara na % (max) d na ivakatakilakila balavu."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr ""
+"Na vanua e dodonu me tiko ena maliwa ni% (min) d kei na% (levu duadua) d "
+"na matanivola balavu."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Na iwiliwili e dodonu me lailai duadua % (miniti) s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Na iwiliwili e dodonu me levu duadua % (levu duadua) s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Na naba e dodonu me tiko ena maliwa ni% (miniti) kei na% (levu duadua)."
+
+msgid "Invalid input."
+msgstr "Vakacurumi sega ni dodonu."
+
+msgid "Invalid email address."
+msgstr "Na itikotiko ni imeli sega ni dodonu."
+
+msgid "Invalid IP address."
+msgstr "Na itikotiko ni IP sega ni dodonu."
+
+msgid "Invalid Mac address."
+msgstr "Na itikotiko ni Mac sega ni dodonu."
+
+msgid "Invalid URL."
+msgstr "URL sega ni dodonu."
+
+msgid "Invalid UUID."
+msgstr "UUID sega ni dodonu."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Na isau sega ni dodonu, e dodonu me dua vei ira na: %(ivakarau)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Na isau sega ni dodonu, e sega ni rawa ni dua vei ira na: %(ivakarau)s."
+
+msgid "This field cannot be edited."
+msgstr "E sega ni rawa ni vakadodonutaki na vanua oqo."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Na vanua oqo e vakaleqai ka sega ni rawa ni dua na kena yaga."
+
+msgid "Invalid CSRF Token."
+msgstr "Tokeni ni CSRF sega ni dodonu."
+
+msgid "CSRF token missing."
+msgstr "Yali na ivakatakilakila ni CSRF."
+
+msgid "CSRF failed."
+msgstr "E sega ni rawata na CSRF."
+
+msgid "CSRF token expired."
+msgstr "Sa oti na gauna ni ivakatakilakila ni CSRF."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Digidigi sega ni dodonu: sega ni rawa ni vakasaurarataki."
+
+msgid "Choices cannot be None."
+msgstr "Na digidigi e sega ni rawa ni Sega."
+
+msgid "Not a valid choice."
+msgstr "E sega ni digidigi dodonu."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Digidigi sega ni dodonu(s): e dua se sivia na itukutuku ni inputs e sega "
+"ni rawa ni vakasaurarataki."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(ibalebale) s' e sega ni dua na digidigi dodonu me baleta na vanua oqo."
+
+msgid "Not a valid datetime value."
+msgstr "E sega ni dua na isau ni siga dodonu."
+
+msgid "Not a valid date value."
+msgstr "Sega ni dua na isau ni siga dodonu."
+
+msgid "Not a valid time value."
+msgstr "Sega ni dua na gauna dodonu."
+
+msgid "Not a valid week value."
+msgstr "Sega ni dua na isau ni macawa dodonu."
+
+msgid "Not a valid integer value."
+msgstr "Sega ni dua na iwiliwili taucoko dodonu."
+
+msgid "Not a valid decimal value."
+msgstr "Sega ni dua na isau ni desimali dodonu."
+
+msgid "Not a valid float value."
+msgstr "Sega ni dua na isau ni float dodonu."
+

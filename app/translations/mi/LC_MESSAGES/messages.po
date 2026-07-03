@@ -1,0 +1,1042 @@
+# Translations for MI.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: mi\n"
+"Language-Team: mi <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Tena koa takiuru kia uru atu ki tenei wharangi."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Kua rehitatia tenei IMEI ki te punaha."
+
+msgid "Accès non autorisé."
+msgstr "Uru kore mana."
+
+msgid "Appareil déverrouillé."
+msgstr "Kua wetekina te taputapu."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Hangaia te matohi! I tukuna nga panui."
+
+msgid "Alerte résolue."
+msgstr "Kua whakatauhia te matohi."
+
+msgid "Pas encore de compte ?"
+msgstr "Kaore ano he kaute?"
+
+msgid "Mon Profil"
+msgstr "Taku Kōtaha"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "I angitu te hononga! Nau mai haere mai."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "He īmēra, he kupuhipa rānei."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Me whakaoti nga waahi katoa e hiahiatia ana."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Karekau nga kupuhipa e taurite."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Kia 6 neke atu nga tohu o te kupuhipa."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Kei te whakamahia kētia tēnei īmēra."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "I angitu te hanga pūkete! Takiuru."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Karekau he kaute i kitea me tenei imeera."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Ko te nama waea kaore i te rite ki te nama kaute."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Ko te kupuhipa hou he whakahau."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "I angitu te tautuhi kupuhipa! Takiuru."
+
+msgid "Vous avez été déconnecté."
+msgstr "Kua momotu koe."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Ko te waitohu, te tauira me te IMEI e hiahiatia ana."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "He taputapu kei tenei IMEI."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Kua rehitatia te taputapu!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Kaore koe i te mana ki te mahi i tenei mahi."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Kua maukati te taputapu i tawhiti."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "I whakawātea pai te taputapu."
+
+msgid "Appareil supprimé."
+msgstr "Kua mukua te taputapu."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Tīpakohia he taputapu me te momo mataara."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Ehara tenei taputapu i a koe."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "I pai te tuku korero matohi. Kua mau te taputapu."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Ko te matohi kua whakatauhia."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Ko te ingoa tuatahi, ingoa whakamutunga me te imeera e hiahiatia ana."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Kua whakamahia kētia tēnei īmēra e tētahi atu pūkete."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "I momoho te whakahōu kōtaha!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Kua rahuitia te uru mo nga kaiwhakahaere."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Kua whakatauhia te hapa."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Kaore e taea e koe te muku i to ake putea."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "I pai te whakakore i te kaiwhakamahi."
+
+msgid "Administration"
+msgstr "Whakahaerenga"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Te whakahaeretanga o te punaha Anti-Theft"
+
+msgid "Utilisateurs"
+msgstr "Kaiwhakamahi"
+
+msgid "Actifs aujourd'hui"
+msgstr "Hohe i tenei ra"
+
+msgid "Nouveaux ce mois"
+msgstr "He hou i tenei marama"
+
+msgid "Appareils"
+msgstr "Pūrere"
+
+msgid "Alertes actives"
+msgstr "Matohi kaha"
+
+msgid "Analytique"
+msgstr "Tātari"
+
+msgid "Journal d'activité"
+msgstr "rangitaki mahi"
+
+msgid "Erreurs"
+msgstr "Nga hapa"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Hononga (7 nga ra whakamutunga)"
+
+msgid "Alertes par type"
+msgstr "Matohi ma te momo"
+
+msgid "Appareils par opérateur"
+msgstr "Nga taputapu na te kaiwhakahaere"
+
+msgid "Résumé du système"
+msgstr "Whakarāpopototanga Pūnaha"
+
+msgid "Utilisateurs total"
+msgstr "Katoa nga kaiwhakamahi"
+
+msgid "Appareils enregistrés"
+msgstr "Nga taputapu kua rehitatia"
+
+msgid "Total alertes"
+msgstr "Tapeke matohi"
+
+msgid "Alertes en cours"
+msgstr "Matohi o naianei"
+
+msgid "Erreurs non résolues"
+msgstr "Nga hapa kaore i whakatauhia"
+
+msgid "Dernières activités"
+msgstr "Nga mahi hou"
+
+msgid "récentes"
+msgstr "tata nei"
+
+msgid "Utilisateur"
+msgstr "Kaiwhakamahi"
+
+msgid "Action"
+msgstr "Mahi"
+
+msgid "Détails"
+msgstr "Nga korero"
+
+msgid "Adresse IP"
+msgstr "Wāhitau IP"
+
+msgid "Navigateur"
+msgstr "Pūtirotiro"
+
+msgid "Date"
+msgstr "Rā"
+
+msgid "Aucune activité"
+msgstr "Karekau he mahi"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Ka puta nga mahi a nga kaiwhakamahi ki konei."
+
+msgid "Journal d'erreurs"
+msgstr "rangitaki hapa"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Whakatikahia nga hapa katoa?"
+
+msgid "Tout résoudre"
+msgstr "Whakaoti nga mea katoa"
+
+msgid "non résolues"
+msgstr "kaore i whakatau"
+
+msgid "Tout est résolu"
+msgstr "Kua whakatauhia nga mea katoa"
+
+msgid "Type"
+msgstr "Ataahua"
+
+msgid "Description"
+msgstr "Whakaahuatanga"
+
+msgid "Statut"
+msgstr "Tūnga"
+
+msgid "Résolu"
+msgstr "Whakatau"
+
+msgid "Non résolu"
+msgstr "Kaore i whakatauhia"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Karekau he hapa i tuhia"
+
+msgid "Le système fonctionne correctement."
+msgstr "Kei te mahi tika te punaha."
+
+msgid "Gestion des utilisateurs"
+msgstr "Whakahaerenga kaiwhakamahi"
+
+msgid "comptes"
+msgstr "kaute"
+
+msgid "Email"
+msgstr "ī-mēra"
+
+msgid "Téléphone"
+msgstr "Waea"
+
+msgid "Rôle"
+msgstr "Tūnga"
+
+msgid "Inscrit le"
+msgstr "Kua rehitatia i runga"
+
+msgid "Actions"
+msgstr "Nga Mahi"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Mukua tenei kaiwhakamahi me o raatau taputapu katoa?"
+
+msgid "Vous"
+msgstr "KOE"
+
+msgid "Connexions"
+msgstr "Hononga"
+
+msgid "Vol"
+msgstr "Rererangi"
+
+msgid "Perte"
+msgstr "Ngaronga"
+
+msgid "Anomalie"
+msgstr "Korekau"
+
+msgid "Alertes"
+msgstr "Matohi"
+
+msgid "Gestion des alertes"
+msgstr "Te whakahaere matohi"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Ripoata te tahae, te ngaro ranei me te whai i nga hitori"
+
+msgid "Signaler un vol / perte"
+msgstr "Pūrongo tahae/ngaro"
+
+msgid "En cours"
+msgstr "Kei te ahu whakamua"
+
+msgid "Résolues"
+msgstr "Whakatau"
+
+msgid "Historique des alertes"
+msgstr "Hītori Matohi"
+
+msgid "Appareil"
+msgstr "Pūrere"
+
+msgid "Priorité"
+msgstr "Ko te kaupapa matua"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Tohua tenei matohi kua whakatauhia?"
+
+msgid "Résoudre"
+msgstr "Whakaoti"
+
+msgid "Aucune alerte"
+msgstr "Karekau he mataara"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Rongo pai! Karekau he matohi i panuitia."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Ripoata tahae, ngaro ranei"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Ma te ripoata mo te tahae, ka maukati aunoa to taputapu ka tukuna nga "
+"panui."
+
+msgid "Appareil concerné"
+msgstr "Te taputapu kua pangia"
+
+msgid "Sélectionner un appareil"
+msgstr "Tīpakohia he taputapu"
+
+msgid "Type d'alerte"
+msgstr "Momo matohi"
+
+msgid "Décrivez les circonstances..."
+msgstr "Whakaahuahia nga ahuatanga..."
+
+msgid "Annuler"
+msgstr "Whakakore"
+
+msgid "Signaler"
+msgstr "Ripoata"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Pūnaha Anti-Theft Intelligent — Papaapapa Haumarutanga mo nga waea atamai"
+
+msgid "Système Anti-Vol"
+msgstr "Pūnaha Anti-Tahae"
+
+msgid "PRINCIPAL"
+msgstr "MAIN"
+
+msgid "Tableau de bord"
+msgstr "Papatohu"
+
+msgid "SÉCURITÉ"
+msgstr "TE WHAKAMAHI"
+
+msgid "Géolocalisation"
+msgstr "Geolocation"
+
+msgid "ADMINISTRATION"
+msgstr "WHAKAMAHI"
+
+msgid "Déconnexion"
+msgstr "Momotu"
+
+msgid "Changer de langue"
+msgstr "Hurihia te reo"
+
+msgid "Rechercher une langue..."
+msgstr "Rapua he reo..."
+
+msgid "Profil"
+msgstr "Kōtaha"
+
+msgid "Changer de thème"
+msgstr "Hurihia te kaupapa"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Tirohanga mo te haumarutanga o to taputapu"
+
+msgid "Ajouter un appareil"
+msgstr "Tāpirihia he taputapu"
+
+msgid "Appareils volés"
+msgstr "Nga taputapu tahae"
+
+msgid "Verrouillés à distance"
+msgstr "Maukati mamao"
+
+msgid "Alertes récentes"
+msgstr "Nga matohi tata nei"
+
+msgid "Voir tout"
+msgstr "Tirohia katoa"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Karekau he mataara. He haumaru o taputapu!"
+
+msgid "Mes appareils"
+msgstr "Ko aku taputapu"
+
+msgid "Aucun appareil enregistré"
+msgstr "Karekau he taputapu kua rehitatia"
+
+msgid "Ajouter"
+msgstr "Tāpiri"
+
+msgid "en attente"
+msgstr "mau tonu"
+
+msgid "Gestion des appareils"
+msgstr "Whakahaerenga taputapu"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Rēhita me te whakahaere i o waea atamai"
+
+msgid "Opérateur"
+msgstr "Kaiwhakahaere"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Maukati mamao tenei taputapu?"
+
+msgid "Verrouiller"
+msgstr "Maukati"
+
+msgid "Déverrouiller"
+msgstr "Wewete"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Mukua tenei taputapu?"
+
+msgid "Supprimer"
+msgstr "MUMU"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Tāpirihia to waea atamai tuatahi ki te tiimata ki te tiaki."
+
+msgid "Nouvel appareil"
+msgstr "He taputapu hou"
+
+msgid "Marque"
+msgstr "Waitohu"
+
+msgid "Sélectionner"
+msgstr "Tīpakohia"
+
+msgid "Autre"
+msgstr "Ētahi atu"
+
+msgid "Modèle"
+msgstr "Tauira"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "pato *#06# ki to waea"
+
+msgid "Système d'exploitation"
+msgstr "Pūnaha whakahaere"
+
+msgid "Numéro de téléphone"
+msgstr "Tau waea"
+
+msgid "Enregistrer"
+msgstr "Tiaki"
+
+msgid "Connexion"
+msgstr "Hononga"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Pūnaha haumarutanga atamai"
+
+msgid "Adresse email"
+msgstr "Wāhitau ī-mēra"
+
+msgid "Mot de passe"
+msgstr "Kupuhipa"
+
+msgid "Se connecter"
+msgstr "Takiuru"
+
+msgid "Mot de passe oublié ?"
+msgstr "Kua wareware te kupuhipa?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "He pūkete kē tāu? Ki te kore, haere ki te hanga i to putea!"
+
+msgid "Créer un compte"
+msgstr "Waihangahia he kaute"
+
+msgid "Sécurité maximale"
+msgstr "Haumarutanga teitei"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Tiakina o raraunga whaiaro me te maukati mamao"
+
+msgid "Localisation GPS"
+msgstr "Tauwāhi GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Kimihia te waahi tika o to waea atamai i te waa"
+
+msgid "Alertes instantanées"
+msgstr "Matohi inamata"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Whiwhi SMS, imeera me nga whakamohiotanga pana ki te tahae"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Kimihia o taputapu me te tiro i nga waahi morearea"
+
+msgid "Aucun appareil"
+msgstr "Kaore he taputapu"
+
+msgid "Zones à risque"
+msgstr "Nga waahi morearea"
+
+msgid "incidents"
+msgstr "aituā"
+
+msgid "Aucune zone signalée"
+msgstr "Kaore he waahi i ripoatahia"
+
+msgid "Niveau"
+msgstr "Taumata"
+
+msgid "Incidents"
+msgstr "Nga aitua"
+
+msgid "Profile utilisateur"
+msgstr "Kōtaha kaiwhakamahi"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Whakahaerehia o korero whaiaro"
+
+msgid "Membre depuis"
+msgstr "Mema mai"
+
+msgid "Modifier mes informations"
+msgstr "Whakatikaina aku korero"
+
+msgid "Prénom"
+msgstr "Ingoa tuatahi"
+
+msgid "Nom"
+msgstr "Ingoa"
+
+msgid "Changer le mot de passe"
+msgstr "Huri kupuhipa"
+
+msgid "Nouveau mot de passe"
+msgstr "Kupuhipa Hou"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "waiho kia kore e huri"
+
+msgid "Enregistrer les modifications"
+msgstr "Tiakina nga huringa"
+
+msgid "Inscription"
+msgstr "Rehitatanga"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Nau mai ki te Anti-Theft mo te pai ake o te haumarutanga o o taputapu"
+
+msgid "Confirmer"
+msgstr "Whakaū"
+
+msgid "Créer mon compte"
+msgstr "Waihangahia taku kaute"
+
+msgid "Déjà un compte ?"
+msgstr "He pūkete kē?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Tautuhi Kupuhipa"
+
+msgid "Réinitialisation"
+msgstr "Tautuhi Anō"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Whakauruhia to imeera me to nama waea hei manatoko i to tuakiri"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Te nama i whakamahia i te wa rehitatanga"
+
+msgid "Minimum 6 caractères"
+msgstr "6 pūāhua iti rawa"
+
+msgid "Confirmer le mot de passe"
+msgstr "Whakaū kupuhipa"
+
+msgid "Retourner à la"
+msgstr "Hoki atu ki"
+
+msgid "page de connexion"
+msgstr "whārangi takiuru"
+
+msgid "Vérification sécurisée"
+msgstr "Manatoko haumaru"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Ka whakamanahia to tuakiri ma te whakamahi i to imeera me to nama waea"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Kōwhiria he kupuhipa haumaru kia 6 neke atu ngā pūāhua"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: I rahua te whakatika"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: I rahua te whakatika: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Hapa Windows: {error}"
+
+msgid "deprecated"
+msgstr "kua whakakorehia"
+
+msgid "Options"
+msgstr "Kōwhiringa"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "He tohenga taapiri ohorere ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Whakatupato Whakamutu: Kua whakakorehia te tono {name!r}.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Kua whakatahe!"
+
+msgid "Commands"
+msgstr "Whakahau"
+
+msgid "Missing command."
+msgstr "Kei te ngaro te whakahau."
+
+msgid "Value must be an iterable."
+msgstr "Ko te uara he mea tuku."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Ka tango i nga uara {nargs} engari 1 i hoatu."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Whakatupato Whakamutu: Ko te {param_type} {name!r} kua "
+"whakakorehia.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Ko te ingoa '{name}' kua tautuhia kia rua nga wa"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Ko te kōwhiringa Boolean {decl!r} kāore e taea te whakamahi i te haki "
+"kotahi mo te pono/teka."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr ""
+"Kāore i taea te whakatau ingoa mō te kōwhiringa me ngā whakapuakanga "
+"{decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Kaore he whiringa i tautuhia engari i tukuna he ingoa ({name}). Ko te "
+"tikanga ki te whakapuaki i tetahi tautohe hei utu? I hiahia koe ki te "
+"tuku '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "taunoa: {taunoa}"
+
+msgid "required"
+msgstr "e hiahiatia ana"
+
+msgid "(dynamic)"
+msgstr "(he hihiri)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Kotahi tonu te whakapuakanga tawhā e mau tohenga, kua {roa}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Me haere tonu?"
+
+msgid "Confirm the action without prompting."
+msgstr "Whakaūhia te mahi me te kore e akiaki."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, putanga %(putanga)s"
+
+msgid "Show the version and exit."
+msgstr "Whakaatuhia te putanga ka puta."
+
+msgid "Show this message and exit."
+msgstr "Whakaatuhia tenei karere ka puta atu."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Ko te tikanga o {possibility}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Hapa: {karere}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Whakamātauria '{command} {option}' mō te āwhina."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Uara muhu: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Uara muhu mo {param_hint}: {karere}"
+
+msgid "Missing argument"
+msgstr "Ngaro tohenga"
+
+msgid "Missing option"
+msgstr "Kei te ngaro te whiringa"
+
+msgid "Missing parameter"
+msgstr "Tawhā ngaro"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Kei te ngaro {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Tawhā ngaro: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Karekau he whiringa penei {ingoa!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Karekau he whakahau penei {ingoa!r}."
+
+msgid "unknown error"
+msgstr "hapa kore mohiotia"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Kāore i taea te tūwhera te kōnae {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Whakamahia:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Muhu te pūāhua tīmatanga mō te kōwhiringa ({kōwhiringa})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Ko te tautohe {name!r} ka mau i nga uara {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Ko te kōwhiringa {name!r} karekau he uara."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Ko te kōwhiringa {name!r} me whai tautohe."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Ko te otinga anga kaore e tautokohia mo nga putanga Bash tawhito ake i te"
+" 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Kaore i kitea te putanga Bash, kaore i te tautokohia te otinga anga."
+
+msgid "Repeat for confirmation"
+msgstr "Tukurua mo te whakau"
+
+msgid "Error: The two entered values do not match."
+msgstr "Hapa: Ko nga uara i whakauruhia e rua kaore i te rite."
+
+msgid "Error: invalid input"
+msgstr "Hapa: whakauru muhu"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Tae tē mōhiotia {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Pēhia tetahi kī kia haere tonu..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Kōwhiri mai i:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "Ko {value!r} ehara i te {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Kōwhiringa({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} e kore e taurite ki te hōputu {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ehara i te {number_type} whaimana."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} kaore i te awhe {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ehara i te boolean whaimana. Uara e mohiotia ana: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ehara i te UUID whaimana."
+
+msgid "file"
+msgstr "kōnae"
+
+msgid "directory"
+msgstr "whaiaronga"
+
+msgid "path"
+msgstr "ara"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} kāore i te tīariari."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "Ko {name} {filename!r} he kōnae."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "Ko {name} {filename!r} he whaiaronga."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} kaore e taea te panui."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} kaore e taea te tuhi."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} kaore e taea te kawe."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Ko nga uara {len_type} e hiahiatia ana, engari ko {len_value} i hoatu."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Rere paerewa '{name}' tē mōhiotia"
+
+msgid "This field is required."
+msgstr "Me hiahia tenei mara."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Karekau he toronga kua whakaaetia: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Karekau he toronga kua whakaaetia."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Me noho te kōnae i waenga i te {min_size} me te {max_size} paita."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "I muhu te ingoa mara '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Me rite te mara ki te %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Kia %(min)d te roa o te roanga o te waahi."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Kaua e roa ake te mara i te %(max)d pūāhua."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Me tino %(max)d te roa o te apure."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Me noho te āpure i waenga i te %(min)d me te %(max)d pūāhua te roa."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Ko te nama me %(min)s iti rawa."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Me nui rawa te nama %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Me noho te tau i waenga i te %(min)s me te %(max)s."
+
+msgid "Invalid input."
+msgstr "Tāuru muhu."
+
+msgid "Invalid email address."
+msgstr "Wāhitau īmēra muhu."
+
+msgid "Invalid IP address."
+msgstr "Wāhitau IP muhu."
+
+msgid "Invalid Mac address."
+msgstr "Wāhitau Mac muhu."
+
+msgid "Invalid URL."
+msgstr "URL muhu."
+
+msgid "Invalid UUID."
+msgstr "UUID muhu."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Uara muhu, me noho tetahi o: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "He uara muhu, kaore e taea tetahi o: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Kāore e taea te whakatika tēnei āpure."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Kua monoa tenei apure kaore e taea te whai uara."
+
+msgid "Invalid CSRF Token."
+msgstr "Tohu CSRF muhu."
+
+msgid "CSRF token missing."
+msgstr "Kei te ngaro te tohu CSRF."
+
+msgid "CSRF failed."
+msgstr "I rahua te CSRF."
+
+msgid "CSRF token expired."
+msgstr "Kua pau te tohu CSRF."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Kōwhiringa Muhu: kaore i taea te tohe."
+
+msgid "Choices cannot be None."
+msgstr "Ko nga whiringa kaore e taea te Kore."
+
+msgid "Not a valid choice."
+msgstr "Ehara i te whiriwhiri tika."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Kōwhiringa muhu: kotahi, nui ake ranei nga whakaurunga raraunga kaore i "
+"taea te akiaki."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "Ehara te '%(value)s' i te whiringa whaimana mo tenei mara."
+
+msgid "Not a valid datetime value."
+msgstr "Ehara i te uara wa wa tika."
+
+msgid "Not a valid date value."
+msgstr "Ehara i te uara ra whaimana."
+
+msgid "Not a valid time value."
+msgstr "Ehara i te uara wa tika."
+
+msgid "Not a valid week value."
+msgstr "Ehara i te uara wiki whaimana."
+
+msgid "Not a valid integer value."
+msgstr "Ehara i te uara tauoti whaimana."
+
+msgid "Not a valid decimal value."
+msgstr "Ehara i te uara ira whaimana."
+
+msgid "Not a valid float value."
+msgstr "Ehara i te uara rewa whaimana."
+

@@ -1,0 +1,1041 @@
+# Translations for BG.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: bg\n"
+"Language-Team: bg <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Моля, влезте за достъп до тази страница."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Този IMEI вече е регистриран в системата."
+
+msgid "Accès non autorisé."
+msgstr "Неоторизиран достъп."
+
+msgid "Appareil déverrouillé."
+msgstr "Устройството е отключено."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Сигналът е създаден! Известията са изпратени."
+
+msgid "Alerte résolue."
+msgstr "Сигналът е разрешен."
+
+msgid "Pas encore de compte ?"
+msgstr "Още нямате акаунт?"
+
+msgid "Mon Profil"
+msgstr "Моят профил"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Връзката е успешна! Добре дошли"
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Неправилен имейл или парола."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Всички задължителни полета трябва да бъдат попълнени."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Паролите не съвпадат."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Паролата трябва да съдържа поне 6 знака."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Този имейл вече се използва."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Акаунтът е създаден успешно! влезте"
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Няма намерени акаунти с този имейл."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Телефонният номер не съвпада с номера на сметката."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Новата парола е задължителна."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Успешно нулиране на паролата! влезте"
+
+msgid "Vous avez été déconnecté."
+msgstr "Вие сте прекъснати."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Необходими са марка, модел и IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Вече съществува устройство с този IMEI."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Устройството е регистрирано успешно!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Не сте упълномощени да извършите това действие."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Устройството е дистанционно заключено успешно."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Устройството е отключено успешно."
+
+msgid "Appareil supprimé."
+msgstr "Устройството е изтрито."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Моля, изберете устройство и тип предупреждение."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Това устройство не ви принадлежи."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Сигналът е докладван успешно. Устройството е обезопасено."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Сигналът е маркиран като разрешен."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Име, фамилия и имейл са задължителни."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Този имейл вече се използва от друг акаунт."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Профилът е актуализиран успешно!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Достъпът е запазен за администратори."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Грешката е означена като разрешена."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Не можете да изтриете собствения си акаунт."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Потребителят е изтрит успешно."
+
+msgid "Administration"
+msgstr "Администрация"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Централизирано управление на системата против кражба"
+
+msgid "Utilisateurs"
+msgstr "Потребители"
+
+msgid "Actifs aujourd'hui"
+msgstr "Активен днес"
+
+msgid "Nouveaux ce mois"
+msgstr "Ново този месец"
+
+msgid "Appareils"
+msgstr "Устройства"
+
+msgid "Alertes actives"
+msgstr "Активни сигнали"
+
+msgid "Analytique"
+msgstr "Аналитичен"
+
+msgid "Journal d'activité"
+msgstr "Дневник на дейността"
+
+msgid "Erreurs"
+msgstr "Грешки"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Връзки (последните 7 дни)"
+
+msgid "Alertes par type"
+msgstr "Сигнали по тип"
+
+msgid "Appareils par opérateur"
+msgstr "Устройства по оператор"
+
+msgid "Résumé du système"
+msgstr "Резюме на системата"
+
+msgid "Utilisateurs total"
+msgstr "Общо потребители"
+
+msgid "Appareils enregistrés"
+msgstr "Регистрирани устройства"
+
+msgid "Total alertes"
+msgstr "Общо сигнали"
+
+msgid "Alertes en cours"
+msgstr "Актуални сигнали"
+
+msgid "Erreurs non résolues"
+msgstr "Неразрешени грешки"
+
+msgid "Dernières activités"
+msgstr "Последни дейности"
+
+msgid "récentes"
+msgstr "скорошни"
+
+msgid "Utilisateur"
+msgstr "Потребител"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "Détails"
+msgstr "Подробности"
+
+msgid "Adresse IP"
+msgstr "IP адрес"
+
+msgid "Navigateur"
+msgstr "Браузър"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Aucune activité"
+msgstr "Няма активност"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Потребителските дейности ще се показват тук."
+
+msgid "Journal d'erreurs"
+msgstr "Дневник на грешките"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Коригиране на всички грешки?"
+
+msgid "Tout résoudre"
+msgstr "Реши всичко"
+
+msgid "non résolues"
+msgstr "нерешени"
+
+msgid "Tout est résolu"
+msgstr "Всичко е решено"
+
+msgid "Type"
+msgstr "Любезен"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Statut"
+msgstr "Статус"
+
+msgid "Résolu"
+msgstr "Разрешено"
+
+msgid "Non résolu"
+msgstr "Неразрешено"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Няма записани грешки"
+
+msgid "Le système fonctionne correctement."
+msgstr "Системата работи правилно."
+
+msgid "Gestion des utilisateurs"
+msgstr "Управление на потребителите"
+
+msgid "comptes"
+msgstr "сметки"
+
+msgid "Email"
+msgstr "Имейл"
+
+msgid "Téléphone"
+msgstr "Телефон"
+
+msgid "Rôle"
+msgstr "Роля"
+
+msgid "Inscrit le"
+msgstr "Регистриран на"
+
+msgid "Actions"
+msgstr "Действия"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Да се ​​изтрие ли този потребител и всички негови устройства?"
+
+msgid "Vous"
+msgstr "ВИЕ"
+
+msgid "Connexions"
+msgstr "Връзки"
+
+msgid "Vol"
+msgstr "Полет"
+
+msgid "Perte"
+msgstr "Загуба"
+
+msgid "Anomalie"
+msgstr "аномалия"
+
+msgid "Alertes"
+msgstr "Сигнали"
+
+msgid "Gestion des alertes"
+msgstr "Управление на сигнали"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Докладвайте за кражба или загуба и проследете историята"
+
+msgid "Signaler un vol / perte"
+msgstr "Докладвайте кражба/загуба"
+
+msgid "En cours"
+msgstr "В ход"
+
+msgid "Résolues"
+msgstr "Разрешено"
+
+msgid "Historique des alertes"
+msgstr "История на предупрежденията"
+
+msgid "Appareil"
+msgstr "устройство"
+
+msgid "Priorité"
+msgstr "Приоритет"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Да се ​​маркира ли този сигнал като разрешен?"
+
+msgid "Résoudre"
+msgstr "Решете"
+
+msgid "Aucune alerte"
+msgstr "Няма предупреждение"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Добри новини! Няма подадени сигнали."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Докладвайте за кражба или загуба"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"При подаване на сигнал за кражба вашето устройство ще бъде автоматично "
+"заключено и ще бъдат изпратени известия."
+
+msgid "Appareil concerné"
+msgstr "Засегнато устройство"
+
+msgid "Sélectionner un appareil"
+msgstr "Изберете устройство"
+
+msgid "Type d'alerte"
+msgstr "Тип предупреждение"
+
+msgid "Décrivez les circonstances..."
+msgstr "Опишете обстоятелствата..."
+
+msgid "Annuler"
+msgstr "Отказ"
+
+msgid "Signaler"
+msgstr "Докладвай"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Интелигентна система против кражба — платформа за сигурност за смартфони"
+
+msgid "Système Anti-Vol"
+msgstr "Система против кражба"
+
+msgid "PRINCIPAL"
+msgstr "ОСНОВЕН"
+
+msgid "Tableau de bord"
+msgstr "Табло за управление"
+
+msgid "SÉCURITÉ"
+msgstr "СИГУРНОСТ"
+
+msgid "Géolocalisation"
+msgstr "Геолокация"
+
+msgid "ADMINISTRATION"
+msgstr "АДМИНИСТРАЦИЯ"
+
+msgid "Déconnexion"
+msgstr "Прекъснете връзката"
+
+msgid "Changer de langue"
+msgstr "Промяна на езика"
+
+msgid "Rechercher une langue..."
+msgstr "Търсене на език..."
+
+msgid "Profil"
+msgstr "Профил"
+
+msgid "Changer de thème"
+msgstr "Промяна на темата"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Преглед на сигурността на вашето устройство"
+
+msgid "Ajouter un appareil"
+msgstr "Добавяне на устройство"
+
+msgid "Appareils volés"
+msgstr "Откраднати устройства"
+
+msgid "Verrouillés à distance"
+msgstr "Дистанционно заключен"
+
+msgid "Alertes récentes"
+msgstr "Последни сигнали"
+
+msgid "Voir tout"
+msgstr "Вижте всички"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Няма предупреждение. Вашите устройства са в безопасност!"
+
+msgid "Mes appareils"
+msgstr "Моите устройства"
+
+msgid "Aucun appareil enregistré"
+msgstr "Няма регистрирани устройства"
+
+msgid "Ajouter"
+msgstr "Добавете"
+
+msgid "en attente"
+msgstr "на изчакване"
+
+msgid "Gestion des appareils"
+msgstr "Управление на устройството"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Регистрирайте и управлявайте своите смартфони"
+
+msgid "Opérateur"
+msgstr "Оператор"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Да се ​​заключи ли това устройство дистанционно?"
+
+msgid "Verrouiller"
+msgstr "Заключване"
+
+msgid "Déverrouiller"
+msgstr "Отключи"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Изтриване на това устройство?"
+
+msgid "Supprimer"
+msgstr "ИЗТРИВАНЕ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Добавете първия си смартфон, за да започнете да го защитавате."
+
+msgid "Nouvel appareil"
+msgstr "Ново устройство"
+
+msgid "Marque"
+msgstr "Марка"
+
+msgid "Sélectionner"
+msgstr "Изберете"
+
+msgid "Autre"
+msgstr "други"
+
+msgid "Modèle"
+msgstr "Модел"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "въведете *#06# на телефона си"
+
+msgid "Système d'exploitation"
+msgstr "Операционна система"
+
+msgid "Numéro de téléphone"
+msgstr "телефонен номер"
+
+msgid "Enregistrer"
+msgstr "Запазване"
+
+msgid "Connexion"
+msgstr "Връзка"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Система за сигурност на смартфон"
+
+msgid "Adresse email"
+msgstr "Имейл адрес"
+
+msgid "Mot de passe"
+msgstr "Парола"
+
+msgid "Se connecter"
+msgstr "влезте"
+
+msgid "Mot de passe oublié ?"
+msgstr "Забравена парола?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Имате ли вече акаунт? В противен случай продължете със създаването на "
+"своя акаунт!"
+
+msgid "Créer un compte"
+msgstr "Създайте акаунт"
+
+msgid "Sécurité maximale"
+msgstr "Максимална сигурност"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Защитете вашите лични данни с дистанционно заключване"
+
+msgid "Localisation GPS"
+msgstr "GPS местоположение"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Намерете точното местоположение на вашия смартфон в реално време"
+
+msgid "Alertes instantanées"
+msgstr "Незабавни сигнали"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Получавайте SMS, имейл и насочени известия в случай на кражба"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Локализирайте вашите устройства и визуализирайте рисковите зони"
+
+msgid "Aucun appareil"
+msgstr "Няма устройство"
+
+msgid "Zones à risque"
+msgstr "Рискови зони"
+
+msgid "incidents"
+msgstr "инциденти"
+
+msgid "Aucune zone signalée"
+msgstr "Няма отчетени области"
+
+msgid "Niveau"
+msgstr "Ниво"
+
+msgid "Incidents"
+msgstr "Инциденти"
+
+msgid "Profile utilisateur"
+msgstr "Потребителски профил"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Управлявайте вашата лична информация"
+
+msgid "Membre depuis"
+msgstr "Член от"
+
+msgid "Modifier mes informations"
+msgstr "Редактирайте моята информация"
+
+msgid "Prénom"
+msgstr "Първо име"
+
+msgid "Nom"
+msgstr "Име"
+
+msgid "Changer le mot de passe"
+msgstr "Промяна на паролата"
+
+msgid "Nouveau mot de passe"
+msgstr "Нова парола"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "оставете празно, за да не се променя"
+
+msgid "Enregistrer les modifications"
+msgstr "Запазете промените"
+
+msgid "Inscription"
+msgstr "Регистрация"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Добре дошли в Anti-Theft за по-добра сигурност на вашите устройства"
+
+msgid "Confirmer"
+msgstr "Потвърдете"
+
+msgid "Créer mon compte"
+msgstr "Създай моя акаунт"
+
+msgid "Déjà un compte ?"
+msgstr "Вече имате акаунт?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Нулиране на парола"
+
+msgid "Réinitialisation"
+msgstr "Нулиране"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Въведете своя имейл и телефонен номер, за да потвърдите самоличността си"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Номерът, използван при регистрацията"
+
+msgid "Minimum 6 caractères"
+msgstr "Минимум 6 знака"
+
+msgid "Confirmer le mot de passe"
+msgstr "Потвърдете паролата"
+
+msgid "Retourner à la"
+msgstr "Връщане към"
+
+msgid "page de connexion"
+msgstr "страница за вход"
+
+msgid "Vérification sécurisée"
+msgstr "Сигурна проверка"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Вашата самоличност се потвърждава с вашия имейл и телефонен номер"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Изберете сигурна парола от поне 6 знака"
+
+msgid "d"
+msgstr ", ко"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{редактор}: Редактирането не бе успешно"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{редактор}: Неуспешно редактиране: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Грешка в Windows: {error}"
+
+msgid "deprecated"
+msgstr "отхвърлено"
+
+msgid "Options"
+msgstr "Опции"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Получих неочакван допълнителен аргумент ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Командата {name!r} е остаряла.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Прекратено!"
+
+msgid "Commands"
+msgstr "Команди"
+
+msgid "Missing command."
+msgstr "Липсваща команда."
+
+msgid "Value must be an iterable."
+msgstr "Стойността трябва да бъде итерируема."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Приема {nargs} стойности, но е дадена 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: {param_type} {name!r} е остарял.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Името „{name}“ е дефинирано два пъти"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Булевата опция {decl!r} не може да използва същия флаг за true/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Не може да се определи име за опция с декларации {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Няма дефинирани опции, но беше предадено име ({name}). Искахте да "
+"декларирате аргумент вместо това? Имахте предвид да подадете '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var env: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "по подразбиране: {по подразбиране}"
+
+msgid "required"
+msgstr "изисква се"
+
+msgid "(dynamic)"
+msgstr "(динамичен)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Аргументите приемат точно една декларация на параметър, получена "
+"{length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Искате ли да продължите?"
+
+msgid "Confirm the action without prompting."
+msgstr "Потвърдете действието без подкана."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, версия %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Покажете версията и излезте."
+
+msgid "Show this message and exit."
+msgstr "Покажи това съобщение и излез."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Имахте предвид {възможност}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Грешка: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Опитайте '{command} {option}' за помощ."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Невалидна стойност: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Невалидна стойност за {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Липсващ аргумент"
+
+msgid "Missing option"
+msgstr "Липсваща опция"
+
+msgid "Missing parameter"
+msgstr "Липсващ параметър"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Липсва {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Липсващ параметър: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Няма такава опция {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Няма такава команда {name!r}."
+
+msgid "unknown error"
+msgstr "неизвестна грешка"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Файлът {filename!r} не може да бъде отворен: {message}"
+
+msgid "Usage:"
+msgstr "Използвайте:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Невалиден начален знак за опция ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Аргумент {name!r} приема {nargs} стойности."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Опция {name!r} не приема стойност."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Опция {name!r} изисква аргумент."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Завършването на обвивката не се поддържа за версии на Bash, по-стари от "
+"4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Версията на Bash не можа да бъде открита, завършването на обвивката не се"
+" поддържа."
+
+msgid "Repeat for confirmation"
+msgstr "Повторете за потвърждение"
+
+msgid "Error: The two entered values do not match."
+msgstr "Грешка: Двете въведени стойности не съвпадат."
+
+msgid "Error: invalid input"
+msgstr "Грешка: невалиден вход"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Неизвестен цвят {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Натиснете произволен клавиш, за да продължите..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Изберете от:\\n\\t{избори}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} не е {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Избор ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} не съответства на формата {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} не е валиден {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} не е в диапазона {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} не е валидно булево значение. Разпознати стойности: {състояния}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} не е валиден UUID."
+
+msgid "file"
+msgstr "файл"
+
+msgid "directory"
+msgstr "указател"
+
+msgid "path"
+msgstr "път"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} не съществува."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} е файл."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} е директория."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} не се чете."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} не може да се записва."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} не е изпълним."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Стойностите {len_type} са задължителни, но е дадено {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Неизвестен стандартен поток „{name}“"
+
+msgid "This field is required."
+msgstr "Това поле е задължително."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Файлът няма одобрено разширение: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Файлът няма одобрено разширение."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Файлът трябва да е между {min_size} и {max_size} байта."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Невалидно име на полето „%s“."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Полето трябва да е равно на %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Полето трябва да съдържа най-малко %(min)d знак."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Полето не може да бъде по-дълго от %(max)d знак."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Полето трябва да съдържа точно %(max)d знак."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Полето трябва да е с дължина между %(min)d и %(max)d знака."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Числото трябва да е поне %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Броят трябва да бъде най-много %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Числото трябва да е между %(min)s и %(max)s."
+
+msgid "Invalid input."
+msgstr "Невалиден вход."
+
+msgid "Invalid email address."
+msgstr "Невалиден имейл адрес."
+
+msgid "Invalid IP address."
+msgstr "Невалиден IP адрес."
+
+msgid "Invalid Mac address."
+msgstr "Невалиден Mac адрес."
+
+msgid "Invalid URL."
+msgstr "Невалиден URL адрес."
+
+msgid "Invalid UUID."
+msgstr "Невалиден UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Невалидна стойност, трябва да бъде една от: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Невалидна стойност, не може да бъде нито една от: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Това поле не може да се редактира."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Това поле е деактивирано и не може да има стойност."
+
+msgid "Invalid CSRF Token."
+msgstr "Невалиден CSRF токен."
+
+msgid "CSRF token missing."
+msgstr "Липсва CSRF токен."
+
+msgid "CSRF failed."
+msgstr "CSRF не успя."
+
+msgid "CSRF token expired."
+msgstr "CSRF токенът е изтекъл."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Невалиден избор: не може да се принуди."
+
+msgid "Choices cannot be None."
+msgstr "Изборите не могат да бъдат никакви."
+
+msgid "Not a valid choice."
+msgstr "Невалиден избор."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Невалиден избор(и): един или повече входни данни не могат да бъдат "
+"принудени."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "„%(value)s“ не е валиден избор за това поле."
+
+msgid "Not a valid datetime value."
+msgstr "Невалидна стойност за дата и час."
+
+msgid "Not a valid date value."
+msgstr "Не е валидна стойност на датата."
+
+msgid "Not a valid time value."
+msgstr "Невалидна времева стойност."
+
+msgid "Not a valid week value."
+msgstr "Невалидна седмична стойност."
+
+msgid "Not a valid integer value."
+msgstr "Не е валидна цяло число."
+
+msgid "Not a valid decimal value."
+msgstr "Не е валидна десетична стойност."
+
+msgid "Not a valid float value."
+msgstr "Невалидна плаваща стойност."
+

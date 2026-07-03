@@ -1,0 +1,264 @@
+{% extends "base.html" %}
+{% block title %}{{ _('Appareils') }} —  anti-vol {% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <div>
+        <h1 class="page-title">{{ _('Gestion des appareils') }}</h1>
+        <p class="page-subtitle">{{ _('Enregistrez et gérez vos smartphones') }}</p>
+    </div>
+    <div class="page-actions">
+        <button class="btn btn-primary" onclick="openModal('addDeviceModal')">
+            <i data-lucide="plus"></i>
+            {{ _('Ajouter un appareil') }}
+        </button>
+    </div>
+</div>
+
+<!-- ═══ LISTE DES APPAREILS ═══ -->
+<div class="card">
+    <div class="card-body">
+        {% if appareils %}
+        <div class="table-responsive">
+            <table class="table" id="devicesTable">
+                <thead>
+                    <tr>
+                        <th>{{ _('Appareil') }}</th>
+                        <th>IMEI</th>
+                        <th>{{ _('Opérateur') }}</th>
+                        <th>OS</th>
+                        <th>{{ _('Statut') }}</th>
+                        <th>{{ _('Code verrouillage') }}</th>
+                        <th>{{ _('Code USSD') }}</th>
+                        <th>{{ _('Date') }}</th>
+                        <th>{{ _('Actions') }}</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for appareil in appareils %}
+                    <tr>
+                        <td data-label="{{ _('Appareil') }}">
+                            <div class="device-cell">
+                                <div class="device-icon-sm device-{{ appareil.statut }}">
+                                    <i data-lucide="smartphone"></i>
+                                </div>
+                                <div>
+                                    <strong>{{ appareil.marque }} {{ appareil.modele }}</strong>
+                                    {% if appareil.numero_telephone %}
+                                    <br><small class="text-muted">{{ appareil.numero_telephone }}</small>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </td>
+                        <td data-label="IMEI"><code>{{ appareil.imei }}</code></td>
+                        <td data-label="{{ _('Opérateur') }}">{{ appareil.operateur or '—' }}</td>
+                        <td data-label="OS">{{ appareil.systeme_os or '—' }}</td>
+                        <td data-label="{{ _('Statut') }}">
+                            <span class="badge badge-{{ 'success' if appareil.statut == 'actif' else 'danger' if appareil.statut == 'volé' else 'warning' if appareil.statut == 'verrouillé' else 'info' }}">
+                                {{ appareil.statut | capitalize }}
+                            </span>
+                        </td>
+                        <td data-label="{{ _('Code') }}">
+                            {% if appareil.code_verrouillage %}
+                            <code style="cursor:pointer;font-size:14px;letter-spacing:2px"
+                                  onclick="navigator.clipboard.writeText('{{ appareil.code_verrouillage }}');this.style.color='#22c55e';setTimeout(()=>this.style.color='',1500)"
+                                  title="Cliquer pour copier">
+                                {{ appareil.code_verrouillage }}
+                            </code>
+                            {% else %}
+                            <span class="text-muted">—</span>
+                            {% endif %}
+                        </td>
+                        <td data-label="USSD">
+                            {% if appareil.code_ussd %}
+                            <code style="cursor:pointer;font-size:14px"
+                                  onclick="navigator.clipboard.writeText('{{ appareil.code_ussd }}');this.style.color='#22c55e';setTimeout(()=>this.style.color='',1500)"
+                                  title="Cliquer pour copier">
+                                {{ appareil.code_ussd }}
+                            </code>
+                            {% else %}
+                            <span class="text-muted">—</span>
+                            {% endif %}
+                        </td>
+                        <td class="text-muted" data-label="{{ _('Date') }}">{{ appareil.date_enregistrement.strftime('%d/%m/%Y') }}</td>
+                        <td data-label="{{ _('Actions') }}">
+                            <div class="action-buttons">
+                                {% if appareil.statut != 'verrouillé' %}
+                                <form method="POST" action="{{ url_for('dashboard.verrouiller_appareil', id=appareil.id) }}" onsubmit="return confirm('{{ _('Verrouiller cet appareil à distance ?') }}')">
+                                    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                    <button type="submit" class="btn btn-warning btn-xs" title="{{ _('Verrouiller') }}">
+                                        <i data-lucide="lock"></i>
+                                    </button>
+                                </form>
+                                {% else %}
+                                <form method="POST" action="{{ url_for('dashboard.deverrouiller_appareil', id=appareil.id) }}">
+                                    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                    <button type="submit" class="btn btn-success btn-xs" title="{{ _('Déverrouiller') }}">
+                                        <i data-lucide="unlock"></i>
+                                    </button>
+                                </form>
+                                {% endif %}
+                                <form method="POST" action="{{ url_for('dashboard.supprimer_appareil', id=appareil.id) }}" onsubmit="return confirm('{{ _('Supprimer cet appareil ?') }}')">
+                                    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                    <button type="submit" class="btn btn-danger btn-xs" title="{{ _('Supprimer') }}">
+                                        <i data-lucide="trash-2"></i>
+                                    </button>
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+        <div class="empty-state">
+            <i data-lucide="smartphone"></i>
+            <h3>{{ _('Aucun appareil enregistré') }}</h3>
+            <p>{{ _('Ajoutez votre premier smartphone pour commencer à le protéger.') }}</p>
+            <button class="btn btn-primary" onclick="openModal('addDeviceModal')">
+                <i data-lucide="plus"></i>
+                {{ _('Ajouter un appareil') }}
+            </button>
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<!-- ═══ MODAL AJOUT APPAREIL ═══ -->
+<div class="modal-overlay" id="addDeviceModal">
+    <div class="modal">
+        <div class="modal-header">
+            <h2><i data-lucide="smartphone"></i> {{ _('Nouvel appareil') }}</h2>
+            <button class="modal-close" onclick="closeModal('addDeviceModal')">
+                <i data-lucide="x"></i>
+            </button>
+        </div>
+        <form method="POST" action="{{ url_for('dashboard.ajouter_appareil') }}">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+            <div class="modal-body">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="marque">{{ _('Marque') }} *</label>
+                        <select id="marque" name="marque" required>
+                            <option value="">{{ _('Sélectionner') }}</option>
+                            <option value="Samsung">Samsung</option>
+                            <option value="Apple">Apple</option>
+                            <option value="Huawei">Huawei</option>
+                            <option value="Xiaomi">Xiaomi</option>
+                            <option value="Tecno">Tecno</option>
+                            <option value="Infinix">Infinix</option>
+                            <option value="Itel">Itel</option>
+                            <option value="Nokia">Nokia</option>
+                            <option value="Oppo">Oppo</option>
+                            <option value="Autre">{{ _('Autre') }}</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="modele">{{ _('Modèle') }} *</label>
+                        <input type="text" id="modele" name="modele" placeholder="" required>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="imei">IMEI * <small class="text-muted">({{ _('tapez *#06# sur votre téléphone') }})</small></label>
+                    <input type="text" id="imei" name="imei" placeholder="" maxlength="20" required pattern="[0-9]{15,20}">
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="systeme_os">{{ _("Système d'exploitation") }}</label>
+                        <select id="systeme_os" name="systeme_os">
+                            <option value="Android">Android</option>
+                            <option value="iOS">iOS</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="operateur">{{ _('Opérateur') }}</label>
+                        <select id="operateur" name="operateur">
+                            <option value="">{{ _('Sélectionner votre opérateur') }}</option>
+                            <option value="Orange CI">Orange CI</option>
+                            <option value="MTN CI">MTN CI</option>
+                            <option value="Moov Africa">Moov Africa</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="numero_telephone">{{ _('Numéro de téléphone') }}</label>
+                    <input type="tel" id="numero_telephone" name="numero_telephone" placeholder="">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-ghost" onclick="closeModal('addDeviceModal')">{{ _('Annuler') }}</button>
+                <button type="submit" class="btn btn-primary">
+                    <i data-lucide="save"></i>
+                    {{ _('Enregistrer') }}
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<!-- ═══ 3 MÉTHODES DE VERROUILLAGE ═══ -->
+<div style="margin-top:24px;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px">
+    <div class="card" style="border-left:3px solid #3b82f6">
+        <div class="card-body" style="padding:20px">
+            <div style="font-size:28px;margin-bottom:8px">🌐</div>
+            <h3 style="font-size:16px;font-weight:600;margin-bottom:6px">1. Via le navigateur</h3>
+            <p style="font-size:13px;color:rgba(255,255,255,0.6);margin-bottom:12px">
+                Connectez-vous et cliquez sur "Verrouiller" dans le tableau ci-dessus.
+            </p>
+            <a href="{{ url_for('dashboard.lock_by_code') }}" class="btn btn-warning btn-xs">
+                🔒 Verrouiller par code
+            </a>
+        </div>
+    </div>
+    <div class="card" style="border-left:3px solid #06b6d4">
+        <div class="card-body" style="padding:20px">
+            <div style="font-size:28px;margin-bottom:8px">📞</div>
+            <h3 style="font-size:16px;font-weight:600;margin-bottom:6px">2. Via code USSD</h3>
+            <p style="font-size:13px;color:rgba(255,255,255,0.6);margin-bottom:12px">
+                Composez le code USSD sur votre téléphone pour le verrouiller instantanément.
+            </p>
+            {% for a in appareils %}
+            {% if a.code_ussd %}
+            <div style="background:rgba(255,255,255,0.05);border-radius:8px;padding:10px;margin-bottom:8px;font-size:13px">
+                <strong>{{ a.marque }} {{ a.modele }}</strong><br>
+                <code style="font-size:18px;letter-spacing:2px;color:#06b6d4">{{ a.code_ussd }}</code>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <div class="card" style="border-left:3px solid #22c55e">
+        <div class="card-body" style="padding:20px">
+            <div style="font-size:28px;margin-bottom:8px">📱</div>
+            <h3 style="font-size:16px;font-weight:600;margin-bottom:6px">3. Depuis un autre téléphone</h3>
+            <p style="font-size:13px;color:rgba(255,255,255,0.6);margin-bottom:12px">
+                Utilisez le code de verrouillage depuis n'importe quel appareil pour bloquer le vôtre.
+            </p>
+            <div style="display:flex;gap:8px">
+                <a href="{{ url_for('dashboard.lock_by_code') }}" class="btn btn-danger btn-xs" style="flex:1">
+                    🔒 Verrouiller maintenant
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+.btn-xs {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 8px 16px; border-radius: 8px;
+    border: none; font-size: 13px; font-weight: 600;
+    cursor: pointer; color: #fff; text-decoration: none;
+    transition: transform 0.15s, box-shadow 0.15s;
+}
+.btn-xs:hover { transform: translateY(-1px); }
+.btn-warning { background: linear-gradient(135deg, #f59e0b, #d97706); }
+.btn-danger { background: linear-gradient(135deg, #ef4444, #dc2626); }
+.card { background: #0f0f23; border-radius: 12px; }
+.card-body { padding: 20px; }
+</style>
+{% endblock %}

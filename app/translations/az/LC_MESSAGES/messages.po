@@ -1,0 +1,1041 @@
+# Translations for AZ.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: az\n"
+"Language-Team: az <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Bu səhifəyə daxil olmaq üçün daxil olun."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Bu IMEI artıq sistemdə qeydiyyatdan keçib."
+
+msgid "Accès non autorisé."
+msgstr "İcazəsiz giriş."
+
+msgid "Appareil déverrouillé."
+msgstr "Cihazın kilidi açıldı."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Xəbərdarlıq yaradıldı! Bildirişlər göndərildi."
+
+msgid "Alerte résolue."
+msgstr "Xəbərdarlıq həll olundu."
+
+msgid "Pas encore de compte ?"
+msgstr "Hələ hesab yoxdur?"
+
+msgid "Mon Profil"
+msgstr "Profilim"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Bağlantı uğurlu oldu! Xoş gəldiniz."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Yanlış e-poçt və ya parol."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Bütün tələb olunan sahələr doldurulmalıdır."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Parollar uyğun gəlmir."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Parol ən azı 6 simvoldan ibarət olmalıdır."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Bu e-poçt artıq istifadə olunur."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Hesab uğurla yaradıldı! Daxil ol."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Bu e-poçtla heç bir hesab tapılmadı."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Telefon nömrəsi hesab nömrəsinə uyğun gəlmir."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Yeni parol məcburidir."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Parolun sıfırlanması uğurla həyata keçirilir! Daxil ol."
+
+msgid "Vous avez été déconnecté."
+msgstr "Bağlantınız kəsildi."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Marka, model və IMEI tələb olunur."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Bu IMEI-yə malik cihaz artıq mövcuddur."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Cihaz uğurla qeydiyyatdan keçdi!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Bu əməliyyatı yerinə yetirmək üçün icazəniz yoxdur."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Cihaz uzaqdan uğurla kilidləndi."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Cihazın kilidi uğurla açıldı."
+
+msgid "Appareil supprimé."
+msgstr "Cihaz silindi."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Zəhmət olmasa cihaz və xəbərdarlıq növünü seçin."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Bu cihaz sizə aid deyil."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Xəbərdarlıq uğurla təqdim edildi. Cihaz qorunub."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Xəbərdarlıq həll edilmiş kimi qeyd edildi."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Ad, soyad və e-poçt tələb olunur."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Bu e-poçt artıq başqa hesab tərəfindən istifadə olunur."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil uğurla yeniləndi!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Giriş administratorlar üçün qorunur."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Xəta həll edilmiş kimi qeyd edildi."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Öz hesabınızı silə bilməzsiniz."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "İstifadəçi uğurla silindi."
+
+msgid "Administration"
+msgstr "İdarəetmə"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Anti-Oğurluq sisteminin mərkəzləşdirilmiş idarə edilməsi"
+
+msgid "Utilisateurs"
+msgstr "İstifadəçilər"
+
+msgid "Actifs aujourd'hui"
+msgstr "Bu gün aktivdir"
+
+msgid "Nouveaux ce mois"
+msgstr "Bu ay yeni"
+
+msgid "Appareils"
+msgstr "Cihazlar"
+
+msgid "Alertes actives"
+msgstr "Aktiv xəbərdarlıqlar"
+
+msgid "Analytique"
+msgstr "Analitik"
+
+msgid "Journal d'activité"
+msgstr "Fəaliyyət jurnalı"
+
+msgid "Erreurs"
+msgstr "Səhvlər"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Əlaqələr (son 7 gün)"
+
+msgid "Alertes par type"
+msgstr "Növlərə görə xəbərdarlıqlar"
+
+msgid "Appareils par opérateur"
+msgstr "Operator tərəfindən cihazlar"
+
+msgid "Résumé du système"
+msgstr "Sistemin xülasəsi"
+
+msgid "Utilisateurs total"
+msgstr "Ümumi istifadəçilər"
+
+msgid "Appareils enregistrés"
+msgstr "Qeydiyyatdan keçmiş cihazlar"
+
+msgid "Total alertes"
+msgstr "Ümumi xəbərdarlıqlar"
+
+msgid "Alertes en cours"
+msgstr "Cari xəbərdarlıqlar"
+
+msgid "Erreurs non résolues"
+msgstr "Həll edilməmiş səhvlər"
+
+msgid "Dernières activités"
+msgstr "Ən son fəaliyyətlər"
+
+msgid "récentes"
+msgstr "son"
+
+msgid "Utilisateur"
+msgstr "İstifadəçi"
+
+msgid "Action"
+msgstr "Fəaliyyət"
+
+msgid "Détails"
+msgstr "Təfərrüatlar"
+
+msgid "Adresse IP"
+msgstr "IP ünvanı"
+
+msgid "Navigateur"
+msgstr "Brauzer"
+
+msgid "Date"
+msgstr "Tarix"
+
+msgid "Aucune activité"
+msgstr "Fəaliyyət yoxdur"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "İstifadəçi fəaliyyətləri burada görünəcək."
+
+msgid "Journal d'erreurs"
+msgstr "Xəta jurnalı"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Bütün səhvləri düzəldin?"
+
+msgid "Tout résoudre"
+msgstr "Hər şeyi həll edin"
+
+msgid "non résolues"
+msgstr "həll olunmamış"
+
+msgid "Tout est résolu"
+msgstr "Hər şey həll olunur"
+
+msgid "Type"
+msgstr "mehriban"
+
+msgid "Description"
+msgstr "Təsvir"
+
+msgid "Statut"
+msgstr "Vəziyyət"
+
+msgid "Résolu"
+msgstr "Həll olundu"
+
+msgid "Non résolu"
+msgstr "Həll olunmamış"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Heç bir xəta qeydə alınmayıb"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sistem düzgün işləyir."
+
+msgid "Gestion des utilisateurs"
+msgstr "İstifadəçi idarəetməsi"
+
+msgid "comptes"
+msgstr "hesablar"
+
+msgid "Email"
+msgstr "E-poçt"
+
+msgid "Téléphone"
+msgstr "Telefon"
+
+msgid "Rôle"
+msgstr "Rol"
+
+msgid "Inscrit le"
+msgstr "Qeydiyyatdan keçib"
+
+msgid "Actions"
+msgstr "Fəaliyyətlər"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Bu istifadəçi və onun bütün cihazları silinsin?"
+
+msgid "Vous"
+msgstr "SƏN"
+
+msgid "Connexions"
+msgstr "Əlaqələr"
+
+msgid "Vol"
+msgstr "Uçuş"
+
+msgid "Perte"
+msgstr "itki"
+
+msgid "Anomalie"
+msgstr "Anomaliya"
+
+msgid "Alertes"
+msgstr "Xəbərdarlıqlar"
+
+msgid "Gestion des alertes"
+msgstr "Xəbərdarlığın idarə edilməsi"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Oğurluq və ya itkini bildirin və tarixçəni izləyin"
+
+msgid "Signaler un vol / perte"
+msgstr "Oğurluq/itki haqqında məlumat verin"
+
+msgid "En cours"
+msgstr "Davam edir"
+
+msgid "Résolues"
+msgstr "Həll olundu"
+
+msgid "Historique des alertes"
+msgstr "Xəbərdarlıq Tarixçəsi"
+
+msgid "Appareil"
+msgstr "Cihaz"
+
+msgid "Priorité"
+msgstr "Prioritet"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Bu xəbərdarlıq həll edilmiş kimi qeyd edilsin?"
+
+msgid "Résoudre"
+msgstr "Həll et"
+
+msgid "Aucune alerte"
+msgstr "Xəbərdarlıq yoxdur"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Yaxşı xəbər! Heç bir xəbərdarlıq bildirilməyib."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Oğurluq və ya itki barədə məlumat verin"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Oğurluq barədə məlumat verməklə cihazınız avtomatik kilidlənəcək və "
+"bildirişlər göndəriləcək."
+
+msgid "Appareil concerné"
+msgstr "Təsirə məruz qalan cihaz"
+
+msgid "Sélectionner un appareil"
+msgstr "Cihaz seçin"
+
+msgid "Type d'alerte"
+msgstr "Xəbərdarlıq növü"
+
+msgid "Décrivez les circonstances..."
+msgstr "Vəziyyətləri təsvir edin ..."
+
+msgid "Annuler"
+msgstr "Ləğv et"
+
+msgid "Signaler"
+msgstr "Hesabat"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Ağıllı Oğurluğa Qarşı Sistem — Smartfonlar üçün təhlükəsizlik platforması"
+
+msgid "Système Anti-Vol"
+msgstr "Oğurluğa qarşı sistem"
+
+msgid "PRINCIPAL"
+msgstr "ƏSAS"
+
+msgid "Tableau de bord"
+msgstr "İdarə paneli"
+
+msgid "SÉCURITÉ"
+msgstr "TƏHLÜKƏSİZLİK"
+
+msgid "Géolocalisation"
+msgstr "Geolokasiya"
+
+msgid "ADMINISTRATION"
+msgstr "İDARƏSİ"
+
+msgid "Déconnexion"
+msgstr "Bağlantını kəsin"
+
+msgid "Changer de langue"
+msgstr "Dili dəyişdirin"
+
+msgid "Rechercher une langue..."
+msgstr "Dil axtarın..."
+
+msgid "Profil"
+msgstr "Po faylları:"
+
+msgid "Changer de thème"
+msgstr "Mövzunu dəyişdirin"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Cihazınızın təhlükəsizliyinə ümumi baxış"
+
+msgid "Ajouter un appareil"
+msgstr "Cihaz əlavə edin"
+
+msgid "Appareils volés"
+msgstr "Oğurlanmış cihazlar"
+
+msgid "Verrouillés à distance"
+msgstr "Uzaqdan kilidlənib"
+
+msgid "Alertes récentes"
+msgstr "Son xəbərdarlıqlar"
+
+msgid "Voir tout"
+msgstr "Hamısına baxın"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Xəbərdarlıq yoxdur. Cihazlarınız təhlükəsizdir!"
+
+msgid "Mes appareils"
+msgstr "Cihazlarım"
+
+msgid "Aucun appareil enregistré"
+msgstr "Heç bir cihaz qeydə alınmayıb"
+
+msgid "Ajouter"
+msgstr "Əlavə et"
+
+msgid "en attente"
+msgstr "gözləmədə"
+
+msgid "Gestion des appareils"
+msgstr "Cihazın idarə edilməsi"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Smartfonlarınızı qeydiyyatdan keçirin və idarə edin"
+
+msgid "Opérateur"
+msgstr "Operator"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Bu cihaz uzaqdan kilidlənsin?"
+
+msgid "Verrouiller"
+msgstr "Kilidləyin"
+
+msgid "Déverrouiller"
+msgstr "Kilidi aç"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Bu cihaz silinsin?"
+
+msgid "Supprimer"
+msgstr "SİLİN"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Onu qorumağa başlamaq üçün ilk smartfonunuzu əlavə edin."
+
+msgid "Nouvel appareil"
+msgstr "Yeni cihaz"
+
+msgid "Marque"
+msgstr "Brend"
+
+msgid "Sélectionner"
+msgstr "seçin"
+
+msgid "Autre"
+msgstr "Digər"
+
+msgid "Modèle"
+msgstr "Model"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "telefonunuzda *#06# yazın"
+
+msgid "Système d'exploitation"
+msgstr "Əməliyyat sistemi"
+
+msgid "Numéro de téléphone"
+msgstr "Telefon nömrəsi"
+
+msgid "Enregistrer"
+msgstr "Saxla"
+
+msgid "Connexion"
+msgstr "Əlaqə"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Smartfon təhlükəsizlik sistemi"
+
+msgid "Adresse email"
+msgstr "E-poçt ünvanı"
+
+msgid "Mot de passe"
+msgstr "parol"
+
+msgid "Se connecter"
+msgstr "Daxil ol"
+
+msgid "Mot de passe oublié ?"
+msgstr "Şifrəni unutmusunuz?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Artıq hesabınız var? Əks halda, hesabınızı yaratmağa davam edin!"
+
+msgid "Créer un compte"
+msgstr "Hesab yaradın"
+
+msgid "Sécurité maximale"
+msgstr "Maksimum təhlükəsizlik"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Uzaqdan kilidləmə ilə şəxsi məlumatlarınızı qoruyun"
+
+msgid "Localisation GPS"
+msgstr "GPS yeri"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Real vaxt rejimində smartfonunuzun dəqiq yerini tapın"
+
+msgid "Alertes instantanées"
+msgstr "Ani xəbərdarlıqlar"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Oğurluq halında SMS, e-poçt və push bildirişləri alın"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Cihazlarınızı tapın və risk sahələrini görüntüləyin"
+
+msgid "Aucun appareil"
+msgstr "Cihaz yoxdur"
+
+msgid "Zones à risque"
+msgstr "Riskli sahələr"
+
+msgid "incidents"
+msgstr "hadisələr"
+
+msgid "Aucune zone signalée"
+msgstr "Heç bir ərazi bildirilməyib"
+
+msgid "Niveau"
+msgstr "Səviyyə"
+
+msgid "Incidents"
+msgstr "Hadisələr"
+
+msgid "Profile utilisateur"
+msgstr "İstifadəçi profili"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Şəxsi məlumatlarınızı idarə edin"
+
+msgid "Membre depuis"
+msgstr "ildən üzv"
+
+msgid "Modifier mes informations"
+msgstr "Məlumatımı redaktə edin"
+
+msgid "Prénom"
+msgstr "Ad"
+
+msgid "Nom"
+msgstr "ad"
+
+msgid "Changer le mot de passe"
+msgstr "Parolu dəyişdirin"
+
+msgid "Nouveau mot de passe"
+msgstr "Yeni Parol"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "dəyişməmək üçün boş buraxın"
+
+msgid "Enregistrer les modifications"
+msgstr "Dəyişiklikləri yadda saxlayın"
+
+msgid "Inscription"
+msgstr "Qeydiyyat"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Cihazlarınızın daha yaxşı təhlükəsizliyi üçün Anti-Oğurluğa xoş gəlmisiniz"
+
+msgid "Confirmer"
+msgstr "Təsdiq edin"
+
+msgid "Créer mon compte"
+msgstr "Hesabımı yaradın"
+
+msgid "Déjà un compte ?"
+msgstr "Artıq hesabınız var?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Parolun sıfırlanması"
+
+msgid "Réinitialisation"
+msgstr "Sıfırlayın"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Şəxsiyyətinizi təsdiqləmək üçün e-poçt və telefon nömrənizi daxil edin"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Qeydiyyat zamanı istifadə olunan nömrə"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimum 6 simvol"
+
+msgid "Confirmer le mot de passe"
+msgstr "Şifrəni təsdiqləyin"
+
+msgid "Retourner à la"
+msgstr "qayıt"
+
+msgid "page de connexion"
+msgstr "giriş səhifəsi"
+
+msgid "Vérification sécurisée"
+msgstr "Təhlükəsiz doğrulama"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"E-poçtunuz və telefon nömrənizdən istifadə etməklə şəxsiyyətiniz "
+"təsdiqlənir"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Ən azı 6 simvoldan ibarət təhlükəsiz parol seçin"
+
+msgid "d"
+msgstr "D"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{redaktor}: Redaktə etmək alınmadı"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{redaktor}: Redaktə edilmədi: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows xətası: {xəta}"
+
+msgid "deprecated"
+msgstr "köhnəlmişdir"
+
+msgid "Options"
+msgstr "Seçimlər"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Gözlənilməz əlavə arqument əldə etdim ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Təhlükəsizliyin Xəbərdarlığı: {name!r} əmri köhnəlmişdir.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Abort edildi!"
+
+msgid "Commands"
+msgstr "Əmrlər"
+
+msgid "Missing command."
+msgstr "Çatışmayan əmr."
+
+msgid "Value must be an iterable."
+msgstr "Dəyər təkrarlana bilən olmalıdır."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} qiymətləri alır, lakin 1 verilmişdir."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Təhlükəsizliyə dair Xəbərdarlıq: {param_type} {name!r} "
+"köhnəlmişdir.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "'{name}' adı iki dəfə təyin olundu"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"{decl!r} məntiqi variantı doğru/yanlış üçün eyni bayraqdan istifadə edə "
+"bilməz."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "{decls!r} bəyannaməsi olan seçimin adını müəyyən etmək mümkün olmadı"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Seçimlər müəyyən edilməyib, lakin ad ötürülüb ({name}). Bunun əvəzinə "
+"arqument elan etmək istəyirdiniz? '--{name}' keçmək istəyirdiniz?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "defolt: {defolt}"
+
+msgid "required"
+msgstr "tələb olunur"
+
+msgid "(dynamic)"
+msgstr "(dinamik)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Arqumentlər tam olaraq bir parametr bəyannaməsini qəbul edir, {length} "
+"əldə edir: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Davam etmək istəyirsiniz?"
+
+msgid "Confirm the action without prompting."
+msgstr "Tələb etmədən hərəkəti təsdiqləyin."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, versiya %(versiya)s"
+
+msgid "Show the version and exit."
+msgstr "Versiyanı göstərin və çıxın."
+
+msgid "Show this message and exit."
+msgstr "Bu mesajı göstərin və çıxın."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "{imkanı} nəzərdə tuturdunuz?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Xəta: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Yardım üçün '{command} {option}' cəhd edin."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Yanlış dəyər: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint} üçün yanlış dəyər: {message}"
+
+msgid "Missing argument"
+msgstr "Çatışmayan arqument"
+
+msgid "Missing option"
+msgstr "Çatışmayan variant"
+
+msgid "Missing parameter"
+msgstr "Çatışmayan parametr"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Çatışmayan {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Çatışmayan parametr: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "{name!r} belə seçim yoxdur."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Belə bir əmr yoxdur {name!r}."
+
+msgid "unknown error"
+msgstr "naməlum xəta"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "{filename!r} faylını açmaq mümkün olmadı: {message}"
+
+msgid "Usage:"
+msgstr "İstifadə edin:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Seçim üçün yanlış başlanğıc simvolu ({seçim})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "{name!r} arqumenti {nargs} dəyərlərini qəbul edir."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "{name!r} variantı dəyər qəbul etmir."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "{name!r} variantı arqument tələb edir."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell tamamlanması 4.4-dən köhnə Bash versiyaları üçün dəstəklənmir."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Bash versiyasını aşkar etmək mümkün olmadı, qabıq tamamlama dəstəklənmir."
+
+msgid "Repeat for confirmation"
+msgstr "Təsdiq üçün təkrarlayın"
+
+msgid "Error: The two entered values do not match."
+msgstr "Xəta: Daxil edilmiş iki dəyər uyğun gəlmir."
+
+msgid "Error: invalid input"
+msgstr "Xəta: yanlış daxiletmə"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Naməlum rəng {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Davam etmək üçün istənilən düyməni basın..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Seçin:\\n\\t{seçimlər}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{dəyər!r} {seçim} deyil."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Seçim({seçim})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} {format} formatına uyğun gəlmir."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} etibarlı {number_type} deyil."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} {aralıq} diapazonunda deyil."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} etibarlı məntiqi deyil. Tanınan dəyərlər: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} etibarlı UUID deyil."
+
+msgid "file"
+msgstr "fayl"
+
+msgid "directory"
+msgstr "kataloq"
+
+msgid "path"
+msgstr "yol"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {fayl adı!r} mövcud deyil."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {fayl adı!r} fayldır."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {fayl adı!r} qovluqdur."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {fayl adı!r} oxunmur."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {fayl adı!r} yazmaq mümkün deyil."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {fayl adı!r} icra edilə bilməz."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} dəyərlər tələb olunur, lakin {len_value} verilib."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Naməlum standart axın '{name}'"
+
+msgid "This field is required."
+msgstr "Bu sahə tələb olunur."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Faylın təsdiqlənmiş uzantısı yoxdur: {uzantılar}"
+
+msgid "File does not have an approved extension."
+msgstr "Faylın təsdiqlənmiş uzantısı yoxdur."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Fayl {min_size} və {max_size} bayt arasında olmalıdır."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Yanlış sahə adı '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Sahə %(digər_adı)s ilə bərabər olmalıdır."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Sahə ən azı %(min)d simvol uzunluğunda olmalıdır."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Sahə %(max)d simvoldan uzun ola bilməz."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Sahə tam olaraq %(max)d simvol uzunluğunda olmalıdır."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Sahə %(min)d və %(max)d simvol uzunluğunda olmalıdır."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Nömrə ən azı %(min)s olmalıdır."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Nömrə ən çox %(max)s olmalıdır."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Nömrə %(min)s və %(max)s arasında olmalıdır."
+
+msgid "Invalid input."
+msgstr "Yanlış daxiletmə."
+
+msgid "Invalid email address."
+msgstr "Yanlış e-poçt ünvanı."
+
+msgid "Invalid IP address."
+msgstr "Yanlış IP ünvanı."
+
+msgid "Invalid Mac address."
+msgstr "Yanlış Mac ünvanı."
+
+msgid "Invalid URL."
+msgstr "Yanlış URL."
+
+msgid "Invalid UUID."
+msgstr "Etibarsız UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Yanlış dəyər, bunlardan biri olmalıdır: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Yanlış dəyər, bunlardan heç biri ola bilməz: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Bu sahə redaktə edilə bilməz."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Bu sahə qeyri-aktivdir və dəyəri ola bilməz."
+
+msgid "Invalid CSRF Token."
+msgstr "Yanlış CSRF Tokeni."
+
+msgid "CSRF token missing."
+msgstr "CSRF nişanı çatışmır."
+
+msgid "CSRF failed."
+msgstr "CSRF uğursuz oldu."
+
+msgid "CSRF token expired."
+msgstr "CSRF tokeninin vaxtı bitdi."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Etibarsız Seçim: məcbur edə bilməz."
+
+msgid "Choices cannot be None."
+msgstr "Seçimlər Heç biri ola bilməz."
+
+msgid "Not a valid choice."
+msgstr "Etibarlı seçim deyil."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Yanlış seçim(lər): bir və ya daha çox məlumat daxiletməsi məcbur edilə "
+"bilməz."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' bu sahə üçün düzgün seçim deyil."
+
+msgid "Not a valid datetime value."
+msgstr "Etibarlı tarix vaxtı dəyəri deyil."
+
+msgid "Not a valid date value."
+msgstr "Etibarlı tarix dəyəri deyil."
+
+msgid "Not a valid time value."
+msgstr "Etibarlı vaxt dəyəri deyil."
+
+msgid "Not a valid week value."
+msgstr "Etibarlı həftə dəyəri deyil."
+
+msgid "Not a valid integer value."
+msgstr "Etibarlı tam dəyər deyil."
+
+msgid "Not a valid decimal value."
+msgstr "Etibarlı onluq dəyər deyil."
+
+msgid "Not a valid float value."
+msgstr "Etibarlı float dəyəri deyil."
+

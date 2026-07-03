@@ -1,0 +1,1038 @@
+# Translations for CY.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cy\n"
+"Language-Team: cy <LL@li.org>\n"
+"Plural-Forms: nplurals=5; plural=(n==1 ? 1 : n==2 ? 2 : n==3 ? 3 : n==6 ?"
+" 4 : 0);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Mewngofnodwch i gael mynediad i'r dudalen hon."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Mae'r IMEI hwn eisoes wedi'i gofrestru yn y system."
+
+msgid "Accès non autorisé."
+msgstr "Mynediad heb awdurdod."
+
+msgid "Appareil déverrouillé."
+msgstr "Dyfais wedi'i datgloi."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Rhybudd wedi'i greu! Hysbysiadau wedi'u hanfon."
+
+msgid "Alerte résolue."
+msgstr "Rhybudd wedi'i ddatrys."
+
+msgid "Pas encore de compte ?"
+msgstr "Dim cyfrif eto?"
+
+msgid "Mon Profil"
+msgstr "Fy Mhroffil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Cysylltiad yn llwyddiannus! Croeso."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "E-bost neu gyfrinair anghywir."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Rhaid cwblhau pob maes gofynnol."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Nid yw cyfrineiriau yn cyfateb."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Rhaid i'r cyfrinair gynnwys o leiaf 6 nod."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Mae'r e-bost hwn eisoes yn cael ei ddefnyddio."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Crëwyd y cyfrif yn llwyddiannus! Mewngofnodi."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Ni chanfuwyd unrhyw gyfrifon gyda'r e-bost hwn."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Nid yw'r rhif ffôn yn cyfateb i rif y cyfrif."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Mae'r cyfrinair newydd yn orfodol."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Ailosod cyfrinair yn llwyddiannus! Mewngofnodi."
+
+msgid "Vous avez été déconnecté."
+msgstr "Rydych chi wedi cael eich datgysylltu."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Mae angen brand, model ac IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Mae dyfais gyda'r IMEI hwn eisoes yn bodoli."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Dyfais wedi'i chofrestru'n llwyddiannus!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Nid ydych wedi'ch awdurdodi i gyflawni'r weithred hon."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Dyfais wedi'i chloi o bell yn llwyddiannus."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Datgloi dyfais yn llwyddiannus."
+
+msgid "Appareil supprimé."
+msgstr "Dyfais wedi'i dileu."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Dewiswch ddyfais a math o rybudd."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Nid yw'r ddyfais hon yn perthyn i chi."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Adroddwyd bod y rhybudd yn llwyddiannus. Mae'r ddyfais wedi'i diogelu."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Rhybudd wedi'i nodi fel wedi'i ddatrys."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Mae angen enw cyntaf, enw olaf ac e-bost."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Mae'r e-bost hwn eisoes yn cael ei ddefnyddio gan gyfrif arall."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Diweddarwyd y proffil yn llwyddiannus!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Mynediad wedi'i gadw ar gyfer gweinyddwyr."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Gwall wedi'i nodi wedi'i ddatrys."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Ni allwch ddileu eich cyfrif eich hun."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Defnyddiwr wedi'i ddileu yn llwyddiannus."
+
+msgid "Administration"
+msgstr "Gweinyddiaeth"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Rheolaeth ganolog o'r system Gwrth-ladrad"
+
+msgid "Utilisateurs"
+msgstr "Defnyddwyr"
+
+msgid "Actifs aujourd'hui"
+msgstr "Actif heddiw"
+
+msgid "Nouveaux ce mois"
+msgstr "Newydd y mis hwn"
+
+msgid "Appareils"
+msgstr "Dyfeisiau"
+
+msgid "Alertes actives"
+msgstr "Rhybuddion gweithredol"
+
+msgid "Analytique"
+msgstr "Dadansoddol"
+
+msgid "Journal d'activité"
+msgstr "Log gweithgaredd"
+
+msgid "Erreurs"
+msgstr "Gwallau"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Cysylltiadau (7 diwrnod diwethaf)"
+
+msgid "Alertes par type"
+msgstr "Rhybuddion yn ôl math"
+
+msgid "Appareils par opérateur"
+msgstr "Dyfeisiau gan weithredwr"
+
+msgid "Résumé du système"
+msgstr "Crynodeb o'r System"
+
+msgid "Utilisateurs total"
+msgstr "Cyfanswm y defnyddwyr"
+
+msgid "Appareils enregistrés"
+msgstr "Dyfeisiau cofrestredig"
+
+msgid "Total alertes"
+msgstr "Cyfanswm y rhybuddion"
+
+msgid "Alertes en cours"
+msgstr "Rhybuddion cyfredol"
+
+msgid "Erreurs non résolues"
+msgstr "Gwallau heb eu datrys"
+
+msgid "Dernières activités"
+msgstr "Gweithgareddau diweddaraf"
+
+msgid "récentes"
+msgstr "diweddar"
+
+msgid "Utilisateur"
+msgstr "Defnyddiwr"
+
+msgid "Action"
+msgstr "Gweithred"
+
+msgid "Détails"
+msgstr "Manylion"
+
+msgid "Adresse IP"
+msgstr "Cyfeiriad IP"
+
+msgid "Navigateur"
+msgstr "Porwr"
+
+msgid "Date"
+msgstr "Dyddiad"
+
+msgid "Aucune activité"
+msgstr "Dim gweithgaredd"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Bydd gweithgareddau defnyddwyr yn ymddangos yma."
+
+msgid "Journal d'erreurs"
+msgstr "Log gwall"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Trwsio pob gwall?"
+
+msgid "Tout résoudre"
+msgstr "Datrys popeth"
+
+msgid "non résolues"
+msgstr "heb ei ddatrys"
+
+msgid "Tout est résolu"
+msgstr "Mae popeth yn cael ei ddatrys"
+
+msgid "Type"
+msgstr "Caredig"
+
+msgid "Description"
+msgstr "Disgrifiad"
+
+msgid "Statut"
+msgstr "Statws"
+
+msgid "Résolu"
+msgstr "Penderfynwyd"
+
+msgid "Non résolu"
+msgstr "Heb ei ddatrys"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Dim gwallau wedi'u cofnodi"
+
+msgid "Le système fonctionne correctement."
+msgstr "Mae'r system yn gweithio'n iawn."
+
+msgid "Gestion des utilisateurs"
+msgstr "Rheoli defnyddwyr"
+
+msgid "comptes"
+msgstr "cyfrifon"
+
+msgid "Email"
+msgstr "E-bost"
+
+msgid "Téléphone"
+msgstr "Ffon"
+
+msgid "Rôle"
+msgstr "Rôl"
+
+msgid "Inscrit le"
+msgstr "Wedi cofrestru ar"
+
+msgid "Actions"
+msgstr "Gweithredoedd"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Dileu'r defnyddiwr hwn a'u holl ddyfeisiau?"
+
+msgid "Vous"
+msgstr "CHI"
+
+msgid "Connexions"
+msgstr "Cysylltiadau"
+
+msgid "Vol"
+msgstr "Hedfan"
+
+msgid "Perte"
+msgstr "Colled"
+
+msgid "Anomalie"
+msgstr "Anomaledd"
+
+msgid "Alertes"
+msgstr "Rhybuddion"
+
+msgid "Gestion des alertes"
+msgstr "Rheoli rhybuddion"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Rhoi gwybod am ladrad neu golled ac olrhain hanes"
+
+msgid "Signaler un vol / perte"
+msgstr "Rhoi gwybod am ladrad/colled"
+
+msgid "En cours"
+msgstr "Ar y gweill"
+
+msgid "Résolues"
+msgstr "Penderfynwyd"
+
+msgid "Historique des alertes"
+msgstr "Hanes Rhybudd"
+
+msgid "Appareil"
+msgstr "Dyfais"
+
+msgid "Priorité"
+msgstr "Blaenoriaeth"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Nodi bod y rhybudd hwn wedi'i ddatrys?"
+
+msgid "Résoudre"
+msgstr "Datrys"
+
+msgid "Aucune alerte"
+msgstr "Dim rhybudd"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Newyddion da! Nid oes unrhyw rybuddion wedi'u hadrodd."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Rhoi gwybod am ladrad neu golled"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Trwy riportio lladrad, bydd eich dyfais yn cael ei chloi'n awtomatig a "
+"bydd hysbysiadau'n cael eu hanfon."
+
+msgid "Appareil concerné"
+msgstr "Dyfais yr effeithir arni"
+
+msgid "Sélectionner un appareil"
+msgstr "Dewiswch ddyfais"
+
+msgid "Type d'alerte"
+msgstr "Math o rybudd"
+
+msgid "Décrivez les circonstances..."
+msgstr "Disgrifiwch yr amgylchiadau..."
+
+msgid "Annuler"
+msgstr "Canslo"
+
+msgid "Signaler"
+msgstr "Adroddiad"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "System Gwrth-ladrad Deallus - Llwyfan diogelwch ar gyfer ffonau smart"
+
+msgid "Système Anti-Vol"
+msgstr "System Gwrth-ladrad"
+
+msgid "PRINCIPAL"
+msgstr "PRIF"
+
+msgid "Tableau de bord"
+msgstr "Dangosfwrdd"
+
+msgid "SÉCURITÉ"
+msgstr "DIOGELWCH"
+
+msgid "Géolocalisation"
+msgstr "Geoleoliad"
+
+msgid "ADMINISTRATION"
+msgstr "GWEINYDDIAETH"
+
+msgid "Déconnexion"
+msgstr "Datgysylltu"
+
+msgid "Changer de langue"
+msgstr "Newid iaith"
+
+msgid "Rechercher une langue..."
+msgstr "Chwilio am iaith..."
+
+msgid "Profil"
+msgstr "Proffil"
+
+msgid "Changer de thème"
+msgstr "Newid thema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Trosolwg o ddiogelwch eich dyfais"
+
+msgid "Ajouter un appareil"
+msgstr "Ychwanegu dyfais"
+
+msgid "Appareils volés"
+msgstr "Dyfeisiau wedi'u dwyn"
+
+msgid "Verrouillés à distance"
+msgstr "Wedi'i gloi o bell"
+
+msgid "Alertes récentes"
+msgstr "Rhybuddion diweddar"
+
+msgid "Voir tout"
+msgstr "Gweld y cyfan"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Dim rhybudd. Mae eich dyfeisiau'n ddiogel!"
+
+msgid "Mes appareils"
+msgstr "Fy nyfeisiau"
+
+msgid "Aucun appareil enregistré"
+msgstr "Dim dyfeisiau wedi'u cofrestru"
+
+msgid "Ajouter"
+msgstr "Ychwanegu"
+
+msgid "en attente"
+msgstr "ar stop"
+
+msgid "Gestion des appareils"
+msgstr "Rheoli dyfais"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Cofrestru a rheoli eich ffonau clyfar"
+
+msgid "Opérateur"
+msgstr "Gweithredwr"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Cloi'r ddyfais hon o bell?"
+
+msgid "Verrouiller"
+msgstr "Cloi"
+
+msgid "Déverrouiller"
+msgstr "Datgloi"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Dileu'r ddyfais hon?"
+
+msgid "Supprimer"
+msgstr "DILEU"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Ychwanegwch eich ffôn clyfar cyntaf i ddechrau ei ddiogelu."
+
+msgid "Nouvel appareil"
+msgstr "Dyfais newydd"
+
+msgid "Marque"
+msgstr "Brand"
+
+msgid "Sélectionner"
+msgstr "Dewiswch"
+
+msgid "Autre"
+msgstr "Arall"
+
+msgid "Modèle"
+msgstr "Model"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "teipiwch *#06# ar eich ffôn"
+
+msgid "Système d'exploitation"
+msgstr "System weithredu"
+
+msgid "Numéro de téléphone"
+msgstr "Rhif ffôn"
+
+msgid "Enregistrer"
+msgstr "Arbed"
+
+msgid "Connexion"
+msgstr "Cysylltiad"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "System ddiogelwch ffôn clyfar"
+
+msgid "Adresse email"
+msgstr "Cyfeiriad e-bost"
+
+msgid "Mot de passe"
+msgstr "Cyfrinair"
+
+msgid "Se connecter"
+msgstr "Mewngofnodi"
+
+msgid "Mot de passe oublié ?"
+msgstr "Wedi anghofio cyfrinair?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Oes gennych chi gyfrif yn barod? Fel arall, ewch ymlaen i greu eich "
+"cyfrif!"
+
+msgid "Créer un compte"
+msgstr "Creu cyfrif"
+
+msgid "Sécurité maximale"
+msgstr "Diogelwch mwyaf"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Gwarchodwch eich data personol trwy gloi o bell"
+
+msgid "Localisation GPS"
+msgstr "Lleoliad GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Dewch o hyd i union leoliad eich ffôn clyfar mewn amser real"
+
+msgid "Alertes instantanées"
+msgstr "Rhybuddion ar unwaith"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Derbyn hysbysiadau SMS, e-bost a gwthio os bydd lladrad"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Dewch o hyd i'ch dyfeisiau a delweddu meysydd risg"
+
+msgid "Aucun appareil"
+msgstr "Dim dyfais"
+
+msgid "Zones à risque"
+msgstr "Meysydd risg"
+
+msgid "incidents"
+msgstr "digwyddiadau"
+
+msgid "Aucune zone signalée"
+msgstr "Dim meysydd wedi'u hadrodd"
+
+msgid "Niveau"
+msgstr "Lefel"
+
+msgid "Incidents"
+msgstr "Digwyddiadau"
+
+msgid "Profile utilisateur"
+msgstr "Proffil defnyddiwr"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Rheoli eich gwybodaeth bersonol"
+
+msgid "Membre depuis"
+msgstr "Aelod ers hynny"
+
+msgid "Modifier mes informations"
+msgstr "Golygu fy ngwybodaeth"
+
+msgid "Prénom"
+msgstr "Enw cyntaf"
+
+msgid "Nom"
+msgstr "Enw"
+
+msgid "Changer le mot de passe"
+msgstr "Newid cyfrinair"
+
+msgid "Nouveau mot de passe"
+msgstr "Cyfrinair Newydd"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "gadael yn wag er mwyn peidio â newid"
+
+msgid "Enregistrer les modifications"
+msgstr "Cadw newidiadau"
+
+msgid "Inscription"
+msgstr "Cofrestru"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Croeso i Gwrth-ladrad i gael gwell diogelwch o'ch dyfeisiau"
+
+msgid "Confirmer"
+msgstr "Cadarnhau"
+
+msgid "Créer mon compte"
+msgstr "Creu fy nghyfrif"
+
+msgid "Déjà un compte ?"
+msgstr "Oes gennych chi gyfrif yn barod?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Ailosod Cyfrinair"
+
+msgid "Réinitialisation"
+msgstr "Ailosod"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Rhowch eich e-bost a'ch rhif ffôn i wirio pwy ydych"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Y rhif a ddefnyddir yn ystod cofrestru"
+
+msgid "Minimum 6 caractères"
+msgstr "O leiaf 6 nod"
+
+msgid "Confirmer le mot de passe"
+msgstr "Cadarnhau cyfrinair"
+
+msgid "Retourner à la"
+msgstr "Dychwelyd i"
+
+msgid "page de connexion"
+msgstr "tudalen mewngofnodi"
+
+msgid "Vérification sécurisée"
+msgstr "Gwiriad diogel"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Caiff eich hunaniaeth ei gwirio gan ddefnyddio'ch e-bost a'ch rhif ffôn"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Dewiswch gyfrinair diogel o 6 nod o leiaf"
+
+msgid "d"
+msgstr "D"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{ editor}: Methodd y golygu"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{ editor} : Methodd y golygu: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Gwall Windows: {error}"
+
+msgid "deprecated"
+msgstr "anghymeradwy"
+
+msgid "Options"
+msgstr "Opsiynau"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Wedi cael dadl ychwanegol annisgwyl ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"DeprecationWarning: Mae'r gorchymyn {name!r} yn anghymeradwy. "
+"{extra_message}"
+
+msgid "Aborted!"
+msgstr "Erthylu!"
+
+msgid "Commands"
+msgstr "Gorchmynion"
+
+msgid "Missing command."
+msgstr "Gorchymyn ar goll."
+
+msgid "Value must be an iterable."
+msgstr "Rhaid i werth fod yn ailadroddadwy."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Yn cymryd gwerthoedd {nargs} ond rhoddwyd 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Rhybudd Anghymeradwy: Mae'r {param_type} {name!r} yn "
+"anghymeradwy.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Enw '{name}' wedi'i ddiffinio ddwywaith"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Ni all opsiwn Boole {decl!r} ddefnyddio'r un faner ar gyfer gwir/anghywir."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Methu pennu enw ar gyfer yr opsiwn gyda datganiadau {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Dim opsiynau wedi'u diffinio ond pasiwyd enw ({name}). Oeddech chi'n "
+"bwriadu datgan dadl yn lle hynny? Oeddech chi'n bwriadu pasio '-{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var env: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "rhagosodedig: {default}"
+
+msgid "required"
+msgstr "ofynnol"
+
+msgid "(dynamic)"
+msgstr "(deinamig)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Mae dadleuon yn cymryd union un datganiad paramedr, got {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Ydych chi am barhau?"
+
+msgid "Confirm the action without prompting."
+msgstr "Cadarnhewch y weithred heb anogaeth."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, fersiwn %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Dangoswch y fersiwn ac ymadael."
+
+msgid "Show this message and exit."
+msgstr "Dangoswch y neges hon ac ymadael."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Oeddech chi'n golygu {posibilrwydd}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Gwall: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Rhowch gynnig ar '{command} {option}' am help."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Gwerth annilys: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Gwerth annilys ar gyfer {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Dadl ar goll"
+
+msgid "Missing option"
+msgstr "Opsiwn ar goll"
+
+msgid "Missing parameter"
+msgstr "Paramedr ar goll"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} ar goll"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Paramedr ar goll: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Dim opsiwn o'r fath {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Dim gorchymyn o'r fath {name!r}."
+
+msgid "unknown error"
+msgstr "gwall anhysbys"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Methu agor ffeil {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Defnydd:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Nod cychwyn annilys ar gyfer yr opsiwn ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Mae dadl {name!r} yn cymryd {nargs} o werthoedd."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Nid yw opsiwn {name!r} yn cymryd gwerth."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Mae angen dadl ar opsiwn {name!r}."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Ni chefnogir cwblhau cregyn ar gyfer fersiynau Bash sy'n hŷn na 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Methu canfod fersiwn Bash, ni chefnogir cwblhau plisgyn."
+
+msgid "Repeat for confirmation"
+msgstr "Ailadroddwch i gael cadarnhad"
+
+msgid "Error: The two entered values do not match."
+msgstr "Gwall: Nid yw'r ddau werth a gofnodwyd yn cyfateb."
+
+msgid "Error: invalid input"
+msgstr "Gwall: mewnbwn annilys"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Lliw anhysbys {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Pwyswch unrhyw allwedd i barhau..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Dewiswch o:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "Nid {dewis} yw {value!r}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Dewis({dewisiadau})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "Nid yw {value!r} yn cyfateb i'r fformat {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "Nid yw {value!r} yn {number_type} dilys."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "Nid yw {value} yn yr ystod {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "Nid yw {value!r} yn boolean dilys. Gwerthoedd cydnabyddedig: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "Nid yw {value!r} yn UUID dilys."
+
+msgid "file"
+msgstr "ffeil"
+
+msgid "directory"
+msgstr "cyfeiriadur"
+
+msgid "path"
+msgstr "llwybr"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "Nid yw {name} {filename!r} yn bodoli."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "Mae {name} {filename!r} yn ffeil."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "Cyfeiriadur yw {name} {filename!r}."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "Nid yw {name} {filename!r} yn ddarllenadwy."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "Nid yw {name} {filename!r} yn ysgrifenadwy."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "Nid yw {name} {filename!r} yn weithredadwy."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Mae angen gwerthoedd {len_type}, ond rhoddwyd {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Ffrwd safonol anhysbys '{name}'"
+
+msgid "This field is required."
+msgstr "Mae angen y maes hwn."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Nid oes gan y ffeil estyniad cymeradwy: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Nid oes gan y ffeil estyniad cymeradwy."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Rhaid i'r ffeil fod rhwng {min_size} a {max_size} beit."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Enw maes annilys '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Rhaid i'r maes fod yn hafal i %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Rhaid i'r maes fod o leiaf %(min)d nod o hyd."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Ni all maes fod yn hwy na %(max)d nod."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Rhaid i'r maes fod yn union %(max)d nod o hyd."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Rhaid i'r maes fod rhwng %(min)d a %(max)d nod o hyd."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Rhaid i'r nifer fod o leiaf %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Rhaid i'r nifer fod ar y mwyaf %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Rhaid i'r nifer fod rhwng %(min)s a %(max)s."
+
+msgid "Invalid input."
+msgstr "Mewnbwn annilys."
+
+msgid "Invalid email address."
+msgstr "Cyfeiriad e-bost annilys."
+
+msgid "Invalid IP address."
+msgstr "Cyfeiriad IP annilys."
+
+msgid "Invalid Mac address."
+msgstr "Cyfeiriad Mac annilys."
+
+msgid "Invalid URL."
+msgstr "URL annilys."
+
+msgid "Invalid UUID."
+msgstr "UUID annilys."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Gwerth annilys, rhaid iddo fod yn un o: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Gwerth annilys, ni all fod yn unrhyw un o: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Nid oes modd golygu'r maes hwn."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Mae'r maes hwn wedi'i analluogi ac ni all fod â gwerth."
+
+msgid "Invalid CSRF Token."
+msgstr "Tocyn CSRF annilys."
+
+msgid "CSRF token missing."
+msgstr "Tocyn CSRF ar goll."
+
+msgid "CSRF failed."
+msgstr "Methodd CSRF."
+
+msgid "CSRF token expired."
+msgstr "Tocyn CSRF wedi dod i ben."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Dewis Annilys: ni allai orfodi."
+
+msgid "Choices cannot be None."
+msgstr "Ni all dewisiadau fod yn Dim."
+
+msgid "Not a valid choice."
+msgstr "Ddim yn ddewis dilys."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Dewis(iadau) annilys: ni ellid gorfodi un neu fwy o fewnbynnau data."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "Nid yw '%(value)s' yn ddewis dilys ar gyfer y maes hwn."
+
+msgid "Not a valid datetime value."
+msgstr "Ddim yn werth dyddiad amser dilys."
+
+msgid "Not a valid date value."
+msgstr "Ddim yn werth dyddiad dilys."
+
+msgid "Not a valid time value."
+msgstr "Ddim yn werth amser dilys."
+
+msgid "Not a valid week value."
+msgstr "Ddim yn werth wythnos dilys."
+
+msgid "Not a valid integer value."
+msgstr "Ddim yn werth cyfanrif dilys."
+
+msgid "Not a valid decimal value."
+msgstr "Ddim yn werth degol dilys."
+
+msgid "Not a valid float value."
+msgstr "Ddim yn werth arnofio dilys."
+

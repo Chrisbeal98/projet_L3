@@ -1,0 +1,1046 @@
+# Translations for MY.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: my\n"
+"Language-Team: my <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "ဤစာမျက်နှာသို့ဝင်ရောက်ရန် ကျေးဇူးပြု၍ ဝင်ရောက်ပါ။"
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "ဤ IMEI ကို စနစ်တွင် စာရင်းသွင်းထားပြီးဖြစ်သည်။"
+
+msgid "Accès non autorisé."
+msgstr "ခွင့်ပြုချက်မရှိဘဲဝင်ရောက်ခွင့်။"
+
+msgid "Appareil déverrouillé."
+msgstr "စက်ပစ္စည်းကို လော့ခ်ဖွင့်ထားသည်။"
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "သတိပေးချက် ဖန်တီးထားသည်။ အကြောင်းကြားစာများ ပေးပို့ခဲ့သည်။"
+
+msgid "Alerte résolue."
+msgstr "သတိပေးချက် ပြေလည်သွားသည်။"
+
+msgid "Pas encore de compte ?"
+msgstr "အကောင့်မရှိသေးဘူးလား?"
+
+msgid "Mon Profil"
+msgstr "ကျွန်တော့် Profile"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "ချိတ်ဆက်မှု အောင်မြင်ပါပြီ။ ကြိုဆိုပါတယ်။"
+
+msgid "Email ou mot de passe incorrect."
+msgstr "အီးမေးလ် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ။"
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "လိုအပ်သောအကွက်များအားလုံးကို ပြီးအောင်လုပ်ရပါမည်။"
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "စကားဝှက်များ မတိုက်ဆိုင်ပါ။"
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "စကားဝှက်တွင် အနည်းဆုံး စာလုံး 6 လုံး ပါဝင်ရပါမည်။"
+
+msgid "Cet email est déjà utilisé."
+msgstr "ဤအီးမေးလ်ကို အသုံးပြုပြီးဖြစ်သည်။"
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "အကောင့်ကို အောင်မြင်စွာ ဖန်တီးပြီးပါပြီ။ လော့ဂ်အင်။"
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "ဤအီးမေးလ်ဖြင့် အကောင့်များမတွေ့ပါ။"
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "ဖုန်းနံပါတ်သည် အကောင့်နံပါတ်နှင့် မကိုက်ညီပါ။"
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "စကားဝှက်အသစ်သည် မဖြစ်မနေလိုအပ်ပါသည်။"
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "စကားဝှက်ကို အောင်မြင်စွာ ပြင်ဆင်သတ်မှတ်ပါ။ လော့ဂ်အင်။"
+
+msgid "Vous avez été déconnecté."
+msgstr "မင်းအဆက်ပြတ်သွားပြီ။"
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "အမှတ်တံဆိပ်၊ မော်ဒယ်နှင့် IMEI လိုအပ်သည်။"
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "ဤ IMEI ပါသည့် စက်တစ်ခု ရှိနှင့်ပြီးဖြစ်သည်။"
+
+msgid "Appareil enregistré avec succès !"
+msgstr "စက်ပစ္စည်းကို အောင်မြင်စွာ မှတ်ပုံတင်ပြီးပါပြီ။"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "ဤလုပ်ဆောင်ချက်ကို လုပ်ဆောင်ရန် သင့်အား ခွင့်မပြုပါ။"
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "စက်ပစ္စည်းကို အဝေးထိန်းစနစ်ဖြင့် အောင်မြင်စွာ လော့ခ်ချပြီးပါပြီ။"
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "စက်ပစ္စည်းကို အောင်မြင်စွာ လော့ခ်ဖွင့်ပြီးပါပြီ။"
+
+msgid "Appareil supprimé."
+msgstr "စက်ပစ္စည်းကို ဖျက်လိုက်ပါပြီ။"
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "ကျေးဇူးပြု၍ စက်ပစ္စည်းတစ်ခုနှင့် သတိပေးချက်အမျိုးအစားကို ရွေးချယ်ပါ။"
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "ဤစက်ပစ္စည်းသည် သင်နှင့်မသက်ဆိုင်ပါ။"
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr ""
+"သတိပေးချက် အောင်မြင်စွာ အစီရင်ခံခဲ့သည်။ စက်ကို လုံခြုံအောင် "
+"ပြုလုပ်ပြီးပါပြီ။"
+
+msgid "Alerte marquée comme résolue."
+msgstr "သတိပေးချက်ကို ဖြေရှင်းပြီးကြောင်း အမှတ်အသားပြုထားသည်။"
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "အမည်၊ နောက်ဆုံးအမည်နှင့် အီးမေးလ် လိုအပ်ပါသည်။"
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "ဤအီးမေးလ်ကို အခြားအကောင့်မှ အသုံးပြုပြီးဖြစ်သည်။"
+
+msgid "Profil mis à jour avec succès !"
+msgstr "ပရိုဖိုင်ကို အောင်မြင်စွာ မွမ်းမံပြီးပါပြီ။"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "စီမံခန့်ခွဲသူများအတွက် သီးသန့်အသုံးပြုခွင့်။"
+
+msgid "Erreur marquée comme résolue."
+msgstr "အမှားကို ဖြေရှင်းပြီးကြောင်း အမှတ်အသားပြုထားသည်။"
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "သင့်ကိုယ်ပိုင်အကောင့်ကို ဖျက်၍မရပါ။"
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "အသုံးပြုသူကို အောင်မြင်စွာ ဖျက်လိုက်ပါပြီ။"
+
+msgid "Administration"
+msgstr "အုပ်ချုပ်ရေး"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Anti-Theft စနစ်၏ ဗဟိုချုပ်ကိုင်မှု စီမံခန့်ခွဲမှု"
+
+msgid "Utilisateurs"
+msgstr "အသုံးပြုသူများ"
+
+msgid "Actifs aujourd'hui"
+msgstr "ယနေ့အသက်ဝင်သည်။"
+
+msgid "Nouveaux ce mois"
+msgstr "ဒီလအသစ်"
+
+msgid "Appareils"
+msgstr "စက်များ"
+
+msgid "Alertes actives"
+msgstr "အသက်ဝင်သော သတိပေးချက်များ"
+
+msgid "Analytique"
+msgstr "သရုပ်"
+
+msgid "Journal d'activité"
+msgstr "လုပ်ဆောင်ချက်မှတ်တမ်း"
+
+msgid "Erreurs"
+msgstr "အဆင်ပြေကြပါစေ"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "ချိတ်ဆက်မှုများ (ပြီးခဲ့သော 7 ရက်)"
+
+msgid "Alertes par type"
+msgstr "အမျိုးအစားအလိုက်သတိပေးချက်များ"
+
+msgid "Appareils par opérateur"
+msgstr "အော်ပရေတာအလိုက် စက်များ"
+
+msgid "Résumé du système"
+msgstr "စနစ်အကျဉ်းချုပ်"
+
+msgid "Utilisateurs total"
+msgstr "စုစုပေါင်းအသုံးပြုသူများ"
+
+msgid "Appareils enregistrés"
+msgstr "မှတ်ပုံတင်ထားသော စက်များ"
+
+msgid "Total alertes"
+msgstr "စုစုပေါင်းသတိပေးချက်များ"
+
+msgid "Alertes en cours"
+msgstr "လက်ရှိသတိပေးချက်များ"
+
+msgid "Erreurs non résolues"
+msgstr "မဖြေရှင်းနိုင်သော အမှားများ"
+
+msgid "Dernières activités"
+msgstr "နောက်ဆုံးလှုပ်ရှားမှုများ"
+
+msgid "récentes"
+msgstr "လတ်တလော"
+
+msgid "Utilisateur"
+msgstr "အသုံးပြုသူ"
+
+msgid "Action"
+msgstr "အက်ရှင်"
+
+msgid "Détails"
+msgstr "အသေးစိတ်"
+
+msgid "Adresse IP"
+msgstr "IP လိပ်စာ"
+
+msgid "Navigateur"
+msgstr "ဘရောက်ဆာ"
+
+msgid "Date"
+msgstr "ရက်စွဲ"
+
+msgid "Aucune activité"
+msgstr "လှုပ်ရှားမှုမရှိပါ။"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "အသုံးပြုသူ လုပ်ဆောင်ချက်များ ဤနေရာတွင် ပေါ်လာပါမည်။"
+
+msgid "Journal d'erreurs"
+msgstr "အမှားမှတ်တမ်း"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "အမှားအယွင်းအားလုံးကို ပြင်မလား။"
+
+msgid "Tout résoudre"
+msgstr "အရာအားလုံးကိုဖြေရှင်းပါ။"
+
+msgid "non résolues"
+msgstr "မဖြေရှင်းနိုင်"
+
+msgid "Tout est résolu"
+msgstr "အားလုံးပြေလည်သွားပြီ"
+
+msgid "Type"
+msgstr "ကြင်နာတယ်။"
+
+msgid "Description"
+msgstr "ဖော်ပြချက်"
+
+msgid "Statut"
+msgstr "အဆင့်အတန်း"
+
+msgid "Résolu"
+msgstr "ပြေလည်ပါတယ်။"
+
+msgid "Non résolu"
+msgstr "မဖြေရှင်းနိုင်"
+
+msgid "Aucune erreur enregistrée"
+msgstr "အမှားအယွင်းများကို မှတ်တမ်းတင်ထားခြင်းမရှိပါ။"
+
+msgid "Le système fonctionne correctement."
+msgstr "စနစ်သည် ကောင်းမွန်စွာ အလုပ်လုပ်ပါသည်။"
+
+msgid "Gestion des utilisateurs"
+msgstr "အသုံးပြုသူစီမံခန့်ခွဲမှု"
+
+msgid "comptes"
+msgstr "အကောင့်များ"
+
+msgid "Email"
+msgstr "အီးမေး"
+
+msgid "Téléphone"
+msgstr "ဖုန်း"
+
+msgid "Rôle"
+msgstr "အခန်းကဏ္ဍ"
+
+msgid "Inscrit le"
+msgstr "တွင် မှတ်ပုံတင်ထားသည်။"
+
+msgid "Actions"
+msgstr "လုပ်ဆောင်ချက်များ"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "ဤအသုံးပြုသူနှင့် ၎င်းတို့၏စက်ပစ္စည်းအားလုံးကို ဖျက်မလား။"
+
+msgid "Vous"
+msgstr "သင်"
+
+msgid "Connexions"
+msgstr "ချိတ်ဆက်မှုများ"
+
+msgid "Vol"
+msgstr "ပျံသန်းခြင်း။"
+
+msgid "Perte"
+msgstr "ဆုံးရှုံးမှု"
+
+msgid "Anomalie"
+msgstr "ပုံမမှန်ခြင်း။"
+
+msgid "Alertes"
+msgstr "သတိပေးချက်များ"
+
+msgid "Gestion des alertes"
+msgstr "သတိပေးချက်စီမံခန့်ခွဲမှု"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "ခိုးမှု သို့မဟုတ် ဆုံးရှုံးမှုကို သတင်းပို့ပြီး မှတ်တမ်းကို ခြေရာခံပါ။"
+
+msgid "Signaler un vol / perte"
+msgstr "ခိုးမှု/ဆုံးရှုံးမှု သတင်းပို့ပါ။"
+
+msgid "En cours"
+msgstr "ဆောင်ရွက်ဆဲဖြစ်သည်"
+
+msgid "Résolues"
+msgstr "ပြေလည်ပါတယ်။"
+
+msgid "Historique des alertes"
+msgstr "သတိပေးချက်မှတ်တမ်း"
+
+msgid "Appareil"
+msgstr "ကိရိယာ"
+
+msgid "Priorité"
+msgstr "ဦးစားပေး"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "ဤသတိပေးချက်ကို ဖြေရှင်းပြီးကြောင်း အမှတ်အသားလုပ်မလား။"
+
+msgid "Résoudre"
+msgstr "ဖြေရှင်းပါ။"
+
+msgid "Aucune alerte"
+msgstr "သတိပေးချက်မရှိပါ။"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "သတင်းကောင်း။ သတိပေးချက် အစီရင်ခံခြင်း မရှိပါ။"
+
+msgid "Signaler un vol ou une perte"
+msgstr "ခိုးမှု သို့မဟုတ် ဆုံးရှုံးမှုကို သတင်းပို့ပါ။"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"ခိုးယူမှုကို သတင်းပို့ခြင်းဖြင့်၊ သင့်စက်ပစ္စည်းသည် အလိုအလျောက် "
+"လော့ခ်ကျသွားမည်ဖြစ်ပြီး အကြောင်းကြားချက်များ ပေးပို့မည်ဖြစ်သည်။"
+
+msgid "Appareil concerné"
+msgstr "ဒဏ်ခံကိရိယာ"
+
+msgid "Sélectionner un appareil"
+msgstr "စက်တစ်ခုကို ရွေးပါ။"
+
+msgid "Type d'alerte"
+msgstr "သတိပေးချက်အမျိုးအစား"
+
+msgid "Décrivez les circonstances..."
+msgstr "အခြေအနေတွေကို ဖော်ပြပါ..."
+
+msgid "Annuler"
+msgstr "မလုပ်တော့"
+
+msgid "Signaler"
+msgstr "သတင်းပို့တယ်။"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Intelligent Anti-Theft System — စမတ်ဖုန်းများအတွက် လုံခြုံရေးပလပ်ဖောင်း"
+
+msgid "Système Anti-Vol"
+msgstr "Anti-Theft စနစ်"
+
+msgid "PRINCIPAL"
+msgstr "အဓိက"
+
+msgid "Tableau de bord"
+msgstr "ဒိုင်ခွက်"
+
+msgid "SÉCURITÉ"
+msgstr "လုံခြုံရေး"
+
+msgid "Géolocalisation"
+msgstr "ပထဝီတည်နေရာ"
+
+msgid "ADMINISTRATION"
+msgstr "စီမံခန့်ခွဲရေး"
+
+msgid "Déconnexion"
+msgstr "အဆက်ဖြတ်ပါ။"
+
+msgid "Changer de langue"
+msgstr "ဘာသာစကားပြောင်းပါ။"
+
+msgid "Rechercher une langue..."
+msgstr "ဘာသာစကားတစ်ခုကိုရှာပါ..."
+
+msgid "Profil"
+msgstr "ကိုယ်ရေးအကျဉ်း"
+
+msgid "Changer de thème"
+msgstr "အပြင်အဆင်ကို ပြောင်းပါ။"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "သင့်စက်ပစ္စည်းလုံခြုံရေး၏ ခြုံငုံသုံးသပ်ချက်"
+
+msgid "Ajouter un appareil"
+msgstr "စက်တစ်ခုထည့်ပါ။"
+
+msgid "Appareils volés"
+msgstr "အခိုးခံရသောပစ္စည်းများ"
+
+msgid "Verrouillés à distance"
+msgstr "အဝေးမှသော့ခတ်ထားသည်။"
+
+msgid "Alertes récentes"
+msgstr "လတ်တလော သတိပေးချက်များ"
+
+msgid "Voir tout"
+msgstr "အားလုံးကြည့်"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "သတိပေးချက်မရှိပါ။ သင့်စက်ပစ္စည်းများသည် ဘေးကင်းပါသည်။"
+
+msgid "Mes appareils"
+msgstr "ကျွန်ုပ်၏စက်ပစ္စည်းများ"
+
+msgid "Aucun appareil enregistré"
+msgstr "စက်ပစ္စည်းများကို မှတ်ပုံတင်ထားခြင်းမရှိပါ။"
+
+msgid "Ajouter"
+msgstr "ထည့်ပါ။"
+
+msgid "en attente"
+msgstr "ကိုင်ထားသည်"
+
+msgid "Gestion des appareils"
+msgstr "စက်ပစ္စည်းစီမံခန့်ခွဲမှု"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "သင့်စမတ်ဖုန်းများကို မှတ်ပုံတင်ပြီး စီမံခန့်ခွဲပါ။"
+
+msgid "Opérateur"
+msgstr "အော်"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "ဤစက်ပစ္စည်းကို အဝေးမှ လော့ခ်ချမလား။"
+
+msgid "Verrouiller"
+msgstr "သော့ခတ်"
+
+msgid "Déverrouiller"
+msgstr "သော့ဖွင့်ပါ။"
+
+msgid "Supprimer cet appareil ?"
+msgstr "ဤစက်ပစ္စည်းကို ဖျက်မလား။"
+
+msgid "Supprimer"
+msgstr "ဖျက်ပါ။"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "၎င်းကိုကာကွယ်ရန် သင်၏ပထမဆုံးစမတ်ဖုန်းကို ထည့်ပါ။"
+
+msgid "Nouvel appareil"
+msgstr "စက်အသစ်"
+
+msgid "Marque"
+msgstr "အမှတ်တံဆိပ်"
+
+msgid "Sélectionner"
+msgstr "ရွေးပါ။"
+
+msgid "Autre"
+msgstr "တခြား"
+
+msgid "Modèle"
+msgstr "မော်ဒယ်"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "သင့်ဖုန်းတွင် *#06# ဟု ရိုက်ထည့်ပါ။"
+
+msgid "Système d'exploitation"
+msgstr "ကွန်ပျူတာစက်လည်ပတ်ရေးစနစ်ပရိုဂရမ်"
+
+msgid "Numéro de téléphone"
+msgstr "ဖုန်းနံပါတ်"
+
+msgid "Enregistrer"
+msgstr "သိမ်းဆည်းပါ။"
+
+msgid "Connexion"
+msgstr "ချိတ်ဆက်မှု"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "စမတ်ဖုန်းလုံခြုံရေးစနစ်"
+
+msgid "Adresse email"
+msgstr "အီးမေးလ်လိပ်စာ"
+
+msgid "Mot de passe"
+msgstr "စကားဝှက်"
+
+msgid "Se connecter"
+msgstr "လော့ဂ်အင်"
+
+msgid "Mot de passe oublié ?"
+msgstr "စကားဝှက် မေ့နေပါသလား။"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"မင်းမှာ အကောင့်ရှိနေပြီလား။ မဟုတ်ပါက သင့်အကောင့်ကို ဖန်တီးရန် "
+"ဆက်လက်လုပ်ဆောင်ပါ။"
+
+msgid "Créer un compte"
+msgstr "အကောင့်တစ်ခုဖန်တီးသည်"
+
+msgid "Sécurité maximale"
+msgstr "အမြင့်ဆုံးလုံခြုံရေး"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "အဝေးထိန်းလော့ခ်ဖြင့် သင်၏ကိုယ်ရေးကိုယ်တာဒေတာကို ကာကွယ်ပါ။"
+
+msgid "Localisation GPS"
+msgstr "GPS တည်နေရာ"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "သင့်စမတ်ဖုန်း၏ တည်နေရာအတိအကျကို အချိန်နှင့်တပြေးညီ ရှာဖွေပါ။"
+
+msgid "Alertes instantanées"
+msgstr "လက်ငင်းသတိပေးချက်များ"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "ခိုးယူခံရသည့်အခါတွင် SMS၊ အီးမေးလ်နှင့် အကြောင်းကြားချက်များကို ရယူပါ။"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "သင့်စက်ပစ္စည်းများကို ရှာဖွေပြီး အန္တရာယ်ဧရိယာများကို မြင်ယောင်ကြည့်ပါ။"
+
+msgid "Aucun appareil"
+msgstr "စက်မရှိပါ။"
+
+msgid "Zones à risque"
+msgstr "အန္တရာယ်များသော နေရာများ"
+
+msgid "incidents"
+msgstr "အဖြစ်အပျက်များ"
+
+msgid "Aucune zone signalée"
+msgstr "မည်သည့်ဒေသများကိုမျှ မဖော်ပြထားပါ။"
+
+msgid "Niveau"
+msgstr "အဆင့်"
+
+msgid "Incidents"
+msgstr "အဖြစ်အပျက်များ"
+
+msgid "Profile utilisateur"
+msgstr "အသုံးပြုသူပရိုဖိုင်"
+
+msgid "Gérez vos informations personnelles"
+msgstr "သင်၏ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို စီမံခန့်ခွဲပါ။"
+
+msgid "Membre depuis"
+msgstr "အသင်းဝင်ကတည်းက"
+
+msgid "Modifier mes informations"
+msgstr "ကျွန်ုပ်၏အချက်အလက်များကို တည်းဖြတ်ပါ။"
+
+msgid "Prénom"
+msgstr "နာမည်"
+
+msgid "Nom"
+msgstr "နာမည်"
+
+msgid "Changer le mot de passe"
+msgstr "စကားဝှက်ကိုပြောင်းရန်"
+
+msgid "Nouveau mot de passe"
+msgstr "စကားဝှက်အသစ်"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "မပြောင်းလဲစေရန် ကွက်လပ်ထားပါ။"
+
+msgid "Enregistrer les modifications"
+msgstr "အပြောင်းအလဲများကို သိမ်းဆည်းပါ။"
+
+msgid "Inscription"
+msgstr "စသည်ဖြင့်"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"သင့်စက်ပစ္စည်းများ၏ ပိုမိုကောင်းမွန်သောလုံခြုံရေးအတွက် Anti-Theft "
+"မှကြိုဆိုပါသည်။"
+
+msgid "Confirmer"
+msgstr "အတည်ပြုပါ။"
+
+msgid "Créer mon compte"
+msgstr "ကျွန်ုပ်၏အကောင့်ကိုဖန်တီးပါ။"
+
+msgid "Déjà un compte ?"
+msgstr "အကောင့်ရှိပြီးသားလား။"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "စကားဝှက်ကို ပြန်လည်သတ်မှတ်ပါ။"
+
+msgid "Réinitialisation"
+msgstr "ပြန်လည်သတ်မှတ်ပါ။"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "သင်၏အထောက်အထားကို အတည်ပြုရန် သင့်အီးမေးလ်နှင့် ဖုန်းနံပါတ်ကို ထည့်ပါ။"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "မှတ်ပုံတင်စဉ်အသုံးပြုသောနံပါတ်"
+
+msgid "Minimum 6 caractères"
+msgstr "အနည်းဆုံး 6 လုံး"
+
+msgid "Confirmer le mot de passe"
+msgstr "စကားဝှက်အတည်ပြုခြင်း"
+
+msgid "Retourner à la"
+msgstr "သို့ ပြန်သွားရန်"
+
+msgid "page de connexion"
+msgstr "အကောင့်ဝင်စာမျက်နှာ"
+
+msgid "Vérification sécurisée"
+msgstr "လုံခြုံသောအတည်ပြုချက်"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "သင့်အီးမေးလ်နှင့် ဖုန်းနံပါတ်ကို အသုံးပြု၍ သင်၏အထောက်အထားကို အတည်ပြုပါသည်။"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "အနည်းဆုံး အက္ခရာ 6 လုံး၏ လုံခြုံသော စကားဝှက်ကို ရွေးပါ။"
+
+msgid "d"
+msgstr "ဃ"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}- တည်းဖြတ်မှု မအောင်မြင်ပါ။"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}- တည်းဖြတ်မှု မအောင်မြင်ပါ- {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows အမှား- {error}"
+
+msgid "deprecated"
+msgstr "ကန့်ကွက်ထားသည်။"
+
+msgid "Options"
+msgstr "ရွေးချယ်မှုများ"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "မမျှော်လင့်ထားသော အပိုအကြောင်းပြချက် ({args}) ကို ရခဲ့သည်"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning- ကွန်မန်း {name!r} ကို ရပ်ဆိုင်းထားသည်။{extra_message}"
+
+msgid "Aborted!"
+msgstr "ဖျက်လိုက်သည်"
+
+msgid "Commands"
+msgstr "အမိန့်များ"
+
+msgid "Missing command."
+msgstr "ပျောက်ဆုံးနေသောအမိန့်။"
+
+msgid "Value must be an iterable."
+msgstr "တန်ဖိုးသည် ထပ်ကာထပ်ကာဖြစ်ရပါမည်။"
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "ယူတယ် {nargs} values ​​but 1 ပေးခဲ့တယ်။"
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Deprecation သတိပေးချက်- {param_type} {name!r} ကို "
+"ရပ်ဆိုင်းထားသည်။{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "အမည် '{name}' ကို နှစ်ကြိမ်သတ်မှတ်ထားသည်။"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Boolean ရွေးချယ်မှု {decl!r} သည် တူညီသောအလံကို မှန်/မမှန် မသုံးနိုင်ပါ။"
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "ကြေငြာချက်များ {decls!r} ဖြင့် ရွေးချယ်ခွင့်အမည်ကို သတ်မှတ်၍မရပါ။"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"သတ်မှတ်ထားသော ရွေးချယ်ခွင့်မရှိသော်လည်း နာမည်တစ်ခု ကျော်သွားသည် ({name})။"
+" အဲဒီအစား အငြင်းအခုံတစ်ခုကို ကြေညာဖို့ ဆိုလိုတာလား။ '--{name}' ကို "
+"ကျော်ဖြတ်ရန် ရည်ရွယ်ပါသလား။"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var- {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "မူရင်း- {default}"
+
+msgid "required"
+msgstr "လိုအပ်သည်။"
+
+msgid "(dynamic)"
+msgstr "(ပြောင်းလဲနေသော)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"အကြောင်းပြချက်များသည် ကန့်သတ်ကြေငြာချက်တစ်ခုအတိအကျယူသည်၊ {length} "
+"ရရှိပါသည်- {decls}။"
+
+msgid "Do you want to continue?"
+msgstr "ဆက်လုပ်လိုပါသလား။"
+
+msgid "Confirm the action without prompting."
+msgstr "မတောင်းဆိုဘဲ လုပ်ဆောင်ချက်ကို အတည်ပြုပါ။"
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s၊ ဗားရှင်း %(ဗားရှင်း)s"
+
+msgid "Show the version and exit."
+msgstr "ဗားရှင်းကိုပြပြီး ထွက်လိုက်ပါ။"
+
+msgid "Show this message and exit."
+msgstr "ဒီစာကိုပြပြီး ထွက်လိုက်ပါ။"
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "{possibility} ကို ဆိုလိုပါသလား။"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "အမှား- {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "အကူအညီအတွက် '{command} {option}' ကို စမ်းကြည့်ပါ။"
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "မမှန်ကန်သော တန်ဖိုး- {mesage}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint} အတွက် မမှန်ကန်သော တန်ဖိုး- {message}"
+
+msgid "Missing argument"
+msgstr "ငြင်းခုံမှု ပျောက်ဆုံးနေပါသည်။"
+
+msgid "Missing option"
+msgstr "ရွေးချယ်စရာ ပျောက်ဆုံးနေပါသည်။"
+
+msgid "Missing parameter"
+msgstr "ပါရာမီတာ ပျောက်နေသည်။"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} ပျောက်နေသည်"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "ပါရာမီတာ ပျောက်နေသည်- {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "{name!r} ထိုကဲ့သို့သော ရွေးချယ်ခွင့်မရှိပါ။"
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "ထိုကဲ့သို့သောအမိန့်စာ {name!r} မရှိပါ။"
+
+msgid "unknown error"
+msgstr "မသိသောအမှား"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "ဖိုင် {filename!r}- {message} ကို ဖွင့်၍မရပါ။"
+
+msgid "Usage:"
+msgstr "အသုံးပြုရန်-"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "ရွေးချယ်မှု ({option}) အတွက် မမှန်ကန်ပါ"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "အငြင်းအခုံ {name!r} သည် {nargs} တန်ဖိုးများကို ယူသည်။"
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "ရွေးချယ်မှု {name!r} သည် တန်ဖိုးတစ်ခု မယူပါ။"
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "ရွေးချယ်မှု {name!r} သည် အငြင်းအခုံတစ်ခု လိုအပ်သည်။"
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell ပြီးစီးမှုကို 4.4 ထက်ကြီးသော Bash ဗားရှင်းများအတွက် ပံ့ပိုးမပေးပါ။"
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Bash ဗားရှင်းကို ရှာမတွေ့နိုင်ခဲ့ပါ၊ အခွံဖြည့်သွင်းခြင်းကို မပံ့ပိုးပါ။"
+
+msgid "Repeat for confirmation"
+msgstr "အတည်ပြုချက်အတွက် ထပ်လုပ်ပါ။"
+
+msgid "Error: The two entered values do not match."
+msgstr "အမှား- ထည့်သွင်းထားသော တန်ဖိုးနှစ်ခုသည် မကိုက်ညီပါ။"
+
+msgid "Error: invalid input"
+msgstr "အမှား- မမှန်ကန်သော ထည့်သွင်းမှု"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "အမည်မသိအရောင် {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "ဆက်လုပ်ရန် မည်သည့်ခလုတ်ကိုမဆိုနှိပ်ပါ..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "မှ ရွေးပါ-\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} သည် {choice} မဟုတ်ပါ။"
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "ရွေးချယ်မှု({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} သည် ဖော်မက် {format} နှင့် မကိုက်ညီပါ။"
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} သည် တရားဝင် {number_type} မဟုတ်ပါ။"
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} သည် အပိုင်းအခြား {range} တွင် မရှိပါ။"
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr ""
+"{value!r} သည် မှန်ကန်သော ဘူလီယံတစ်ခုမဟုတ်ပါ။ အသိအမှတ်ပြုထားသော "
+"တန်ဖိုးများ- {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} သည် မှန်ကန်သော UUID မဟုတ်ပါ။"
+
+msgid "file"
+msgstr "ဖိုင်"
+
+msgid "directory"
+msgstr "လမ်းညွှန်"
+
+msgid "path"
+msgstr "လမ်းကြောင်း"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} မရှိပါ။"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} သည် ဖိုင်တစ်ခုဖြစ်သည်။"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} သည် လမ်းညွှန်တစ်ခုဖြစ်သည်။"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} ကို ဖတ်၍မရပါ။"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} သည် စာမရေးနိုင်ပါ။"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} ကို လုပ်ဆောင်၍မရပါ။"
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} တန်ဖိုးများ လိုအပ်သော်လည်း {len_value} ကို ပေးထားသည်။"
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "အမည်မသိ ပုံမှန်စီးကြောင်း '{name}'"
+
+msgid "This field is required."
+msgstr "ဤစာကွက်လပ်မှာဖြည့်ရန်လိုအပ်ပါသည်။"
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "ဖိုင်တွင် အတည်ပြုထားသော တိုးချဲ့မှုတစ်ခု မရှိပါ။ {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "ဖိုင်တွင် အတည်ပြုထားသော တိုးချဲ့မှုတစ်ခု မရှိပါ။"
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "ဖိုင်သည် {min_size} နှင့် {max_size} bytes ကြားရှိရမည်။"
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "အကွက်အမည် '%s' မမှန်ကန်ပါ။"
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "အကွက်သည် %(other_name)s နှင့် ညီရပါမည်။"
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "အကွက်သည် အနည်းဆုံး %(min)d စာလုံးရှည်ရပါမည်။"
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "အကွက်သည် %(အများဆုံး)d စာလုံးထက် ပိုရှည်၍မရပါ။"
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "အကွက်သည် %(အများဆုံး)d စာလုံးအရှည် အတိအကျ ဖြစ်ရမည်။"
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "အကွက်သည် စာလုံး %(min)d နှင့် %(အများဆုံး)d အရှည်ကြား ဖြစ်ရမည်။"
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "နံပါတ်သည် အနည်းဆုံး %(min)s ဖြစ်ရမည်။"
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "နံပါတ်သည် အများဆုံး %(max)s ဖြစ်ရပါမည်။"
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "နံပါတ်သည် %(min)s နှင့် %(max)s အကြား ဖြစ်ရမည်။"
+
+msgid "Invalid input."
+msgstr "ထည့်သွင်းမှု မမှန်ကန်ပါ။"
+
+msgid "Invalid email address."
+msgstr "အီးမေးလ်လိပ်စာ မမှန်ကန်ပါ။"
+
+msgid "Invalid IP address."
+msgstr "မမှန်ကန်သော IP လိပ်စာ။"
+
+msgid "Invalid Mac address."
+msgstr "မမှန်ကန်သော Mac လိပ်စာ။"
+
+msgid "Invalid URL."
+msgstr "မမှန်ကန်သော URL"
+
+msgid "Invalid UUID."
+msgstr "UUID မမှန်ကန်ပါ။"
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "မမှန်ကန်သောတန်ဖိုး၊ %(တန်ဖိုးများ)s မှ တစ်ခု ဖြစ်ရမည်။"
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "မမှန်ကန်သောတန်ဖိုး၊ %(values)s များထဲမှ တစ်ခုမဟုတ်နိုင်ပါ။"
+
+msgid "This field cannot be edited."
+msgstr "ဤအကွက်ကို တည်းဖြတ်၍မရပါ။"
+
+msgid "This field is disabled and cannot have a value."
+msgstr "ဤအကွက်ကို ပိတ်ထားပြီး တန်ဖိုးတစ်ခုမရနိုင်ပါ။"
+
+msgid "Invalid CSRF Token."
+msgstr "CSRF တိုကင် မမှန်ကန်ပါ။"
+
+msgid "CSRF token missing."
+msgstr "CSRF တိုကင် ပျောက်နေသည်။"
+
+msgid "CSRF failed."
+msgstr "CSRF မအောင်မြင်ပါ။"
+
+msgid "CSRF token expired."
+msgstr "CSRF တိုကင် သက်တမ်းကုန်သွားပါပြီ။"
+
+msgid "Invalid Choice: could not coerce."
+msgstr "မမှန်ကန်သော ရွေးချယ်မှု- အတင်းအကျပ် မလုပ်နိုင်ပါ။"
+
+msgid "Choices cannot be None."
+msgstr "ရွေးချယ်မှုများသည် မရှိနိုင်ပါ။"
+
+msgid "Not a valid choice."
+msgstr "မှန်ကန်သောရွေးချယ်မှုမဟုတ်ပါ။"
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"မမှန်ကန်သော ရွေးချယ်မှု(များ)- တစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသော "
+"ဒေတာထည့်သွင်းမှုများကို အတင်းအကျပ် ခိုင်းစေ၍မရပါ။"
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' သည် ဤအကွက်အတွက် မှန်ကန်သော ရွေးချယ်မှုမဟုတ်ပါ။"
+
+msgid "Not a valid datetime value."
+msgstr "မှန်ကန်သော ရက်စွဲတန်ဖိုး မဟုတ်ပါ။"
+
+msgid "Not a valid date value."
+msgstr "မှန်ကန်သော ရက်စွဲတန်ဖိုး မဟုတ်ပါ။"
+
+msgid "Not a valid time value."
+msgstr "မှန်ကန်သော အချိန်တန်ဖိုး မဟုတ်ပါ။"
+
+msgid "Not a valid week value."
+msgstr "မှန်ကန်သော ရက်သတ္တပတ်တန်ဖိုး မဟုတ်ပါ။"
+
+msgid "Not a valid integer value."
+msgstr "မှန်ကန်သော ကိန်းပြည့်တန်ဖိုး မဟုတ်ပါ။"
+
+msgid "Not a valid decimal value."
+msgstr "မှန်ကန်သော ဒဿမတန်ဖိုး မဟုတ်ပါ။"
+
+msgid "Not a valid float value."
+msgstr "မှန်ကန်သော float တန်ဖိုး မဟုတ်ပါ။"
+

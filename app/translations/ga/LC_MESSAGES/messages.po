@@ -1,0 +1,1051 @@
+# Translations for GA.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ga\n"
+"Language-Team: ga <LL@li.org>\n"
+"Plural-Forms: nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n>=3 && n<=6 ? 2 "
+": n>=7 && n<=10 ? 3 : 4);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Logáil isteach le do thoil chun an leathanach seo a rochtain."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Tá an IMEI seo cláraithe sa chóras cheana féin."
+
+msgid "Accès non autorisé."
+msgstr "Rochtain neamhúdaraithe."
+
+msgid "Appareil déverrouillé."
+msgstr "Gléas díghlasáilte."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Foláireamh cruthaithe! Fógraí seolta."
+
+msgid "Alerte résolue."
+msgstr "Réitíodh an foláireamh."
+
+msgid "Pas encore de compte ?"
+msgstr "Gan cuntas fós?"
+
+msgid "Mon Profil"
+msgstr "Mo Phróifíl"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Ceangal rathúil! Fáilte."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Ríomhphost nó pasfhocal mícheart."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Ní mór gach réimse riachtanach a chomhlánú."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Ní hionann pasfhocail."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Caithfidh 6 charachtar ar a laghad a bheith sa phasfhocal."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Tá an ríomhphost seo in úsáid cheana féin."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Cuntas cruthaithe go rathúil! Logáil isteach."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Níor aimsíodh aon chuntas leis an ríomhphost seo."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Ní mheaitseálann an uimhir theileafóin leis an uimhir chuntais."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Tá an pasfhocal nua éigeantach."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "D'éirigh le hathshocrú pasfhocal! Logáil isteach."
+
+msgid "Vous avez été déconnecté."
+msgstr "Tá tú dícheangailte."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Tá gá le branda, múnla agus IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Tá gléas leis an IMEI seo ann cheana."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Gléas cláraithe go rathúil!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Níl cead agat an gníomh seo a dhéanamh."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Gléas glasáilte go rathúil."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "D'éirigh le díghlasáil an ghléis."
+
+msgid "Appareil supprimé."
+msgstr "Scriosadh an gléas."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Roghnaigh gléas agus cineál foláirimh."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Ní leatsa an gléas seo."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "D'éirigh leis an bhfoláireamh. Tá an gléas daingnithe."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Foláireamh marcáilte mar réitithe."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Tá céad ainm, sloinne agus ríomhphost ag teastáil."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Tá an ríomhphost seo in úsáid ag cuntas eile cheana féin."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "D'éirigh leis an bpróifíl a nuashonrú!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Rochtain in áirithe do riarthóirí."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Earráid marcáilte mar a réitíodh."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Ní féidir leat do chuntas féin a scriosadh."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "D'éirigh leis an úsáideoir a scriosadh."
+
+msgid "Administration"
+msgstr "Riarachán"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Bainistíocht láraithe ar an gcóras Frith-Ghoid"
+
+msgid "Utilisateurs"
+msgstr "Úsáideoirí"
+
+msgid "Actifs aujourd'hui"
+msgstr "Gníomhach inniu"
+
+msgid "Nouveaux ce mois"
+msgstr "Nua an mhí seo"
+
+msgid "Appareils"
+msgstr "Gléasanna"
+
+msgid "Alertes actives"
+msgstr "Foláirimh ghníomhacha"
+
+msgid "Analytique"
+msgstr "Anailíseach"
+
+msgid "Journal d'activité"
+msgstr "Loga gníomhaíochta"
+
+msgid "Erreurs"
+msgstr "Earráidí"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Naisc (7 lá anuas)"
+
+msgid "Alertes par type"
+msgstr "Foláirimh de réir cineáil"
+
+msgid "Appareils par opérateur"
+msgstr "Gléasanna de réir oibreora"
+
+msgid "Résumé du système"
+msgstr "Achoimre ar an gCóras"
+
+msgid "Utilisateurs total"
+msgstr "Úsáideoirí iomlána"
+
+msgid "Appareils enregistrés"
+msgstr "Feistí cláraithe"
+
+msgid "Total alertes"
+msgstr "Foláirimh iomlána"
+
+msgid "Alertes en cours"
+msgstr "Foláirimh reatha"
+
+msgid "Erreurs non résolues"
+msgstr "Earráidí gan réiteach"
+
+msgid "Dernières activités"
+msgstr "Gníomhaíochtaí is déanaí"
+
+msgid "récentes"
+msgstr "le déanaí"
+
+msgid "Utilisateur"
+msgstr "Úsáideoir"
+
+msgid "Action"
+msgstr "Gníomh"
+
+msgid "Détails"
+msgstr "Sonraí"
+
+msgid "Adresse IP"
+msgstr "Seoladh IP"
+
+msgid "Navigateur"
+msgstr "Brabhsálaí"
+
+msgid "Date"
+msgstr "Dáta"
+
+msgid "Aucune activité"
+msgstr "Gan aon ghníomhaíocht"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Beidh gníomhaíochtaí úsáideora le feiceáil anseo."
+
+msgid "Journal d'erreurs"
+msgstr "Loga earráide"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Deisigh gach earráid?"
+
+msgid "Tout résoudre"
+msgstr "Réitigh gach rud"
+
+msgid "non résolues"
+msgstr "gan réiteach"
+
+msgid "Tout est résolu"
+msgstr "Tá gach rud réitithe"
+
+msgid "Type"
+msgstr "cineál"
+
+msgid "Description"
+msgstr "Cur síos"
+
+msgid "Statut"
+msgstr "Stádas"
+
+msgid "Résolu"
+msgstr "Réitíodh"
+
+msgid "Non résolu"
+msgstr "Gan réiteach"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Níor taifeadadh aon earráidí"
+
+msgid "Le système fonctionne correctement."
+msgstr "Tá an córas ag obair i gceart."
+
+msgid "Gestion des utilisateurs"
+msgstr "Bainistíocht úsáideora"
+
+msgid "comptes"
+msgstr "cuntais"
+
+msgid "Email"
+msgstr "R-phost"
+
+msgid "Téléphone"
+msgstr "Fón"
+
+msgid "Rôle"
+msgstr "Ról"
+
+msgid "Inscrit le"
+msgstr "Cláraithe ar"
+
+msgid "Actions"
+msgstr "Gníomhartha"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr ""
+"An bhfuil fonn ort an t-úsáideoir seo agus a ghléasanna go léir a "
+"scriosadh?"
+
+msgid "Vous"
+msgstr "TÚ"
+
+msgid "Connexions"
+msgstr "Naisc"
+
+msgid "Vol"
+msgstr "Eitilt"
+
+msgid "Perte"
+msgstr "Cailliúint"
+
+msgid "Anomalie"
+msgstr "Aimhrialtacht"
+
+msgid "Alertes"
+msgstr "Foláirimh"
+
+msgid "Gestion des alertes"
+msgstr "Bainistíocht foláirimh"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Tuairiscigh goid nó caillteanas agus rianaigh an stair"
+
+msgid "Signaler un vol / perte"
+msgstr "Tuairiscigh goid/caillteanas"
+
+msgid "En cours"
+msgstr "Ar siúl"
+
+msgid "Résolues"
+msgstr "Réitíodh"
+
+msgid "Historique des alertes"
+msgstr "Stair Foláirimh"
+
+msgid "Appareil"
+msgstr "Gléas"
+
+msgid "Priorité"
+msgstr "Tosaíocht"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Marcáil an foláireamh seo mar réitithe?"
+
+msgid "Résoudre"
+msgstr "Réitigh"
+
+msgid "Aucune alerte"
+msgstr "Gan foláireamh"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Dea-scéala! Níor tuairiscíodh aon foláireamh."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Tuairiscigh goid nó caillteanas"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Trí goid a thuairisciú, cuirfear do ghléas faoi ghlas go huathoibríoch "
+"agus seolfar fógraí."
+
+msgid "Appareil concerné"
+msgstr "Gléas lena mbaineann"
+
+msgid "Sélectionner un appareil"
+msgstr "Roghnaigh gléas"
+
+msgid "Type d'alerte"
+msgstr "Cineál foláirimh"
+
+msgid "Décrivez les circonstances..."
+msgstr "Déan cur síos ar na cúinsí..."
+
+msgid "Annuler"
+msgstr "Cealaigh"
+
+msgid "Signaler"
+msgstr "Tuairisc"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Córas Chliste Frith-Ghoid — Ardán slándála le haghaidh fóin chliste"
+
+msgid "Système Anti-Vol"
+msgstr "Córas Frith-Ghoid"
+
+msgid "PRINCIPAL"
+msgstr "PRÍOMH"
+
+msgid "Tableau de bord"
+msgstr "Deais"
+
+msgid "SÉCURITÉ"
+msgstr "SLÁNDÁLA"
+
+msgid "Géolocalisation"
+msgstr "Geoshuíomh"
+
+msgid "ADMINISTRATION"
+msgstr "RIARACHÁN"
+
+msgid "Déconnexion"
+msgstr "Dícheangail"
+
+msgid "Changer de langue"
+msgstr "Athrú teanga"
+
+msgid "Rechercher une langue..."
+msgstr "Cuardaigh teanga..."
+
+msgid "Profil"
+msgstr "Próifíl"
+
+msgid "Changer de thème"
+msgstr "Athraigh téama"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Forbhreathnú ar shlándáil do ghléis"
+
+msgid "Ajouter un appareil"
+msgstr "Cuir gléas leis"
+
+msgid "Appareils volés"
+msgstr "Gléasanna goidte"
+
+msgid "Verrouillés à distance"
+msgstr "Cianda faoi ghlas"
+
+msgid "Alertes récentes"
+msgstr "Foláirimh le déanaí"
+
+msgid "Voir tout"
+msgstr "Féach ar fad"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Gan foláireamh. Tá do ghléasanna sábháilte!"
+
+msgid "Mes appareils"
+msgstr "Mo gléasanna"
+
+msgid "Aucun appareil enregistré"
+msgstr "Níl aon fheistí cláraithe"
+
+msgid "Ajouter"
+msgstr "Cuir"
+
+msgid "en attente"
+msgstr "ar feitheamh"
+
+msgid "Gestion des appareils"
+msgstr "Bainistíocht gléas"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Cláraigh agus bainistigh d’fhóin chliste"
+
+msgid "Opérateur"
+msgstr "Oibreoir"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Glasáil an gléas seo go cianda?"
+
+msgid "Verrouiller"
+msgstr "Glasáil"
+
+msgid "Déverrouiller"
+msgstr "Díghlasáil"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Scrios an gléas seo?"
+
+msgid "Supprimer"
+msgstr "Scrios"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Cuir do chéad smartphone leis chun é a chosaint."
+
+msgid "Nouvel appareil"
+msgstr "Gléas nua"
+
+msgid "Marque"
+msgstr "Branda"
+
+msgid "Sélectionner"
+msgstr "Roghnaigh"
+
+msgid "Autre"
+msgstr "Eile"
+
+msgid "Modèle"
+msgstr "Múnla"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "clóscríobh *#06 # ar do ghuthán"
+
+msgid "Système d'exploitation"
+msgstr "Córas oibriúcháin"
+
+msgid "Numéro de téléphone"
+msgstr "Uimhir theileafóin"
+
+msgid "Enregistrer"
+msgstr "Sábháil"
+
+msgid "Connexion"
+msgstr "Ceangal"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Córas slándála fón cliste"
+
+msgid "Adresse email"
+msgstr "Seoladh r-phoist"
+
+msgid "Mot de passe"
+msgstr "Pasfhocal"
+
+msgid "Se connecter"
+msgstr "Logáil isteach"
+
+msgid "Mot de passe oublié ?"
+msgstr "Dearmadta pasfhocal?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"An bhfuil cuntas agat cheana féin? Seachas sin, lean ar aghaidh chuig do "
+"chuntas a chruthú!"
+
+msgid "Créer un compte"
+msgstr "Cruthaigh cuntas"
+
+msgid "Sécurité maximale"
+msgstr "Slándála uasta"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Cosain do shonraí pearsanta le cianghlasáil"
+
+msgid "Localisation GPS"
+msgstr "Suíomh GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Faigh suíomh cruinn do ghuthán cliste i bhfíor-am"
+
+msgid "Alertes instantanées"
+msgstr "Foláirimh ar an toirt"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Faigh fógraí SMS, ríomhphoist agus brúigh i gcás goid"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Aimsigh do ghléasanna agus léirshamhlú réimsí riosca"
+
+msgid "Aucun appareil"
+msgstr "Gan gléas"
+
+msgid "Zones à risque"
+msgstr "Réimsí riosca"
+
+msgid "incidents"
+msgstr "teagmhais"
+
+msgid "Aucune zone signalée"
+msgstr "Níor tuairiscíodh aon réimsí"
+
+msgid "Niveau"
+msgstr "Leibhéal"
+
+msgid "Incidents"
+msgstr "Teagmhais"
+
+msgid "Profile utilisateur"
+msgstr "Próifíl úsáideora"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Bainistigh do chuid faisnéise pearsanta"
+
+msgid "Membre depuis"
+msgstr "Ball ó shin"
+
+msgid "Modifier mes informations"
+msgstr "Cuir m'eolas in eagar"
+
+msgid "Prénom"
+msgstr "Céad ainm"
+
+msgid "Nom"
+msgstr "Ainm"
+
+msgid "Changer le mot de passe"
+msgstr "Athraigh pasfhocal"
+
+msgid "Nouveau mot de passe"
+msgstr "Pasfhocal Nua"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "fág bán ionas nach n-athrófar"
+
+msgid "Enregistrer les modifications"
+msgstr "Sábháil athruithe"
+
+msgid "Inscription"
+msgstr "Clárú"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Fáilte go Frith-Ghoid le haghaidh slándála níos fearr do do ghléasanna"
+
+msgid "Confirmer"
+msgstr "Deimhnigh"
+
+msgid "Créer mon compte"
+msgstr "Cruthaigh mo chuntas"
+
+msgid "Déjà un compte ?"
+msgstr "An bhfuil cuntas agat cheana féin?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Athshocraigh Pasfhocal"
+
+msgid "Réinitialisation"
+msgstr "Athshocraigh"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Cuir isteach do ríomhphost agus uimhir theileafóin chun d’aitheantas a "
+"fhíorú"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "An uimhir a úsáidtear le linn clárúcháin"
+
+msgid "Minimum 6 caractères"
+msgstr "6 charachtar ar a laghad"
+
+msgid "Confirmer le mot de passe"
+msgstr "Deimhnigh pasfhocal"
+
+msgid "Retourner à la"
+msgstr "Fill ar"
+
+msgid "page de connexion"
+msgstr "leathanach logáil isteach"
+
+msgid "Vérification sécurisée"
+msgstr "Fíorú slán"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Fíoraítear d’aitheantas trí do ríomhphost agus d’uimhir theileafóin a "
+"úsáid"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Roghnaigh pasfhocal slán de 6 charachtar ar a laghad"
+
+msgid "d"
+msgstr "="
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Theip ar an eagarthóireacht"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Theip ar an eagarthóireacht: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Earráid Windows: {earráid}"
+
+msgid "deprecated"
+msgstr "dímheasta"
+
+msgid "Options"
+msgstr "Roghanna"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Fuair ​​​​tú argóint bhreise gan choinne ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Rabhadh Dímheasa: Tá an t-ordú {name!r} imithe i léig.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Tobscoireadh!"
+
+msgid "Commands"
+msgstr "Orduithe"
+
+msgid "Missing command."
+msgstr "Ordú ar iarraidh."
+
+msgid "Value must be an iterable."
+msgstr "Ní mór luach a bheith ina n-athbhreithe."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Glacann sé luachanna {nargs} ach tugadh 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Rabhadh Dímheasa: Tá an {param_type} {name! r} imithe i "
+"léig.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Sainmhínítear an t-ainm '{name}' faoi dhó"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Ní féidir le rogha Boole {decl!r} an bhratach chéanna a úsáid le haghaidh"
+" fíor/bréagach."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Níorbh fhéidir ainm na rogha a chinneadh le dearbhuithe {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Níor sainíodh aon roghanna ach ritheadh ​​ainm ({name}). An raibh sé i "
+"gceist agat argóint a fhógairt ina ionad sin? An raibh i gceist agat "
+"'--{name}' a phasáil?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var env: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "réamhshocraithe: {default}"
+
+msgid "required"
+msgstr "ag teastáil"
+
+msgid "(dynamic)"
+msgstr "(dinimiciúil)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Glacann argóintí go beacht dearbhú paraiméadar amháin, faighte {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Ar mhaith leat leanúint ar aghaidh?"
+
+msgid "Confirm the action without prompting."
+msgstr "Deimhnigh an gníomh gan leideanna."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, leagan %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Taispeáin an leagan agus scoir."
+
+msgid "Show this message and exit."
+msgstr "Taispeáin an teachtaireacht seo agus scoir."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "An raibh {possibility} i gceist agat?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Earráid: {teachtaireacht}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Bain triail as '{ command} {option}' le haghaidh cabhrach."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Luach neamhbhailí: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Luach neamhbhailí le haghaidh {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Argóint ar iarraidh"
+
+msgid "Missing option"
+msgstr "Rogha ar iarraidh"
+
+msgid "Missing parameter"
+msgstr "Paraiméadar ar iarraidh"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} in easnamh"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Paraiméadar ar iarraidh: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Níl a leithéid de rogha {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Níl a leithéid d'ordú {name!r}."
+
+msgid "unknown error"
+msgstr "earráid anaithnid"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Níorbh fhéidir comhad {filename!r} a oscailt: {message}"
+
+msgid "Usage:"
+msgstr "Úsáid:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Carachtar tosaithe neamhbhailí don rogha ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Glacann argóint {name!r} luachanna {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Ní ghlacann rogha {name!r} luach."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Teastaíonn argóint le rogha {name!r}."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Ní thacaítear le comhlánú bhlaosc le haghaidh leaganacha Bash níos sine "
+"ná 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Níorbh fhéidir leagan Bash a bhrath, ní thacaítear le comhlánú na blaosc."
+
+msgid "Repeat for confirmation"
+msgstr "Déan arís le deimhniú"
+
+msgid "Error: The two entered values do not match."
+msgstr "Earráid: Ní hionann an dá luach a iontráladh."
+
+msgid "Error: invalid input"
+msgstr "Earráid: ionchur neamhbhailí"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Dath anaithnid {color! r}"
+
+msgid "Press any key to continue..."
+msgstr "Brúigh eochair ar bith chun leanúint ar aghaidh..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Roghnaigh ó:\\n\\t{roghanna}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "Ní {rogha} é {value!r}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Rogha({roghanna})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "Ní mheaitseálann {value!r} an fhormáid {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "Ní {number_type} bailí é {value!r}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "Níl {value} sa raon {raon}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "Ní Boole bailí é {value!r}. Luachanna aitheanta: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "Ní UUID bailí é {value!r}."
+
+msgid "file"
+msgstr "comhad"
+
+msgid "directory"
+msgstr "eolaire"
+
+msgid "path"
+msgstr "cosán"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "Níl {name} {filename!r} ann."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "Is comhad é {name} {filename!r}."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "Is eolaire é {name} {filename!r}."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "Níl {name} {filename!r} inléite."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "Níl {name} {filename!r} inscríofa."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "Níl {name} {filename!r} inrite."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Tá {len_type} luachanna ag teastáil, ach tugadh {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Sruth caighdeánach anaithnid '{name}'"
+
+msgid "This field is required."
+msgstr "Tá an réimse seo ag teastáil."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Níl iarmhír ceadaithe ag an gcomhad: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Níl iarmhír ceadaithe ag an gcomhad."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Caithfidh an comhad a bheith idir {min_size} agus {max_size} beart."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Ainm réimse neamhbhailí '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Caithfidh an réimse a bheith cothrom le %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Caithfidh an réimse a bheith %(nóim)d carachtar ar a laghad."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Ní féidir leis an réimse a bheith níos faide ná %(max)d carachtar."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Caithfidh an réimse a bheith díreach %(max)d carachtar ar fad."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Caithfidh an réimse a bheith idir %(min)d agus %(max)d carachtar ar fad."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Caithfidh an uimhir a bheith %(nóim)s ar a laghad."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Caithfidh an uimhir a bheith %(max)s ar a mhéad."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Caithfidh an uimhir a bheith idir %(nóim)s agus %(uas)s."
+
+msgid "Invalid input."
+msgstr "Ionchur neamhbhailí."
+
+msgid "Invalid email address."
+msgstr "Seoladh ríomhphoist neamhbhailí."
+
+msgid "Invalid IP address."
+msgstr "Seoladh IP neamhbhailí."
+
+msgid "Invalid Mac address."
+msgstr "Seoladh Mac neamhbhailí."
+
+msgid "Invalid URL."
+msgstr "URL neamhbhailí."
+
+msgid "Invalid UUID."
+msgstr "UUID neamhbhailí."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Luach neamhbhailí, caithfidh sé a bheith mar cheann de: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Luach neamhbhailí, ní féidir é a bheith mar cheann ar bith de: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Ní féidir an réimse seo a chur in eagar."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Tá an réimse seo díchumasaithe agus ní féidir luach a bheith leis."
+
+msgid "Invalid CSRF Token."
+msgstr "Comhartha CSRF neamhbhailí."
+
+msgid "CSRF token missing."
+msgstr "Comhartha CSRF in easnamh."
+
+msgid "CSRF failed."
+msgstr "Theip ar CSRF."
+
+msgid "CSRF token expired."
+msgstr "chomhartha CSRF imithe in éag."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Rogha Neamhbhailí: níorbh fhéidir comhéigean a dhéanamh."
+
+msgid "Choices cannot be None."
+msgstr "Ní féidir Roghanna a bheith Ceann ar bith."
+
+msgid "Not a valid choice."
+msgstr "Ní rogha bhailí é."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Rogha neamhbhailí: níorbh fhéidir ionchur sonraí amháin nó níos mó a chur"
+" i bhfeidhm."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "Ní rogha bhailí é '%(value)s' don réimse seo."
+
+msgid "Not a valid datetime value."
+msgstr "Ní luach dáta bailí é."
+
+msgid "Not a valid date value."
+msgstr "Ní luach dáta bailí é."
+
+msgid "Not a valid time value."
+msgstr "Ní luach ama bailí é."
+
+msgid "Not a valid week value."
+msgstr "Ní luach bailí seachtaine é."
+
+msgid "Not a valid integer value."
+msgstr "Ní luach slánuimhir bailí é."
+
+msgid "Not a valid decimal value."
+msgstr "Ní luach deachúlach bailí é."
+
+msgid "Not a valid float value."
+msgstr "Ní luach snámhphointe bailí é."
+

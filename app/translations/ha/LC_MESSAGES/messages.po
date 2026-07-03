@@ -1,0 +1,1035 @@
+# Translations for HA.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ha\n"
+"Language-Team: ha <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Da fatan za a shiga don shiga wannan shafin."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "An riga an yi rijista wannan IMEI a cikin tsarin."
+
+msgid "Accès non autorisé."
+msgstr "Samun izini mara izini."
+
+msgid "Appareil déverrouillé."
+msgstr "Na'urar a buɗe"
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "An ƙirƙira faɗakarwa! An aika sanarwar."
+
+msgid "Alerte résolue."
+msgstr "An warware faɗakarwa."
+
+msgid "Pas encore de compte ?"
+msgstr "Babu lissafi tukuna?"
+
+msgid "Mon Profil"
+msgstr "Bayanan Bayani na"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Haɗin ya yi nasara! Barka da zuwa."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Imel ko kalmar sirri mara daidai."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Dole ne a kammala duk filayen da ake buƙata."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Kalmomin sirri ba su daidaita ba."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Dole ne kalmar wucewa ta ƙunshi aƙalla haruffa 6."
+
+msgid "Cet email est déjà utilisé."
+msgstr "An riga an fara amfani da wannan imel ɗin."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "An ƙirƙiri asusu cikin nasara! Shiga."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Ba a sami asusu tare da wannan imel ɗin ba."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Lambar wayar ba ta dace da lambar asusun ba."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Sabuwar kalmar sirri ta zama dole."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Sake saitin kalmar sirri cikin nasara! Shiga."
+
+msgid "Vous avez été déconnecté."
+msgstr "An cire haɗin ku."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Ana buƙatar Brand, samfuri da IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Akwai na'ura mai wannan IMEI."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Na'urar ta yi rijista cikin nasara!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Ba ku da izinin yin wannan aikin."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Na'urar ta kulle cikin nasara cikin nasara."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "An buɗe na'urar cikin nasara."
+
+msgid "Appareil supprimé."
+msgstr "An goge na'urar."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Da fatan za a zaɓi na'ura da nau'in faɗakarwa."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Wannan na'urar ba ta ku ba ce."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "An ruwaito faɗakarwa cikin nasara. An kiyaye na'urar."
+
+msgid "Alerte marquée comme résolue."
+msgstr "An yi alamar faɗakarwa kamar yadda aka warware."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Ana buƙatar sunan farko, sunan ƙarshe da imel."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "An riga an yi amfani da wannan imel ta wani asusu."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "An sabunta bayanin martaba cikin nasara!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "An tanadar damar shiga ga masu gudanarwa."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Kuskure da aka yiwa alama kamar yadda aka warware."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Ba za ku iya share asusun ku ba."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "An yi nasarar goge mai amfani."
+
+msgid "Administration"
+msgstr "Gudanarwa"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Gudanar da tsarin hana sata ta tsakiya"
+
+msgid "Utilisateurs"
+msgstr "Masu amfani"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aiki yau"
+
+msgid "Nouveaux ce mois"
+msgstr "Sabuwa wannan watan"
+
+msgid "Appareils"
+msgstr "Na'urori"
+
+msgid "Alertes actives"
+msgstr "Fadakarwa mai aiki"
+
+msgid "Analytique"
+msgstr "Nazari"
+
+msgid "Journal d'activité"
+msgstr "log ɗin ayyuka"
+
+msgid "Erreurs"
+msgstr "Kurakurai"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Haɗin kai (kwanaki 7 da suka gabata)"
+
+msgid "Alertes par type"
+msgstr "Fadakarwa ta nau'in"
+
+msgid "Appareils par opérateur"
+msgstr "Na'urori ta afareta"
+
+msgid "Résumé du système"
+msgstr "Takaitaccen tsarin"
+
+msgid "Utilisateurs total"
+msgstr "Jimlar masu amfani"
+
+msgid "Appareils enregistrés"
+msgstr "Na'urori masu rijista"
+
+msgid "Total alertes"
+msgstr "Jimillar faɗakarwa"
+
+msgid "Alertes en cours"
+msgstr "Fadakarwa na yanzu"
+
+msgid "Erreurs non résolues"
+msgstr "Kurakurai da ba a warware ba"
+
+msgid "Dernières activités"
+msgstr "Sabbin ayyuka"
+
+msgid "récentes"
+msgstr "kwanan nan"
+
+msgid "Utilisateur"
+msgstr "Mai amfani"
+
+msgid "Action"
+msgstr "Aiki"
+
+msgid "Détails"
+msgstr "Cikakkun bayanai"
+
+msgid "Adresse IP"
+msgstr "Adireshin IP"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Kwanan wata"
+
+msgid "Aucune activité"
+msgstr "Babu aiki"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Ayyukan mai amfani zasu bayyana anan."
+
+msgid "Journal d'erreurs"
+msgstr "Kuskuren log"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Gyara duk kurakurai?"
+
+msgid "Tout résoudre"
+msgstr "Warware komai"
+
+msgid "non résolues"
+msgstr "ba a warware ba"
+
+msgid "Tout est résolu"
+msgstr "Komai ya warware"
+
+msgid "Type"
+msgstr "Irin"
+
+msgid "Description"
+msgstr "Bayani"
+
+msgid "Statut"
+msgstr "Matsayi"
+
+msgid "Résolu"
+msgstr "An warware"
+
+msgid "Non résolu"
+msgstr "Ba a warware ba"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Babu kurakurai da aka yi rikodin"
+
+msgid "Le système fonctionne correctement."
+msgstr "Tsarin yana aiki daidai."
+
+msgid "Gestion des utilisateurs"
+msgstr "Gudanar da mai amfani"
+
+msgid "comptes"
+msgstr "asusun"
+
+msgid "Email"
+msgstr "Imel"
+
+msgid "Téléphone"
+msgstr "Waya"
+
+msgid "Rôle"
+msgstr "Matsayi"
+
+msgid "Inscrit le"
+msgstr "An yi rajista a kan"
+
+msgid "Actions"
+msgstr "Ayyuka"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Share wannan mai amfani da duk na'urorin su?"
+
+msgid "Vous"
+msgstr "KA"
+
+msgid "Connexions"
+msgstr "Haɗin kai"
+
+msgid "Vol"
+msgstr "Jirgin sama"
+
+msgid "Perte"
+msgstr "Asara"
+
+msgid "Anomalie"
+msgstr "Anomaly"
+
+msgid "Alertes"
+msgstr "Fadakarwa"
+
+msgid "Gestion des alertes"
+msgstr "Gudanar da faɗakarwa"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Ba da rahoton sata ko asara da kuma bin tarihin"
+
+msgid "Signaler un vol / perte"
+msgstr "Rahoton sata/asara"
+
+msgid "En cours"
+msgstr "Ana kai"
+
+msgid "Résolues"
+msgstr "An warware"
+
+msgid "Historique des alertes"
+msgstr "Tarihin Fadakarwa"
+
+msgid "Appareil"
+msgstr "Na'ura"
+
+msgid "Priorité"
+msgstr "fifiko"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Alama wannan faɗakarwar kamar yadda aka warware?"
+
+msgid "Résoudre"
+msgstr "Warware"
+
+msgid "Aucune alerte"
+msgstr "Babu faɗakarwa"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Labari mai dadi! Ba a sami rahoton faɗakarwa ba."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Bayar da rahoton sata ko asara"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Ta hanyar ba da rahoton sata, za a kulle na'urarka ta atomatik kuma za a "
+"aika da sanarwa."
+
+msgid "Appareil concerné"
+msgstr "Na'urar da abin ya shafa"
+
+msgid "Sélectionner un appareil"
+msgstr "Zaɓi na'ura"
+
+msgid "Type d'alerte"
+msgstr "Nau'in faɗakarwa"
+
+msgid "Décrivez les circonstances..."
+msgstr "Bayyana yanayin..."
+
+msgid "Annuler"
+msgstr "Soke"
+
+msgid "Signaler"
+msgstr "Rahoton"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Tsarin Yaƙin Sata na Hankali - Dandalin tsaro don wayowin komai da ruwan"
+
+msgid "Système Anti-Vol"
+msgstr "Tsarin hana sata"
+
+msgid "PRINCIPAL"
+msgstr "BABBAR"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "TSARO"
+
+msgid "Géolocalisation"
+msgstr "Yanayin ƙasa"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRATION"
+
+msgid "Déconnexion"
+msgstr "Cire haɗin"
+
+msgid "Changer de langue"
+msgstr "Canja harshe"
+
+msgid "Rechercher une langue..."
+msgstr "Nemi harshe..."
+
+msgid "Profil"
+msgstr "Bayanan martaba"
+
+msgid "Changer de thème"
+msgstr "Canza jigo"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Bayanin tsaro na na'urar ku"
+
+msgid "Ajouter un appareil"
+msgstr "Ƙara na'ura"
+
+msgid "Appareils volés"
+msgstr "Na'urorin da aka sace"
+
+msgid "Verrouillés à distance"
+msgstr "An kulle daga nesa"
+
+msgid "Alertes récentes"
+msgstr "Fadakarwa na baya-bayan nan"
+
+msgid "Voir tout"
+msgstr "Duba duka"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Babu faɗakarwa. Na'urorin ku suna lafiya!"
+
+msgid "Mes appareils"
+msgstr "Na'urori na"
+
+msgid "Aucun appareil enregistré"
+msgstr "Babu na'urori masu rijista"
+
+msgid "Ajouter"
+msgstr "Ƙara"
+
+msgid "en attente"
+msgstr "a riƙe"
+
+msgid "Gestion des appareils"
+msgstr "Gudanar da na'ura"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Yi rijista kuma sarrafa wayoyin hannu"
+
+msgid "Opérateur"
+msgstr "Mai aiki"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Kulle wannan na'urar daga nesa?"
+
+msgid "Verrouiller"
+msgstr "Kulle"
+
+msgid "Déverrouiller"
+msgstr "Buɗe"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Share wannan na'urar?"
+
+msgid "Supprimer"
+msgstr "GAME"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Ƙara wayar hannu ta farko don fara kare ta."
+
+msgid "Nouvel appareil"
+msgstr "Sabuwar na'ura"
+
+msgid "Marque"
+msgstr "Alamar"
+
+msgid "Sélectionner"
+msgstr "Zaɓi"
+
+msgid "Autre"
+msgstr "Sauran"
+
+msgid "Modèle"
+msgstr "Samfura"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "rubuta *#06# a wayarka"
+
+msgid "Système d'exploitation"
+msgstr "Tsarin aiki"
+
+msgid "Numéro de téléphone"
+msgstr "Lambar tarho"
+
+msgid "Enregistrer"
+msgstr "Ajiye"
+
+msgid "Connexion"
+msgstr "Haɗin kai"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Tsarin tsaro na wayar hannu"
+
+msgid "Adresse email"
+msgstr "Adireshin i-mel"
+
+msgid "Mot de passe"
+msgstr "Kalmar wucewa"
+
+msgid "Se connecter"
+msgstr "Shiga"
+
+msgid "Mot de passe oublié ?"
+msgstr "Kalmar sirri da aka manta?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Shin kuna da asusun ajiya? In ba haka ba, ci gaba da ƙirƙirar asusunku!"
+
+msgid "Créer un compte"
+msgstr "Ƙirƙiri lissafi"
+
+msgid "Sécurité maximale"
+msgstr "Matsakaicin tsaro"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Kare keɓaɓɓen bayanan ku tare da kulle nesa"
+
+msgid "Localisation GPS"
+msgstr "Wurin GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Nemo ainihin wurin wayar ku a ainihin lokacin"
+
+msgid "Alertes instantanées"
+msgstr "Nan take faɗakarwa"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Karɓi SMS, imel da sanarwar turawa yayin taron sata"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Nemo na'urorin ku kuma duba wuraren haɗari"
+
+msgid "Aucun appareil"
+msgstr "Babu na'ura"
+
+msgid "Zones à risque"
+msgstr "Wuraren haɗari"
+
+msgid "incidents"
+msgstr "abubuwan da suka faru"
+
+msgid "Aucune zone signalée"
+msgstr "Babu wani yanki da aka ruwaito"
+
+msgid "Niveau"
+msgstr "Mataki"
+
+msgid "Incidents"
+msgstr "Abubuwan da suka faru"
+
+msgid "Profile utilisateur"
+msgstr "Bayanin mai amfani"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Sarrafa keɓaɓɓen bayanin ku"
+
+msgid "Membre depuis"
+msgstr "Member tun"
+
+msgid "Modifier mes informations"
+msgstr "Gyara bayanana"
+
+msgid "Prénom"
+msgstr "Sunan rana"
+
+msgid "Nom"
+msgstr "Suna"
+
+msgid "Changer le mot de passe"
+msgstr "Canza kalmar shiga"
+
+msgid "Nouveau mot de passe"
+msgstr "Sabuwar kalmar sirri"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "bar komai don kar a canza"
+
+msgid "Enregistrer les modifications"
+msgstr "Ajiye canje-canje"
+
+msgid "Inscription"
+msgstr "Rijista"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Barka da zuwa Anti-sata don ingantaccen tsaro na na'urorin ku"
+
+msgid "Confirmer"
+msgstr "Tabbatar"
+
+msgid "Créer mon compte"
+msgstr "Ƙirƙiri asusuna"
+
+msgid "Déjà un compte ?"
+msgstr "Kuna da asusu?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Sake saita kalmar wucewa"
+
+msgid "Réinitialisation"
+msgstr "Sake saiti"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Shigar da imel ɗin ku da lambar wayar don tabbatar da ainihin ku"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Lambar da aka yi amfani da ita yayin rajista"
+
+msgid "Minimum 6 caractères"
+msgstr "Ƙananan haruffa 6"
+
+msgid "Confirmer le mot de passe"
+msgstr "Tabbata kalmar shiga"
+
+msgid "Retourner à la"
+msgstr "Komawa zuwa"
+
+msgid "page de connexion"
+msgstr "shafin shiga"
+
+msgid "Vérification sécurisée"
+msgstr "Amintaccen tabbaci"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Ana tabbatar da asalin ku ta amfani da imel da lambar wayar ku"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Zaɓi amintaccen kalmar sirri mai aƙalla haruffa 6"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{edita}: Gyaran baya ya gaza"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{edita}: Gyaran baya: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Kuskuren Windows: {kuskure}"
+
+msgid "deprecated"
+msgstr "yanke hukunci"
+
+msgid "Options"
+msgstr "Zabuka"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "An sami ƙarin hujjar da ba a zata ba ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: An soke umarnin {name!r}.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Zubar da ciki!"
+
+msgid "Commands"
+msgstr "Umarni"
+
+msgid "Missing command."
+msgstr "Bace umarni."
+
+msgid "Value must be an iterable."
+msgstr "Dole ne kimar ta zama mai yiwuwa."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Yana ɗaukar ƙimar {nargs} amma an ba 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: An soke {param_type} {name!r}.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Sunan ''{name}' an bayyana sau biyu"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Zaɓin Boolean {decl!r} ba zai iya amfani da tuta iri ɗaya don "
+"gaskiya/ƙarya ba."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "An kasa tantance suna don zaɓi tare da bayyanawa {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Babu zaɓuka da aka ayyana amma an ƙaddamar da suna ({name}). Shin kuna "
+"nufin ku bayyana hujja maimakon haka? Kuna nufin wuce '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "wata: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "tsoho: {default}"
+
+msgid "required"
+msgstr "ake bukata"
+
+msgid "(dynamic)"
+msgstr "(tsanaki)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Hujja ta ɗauki daidai bayanin siga guda ɗaya, an sami {tsawon}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Kuna so ku ci gaba?"
+
+msgid "Confirm the action without prompting."
+msgstr "Tabbatar da aikin ba tare da faɗakarwa ba."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, sigar %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Nuna sigar kuma fita."
+
+msgid "Show this message and exit."
+msgstr "Nuna wannan sakon kuma fita."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Kuna nufin {yiwuwa}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Kuskure: {saƙo}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Gwada '{command} {option}' don taimako."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Ƙimar mara inganci: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Ƙimar mara inganci don {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Bace gardama"
+
+msgid "Missing option"
+msgstr "Bace zaɓi"
+
+msgid "Missing parameter"
+msgstr "Bace siga"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Bace {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Bace siga: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Babu irin wannan zaɓin {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Babu irin wannan umarni {name!r}."
+
+msgid "unknown error"
+msgstr "kuskuren da ba a sani ba"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "An kasa buɗe fayil ɗin {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Amfani:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Halin farawa mara inganci don zaɓi ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Hujja {name!r} tana ɗaukar ƙimar {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Zaɓin {name!r} baya ɗaukar ƙima."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Zaɓin {name!r} yana buƙatar hujja."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Ba a tallafawa kammalawar Shell don nau'ikan Bash waɗanda suka girmi 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "An kasa gano nau'in Bash, ba a samun tallafin harsashi."
+
+msgid "Repeat for confirmation"
+msgstr "Maimaita don tabbatarwa"
+
+msgid "Error: The two entered values do not match."
+msgstr "Kuskure: Lambobin da aka shigar guda biyu basu daidaita ba."
+
+msgid "Error: invalid input"
+msgstr "Kuskure: shigarwa mara inganci"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Launi da ba a sani ba {launi!r}"
+
+msgid "Press any key to continue..."
+msgstr "Danna kowane maɓalli don ci gaba..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Zaɓi daga:\\n\\t{zaɓi}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} ba {zabi} bane."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Zabi({zabi})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} bai dace da tsarin {format} ba."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} bashi da inganci {lambar_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{darajar} baya cikin kewayon {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ba ingantaccen boolean bane. Gane ƙimar: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ba ingantaccen UUID bane."
+
+msgid "file"
+msgstr "fayil"
+
+msgid "directory"
+msgstr "directory"
+
+msgid "path"
+msgstr "hanya"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} babu shi."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} fayil ne."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} directory ne."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} ba za a iya karantawa ba."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} ba a iya rubuta shi ba."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} ba za a iya aiwatar da shi ba."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Ana buƙatar ƙimar {len_type}, amma an ba da {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Madaidaicin madaidaicin rafi '{name}'"
+
+msgid "This field is required."
+msgstr "Wannan fillin ana bukatansa."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Fayil ba shi da ingantaccen tsawaitawa: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Fayil ba shi da ingantaccen tsawo."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Dole ne fayil ya kasance tsakanin {min_size} da {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Sunan filin mara inganci '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Dole ne filin ya zama daidai da %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Dole ne filin ya kasance aƙalla tsawon harafi %(min) d."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Filin ba zai iya zama fiye da %(max) d hali ba."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Dole ne filin ya kasance daidai %(max)d tsayin harafi."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Dole ne filin ya kasance tsakanin %(min) d da %(max) d tsayin haruffa."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Dole ne lamba ta zama aƙalla %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Dole ne lamba ta kasance aƙalla %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Dole ne lamba ta kasance tsakanin %(min)s da %(max)s."
+
+msgid "Invalid input."
+msgstr "Shigar da ba daidai ba."
+
+msgid "Invalid email address."
+msgstr "Adireshin imel mara inganci."
+
+msgid "Invalid IP address."
+msgstr "Adireshin IP mara inganci."
+
+msgid "Invalid Mac address."
+msgstr "Adireshin Mac mara inganci."
+
+msgid "Invalid URL."
+msgstr "URL mara inganci."
+
+msgid "Invalid UUID."
+msgstr "UUID mara inganci."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Ƙimar mara inganci, dole ne ta kasance ɗaya daga cikin: %(daraja)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Ƙimar mara inganci, ba zata iya zama ɗaya daga cikin: %(daraja) s."
+
+msgid "This field cannot be edited."
+msgstr "Ba za a iya gyara wannan filin ba."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "An kashe wannan filin kuma ba zai iya samun ƙima ba."
+
+msgid "Invalid CSRF Token."
+msgstr "Alamar CSRF mara aiki."
+
+msgid "CSRF token missing."
+msgstr "Alamar CSRF ta ɓace."
+
+msgid "CSRF failed."
+msgstr "CSRF ta kasa."
+
+msgid "CSRF token expired."
+msgstr "Alamar CSRF ta ƙare."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Zaɓin mara inganci: ba zai iya tilastawa ba."
+
+msgid "Choices cannot be None."
+msgstr "Zaɓuɓɓuka ba zai iya zama Babu."
+
+msgid "Not a valid choice."
+msgstr "Ba ingantaccen zaɓi ba."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Zaɓi(s) mara inganci: ɗaya ko fiye da shigar da bayanai ba za a iya "
+"tilastawa ba."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(darajar)s' ba ingantaccen zaɓi bane ga wannan filin."
+
+msgid "Not a valid datetime value."
+msgstr "Ba ingantaccen ƙimar kwanan wata ba."
+
+msgid "Not a valid date value."
+msgstr "Ba ingantaccen ƙimar kwanan wata ba."
+
+msgid "Not a valid time value."
+msgstr "Ba ingantaccen ƙimar lokaci ba."
+
+msgid "Not a valid week value."
+msgstr "Ba darajar mako mai aiki ba."
+
+msgid "Not a valid integer value."
+msgstr "Ba ingantacciyar ƙimar lamba ba."
+
+msgid "Not a valid decimal value."
+msgstr "Ba ingantaccen ƙima na goma ba."
+
+msgid "Not a valid float value."
+msgstr "Ba ingantacciyar kimar ta iyo ba."
+

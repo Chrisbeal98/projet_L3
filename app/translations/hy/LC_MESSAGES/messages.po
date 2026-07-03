@@ -1,0 +1,1039 @@
+# Translations for HY.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: hy\n"
+"Language-Team: hy <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Խնդրում ենք մուտք գործել՝ այս էջ մուտք գործելու համար:"
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Այս IMEI-ն արդեն գրանցված է համակարգում:"
+
+msgid "Accès non autorisé."
+msgstr "Չլիազորված մուտք:"
+
+msgid "Appareil déverrouillé."
+msgstr "Սարքն ապակողպված է:"
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Ահազանգը ստեղծվեց: Ծանուցումներ են ուղարկվել:"
+
+msgid "Alerte résolue."
+msgstr "Զգուշացումը լուծված է:"
+
+msgid "Pas encore de compte ?"
+msgstr "Դեռ հաշիվ չունե՞ք:"
+
+msgid "Mon Profil"
+msgstr "Իմ պրոֆիլը"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Միացումը հաջողվեց: Բարի գալուստ։"
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Սխալ էլփոստ կամ գաղտնաբառ:"
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Բոլոր պահանջվող դաշտերը պետք է լրացվեն:"
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Գաղտնաբառերը չեն համընկնում:"
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Գաղտնաբառը պետք է պարունակի առնվազն 6 նիշ:"
+
+msgid "Cet email est déjà utilisé."
+msgstr "Այս նամակն արդեն օգտագործվում է:"
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Հաշիվը հաջողությամբ ստեղծվեց: Մուտք գործեք:"
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Այս էլփոստով հաշիվներ չեն գտնվել:"
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Հեռախոսահամարը չի համընկնում հաշվի համարի հետ:"
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Նոր գաղտնաբառը պարտադիր է։"
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Գաղտնաբառը հաջողությամբ վերականգնվեց: Մուտք գործեք:"
+
+msgid "Vous avez été déconnecté."
+msgstr "Դուք անջատվել եք:"
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Պահանջվում է ապրանքանիշ, մոդել և IMEI:"
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Այս IMEI-ով սարքն արդեն գոյություն ունի:"
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Սարքը հաջողությամբ գրանցվեց:"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Դուք իրավասու չեք կատարել այս գործողությունը:"
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Սարքը հաջողությամբ կողպվեց հեռակա կարգով:"
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Սարքը հաջողությամբ ապակողպվեց:"
+
+msgid "Appareil supprimé."
+msgstr "Սարքը ջնջված է:"
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Խնդրում ենք ընտրել սարքը և ազդանշանի տեսակը:"
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Այս սարքը ձեզ չի պատկանում:"
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Զգուշացումը հաջողությամբ հաղորդվեց: Սարքը ապահովված է:"
+
+msgid "Alerte marquée comme résolue."
+msgstr "Զգուշացումը նշված է որպես լուծված:"
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Անունը, ազգանունը և էլ."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Այս նամակն արդեն օգտագործվում է մեկ այլ հաշվի կողմից:"
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Պրոֆիլը հաջողությամբ թարմացվեց:"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Մուտքը վերապահված է ադմինիստրատորներին:"
+
+msgid "Erreur marquée comme résolue."
+msgstr "Սխալը նշված է որպես լուծված:"
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Դուք չեք կարող ջնջել ձեր սեփական հաշիվը:"
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Օգտատերը հաջողությամբ ջնջվեց:"
+
+msgid "Administration"
+msgstr "Վարչություն"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Anti-Theft համակարգի կենտրոնացված կառավարում"
+
+msgid "Utilisateurs"
+msgstr "Օգտատերեր"
+
+msgid "Actifs aujourd'hui"
+msgstr "Ակտիվ այսօր"
+
+msgid "Nouveaux ce mois"
+msgstr "Նոր այս ամիս"
+
+msgid "Appareils"
+msgstr "Սարքեր"
+
+msgid "Alertes actives"
+msgstr "Ակտիվ ահազանգեր"
+
+msgid "Analytique"
+msgstr "Վերլուծական"
+
+msgid "Journal d'activité"
+msgstr "Գործունեության մատյան"
+
+msgid "Erreurs"
+msgstr "Սխալներ"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Միացումներ (վերջին 7 օր)"
+
+msgid "Alertes par type"
+msgstr "Ծանուցումներ ըստ տեսակի"
+
+msgid "Appareils par opérateur"
+msgstr "Սարքեր ըստ օպերատորի"
+
+msgid "Résumé du système"
+msgstr "Համակարգի ամփոփում"
+
+msgid "Utilisateurs total"
+msgstr "Ընդհանուր օգտվողներ"
+
+msgid "Appareils enregistrés"
+msgstr "Գրանցված սարքեր"
+
+msgid "Total alertes"
+msgstr "Ընդհանուր հիշեցումներ"
+
+msgid "Alertes en cours"
+msgstr "Ընթացիկ ահազանգեր"
+
+msgid "Erreurs non résolues"
+msgstr "Չլուծված սխալներ"
+
+msgid "Dernières activités"
+msgstr "Վերջին գործունեությունը"
+
+msgid "récentes"
+msgstr "վերջերս"
+
+msgid "Utilisateur"
+msgstr "Օգտատեր"
+
+msgid "Action"
+msgstr "Գործողություն"
+
+msgid "Détails"
+msgstr "Մանրամասներ"
+
+msgid "Adresse IP"
+msgstr "IP հասցե"
+
+msgid "Navigateur"
+msgstr "Բրաուզեր"
+
+msgid "Date"
+msgstr "Ամսաթիվ"
+
+msgid "Aucune activité"
+msgstr "Ոչ մի գործունեություն"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Օգտատիրոջ գործողությունները կհայտնվեն այստեղ:"
+
+msgid "Journal d'erreurs"
+msgstr "Սխալների մատյան"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Ուղղե՞լ բոլոր սխալները:"
+
+msgid "Tout résoudre"
+msgstr "Լուծեք ամեն ինչ"
+
+msgid "non résolues"
+msgstr "չլուծված"
+
+msgid "Tout est résolu"
+msgstr "Ամեն ինչ լուծված է"
+
+msgid "Type"
+msgstr "Բարի"
+
+msgid "Description"
+msgstr "Նկարագրություն"
+
+msgid "Statut"
+msgstr "Կարգավիճակ"
+
+msgid "Résolu"
+msgstr "Լուծվել է"
+
+msgid "Non résolu"
+msgstr "Չլուծված"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Սխալներ չեն գրանցվել"
+
+msgid "Le système fonctionne correctement."
+msgstr "Համակարգը նորմալ է աշխատում։"
+
+msgid "Gestion des utilisateurs"
+msgstr "Օգտագործողի կառավարում"
+
+msgid "comptes"
+msgstr "հաշիվներ"
+
+msgid "Email"
+msgstr "Էլ.փոստ"
+
+msgid "Téléphone"
+msgstr "Հեռախոս"
+
+msgid "Rôle"
+msgstr "Դեր"
+
+msgid "Inscrit le"
+msgstr "Գրանցված է"
+
+msgid "Actions"
+msgstr "Գործողություններ"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Ջնջե՞լ այս օգտվողին և նրա բոլոր սարքերը:"
+
+msgid "Vous"
+msgstr "ԴՈՒ"
+
+msgid "Connexions"
+msgstr "Միացումներ"
+
+msgid "Vol"
+msgstr "Թռիչք"
+
+msgid "Perte"
+msgstr "Կորուստ"
+
+msgid "Anomalie"
+msgstr "Անոմալիա"
+
+msgid "Alertes"
+msgstr "Ահազանգեր"
+
+msgid "Gestion des alertes"
+msgstr "Ահազանգերի կառավարում"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Հաղորդեք գողության կամ կորստի մասին և հետևեք պատմությանը"
+
+msgid "Signaler un vol / perte"
+msgstr "Հաղորդել գողության/կորստի մասին"
+
+msgid "En cours"
+msgstr "Ընթացքի մեջ է"
+
+msgid "Résolues"
+msgstr "Լուծվել է"
+
+msgid "Historique des alertes"
+msgstr "Զգուշացման պատմություն"
+
+msgid "Appareil"
+msgstr "Սարք"
+
+msgid "Priorité"
+msgstr "Առաջնահերթություն"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Նշե՞լ այս ահազանգը որպես լուծված:"
+
+msgid "Résoudre"
+msgstr "Լուծել"
+
+msgid "Aucune alerte"
+msgstr "Զգուշացում չկա"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Լավ լուր։ Ահազանգեր չեն հաղորդվել:"
+
+msgid "Signaler un vol ou une perte"
+msgstr "Հաղորդեք գողության կամ կորստի մասին"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Հաղորդելով գողության մասին՝ ձեր սարքն ավտոմատ կերպով կկողպվի, և "
+"ծանուցումներ կուղարկվեն:"
+
+msgid "Appareil concerné"
+msgstr "Ազդեցված սարքը"
+
+msgid "Sélectionner un appareil"
+msgstr "Ընտրեք սարք"
+
+msgid "Type d'alerte"
+msgstr "Զգուշացման տեսակը"
+
+msgid "Décrivez les circonstances..."
+msgstr "Նկարագրե՛ք հանգամանքները..."
+
+msgid "Annuler"
+msgstr "Չեղարկել"
+
+msgid "Signaler"
+msgstr "Հաշվետվություն"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Խելացի հակագողության համակարգ — Անվտանգության հարթակ սմարթֆոնների համար"
+
+msgid "Système Anti-Vol"
+msgstr "Հակագողության համակարգ"
+
+msgid "PRINCIPAL"
+msgstr "ՀԻՄՆԱԿԱՆ"
+
+msgid "Tableau de bord"
+msgstr "Վահանակ"
+
+msgid "SÉCURITÉ"
+msgstr "ԱՆՎՏԱՆԳՈՒԹՅՈՒՆ"
+
+msgid "Géolocalisation"
+msgstr "Երկրաբաշխություն"
+
+msgid "ADMINISTRATION"
+msgstr "ՎԱՐՉԱՊԵՏՈՒԹՅՈՒՆ"
+
+msgid "Déconnexion"
+msgstr "Անջատել"
+
+msgid "Changer de langue"
+msgstr "Փոխել լեզուն"
+
+msgid "Rechercher une langue..."
+msgstr "Որոնել լեզու..."
+
+msgid "Profil"
+msgstr "Անձնագիր"
+
+msgid "Changer de thème"
+msgstr "Փոխել թեման"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Ձեր սարքի անվտանգության ակնարկ"
+
+msgid "Ajouter un appareil"
+msgstr "Ավելացնել սարք"
+
+msgid "Appareils volés"
+msgstr "Գողացված սարքեր"
+
+msgid "Verrouillés à distance"
+msgstr "Հեռակա կողպված"
+
+msgid "Alertes récentes"
+msgstr "Վերջին ահազանգերը"
+
+msgid "Voir tout"
+msgstr "Տես բոլորը"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Զգուշացում չկա: Ձեր սարքերն ապահով են:"
+
+msgid "Mes appareils"
+msgstr "Իմ սարքերը"
+
+msgid "Aucun appareil enregistré"
+msgstr "Գրանցված սարքեր չկան"
+
+msgid "Ajouter"
+msgstr "Ավելացնել"
+
+msgid "en attente"
+msgstr "սպասման մեջ"
+
+msgid "Gestion des appareils"
+msgstr "Սարքի կառավարում"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Գրանցվեք և կառավարեք ձեր սմարթֆոնները"
+
+msgid "Opérateur"
+msgstr "Օպերատոր"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Կողպե՞լ այս սարքը հեռակա կարգով:"
+
+msgid "Verrouiller"
+msgstr "Կողպեք"
+
+msgid "Déverrouiller"
+msgstr "Ապակողպել"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Ջնջե՞լ այս սարքը:"
+
+msgid "Supprimer"
+msgstr "ՋՆՋԵԼ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Ավելացրեք ձեր առաջին սմարթֆոնը՝ այն պաշտպանելու համար:"
+
+msgid "Nouvel appareil"
+msgstr "Նոր սարք"
+
+msgid "Marque"
+msgstr "Բրենդ"
+
+msgid "Sélectionner"
+msgstr "Ընտրել"
+
+msgid "Autre"
+msgstr "Այլ"
+
+msgid "Modèle"
+msgstr "Մոդել"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "մուտքագրեք *#06# ձեր հեռախոսում"
+
+msgid "Système d'exploitation"
+msgstr "Օպերացիոն համակարգ"
+
+msgid "Numéro de téléphone"
+msgstr "Հեռախոսահամար"
+
+msgid "Enregistrer"
+msgstr "Պահպանել"
+
+msgid "Connexion"
+msgstr "Միացում"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Սմարթֆոնի անվտանգության համակարգ"
+
+msgid "Adresse email"
+msgstr "Էլեկտրոնային փոստի հասցե"
+
+msgid "Mot de passe"
+msgstr "Գաղտնաբառ"
+
+msgid "Se connecter"
+msgstr "Մուտք գործեք"
+
+msgid "Mot de passe oublié ?"
+msgstr "Մոռացե՞լ եք գաղտնաբառը"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Դուք արդեն ունե՞ք հաշիվ: Հակառակ դեպքում, շարունակեք ստեղծել ձեր հաշիվը:"
+
+msgid "Créer un compte"
+msgstr "Ստեղծեք հաշիվ"
+
+msgid "Sécurité maximale"
+msgstr "Առավելագույն անվտանգություն"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Պաշտպանեք ձեր անձնական տվյալները հեռակա կողպման միջոցով"
+
+msgid "Localisation GPS"
+msgstr "GPS գտնվելու վայրը"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Գտեք ձեր սմարթֆոնի ճշգրիտ գտնվելու վայրը իրական ժամանակում"
+
+msgid "Alertes instantanées"
+msgstr "Ակնթարթային ահազանգեր"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Գողության դեպքում ստացեք SMS, էլեկտրոնային փոստ և push ծանուցումներ"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Տեղադրեք ձեր սարքերը և պատկերացրեք ռիսկային տարածքները"
+
+msgid "Aucun appareil"
+msgstr "Ոչ մի սարք"
+
+msgid "Zones à risque"
+msgstr "Ռիսկային տարածքներ"
+
+msgid "incidents"
+msgstr "միջադեպեր"
+
+msgid "Aucune zone signalée"
+msgstr "Ոչ մի տարածք չի հաղորդվում"
+
+msgid "Niveau"
+msgstr "Մակարդակ"
+
+msgid "Incidents"
+msgstr "Միջադեպեր"
+
+msgid "Profile utilisateur"
+msgstr "Օգտվողի պրոֆիլը"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Կառավարեք ձեր անձնական տվյալները"
+
+msgid "Membre depuis"
+msgstr "Անդամ է"
+
+msgid "Modifier mes informations"
+msgstr "Խմբագրել իմ տվյալները"
+
+msgid "Prénom"
+msgstr "Անուն"
+
+msgid "Nom"
+msgstr "Անուն"
+
+msgid "Changer le mot de passe"
+msgstr "Փոխել գաղտնաբառը"
+
+msgid "Nouveau mot de passe"
+msgstr "Նոր գաղտնաբառ"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "թողնել դատարկ՝ չփոխելու համար"
+
+msgid "Enregistrer les modifications"
+msgstr "Պահպանել փոփոխությունները"
+
+msgid "Inscription"
+msgstr "Գրանցում"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Բարի գալուստ Anti-Theft՝ ձեր սարքերի ավելի լավ անվտանգության համար"
+
+msgid "Confirmer"
+msgstr "Հաստատել"
+
+msgid "Créer mon compte"
+msgstr "Ստեղծեք իմ հաշիվը"
+
+msgid "Déjà un compte ?"
+msgstr "Արդեն ունե՞ք հաշիվ:"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Վերականգնել գաղտնաբառը"
+
+msgid "Réinitialisation"
+msgstr "Վերականգնել"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Մուտքագրեք ձեր էլ․ հասցեն և հեռախոսահամարը՝ ձեր ինքնությունը հաստատելու "
+"համար"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Գրանցման ժամանակ օգտագործված համարը"
+
+msgid "Minimum 6 caractères"
+msgstr "Առնվազն 6 նիշ"
+
+msgid "Confirmer le mot de passe"
+msgstr "Հաստատեք գաղտնաբառը"
+
+msgid "Retourner à la"
+msgstr "Վերադարձ դեպի"
+
+msgid "page de connexion"
+msgstr "մուտքի էջ"
+
+msgid "Vérification sécurisée"
+msgstr "Անվտանգ ստուգում"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Ձեր ինքնությունը հաստատվում է ձեր էլ.փոստի և հեռախոսահամարի միջոցով"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Ընտրեք առնվազն 6 նիշից բաղկացած անվտանգ գաղտնաբառ"
+
+msgid "d"
+msgstr "դ"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}. Խմբագրումը ձախողվեց"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}. Չհաջողվեց խմբագրել. {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows-ի սխալ՝ {error}"
+
+msgid "deprecated"
+msgstr "հնացած"
+
+msgid "Options"
+msgstr "Ընտրանքներ"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Ստացվեց անսպասելի լրացուցիչ փաստարկ ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationԶգուշացում. {name!r} հրամանը հնացել է:{extra_message}"
+
+msgid "Aborted!"
+msgstr "Ընդհատված!"
+
+msgid "Commands"
+msgstr "Հրամաններ"
+
+msgid "Missing command."
+msgstr "Հրաման բացակայում է:"
+
+msgid "Value must be an iterable."
+msgstr "Արժեքը պետք է լինի կրկնվող:"
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Ընդունում է {nargs} արժեքներ, բայց տրվել է 1:"
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationԶգուշացում. {param_type} {name!r}-ը հնացած է:{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "«{name}» անունը սահմանվել է երկու անգամ"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Բուլյան տարբերակը {decl!r} չի կարող օգտագործել նույն դրոշը true/false-ի "
+"համար:"
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Չհաջողվեց որոշել տարբերակի անունը {decls!r} հայտարարություններով"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Ընտրանքներ սահմանված չեն, բայց անուն է փոխանցվել ({name}): Ուզում էիք դրա"
+" փոխարեն փաստարկ հայտարարել: Ուզում էիք անցնել «--{name}»-ը:"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var՝ {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "լռելյայն՝ {default}"
+
+msgid "required"
+msgstr "պահանջվում է"
+
+msgid "(dynamic)"
+msgstr "(դինամիկ)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Փաստարկները վերցնում են ուղիղ մեկ պարամետրի հայտարարություն, ստացել են "
+"{length}՝ {decls}:"
+
+msgid "Do you want to continue?"
+msgstr "Ցանկանու՞մ եք շարունակել։"
+
+msgid "Confirm the action without prompting."
+msgstr "Հաստատեք գործողությունը առանց հուշելու:"
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, %(version)s տարբերակ"
+
+msgid "Show the version and exit."
+msgstr "Ցույց տալ տարբերակը և դուրս գալ:"
+
+msgid "Show this message and exit."
+msgstr "Ցույց տալ այս հաղորդագրությունը և դուրս գալ:"
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Դուք նկատի ունեիք {հնարավորություն}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Սխալ՝ {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Օգնության համար փորձեք «{command} {option}»:"
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Անվավեր արժեք՝ {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Անվավեր արժեք {param_hint}-ի համար՝ {message}"
+
+msgid "Missing argument"
+msgstr "Բացակայող փաստարկ"
+
+msgid "Missing option"
+msgstr "Բացակայող տարբերակ"
+
+msgid "Missing parameter"
+msgstr "Պարամետրը բացակայում է"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Բացակայում է {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Բացակայում է պարամետրը՝ {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Նման տարբերակ {name!r} չկա:"
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Նման հրաման չկա {name!r}:"
+
+msgid "unknown error"
+msgstr "անհայտ սխալ"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Չհաջողվեց բացել {filename!r} ֆայլը՝ {message}"
+
+msgid "Usage:"
+msgstr "Օգտագործեք:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Տարբերակի անվավեր մեկնարկային նիշ ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Արգումենտը {name!r} ընդունում է {nargs} արժեքներ:"
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Տարբերակը {name!r} արժեք չի ընդունում:"
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Տարբերակ {name!r} պահանջում է արգումենտ:"
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell-ի լրացումը չի աջակցվում 4.4-ից ավելի Bash տարբերակների համար:"
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Չհաջողվեց հայտնաբերել Bash տարբերակը, կեղևի լրացումը չի աջակցվում:"
+
+msgid "Repeat for confirmation"
+msgstr "Կրկնեք հաստատման համար"
+
+msgid "Error: The two entered values do not match."
+msgstr "Սխալ․ մուտքագրված երկու արժեքները չեն համընկնում։"
+
+msgid "Error: invalid input"
+msgstr "Սխալ. սխալ մուտքագրում"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Անհայտ գույն {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Շարունակելու համար սեղմեք ցանկացած ստեղն..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Ընտրեք հետևյալից՝\\n\\t{ընտրություններ}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r}-ը {choice} չէ:"
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Ընտրություն ({ընտրություններ})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r}-ը չի համապատասխանում {format} ձևաչափին:"
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r}-ը վավեր {number_type} չէ:"
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value}-ը {range} միջակայքում չէ:"
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r}-ը վավեր բուլյան չէ: Ճանաչված արժեքներ՝ {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r}-ը վավեր UUID չէ:"
+
+msgid "file"
+msgstr "ֆայլ"
+
+msgid "directory"
+msgstr "գրացուցակ"
+
+msgid "path"
+msgstr "ուղին"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} գոյություն չունի:"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r}-ը ֆայլ է:"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r}-ը գրացուցակ է:"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r}-ը ընթեռնելի չէ:"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r}-ը գրելու ենթակա չէ:"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r}-ը գործարկելի չէ:"
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Պահանջվում են {len_type} արժեքներ, սակայն տրվել է {len_value}:"
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Անհայտ ստանդարտ հոսք «{name}»"
+
+msgid "This field is required."
+msgstr "Այս դաշտը պարտադիր է:"
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Ֆայլը չունի հաստատված ընդլայնում. {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Ֆայլը չունի հաստատված ընդլայնում:"
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Ֆայլը պետք է լինի {min_size}-ից մինչև {max_size} բայթ:"
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "«%s» դաշտի անվավեր անուն:"
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Դաշտը պետք է հավասար լինի %(other_name)s-ին:"
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Դաշտը պետք է լինի առնվազն %(min)d նիշ երկարությամբ:"
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Դաշտը չի կարող ավելի երկար լինել, քան %(max)d նիշը:"
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Դաշտը պետք է ունենա ճշգրիտ %(max)d նիշ:"
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Դաշտը պետք է լինի %(min)d և %(max)d նիշերի միջև:"
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Համարը պետք է լինի առնվազն %(min)s:"
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Թիվը պետք է լինի առավելագույնը %(max)s:"
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Թիվը պետք է լինի %(min)s-ի և %(max)s-ի միջև:"
+
+msgid "Invalid input."
+msgstr "Անվավեր մուտքագրում:"
+
+msgid "Invalid email address."
+msgstr "Անվավեր էլ․ հասցե։"
+
+msgid "Invalid IP address."
+msgstr "Անվավեր IP հասցե:"
+
+msgid "Invalid Mac address."
+msgstr "Mac-ի անվավեր հասցե:"
+
+msgid "Invalid URL."
+msgstr "Անվավեր URL:"
+
+msgid "Invalid UUID."
+msgstr "Անվավեր UUID:"
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Անվավեր արժեք, պետք է լինի %(values)s-ից մեկը:"
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Անվավեր արժեք, չի կարող լինել %(values)s-ից որևէ մեկը:"
+
+msgid "This field cannot be edited."
+msgstr "Այս դաշտը հնարավոր չէ խմբագրել:"
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Այս դաշտն անջատված է և արժեք չի կարող ունենալ:"
+
+msgid "Invalid CSRF Token."
+msgstr "Անվավեր CSRF նշան:"
+
+msgid "CSRF token missing."
+msgstr "CSRF նշանը բացակայում է:"
+
+msgid "CSRF failed."
+msgstr "CSRF-ը ձախողվեց."
+
+msgid "CSRF token expired."
+msgstr "CSRF նշանի ժամկետը սպառվել է:"
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Անվավեր ընտրություն. չկարողացա ստիպել:"
+
+msgid "Choices cannot be None."
+msgstr "Ընտրությունները չեն կարող լինել Ոչ մեկը:"
+
+msgid "Not a valid choice."
+msgstr "Վավեր ընտրություն չէ:"
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Անվավեր ընտրություն(ներ). մեկ կամ մի քանի տվյալների մուտքագրում հնարավոր "
+"չէ պարտադրել:"
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "«%(value)s»-ն այս դաշտի համար վավեր ընտրություն չէ:"
+
+msgid "Not a valid datetime value."
+msgstr "Ամսաթվերի վավեր արժեք չէ:"
+
+msgid "Not a valid date value."
+msgstr "Ամսաթվի վավեր արժեք չէ:"
+
+msgid "Not a valid time value."
+msgstr "Վավեր ժամանակային արժեք չէ:"
+
+msgid "Not a valid week value."
+msgstr "Շաբաթվա վավեր արժեք չէ:"
+
+msgid "Not a valid integer value."
+msgstr "Վավեր ամբողջ արժեք չէ:"
+
+msgid "Not a valid decimal value."
+msgstr "Վավեր տասնորդական արժեք չէ:"
+
+msgid "Not a valid float value."
+msgstr "Վավեր լողացող արժեք չէ:"
+

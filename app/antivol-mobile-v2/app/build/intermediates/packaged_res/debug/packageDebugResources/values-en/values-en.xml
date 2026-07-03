@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alerts_title">Alerts</string>
+    <string name="app_name">Antivol Intelligent</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="email_hint">Email</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="has_account">Already have an account? Sign in</string>
+    <string name="lock_enter_code">Enter unlock code</string>
+    <string name="lock_title">Device locked</string>
+    <string name="login_button">Sign in</string>
+    <string name="login_title">Login</string>
+    <string name="monitoring_active">Protection active - Monitoring in progress</string>
+    <string name="monitoring_inactive">Monitoring stopped</string>
+    <string name="no_account">No account? Sign up</string>
+    <string name="password_hint">Password</string>
+    <string name="profile_title">Profile</string>
+    <string name="register_button">Create account</string>
+    <string name="register_device">Register device</string>
+    <string name="register_title">Create Account</string>
+    <string name="settings_title">Settings</string>
+    <string name="splash_subtitle">Smart Anti-Theft System</string>
+    <string name="start_monitoring">Start monitoring</string>
+    <string name="stop_monitoring">Stop monitoring</string>
+    <string name="unlock_button">Unlock</string>
+</resources>

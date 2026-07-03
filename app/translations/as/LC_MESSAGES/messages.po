@@ -1,0 +1,1034 @@
+# Translations for AS.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: as\n"
+"Language-Team: as <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "এই পৃষ্ঠাত প্ৰৱেশ কৰিবলৈ অনুগ্ৰহ কৰি লগ ইন কৰক।"
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "এই IMEI ইতিমধ্যে চিস্টেমত পঞ্জীয়ন কৰা হৈছে।"
+
+msgid "Accès non autorisé."
+msgstr "অকৰ্তৃত্বশীল প্ৰৱেশ।"
+
+msgid "Appareil déverrouillé."
+msgstr "ডিভাইচ আনলক কৰা হৈছে।"
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "সতৰ্কবাণী সৃষ্টি কৰা হৈছে! প্ৰেৰণ কৰা জাননী।"
+
+msgid "Alerte résolue."
+msgstr "সতৰ্কবাণী সমাধান হ’ল।"
+
+msgid "Pas encore de compte ?"
+msgstr "এতিয়াও কোনো একাউণ্ট নাই?"
+
+msgid "Mon Profil"
+msgstr "মোৰ প্ৰফাইল"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "সংযোগ সফল! স্বাগতম।"
+
+msgid "Email ou mot de passe incorrect."
+msgstr "ভুল ইমেইল বা পাছৱৰ্ড।"
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "প্ৰয়োজনীয় সকলো ক্ষেত্ৰ সম্পূৰ্ণ কৰিব লাগিব।"
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "পাছৱৰ্ডৰ মিল নাই।"
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "পাছৱৰ্ডত অন্ততঃ ৬টা আখৰ থাকিব লাগিব।"
+
+msgid "Cet email est déjà utilisé."
+msgstr "এই ইমেইল ইতিমধ্যে ব্যৱহাৰ কৰা হৈছে।"
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "একাউণ্ট সফলতাৰে সৃষ্টি কৰা হ'ল! লগ ইন কৰক।"
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "এই ইমেইলৰ সৈতে কোনো একাউণ্ট পোৱা নগ'ল।"
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "ফোন নম্বৰটো একাউণ্ট নম্বৰৰ লগত মিল নাথাকে।"
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "নতুন পাছৱৰ্ডটো বাধ্যতামূলক।"
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "পাছৱৰ্ড সফলভাৱে ৰিছেট কৰক! লগ ইন কৰক।"
+
+msgid "Vous avez été déconnecté."
+msgstr "আপোনাৰ সংযোগ বিচ্ছিন্ন কৰা হৈছে।"
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "ব্ৰেণ্ড, মডেল আৰু আইএমইআইৰ প্ৰয়োজন।"
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "এই IMEI ৰ সৈতে এটা ডিভাইচ ইতিমধ্যে আছে।"
+
+msgid "Appareil enregistré avec succès !"
+msgstr "ডিভাইচ সফলতাৰে পঞ্জীয়ন কৰা হৈছে!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "এই কাৰ্য্য কৰিবলৈ আপুনি অনুমোদিত নহয়।"
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "ডিভাইচটো দূৰৱৰ্তীভাৱে সফলভাৱে লক কৰা হৈছে।"
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "ডিভাইচ সফলতাৰে আনলক কৰা হৈছে।"
+
+msgid "Appareil supprimé."
+msgstr "ডিভাইচ মচি পেলোৱা হৈছে।"
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "অনুগ্ৰহ কৰি এটা ডিভাইচ আৰু সতৰ্কবাণী ধৰণ নিৰ্ব্বাচন কৰক।"
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "এই ডিভাইচটো আপোনাৰ নহয়।"
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "সতৰ্কতাৰে ৰিপৰ্ট কৰিলে। ডিভাইচটো সুৰক্ষিত কৰা হৈছে।"
+
+msgid "Alerte marquée comme résolue."
+msgstr "সমাধান কৰা বুলি চিহ্নিত কৰা সতৰ্কবাণী।"
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "প্ৰথম নাম, শেষ নাম আৰু ইমেইলৰ প্ৰয়োজন।"
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "এই ইমেইলটো ইতিমধ্যে আন একাউণ্টে ব্যৱহাৰ কৰিছে।"
+
+msgid "Profil mis à jour avec succès !"
+msgstr "প্ৰফাইল সফলতাৰে আপডেট কৰা হৈছে!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "প্ৰশাসকৰ বাবে অভিগম সংৰক্ষিত।"
+
+msgid "Erreur marquée comme résolue."
+msgstr "সমাধান হোৱা বুলি চিহ্নিত কৰা ভুল।"
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "আপুনি নিজৰ একাউণ্টটো মচি পেলাব নোৱাৰে।"
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "ব্যৱহাৰকাৰী সফলতাৰে মচি পেলোৱা হৈছে।"
+
+msgid "Administration"
+msgstr "প্ৰশাসন"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "চুৰি বিৰোধী ব্যৱস্থাৰ কেন্দ্ৰীভূত ব্যৱস্থাপনা"
+
+msgid "Utilisateurs"
+msgstr "ব্যৱহাৰকাৰীসকল"
+
+msgid "Actifs aujourd'hui"
+msgstr "আজি সক্ৰিয়"
+
+msgid "Nouveaux ce mois"
+msgstr "এই মাহত নতুন"
+
+msgid "Appareils"
+msgstr "ডিভাইচসমূহ"
+
+msgid "Alertes actives"
+msgstr "সক্ৰিয় সতৰ্কবাণী"
+
+msgid "Analytique"
+msgstr "বিশ্লেষণাত্মক"
+
+msgid "Journal d'activité"
+msgstr "কাৰ্য্যকলাপৰ লগ"
+
+msgid "Erreurs"
+msgstr "ভুল"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "সংযোগসমূহ (যোৱা ৭ দিন)"
+
+msgid "Alertes par type"
+msgstr "ধৰণ অনুসৰি সতৰ্কবাণী"
+
+msgid "Appareils par opérateur"
+msgstr "অপাৰেটৰৰ দ্বাৰা ডিভাইচসমূহ"
+
+msgid "Résumé du système"
+msgstr "ব্যৱস্থাপ্ৰণালীৰ সাৰাংশ"
+
+msgid "Utilisateurs total"
+msgstr "মুঠ ব্যৱহাৰকাৰী"
+
+msgid "Appareils enregistrés"
+msgstr "পঞ্জীয়নভুক্ত ডিভাইচসমূহ"
+
+msgid "Total alertes"
+msgstr "মুঠ সতৰ্কবাণী"
+
+msgid "Alertes en cours"
+msgstr "বৰ্তমানৰ সতৰ্কবাণীসমূহ"
+
+msgid "Erreurs non résolues"
+msgstr "সমাধান নোহোৱা ভুল"
+
+msgid "Dernières activités"
+msgstr "শেহতীয়া কাৰ্য্যকলাপ"
+
+msgid "récentes"
+msgstr "শেহতীয়া"
+
+msgid "Utilisateur"
+msgstr "ব্যৱহাৰকাৰী"
+
+msgid "Action"
+msgstr "কাৰ্য কৰা"
+
+msgid "Détails"
+msgstr "সবিশেষ"
+
+msgid "Adresse IP"
+msgstr "আই পি ঠিকনা"
+
+msgid "Navigateur"
+msgstr "ব্ৰাউজাৰ"
+
+msgid "Date"
+msgstr "তাৰিখ"
+
+msgid "Aucune activité"
+msgstr "কোনো কাৰ্য্যকলাপ নাই"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "ব্যৱহাৰকাৰীৰ কাৰ্য্যকলাপ ইয়াত দেখা যাব।"
+
+msgid "Journal d'erreurs"
+msgstr "ত্ৰুটি লগ"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "সকলো ভুল ঠিক কৰা?"
+
+msgid "Tout résoudre"
+msgstr "সকলো সমাধান কৰক"
+
+msgid "non résolues"
+msgstr "অমীমাংসিত"
+
+msgid "Tout est résolu"
+msgstr "সকলো সমাধান হৈ গৈছে"
+
+msgid "Type"
+msgstr "দয়ালু"
+
+msgid "Description"
+msgstr "বিৱৰণ"
+
+msgid "Statut"
+msgstr "স্থিতি"
+
+msgid "Résolu"
+msgstr "সমাধান কৰা হৈছে"
+
+msgid "Non résolu"
+msgstr "অমীমাংসিত"
+
+msgid "Aucune erreur enregistrée"
+msgstr "কোনো ভুল ৰেকৰ্ড কৰা হোৱা নাই"
+
+msgid "Le système fonctionne correctement."
+msgstr "ব্যৱস্থাটোৱে সঠিকভাৱে কাম কৰি আছে।"
+
+msgid "Gestion des utilisateurs"
+msgstr "ব্যৱহাৰকাৰী ব্যৱস্থাপনা"
+
+msgid "comptes"
+msgstr "একাউণ্টসমূহ"
+
+msgid "Email"
+msgstr "ই-মেইল"
+
+msgid "Téléphone"
+msgstr "ফোন"
+
+msgid "Rôle"
+msgstr "ভূমিকা"
+
+msgid "Inscrit le"
+msgstr "পঞ্জীয়ন কৰা হৈছে"
+
+msgid "Actions"
+msgstr "কাৰ্য্য"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "এই ব্যৱহাৰকাৰী আৰু তেওঁলোকৰ সকলো ডিভাইচ মচি পেলাওক?"
+
+msgid "Vous"
+msgstr "আপুনি"
+
+msgid "Connexions"
+msgstr "সংযোগসমূহ"
+
+msgid "Vol"
+msgstr "উৰাজাহাজ"
+
+msgid "Perte"
+msgstr "ক্ষতি"
+
+msgid "Anomalie"
+msgstr "বিজুতি"
+
+msgid "Alertes"
+msgstr "সতৰ্কবাণী"
+
+msgid "Gestion des alertes"
+msgstr "সতৰ্কতা ব্যৱস্থাপনা"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "চুৰি বা লোকচানৰ ৰিপৰ্ট কৰক আৰু ইতিহাস অনুসৰণ কৰক"
+
+msgid "Signaler un vol / perte"
+msgstr "চুৰি/ক্ষতিৰ ৰিপৰ্ট কৰক"
+
+msgid "En cours"
+msgstr "চলি আছে"
+
+msgid "Résolues"
+msgstr "সমাধান কৰা হৈছে"
+
+msgid "Historique des alertes"
+msgstr "সতৰ্কবাণী ইতিহাস"
+
+msgid "Appareil"
+msgstr "ডিভাইচ"
+
+msgid "Priorité"
+msgstr "অগ্ৰাধিকাৰ"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "এই সতৰ্কবাণীটো সমাধান কৰা বুলি চিহ্নিত কৰক?"
+
+msgid "Résoudre"
+msgstr "সমাধান"
+
+msgid "Aucune alerte"
+msgstr "কোনো সতৰ্কবাণী নাই"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "ভাল খবৰ! কোনো সতৰ্কবাণীৰ খবৰ দিয়া হোৱা নাই।"
+
+msgid "Signaler un vol ou une perte"
+msgstr "চুৰি বা লোকচানৰ ৰিপৰ্ট কৰক"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"চুৰিৰ ৰিপৰ্ট দিলে, আপোনাৰ ডিভাইচ স্বয়ংক্ৰিয়ভাৱে লক হ'ব আৰু জাননীসমূহ "
+"প্ৰেৰণ কৰা হ'ব।"
+
+msgid "Appareil concerné"
+msgstr "প্ৰভাৱিত ডিভাইচ"
+
+msgid "Sélectionner un appareil"
+msgstr "এটা ডিভাইচ নিৰ্ব্বাচন কৰক"
+
+msgid "Type d'alerte"
+msgstr "সতৰ্কবাণীৰ ধৰণ"
+
+msgid "Décrivez les circonstances..."
+msgstr "পৰিস্থিতি বৰ্ণনা..."
+
+msgid "Annuler"
+msgstr "বাতিল কৰক"
+
+msgid "Signaler"
+msgstr "অভিযোগ কৰা"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "বুদ্ধিমত্তাসম্পন্ন চুৰি বিৰোধী ব্যৱস্থা — স্মাৰ্টফোনৰ বাবে সুৰক্ষা মঞ্চ"
+
+msgid "Système Anti-Vol"
+msgstr "চুৰি বিৰোধী ব্যৱস্থা"
+
+msgid "PRINCIPAL"
+msgstr "প্ৰধান"
+
+msgid "Tableau de bord"
+msgstr "ডেচব'ৰ্ড"
+
+msgid "SÉCURITÉ"
+msgstr "সুৰক্ষা"
+
+msgid "Géolocalisation"
+msgstr "ভূ-অৱস্থান"
+
+msgid "ADMINISTRATION"
+msgstr "প্ৰশাসন"
+
+msgid "Déconnexion"
+msgstr "সংযোগ বিচ্ছিন্ন কৰক"
+
+msgid "Changer de langue"
+msgstr "ভাষা সলনি কৰক"
+
+msgid "Rechercher une langue..."
+msgstr "একটি ভাষা জন্য অনুসন্ধান..."
+
+msgid "Profil"
+msgstr "ৰূপৰেখা"
+
+msgid "Changer de thème"
+msgstr "থিম সলনি কৰক"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "আপোনাৰ ডিভাইচ সুৰক্ষাৰ অভাৰভিউ"
+
+msgid "Ajouter un appareil"
+msgstr "এটা ডিভাইচ যোগ কৰক"
+
+msgid "Appareils volés"
+msgstr "চুৰি হোৱা যন্ত্ৰ"
+
+msgid "Verrouillés à distance"
+msgstr "দূৰৈৰ পৰা লক কৰা হৈছে"
+
+msgid "Alertes récentes"
+msgstr "শেহতীয়া সতৰ্কবাণী"
+
+msgid "Voir tout"
+msgstr "সকলো চাওক"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "কোনো সতৰ্কবাণী নাই। আপোনাৰ ডিভাইচসমূহ নিৰাপদ!"
+
+msgid "Mes appareils"
+msgstr "মোৰ ডিভাইচসমূহ"
+
+msgid "Aucun appareil enregistré"
+msgstr "কোনো ডিভাইচ পঞ্জীয়ন কৰা হোৱা নাই"
+
+msgid "Ajouter"
+msgstr "যোগ কৰা"
+
+msgid "en attente"
+msgstr "ৰৈ গৈছে"
+
+msgid "Gestion des appareils"
+msgstr "ডিভাইচ ব্যৱস্থাপনা"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "আপোনাৰ স্মাৰ্টফোনসমূহ পঞ্জীয়ন আৰু পৰিচালনা কৰক"
+
+msgid "Opérateur"
+msgstr "অপাৰেটৰ"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "এই ডিভাইচটো দূৰৈৰ পৰা লক কৰক?"
+
+msgid "Verrouiller"
+msgstr "তলা"
+
+msgid "Déverrouiller"
+msgstr "আনলক"
+
+msgid "Supprimer cet appareil ?"
+msgstr "এই ডিভাইচটো মচি পেলাওক?"
+
+msgid "Supprimer"
+msgstr "বিলোপ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "ইয়াক সুৰক্ষিত কৰিবলৈ আৰম্ভ কৰিবলৈ আপোনাৰ প্ৰথম স্মাৰ্টফোনটো যোগ কৰক।"
+
+msgid "Nouvel appareil"
+msgstr "নতুন ডিভাইচ"
+
+msgid "Marque"
+msgstr "ব্ৰেণ্ড"
+
+msgid "Sélectionner"
+msgstr "চয়ন কৰা"
+
+msgid "Autre"
+msgstr "অন্যান্য"
+
+msgid "Modèle"
+msgstr "মডেল"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "আপোনাৰ ফোনত *#06# লিখক"
+
+msgid "Système d'exploitation"
+msgstr "অপাৰেটিং চিষ্টেম"
+
+msgid "Numéro de téléphone"
+msgstr "ফোন নম্বৰ"
+
+msgid "Enregistrer"
+msgstr "সঞ্চয় কৰা"
+
+msgid "Connexion"
+msgstr "সংযোগ"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "স্মাৰ্টফোন সুৰক্ষা ব্যৱস্থা"
+
+msgid "Adresse email"
+msgstr "ই-মেইল ঠিকনা"
+
+msgid "Mot de passe"
+msgstr "পাছৱৰ্ড"
+
+msgid "Se connecter"
+msgstr "লগ ইন কৰক"
+
+msgid "Mot de passe oublié ?"
+msgstr "পাছৱৰ্ড পাহৰি গৈছেনে?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"ইতিমধ্যে আপোনাৰ একাউণ্ট আছে নেকি? অন্যথা, আপোনাৰ একাউণ্ট সৃষ্টি কৰিবলৈ "
+"আগবাঢ়ক!"
+
+msgid "Créer un compte"
+msgstr "এটা একাউণ্ট তৈয়াৰ কৰক"
+
+msgid "Sécurité maximale"
+msgstr "সৰ্বোচ্চ সুৰক্ষা"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "দূৰৱৰ্তী লক কৰাৰ সহায়ত আপোনাৰ ব্যক্তিগত তথ্য সুৰক্ষিত কৰক"
+
+msgid "Localisation GPS"
+msgstr "জিপিএছৰ অৱস্থান"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "বাস্তৱ সময়ত আপোনাৰ স্মাৰ্টফোনৰ সঠিক স্থান বিচাৰি উলিয়াওক"
+
+msgid "Alertes instantanées"
+msgstr "তৎক্ষণাত সতৰ্কবাণী"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "চুৰি হ’লে এছএমএছ, ইমেইল আৰু পুছ নোটিফিকেচন লাভ কৰক"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "আপোনাৰ ডিভাইচসমূহ বিচাৰি উলিয়াওক আৰু বিপদৰ অঞ্চলসমূহ কল্পনা কৰক"
+
+msgid "Aucun appareil"
+msgstr "কোনো ডিভাইচ নাই"
+
+msgid "Zones à risque"
+msgstr "বিপদজনক অঞ্চল"
+
+msgid "incidents"
+msgstr "কাণ্ড"
+
+msgid "Aucune zone signalée"
+msgstr "কোনো অঞ্চলৰ খবৰ পোৱা নাই"
+
+msgid "Niveau"
+msgstr "স্তৰ"
+
+msgid "Incidents"
+msgstr "কাণ্ড"
+
+msgid "Profile utilisateur"
+msgstr "ব্যৱহাৰকাৰী আলেখ্যন"
+
+msgid "Gérez vos informations personnelles"
+msgstr "আপোনাৰ ব্যক্তিগত তথ্য পৰিচালনা কৰক"
+
+msgid "Membre depuis"
+msgstr "সদস্যৰ পৰা"
+
+msgid "Modifier mes informations"
+msgstr "মোৰ তথ্য সম্পাদনা কৰক"
+
+msgid "Prénom"
+msgstr "প্ৰথম নাম"
+
+msgid "Nom"
+msgstr "নাম"
+
+msgid "Changer le mot de passe"
+msgstr "গুপ্তশব্দ সলনি কৰক"
+
+msgid "Nouveau mot de passe"
+msgstr "নতুন পাছৱৰ্ড"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "সলনি নহ’বলৈ খালী ৰাখক"
+
+msgid "Enregistrer les modifications"
+msgstr "পৰিবৰ্তনসমূহ সংৰক্ষণ কৰক"
+
+msgid "Inscription"
+msgstr "পঞ্জীয়ন"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "আপোনাৰ ডিভাইচসমূহৰ উন্নত সুৰক্ষাৰ বাবে Anti-Theft লৈ আপোনাক স্বাগতম"
+
+msgid "Confirmer"
+msgstr "নিশ্চিত"
+
+msgid "Créer mon compte"
+msgstr "মোৰ একাউণ্টটো বনাওক"
+
+msgid "Déjà un compte ?"
+msgstr "ইতিমধ্যে একাউণ্ট আছেনে?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "পাছৱৰ্ড পুনৰায় সেট কৰক"
+
+msgid "Réinitialisation"
+msgstr "ৰিছেট কৰক"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "আপোনাৰ পৰিচয় পৰীক্ষা কৰিবলৈ আপোনাৰ ইমেইল আৰু ফোন নম্বৰ দিয়ক"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "পঞ্জীয়নৰ সময়ত ব্যৱহাৰ কৰা নম্বৰ"
+
+msgid "Minimum 6 caractères"
+msgstr "নূন্যতম ৬টা আখৰ"
+
+msgid "Confirmer le mot de passe"
+msgstr "পাছৱৰ্ড নিশ্চিত কৰক"
+
+msgid "Retourner à la"
+msgstr "লৈ উভতি যাওক"
+
+msgid "page de connexion"
+msgstr "লগইন পৃষ্ঠা"
+
+msgid "Vérification sécurisée"
+msgstr "নিৰাপদ পৰীক্ষণ"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "আপোনাৰ পৰিচয় আপোনাৰ ইমেইল আৰু ফোন নম্বৰ ব্যৱহাৰ কৰি পৰীক্ষা কৰা হয়"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "অন্ততঃ ৬টা আখৰৰ এটা সুৰক্ষিত পাছৱৰ্ড বাছক"
+
+msgid "d"
+msgstr "ঘ"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{সম্পাদক}: সম্পাদনা ব্যৰ্থ"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{সম্পাদক}: সম্পাদনা ব্যৰ্থ: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "উইণ্ড'জৰ ত্ৰুটি: {error}"
+
+msgid "deprecated"
+msgstr "অবচ্যুত"
+
+msgid "Options"
+msgstr "বিকল্পসমূহ"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "অপ্ৰত্যাশিত অতিৰিক্ত যুক্তি ({args}) পাইছো"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: {name!r} আদেশ অবচয় কৰা হৈছে।{extra_message}"
+
+msgid "Aborted!"
+msgstr "গৰ্ভপাত কৰা হৈছে!"
+
+msgid "Commands"
+msgstr "আদেশ"
+
+msgid "Missing command."
+msgstr "কমাণ্ড নোহোৱা হৈছে।"
+
+msgid "Value must be an iterable."
+msgstr "মূল্য এটা পুনৰাবৃত্তিযোগ্য হ’ব লাগিব।"
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} মান লয় কিন্তু 1 দিয়া হৈছিল।"
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "অবচয়সতৰ্কবাণী: {param_type} {name!r} অবচ্যুত কৰা হৈছে।{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "নাম '{name}' দুবাৰ সংজ্ঞায়িত কৰা হৈছে"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "বুলিয়ান বিকল্প {decl!r} এ সত্য/মিছাৰ বাবে একে ফ্লেগ ব্যৱহাৰ কৰিব নোৱাৰে ।"
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "ঘোষণাসমূহৰ সৈতে বিকল্পৰ বাবে নাম নিৰ্ধাৰণ কৰিব পৰা নগ'ল {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"কোনো বিকল্প সংজ্ঞায়িত কৰা হোৱা নাই কিন্তু এটা নাম পাছ কৰা হৈছিল "
+"({name})। তাৰ পৰিৱৰ্তে যুক্তি ঘোষণা কৰিব বিচাৰিছিল নেকি? '--{name}' পাছ "
+"কৰিব বিচাৰিছিল নেকি?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var env: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "অবিকল্পিত: {অবিকল্পিত}"
+
+msgid "required"
+msgstr "প্ৰয়োজনীয়"
+
+msgid "(dynamic)"
+msgstr "(গতিশীল)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "যুক্তিসমূহে হুবহু এটা প্ৰাচল ঘোষণা লয়, {length} পায়: {decls}।"
+
+msgid "Do you want to continue?"
+msgstr "আগবাঢ়ি যাব বিচাৰে নেকি?"
+
+msgid "Confirm the action without prompting."
+msgstr "প্ৰমপ্ট নকৰাকৈ কাৰ্য্য নিশ্চিত কৰক।"
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, সংস্কৰণ %(সংস্কৰণ)s"
+
+msgid "Show the version and exit."
+msgstr "সংস্কৰণ দেখুৱাওক আৰু প্ৰস্থান কৰক।"
+
+msgid "Show this message and exit."
+msgstr "এই বাৰ্তা দেখুৱাওক আৰু প্ৰস্থান কৰক।"
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "আপুনি {সম্ভাৱনা} বুজাইছিল নেকি?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "ত্ৰুটি: {বাৰ্তা}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "সহায়ৰ বাবে '{command} {option}' চেষ্টা কৰক।"
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "অবৈধ মান: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint} ৰ বাবে অবৈধ মান: {message}"
+
+msgid "Missing argument"
+msgstr "যুক্তি হেৰুৱাইছে"
+
+msgid "Missing option"
+msgstr "বিকল্প নোহোৱা হৈছে"
+
+msgid "Missing parameter"
+msgstr "অনুপস্থিত প্ৰাচল"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "অনুপস্থিত {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "অনুপস্থিত প্ৰাচল: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "এনে কোনো বিকল্প নাই {name!r}।"
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "{name!r} এনে কোনো আদেশ নাই।"
+
+msgid "unknown error"
+msgstr "অজ্ঞাত ভুল"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "ফাইল {filename!r} খোলিব পৰা নগ'ল: {message}"
+
+msgid "Usage:"
+msgstr "ব্যৱহাৰ:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "বিকল্প ({option}) ৰ বাবে অবৈধ আৰম্ভণি আখৰ"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "যুক্তি {name!r} এ {nargs} মান লয়।"
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "বিকল্প {name!r} এ এটা মান লোৱা নাই।"
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "বিকল্প {name!r} ৰ বাবে এটা যুক্তিৰ প্ৰয়োজন।"
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "4.4 তকৈ পুৰণি Bash সংস্কৰণৰ বাবে শ্বেল সম্পূৰ্ণ কৰা সমৰ্থিত নহয় ।"
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Bash সংস্কৰণ ধৰা পেলাব পৰা নগ'ল, শ্বেল সম্পূৰ্ণ কৰা সমৰ্থিত নহয়।"
+
+msgid "Repeat for confirmation"
+msgstr "নিশ্চিতকৰণৰ বাবে পুনৰাবৃত্তি কৰক"
+
+msgid "Error: The two entered values do not match."
+msgstr "ত্ৰুটি: প্ৰৱেশ কৰা মান দুটা মিল নাই।"
+
+msgid "Error: invalid input"
+msgstr "ত্ৰুটি: অবৈধ ইনপুট"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "অজ্ঞাত ৰং {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "অব্যাহত ৰাখিবলৈ যিকোনো কি টিপক..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "ইয়াৰ পৰা বাছক:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{মান!r} {পছন্দ} নহয়।"
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "পছন্দ({পছন্দসমূহ})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} {format} বিন্যাসৰ সৈতে মিল নাই।"
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} এটা বৈধ {number_type} নহয়।"
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{মান} {পৰিসৰ} পৰিসীমাত নাই।"
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} এটা বৈধ বুলিয়ান নহয়। স্বীকৃতিপ্ৰাপ্ত মানসমূহ: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} এটা বৈধ UUID নহয়।"
+
+msgid "file"
+msgstr "ফাইল"
+
+msgid "directory"
+msgstr "ডাইৰেকটৰী"
+
+msgid "path"
+msgstr "পথ"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} নাই।"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} এটা ফাইল।"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} এটা ডাইৰেকটৰি।"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} পঢ়িব পৰা নহয়।"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} লিখিব পৰা নহয়।"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} এক্সিকিউটেবল নহয়।"
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} মানসমূহ প্ৰয়োজনীয়, কিন্তু {len_value} দিয়া হৈছিল।"
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "অজ্ঞাত প্ৰামাণিক প্ৰবাহ '{name}'"
+
+msgid "This field is required."
+msgstr "এই ক্ষেত্ৰখন প্ৰয়োজনীয়।"
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "ফাইলৰ কোনো অনুমোদিত সম্প্ৰসাৰণ নাই: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "ফাইলৰ কোনো অনুমোদিত সম্প্ৰসাৰণ নাই।"
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "ফাইল {min_size} আৰু {max_size} বাইটৰ মাজত হ'ব লাগিব।"
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "অবৈধ ক্ষেত্ৰৰ নাম '%s' ।"
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "ক্ষেত্ৰ %(other_name)s ৰ সমান হব লাগিব।"
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "ক্ষেত্ৰ অন্ততঃ %(min)d আখৰ দীঘল হ'ব লাগিব।"
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "ক্ষেত্ৰ %(max)d আখৰতকৈ দীঘল হ'ব নোৱাৰে।"
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "ক্ষেত্ৰখন হুবহু %(max)d আখৰ দীঘল হ'ব লাগিব।"
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "ক্ষেত্ৰ %(min)d আৰু %(max)d আখৰৰ মাজত দীঘল হব লাগিব ।"
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "সংখ্যা অন্ততঃ %(min)s হব লাগিব।"
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "সংখ্যা সৰ্বাধিক %(max)s হব লাগিব।"
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "সংখ্যা %(min)s আৰু %(max)s ৰ মাজত হব লাগিব।"
+
+msgid "Invalid input."
+msgstr "অবৈধ ইনপুট।"
+
+msgid "Invalid email address."
+msgstr "অবৈধ ইমেইল ঠিকনা।"
+
+msgid "Invalid IP address."
+msgstr "অবৈধ IP ঠিকনা।"
+
+msgid "Invalid Mac address."
+msgstr "অবৈধ মেক ঠিকনা।"
+
+msgid "Invalid URL."
+msgstr "অবৈধ URL।"
+
+msgid "Invalid UUID."
+msgstr "অবৈধ UUID।"
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "অবৈধ মান, এটা হ'ব লাগিব: %(values)s ।"
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "অবৈধ মান, কোনো হ'ব নোৱাৰে: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "এই ক্ষেত্ৰখন সম্পাদনা কৰিব নোৱাৰি।"
+
+msgid "This field is disabled and cannot have a value."
+msgstr "এই ক্ষেত্ৰ নিষ্ক্ৰিয় আৰু ইয়াৰ এটা মান থাকিব নোৱাৰে।"
+
+msgid "Invalid CSRF Token."
+msgstr "অবৈধ CSRF টোকেন।"
+
+msgid "CSRF token missing."
+msgstr "CSRF টোকেন নোহোৱা হৈছে।"
+
+msgid "CSRF failed."
+msgstr "চি এছ আৰ এফ বিফল হ’ল।"
+
+msgid "CSRF token expired."
+msgstr "CSRF টোকেনৰ ম্যাদ উকলি গৈছে।"
+
+msgid "Invalid Choice: could not coerce."
+msgstr "অবৈধ পছন্দ: জোৰ-জবৰদস্তি কৰিব পৰা নাছিল।"
+
+msgid "Choices cannot be None."
+msgstr "পছন্দবোৰ কোনো নহয় হ’ব নোৱাৰে।"
+
+msgid "Not a valid choice."
+msgstr "বৈধ পছন্দ নহয়।"
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "অবৈধ পছন্দ(সমূহ): এটা বা অধিক তথ্য ইনপুট জোৰ কৰিব পৰা নগ'ল।"
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' এই ক্ষেত্ৰৰ বাবে এটা বৈধ পছন্দ নহয়।"
+
+msgid "Not a valid datetime value."
+msgstr "এটা বৈধ তাৰিখসময় মান নহয়।"
+
+msgid "Not a valid date value."
+msgstr "এটা বৈধ তাৰিখ মান নহয়।"
+
+msgid "Not a valid time value."
+msgstr "বৈধ সময়ৰ মান নহয়।"
+
+msgid "Not a valid week value."
+msgstr "বৈধ সপ্তাহৰ মূল্য নহয়।"
+
+msgid "Not a valid integer value."
+msgstr "এটা বৈধ পূৰ্ণসংখ্যা মান নহয়।"
+
+msgid "Not a valid decimal value."
+msgstr "এটা বৈধ দশমিক মান নহয়।"
+
+msgid "Not a valid float value."
+msgstr "এটা বৈধ ফ্ল'ট মান নহয়।"
+

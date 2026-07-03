@@ -1,0 +1,1041 @@
+# Translations for FI.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fi\n"
+"Language-Team: fi <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Kirjaudu sisään päästäksesi tälle sivulle."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Tämä IMEI on jo rekisteröity järjestelmään."
+
+msgid "Accès non autorisé."
+msgstr "Luvaton pääsy."
+
+msgid "Appareil déverrouillé."
+msgstr "Laitteen lukitus avattu."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Hälytys luotu! Ilmoitukset lähetetty."
+
+msgid "Alerte résolue."
+msgstr "Hälytys ratkaistu."
+
+msgid "Pas encore de compte ?"
+msgstr "Eikö tiliä ole vielä?"
+
+msgid "Mon Profil"
+msgstr "Oma profiili"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Yhteys onnistui! Tervetuloa."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Väärä sähköpostiosoite tai salasana."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Kaikki pakolliset kentät on täytettävä."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Salasanat eivät täsmää."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Salasanan tulee sisältää vähintään 6 merkkiä."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Tämä sähköposti on jo käytössä."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Tili luotu onnistuneesti! Kirjaudu sisään."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Tällä sähköpostilla ei löytynyt tilejä."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Puhelinnumero ei vastaa tilinumeroa."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Uusi salasana on pakollinen."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Salasanan palautus onnistui! Kirjaudu sisään."
+
+msgid "Vous avez été déconnecté."
+msgstr "Sinut on katkaistu."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Merkki, malli ja IMEI vaaditaan."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Tällä IMEI-koodilla varustettu laite on jo olemassa."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Laitteen rekisteröinti onnistui!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Sinulla ei ole valtuuksia suorittaa tätä toimintoa."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Laitteen etälukitus onnistui."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Laitteen lukituksen avaaminen onnistui."
+
+msgid "Appareil supprimé."
+msgstr "Laite poistettu."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Valitse laite ja hälytystyyppi."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Tämä laite ei kuulu sinulle."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Hälytys raportoitu onnistuneesti. Laite on suojattu."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Hälytys merkitty ratkaistuksi."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Etunimi, sukunimi ja sähköpostiosoite vaaditaan."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Tämä sähköposti on jo toisen tilin käytössä."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profiili päivitetty onnistuneesti!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Pääsy varattu järjestelmänvalvojille."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Virhe merkitty ratkaistuksi."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Et voi poistaa omaa tiliäsi."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Käyttäjän poistaminen onnistui."
+
+msgid "Administration"
+msgstr "Hallinto"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Varkaudenestojärjestelmän keskitetty hallinta"
+
+msgid "Utilisateurs"
+msgstr "Käyttäjät"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktiivinen tänään"
+
+msgid "Nouveaux ce mois"
+msgstr "Uutta tässä kuussa"
+
+msgid "Appareils"
+msgstr "Laitteet"
+
+msgid "Alertes actives"
+msgstr "Aktiiviset hälytykset"
+
+msgid "Analytique"
+msgstr "Analyyttinen"
+
+msgid "Journal d'activité"
+msgstr "Toimintaloki"
+
+msgid "Erreurs"
+msgstr "Virheet"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Yhteydet (viimeiset 7 päivää)"
+
+msgid "Alertes par type"
+msgstr "Hälytykset tyypin mukaan"
+
+msgid "Appareils par opérateur"
+msgstr "Laitteet operaattorin mukaan"
+
+msgid "Résumé du système"
+msgstr "Järjestelmän yhteenveto"
+
+msgid "Utilisateurs total"
+msgstr "Käyttäjiä yhteensä"
+
+msgid "Appareils enregistrés"
+msgstr "Rekisteröityneet laitteet"
+
+msgid "Total alertes"
+msgstr "Hälytykset yhteensä"
+
+msgid "Alertes en cours"
+msgstr "Nykyiset hälytykset"
+
+msgid "Erreurs non résolues"
+msgstr "Ratkaisemattomat virheet"
+
+msgid "Dernières activités"
+msgstr "Viimeisimmät aktiviteetit"
+
+msgid "récentes"
+msgstr "viimeaikainen"
+
+msgid "Utilisateur"
+msgstr "Käyttäjä"
+
+msgid "Action"
+msgstr "Toiminta"
+
+msgid "Détails"
+msgstr "Yksityiskohdat"
+
+msgid "Adresse IP"
+msgstr "IP-osoite"
+
+msgid "Navigateur"
+msgstr "Selain"
+
+msgid "Date"
+msgstr "Päivämäärä"
+
+msgid "Aucune activité"
+msgstr "Ei toimintaa"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Käyttäjätoiminnot näkyvät täällä."
+
+msgid "Journal d'erreurs"
+msgstr "Virheloki"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Korjataanko kaikki virheet?"
+
+msgid "Tout résoudre"
+msgstr "Ratkaise kaikki"
+
+msgid "non résolues"
+msgstr "ratkaisematta"
+
+msgid "Tout est résolu"
+msgstr "Kaikki on ratkaistu"
+
+msgid "Type"
+msgstr "Ystävällinen"
+
+msgid "Description"
+msgstr "Kuvaus"
+
+msgid "Statut"
+msgstr "Status"
+
+msgid "Résolu"
+msgstr "Ratkaistu"
+
+msgid "Non résolu"
+msgstr "Ratkaisematon"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Ei tallennettuja virheitä"
+
+msgid "Le système fonctionne correctement."
+msgstr "Järjestelmä toimii oikein."
+
+msgid "Gestion des utilisateurs"
+msgstr "Käyttäjien hallinta"
+
+msgid "comptes"
+msgstr "tilit"
+
+msgid "Email"
+msgstr "Sähköposti"
+
+msgid "Téléphone"
+msgstr "Puhelin"
+
+msgid "Rôle"
+msgstr "Rooli"
+
+msgid "Inscrit le"
+msgstr "Rekisteröity"
+
+msgid "Actions"
+msgstr "Toiminnot"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Poistetaanko tämä käyttäjä ja kaikki hänen laitteet?"
+
+msgid "Vous"
+msgstr "SINÄ"
+
+msgid "Connexions"
+msgstr "Liitännät"
+
+msgid "Vol"
+msgstr "Lento"
+
+msgid "Perte"
+msgstr "Menetys"
+
+msgid "Anomalie"
+msgstr "Anomalia"
+
+msgid "Alertes"
+msgstr "Hälytykset"
+
+msgid "Gestion des alertes"
+msgstr "Hälytysten hallinta"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Ilmoita varkaudesta tai katoamisesta ja seuraa historiaa"
+
+msgid "Signaler un vol / perte"
+msgstr "Ilmoita varkaudesta/häviöstä"
+
+msgid "En cours"
+msgstr "Käynnissä"
+
+msgid "Résolues"
+msgstr "Ratkaistu"
+
+msgid "Historique des alertes"
+msgstr "Varoitushistoria"
+
+msgid "Appareil"
+msgstr "Laite"
+
+msgid "Priorité"
+msgstr "Prioriteetti"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Merkitäänkö tämä ilmoitus ratkaistuksi?"
+
+msgid "Résoudre"
+msgstr "Ratkaista"
+
+msgid "Aucune alerte"
+msgstr "Ei hälytystä"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Hyviä uutisia! Hälytyksiä ei ole raportoitu."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Ilmoita varkaudesta tai katoamisesta"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Kun ilmoitat varkaudesta, laitteesi lukitaan automaattisesti ja "
+"ilmoituksia lähetetään."
+
+msgid "Appareil concerné"
+msgstr "Vaikutettu laite"
+
+msgid "Sélectionner un appareil"
+msgstr "Valitse laite"
+
+msgid "Type d'alerte"
+msgstr "Hälytyksen tyyppi"
+
+msgid "Décrivez les circonstances..."
+msgstr "Kuvaile olosuhteita..."
+
+msgid "Annuler"
+msgstr "Peruuttaa"
+
+msgid "Signaler"
+msgstr "Raportoi"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Älykäs varkaudenestojärjestelmä – Suojausalusta älypuhelimille"
+
+msgid "Système Anti-Vol"
+msgstr "Varkaudenestojärjestelmä"
+
+msgid "PRINCIPAL"
+msgstr "MAIN"
+
+msgid "Tableau de bord"
+msgstr "Kojelauta"
+
+msgid "SÉCURITÉ"
+msgstr "TURVALLISUUS"
+
+msgid "Géolocalisation"
+msgstr "Geolocation"
+
+msgid "ADMINISTRATION"
+msgstr "HALLINTO"
+
+msgid "Déconnexion"
+msgstr "Katkaise yhteys"
+
+msgid "Changer de langue"
+msgstr "Vaihda kieli"
+
+msgid "Rechercher une langue..."
+msgstr "Etsi kieli..."
+
+msgid "Profil"
+msgstr "Profiili"
+
+msgid "Changer de thème"
+msgstr "Vaihda teemaa"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Yleiskatsaus laitteesi tietoturvaan"
+
+msgid "Ajouter un appareil"
+msgstr "Lisää laite"
+
+msgid "Appareils volés"
+msgstr "Varastetut laitteet"
+
+msgid "Verrouillés à distance"
+msgstr "Etälukitus"
+
+msgid "Alertes récentes"
+msgstr "Viimeaikaiset hälytykset"
+
+msgid "Voir tout"
+msgstr "Katso kaikki"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Ei hälytystä. Laitteesi ovat turvassa!"
+
+msgid "Mes appareils"
+msgstr "Omat laitteet"
+
+msgid "Aucun appareil enregistré"
+msgstr "Ei rekisteröityjä laitteita"
+
+msgid "Ajouter"
+msgstr "Lisätä"
+
+msgid "en attente"
+msgstr "pidossa"
+
+msgid "Gestion des appareils"
+msgstr "Laitehallinta"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Rekisteröi ja hallitse älypuhelimiasi"
+
+msgid "Opérateur"
+msgstr "Operaattori"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Lukitaanko tämä laite etänä?"
+
+msgid "Verrouiller"
+msgstr "Lukko"
+
+msgid "Déverrouiller"
+msgstr "Avata"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Poistetaanko tämä laite?"
+
+msgid "Supprimer"
+msgstr "POISTAA"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Lisää ensimmäinen älypuhelimesi aloittaaksesi sen suojaamisen."
+
+msgid "Nouvel appareil"
+msgstr "Uusi laite"
+
+msgid "Marque"
+msgstr "Merkki"
+
+msgid "Sélectionner"
+msgstr "Valitse"
+
+msgid "Autre"
+msgstr "muu"
+
+msgid "Modèle"
+msgstr "Malli"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "kirjoita *#06# puhelimeesi"
+
+msgid "Système d'exploitation"
+msgstr "Käyttöjärjestelmä"
+
+msgid "Numéro de téléphone"
+msgstr "Puhelinnumero"
+
+msgid "Enregistrer"
+msgstr "Tallentaa"
+
+msgid "Connexion"
+msgstr "Yhteys"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Älypuhelimen turvajärjestelmä"
+
+msgid "Adresse email"
+msgstr "Sähköpostiosoite"
+
+msgid "Mot de passe"
+msgstr "Salasana"
+
+msgid "Se connecter"
+msgstr "Kirjaudu sisään"
+
+msgid "Mot de passe oublié ?"
+msgstr "Unohtuiko salasana?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Onko sinulla jo tili? Muussa tapauksessa jatka tilin luomiseen!"
+
+msgid "Créer un compte"
+msgstr "Luo tili"
+
+msgid "Sécurité maximale"
+msgstr "Suurin turvallisuus"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Suojaa henkilötietosi etälukolla"
+
+msgid "Localisation GPS"
+msgstr "GPS-sijainti"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Löydä älypuhelimesi tarkka sijainti reaaliajassa"
+
+msgid "Alertes instantanées"
+msgstr "Välittömät hälytykset"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr ""
+"Vastaanota tekstiviestejä, sähköpostia ja push-ilmoituksia "
+"varkaustapauksissa"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Paikanna laitteesi ja visualisoi riskialueet"
+
+msgid "Aucun appareil"
+msgstr "Ei laitetta"
+
+msgid "Zones à risque"
+msgstr "Riskialueet"
+
+msgid "incidents"
+msgstr "tapahtumia"
+
+msgid "Aucune zone signalée"
+msgstr "Alueita ei ole raportoitu"
+
+msgid "Niveau"
+msgstr "Taso"
+
+msgid "Incidents"
+msgstr "Tapahtumat"
+
+msgid "Profile utilisateur"
+msgstr "Käyttäjäprofiili"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Hallitse henkilökohtaisia ​​tietojasi"
+
+msgid "Membre depuis"
+msgstr "Jäsen vuodesta"
+
+msgid "Modifier mes informations"
+msgstr "Muokkaa tietojani"
+
+msgid "Prénom"
+msgstr "Etunimi"
+
+msgid "Nom"
+msgstr "Nimi"
+
+msgid "Changer le mot de passe"
+msgstr "Vaihda salasana"
+
+msgid "Nouveau mot de passe"
+msgstr "Uusi salasana"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "jätä tyhjäksi, jotta se ei muutu"
+
+msgid "Enregistrer les modifications"
+msgstr "Tallenna muutokset"
+
+msgid "Inscription"
+msgstr "Rekisteröinti"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Tervetuloa Anti-Theft-palveluun laitteidesi parempaa turvallisuutta varten"
+
+msgid "Confirmer"
+msgstr "Vahvistaa"
+
+msgid "Créer mon compte"
+msgstr "Luo tilini"
+
+msgid "Déjà un compte ?"
+msgstr "Onko sinulla jo tili?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Palauta salasana"
+
+msgid "Réinitialisation"
+msgstr "Nollaa"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Syötä sähköpostiosoitteesi ja puhelinnumerosi vahvistaaksesi "
+"henkilöllisyytesi"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Rekisteröinnin yhteydessä käytetty numero"
+
+msgid "Minimum 6 caractères"
+msgstr "Vähintään 6 merkkiä"
+
+msgid "Confirmer le mot de passe"
+msgstr "Vahvista salasana"
+
+msgid "Retourner à la"
+msgstr "Palaa osoitteeseen"
+
+msgid "page de connexion"
+msgstr "kirjautumissivulle"
+
+msgid "Vérification sécurisée"
+msgstr "Turvallinen vahvistus"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Henkilöllisyytesi vahvistetaan sähköpostiosoitteesi ja puhelinnumerosi "
+"avulla"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Valitse suojattu salasana, jossa on vähintään 6 merkkiä"
+
+msgid "d"
+msgstr "D"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Muokkaus epäonnistui"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Muokkaus epäonnistui: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows-virhe: {error}"
+
+msgid "deprecated"
+msgstr "poistettu käytöstä"
+
+msgid "Options"
+msgstr "Vaihtoehdot"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Sai odottamattoman lisäargumentin ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Vanhenemisvaroitus: komento {name!r} on vanhentunut.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Keskeytetty!"
+
+msgid "Commands"
+msgstr "komennot"
+
+msgid "Missing command."
+msgstr "Komento puuttuu."
+
+msgid "Value must be an iterable."
+msgstr "Arvon on oltava iteroitavissa."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Ottaa {nargs} arvot, mutta 1 annettiin."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "Vanhentumisvaroitus: {param_type} {name!r} on vanhentunut.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Nimi {name} on määritelty kahdesti"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Boolen asetus {decl!r} ei voi käyttää samaa lippua arvoille tosi/epätosi."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Ei voitu määrittää nimeä valinnalle ilmoituksilla {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Vaihtoehtoja ei ole määritetty, mutta nimi välitettiin ({name}). "
+"Tarkoititko julistaa väitteen sen sijaan? Tarkoititko ohittaa '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var env: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "oletus: {oletus}"
+
+msgid "required"
+msgstr "vaaditaan"
+
+msgid "(dynamic)"
+msgstr "(dynaaminen)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumentit ottavat täsmälleen yhden parametrin ilmoituksen, sai {length}:"
+" {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Haluatko jatkaa?"
+
+msgid "Confirm the action without prompting."
+msgstr "Vahvista toiminto ilman kehotusta."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, versio %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Näytä versio ja poistu."
+
+msgid "Show this message and exit."
+msgstr "Näytä tämä viesti ja poistu."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Tarkoititko {mahdollisuutta}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Virhe: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Kokeile '{command} {option}' saadaksesi apua."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Virheellinen arvo: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Virheellinen arvo kohteelle {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Puuttuu argumentti"
+
+msgid "Missing option"
+msgstr "Vaihtoehto puuttuu"
+
+msgid "Missing parameter"
+msgstr "Puuttuva parametri"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Puuttuu {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Puuttuva parametri: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Ei tällaista vaihtoehtoa {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Ei tällaista komentoa {name!r}."
+
+msgid "unknown error"
+msgstr "tuntematon virhe"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Tiedostoa {filename!r} ei voitu avata: {message}"
+
+msgid "Usage:"
+msgstr "Käyttää:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Virheellinen aloitusmerkki vaihtoehdolle ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumentti {name!r} ottaa {nargs} arvoa."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Vaihtoehto {name!r} ei ota arvoa."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Vaihtoehto {name!r} vaatii argumentin."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Shellin täydentämistä ei tueta Bash-versioissa, jotka ovat vanhempia kuin"
+" 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Bash-versiota ei havaittu, komentotulkkien viimeistelyä ei tueta."
+
+msgid "Repeat for confirmation"
+msgstr "Toista vahvistusta varten"
+
+msgid "Error: The two entered values do not match."
+msgstr "Virhe: kaksi syötettyä arvoa eivät täsmää."
+
+msgid "Error: invalid input"
+msgstr "Virhe: virheellinen syöttö"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Tuntematon väri {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Jatka painamalla mitä tahansa näppäintä..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Valitse seuraavista:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{arvo!r} ei ole {valinta}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Valinta ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ei vastaa muotoa {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ei ole kelvollinen {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{arvo} ei ole alueella {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ei ole kelvollinen looginen arvo. Tunnistetut arvot: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ei ole kelvollinen UUID."
+
+msgid "file"
+msgstr "tiedosto"
+
+msgid "directory"
+msgstr "hakemistosta"
+
+msgid "path"
+msgstr "polku"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} ei ole olemassa."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} on tiedosto."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{nimi} {filename!r} on hakemisto."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} ei ole luettavissa."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} ei ole kirjoituskelpoinen."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} ei ole suoritettava."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type}-arvot vaaditaan, mutta {len_value} annettiin."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Tuntematon vakiovirta '{name}'"
+
+msgid "This field is required."
+msgstr "Tämä kenttä on pakollinen."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Tiedostolla ei ole hyväksyttyä laajennusta: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Tiedostolla ei ole hyväksyttyä tunnistetta."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Tiedoston on oltava {min_size}–{max_size} tavua."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Virheellinen kentän nimi '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Kentän on oltava yhtä suuri kuin %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Kentän on oltava vähintään %(min)d merkkiä pitkä."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Kenttä ei voi olla pidempi kuin %(max)d merkkiä."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Kentän on oltava täsmälleen %(max)d merkkiä pitkä."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Kentän on oltava %(min)d–%(max)d merkkiä pitkä."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Numeron on oltava vähintään %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Luku saa olla enintään %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Numeron on oltava välillä %(min)s ja %(max)s."
+
+msgid "Invalid input."
+msgstr "Virheellinen syöte."
+
+msgid "Invalid email address."
+msgstr "Virheellinen sähköpostiosoite."
+
+msgid "Invalid IP address."
+msgstr "Virheellinen IP-osoite."
+
+msgid "Invalid Mac address."
+msgstr "Virheellinen Mac-osoite."
+
+msgid "Invalid URL."
+msgstr "Virheellinen URL-osoite."
+
+msgid "Invalid UUID."
+msgstr "Virheellinen UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Virheellinen arvo, on oltava jokin seuraavista: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Virheellinen arvo, ei voi olla mikään seuraavista: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Tätä kenttää ei voi muokata."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Tämä kenttä on poistettu käytöstä, eikä sillä voi olla arvoa."
+
+msgid "Invalid CSRF Token."
+msgstr "Virheellinen CSRF-tunnus."
+
+msgid "CSRF token missing."
+msgstr "CSRF-tunnus puuttuu."
+
+msgid "CSRF failed."
+msgstr "CSRF epäonnistui."
+
+msgid "CSRF token expired."
+msgstr "CSRF-tunnus vanhentunut."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Virheellinen valinta: ei voitu pakottaa."
+
+msgid "Choices cannot be None."
+msgstr "Valinnat eivät voi olla Ei mitään."
+
+msgid "Not a valid choice."
+msgstr "Ei kelvollinen valinta."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Virheelliset valinnat: yhtä tai useampaa datasyöttöä ei voitu pakottaa."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' ei ole kelvollinen valinta tähän kenttään."
+
+msgid "Not a valid datetime value."
+msgstr "Ei kelvollinen päivämäärä-aika-arvo."
+
+msgid "Not a valid date value."
+msgstr "Ei kelvollinen päivämääräarvo."
+
+msgid "Not a valid time value."
+msgstr "Ei kelvollinen aika-arvo."
+
+msgid "Not a valid week value."
+msgstr "Ei kelvollinen viikon arvo."
+
+msgid "Not a valid integer value."
+msgstr "Ei kelvollinen kokonaislukuarvo."
+
+msgid "Not a valid decimal value."
+msgstr "Ei kelvollinen desimaaliarvo."
+
+msgid "Not a valid float value."
+msgstr "Ei kelvollinen kelluva arvo."
+

@@ -1,0 +1,1046 @@
+# Translations for RO.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ro\n"
+"Language-Team: ro <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100"
+" < 20)) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Vă rugăm să vă conectați pentru a accesa această pagină."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Acest IMEI este deja înregistrat în sistem."
+
+msgid "Accès non autorisé."
+msgstr "Acces neautorizat."
+
+msgid "Appareil déverrouillé."
+msgstr "Dispozitiv deblocat."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alertă creată! Notificări trimise."
+
+msgid "Alerte résolue."
+msgstr "Alerta rezolvată."
+
+msgid "Pas encore de compte ?"
+msgstr "Nu există încă un cont?"
+
+msgid "Mon Profil"
+msgstr "Profilul meu"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Conexiune reușită! Bun venit."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "E-mail sau parolă incorectă."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Toate câmpurile obligatorii trebuie completate."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Parolele nu se potrivesc."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Parola trebuie să conțină cel puțin 6 caractere."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Acest e-mail este deja utilizat."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Cont creat cu succes! Log in."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Nu s-au găsit conturi cu acest e-mail."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Numărul de telefon nu se potrivește cu numărul contului."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Noua parolă este obligatorie."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Resetarea parolei cu succes! Log in."
+
+msgid "Vous avez été déconnecté."
+msgstr "Ai fost deconectat."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Sunt necesare marca, modelul și IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Un dispozitiv cu acest IMEI există deja."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Dispozitivul a fost înregistrat cu succes!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Nu sunteți autorizat să efectuați această acțiune."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Dispozitivul a fost blocat de la distanță."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Dispozitivul a fost deblocat cu succes."
+
+msgid "Appareil supprimé."
+msgstr "Dispozitivul a fost șters."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Vă rugăm să selectați un dispozitiv și un tip de alertă."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Acest dispozitiv nu vă aparține."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alerta raportată cu succes. Dispozitivul a fost securizat."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alertă marcată ca rezolvată."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Numele, prenumele și adresa de e-mail sunt necesare."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Acest e-mail este deja folosit de un alt cont."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil actualizat cu succes!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Acces rezervat administratorilor."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Eroare marcată ca rezolvată."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Nu vă puteți șterge propriul cont."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Utilizatorul a fost șters cu succes."
+
+msgid "Administration"
+msgstr "Administrare"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Gestionarea centralizată a sistemului antifurt"
+
+msgid "Utilisateurs"
+msgstr "Utilizatori"
+
+msgid "Actifs aujourd'hui"
+msgstr "Activ astăzi"
+
+msgid "Nouveaux ce mois"
+msgstr "Nou luna aceasta"
+
+msgid "Appareils"
+msgstr "Dispozitive"
+
+msgid "Alertes actives"
+msgstr "Alerte active"
+
+msgid "Analytique"
+msgstr "Analitic"
+
+msgid "Journal d'activité"
+msgstr "Jurnal de activitate"
+
+msgid "Erreurs"
+msgstr "Erori"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Conexiuni (ultimele 7 zile)"
+
+msgid "Alertes par type"
+msgstr "Alerte după tip"
+
+msgid "Appareils par opérateur"
+msgstr "Dispozitive după operator"
+
+msgid "Résumé du système"
+msgstr "Rezumatul sistemului"
+
+msgid "Utilisateurs total"
+msgstr "Total utilizatori"
+
+msgid "Appareils enregistrés"
+msgstr "Dispozitive înregistrate"
+
+msgid "Total alertes"
+msgstr "Total alerte"
+
+msgid "Alertes en cours"
+msgstr "Alerte curente"
+
+msgid "Erreurs non résolues"
+msgstr "Erori nerezolvate"
+
+msgid "Dernières activités"
+msgstr "Ultimele activități"
+
+msgid "récentes"
+msgstr "recent"
+
+msgid "Utilisateur"
+msgstr "Utilizator"
+
+msgid "Action"
+msgstr "Acţiune"
+
+msgid "Détails"
+msgstr "Detalii"
+
+msgid "Adresse IP"
+msgstr "adresa IP"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Aucune activité"
+msgstr "Nicio activitate"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Activitățile utilizatorilor vor apărea aici."
+
+msgid "Journal d'erreurs"
+msgstr "Jurnal de erori"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Remediați toate erorile?"
+
+msgid "Tout résoudre"
+msgstr "Rezolvați totul"
+
+msgid "non résolues"
+msgstr "nerezolvată"
+
+msgid "Tout est résolu"
+msgstr "Totul este rezolvat"
+
+msgid "Type"
+msgstr "Fel"
+
+msgid "Description"
+msgstr "Descriere"
+
+msgid "Statut"
+msgstr "Stare"
+
+msgid "Résolu"
+msgstr "Rezolvat"
+
+msgid "Non résolu"
+msgstr "Nerezolvată"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Nu au fost înregistrate erori"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sistemul funcționează corect."
+
+msgid "Gestion des utilisateurs"
+msgstr "Managementul utilizatorilor"
+
+msgid "comptes"
+msgstr "conturi"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telefon"
+
+msgid "Rôle"
+msgstr "Rol"
+
+msgid "Inscrit le"
+msgstr "Înregistrat pe"
+
+msgid "Actions"
+msgstr "Acțiuni"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Ștergeți acest utilizator și toate dispozitivele acestuia?"
+
+msgid "Vous"
+msgstr "TU"
+
+msgid "Connexions"
+msgstr "Conexiuni"
+
+msgid "Vol"
+msgstr "Zbor"
+
+msgid "Perte"
+msgstr "Pierderi"
+
+msgid "Anomalie"
+msgstr "Anomalie"
+
+msgid "Alertes"
+msgstr "Alerte"
+
+msgid "Gestion des alertes"
+msgstr "Gestionarea alertelor"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Raportați furtul sau pierderea și urmăriți istoricul"
+
+msgid "Signaler un vol / perte"
+msgstr "Raportați furtul/pierderea"
+
+msgid "En cours"
+msgstr "În curs"
+
+msgid "Résolues"
+msgstr "Rezolvat"
+
+msgid "Historique des alertes"
+msgstr "Istoricul alertelor"
+
+msgid "Appareil"
+msgstr "Dispozitiv"
+
+msgid "Priorité"
+msgstr "Prioritate"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Marcați această alertă ca rezolvată?"
+
+msgid "Résoudre"
+msgstr "Rezolva"
+
+msgid "Aucune alerte"
+msgstr "Nicio alertă"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Vești bune! Nu au fost raportate alerte."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Raportați furtul sau pierderea"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Prin raportarea unui furt, dispozitivul dvs. va fi blocat automat și vor "
+"fi trimise notificări."
+
+msgid "Appareil concerné"
+msgstr "Dispozitiv afectat"
+
+msgid "Sélectionner un appareil"
+msgstr "Selectați un dispozitiv"
+
+msgid "Type d'alerte"
+msgstr "Tip alertă"
+
+msgid "Décrivez les circonstances..."
+msgstr "Descrieți circumstanțele..."
+
+msgid "Annuler"
+msgstr "Anula"
+
+msgid "Signaler"
+msgstr "Raport"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Sistem antifurt inteligent — Platformă de securitate pentru smartphone-uri"
+
+msgid "Système Anti-Vol"
+msgstr "Sistem antifurt"
+
+msgid "PRINCIPAL"
+msgstr "PRINCIPAL"
+
+msgid "Tableau de bord"
+msgstr "Bord"
+
+msgid "SÉCURITÉ"
+msgstr "SECURITATE"
+
+msgid "Géolocalisation"
+msgstr "Geolocalizare"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRARE"
+
+msgid "Déconnexion"
+msgstr "Deconecta"
+
+msgid "Changer de langue"
+msgstr "Schimbați limba"
+
+msgid "Rechercher une langue..."
+msgstr "Caută o limbă..."
+
+msgid "Profil"
+msgstr "Profil"
+
+msgid "Changer de thème"
+msgstr "Schimbați tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Prezentare generală a securității dispozitivului dvs"
+
+msgid "Ajouter un appareil"
+msgstr "Adăugați un dispozitiv"
+
+msgid "Appareils volés"
+msgstr "Dispozitive furate"
+
+msgid "Verrouillés à distance"
+msgstr "Blocat de la distanță"
+
+msgid "Alertes récentes"
+msgstr "Alerte recente"
+
+msgid "Voir tout"
+msgstr "Vezi toate"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Nicio alertă. Dispozitivele dvs. sunt în siguranță!"
+
+msgid "Mes appareils"
+msgstr "Dispozitivele mele"
+
+msgid "Aucun appareil enregistré"
+msgstr "Niciun dispozitiv înregistrat"
+
+msgid "Ajouter"
+msgstr "Adăuga"
+
+msgid "en attente"
+msgstr "în așteptare"
+
+msgid "Gestion des appareils"
+msgstr "Gestionarea dispozitivelor"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Înregistrați-vă și gestionați-vă smartphone-urile"
+
+msgid "Opérateur"
+msgstr "Operator"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Blocați acest dispozitiv de la distanță?"
+
+msgid "Verrouiller"
+msgstr "Blocare"
+
+msgid "Déverrouiller"
+msgstr "Deblocați"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Ștergeți acest dispozitiv?"
+
+msgid "Supprimer"
+msgstr "ŞTERGE"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Adaugă primul tău smartphone pentru a începe să-l protejezi."
+
+msgid "Nouvel appareil"
+msgstr "Dispozitiv nou"
+
+msgid "Marque"
+msgstr "Marca"
+
+msgid "Sélectionner"
+msgstr "Selecta"
+
+msgid "Autre"
+msgstr "Alte"
+
+msgid "Modèle"
+msgstr "Model"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "tastați *#06# pe telefon"
+
+msgid "Système d'exploitation"
+msgstr "Sistem de operare"
+
+msgid "Numéro de téléphone"
+msgstr "Număr de telefon"
+
+msgid "Enregistrer"
+msgstr "Salva"
+
+msgid "Connexion"
+msgstr "Conexiune"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistem de securitate pentru smartphone"
+
+msgid "Adresse email"
+msgstr "Adresa de e-mail"
+
+msgid "Mot de passe"
+msgstr "Parolă"
+
+msgid "Se connecter"
+msgstr "Log in"
+
+msgid "Mot de passe oublié ?"
+msgstr "Parola uitată?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Ai deja un cont? În caz contrar, procedați la crearea contului dvs.!"
+
+msgid "Créer un compte"
+msgstr "Creați un cont"
+
+msgid "Sécurité maximale"
+msgstr "Securitate maximă"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Protejați-vă datele personale cu blocarea de la distanță"
+
+msgid "Localisation GPS"
+msgstr "Locația GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Găsiți locația exactă a smartphone-ului dvs. în timp real"
+
+msgid "Alertes instantanées"
+msgstr "Alerte instantanee"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Primiți notificări prin SMS, e-mail și push în caz de furt"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Localizați-vă dispozitivele și vizualizați zonele de risc"
+
+msgid "Aucun appareil"
+msgstr "Niciun dispozitiv"
+
+msgid "Zones à risque"
+msgstr "Zone de risc"
+
+msgid "incidents"
+msgstr "incidente"
+
+msgid "Aucune zone signalée"
+msgstr "Nu au fost raportate zone"
+
+msgid "Niveau"
+msgstr "Nivel"
+
+msgid "Incidents"
+msgstr "Incidente"
+
+msgid "Profile utilisateur"
+msgstr "Profil de utilizator"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Gestionați-vă informațiile personale"
+
+msgid "Membre depuis"
+msgstr "Membru de atunci"
+
+msgid "Modifier mes informations"
+msgstr "Editează-mi informațiile"
+
+msgid "Prénom"
+msgstr "Prenume"
+
+msgid "Nom"
+msgstr "Nume"
+
+msgid "Changer le mot de passe"
+msgstr "Schimbaţi parola"
+
+msgid "Nouveau mot de passe"
+msgstr "Parolă Nouă"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "lăsați necompletat pentru a nu se schimba"
+
+msgid "Enregistrer les modifications"
+msgstr "Salvați modificările"
+
+msgid "Inscription"
+msgstr "Înregistrare"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Bun venit la Anti-Theft pentru o mai bună securitate a dispozitivelor dvs"
+
+msgid "Confirmer"
+msgstr "Confirma"
+
+msgid "Créer mon compte"
+msgstr "Creeaza-mi contul"
+
+msgid "Déjà un compte ?"
+msgstr "Aveți deja un cont?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Resetează parola"
+
+msgid "Réinitialisation"
+msgstr "Resetați"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Introduceți e-mailul și numărul de telefon pentru a vă verifica "
+"identitatea"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Numărul folosit la înregistrare"
+
+msgid "Minimum 6 caractères"
+msgstr "Minim 6 caractere"
+
+msgid "Confirmer le mot de passe"
+msgstr "Confirmați parola"
+
+msgid "Retourner à la"
+msgstr "Întoarce-te la"
+
+msgid "page de connexion"
+msgstr "pagina de conectare"
+
+msgid "Vérification sécurisée"
+msgstr "Verificare sigură"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Identitatea dvs. este verificată folosind adresa de e-mail și numărul "
+"dvs. de telefon"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Alegeți o parolă sigură de cel puțin 6 caractere"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Editarea nu a reușit"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Editarea nu a reușit: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Eroare Windows: {eroare}"
+
+msgid "deprecated"
+msgstr "depreciat"
+
+msgid "Options"
+msgstr "Opțiuni"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Am primit un argument suplimentar neașteptat ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Comanda {name!r} este depreciată.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Avortat!"
+
+msgid "Commands"
+msgstr "Comenzi"
+
+msgid "Missing command."
+msgstr "Comanda lipsește."
+
+msgid "Value must be an iterable."
+msgstr "Valoarea trebuie să fie iterabilă."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Ia valori {nargs} dar 1 a fost dat."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"DepreciereAvertisment: {param_type} {name!r} este "
+"depreciat.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Numele „{name}” a fost definit de două ori"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Opțiunea booleană {decl!r} nu poate folosi același indicator pentru "
+"true/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Nu s-a putut determina numele pentru opțiunea cu declarații {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Nu au fost definite opțiuni, dar a fost transmis un nume ({name}). Ai "
+"vrut să declari un argument în schimb? Ați vrut să treceți „--{name}”?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "implicit: {implicit}"
+
+msgid "required"
+msgstr "necesar"
+
+msgid "(dynamic)"
+msgstr "(dinamic)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Argumentele au exact o declarație de parametru, au {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Vrei să continui?"
+
+msgid "Confirm the action without prompting."
+msgstr "Confirmați acțiunea fără solicitări."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, versiunea %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Afișați versiunea și ieșiți."
+
+msgid "Show this message and exit."
+msgstr "Afișați acest mesaj și ieșiți."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Ați vrut să spuneți {posibility}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Eroare: {mesaj}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Încercați „{command} {option}” pentru ajutor."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Valoare nevalidă: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Valoare nevalidă pentru {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Argument lipsă"
+
+msgid "Missing option"
+msgstr "Opțiune lipsă"
+
+msgid "Missing parameter"
+msgstr "Lipsește parametrul"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Lipsește {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Lipsește parametrul: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Nu există o astfel de opțiune {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Nu există o astfel de comandă {name!r}."
+
+msgid "unknown error"
+msgstr "eroare necunoscută"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Nu s-a putut deschide fișierul {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Utilizare:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Caracter de început nevalid pentru opțiune ({opțiune})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumentul {name!r} ia valori {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Opțiunea {name!r} nu primește o valoare."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Opțiunea {name!r} necesită un argument."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Finalizarea Shell nu este acceptată pentru versiunile Bash mai vechi de "
+"4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Nu s-a putut detecta versiunea Bash, finalizarea shell-ului nu este "
+"acceptată."
+
+msgid "Repeat for confirmation"
+msgstr "Repetați pentru confirmare"
+
+msgid "Error: The two entered values do not match."
+msgstr "Eroare: Cele două valori introduse nu se potrivesc."
+
+msgid "Error: invalid input"
+msgstr "Eroare: intrare nevalidă"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Culoare necunoscută {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Apăsați orice tastă pentru a continua..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Alegeți dintre:\\n\\t{opțiuni}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} nu este {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Alegere({alegeri})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} nu se potrivește cu formatul {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} nu este un {number_type} valid."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} nu se află în intervalul {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} nu este un boolean valid. Valori recunoscute: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} nu este un UUID valid."
+
+msgid "file"
+msgstr "fişier"
+
+msgid "directory"
+msgstr "director"
+
+msgid "path"
+msgstr "cale"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} nu există."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} este un fișier."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} este un director."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} nu poate fi citit."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} nu poate fi scris."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} nu este executabil."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Sunt necesare valorile {len_type}, dar {len_value} a fost dat."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Flux standard necunoscut „{name}”"
+
+msgid "This field is required."
+msgstr "Acest câmp este obligatoriu."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Fișierul nu are o extensie aprobată: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Fișierul nu are o extensie aprobată."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Fișierul trebuie să aibă între {min_size} și {max_size} octeți."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Nume de câmp nevalid „%s”."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Câmpul trebuie să fie egal cu %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Câmpul trebuie să aibă cel puțin %(min)d caractere."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Câmpul nu poate fi mai lung de %(max)d caractere."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Câmpul trebuie să aibă exact %(max)d caractere."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Câmpul trebuie să aibă între %(min)d și %(max)d caractere."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Numărul trebuie să fie de cel puțin %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Numărul trebuie să fie cel mult %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Numărul trebuie să fie între %(min)s și %(max)s."
+
+msgid "Invalid input."
+msgstr "Intrare nevalidă."
+
+msgid "Invalid email address."
+msgstr "Adresă de e-mail nevalidă."
+
+msgid "Invalid IP address."
+msgstr "Adresă IP nevalidă."
+
+msgid "Invalid Mac address."
+msgstr "Adresă Mac nevalidă."
+
+msgid "Invalid URL."
+msgstr "Adresă URL nevalidă."
+
+msgid "Invalid UUID."
+msgstr "UUID nevalid."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Valoare nevalidă, trebuie să fie una dintre: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Valoare nevalidă, nu poate fi niciuna dintre: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Acest câmp nu poate fi editat."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Acest câmp este dezactivat și nu poate avea o valoare."
+
+msgid "Invalid CSRF Token."
+msgstr "Token CSRF nevalid."
+
+msgid "CSRF token missing."
+msgstr "Token CSRF lipsește."
+
+msgid "CSRF failed."
+msgstr "CSRF a eșuat."
+
+msgid "CSRF token expired."
+msgstr "Indicativul CSRF a expirat."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Alegere nevalidă: nu a putut constrânge."
+
+msgid "Choices cannot be None."
+msgstr "Alegerile nu pot fi Niciuna."
+
+msgid "Not a valid choice."
+msgstr "Nu este o alegere validă."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Opțiuni nevalide: una sau mai multe intrări de date nu au putut fi "
+"forțate."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "„%(value)s” nu este o alegere validă pentru acest câmp."
+
+msgid "Not a valid datetime value."
+msgstr "Nu este o valoare de dată și oră validă."
+
+msgid "Not a valid date value."
+msgstr "Nu este o valoare de dată validă."
+
+msgid "Not a valid time value."
+msgstr "Nu este o valoare de timp validă."
+
+msgid "Not a valid week value."
+msgstr "Nu este o valoare de săptămână validă."
+
+msgid "Not a valid integer value."
+msgstr "Nu este o valoare întreagă validă."
+
+msgid "Not a valid decimal value."
+msgstr "Nu este o valoare zecimală validă."
+
+msgid "Not a valid float value."
+msgstr "Nu este o valoare mobilă validă."
+

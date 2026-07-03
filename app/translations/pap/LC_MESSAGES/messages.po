@@ -1,0 +1,1039 @@
+# Translations for PAP.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: pap\n"
+"Language-Team: pap <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Por fabor log in pa haña akseso na e página aki."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "E IMEI aki ta registrá kaba den e sistema."
+
+msgid "Accès non autorisé."
+msgstr "Akseso no outorisá."
+
+msgid "Appareil déverrouillé."
+msgstr "Aparato desblokeá."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alerta kreá! Notifikashonnan mandá."
+
+msgid "Alerte résolue."
+msgstr "Alerta resolvé."
+
+msgid "Pas encore de compte ?"
+msgstr "No tin kuenta ainda?"
+
+msgid "Mon Profil"
+msgstr "Mi Profil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Konekshon eksitoso! Bon bini."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email òf kontraseña inkorekto."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Tur e terenonan nesesario mester ta yená."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Passwordnan no ta kuadra."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "E kontraseña mester kontené por lo ménos 6 karakter."
+
+msgid "Cet email est déjà utilisé."
+msgstr "E email aki ta den uso kaba."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Kuenta kreá ku éksito! Log in."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "No a haña kuenta ku e email aki."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "E number di telefon no ta kuadra ku e number di kuenta."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "E kontraseña nobo ta obligatorio."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Reset di kontraseña ku éksito! Log in."
+
+msgid "Vous avez été déconnecté."
+msgstr "Bo a wòrdu deskonektá."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Marka, modelo i IMEI ta nesesario."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Un aparato ku e IMEI aki ta eksistí kaba."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Aparato registrá ku éksito!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Bo no ta outorisá pa hasi e akshon aki."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "E aparato a wòrdu tranka remotamente ku éksito."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Aparato a wòrdu desblokeá ku éksito."
+
+msgid "Appareil supprimé."
+msgstr "Aparato a wòrdu eliminá."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Por fabor selektá un aparato i tipo di alerta."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "E aparato aki no ta di bo."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alerta a raportá ku éksito. E aparato a wòrdu sigurá."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alerta marká komo resolvé."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Nomber, fam y email ta necesario."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "E email aki ta wòrdu usá kaba pa un otro kuenta."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil a wòrdu aktualisá ku éksito!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Akseso ta reservá pa atministradónan."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Eror marká komo resolvé."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Bo no por eliminá bo mes kuenta."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Usuario a wòrdu eliminá ku éksito."
+
+msgid "Administration"
+msgstr "Atministrashon"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Maneho sentralisá di e sistema Anti-Ladronisia"
+
+msgid "Utilisateurs"
+msgstr "Usuarionan"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktivo awe"
+
+msgid "Nouveaux ce mois"
+msgstr "Nobo e luna aki"
+
+msgid "Appareils"
+msgstr "Aparatonan"
+
+msgid "Alertes actives"
+msgstr "Alertanan aktivo"
+
+msgid "Analytique"
+msgstr "Analítiko"
+
+msgid "Journal d'activité"
+msgstr "Registro di aktividat"
+
+msgid "Erreurs"
+msgstr "Erornan"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Konekshonnan (ultimo 7 dia)"
+
+msgid "Alertes par type"
+msgstr "Alertanan pa tipo"
+
+msgid "Appareils par opérateur"
+msgstr "Aparatonan pa operadó"
+
+msgid "Résumé du système"
+msgstr "Resumen di Sistema"
+
+msgid "Utilisateurs total"
+msgstr "Total di usuarionan"
+
+msgid "Appareils enregistrés"
+msgstr "Aparatonan registrá"
+
+msgid "Total alertes"
+msgstr "Total di alertanan"
+
+msgid "Alertes en cours"
+msgstr "Alertanan aktual"
+
+msgid "Erreurs non résolues"
+msgstr "Erornan no resolvé"
+
+msgid "Dernières activités"
+msgstr "Ultimo aktividatnan"
+
+msgid "récentes"
+msgstr "resiente"
+
+msgid "Utilisateur"
+msgstr "Usuario"
+
+msgid "Action"
+msgstr "Akshon"
+
+msgid "Détails"
+msgstr "Detayenan"
+
+msgid "Adresse IP"
+msgstr "IP adrès"
+
+msgid "Navigateur"
+msgstr "Navegador"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Aucune activité"
+msgstr "No tin aktividat"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Aktividatnan di usuario lo aparesé aki."
+
+msgid "Journal d'erreurs"
+msgstr "Registro di eror"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Drecha tur eror?"
+
+msgid "Tout résoudre"
+msgstr "Solushoná tur kos"
+
+msgid "non résolues"
+msgstr "no resolvé"
+
+msgid "Tout est résolu"
+msgstr "Tur kos ta solushoná"
+
+msgid "Type"
+msgstr "Amabel"
+
+msgid "Description"
+msgstr "Deskripshon"
+
+msgid "Statut"
+msgstr "Estado"
+
+msgid "Résolu"
+msgstr "Resolvé"
+
+msgid "Non résolu"
+msgstr "No resolvé"
+
+msgid "Aucune erreur enregistrée"
+msgstr "No a registrá ningun eror"
+
+msgid "Le système fonctionne correctement."
+msgstr "E sistema ta funshoná korektamente."
+
+msgid "Gestion des utilisateurs"
+msgstr "Maneho di usuario"
+
+msgid "comptes"
+msgstr "kuentanan"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telefòn"
+
+msgid "Rôle"
+msgstr "Papel"
+
+msgid "Inscrit le"
+msgstr "Registrá riba"
+
+msgid "Actions"
+msgstr "Akshonnan"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Elimina e usuario aki i tur su aparatonan?"
+
+msgid "Vous"
+msgstr "ABO"
+
+msgid "Connexions"
+msgstr "Konekshonnan"
+
+msgid "Vol"
+msgstr "Vuelo"
+
+msgid "Perte"
+msgstr "Pèrdida"
+
+msgid "Anomalie"
+msgstr "Anomalia"
+
+msgid "Alertes"
+msgstr "Alertanan"
+
+msgid "Gestion des alertes"
+msgstr "Maneho di alerta"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Raportá ladronisia òf pèrdida i sigui historia"
+
+msgid "Signaler un vol / perte"
+msgstr "Raportá ladronisia/pèrdida"
+
+msgid "En cours"
+msgstr "Den proseso"
+
+msgid "Résolues"
+msgstr "Resolvé"
+
+msgid "Historique des alertes"
+msgstr "Historia di Alerta"
+
+msgid "Appareil"
+msgstr "Aparato"
+
+msgid "Priorité"
+msgstr "Prioridat"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Marka e alerta aki komo resolvé?"
+
+msgid "Résoudre"
+msgstr "Solushoná"
+
+msgid "Aucune alerte"
+msgstr "No tin alerta"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Bon notisia! No a raportá ningun alerta."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Raportá ladronisia òf pèrdida"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Dor di raportá un ladronisia, bo aparato lo wòrdu será outomatikamente i "
+"notifikashonnan lo wòrdu mandá."
+
+msgid "Appareil concerné"
+msgstr "Aparato afektá"
+
+msgid "Sélectionner un appareil"
+msgstr "Selektá un aparato"
+
+msgid "Type d'alerte"
+msgstr "Tipo di alerta"
+
+msgid "Décrivez les circonstances..."
+msgstr "Deskribí e sirkunstansianan..."
+
+msgid "Annuler"
+msgstr "Kanselá"
+
+msgid "Signaler"
+msgstr "Reportá"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Sistema Inteligente Kontra Ladronisia — Plataforma di seguridat pa "
+"telefonnan inteligente"
+
+msgid "Système Anti-Vol"
+msgstr "Sistema Anti-Ladronicia"
+
+msgid "PRINCIPAL"
+msgstr "PRINSIPAL"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "SEGURIDAT"
+
+msgid "Géolocalisation"
+msgstr "Geolokashon"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRASHON"
+
+msgid "Déconnexion"
+msgstr "Deskonektá"
+
+msgid "Changer de langue"
+msgstr "Kambia idioma"
+
+msgid "Rechercher une langue..."
+msgstr "Buska un idioma..."
+
+msgid "Profil"
+msgstr "Profil"
+
+msgid "Changer de thème"
+msgstr "Kambia tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Bista general di seguridat di bo aparato"
+
+msgid "Ajouter un appareil"
+msgstr "Agregá un aparato"
+
+msgid "Appareils volés"
+msgstr "Aparatonan hòrta"
+
+msgid "Verrouillés à distance"
+msgstr "Tranká remotamente"
+
+msgid "Alertes récentes"
+msgstr "Alertanan resien"
+
+msgid "Voir tout"
+msgstr "Mira tur"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "No tin alerta. Bo aparatonan ta safe!"
+
+msgid "Mes appareils"
+msgstr "Mi aparatonan"
+
+msgid "Aucun appareil enregistré"
+msgstr "No tin aparato registrá"
+
+msgid "Ajouter"
+msgstr "Agregá"
+
+msgid "en attente"
+msgstr "na warda"
+
+msgid "Gestion des appareils"
+msgstr "Maneho di aparato"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Registrá i manehá bo telefonnan inteligente"
+
+msgid "Opérateur"
+msgstr "Operadó"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Traha e aparato aki remotamente?"
+
+msgid "Verrouiller"
+msgstr "Kandal"
+
+msgid "Déverrouiller"
+msgstr "Desblokea"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Elimina e aparato aki?"
+
+msgid "Supprimer"
+msgstr "ELIMINÁ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Agregá bo promé smartphone pa kuminsá proteh’é."
+
+msgid "Nouvel appareil"
+msgstr "Aparato nobo"
+
+msgid "Marque"
+msgstr "Marka"
+
+msgid "Sélectionner"
+msgstr "Selekshoná"
+
+msgid "Autre"
+msgstr "Otro"
+
+msgid "Modèle"
+msgstr "Modelo"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "skirbi *#06# riba bo telefon"
+
+msgid "Système d'exploitation"
+msgstr "Sistema operativo"
+
+msgid "Numéro de téléphone"
+msgstr "Number di telefon"
+
+msgid "Enregistrer"
+msgstr "Reskatá"
+
+msgid "Connexion"
+msgstr "Konekshon"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistema di seguridat di telefon inteligente"
+
+msgid "Adresse email"
+msgstr "Adrès di e-mail"
+
+msgid "Mot de passe"
+msgstr "Password"
+
+msgid "Se connecter"
+msgstr "Log in"
+
+msgid "Mot de passe oublié ?"
+msgstr "Bo a lubidá un kontraseña?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Bo tin un kuenta kaba? Di otro manera, sigui krea bo kuenta!"
+
+msgid "Créer un compte"
+msgstr "Krea un kuenta"
+
+msgid "Sécurité maximale"
+msgstr "Seguridat máksimo"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Protehá bo datonan personal ku trankamentu remoto"
+
+msgid "Localisation GPS"
+msgstr "Lokashon di GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Haña e lokalidat eksakto di bo smartphone den tempu real"
+
+msgid "Alertes instantanées"
+msgstr "Alertanan instantáneo"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Risibí notifikashonnan di SMS, email i push den kaso di ladronisia"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Lokalisá bo aparatonan i visualisá áreanan di riesgo"
+
+msgid "Aucun appareil"
+msgstr "No tin aparato"
+
+msgid "Zones à risque"
+msgstr "Areanan di riesgo"
+
+msgid "incidents"
+msgstr "insidentenan"
+
+msgid "Aucune zone signalée"
+msgstr "No a raportá áreanan"
+
+msgid "Niveau"
+msgstr "Nivel"
+
+msgid "Incidents"
+msgstr "Insidentenan"
+
+msgid "Profile utilisateur"
+msgstr "Profil di usuario"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Manehá bo informashon personal"
+
+msgid "Membre depuis"
+msgstr "Miembro for di"
+
+msgid "Modifier mes informations"
+msgstr "Editá mi informashon"
+
+msgid "Prénom"
+msgstr "Promé nòmber"
+
+msgid "Nom"
+msgstr "Nòmber"
+
+msgid "Changer le mot de passe"
+msgstr "Kambia kontraseña"
+
+msgid "Nouveau mot de passe"
+msgstr "Kontraseña Nobo"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "laga blanku pa no kambia"
+
+msgid "Enregistrer les modifications"
+msgstr "Warda kambionan"
+
+msgid "Inscription"
+msgstr "Inskripshon"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Bon Bini na Anti-Theft pa mihó seguridat di bo aparatonan"
+
+msgid "Confirmer"
+msgstr "Konfirmá"
+
+msgid "Créer mon compte"
+msgstr "Krea mi kuenta"
+
+msgid "Déjà un compte ?"
+msgstr "Bo tin un kuenta kaba?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Reset Password"
+
+msgid "Réinitialisation"
+msgstr "Reset"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Introdusí bo email i number di telefon pa verifiká bo identidat"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "E number ku a usa durante registrashon"
+
+msgid "Minimum 6 caractères"
+msgstr "Mínimo 6 karakter"
+
+msgid "Confirmer le mot de passe"
+msgstr "Konfirmá kontraseña"
+
+msgid "Retourner à la"
+msgstr "Regresá na"
+
+msgid "page de connexion"
+msgstr "página di login"
+
+msgid "Vérification sécurisée"
+msgstr "Verifikashon sigur"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Bo identidat ta wòrdu verifiká usando bo email i number di telefon"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Skohe un kontraseña sigur di por lo ménos 6 karakter"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Edishon a frakasá"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Edishon a frakasá: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Eror di Windows: {eror}"
+
+msgid "deprecated"
+msgstr "depreká"
+
+msgid "Options"
+msgstr "Opshonnan"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "A haña argumento èkstra inesperá ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: E ​​komando {name!r} ta depreká.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Abortá!"
+
+msgid "Commands"
+msgstr "Komandonan"
+
+msgid "Missing command."
+msgstr "Faltando komando."
+
+msgid "Value must be an iterable."
+msgstr "Balor mester ta un iterabel."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Ta tuma balornan di {nargs} pero 1 a wòrdu duná."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: E ​​{param_type} {name!r} ta depreká.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Nòmber '{nòmber}' definí dos biaha"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Opshon booleano {decl!r} no por usa e mesun bandera pa bèrdat/falsu."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "No por a determiná nòmber pa opshon ku deklarashonnan {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"No tin opshonnan definí pero un nòmber a wòrdu pasá ({nòmber}). Bo tabata"
+" ke deklará un argumento en bes di esei? Bo tabata ke pasa '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "predeterminá: {predeterminá}"
+
+msgid "required"
+msgstr "rekerí"
+
+msgid "(dynamic)"
+msgstr "(dinámiko)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumentonan ta tuma eksaktamente un deklarashon di parameter, got "
+"{length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Bo ke sigui?"
+
+msgid "Confirm the action without prompting."
+msgstr "Konfirmá e akshon sin pidi."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, vershon %(vershon)s"
+
+msgid "Show the version and exit."
+msgstr "Mustra e vershon i sali."
+
+msgid "Show this message and exit."
+msgstr "Mustra e mensahe aki i sali."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Bo tabata ke men {posibilidat}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Eror: {mensahe}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Purba '{komando} {opshon}' pa yudansa."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Balor inválido: {mensahe}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Balor inválido pa {param_hint}: {mensahe}"
+
+msgid "Missing argument"
+msgstr "Argumento ku falta"
+
+msgid "Missing option"
+msgstr "Opshon ku falta"
+
+msgid "Missing parameter"
+msgstr "Parameter ku falta"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Falta {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parameter ku falta: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "No tin un opshon asina {nòmber!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "No tin e komando ei {nòmber!r}."
+
+msgid "unknown error"
+msgstr "eror deskonosí"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "No por a habri e archivo {nòmber di archivo!r}: {mensahe}"
+
+msgid "Usage:"
+msgstr "Usa:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Karakter di inisio no bálido pa opshon ({opshon})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumento {name!r} ta tuma balornan {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Opshon {nòmber!r} no ta tuma un balor."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Opshon {nòmber!r} ta rekerí un argumento."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Kompletashon di shell no ta wòrdu sostené pa vershonnan di Bash mas bieu "
+"ku 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"No por a detektá vershon di Bash, kompletashon di shell no ta wòrdu "
+"sostené."
+
+msgid "Repeat for confirmation"
+msgstr "Ripití pa konfirmashon"
+
+msgid "Error: The two entered values do not match."
+msgstr "Eror: E dos balornan introdusí no ta kuadra."
+
+msgid "Error: invalid input"
+msgstr "Eror: entrada no bálido"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Koló deskonosí {kolor!r}"
+
+msgid "Press any key to continue..."
+msgstr "Primi kualke boton pa sigui..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Skohe for di:\\n\\t{eskohonan}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{balor!r} no ta {eskoho}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Eskoho({eskohonan})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} no ta kuadra ku e formato {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{balor!r} no ta un {tipo_di_number} bálido."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{balor} no ta den e rango {rango}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} no ta un booleano bálido. Balornan rekonosé: {estadonan}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} no ta un UUID bálido."
+
+msgid "file"
+msgstr "dokumento"
+
+msgid "directory"
+msgstr "direktorio"
+
+msgid "path"
+msgstr "kaminda"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{nòmber} {nòmber di archivo!r} no ta eksistí."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{nòmber} {nòmber di archivo!r} ta un archivo."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{nòmber} {nòmber di archivo!r} ta un direktorio."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{nòmber} {nòmber di archivo!r} no ta lesabel."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{nòmber} {nòmber di archivo!r} no por wòrdu skirbí."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{nòmber} {nòmber di archivo!r} no ta ehekutabel."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} balornan ta nesesario, pero {len_value} a wòrdu duná."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Fluho standart deskonosí '{name}'"
+
+msgid "This field is required."
+msgstr "E tereno aki ta nesesario."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "E archivo no tin un ekstenshon aprobá: {ekstenshonnan}"
+
+msgid "File does not have an approved extension."
+msgstr "E archivo no tin un ekstenshon aprobá."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "E archivo mester ta entre {min_size} i {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Nòmber di kampo '%s' no bálido."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "E kampo mester ta igual na %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "E kampo mester ta por lo ménos %(min)d karakter largu."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "E kampo no por ta mas largu ku %(max)d karakter."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "E kampo mester ta eksaktamente %(max)d karakter largu."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "E kampo mester ta entre %(min)d i %(max)d karakter largu."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "E kantidat mester ta por lo ménos %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "E kantidat mester ta máksimo %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "E kantidat mester ta entre %(min)s i %(max)s."
+
+msgid "Invalid input."
+msgstr "Entrada no bálido."
+
+msgid "Invalid email address."
+msgstr "Adrès di email no bálido."
+
+msgid "Invalid IP address."
+msgstr "Adres IP no bálido."
+
+msgid "Invalid Mac address."
+msgstr "Adrès di Mac no bálido."
+
+msgid "Invalid URL."
+msgstr "URL no bálido."
+
+msgid "Invalid UUID."
+msgstr "UUID no bálido."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Balor inválido, mester ta un di: %(balornan)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Balor inválido, no por ta ningun di: %(balornan)s."
+
+msgid "This field cannot be edited."
+msgstr "E kampo aki no por wòrdu editá."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "E kampo aki ta desabilitá i no por tin un balor."
+
+msgid "Invalid CSRF Token."
+msgstr "Token di CSRF no bálido."
+
+msgid "CSRF token missing."
+msgstr "Token di CSRF ta falta."
+
+msgid "CSRF failed."
+msgstr "CSRF a frakasá."
+
+msgid "CSRF token expired."
+msgstr "E token di CSRF a kaduká."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Eskoho Inválido: no por a koerse."
+
+msgid "Choices cannot be None."
+msgstr "Eskohonan no por ta Ningun."
+
+msgid "Not a valid choice."
+msgstr "No ta un eskoho bálido."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Eskoho(nan) inválido: un òf mas entrada di dato no por a wòrdu forsá."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' no ta un eskoho bálido pa e kampo aki."
+
+msgid "Not a valid datetime value."
+msgstr "No ta un balor di fecha ora bálido."
+
+msgid "Not a valid date value."
+msgstr "No ta un balor di fecha bálido."
+
+msgid "Not a valid time value."
+msgstr "No ta un balor di tempu bálido."
+
+msgid "Not a valid week value."
+msgstr "No ta un balor di siman bálido."
+
+msgid "Not a valid integer value."
+msgstr "No ta un balor di number kompletu bálido."
+
+msgid "Not a valid decimal value."
+msgstr "No ta un balor desimal bálido."
+
+msgid "Not a valid float value."
+msgstr "No ta un balor di flotashon bálido."
+

@@ -1,0 +1,1053 @@
+# English translations for Antivol Intelligent.
+# Copyright (C) 2026 Antivol Intelligent
+# This file is distributed under the same license as the Antivol Intelligent
+# project.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Antivol Intelligent 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: 2026-04-06 19:00+0000\n"
+"Last-Translator: System\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr ""
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgid_plural "'%(value)s' are not valid choices for this field."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "(dynamic)"
+msgstr ""
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRATIVE OFFICE"
+
+msgid "Aborted!"
+msgstr ""
+
+msgid "Accès non autorisé."
+msgstr "Unauthorized access."
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Access restricted to administrators."
+
+msgid "Actifs aujourd'hui"
+msgstr "Active today"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Adresse IP"
+msgstr "IP Address"
+
+msgid "Adresse email"
+msgstr "Email address"
+
+msgid "Ajouter"
+msgstr "Add"
+
+msgid "Ajouter un appareil"
+msgstr "Add a device"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Add your first smartphone to start protecting it."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alert created! Notifications sent."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Error marked as resolved."
+
+msgid "Alerte résolue."
+msgstr "Alert resolved."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr ""
+
+msgid "Alertes"
+msgstr "Alerts"
+
+msgid "Alertes actives"
+msgstr "Active alerts"
+
+msgid "Alertes en cours"
+msgstr "Active alerts"
+
+msgid "Alertes instantanées"
+msgstr "Instant alerts"
+
+msgid "Alertes par type"
+msgstr "Alerts by type"
+
+msgid "Alertes récentes"
+msgstr "Recent alerts"
+
+msgid "Analytique"
+msgstr "Analytics"
+
+msgid "Annuler"
+msgstr "Cancel"
+
+msgid "Anomalie"
+msgstr "Anomaly"
+
+msgid "Appareil"
+msgstr "Device"
+
+msgid "Appareil concerné"
+msgstr "Affected device"
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Device locked successfully!"
+
+msgid "Appareil déverrouillé."
+msgstr "Device unlocked."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Device registered successfully!"
+
+msgid "Appareil supprimé."
+msgstr "Device deleted."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Device locked successfully!"
+
+msgid "Appareils"
+msgstr "Devices"
+
+msgid "Appareils enregistrés"
+msgstr "Registered devices"
+
+msgid "Appareils par opérateur"
+msgstr "Devices by operator"
+
+msgid "Appareils volés"
+msgstr "Stolen devices"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr ""
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+
+msgid "Aucun appareil"
+msgstr "No devices"
+
+msgid "Aucun appareil enregistré"
+msgstr "No registered devices"
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "No account found with this email."
+
+msgid "Aucune activité"
+msgstr "No activity"
+
+msgid "Aucune alerte"
+msgstr "No alerts"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "No alerts. Your devices are safe!"
+
+msgid "Aucune erreur enregistrée"
+msgstr "No errors recorded"
+
+msgid "Aucune zone signalée"
+msgstr "No zones reported"
+
+msgid "Autre"
+msgstr "Other"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Welcome to Antivol Intelligent for better device security"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Good news! No alerts have been reported."
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+
+msgid "CSRF failed."
+msgstr ""
+
+msgid "CSRF token expired."
+msgstr ""
+
+msgid "CSRF token missing."
+msgstr ""
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "This IMEI is already registered in the system."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr ""
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "This email is already used by another account."
+
+msgid "Cet email est déjà utilisé."
+msgstr "This email is already in use."
+
+msgid "Changer de langue"
+msgstr "Change theme"
+
+msgid "Changer de thème"
+msgstr "Change theme"
+
+msgid "Changer le mot de passe"
+msgstr "Change password"
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr ""
+
+msgid "Choices cannot be None."
+msgstr ""
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Choose a secure password of at least 6 characters"
+
+#, python-brace-format
+msgid ""
+"Choose from:\n"
+"\t{choices}"
+msgstr ""
+
+msgid "Commands"
+msgstr ""
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Account created successfully! Please log in."
+
+msgid "Confirm the action without prompting."
+msgstr ""
+
+msgid "Confirmer"
+msgstr "Confirm"
+
+msgid "Confirmer le mot de passe"
+msgstr "Confirm password"
+
+msgid "Connexion"
+msgstr "Login"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Login successful! Welcome."
+
+msgid "Connexions"
+msgstr "Logins"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Logins (last 7 days)"
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr ""
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr ""
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+
+msgid "Créer mon compte"
+msgstr "Create my account"
+
+msgid "Créer un compte"
+msgstr "Create an account"
+
+msgid "Date"
+msgstr "Date"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+
+msgid "Dernières activités"
+msgstr "Recent activity"
+
+msgid "Description"
+msgstr "Description"
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgid_plural "(Did you mean one of: {possibilities}?)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Do you want to continue?"
+msgstr ""
+
+msgid "Déconnexion"
+msgstr "Logout"
+
+msgid "Décrivez les circonstances..."
+msgstr "Describe the circumstances..."
+
+msgid "Déjà un compte ?"
+msgstr "Already have an account?"
+
+msgid "Détails"
+msgstr "Details"
+
+msgid "Déverrouiller"
+msgstr "Unlock"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Incorrect email or password."
+
+msgid "En cours"
+msgstr "In progress"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"By reporting a theft, your device will be automatically locked and "
+"notifications will be sent."
+
+msgid "Enregistrer"
+msgstr "Save"
+
+msgid "Enregistrer les modifications"
+msgstr "Save changes"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Register and manage your smartphones"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Enter your email and phone number to verify your identity"
+
+msgid "Erreur marquée comme résolue."
+msgstr "Error marked as resolved."
+
+msgid "Erreurs"
+msgstr "Errors"
+
+msgid "Erreurs non résolues"
+msgstr "Unresolved errors"
+
+msgid "Error: The two entered values do not match."
+msgstr ""
+
+msgid "Error: invalid input"
+msgstr ""
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr ""
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgid_plural "Field cannot be longer than %(max)d characters."
+msgstr[0] ""
+msgstr[1] ""
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgid_plural "Field must be at least %(min)d characters long."
+msgstr[0] ""
+msgstr[1] ""
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr ""
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr ""
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgid_plural "Field must be exactly %(max)d characters long."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "File does not have an approved extension."
+msgstr ""
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr ""
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr ""
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Centralized management of the AntiVol system"
+
+msgid "Gestion des alertes"
+msgstr "Alert management"
+
+msgid "Gestion des appareils"
+msgstr "Device management"
+
+msgid "Gestion des utilisateurs"
+msgstr "User management"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgid_plural "Got unexpected extra arguments ({args})"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Géolocalisation"
+msgstr "Geolocation"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Manage your personal information"
+
+msgid "Historique des alertes"
+msgstr "Alert history"
+
+msgid "Incidents"
+msgstr "Write-off"
+
+msgid "Inscription"
+msgstr "Registration"
+
+msgid "Inscrit le"
+msgstr "Registered on"
+
+msgid "Invalid CSRF Token."
+msgstr ""
+
+msgid "Invalid Choice: could not coerce."
+msgstr ""
+
+msgid "Invalid IP address."
+msgstr ""
+
+msgid "Invalid Mac address."
+msgstr ""
+
+msgid "Invalid URL."
+msgstr ""
+
+msgid "Invalid UUID."
+msgstr ""
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+
+msgid "Invalid email address."
+msgstr ""
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr ""
+
+msgid "Invalid input."
+msgstr ""
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr ""
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr ""
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr ""
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr ""
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr ""
+
+msgid "Journal d'activité"
+msgstr "Activity log"
+
+msgid "Journal d'erreurs"
+msgstr "Error log"
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "IMEI and model are required."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Password must be at least 6 characters long."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "The new password is required."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "The phone number does not match the account."
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "The number used during registration"
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "IMEI and model are required."
+
+msgid "Le système fonctionne correctement."
+msgstr "The system is working properly."
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "User activities will appear here."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Passwords do not match."
+
+msgid "Localisation GPS"
+msgstr "GPS Location"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Locate your devices and visualize risk zones"
+
+msgid "Marque"
+msgstr "Brand"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Mark this alert as resolved?"
+
+msgid "Membre depuis"
+msgstr "Member since"
+
+msgid "Mes appareils"
+msgstr "My devices"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimum 6 characters"
+
+msgid "Missing argument"
+msgstr ""
+
+msgid "Missing command."
+msgstr ""
+
+msgid "Missing option"
+msgstr ""
+
+msgid "Missing parameter"
+msgstr ""
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr ""
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr ""
+
+msgid "Modifier mes informations"
+msgstr "Edit my information"
+
+msgid "Modèle"
+msgstr "Model"
+
+msgid "Mon Profil"
+msgstr "My Profile"
+
+msgid "Mot de passe"
+msgstr "Password"
+
+msgid "Mot de passe oublié ?"
+msgstr "Forgot your password?"
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Password reset successfully! Please log in."
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr ""
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Niveau"
+msgstr "Level"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr ""
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr ""
+
+msgid "Nom"
+msgstr "Last name"
+
+msgid "Non résolu"
+msgstr "Unresolved"
+
+msgid "Not a valid choice."
+msgstr ""
+
+msgid "Not a valid date value."
+msgstr ""
+
+msgid "Not a valid datetime value."
+msgstr ""
+
+msgid "Not a valid decimal value."
+msgstr ""
+
+msgid "Not a valid float value."
+msgstr ""
+
+msgid "Not a valid integer value."
+msgstr ""
+
+msgid "Not a valid time value."
+msgstr ""
+
+msgid "Not a valid week value."
+msgstr ""
+
+msgid "Nouveau mot de passe"
+msgstr "New password"
+
+msgid "Nouveaux ce mois"
+msgstr "New this month"
+
+msgid "Nouvel appareil"
+msgstr "New device"
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr ""
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr ""
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr ""
+
+msgid "Numéro de téléphone"
+msgstr "Phone number"
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr ""
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgid_plural "Option {name!r} requires {nargs} arguments."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Options"
+msgstr "Actions"
+
+msgid "Opérateur"
+msgstr "Operator"
+
+msgid "PRINCIPAL"
+msgstr "MAIN"
+
+msgid "Pas encore de compte ?"
+msgstr "Don't have an account?"
+
+msgid "Perte"
+msgstr "Loss"
+
+msgid "Press any key to continue..."
+msgstr ""
+
+msgid "Priorité"
+msgstr "Priority"
+
+msgid "Profil"
+msgstr "Profile"
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profile updated."
+
+msgid "Profile utilisateur"
+msgstr "User"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Protect your personal data with remote locking"
+
+msgid "Prénom"
+msgstr "First name"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Receive SMS, email and push notifications in case of theft"
+
+msgid "Rechercher une langue..."
+msgstr ""
+
+msgid "Repeat for confirmation"
+msgstr ""
+
+msgid "Retourner à la"
+msgstr "Return to"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Find the exact location of your smartphone in real time"
+
+msgid "Réinitialisation"
+msgstr "Reset"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Reset password"
+
+msgid "Résolu"
+msgstr "Resolved"
+
+msgid "Résolues"
+msgstr "Resolved"
+
+msgid "Résoudre"
+msgstr "Resolve"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr ""
+
+msgid "Résumé du système"
+msgstr "System summary"
+
+msgid "Rôle"
+msgstr "Role"
+
+msgid "Se connecter"
+msgstr "Log in"
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+
+msgid "Show the version and exit."
+msgstr ""
+
+msgid "Show this message and exit."
+msgstr ""
+
+msgid "Signaler"
+msgstr "Report"
+
+msgid "Signaler un vol / perte"
+msgstr "Report theft / loss"
+
+msgid "Signaler un vol ou une perte"
+msgstr "Report a theft or loss"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Report a theft or loss and track the history"
+
+msgid "Statut"
+msgstr "Status"
+
+msgid "Supprimer"
+msgstr "Delete"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Delete this device?"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Delete this user and all their devices?"
+
+msgid "Système Anti-Vol"
+msgstr "Antivol Intelligent System"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Smart Anti-Theft System — Security platform for smartphones"
+
+msgid "Système d'exploitation"
+msgstr "Operating system"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Smartphone security system"
+
+msgid "SÉCURITÉ"
+msgstr "SECURITY"
+
+msgid "Sécurité maximale"
+msgstr "Maximum security"
+
+msgid "Sélectionner"
+msgstr "Select"
+
+msgid "Sélectionner un appareil"
+msgstr "Select a device"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgid_plural "Takes {nargs} values but {len} were given."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "This field cannot be edited."
+msgstr ""
+
+msgid "This field is disabled and cannot have a value."
+msgstr ""
+
+msgid "This field is required."
+msgstr ""
+
+msgid "Total alertes"
+msgstr "Total alerts"
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "All required fields must be filled in."
+
+msgid "Tout est résolu"
+msgstr "All resolved"
+
+msgid "Tout résoudre"
+msgstr "Resolve"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr ""
+
+msgid "Type"
+msgstr "Kind"
+
+msgid "Type d'alerte"
+msgstr "Alert type"
+
+msgid "Téléphone"
+msgstr "Phone"
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr ""
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr ""
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr ""
+
+msgid "Usage:"
+msgstr ""
+
+msgid "Utilisateur"
+msgstr "User"
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "User deleted."
+
+msgid "Utilisateurs"
+msgstr "Users"
+
+msgid "Utilisateurs total"
+msgstr "Total users"
+
+msgid "Value must be an iterable."
+msgstr ""
+
+msgid "Verrouiller"
+msgstr "Lock"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Lock this device remotely?"
+
+msgid "Verrouillés à distance"
+msgstr "Remotely locked"
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Please select a device and an alert type."
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Please log in to access this page."
+
+msgid "Voir tout"
+msgstr "View all"
+
+msgid "Vol"
+msgstr "Theft"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Your identity is verified through your email and phone number"
+
+msgid "Vous"
+msgstr "You"
+
+msgid "Vous avez été déconnecté."
+msgstr "You have been logged out."
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr ""
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "You cannot delete your own account."
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Overview of your device security"
+
+msgid "Vérification sécurisée"
+msgstr "Secure verification"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr ""
+
+msgid "Zones à risque"
+msgstr "Risk zones"
+
+msgid "comptes"
+msgstr "accounts"
+
+msgid "d"
+msgstr ""
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr ""
+
+msgid "deprecated"
+msgstr ""
+
+msgid "directory"
+msgstr ""
+
+msgid "en attente"
+msgstr ""
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr ""
+
+msgid "file"
+msgstr "Profile"
+
+msgid "incidents"
+msgstr "incidents"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "leave empty to keep current"
+
+msgid "non résolues"
+msgstr "unresolved"
+
+msgid "page de connexion"
+msgstr "login page"
+
+msgid "path"
+msgstr ""
+
+msgid "required"
+msgstr ""
+
+msgid "récentes"
+msgstr "recent"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "dial *#06# on your phone"
+
+msgid "unknown error"
+msgstr ""
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr ""
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr ""
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgid_plural "{len_type} values are required, but {len_value} were given."
+msgstr[0] ""
+msgstr[1] ""
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr ""
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr ""
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr ""
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr ""
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr ""
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr ""
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgid_plural "{value!r} does not match the formats {formats}."
+msgstr[0] ""
+msgstr[1] ""
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr ""
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr ""
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr ""
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgid_plural "{value!r} is not one of {choices}."
+msgstr[0] ""
+msgstr[1] ""
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr ""
+

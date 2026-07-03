@@ -1,0 +1,1049 @@
+# Translations for MG.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: mg\n"
+"Language-Team: mg <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Midira mba hidirana amin'ity pejy ity azafady."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Ity IMEI ity dia efa voasoratra ao amin'ny rafitra."
+
+msgid "Accès non autorisé."
+msgstr "Fidirana tsy nahazoana alalana."
+
+msgid "Appareil déverrouillé."
+msgstr "Voahidy ny fitaovana."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Fampandrenesana natao! Nalefa ny fampahafantarana."
+
+msgid "Alerte résolue."
+msgstr "Voavaha ny fanairana."
+
+msgid "Pas encore de compte ?"
+msgstr "Tsy mbola misy kaonty?"
+
+msgid "Mon Profil"
+msgstr "Ny mombamomba ahy"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Tafita ny fifandraisana! Tongasoa."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "mailaka na tenimiafina diso."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Ny saha rehetra takiana dia tsy maintsy fenoina."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Tsy mifanaraka ny tenimiafina."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Ny tenimiafina dia tsy maintsy misy tarehintsoratra 6 farafahakeliny."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Ity mailaka ity dia efa ampiasaina."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Vita soa aman-tsara ny kaonty! Hiditra."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Tsy misy kaonty hita amin'ity mailaka ity."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Tsy mifanaraka amin'ny laharan'ny kaonty ny laharan-telefaona."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Ny tenimiafina vaovao dia tsy maintsy atao."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Nahomby ny famerenana ny tenimiafina! Hiditra."
+
+msgid "Vous avez été déconnecté."
+msgstr "Tapaka ny fifandraisanao."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Mila marika, modely ary IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Efa misy fitaovana misy an'io IMEI io."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Voasoratra soa aman-tsara ny fitaovana!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Tsy mahazo alalana hanao ity hetsika ity ianao."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Nihidy soa aman-tsara ny fitaovana."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Voavaha soa aman-tsara ny fitaovana."
+
+msgid "Appareil supprimé."
+msgstr "Voafafa ny fitaovana."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Mifidiana fitaovana sy karazana fanairana azafady."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Tsy anao ity fitaovana ity."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Notaterina soa aman-tsara ny fanairana. Voaro ny fitaovana."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Fanairana voamarika ho voavaha."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Ilaina ny anarana voalohany, anarana farany ary mailaka."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Ity mailaka ity dia efa ampiasain'ny kaonty hafa."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Nohavaozina soa aman-tsara ny mombamomba!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Natokana ho an'ny mpitantana ny fidirana."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Misy lesoka voamarika ho voavaha."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Tsy afaka mamafa ny kaontinao manokana ianao."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Voafafa soa aman-tsara ny mpampiasa."
+
+msgid "Administration"
+msgstr "fitantanan-draharaha"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Fitantanana foibe ny rafitra miady amin'ny halatra"
+
+msgid "Utilisateurs"
+msgstr "mpampiasa"
+
+msgid "Actifs aujourd'hui"
+msgstr "Mavitrika androany"
+
+msgid "Nouveaux ce mois"
+msgstr "Vaovao amin'ity volana ity"
+
+msgid "Appareils"
+msgstr "fitaovana"
+
+msgid "Alertes actives"
+msgstr "Fampandrenesana mavitrika"
+
+msgid "Analytique"
+msgstr "poto-"
+
+msgid "Journal d'activité"
+msgstr "Diarin'ny hetsika"
+
+msgid "Erreurs"
+msgstr "fahadisoana"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Fifandraisana (7 andro farany)"
+
+msgid "Alertes par type"
+msgstr "Fanairana araka ny karazana"
+
+msgid "Appareils par opérateur"
+msgstr "Fitaovana avy amin'ny mpandraharaha"
+
+msgid "Résumé du système"
+msgstr "Famintinana ny rafitra"
+
+msgid "Utilisateurs total"
+msgstr "Total mpampiasa"
+
+msgid "Appareils enregistrés"
+msgstr "Fitaovana voasoratra anarana"
+
+msgid "Total alertes"
+msgstr "Fanairana tanteraka"
+
+msgid "Alertes en cours"
+msgstr "Fampandrenesana ankehitriny"
+
+msgid "Erreurs non résolues"
+msgstr "Error tsy voavaha"
+
+msgid "Dernières activités"
+msgstr "Hetsika farany"
+
+msgid "récentes"
+msgstr "vao haingana"
+
+msgid "Utilisateur"
+msgstr "mpampiasa"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Détails"
+msgstr "tsipiriany"
+
+msgid "Adresse IP"
+msgstr "adiresy IP"
+
+msgid "Navigateur"
+msgstr "mpitety"
+
+msgid "Date"
+msgstr "Daty"
+
+msgid "Aucune activité"
+msgstr "Tsy misy hetsika"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Hiseho eto ny hetsika ataon'ny mpampiasa."
+
+msgid "Journal d'erreurs"
+msgstr "Diarin'ny hadisoana"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Amboary ny lesoka rehetra?"
+
+msgid "Tout résoudre"
+msgstr "Vahao ny zava-drehetra"
+
+msgid "non résolues"
+msgstr "voavaha"
+
+msgid "Tout est résolu"
+msgstr "Voavaha ny zava-drehetra"
+
+msgid "Type"
+msgstr "AHOANA"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Statut"
+msgstr "sata"
+
+msgid "Résolu"
+msgstr "tapa-kevitra"
+
+msgid "Non résolu"
+msgstr "voavaha"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Tsy misy lesoka voarakitra"
+
+msgid "Le système fonctionne correctement."
+msgstr "Miasa tsara ny rafitra."
+
+msgid "Gestion des utilisateurs"
+msgstr "Fitantanana mpampiasa"
+
+msgid "comptes"
+msgstr "kaonty"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Phone"
+
+msgid "Rôle"
+msgstr "anjara asa"
+
+msgid "Inscrit le"
+msgstr "Nisoratra anarana tamin'ny"
+
+msgid "Actions"
+msgstr "asa"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Fafao ity mpampiasa ity sy ny fitaovany rehetra?"
+
+msgid "Vous"
+msgstr "ianareo"
+
+msgid "Connexions"
+msgstr "fifandraisana"
+
+msgid "Vol"
+msgstr "NANDOSITRA"
+
+msgid "Perte"
+msgstr "very"
+
+msgid "Anomalie"
+msgstr "Anomaly"
+
+msgid "Alertes"
+msgstr "fanairana"
+
+msgid "Gestion des alertes"
+msgstr "Fitantanana fanairana"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Mitatitra ny halatra na fahaverezana ary araho ny tantara"
+
+msgid "Signaler un vol / perte"
+msgstr "Mitatitra ny halatra/very"
+
+msgid "En cours"
+msgstr "Eo an-dàlana"
+
+msgid "Résolues"
+msgstr "tapa-kevitra"
+
+msgid "Historique des alertes"
+msgstr "Tantaran'ny fanairana"
+
+msgid "Appareil"
+msgstr "Fitaovana"
+
+msgid "Priorité"
+msgstr "LAHARAMPAHAMEHANA"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Mariho ho voavaha ity fanairana ity?"
+
+msgid "Résoudre"
+msgstr "voavaha"
+
+msgid "Aucune alerte"
+msgstr "Tsy misy fanairana"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Vaovao mahafaly! Tsy nisy fanairana notaterina."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Mitatitra halatra na fahaverezana"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Amin'ny filazana ny halatra dia ho voahidy ho azy ny fitaovanao ary "
+"halefa ny fampandrenesana."
+
+msgid "Appareil concerné"
+msgstr "Fitaovana voakasika"
+
+msgid "Sélectionner un appareil"
+msgstr "Mifidiana fitaovana"
+
+msgid "Type d'alerte"
+msgstr "Karazana fanairana"
+
+msgid "Décrivez les circonstances..."
+msgstr "Farito ny toe-javatra..."
+
+msgid "Annuler"
+msgstr "hanafoana"
+
+msgid "Signaler"
+msgstr "TATITRA"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Intelligent Anti-Theft System - Sehatra fiarovana ho an'ny finday"
+
+msgid "Système Anti-Vol"
+msgstr "Rafitra miady amin'ny halatra"
+
+msgid "PRINCIPAL"
+msgstr "MAIN"
+
+msgid "Tableau de bord"
+msgstr "anaty fiara"
+
+msgid "SÉCURITÉ"
+msgstr "ARO"
+
+msgid "Géolocalisation"
+msgstr "Geolocation"
+
+msgid "ADMINISTRATION"
+msgstr "fitantanan-draharaha"
+
+msgid "Déconnexion"
+msgstr "elektrônika"
+
+msgid "Changer de langue"
+msgstr "Hanova fiteny"
+
+msgid "Rechercher une langue..."
+msgstr "Mitady fiteny..."
+
+msgid "Profil"
+msgstr "TANTARANY"
+
+msgid "Changer de thème"
+msgstr "Hanova lohahevitra"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Overview ny fiarovana ny fitaovanao"
+
+msgid "Ajouter un appareil"
+msgstr "Manampia fitaovana"
+
+msgid "Appareils volés"
+msgstr "Fitaovana nangalatra"
+
+msgid "Verrouillés à distance"
+msgstr "Voahidy lavitra"
+
+msgid "Alertes récentes"
+msgstr "Fampandrenesana vao haingana"
+
+msgid "Voir tout"
+msgstr "Jereo daholo"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Tsy misy fanairana. Azo antoka ny fitaovanao!"
+
+msgid "Mes appareils"
+msgstr "Ny fitaovako"
+
+msgid "Aucun appareil enregistré"
+msgstr "Tsy misy fitaovana voasoratra anarana"
+
+msgid "Ajouter"
+msgstr "hametraka"
+
+msgid "en attente"
+msgstr "mihantona"
+
+msgid "Gestion des appareils"
+msgstr "Fitantanana fitaovana"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Misoratra anarana ary tantano ny findainao"
+
+msgid "Opérateur"
+msgstr "mpandraharaha"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Hidio lavitra ity fitaovana ity?"
+
+msgid "Verrouiller"
+msgstr "Hidio"
+
+msgid "Déverrouiller"
+msgstr "hamaha"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Fafao ity fitaovana ity?"
+
+msgid "Supprimer"
+msgstr "Fafao"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Ampio ny findainao voalohany hanombohana ny fiarovana azy."
+
+msgid "Nouvel appareil"
+msgstr "Fitaovana vaovao"
+
+msgid "Marque"
+msgstr "Marika"
+
+msgid "Sélectionner"
+msgstr "Select"
+
+msgid "Autre"
+msgstr "hafa"
+
+msgid "Modèle"
+msgstr "MODELY"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "type *#06# amin'ny findainao"
+
+msgid "Système d'exploitation"
+msgstr "Rafitra fikirakirana"
+
+msgid "Numéro de téléphone"
+msgstr "Nomeraon-telefaona"
+
+msgid "Enregistrer"
+msgstr "afa-tsy"
+
+msgid "Connexion"
+msgstr "fifandraisana"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Rafitra fiarovana smartphone"
+
+msgid "Adresse email"
+msgstr "Adiresy mailaka"
+
+msgid "Mot de passe"
+msgstr "Password"
+
+msgid "Se connecter"
+msgstr "Hiditra"
+
+msgid "Mot de passe oublié ?"
+msgstr "Adino ny tenimiafina?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Efa manana kaonty ve ianao? Raha tsy izany, miroso amin'ny famoronana ny "
+"kaontinao!"
+
+msgid "Créer un compte"
+msgstr "Hamorona kaonty"
+
+msgid "Sécurité maximale"
+msgstr "Fiarovana ambony indrindra"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Arovy ny angon-drakitrao manokana amin'ny fanakatonana lavitra"
+
+msgid "Localisation GPS"
+msgstr "Toerana GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Tadiavo ny toerana tena misy ny findainao amin'ny fotoana tena izy"
+
+msgid "Alertes instantanées"
+msgstr "Fanairana eo noho eo"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Mandraisa SMS, mailaka ary fampandrenesana fanosehana raha misy halatra"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Tadiavo ny fitaovanao ary alaivo sary an-tsaina ny faritra atahorana"
+
+msgid "Aucun appareil"
+msgstr "Tsy misy fitaovana"
+
+msgid "Zones à risque"
+msgstr "Faritra atahorana"
+
+msgid "incidents"
+msgstr "zava-nitranga"
+
+msgid "Aucune zone signalée"
+msgstr "Tsy nisy faritra notaterina"
+
+msgid "Niveau"
+msgstr "ambaratonga"
+
+msgid "Incidents"
+msgstr "zava-nitranga"
+
+msgid "Profile utilisateur"
+msgstr "mombamomba ny mpampiasa"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Tantano ny mombamomba anao manokana"
+
+msgid "Membre depuis"
+msgstr "Mpikambana hatramin'izay"
+
+msgid "Modifier mes informations"
+msgstr "Ahitsio ny mombamomba ahy"
+
+msgid "Prénom"
+msgstr "Fanampin'anarana"
+
+msgid "Nom"
+msgstr "Anarana"
+
+msgid "Changer le mot de passe"
+msgstr "Hanova tenimiafina"
+
+msgid "Nouveau mot de passe"
+msgstr "Tenimiafina vaovao"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "avelao ho banga mba tsy hiova"
+
+msgid "Enregistrer les modifications"
+msgstr "Tehirizo ny fanovana"
+
+msgid "Inscription"
+msgstr "fisoratana anarana"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Tongasoa eto amin'ny Anti-Theft ho fiarovana tsara kokoa ny fitaovanao"
+
+msgid "Confirmer"
+msgstr "Manamarina"
+
+msgid "Créer mon compte"
+msgstr "Mamorona ny kaontiko"
+
+msgid "Déjà un compte ?"
+msgstr "Efa manana kaonty?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Avereno ny tenimiafina"
+
+msgid "Réinitialisation"
+msgstr "Avereno"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Ampidiro ny mailaka sy ny nomeraon-telefaoninao hanamarina ny maha-izy "
+"anao"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Ny isa ampiasaina mandritra ny fisoratana anarana"
+
+msgid "Minimum 6 caractères"
+msgstr "tarehintsoratra 6 farafahakeliny"
+
+msgid "Confirmer le mot de passe"
+msgstr "Hamafiso ny tenimiafina"
+
+msgid "Retourner à la"
+msgstr "Hiverina any amin'ny"
+
+msgid "page de connexion"
+msgstr "pejy fidirana"
+
+msgid "Vérification sécurisée"
+msgstr "Fanamarinana azo antoka"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Ny mombamomba anao dia voamarina amin'ny alàlan'ny mailaka sy ny "
+"nomeraon-telefaonanao"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Misafidiana tenimiafina azo antoka misy tarehintsoratra 6 farafahakeliny"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Tsy nahomby ny fanitsiana"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Tsy nahomby ny fanitsiana: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Error Windows: {error}"
+
+msgid "deprecated"
+msgstr "tsy ampiasaina"
+
+msgid "Options"
+msgstr "FANDIKANA"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Nahazo tohan-kevitra fanampiny tsy nampoizina ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"Fampitandremana Deprecation: Tsy ampiasaina intsony ny baiko "
+"{name!r}.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Tapaka!"
+
+msgid "Commands"
+msgstr "didy"
+
+msgid "Missing command."
+msgstr "Tsy misy baiko."
+
+msgid "Value must be an iterable."
+msgstr "Ny sanda dia tokony ho azo averina."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Maka sanda {nargs} fa nomena 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Fampitandremana deprecation: Ny {param_type} {name!r} dia tsy "
+"ampiasaina.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "anarana '{name}' voafaritra indroa"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Ny safidy Boolean {decl!r} dia tsy afaka mampiasa saina mitovy amin'ny "
+"marina/diso."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Tsy afaka namaritra anarana ho an'ny safidy misy fanambarana {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Tsy misy safidy voafaritra fa nomena anarana ({name}). Nanambara ady "
+"hevitra ve ianao? '--{name}' ve no tianao holazaina?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default}"
+
+msgid "required"
+msgstr "ilaina"
+
+msgid "(dynamic)"
+msgstr "(dynamique)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Ny tohan-kevitra dia maka fanambarana paramètre iray, nahazo {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Te hanohy ve ianao?"
+
+msgid "Confirm the action without prompting."
+msgstr "Hamafiso ny hetsika tsy misy bitsika."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, version %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Asehoy ny dikan-ny ary mialà."
+
+msgid "Show this message and exit."
+msgstr "Asehoy ity hafatra ity ary mialà."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "{possibility} ve no tianao holazaina?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Error: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Andramo ny '{command} {option}' mba hahazoana fanampiana."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Sanda tsy mety: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Sanda tsy mety ho an'ny {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Tsy ampy hevitra"
+
+msgid "Missing option"
+msgstr "Safidy tsy hita"
+
+msgid "Missing parameter"
+msgstr "Paramètre tsy hita"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Tsy misy {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parameter tsy ampy: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Tsy misy safidy toy izany {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Tsy misy baiko toy izany {name!r}."
+
+msgid "unknown error"
+msgstr "fahadisoana tsy fantatra"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Tsy afaka nanokatra rakitra {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Ampiasao:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Toetra fanombohana tsy mety amin'ny safidy ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Ny adihevitra {name!r} dia maka sanda {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Ny safidy {name!r} dia tsy maka sanda."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Ny safidy {name!r} dia mila hevitra."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Ny fahavitan'ny Shell dia tsy tohanana amin'ny dikan-teny Bash efa "
+"antitra 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Tsy hita ny dikan-teny Bash, tsy tohana ny famitana ny akorandriaka."
+
+msgid "Repeat for confirmation"
+msgstr "Avereno ho fanamafisana"
+
+msgid "Error: The two entered values do not match."
+msgstr "Error: Tsy mifanentana ireo sanda roa nampidirina."
+
+msgid "Error: invalid input"
+msgstr "Error: fampidirana tsy mety"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Loko tsy fantatra {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Tsindrio izay fanalahidy hanohizana..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Safidio amin'ny:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} dia tsy {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Safidy ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} dia tsy mifanaraka amin'ny endrika {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} dia tsy {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} dia tsy ao anatin'ny {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} dia tsy boolean mitombina. Soatoavina fantatra: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} dia tsy UUID manan-kery."
+
+msgid "file"
+msgstr "rakitra"
+
+msgid "directory"
+msgstr "lahatahiry"
+
+msgid "path"
+msgstr "LALANA"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} dia tsy misy."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} dia rakitra."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} dia lahatahiry iray."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} dia tsy azo vakina."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} dia tsy azo soratana."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} dia tsy azo tanterahina."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Ilaina ny sanda {len_type}, fa nomena ny {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "'{name}' tsy fantatra"
+
+msgid "This field is required."
+msgstr "Tsy maintsy fenoina ity saha ity."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Tsy manana fanitarana ankatoavina ny rakitra: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Tsy manana fanitarana nankatoavina ny rakitra."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr ""
+"Ny rakitra dia tsy maintsy eo anelanelan'ny {min_size} sy {max_size} "
+"bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Anarana saha tsy mety '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Ny saha dia tsy maintsy mitovy amin'ny %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Ny saha dia tsy maintsy %(min)d fara-fahakeliny ny halavany."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Ny saha dia tsy afaka mihoatra ny %(max)d tarehintsoratra."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Tokony ho %(max)d ny halavan'ny saha."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Tokony ho eo anelanelan'ny %(min)d sy %(max)d tarehintsoratra ny saha."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Ny isa dia tsy maintsy farafahakeliny %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Ny isa dia tokony ho %(max)s fara-fahakeliny."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Ny isa dia tsy maintsy eo anelanelan'ny %(min)s sy %(max)s."
+
+msgid "Invalid input."
+msgstr "Fampidirana tsy mety."
+
+msgid "Invalid email address."
+msgstr "Adiresy mailaka tsy mety."
+
+msgid "Invalid IP address."
+msgstr "Adiresy IP tsy mety."
+
+msgid "Invalid Mac address."
+msgstr "Adiresy Mac tsy mety."
+
+msgid "Invalid URL."
+msgstr "URL tsy mety."
+
+msgid "Invalid UUID."
+msgstr "UUID tsy mety."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Sanda tsy mety, tsy maintsy iray amin'ny: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Sanda tsy mety, tsy mety amin'ny: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Tsy azo ovaina ity saha ity."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Ity saha ity dia kilemaina ary tsy misy sandany."
+
+msgid "Invalid CSRF Token."
+msgstr "Token CSRF tsy mety."
+
+msgid "CSRF token missing."
+msgstr "CSRF token tsy hita."
+
+msgid "CSRF failed."
+msgstr "Tsy nahomby ny CSRF."
+
+msgid "CSRF token expired."
+msgstr "Lany daty ny token'ny CSRF."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Safidy tsy mety: tsy azo terena."
+
+msgid "Choices cannot be None."
+msgstr "Tsy mety ho Tsia ny safidy."
+
+msgid "Not a valid choice."
+msgstr "Tsy safidy mitombina."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Safidy tsy mety: tsy azo terena ny fampidirana data iray na maromaro."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' dia tsy safidy mety amin'ity saha ity."
+
+msgid "Not a valid datetime value."
+msgstr "Tsy sanda daty manan-kery."
+
+msgid "Not a valid date value."
+msgstr "Tsy sanda daty manan-kery."
+
+msgid "Not a valid time value."
+msgstr "Tsy sanda ara-potoana manan-kery."
+
+msgid "Not a valid week value."
+msgstr "Tsy sanda mety amin'ny herinandro."
+
+msgid "Not a valid integer value."
+msgstr "Tsy sanda integer manankery."
+
+msgid "Not a valid decimal value."
+msgstr "Tsy sanda desimal mitombina."
+
+msgid "Not a valid float value."
+msgstr "Tsy sanda mitsingevana mitombina."
+

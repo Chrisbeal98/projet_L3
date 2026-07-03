@@ -1,0 +1,1038 @@
+# Translations for LV.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: lv\n"
+"Language-Team: lv <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 :"
+" 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Lūdzu, piesakieties, lai piekļūtu šai lapai."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Šis IMEI jau ir reģistrēts sistēmā."
+
+msgid "Accès non autorisé."
+msgstr "Nesankcionēta piekļuve."
+
+msgid "Appareil déverrouillé."
+msgstr "Ierīce ir atbloķēta."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Brīdinājums izveidots! Paziņojumi nosūtīti."
+
+msgid "Alerte résolue."
+msgstr "Brīdinājums atrisināts."
+
+msgid "Pas encore de compte ?"
+msgstr "Vēl nav konta?"
+
+msgid "Mon Profil"
+msgstr "Mans profils"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Savienojums veiksmīgs! Laipni lūdzam."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Nepareizs e-pasts vai parole."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Jāaizpilda visi obligātie lauki."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Paroles nesakrīt."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Parolei jāsatur vismaz 6 rakstzīmes."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Šis e-pasts jau tiek izmantots."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Konts veiksmīgi izveidots! Piesakieties."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Ar šo e-pasta adresi netika atrasts neviens konts."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Tālruņa numurs nesakrīt ar konta numuru."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Jaunā parole ir obligāta."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Paroles atiestatīšana veiksmīgi! Piesakieties."
+
+msgid "Vous avez été déconnecté."
+msgstr "Jūs esat atvienots."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Nepieciešams zīmols, modelis un IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Ierīce ar šo IMEI jau pastāv."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Ierīce veiksmīgi reģistrēta!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Jums nav tiesību veikt šo darbību."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Ierīce veiksmīgi attālināti bloķēta."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Ierīce veiksmīgi atbloķēta."
+
+msgid "Appareil supprimé."
+msgstr "Ierīce izdzēsta."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Lūdzu, atlasiet ierīci un brīdinājuma veidu."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Šī ierīce jums nepieder."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Brīdinājums ir veiksmīgi ziņots. Ierīce ir nodrošināta."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Brīdinājums atzīmēts kā atrisināts."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Jānorāda vārds, uzvārds un e-pasts."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Šo e-pastu jau izmanto cits konts."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profils veiksmīgi atjaunināts!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Piekļuve rezervēta administratoriem."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Kļūda atzīmēta kā novērsta."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Jūs nevarat izdzēst savu kontu."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Lietotājs veiksmīgi izdzēsts."
+
+msgid "Administration"
+msgstr "Administrācija"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Centralizēta pretaizdzīšanas sistēmas vadība"
+
+msgid "Utilisateurs"
+msgstr "Lietotāji"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktīvs šodien"
+
+msgid "Nouveaux ce mois"
+msgstr "Jaunums šomēnes"
+
+msgid "Appareils"
+msgstr "Ierīces"
+
+msgid "Alertes actives"
+msgstr "Aktīvie brīdinājumi"
+
+msgid "Analytique"
+msgstr "Analītisks"
+
+msgid "Journal d'activité"
+msgstr "Darbību žurnāls"
+
+msgid "Erreurs"
+msgstr "Kļūdas"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Savienojumi (pēdējās 7 dienās)"
+
+msgid "Alertes par type"
+msgstr "Brīdinājumi pēc veida"
+
+msgid "Appareils par opérateur"
+msgstr "Ierīces pēc operatora"
+
+msgid "Résumé du système"
+msgstr "Sistēmas kopsavilkums"
+
+msgid "Utilisateurs total"
+msgstr "Kopējais lietotāju skaits"
+
+msgid "Appareils enregistrés"
+msgstr "Reģistrētas ierīces"
+
+msgid "Total alertes"
+msgstr "Kopējie brīdinājumi"
+
+msgid "Alertes en cours"
+msgstr "Pašreizējie brīdinājumi"
+
+msgid "Erreurs non résolues"
+msgstr "Neatrisinātas kļūdas"
+
+msgid "Dernières activités"
+msgstr "Jaunākās aktivitātes"
+
+msgid "récentes"
+msgstr "nesen"
+
+msgid "Utilisateur"
+msgstr "Lietotājs"
+
+msgid "Action"
+msgstr "Darbība"
+
+msgid "Détails"
+msgstr "Sīkāka informācija"
+
+msgid "Adresse IP"
+msgstr "IP adrese"
+
+msgid "Navigateur"
+msgstr "Pārlūkprogramma"
+
+msgid "Date"
+msgstr "Datums"
+
+msgid "Aucune activité"
+msgstr "Nav aktivitātes"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Šeit tiks parādītas lietotāju darbības."
+
+msgid "Journal d'erreurs"
+msgstr "Kļūdu žurnāls"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Vai labot visas kļūdas?"
+
+msgid "Tout résoudre"
+msgstr "Atrisiniet visu"
+
+msgid "non résolues"
+msgstr "neatrisināts"
+
+msgid "Tout est résolu"
+msgstr "Viss ir atrisināts"
+
+msgid "Type"
+msgstr "Laipni"
+
+msgid "Description"
+msgstr "Apraksts"
+
+msgid "Statut"
+msgstr "Statuss"
+
+msgid "Résolu"
+msgstr "Atrisināts"
+
+msgid "Non résolu"
+msgstr "Neatrisināts"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Nav reģistrētas kļūdas"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sistēma darbojas pareizi."
+
+msgid "Gestion des utilisateurs"
+msgstr "Lietotāju pārvaldība"
+
+msgid "comptes"
+msgstr "konti"
+
+msgid "Email"
+msgstr "E-pasts"
+
+msgid "Téléphone"
+msgstr "Tālrunis"
+
+msgid "Rôle"
+msgstr "Loma"
+
+msgid "Inscrit le"
+msgstr "Reģistrēts"
+
+msgid "Actions"
+msgstr "Darbības"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Vai dzēst šo lietotāju un visas viņa ierīces?"
+
+msgid "Vous"
+msgstr "TU"
+
+msgid "Connexions"
+msgstr "Savienojumi"
+
+msgid "Vol"
+msgstr "Lidojums"
+
+msgid "Perte"
+msgstr "Zaudējums"
+
+msgid "Anomalie"
+msgstr "Anomālija"
+
+msgid "Alertes"
+msgstr "Brīdinājumi"
+
+msgid "Gestion des alertes"
+msgstr "Brīdinājumu pārvaldība"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Ziņojiet par zādzību vai nozaudēšanu un izsekojiet vēsturi"
+
+msgid "Signaler un vol / perte"
+msgstr "Ziņojiet par zādzību/zaudējumu"
+
+msgid "En cours"
+msgstr "Notiek"
+
+msgid "Résolues"
+msgstr "Atrisināts"
+
+msgid "Historique des alertes"
+msgstr "Brīdinājumu vēsture"
+
+msgid "Appareil"
+msgstr "Ierīce"
+
+msgid "Priorité"
+msgstr "Prioritāte"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Vai atzīmēt šo brīdinājumu kā atrisinātu?"
+
+msgid "Résoudre"
+msgstr "Atrisināt"
+
+msgid "Aucune alerte"
+msgstr "Nav brīdinājuma"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Labas ziņas! Nav ziņots par brīdinājumiem."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Ziņojiet par zādzību vai nozaudēšanu"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Ziņojot par zādzību, jūsu ierīce tiks automātiski bloķēta un tiks "
+"nosūtīti paziņojumi."
+
+msgid "Appareil concerné"
+msgstr "Ietekmētā ierīce"
+
+msgid "Sélectionner un appareil"
+msgstr "Izvēlieties ierīci"
+
+msgid "Type d'alerte"
+msgstr "Brīdinājuma veids"
+
+msgid "Décrivez les circonstances..."
+msgstr "Aprakstiet apstākļus..."
+
+msgid "Annuler"
+msgstr "Atcelt"
+
+msgid "Signaler"
+msgstr "Ziņojums"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Inteliģentā pretaizdzīšanas sistēma — drošības platforma viedtālruņiem"
+
+msgid "Système Anti-Vol"
+msgstr "Pretaizdzīšanas sistēma"
+
+msgid "PRINCIPAL"
+msgstr "GALVENĀ"
+
+msgid "Tableau de bord"
+msgstr "Informācijas panelis"
+
+msgid "SÉCURITÉ"
+msgstr "DROŠĪBA"
+
+msgid "Géolocalisation"
+msgstr "Ģeolokācija"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRĀCIJA"
+
+msgid "Déconnexion"
+msgstr "Atvienot"
+
+msgid "Changer de langue"
+msgstr "Mainīt valodu"
+
+msgid "Rechercher une langue..."
+msgstr "Meklēt valodu..."
+
+msgid "Profil"
+msgstr "Profils"
+
+msgid "Changer de thème"
+msgstr "Mainīt tēmu"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Pārskats par jūsu ierīces drošību"
+
+msgid "Ajouter un appareil"
+msgstr "Pievienojiet ierīci"
+
+msgid "Appareils volés"
+msgstr "Nozagtas ierīces"
+
+msgid "Verrouillés à distance"
+msgstr "Attālināti bloķēts"
+
+msgid "Alertes récentes"
+msgstr "Jaunākie brīdinājumi"
+
+msgid "Voir tout"
+msgstr "Skatīt visu"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Nav brīdinājuma. Jūsu ierīces ir drošībā!"
+
+msgid "Mes appareils"
+msgstr "Manas ierīces"
+
+msgid "Aucun appareil enregistré"
+msgstr "Nav reģistrēta neviena ierīce"
+
+msgid "Ajouter"
+msgstr "Pievienot"
+
+msgid "en attente"
+msgstr "aizturēts"
+
+msgid "Gestion des appareils"
+msgstr "Ierīču pārvaldība"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Reģistrējiet un pārvaldiet savus viedtālruņus"
+
+msgid "Opérateur"
+msgstr "Operators"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Vai attālināti bloķēt šo ierīci?"
+
+msgid "Verrouiller"
+msgstr "Slēdzene"
+
+msgid "Déverrouiller"
+msgstr "Atbloķēt"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Vai dzēst šo ierīci?"
+
+msgid "Supprimer"
+msgstr "DZĒST"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Pievienojiet savu pirmo viedtālruni, lai sāktu tā aizsardzību."
+
+msgid "Nouvel appareil"
+msgstr "Jauna ierīce"
+
+msgid "Marque"
+msgstr "Zīmols"
+
+msgid "Sélectionner"
+msgstr "Izvēlieties"
+
+msgid "Autre"
+msgstr "Cits"
+
+msgid "Modèle"
+msgstr "Modelis"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "savā tālrunī ierakstiet *#06#"
+
+msgid "Système d'exploitation"
+msgstr "Operētājsistēma"
+
+msgid "Numéro de téléphone"
+msgstr "Tālruņa numurs"
+
+msgid "Enregistrer"
+msgstr "Saglabāt"
+
+msgid "Connexion"
+msgstr "Savienojums"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Viedtālruņa drošības sistēma"
+
+msgid "Adresse email"
+msgstr "E-pasta adrese"
+
+msgid "Mot de passe"
+msgstr "Parole"
+
+msgid "Se connecter"
+msgstr "Piesakieties"
+
+msgid "Mot de passe oublié ?"
+msgstr "Aizmirsāt paroli?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Vai jums jau ir konts? Pretējā gadījumā turpiniet izveidot savu kontu!"
+
+msgid "Créer un compte"
+msgstr "Izveidojiet kontu"
+
+msgid "Sécurité maximale"
+msgstr "Maksimāla drošība"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Aizsargājiet savus personas datus ar tālvadības bloķēšanu"
+
+msgid "Localisation GPS"
+msgstr "GPS atrašanās vieta"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Atrodiet precīzu viedtālruņa atrašanās vietu reāllaikā"
+
+msgid "Alertes instantanées"
+msgstr "Tūlītēji brīdinājumi"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Saņemiet SMS, e-pastu un push paziņojumus zādzības gadījumā"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Atrodiet savas ierīces un vizualizējiet riska zonas"
+
+msgid "Aucun appareil"
+msgstr "Nav ierīces"
+
+msgid "Zones à risque"
+msgstr "Riska zonas"
+
+msgid "incidents"
+msgstr "starpgadījumiem"
+
+msgid "Aucune zone signalée"
+msgstr "Nav ziņots par apgabaliem"
+
+msgid "Niveau"
+msgstr "Līmenis"
+
+msgid "Incidents"
+msgstr "Starpgadījumi"
+
+msgid "Profile utilisateur"
+msgstr "Lietotāja profils"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Pārvaldiet savu personisko informāciju"
+
+msgid "Membre depuis"
+msgstr "Dalībnieks kopš"
+
+msgid "Modifier mes informations"
+msgstr "Rediģēt manu informāciju"
+
+msgid "Prénom"
+msgstr "Vārds"
+
+msgid "Nom"
+msgstr "Vārds"
+
+msgid "Changer le mot de passe"
+msgstr "Mainiet paroli"
+
+msgid "Nouveau mot de passe"
+msgstr "Jauna parole"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "atstājiet tukšu, lai nemainītos"
+
+msgid "Enregistrer les modifications"
+msgstr "Saglabāt izmaiņas"
+
+msgid "Inscription"
+msgstr "Reģistrācija"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Laipni lūdzam Anti-Theft, lai uzlabotu savu ierīču drošību"
+
+msgid "Confirmer"
+msgstr "Apstiprināt"
+
+msgid "Créer mon compte"
+msgstr "Izveidojiet manu kontu"
+
+msgid "Déjà un compte ?"
+msgstr "Vai jums jau ir konts?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Atiestatīt paroli"
+
+msgid "Réinitialisation"
+msgstr "Atiestatīt"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Ievadiet savu e-pastu un tālruņa numuru, lai apstiprinātu savu identitāti"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Reģistrācijas laikā izmantotais numurs"
+
+msgid "Minimum 6 caractères"
+msgstr "Vismaz 6 rakstzīmes"
+
+msgid "Confirmer le mot de passe"
+msgstr "Apstipriniet paroli"
+
+msgid "Retourner à la"
+msgstr "Atgriezties uz"
+
+msgid "page de connexion"
+msgstr "pieteikšanās lapa"
+
+msgid "Vérification sécurisée"
+msgstr "Droša pārbaude"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Jūsu identitāte tiek pārbaudīta, izmantojot jūsu e-pastu un tālruņa numuru"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Izvēlieties drošu paroli, kurā ir vismaz 6 rakstzīmes"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: rediģēšana neizdevās"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: rediģēšana neizdevās: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows kļūda: {error}"
+
+msgid "deprecated"
+msgstr "novecojušas"
+
+msgid "Options"
+msgstr "Iespējas"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Saņēma negaidītu papildu argumentu ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Brīdinājums par novecošanu: komanda {name!r} ir novecojusi.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Pārtraukts!"
+
+msgid "Commands"
+msgstr "Komandas"
+
+msgid "Missing command."
+msgstr "Trūkst komandas."
+
+msgid "Value must be an iterable."
+msgstr "Vērtībai ir jābūt atkārtojamai."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Ņem {nargs} vērtības, bet tika dota 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Novecošanas brīdinājums: {param_type} {name!r} ir "
+"novecojis.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Vārds “{name}” definēts divreiz"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Būla opcija {decl!r} nevar izmantot to pašu karodziņu patiesai/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Nevarēja noteikt nosaukumu opcijai ar deklarācijām {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Nav definēta neviena opcija, taču tika nodots vārds ({name}). Vai tā "
+"vietā gribējāt paziņot argumentu? Vai gribējāt nodot \"--{name}\"?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "noklusējuma: {default}"
+
+msgid "required"
+msgstr "nepieciešams"
+
+msgid "(dynamic)"
+msgstr "(dinamisks)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumenti aizņem tieši vienu parametru deklarāciju, iegūstot {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Vai vēlaties turpināt?"
+
+msgid "Confirm the action without prompting."
+msgstr "Apstipriniet darbību bez uzvednes."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, versija %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Parādiet versiju un izejiet."
+
+msgid "Show this message and exit."
+msgstr "Parādiet šo ziņojumu un izejiet."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Vai domājāt {iespēja}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Kļūda: {ziņa}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Lai saņemtu palīdzību, izmēģiniet “{command} {option}”."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Nederīga vērtība: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Nederīga {param_hint} vērtība: {message}"
+
+msgid "Missing argument"
+msgstr "Trūkst argumenta"
+
+msgid "Missing option"
+msgstr "Trūkst opcijas"
+
+msgid "Missing parameter"
+msgstr "Trūkst parametra"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Trūkst parametra {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Trūkst parametra: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Šādas opcijas {name!r} nav."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Nav šādas komandas {name!r}."
+
+msgid "unknown error"
+msgstr "nezināma kļūda"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Nevarēja atvērt failu {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Izmantot:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Nederīga sākuma rakstzīme opcijai ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumentam {name!r} ir {nargs} vērtības."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Opcijai {name!r} netiek izmantota vērtība."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Opcijai {name!r} ir nepieciešams arguments."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Apvalka pabeigšana netiek atbalstīta Bash versijām, kas vecākas par 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Nevarēja noteikt Bash versiju, čaulas pabeigšana netiek atbalstīta."
+
+msgid "Repeat for confirmation"
+msgstr "Atkārtojiet, lai apstiprinātu"
+
+msgid "Error: The two entered values do not match."
+msgstr "Kļūda: abas ievadītās vērtības nesakrīt."
+
+msgid "Error: invalid input"
+msgstr "Kļūda: nederīga ievade"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Nezināma krāsa {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Nospiediet jebkuru taustiņu, lai turpinātu..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Izvēlieties no:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} nav {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Izvēle ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} neatbilst formātam {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} nav derīgs {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} nav diapazonā {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} nav derīga Būla vērtība. Atzītās vērtības: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} nav derīgs UUID."
+
+msgid "file"
+msgstr "failu"
+
+msgid "directory"
+msgstr "direktoriju"
+
+msgid "path"
+msgstr "ceļš"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} nepastāv."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} ir fails."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} ir direktorijs."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} nav lasāms."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} nav rakstāms."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} nav izpildāms."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Ir nepieciešamas {len_type} vērtības, taču tika dota {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Nezināma standarta straume “{name}”"
+
+msgid "This field is required."
+msgstr "Šis lauks ir obligāts."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Failam nav apstiprināta paplašinājuma: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Failam nav apstiprināta paplašinājuma."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Faila izmēram ir jābūt no {min_size} līdz {max_size} baitiem."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Nederīgs lauka nosaukums '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Laukam ir jābūt vienādam ar %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Laukam ir jābūt vismaz %(min)d rakstzīmes garam."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Lauks nedrīkst būt garāks par %(max)d rakstzīmi."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Laukam ir jābūt tieši %(maks.)d rakstzīmes garam."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Laukam ir jābūt no %(min)d līdz %(max)d rakstzīmēm."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Skaitlim ir jābūt vismaz %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Skaitlim jābūt ne vairāk kā %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Skaitlim ir jābūt no %(min)s līdz %(max)s."
+
+msgid "Invalid input."
+msgstr "Nederīga ievade."
+
+msgid "Invalid email address."
+msgstr "Nederīga e-pasta adrese."
+
+msgid "Invalid IP address."
+msgstr "Nederīga IP adrese."
+
+msgid "Invalid Mac address."
+msgstr "Nederīga Mac adrese."
+
+msgid "Invalid URL."
+msgstr "Nederīgs URL."
+
+msgid "Invalid UUID."
+msgstr "Nederīgs UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Nederīga vērtība, tai ir jābūt vienai no: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Nederīga vērtība, nevar būt neviena no: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Šo lauku nevar rediģēt."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Šis lauks ir atspējots, un tam nevar būt vērtība."
+
+msgid "Invalid CSRF Token."
+msgstr "Nederīgs CSRF marķieris."
+
+msgid "CSRF token missing."
+msgstr "Trūkst CSRF pilnvaras."
+
+msgid "CSRF failed."
+msgstr "CSRF neizdevās."
+
+msgid "CSRF token expired."
+msgstr "CSRF pilnvaras derīguma termiņš ir beidzies."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Nederīga izvēle: nevarēja piespiest."
+
+msgid "Choices cannot be None."
+msgstr "Izvēles nevar būt Nav."
+
+msgid "Not a valid choice."
+msgstr "Nav derīga izvēle."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Nederīga(-as) izvēle(-s): vienu vai vairākas datu ievades nevarēja "
+"piespiest."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "“%(value)s” nav derīga izvēle šim laukam."
+
+msgid "Not a valid datetime value."
+msgstr "Nav derīga datuma un laika vērtība."
+
+msgid "Not a valid date value."
+msgstr "Nav derīga datuma vērtība."
+
+msgid "Not a valid time value."
+msgstr "Nav derīga laika vērtība."
+
+msgid "Not a valid week value."
+msgstr "Nederīga nedēļas vērtība."
+
+msgid "Not a valid integer value."
+msgstr "Nav derīga vesela skaitļa vērtība."
+
+msgid "Not a valid decimal value."
+msgstr "Nav derīga decimālā vērtība."
+
+msgid "Not a valid float value."
+msgstr "Nav derīga peldošā vērtība."
+

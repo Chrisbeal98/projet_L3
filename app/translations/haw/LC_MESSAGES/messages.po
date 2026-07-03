@@ -1,0 +1,1042 @@
+# Translations for HAW.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: haw\n"
+"Language-Team: haw <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "E ʻoluʻolu e komo e komo i kēia ʻaoʻao."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Ua hoʻopaʻa inoa ʻia kēia IMEI i ka ʻōnaehana."
+
+msgid "Accès non autorisé."
+msgstr "Ke komo ʻole ʻia."
+
+msgid "Appareil déverrouillé."
+msgstr "Wehe ʻia ka hāmeʻa."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Ua hana ʻia ka mākaʻikaʻi! Hoʻouna ʻia nā leka hoʻomaopopo."
+
+msgid "Alerte résolue."
+msgstr "Hoʻoholo ʻia ka makaʻala."
+
+msgid "Pas encore de compte ?"
+msgstr "ʻAʻohe moʻolelo?"
+
+msgid "Mon Profil"
+msgstr "ʻO kaʻu moʻolelo"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Ua holomua ka pilina! Welina."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "He leka uila a ʻōlelo huna paha."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Pono e hoʻopau ʻia nā kahua āpau."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "ʻAʻole kūlike nā ʻōlelo huna."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Pono i loko o ka ʻōlelo huna he 6 mau huaʻōlelo."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Ke hoʻohana nei kēia leka uila."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Ua holomua ka moʻokāki! E komo."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "ʻAʻohe moʻokāki i loaʻa me kēia leka uila."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "ʻAʻole kūlike ka helu kelepona me ka helu moʻokāki."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Pono ka ʻōlelo huna hou."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Hoʻoponopono hou ʻia ka ʻōlelo huna! E komo."
+
+msgid "Vous avez été déconnecté."
+msgstr "Ua hemo ʻoe."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Pono ka brand, model a me IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Aia kekahi mea me kēia IMEI."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Ua hoʻopaʻa inoa ʻia ka polokalamu!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "ʻAʻole ʻae ʻia ʻoe e hana i kēia hana."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Ua paʻa pono ka polokalamu."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Ua wehe pono ʻia ka hāmeʻa."
+
+msgid "Appareil supprimé."
+msgstr "Holoi ʻia ka mea hana."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "E ʻoluʻolu e koho i kahi mea hana a me ke ʻano makaʻala."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "ʻAʻole iā ʻoe kēia hāmeʻa."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Ua hōʻike maikaʻi ʻia ka makaʻala. Ua hoʻopaʻa ʻia ka mea hana."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Ua kaha ʻia ka makaʻala i hoʻoholo ʻia."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Pono ka inoa mua, ka inoa hope a me ka leka uila."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Ua hoʻohana mua ʻia kēia leka uila e kekahi moʻokāki."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Ua hōʻano hou ʻia ka moʻolelo!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Mālama ʻia ke komo no nā luna hoʻoponopono."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Kuhi ʻia ka hewa i hoʻoholo ʻia."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "ʻAʻole hiki iā ʻoe ke holoi i kāu moʻokāki ponoʻī."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Holoi ʻia ka mea hoʻohana."
+
+msgid "Administration"
+msgstr "Hooponopono"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Hoʻoponopono kikowaena o ka ʻōnaehana Anti-Theft"
+
+msgid "Utilisateurs"
+msgstr "Nā mea hoʻohana"
+
+msgid "Actifs aujourd'hui"
+msgstr "ʻeleu i kēia lā"
+
+msgid "Nouveaux ce mois"
+msgstr "Hou i kēia mahina"
+
+msgid "Appareils"
+msgstr "Nā lakohana"
+
+msgid "Alertes actives"
+msgstr "Nā mākaʻikaʻi hana"
+
+msgid "Analytique"
+msgstr "Kānāwai"
+
+msgid "Journal d'activité"
+msgstr "Mooolelo hana"
+
+msgid "Erreurs"
+msgstr "Nā hewa"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Nā pilina (nā lā 7 hope loa)"
+
+msgid "Alertes par type"
+msgstr "Nā leka ma ke ʻano"
+
+msgid "Appareils par opérateur"
+msgstr "Nā mea hana e ka mea hoʻohana"
+
+msgid "Résumé du système"
+msgstr "Hōʻuluʻulu Pūnaewele"
+
+msgid "Utilisateurs total"
+msgstr "Huina mea hoohana"
+
+msgid "Appareils enregistrés"
+msgstr "Nā mea hana i hoʻopaʻa ʻia"
+
+msgid "Total alertes"
+msgstr "Huina makaala"
+
+msgid "Alertes en cours"
+msgstr "Nā mākaʻikaʻi o kēia manawa"
+
+msgid "Erreurs non résolues"
+msgstr "Nā hewa i hoʻoholoʻoleʻia"
+
+msgid "Dernières activités"
+msgstr "Nā hana hou loa"
+
+msgid "récentes"
+msgstr "i hala iho nei"
+
+msgid "Utilisateur"
+msgstr "Mea hoʻohana"
+
+msgid "Action"
+msgstr "Hana"
+
+msgid "Détails"
+msgstr "Nā kikoʻī"
+
+msgid "Adresse IP"
+msgstr "IP address"
+
+msgid "Navigateur"
+msgstr "Pūnaewele"
+
+msgid "Date"
+msgstr "Lā"
+
+msgid "Aucune activité"
+msgstr "ʻAʻohe hana"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "E hōʻike ʻia nā hana mea hoʻohana ma aneʻi."
+
+msgid "Journal d'erreurs"
+msgstr "moʻo kuhi hewa"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Hoʻoponopono i nā hewa a pau?"
+
+msgid "Tout résoudre"
+msgstr "Hoʻoholo i nā mea a pau"
+
+msgid "non résolues"
+msgstr "hoʻoholo ʻole ʻia"
+
+msgid "Tout est résolu"
+msgstr "Hoʻoholo ʻia nā mea a pau"
+
+msgid "Type"
+msgstr "ʻAno"
+
+msgid "Description"
+msgstr "wehewehe"
+
+msgid "Statut"
+msgstr "Kūlana"
+
+msgid "Résolu"
+msgstr "Hoʻoholo ʻia"
+
+msgid "Non résolu"
+msgstr "Hoʻoholo ʻole ʻia"
+
+msgid "Aucune erreur enregistrée"
+msgstr "ʻAʻohe hewa i hoʻopaʻa ʻia"
+
+msgid "Le système fonctionne correctement."
+msgstr "Ke hana pono nei ka ʻōnaehana."
+
+msgid "Gestion des utilisateurs"
+msgstr "Hoʻoponopono mea hoʻohana"
+
+msgid "comptes"
+msgstr "mooolelo"
+
+msgid "Email"
+msgstr "leka uila"
+
+msgid "Téléphone"
+msgstr "Kelepona"
+
+msgid "Rôle"
+msgstr "Ke kuleana"
+
+msgid "Inscrit le"
+msgstr "Kakauia ma"
+
+msgid "Actions"
+msgstr "Nā hana"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Holoi i kēia mea hoʻohana a me kā lākou mau mea hana a pau?"
+
+msgid "Vous"
+msgstr "OE"
+
+msgid "Connexions"
+msgstr "Nā pilina"
+
+msgid "Vol"
+msgstr "Hololele"
+
+msgid "Perte"
+msgstr "Pohō"
+
+msgid "Anomalie"
+msgstr "Anomaly"
+
+msgid "Alertes"
+msgstr "ʻO nā makaʻala"
+
+msgid "Gestion des alertes"
+msgstr "Hooponopono makaala"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "E hōʻike i ka ʻaihue a i ʻole ka pohō a hahai i ka mōʻaukala"
+
+msgid "Signaler un vol / perte"
+msgstr "Hōʻike i ka ʻaihue/nalo"
+
+msgid "En cours"
+msgstr "Ke holo nei"
+
+msgid "Résolues"
+msgstr "Hoʻoholo ʻia"
+
+msgid "Historique des alertes"
+msgstr "Moʻolelo makaʻala"
+
+msgid "Appareil"
+msgstr "Mea lako"
+
+msgid "Priorité"
+msgstr "Ka mea nui"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "E kaha i kēia makaʻala i hoʻoholo ʻia?"
+
+msgid "Résoudre"
+msgstr "Hoʻoholo"
+
+msgid "Aucune alerte"
+msgstr "ʻAʻohe makaʻala"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Nuhou maikaʻi! ʻAʻohe mea i hōʻike ʻia."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Hōʻike i ka ʻaihue a i ʻole ka poho"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Ma ka hōʻike ʻana i kahi ʻaihue, e laka ʻia kāu kelepona a hoʻouna ʻia nā"
+" leka hoʻomaopopo."
+
+msgid "Appareil concerné"
+msgstr "Mea hoʻopili ʻia"
+
+msgid "Sélectionner un appareil"
+msgstr "E koho i kahi mea hana"
+
+msgid "Type d'alerte"
+msgstr "ʻAno makaʻala"
+
+msgid "Décrivez les circonstances..."
+msgstr "E wehewehe i nā kūlana..."
+
+msgid "Annuler"
+msgstr "Hoʻopau"
+
+msgid "Signaler"
+msgstr "Hōʻike"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Pūnaehana Anti-Theft Naʻauao — kahua palekana no nā smartphones"
+
+msgid "Système Anti-Vol"
+msgstr "Pūnaehana Anti-ʻaihue"
+
+msgid "PRINCIPAL"
+msgstr "MAIN"
+
+msgid "Tableau de bord"
+msgstr "Papa kuhikuhi"
+
+msgid "SÉCURITÉ"
+msgstr "PALAPALA"
+
+msgid "Géolocalisation"
+msgstr "Geolocation"
+
+msgid "ADMINISTRATION"
+msgstr "HOOLAHA"
+
+msgid "Déconnexion"
+msgstr "Hoʻokaʻawale"
+
+msgid "Changer de langue"
+msgstr "Hoʻololi i ka ʻōlelo"
+
+msgid "Rechercher une langue..."
+msgstr "Huli i ka ʻōlelo..."
+
+msgid "Profil"
+msgstr "Pilikino"
+
+msgid "Changer de thème"
+msgstr "E hoʻololi i ke kumuhana"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "ʻO ka nānā nui o ka palekana o kāu hāmeʻa"
+
+msgid "Ajouter un appareil"
+msgstr "Hoʻohui i kahi mea hana"
+
+msgid "Appareils volés"
+msgstr "Nā mea ʻaihue"
+
+msgid "Verrouillés à distance"
+msgstr "Paʻa mamao"
+
+msgid "Alertes récentes"
+msgstr "Nā makaʻala hou"
+
+msgid "Voir tout"
+msgstr "ʻIke i nā mea a pau"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "ʻAʻohe makaʻala. Ua palekana kāu mau mea hana!"
+
+msgid "Mes appareils"
+msgstr "ʻO kaʻu mau mea hana"
+
+msgid "Aucun appareil enregistré"
+msgstr "ʻAʻohe mea i hoʻopaʻa inoa ʻia"
+
+msgid "Ajouter"
+msgstr "Hoʻohui"
+
+msgid "en attente"
+msgstr "paa"
+
+msgid "Gestion des appareils"
+msgstr "Hoʻoponopono mea hana"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "E hoʻopaʻa inoa a mālama i kāu mau smartphones"
+
+msgid "Opérateur"
+msgstr "Mea hoʻohana"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Laka mamao i kēia mea?"
+
+msgid "Verrouiller"
+msgstr "Laka"
+
+msgid "Déverrouiller"
+msgstr "Wehe"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Holoi i kēia mea hana?"
+
+msgid "Supprimer"
+msgstr "HELE"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "E hoʻohui i kāu kelepona mua e hoʻomaka e pale iā ia."
+
+msgid "Nouvel appareil"
+msgstr "Mea hou"
+
+msgid "Marque"
+msgstr "Brand"
+
+msgid "Sélectionner"
+msgstr "E koho"
+
+msgid "Autre"
+msgstr "'ē aʻe"
+
+msgid "Modèle"
+msgstr "Hoʻohālike"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "paʻi *#06# ma kāu kelepona"
+
+msgid "Système d'exploitation"
+msgstr "ʻōnaehana hana"
+
+msgid "Numéro de téléphone"
+msgstr "Helu kelepona"
+
+msgid "Enregistrer"
+msgstr "Mālama"
+
+msgid "Connexion"
+msgstr "Hoʻohui"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Pūnaehana palekana kelepona"
+
+msgid "Adresse email"
+msgstr "Helu leka uila"
+
+msgid "Mot de passe"
+msgstr "Hua huna"
+
+msgid "Se connecter"
+msgstr "E komo"
+
+msgid "Mot de passe oublié ?"
+msgstr "Poina ka ʻōlelo huna?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Loaʻa iā ʻoe kahi moʻokāki? A i ʻole, e hoʻomau i ka hana ʻana i kāu "
+"moʻokāki!"
+
+msgid "Créer un compte"
+msgstr "Hana i moʻokāki"
+
+msgid "Sécurité maximale"
+msgstr "Palekana kiʻekiʻe"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "E pale i kāu ʻikepili pilikino me ka laka mamao"
+
+msgid "Localisation GPS"
+msgstr "Wahi GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "E ʻimi i kahi kikoʻī o kāu kelepona i ka manawa maoli"
+
+msgid "Alertes instantanées"
+msgstr "Makaʻala koke"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Loaʻa iā SMS, leka uila a me nā leka hoʻolaha i ka wā o ka ʻaihue"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "E huli i kāu mau mea hana a nānā i nā wahi pilikia"
+
+msgid "Aucun appareil"
+msgstr "ʻAʻohe mea hana"
+
+msgid "Zones à risque"
+msgstr "Nā wahi pilikia"
+
+msgid "incidents"
+msgstr "nā hanana"
+
+msgid "Aucune zone signalée"
+msgstr "ʻAʻohe wahi i hōʻike ʻia"
+
+msgid "Niveau"
+msgstr "pae"
+
+msgid "Incidents"
+msgstr "Nā hanana"
+
+msgid "Profile utilisateur"
+msgstr "ʻIkepili mea hoʻohana"
+
+msgid "Gérez vos informations personnelles"
+msgstr "E mālama i kāu ʻike pilikino"
+
+msgid "Membre depuis"
+msgstr "Lala mai"
+
+msgid "Modifier mes informations"
+msgstr "Hoʻoponopono i kaʻu ʻike"
+
+msgid "Prénom"
+msgstr "Inoa mua"
+
+msgid "Nom"
+msgstr "Inoa"
+
+msgid "Changer le mot de passe"
+msgstr "E hoʻololi i ka ʻōlelo huna"
+
+msgid "Nouveau mot de passe"
+msgstr "Hua'ōlelo hou"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "waiho hakahaka i ole e loli"
+
+msgid "Enregistrer les modifications"
+msgstr "E mālama i nā hoʻololi"
+
+msgid "Inscription"
+msgstr "Kakau inoa"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Welina mai i ka Anti-Theft no ka palekana o kāu mau polokalamu"
+
+msgid "Confirmer"
+msgstr "E hōʻoia"
+
+msgid "Créer mon compte"
+msgstr "Hana i kaʻu moʻokāki"
+
+msgid "Déjà un compte ?"
+msgstr "Loaʻa i kahi moʻokāki?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Hoʻoponopono hou i ka ʻōlelo huna"
+
+msgid "Réinitialisation"
+msgstr "Hoʻoponopono hou"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "E hoʻokomo i kāu leka uila a me ka helu kelepona e hōʻoia i kou ʻike"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "ʻO ka helu i hoʻohana ʻia i ka wā hoʻopaʻa inoa"
+
+msgid "Minimum 6 caractères"
+msgstr "ʻO ka liʻiliʻi he 6 mau huaʻōlelo"
+
+msgid "Confirmer le mot de passe"
+msgstr "Hōʻoia i ka ʻŌlelo Huna"
+
+msgid "Retourner à la"
+msgstr "Hoʻi i"
+
+msgid "page de connexion"
+msgstr "ʻaoʻao komo"
+
+msgid "Vérification sécurisée"
+msgstr "Hōʻoia palekana"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Ua hōʻoia ʻia kou ʻike me kāu leka uila a me kāu helu kelepona"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "E koho i ka ʻōlelo huna o ka liʻiliʻi o 6 mau huaʻōlelo"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: ʻAʻole hiki ke hoʻoponopono"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{mea hoʻoponopono}: ʻAʻole hiki ke hoʻoponopono: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Kuʻia Windows: {hewa}"
+
+msgid "deprecated"
+msgstr "hoʻopau ʻia"
+
+msgid "Options"
+msgstr "Nā koho"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Loaʻa ka manaʻo hoʻopaʻapaʻa ʻē aʻe ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "'Ōlelo Ho'opau: Ua pau ka kauoha {name!r}.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Hoʻopau ʻia!"
+
+msgid "Commands"
+msgstr "Kauoha"
+
+msgid "Missing command."
+msgstr "Nalo ke kauoha."
+
+msgid "Value must be an iterable."
+msgstr "Pono e hoʻololi hou ka waiwai."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Lawe ʻia {nargs} waiwai akā hāʻawi ʻia ka 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "'Ōlelo Ho'opau: Ua pau ka {param_type} {name!r}.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "ʻElua manawa i wehewehe ʻia ka inoa '{name}'"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"ʻAʻole hiki i ke koho Boolean {decl!r} ke hoʻohana i ka hae like no ka "
+"ʻoiaʻiʻo/hewa."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "ʻAʻole hiki ke koho i ka inoa no ke koho me nā ʻōlelo hoʻolaha {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"ʻAʻohe koho i wehewehe ʻia akā ua hāʻawi ʻia kahi inoa ({name}). Ua "
+"manaʻo paha ʻoe e haʻi aku i kahi hoʻopaʻapaʻa? Ua manaʻo paha ʻoe e hele"
+" i '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "paʻamau: {paʻamau}"
+
+msgid "required"
+msgstr "koi ʻia"
+
+msgid "(dynamic)"
+msgstr "(ʻeleu)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Lawe ʻia nā hoʻopaʻapaʻa i hoʻokahi ʻōlelo hoʻohālikelike, loaʻa ka "
+"{lōʻihi}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Makemake ʻoe e hoʻomau?"
+
+msgid "Confirm the action without prompting."
+msgstr "E hōʻoia i ka hana me ke koi ʻole."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, mana %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Hōʻike i ka mana a puka."
+
+msgid "Show this message and exit."
+msgstr "Hōʻike i kēia memo a puka i waho."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "ʻO {possibility} paha kāu i manaʻo ai?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Kuʻia: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "E ho'āʻo iā '{command} {option}' no ke kōkua."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Waiwai kūpono ʻole: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Hewa ka waiwai no {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Nalo ka hoʻopaʻapaʻa"
+
+msgid "Missing option"
+msgstr "Nalo ke koho"
+
+msgid "Missing parameter"
+msgstr "Nalo ka ʻāpana"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Nalo {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Nalo ka ʻāpana: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "ʻAʻohe koho like {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "ʻAʻohe kauoha like {name!r}."
+
+msgid "unknown error"
+msgstr "hewa ʻike ʻole"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "ʻAʻole hiki ke wehe i ka faila {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "E hoʻohana:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "ʻAʻole kūpono ke ʻano hoʻomaka no ke koho ({koho})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Hoʻopaʻapaʻa ʻo {name!r} i nā waiwai {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "ʻAʻole lawe ʻia ke koho {name!r} i kahi waiwai."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Pono ke koho {name!r} i ka hoʻopaʻapaʻa."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "ʻAʻole kākoʻo ʻia ka hoʻopau ʻana o Shell no nā mana Bash ma mua o 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"ʻAʻole hiki ke ʻike i ka mana Bash, ʻaʻole kākoʻo ʻia ka hoʻopau ʻana o "
+"ka pūpū."
+
+msgid "Repeat for confirmation"
+msgstr "E hana hou no ka hōʻoia"
+
+msgid "Error: The two entered values do not match."
+msgstr "Hapa: ʻAʻole kūlike nā waiwai i hoʻokomo ʻia."
+
+msgid "Error: invalid input"
+msgstr "Kuʻia: kūpono ʻole ka hoʻokomo"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "kala ʻike ʻole ʻia {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "E kaomi i kekahi kī e hoʻomau..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "E koho mai:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "ʻAʻole ʻo {value!r} {koho."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Koho ({koho})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "ʻAʻole like ka {value!r} i ke ʻano {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} 'a'ole he {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "ʻAʻole ʻo {value} i ka laulā {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "ʻAʻole ʻo {value!r} kahi boolean kūpono. Nā waiwai i ʻike ʻia: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "ʻAʻole ʻo {value!r} he UUID kūpono."
+
+msgid "file"
+msgstr "waihona"
+
+msgid "directory"
+msgstr "papa kuhikuhi"
+
+msgid "path"
+msgstr "alahele"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "ʻAʻole i loaʻa ʻo {name} {filename!r}."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "He waihona ʻo {name} {filename!r}."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "He papa kuhikuhi ʻo {name} {filename!r}."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "ʻAʻole hiki ke heluhelu ʻia ʻo {name} {filename!r}."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "ʻAʻole hiki ke kākau ʻia ʻo {name} {filename!r}."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "ʻAʻole hiki ke hoʻokō ʻia ʻo {name} {filename!r}."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Pono nā waiwai {len_type}, akā hā'awi 'ia {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "ʻAʻole ʻike ʻia ke kahawai maʻamau '{name}'"
+
+msgid "This field is required."
+msgstr "Pono kēia kahua."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "ʻAʻohe hoʻonui i ʻāpono ʻia i ka faila: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "ʻAʻohe hoʻonui i ʻāpono ʻia i ka faila."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Pono ka waihona ma waena o {min_size} a me {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Hewa ka inoa kahua '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Pono ke kahua me %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Pono ke kahua he %(min)d ka lōʻihi."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "ʻAʻole hiki ke lōʻihi ka mahina ma mua o %(max)d huaʻōlelo."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Pono ke kahua he %(max)d ka lōʻihi."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Pono ke kahua ma waena o %(min)d a me %(max)d mau huapalapala."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Pono ka helu ma kahi o %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Pono ka helu ma kahi o %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Pono ka helu ma waena o %(min)s a me %(max)s."
+
+msgid "Invalid input."
+msgstr "Hewa ka hookomo."
+
+msgid "Invalid email address."
+msgstr "Heluhelu leka uila hewa ʻole."
+
+msgid "Invalid IP address."
+msgstr "Helu IP kūpono ʻole."
+
+msgid "Invalid Mac address."
+msgstr "Helu helu Mac ʻino."
+
+msgid "Invalid URL."
+msgstr "Helu 'ole."
+
+msgid "Invalid UUID."
+msgstr "UUID hewa ʻole."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Pono ʻole ka waiwai, pono kekahi o: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Waiwai kūpono ʻole, ʻaʻole hiki i kekahi o: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "ʻAʻole hiki ke hoʻoponopono ʻia kēia kahua."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Ua pio kēia kahua a ʻaʻole hiki ke loaʻa kahi waiwai."
+
+msgid "Invalid CSRF Token."
+msgstr "Helu CSRF Token."
+
+msgid "CSRF token missing."
+msgstr "Nalo ka hōʻailona CSRF."
+
+msgid "CSRF failed."
+msgstr "Ua hāʻule ka CSRF."
+
+msgid "CSRF token expired."
+msgstr "Ua pau ka hōʻailona CSRF."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Koho kūpono ʻole: ʻaʻole hiki ke koi."
+
+msgid "Choices cannot be None."
+msgstr "ʻAʻole hiki ke koho ʻAʻole."
+
+msgid "Not a valid choice."
+msgstr "ʻAʻole kahi koho kūpono."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Koho hewa ʻole: ʻaʻole hiki ke koi ʻia i hoʻokahi a ʻoi aku paha nā "
+"hoʻokomo ʻikepili."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' 'a'ole he koho kūpono no kēia kahua."
+
+msgid "Not a valid datetime value."
+msgstr "ʻAʻole he kumu kūʻai manawa kūpono."
+
+msgid "Not a valid date value."
+msgstr "ʻAʻole kahi waiwai lā kūpono."
+
+msgid "Not a valid time value."
+msgstr "ʻAʻole kahi waiwai manawa kūpono."
+
+msgid "Not a valid week value."
+msgstr "ʻAʻole he waiwai pule kūpono."
+
+msgid "Not a valid integer value."
+msgstr "ʻAʻole he waiwai helu helu kūpono."
+
+msgid "Not a valid decimal value."
+msgstr "ʻAʻole he helu decimal kūpono."
+
+msgid "Not a valid float value."
+msgstr "ʻAʻole he waiwai lana kūpono."
+

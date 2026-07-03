@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_primary">#02000e</color>
+    <color name="bg_secondary">#00050f</color>
+    <color name="bg_tertiary">#000610</color>
+    <color name="bg_card">#1e293b</color>
+    <color name="bg_card_hover">#0f172a</color>
+    <color name="bg_glass">#0a0015</color>
+
+    <!-- Borders -->
+    <color name="border_color">#334155</color>
+    <color name="border_light">#475569</color>
+
+    <!-- Text -->
+    <color name="text_primary">#f1f5f9</color>
+    <color name="text_secondary">#94a3b8</color>
+    <color name="text_muted">#64748b</color>
+    <color name="text_white">#ffffff</color>
+
+    <!-- Accents -->
+    <color name="accent_blue">#3b82f6</color>
+    <color name="accent_blue_dark">#1e40af</color>
+    <color name="accent_purple">#8b5cf6</color>
+    <color name="accent_teal">#06b6d4</color>
+    <color name="accent_green">#22c55e</color>
+    <color name="accent_orange">#f59e0b</color>
+    <color name="accent_red">#ef4444</color>
+    <color name="accent_pink">#ec4899</color>
+
+    <!-- Legacy / compat -->
+    <color name="ic_launcher_background">#02000e</color>
+    <color name="primary">#3b82f6</color>
+    <color name="primary_dark">#1e40af</color>
+    <color name="accent">#22c55e</color>
+    <color name="danger">#ef4444</color>
+    <color name="warning">#f59e0b</color>
+    <color name="surface">#1e293b</color>
+    <color name="on_surface">#f1f5f9</color>
+    <color name="background">#02000e</color>
+</resources>

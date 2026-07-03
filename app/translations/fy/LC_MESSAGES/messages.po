@@ -1,0 +1,1032 @@
+# Translations for FY.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fy\n"
+"Language-Team: fy <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Meld jo asjebleaft oan om tagong te krijen ta dizze side."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Dizze IMEI is al registrearre yn it systeem."
+
+msgid "Accès non autorisé."
+msgstr "Net foech tagong."
+
+msgid "Appareil déverrouillé."
+msgstr "Apparaat ûntskoattele."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alert makke! Notifikaasjes ferstjoerd."
+
+msgid "Alerte résolue."
+msgstr "Alert oplost."
+
+msgid "Pas encore de compte ?"
+msgstr "Noch gjin akkount?"
+
+msgid "Mon Profil"
+msgstr "Myn profyl"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Ferbining slagge! Wolkom."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Ferkearde e-post of wachtwurd."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Alle fereaske fjilden moatte wurde ynfold."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Wachtwurden komme net oerien."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "It wachtwurd moat op syn minst 6 tekens befetsje."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Dizze e-post is al yn gebrûk."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Akkount makke mei súkses! Oanmelde."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Gjin akkounts fûn mei dizze e-post."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "It telefoannûmer komt net oerien mei it akkountnûmer."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "It nije wachtwurd is ferplicht."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Wachtwurd weromsette mei sukses! Oanmelde."
+
+msgid "Vous avez été déconnecté."
+msgstr "Jo binne loskeppele."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Merk, model en IMEI binne ferplicht."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "In apparaat mei dizze IMEI bestiet al."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Apparaat mei súkses registrearre!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Jo binne net autorisearre om dizze aksje út te fieren."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Apparaat mei súkses op ôfstân beskoattele."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Apparaat is mei súkses ûntskoattele."
+
+msgid "Appareil supprimé."
+msgstr "Apparaat wiske."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Selektearje asjebleaft in apparaat en warskôgingstype."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Dit apparaat is net fan jo."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert rapportearre mei súkses. It apparaat is befeilige."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alarm markearre as oplost."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Foarnamme, efternamme en e-post binne ferplicht."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Dizze e-post wurdt al brûkt troch in oar akkount."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profyl is mei súkses bywurke!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Tagong reservearre foar behearders."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Flater markearre as oplost."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Jo kinne jo eigen akkount net wiskje."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Meidogger mei súkses wiske."
+
+msgid "Administration"
+msgstr "Bestjoer"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Sintraal behear fan it Anti-Theft systeem"
+
+msgid "Utilisateurs"
+msgstr "Brûkers"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktyf hjoed"
+
+msgid "Nouveaux ce mois"
+msgstr "Nij dizze moanne"
+
+msgid "Appareils"
+msgstr "Apparaten"
+
+msgid "Alertes actives"
+msgstr "Aktive warskôgings"
+
+msgid "Analytique"
+msgstr "Analytysk"
+
+msgid "Journal d'activité"
+msgstr "Aktiviteit log"
+
+msgid "Erreurs"
+msgstr "Flaters"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Ferbinings (lêste 7 dagen)"
+
+msgid "Alertes par type"
+msgstr "Alerts per type"
+
+msgid "Appareils par opérateur"
+msgstr "Apparaten troch operator"
+
+msgid "Résumé du système"
+msgstr "Systeem Gearfetting"
+
+msgid "Utilisateurs total"
+msgstr "Totaal brûkers"
+
+msgid "Appareils enregistrés"
+msgstr "Registrearre apparaten"
+
+msgid "Total alertes"
+msgstr "Totale warskôgings"
+
+msgid "Alertes en cours"
+msgstr "Aktuele warskôgings"
+
+msgid "Erreurs non résolues"
+msgstr "Net oploste flaters"
+
+msgid "Dernières activités"
+msgstr "Lêste aktiviteiten"
+
+msgid "récentes"
+msgstr "resint"
+
+msgid "Utilisateur"
+msgstr "Brûker"
+
+msgid "Action"
+msgstr "Aksje"
+
+msgid "Détails"
+msgstr "Details"
+
+msgid "Adresse IP"
+msgstr "IP adres"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Aucune activité"
+msgstr "Gjin aktiviteit"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Brûkersaktiviteiten sille hjir ferskine."
+
+msgid "Journal d'erreurs"
+msgstr "Flater log"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Alle flaters reparearje?"
+
+msgid "Tout résoudre"
+msgstr "Alles oplosse"
+
+msgid "non résolues"
+msgstr "net oplost"
+
+msgid "Tout est résolu"
+msgstr "Alles is oplost"
+
+msgid "Type"
+msgstr "Soart"
+
+msgid "Description"
+msgstr "Beskriuwing"
+
+msgid "Statut"
+msgstr "Status"
+
+msgid "Résolu"
+msgstr "Oplost"
+
+msgid "Non résolu"
+msgstr "Net oplost"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Gjin flaters opnommen"
+
+msgid "Le système fonctionne correctement."
+msgstr "It systeem wurket goed."
+
+msgid "Gestion des utilisateurs"
+msgstr "Meidogger behear"
+
+msgid "comptes"
+msgstr "akkounts"
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "Téléphone"
+msgstr "Tillefoan"
+
+msgid "Rôle"
+msgstr "Rol"
+
+msgid "Inscrit le"
+msgstr "Registrearre op"
+
+msgid "Actions"
+msgstr "Aksjes"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Dizze brûker en al har apparaten wiskje?"
+
+msgid "Vous"
+msgstr "JO"
+
+msgid "Connexions"
+msgstr "Ferbinings"
+
+msgid "Vol"
+msgstr "Flecht"
+
+msgid "Perte"
+msgstr "Ferlies"
+
+msgid "Anomalie"
+msgstr "Anomaly"
+
+msgid "Alertes"
+msgstr "Alerts"
+
+msgid "Gestion des alertes"
+msgstr "Alert behear"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Rapportearje stellerij of ferlies en track skiednis"
+
+msgid "Signaler un vol / perte"
+msgstr "Meld stellerij / ferlies"
+
+msgid "En cours"
+msgstr "Yn útfiering"
+
+msgid "Résolues"
+msgstr "Oplost"
+
+msgid "Historique des alertes"
+msgstr "Alert Skiednis"
+
+msgid "Appareil"
+msgstr "Apparaat"
+
+msgid "Priorité"
+msgstr "Prioriteit"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Markearje dizze warskôging as oplost?"
+
+msgid "Résoudre"
+msgstr "Oplosse"
+
+msgid "Aucune alerte"
+msgstr "Gjin warskôging"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Goed nijs! Gjin warskôgings binne rapportearre."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Meld stellerij of ferlies"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Troch in stellerij te melden, sil jo apparaat automatysk beskoattele "
+"wurde en wurde notifikaasjes ferstjoerd."
+
+msgid "Appareil concerné"
+msgstr "Beynfloede apparaat"
+
+msgid "Sélectionner un appareil"
+msgstr "Selektearje in apparaat"
+
+msgid "Type d'alerte"
+msgstr "Alert type"
+
+msgid "Décrivez les circonstances..."
+msgstr "Beskriuw de omstannichheden ..."
+
+msgid "Annuler"
+msgstr "Ofbrekke"
+
+msgid "Signaler"
+msgstr "Melde"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Intelligent Anti-Theft System - Feiligensplatfoarm foar smartphones"
+
+msgid "Système Anti-Vol"
+msgstr "Anti-stellerij systeem"
+
+msgid "PRINCIPAL"
+msgstr "FOARNAAMSTE"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "FEILIGENS"
+
+msgid "Géolocalisation"
+msgstr "Geolokaasje"
+
+msgid "ADMINISTRATION"
+msgstr "BESTJOER"
+
+msgid "Déconnexion"
+msgstr "Ferbine"
+
+msgid "Changer de langue"
+msgstr "Feroarje taal"
+
+msgid "Rechercher une langue..."
+msgstr "Sykje nei in taal..."
+
+msgid "Profil"
+msgstr "Profyl"
+
+msgid "Changer de thème"
+msgstr "Feroarje tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Oersjoch fan jo apparaat feiligens"
+
+msgid "Ajouter un appareil"
+msgstr "Foegje in apparaat ta"
+
+msgid "Appareils volés"
+msgstr "Stolen apparaten"
+
+msgid "Verrouillés à distance"
+msgstr "Op ôfstân beskoattele"
+
+msgid "Alertes récentes"
+msgstr "Resinte warskôgings"
+
+msgid "Voir tout"
+msgstr "Sjoch alles"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Gjin warskôging. Jo apparaten binne feilich!"
+
+msgid "Mes appareils"
+msgstr "Myn apparaten"
+
+msgid "Aucun appareil enregistré"
+msgstr "Gjin apparaten registrearre"
+
+msgid "Ajouter"
+msgstr "Add"
+
+msgid "en attente"
+msgstr "op wacht"
+
+msgid "Gestion des appareils"
+msgstr "Apparaat behear"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Registrearje en beheare jo smartphones"
+
+msgid "Opérateur"
+msgstr "Operator"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Dit apparaat op ôfstân beskoattelje?"
+
+msgid "Verrouiller"
+msgstr "Slûs"
+
+msgid "Déverrouiller"
+msgstr "Untskoattelje"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Dit apparaat wiskje?"
+
+msgid "Supprimer"
+msgstr "DELETE"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Foegje jo earste smartphone ta om it te beskermjen."
+
+msgid "Nouvel appareil"
+msgstr "Nij apparaat"
+
+msgid "Marque"
+msgstr "Merk"
+
+msgid "Sélectionner"
+msgstr "Selektearje"
+
+msgid "Autre"
+msgstr "Oar"
+
+msgid "Modèle"
+msgstr "Model"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "typ *#06# op jo tillefoan"
+
+msgid "Système d'exploitation"
+msgstr "Bestjoeringssysteem"
+
+msgid "Numéro de téléphone"
+msgstr "Tillefoannûmer"
+
+msgid "Enregistrer"
+msgstr "Rêde"
+
+msgid "Connexion"
+msgstr "Ferbining"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Smartphone feiligens systeem"
+
+msgid "Adresse email"
+msgstr "E-postadres"
+
+msgid "Mot de passe"
+msgstr "Wachtwurd"
+
+msgid "Se connecter"
+msgstr "Oanmelde"
+
+msgid "Mot de passe oublié ?"
+msgstr "Wachtwurd fergetten?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Hawwe jo al in akkount? Oars, trochgean mei it meitsjen fan jo akkount!"
+
+msgid "Créer un compte"
+msgstr "Meitsje in akkount"
+
+msgid "Sécurité maximale"
+msgstr "Maksimum feiligens"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Beskermje jo persoanlike gegevens mei beskoatteljen op ôfstân"
+
+msgid "Localisation GPS"
+msgstr "GPS lokaasje"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Fyn de krekte lokaasje fan jo smartphone yn realtime"
+
+msgid "Alertes instantanées"
+msgstr "Instant warskôgings"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Untfang SMS, e-post en push-notifikaasjes yn gefal fan stellerij"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Sykje jo apparaten en fisualisearje risikogebieten"
+
+msgid "Aucun appareil"
+msgstr "Gjin apparaat"
+
+msgid "Zones à risque"
+msgstr "Risikogebieten"
+
+msgid "incidents"
+msgstr "ynsidinten"
+
+msgid "Aucune zone signalée"
+msgstr "Gjin gebieten rapporteare"
+
+msgid "Niveau"
+msgstr "Peil"
+
+msgid "Incidents"
+msgstr "Ynsidinten"
+
+msgid "Profile utilisateur"
+msgstr "Brûkersprofyl"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Behear jo persoanlike ynformaasje"
+
+msgid "Membre depuis"
+msgstr "Lid sûnt"
+
+msgid "Modifier mes informations"
+msgstr "Bewurkje myn ynformaasje"
+
+msgid "Prénom"
+msgstr "Foarnamme"
+
+msgid "Nom"
+msgstr "Namme"
+
+msgid "Changer le mot de passe"
+msgstr "Feroarje wachtwurd"
+
+msgid "Nouveau mot de passe"
+msgstr "Nij wachtwurd"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "leech litte om net te feroarjen"
+
+msgid "Enregistrer les modifications"
+msgstr "Bewarje feroarings"
+
+msgid "Inscription"
+msgstr "Ynskriuwing"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Wolkom by Anti-Theft foar bettere feiligens fan jo apparaten"
+
+msgid "Confirmer"
+msgstr "Befêstigje"
+
+msgid "Créer mon compte"
+msgstr "Meitsje myn akkount"
+
+msgid "Déjà un compte ?"
+msgstr "Al in akkount?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Wachtwurd weromsette"
+
+msgid "Réinitialisation"
+msgstr "Weromsette"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Fier jo e-post en telefoannûmer yn om jo identiteit te ferifiearjen"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "It nûmer brûkt by registraasje"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimum 6 karakters"
+
+msgid "Confirmer le mot de passe"
+msgstr "Befêstigje wachtwurd"
+
+msgid "Retourner à la"
+msgstr "Werom nei"
+
+msgid "page de connexion"
+msgstr "oanmeldside"
+
+msgid "Vérification sécurisée"
+msgstr "Feilige ferifikaasje"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Jo identiteit wurdt ferifiearre mei jo e-post en telefoannûmer"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Kies in feilich wachtwurd fan op syn minst 6 tekens"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{bewurker}: bewurkjen mislearre"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{bewurker}: Bewurkje mislearre: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows flater: {flater}"
+
+msgid "deprecated"
+msgstr "ôfskaft"
+
+msgid "Options"
+msgstr "Opsjes"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Krige ûnferwacht ekstra argumint ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: It kommando {name!r} is ôfkard.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Abortearre!"
+
+msgid "Commands"
+msgstr "Kommando's"
+
+msgid "Missing command."
+msgstr "Missing kommando."
+
+msgid "Value must be an iterable."
+msgstr "Wearde moat in iterabel wêze."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Nimt {nargs} wearden mar 1 waard jûn."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: De {param_type} {name!r} is ôfret.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Namme '{name}' twa kear definiearre"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Booleaanske opsje {decl!r} kin deselde flagge net brûke foar wier/falsk."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Koe gjin namme foar opsje bepale mei deklaraasjes {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Gjin opsjes definiearre mar der is in namme trochjûn ({name}). Bedoelde "
+"jo ynstee in argumint te ferklearjen? Bedoelde jo '--{name}' troch te "
+"jaan?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "omjouwingsfariabele: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "standert: {standert}"
+
+msgid "required"
+msgstr "fereaske"
+
+msgid "(dynamic)"
+msgstr "(dynamysk)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Arguminten nimme krekt ien parameterdeklaraasje, krige {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Wolle jo trochgean?"
+
+msgid "Confirm the action without prompting."
+msgstr "Befêstigje de aksje sûnder te freegjen."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, ferzje %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Lit de ferzje sjen en gean út."
+
+msgid "Show this message and exit."
+msgstr "Lit dit berjocht sjen en gean út."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Bedoelde jo {mooglikheid}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Flater: {berjocht}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Besykje '{command} {option}' foar help."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Unjildige wearde: {berjocht}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Unjildige wearde foar {param_hint}: {berjocht}"
+
+msgid "Missing argument"
+msgstr "Missing argumint"
+
+msgid "Missing option"
+msgstr "Untbrekkende opsje"
+
+msgid "Missing parameter"
+msgstr "Untbrekkende parameter"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Mist {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Untbrekkende parameter: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Gjin sa'n opsje {namme!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Gjin sa'n kommando {namme!r}."
+
+msgid "unknown error"
+msgstr "ûnbekende flater"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Koe triem {filename!r} net iepenje: {berjocht}"
+
+msgid "Usage:"
+msgstr "Gebrûk:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Unjildich begjinteken foar opsje ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumint {namme!r} nimt {nargs} wearden."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Opsje {namme!r} nimt gjin wearde."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Opsje {namme!r} fereasket in argumint."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell-foltôging wurdt net stipe foar Bash-ferzjes âlder dan 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Koe de Bash-ferzje net detektearje, shell-foltôging wurdt net stipe."
+
+msgid "Repeat for confirmation"
+msgstr "Werhelje foar befêstiging"
+
+msgid "Error: The two entered values do not match."
+msgstr "Flater: De twa ynfierde wearden komme net oerien."
+
+msgid "Error: invalid input"
+msgstr "Flater: ûnjildige ynfier"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Unbekende kleur {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Druk op elke toets om troch te gean..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Kies út:\\n\\t{keuzes}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{wearde!r} is net {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Keuze({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{wearde!r} komt net oerien mei it formaat {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} is gjin jildich {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{wearde} is net yn it berik {berik}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{wearde!r} is gjin jildich boolean. Erkende wearden: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} is gjin jildige UUID."
+
+msgid "file"
+msgstr "file"
+
+msgid "directory"
+msgstr "map"
+
+msgid "path"
+msgstr "paad"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} bestiet net."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} is in bestân."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} is in map."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} is net lêsber."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} is net skriuwber."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} is net útfierber."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} wearden binne fereaske, mar {len_value} waard jûn."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Unbekende standertstream '{name}'"
+
+msgid "This field is required."
+msgstr "Dit fjild is ferplicht."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Triem hat gjin goedkarde tafoeging: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Triem hat gjin goedkarde tafoeging."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Triem moat tusken {min_size} en {max_size} bytes wêze."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Unjildige fjildnamme '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "It fjild moat lyk wêze oan %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "It fjild moat op syn minst %(min)d karakter lang wêze."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Fjild kin net langer wêze as %(max)d karakter."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "It fjild moat krekt %(max)d karakter lang wêze."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "It fjild moat tusken %(min)d en %(max)d tekens lang wêze."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "It nûmer moat op syn minst %(min)s wêze."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "It nûmer moat op syn heechst %(max)s wêze."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "It nûmer moat tusken %(min)s en %(max)s wêze."
+
+msgid "Invalid input."
+msgstr "Unjildige ynfier."
+
+msgid "Invalid email address."
+msgstr "Unjildich e-postadres."
+
+msgid "Invalid IP address."
+msgstr "Unjildich IP-adres."
+
+msgid "Invalid Mac address."
+msgstr "Unjildich Mac-adres."
+
+msgid "Invalid URL."
+msgstr "Unjildige URL."
+
+msgid "Invalid UUID."
+msgstr "Unjildige UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Unjildige wearde, moat ien fan wêze: %(wearden)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Unjildige wearde, kin net ien wêze fan: %(wearden)s."
+
+msgid "This field cannot be edited."
+msgstr "Dit fjild kin net bewurke wurde."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Dit fjild is útskeakele en kin gjin wearde hawwe."
+
+msgid "Invalid CSRF Token."
+msgstr "Unjildige CSRF Token."
+
+msgid "CSRF token missing."
+msgstr "CSRF token mist."
+
+msgid "CSRF failed."
+msgstr "CSRF mislearre."
+
+msgid "CSRF token expired."
+msgstr "CSRF token ferrûn."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Unjildige kar: koe net twinge."
+
+msgid "Choices cannot be None."
+msgstr "Keuzes kinne gjin gjin wêze."
+
+msgid "Not a valid choice."
+msgstr "Net in jildige kar."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Unjildige kar(s): ien of mear gegevensynputs koene net twongen wurde."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' is gjin jildige kar foar dit fjild."
+
+msgid "Not a valid datetime value."
+msgstr "Net in jildige datetime wearde."
+
+msgid "Not a valid date value."
+msgstr "Gjin jildige datumwearde."
+
+msgid "Not a valid time value."
+msgstr "Gjin jildige tiidwearde."
+
+msgid "Not a valid week value."
+msgstr "Net in jildige wike wearde."
+
+msgid "Not a valid integer value."
+msgstr "Net in jildige hiele getal wearde."
+
+msgid "Not a valid decimal value."
+msgstr "Net in jildige desimale wearde."
+
+msgid "Not a valid float value."
+msgstr "Net in jildige floatwearde."
+

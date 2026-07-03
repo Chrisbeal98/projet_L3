@@ -1,0 +1,1040 @@
+# Translations for ML.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ml\n"
+"Language-Team: ml <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "ഈ പേജ് ആക്സസ് ചെയ്യുന്നതിന് ദയവായി ലോഗിൻ ചെയ്യുക."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "ഈ IMEI ഇതിനകം തന്നെ സിസ്റ്റത്തിൽ രജിസ്റ്റർ ചെയ്തിട്ടുണ്ട്."
+
+msgid "Accès non autorisé."
+msgstr "അനധികൃത പ്രവേശനം."
+
+msgid "Appareil déverrouillé."
+msgstr "ഉപകരണം അൺലോക്ക് ചെയ്തു."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "അലേർട്ട് സൃഷ്ടിച്ചു! അറിയിപ്പുകൾ അയച്ചു."
+
+msgid "Alerte résolue."
+msgstr "അലേർട്ട് പരിഹരിച്ചു."
+
+msgid "Pas encore de compte ?"
+msgstr "ഇതുവരെ അക്കൗണ്ട് ഇല്ലേ?"
+
+msgid "Mon Profil"
+msgstr "എൻ്റെ പ്രൊഫൈൽ"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "കണക്ഷൻ വിജയിച്ചു! സ്വാഗതം."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "തെറ്റായ ഇമെയിൽ അല്ലെങ്കിൽ പാസ്‌വേഡ്."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "ആവശ്യമായ എല്ലാ ഫീൽഡുകളും പൂർത്തിയാക്കണം."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "പാസ്‌വേഡുകൾ പൊരുത്തപ്പെടുന്നില്ല."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "പാസ്‌വേഡിൽ കുറഞ്ഞത് 6 പ്രതീകങ്ങൾ ഉണ്ടായിരിക്കണം."
+
+msgid "Cet email est déjà utilisé."
+msgstr "ഈ ഇമെയിൽ ഇതിനകം ഉപയോഗത്തിലുണ്ട്."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "അക്കൗണ്ട് സൃഷ്ടിച്ചു! ലോഗിൻ."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "ഈ ഇമെയിലിൽ അക്കൗണ്ടുകളൊന്നും കണ്ടെത്തിയില്ല."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "ഫോൺ നമ്പർ അക്കൗണ്ട് നമ്പറുമായി പൊരുത്തപ്പെടുന്നില്ല."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "പുതിയ പാസ്‌വേഡ് നിർബന്ധമാണ്."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "പാസ്‌വേഡ് പുനഃസജ്ജമാക്കൽ വിജയകരമായി! ലോഗിൻ."
+
+msgid "Vous avez été déconnecté."
+msgstr "നിങ്ങൾ വിച്ഛേദിക്കപ്പെട്ടു."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "ബ്രാൻഡ്, മോഡൽ, IMEI എന്നിവ ആവശ്യമാണ്."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "ഈ IMEI ഉള്ള ഒരു ഉപകരണം ഇതിനകം നിലവിലുണ്ട്."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "ഉപകരണം രജിസ്റ്റർ ചെയ്തു!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "ഈ പ്രവർത്തനം നടത്താൻ നിങ്ങൾക്ക് അധികാരമില്ല."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "ഉപകരണം വിദൂരമായി ലോക്ക് ചെയ്തു."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "ഉപകരണം വിജയകരമായി അൺലോക്ക് ചെയ്തു."
+
+msgid "Appareil supprimé."
+msgstr "ഉപകരണം ഇല്ലാതാക്കി."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "ഒരു ഉപകരണവും അലേർട്ട് തരവും തിരഞ്ഞെടുക്കുക."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "ഈ ഉപകരണം നിങ്ങളുടേതല്ല."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "അലേർട്ട് റിപ്പോർട്ട് ചെയ്തു. ഉപകരണം സുരക്ഷിതമാക്കി."
+
+msgid "Alerte marquée comme résolue."
+msgstr "അലേർട്ട് പരിഹരിച്ചതായി അടയാളപ്പെടുത്തി."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "പേരിൻ്റെ ആദ്യഭാഗം, അവസാന നാമം, ഇമെയിൽ എന്നിവ ആവശ്യമാണ്."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "ഈ ഇമെയിൽ ഇതിനകം മറ്റൊരു അക്കൗണ്ട് ഉപയോഗിച്ചു."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "പ്രൊഫൈൽ വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "അഡ്മിനിസ്ട്രേറ്റർമാർക്കായി ആക്സസ് റിസർവ് ചെയ്തിരിക്കുന്നു."
+
+msgid "Erreur marquée comme résolue."
+msgstr "പിശക് പരിഹരിച്ചതായി അടയാളപ്പെടുത്തി."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "നിങ്ങൾക്ക് നിങ്ങളുടെ സ്വന്തം അക്കൗണ്ട് ഇല്ലാതാക്കാൻ കഴിയില്ല."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "ഉപയോക്താവിനെ വിജയകരമായി ഇല്ലാതാക്കി."
+
+msgid "Administration"
+msgstr "അഡ്മിനിസ്ട്രേഷൻ"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "ആൻ്റി-തെഫ്റ്റ് സിസ്റ്റത്തിൻ്റെ കേന്ദ്രീകൃത മാനേജ്മെൻ്റ്"
+
+msgid "Utilisateurs"
+msgstr "ഉപയോക്താക്കൾ"
+
+msgid "Actifs aujourd'hui"
+msgstr "ഇന്ന് സജീവമാണ്"
+
+msgid "Nouveaux ce mois"
+msgstr "ഈ മാസം പുതിയത്"
+
+msgid "Appareils"
+msgstr "ഉപകരണങ്ങൾ"
+
+msgid "Alertes actives"
+msgstr "സജീവ അലേർട്ടുകൾ"
+
+msgid "Analytique"
+msgstr "അനലിറ്റിക്കൽ"
+
+msgid "Journal d'activité"
+msgstr "പ്രവർത്തന ലോഗ്"
+
+msgid "Erreurs"
+msgstr "പിശകുകൾ"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "കണക്ഷനുകൾ (കഴിഞ്ഞ 7 ദിവസം)"
+
+msgid "Alertes par type"
+msgstr "തരം അനുസരിച്ച് അലേർട്ടുകൾ"
+
+msgid "Appareils par opérateur"
+msgstr "ഓപ്പറേറ്റർ മുഖേനയുള്ള ഉപകരണങ്ങൾ"
+
+msgid "Résumé du système"
+msgstr "സിസ്റ്റം സംഗ്രഹം"
+
+msgid "Utilisateurs total"
+msgstr "മൊത്തം ഉപയോക്താക്കൾ"
+
+msgid "Appareils enregistrés"
+msgstr "രജിസ്റ്റർ ചെയ്ത ഉപകരണങ്ങൾ"
+
+msgid "Total alertes"
+msgstr "മൊത്തം അലേർട്ടുകൾ"
+
+msgid "Alertes en cours"
+msgstr "നിലവിലെ അലേർട്ടുകൾ"
+
+msgid "Erreurs non résolues"
+msgstr "പരിഹരിക്കപ്പെടാത്ത പിശകുകൾ"
+
+msgid "Dernières activités"
+msgstr "ഏറ്റവും പുതിയ പ്രവർത്തനങ്ങൾ"
+
+msgid "récentes"
+msgstr "സമീപകാല"
+
+msgid "Utilisateur"
+msgstr "ഉപയോക്താവ്"
+
+msgid "Action"
+msgstr "ആക്ഷൻ"
+
+msgid "Détails"
+msgstr "വിശദാംശങ്ങൾ"
+
+msgid "Adresse IP"
+msgstr "IP വിലാസം"
+
+msgid "Navigateur"
+msgstr "ബ്രൗസർ"
+
+msgid "Date"
+msgstr "തീയതി"
+
+msgid "Aucune activité"
+msgstr "പ്രവർത്തനമില്ല"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "ഉപയോക്തൃ പ്രവർത്തനങ്ങൾ ഇവിടെ ദൃശ്യമാകും."
+
+msgid "Journal d'erreurs"
+msgstr "പിശക് ലോഗ്"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "എല്ലാ പിശകുകളും പരിഹരിക്കണോ?"
+
+msgid "Tout résoudre"
+msgstr "എല്ലാം പരിഹരിക്കുക"
+
+msgid "non résolues"
+msgstr "പരിഹരിക്കപ്പെടാത്ത"
+
+msgid "Tout est résolu"
+msgstr "എല്ലാം പരിഹരിച്ചു"
+
+msgid "Type"
+msgstr "ദയയുള്ള"
+
+msgid "Description"
+msgstr "വിവരണം"
+
+msgid "Statut"
+msgstr "നില"
+
+msgid "Résolu"
+msgstr "പരിഹരിച്ചു"
+
+msgid "Non résolu"
+msgstr "പരിഹരിക്കപ്പെടാത്തത്"
+
+msgid "Aucune erreur enregistrée"
+msgstr "പിശകുകളൊന്നും രേഖപ്പെടുത്തിയിട്ടില്ല"
+
+msgid "Le système fonctionne correctement."
+msgstr "സിസ്റ്റം ശരിയായി പ്രവർത്തിക്കുന്നു."
+
+msgid "Gestion des utilisateurs"
+msgstr "ഉപയോക്തൃ മാനേജ്മെൻ്റ്"
+
+msgid "comptes"
+msgstr "അക്കൗണ്ടുകൾ"
+
+msgid "Email"
+msgstr "ഇ-മെയിൽ"
+
+msgid "Téléphone"
+msgstr "ഫോൺ"
+
+msgid "Rôle"
+msgstr "പങ്ക്"
+
+msgid "Inscrit le"
+msgstr "രജിസ്റ്റർ ചെയ്തത്"
+
+msgid "Actions"
+msgstr "പ്രവർത്തനങ്ങൾ"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "ഈ ഉപയോക്താവിനെയും അവരുടെ എല്ലാ ഉപകരണങ്ങളെയും ഇല്ലാതാക്കണോ?"
+
+msgid "Vous"
+msgstr "നിങ്ങൾ"
+
+msgid "Connexions"
+msgstr "കണക്ഷനുകൾ"
+
+msgid "Vol"
+msgstr "ഫ്ലൈറ്റ്"
+
+msgid "Perte"
+msgstr "നഷ്ടം"
+
+msgid "Anomalie"
+msgstr "അപാകത"
+
+msgid "Alertes"
+msgstr "അലേർട്ടുകൾ"
+
+msgid "Gestion des alertes"
+msgstr "അലേർട്ട് മാനേജ്മെൻ്റ്"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "മോഷണം അല്ലെങ്കിൽ നഷ്ടം റിപ്പോർട്ട് ചെയ്യുക, ചരിത്രം ട്രാക്ക് ചെയ്യുക"
+
+msgid "Signaler un vol / perte"
+msgstr "മോഷണം/നഷ്ടം അറിയിക്കുക"
+
+msgid "En cours"
+msgstr "പുരോഗതിയിൽ"
+
+msgid "Résolues"
+msgstr "പരിഹരിച്ചു"
+
+msgid "Historique des alertes"
+msgstr "മുന്നറിയിപ്പ് ചരിത്രം"
+
+msgid "Appareil"
+msgstr "ഉപകരണം"
+
+msgid "Priorité"
+msgstr "മുൻഗണന"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "ഈ മുന്നറിയിപ്പ് പരിഹരിച്ചതായി അടയാളപ്പെടുത്തണോ?"
+
+msgid "Résoudre"
+msgstr "പരിഹരിക്കുക"
+
+msgid "Aucune alerte"
+msgstr "അലേർട്ട് ഇല്ല"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "നല്ല വാർത്ത! അലേർട്ടുകളൊന്നും റിപ്പോർട്ട് ചെയ്തിട്ടില്ല."
+
+msgid "Signaler un vol ou une perte"
+msgstr "മോഷണമോ നഷ്ടമോ അറിയിക്കുക"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"ഒരു മോഷണം റിപ്പോർട്ട് ചെയ്യുന്നതിലൂടെ, നിങ്ങളുടെ ഉപകരണം സ്വയമേവ ലോക്ക് "
+"ചെയ്യപ്പെടുകയും അറിയിപ്പുകൾ അയയ്ക്കുകയും ചെയ്യും."
+
+msgid "Appareil concerné"
+msgstr "ബാധിച്ച ഉപകരണം"
+
+msgid "Sélectionner un appareil"
+msgstr "ഒരു ഉപകരണം തിരഞ്ഞെടുക്കുക"
+
+msgid "Type d'alerte"
+msgstr "അലേർട്ട് തരം"
+
+msgid "Décrivez les circonstances..."
+msgstr "സാഹചര്യങ്ങൾ വിവരിക്കുക..."
+
+msgid "Annuler"
+msgstr "റദ്ദാക്കുക"
+
+msgid "Signaler"
+msgstr "റിപ്പോർട്ട് ചെയ്യുക"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"ഇൻ്റലിജൻ്റ് ആൻ്റി-തെഫ്റ്റ് സിസ്റ്റം - സ്മാർട്ട്ഫോണുകൾക്കുള്ള സുരക്ഷാ "
+"പ്ലാറ്റ്ഫോം"
+
+msgid "Système Anti-Vol"
+msgstr "ആൻ്റി-തെഫ്റ്റ് സിസ്റ്റം"
+
+msgid "PRINCIPAL"
+msgstr "പ്രധാനം"
+
+msgid "Tableau de bord"
+msgstr "ഡാഷ്ബോർഡ്"
+
+msgid "SÉCURITÉ"
+msgstr "സുരക്ഷ"
+
+msgid "Géolocalisation"
+msgstr "ജിയോലൊക്കേഷൻ"
+
+msgid "ADMINISTRATION"
+msgstr "അഡ്മിനിസ്ട്രേഷൻ"
+
+msgid "Déconnexion"
+msgstr "വിച്ഛേദിക്കുക"
+
+msgid "Changer de langue"
+msgstr "ഭാഷ മാറ്റുക"
+
+msgid "Rechercher une langue..."
+msgstr "ഒരു ഭാഷയ്ക്കായി തിരയുക..."
+
+msgid "Profil"
+msgstr "പ്രൊഫൈൽ"
+
+msgid "Changer de thème"
+msgstr "തീം മാറ്റുക"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "നിങ്ങളുടെ ഉപകരണ സുരക്ഷയുടെ അവലോകനം"
+
+msgid "Ajouter un appareil"
+msgstr "ഒരു ഉപകരണം ചേർക്കുക"
+
+msgid "Appareils volés"
+msgstr "മോഷ്ടിച്ച ഉപകരണങ്ങൾ"
+
+msgid "Verrouillés à distance"
+msgstr "വിദൂരമായി പൂട്ടി"
+
+msgid "Alertes récentes"
+msgstr "സമീപകാല അലേർട്ടുകൾ"
+
+msgid "Voir tout"
+msgstr "എല്ലാം കാണുക"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "അലേർട്ട് ഇല്ല. നിങ്ങളുടെ ഉപകരണങ്ങൾ സുരക്ഷിതമാണ്!"
+
+msgid "Mes appareils"
+msgstr "എൻ്റെ ഉപകരണങ്ങൾ"
+
+msgid "Aucun appareil enregistré"
+msgstr "ഉപകരണങ്ങളൊന്നും രജിസ്റ്റർ ചെയ്തിട്ടില്ല"
+
+msgid "Ajouter"
+msgstr "ചേർക്കുക"
+
+msgid "en attente"
+msgstr "ഹോൾഡ് ചെയ്തിരിക്കുന്നു"
+
+msgid "Gestion des appareils"
+msgstr "ഉപകരണ മാനേജ്മെൻ്റ്"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "നിങ്ങളുടെ സ്മാർട്ട്ഫോണുകൾ രജിസ്റ്റർ ചെയ്യുകയും നിയന്ത്രിക്കുകയും ചെയ്യുക"
+
+msgid "Opérateur"
+msgstr "ഓപ്പറേറ്റർ"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "ഈ ഉപകരണം വിദൂരമായി ലോക്ക് ചെയ്യണോ?"
+
+msgid "Verrouiller"
+msgstr "പൂട്ടുക"
+
+msgid "Déverrouiller"
+msgstr "അൺലോക്ക് ചെയ്യുക"
+
+msgid "Supprimer cet appareil ?"
+msgstr "ഈ ഉപകരണം ഇല്ലാതാക്കണോ?"
+
+msgid "Supprimer"
+msgstr "ഇല്ലാതാക്കുക"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "നിങ്ങളുടെ ആദ്യത്തെ സ്‌മാർട്ട്‌ഫോൺ പരിരക്ഷിക്കാൻ ആരംഭിക്കുക."
+
+msgid "Nouvel appareil"
+msgstr "പുതിയ ഉപകരണം"
+
+msgid "Marque"
+msgstr "ബ്രാൻഡ്"
+
+msgid "Sélectionner"
+msgstr "തിരഞ്ഞെടുക്കുക"
+
+msgid "Autre"
+msgstr "മറ്റുള്ളവ"
+
+msgid "Modèle"
+msgstr "മോഡൽ"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "നിങ്ങളുടെ ഫോണിൽ *#06# എന്ന് ടൈപ്പ് ചെയ്യുക"
+
+msgid "Système d'exploitation"
+msgstr "ഓപ്പറേറ്റിംഗ് സിസ്റ്റം"
+
+msgid "Numéro de téléphone"
+msgstr "ഫോൺ നമ്പർ"
+
+msgid "Enregistrer"
+msgstr "സംരക്ഷിക്കുക"
+
+msgid "Connexion"
+msgstr "കണക്ഷൻ"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "സ്മാർട്ട്ഫോൺ സുരക്ഷാ സംവിധാനം"
+
+msgid "Adresse email"
+msgstr "ഇമെയിൽ വിലാസം"
+
+msgid "Mot de passe"
+msgstr "രഹസ്യവാക്ക്"
+
+msgid "Se connecter"
+msgstr "ലോഗിൻ"
+
+msgid "Mot de passe oublié ?"
+msgstr "പാസ്‌വേഡ് മറന്നോ?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"നിങ്ങൾക്ക് ഇതിനകം ഒരു അക്കൗണ്ട് ഉണ്ടോ? അല്ലെങ്കിൽ, നിങ്ങളുടെ അക്കൗണ്ട് "
+"സൃഷ്ടിക്കുന്നത് തുടരുക!"
+
+msgid "Créer un compte"
+msgstr "ഒരു അക്കൗണ്ട് സൃഷ്ടിക്കുക"
+
+msgid "Sécurité maximale"
+msgstr "പരമാവധി സുരക്ഷ"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "റിമോട്ട് ലോക്കിംഗ് ഉപയോഗിച്ച് നിങ്ങളുടെ സ്വകാര്യ ഡാറ്റ പരിരക്ഷിക്കുക"
+
+msgid "Localisation GPS"
+msgstr "GPS സ്ഥാനം"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "നിങ്ങളുടെ സ്മാർട്ട്ഫോണിൻ്റെ കൃത്യമായ സ്ഥാനം തത്സമയം കണ്ടെത്തുക"
+
+msgid "Alertes instantanées"
+msgstr "തൽക്ഷണ അലേർട്ടുകൾ"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "മോഷണം നടന്നാൽ SMS, ഇമെയിൽ, പുഷ് അറിയിപ്പുകൾ എന്നിവ സ്വീകരിക്കുക"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "നിങ്ങളുടെ ഉപകരണങ്ങൾ കണ്ടെത്തി അപകടസാധ്യതയുള്ള മേഖലകൾ ദൃശ്യവൽക്കരിക്കുക"
+
+msgid "Aucun appareil"
+msgstr "ഉപകരണമില്ല"
+
+msgid "Zones à risque"
+msgstr "അപകടസാധ്യതയുള്ള പ്രദേശങ്ങൾ"
+
+msgid "incidents"
+msgstr "സംഭവങ്ങൾ"
+
+msgid "Aucune zone signalée"
+msgstr "പ്രദേശങ്ങളൊന്നും റിപ്പോർട്ട് ചെയ്തിട്ടില്ല"
+
+msgid "Niveau"
+msgstr "ലെവൽ"
+
+msgid "Incidents"
+msgstr "സംഭവങ്ങൾ"
+
+msgid "Profile utilisateur"
+msgstr "ഉപയോക്തൃ പ്രൊഫൈൽ"
+
+msgid "Gérez vos informations personnelles"
+msgstr "നിങ്ങളുടെ സ്വകാര്യ വിവരങ്ങൾ കൈകാര്യം ചെയ്യുക"
+
+msgid "Membre depuis"
+msgstr "അംഗം മുതൽ"
+
+msgid "Modifier mes informations"
+msgstr "എൻ്റെ വിവരങ്ങൾ എഡിറ്റ് ചെയ്യുക"
+
+msgid "Prénom"
+msgstr "പേരിന്റെ ആദ്യഭാഗം"
+
+msgid "Nom"
+msgstr "പേര്"
+
+msgid "Changer le mot de passe"
+msgstr "പാസ്വേഡ് മാറ്റുക"
+
+msgid "Nouveau mot de passe"
+msgstr "പുതിയ പാസ്വേഡ്"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "മാറ്റാതിരിക്കാൻ ശൂന്യമായി ഇടുക"
+
+msgid "Enregistrer les modifications"
+msgstr "മാറ്റങ്ങൾ സംരക്ഷിക്കുക"
+
+msgid "Inscription"
+msgstr "രജിസ്ട്രേഷൻ"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "നിങ്ങളുടെ ഉപകരണങ്ങളുടെ മികച്ച സുരക്ഷയ്ക്കായി ആൻ്റി തെഫ്റ്റിലേക്ക് സ്വാഗതം"
+
+msgid "Confirmer"
+msgstr "സ്ഥിരീകരിക്കുക"
+
+msgid "Créer mon compte"
+msgstr "എൻ്റെ അക്കൗണ്ട് സൃഷ്‌ടിക്കുക"
+
+msgid "Déjà un compte ?"
+msgstr "ഇതിനകം ഒരു അക്കൗണ്ട് ഉണ്ടോ?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "പാസ്‌വേഡ് പുനഃസജ്ജമാക്കുക"
+
+msgid "Réinitialisation"
+msgstr "പുനഃസജ്ജമാക്കുക"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "നിങ്ങളുടെ ഐഡൻ്റിറ്റി സ്ഥിരീകരിക്കാൻ നിങ്ങളുടെ ഇമെയിലും ഫോൺ നമ്പറും നൽകുക"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "രജിസ്ട്രേഷൻ സമയത്ത് ഉപയോഗിച്ച നമ്പർ"
+
+msgid "Minimum 6 caractères"
+msgstr "കുറഞ്ഞത് 6 പ്രതീകങ്ങൾ"
+
+msgid "Confirmer le mot de passe"
+msgstr "പാസ്വേഡ് സ്ഥിരീകരിക്കുക"
+
+msgid "Retourner à la"
+msgstr "എന്നതിലേക്ക് മടങ്ങുക"
+
+msgid "page de connexion"
+msgstr "ലോഗിൻ പേജ്"
+
+msgid "Vérification sécurisée"
+msgstr "സുരക്ഷിത പരിശോധന"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "നിങ്ങളുടെ ഇമെയിലും ഫോൺ നമ്പറും ഉപയോഗിച്ച് നിങ്ങളുടെ ഐഡൻ്റിറ്റി പരിശോധിച്ചു"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "കുറഞ്ഞത് 6 പ്രതീകങ്ങളുള്ള ഒരു സുരക്ഷിത പാസ്‌വേഡ് തിരഞ്ഞെടുക്കുക"
+
+msgid "d"
+msgstr "ഡി"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: എഡിറ്റിംഗ് പരാജയപ്പെട്ടു"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: എഡിറ്റിംഗ് പരാജയപ്പെട്ടു: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "വിൻഡോസ് പിശക്: {error}"
+
+msgid "deprecated"
+msgstr "ഒഴിവാക്കി"
+
+msgid "Options"
+msgstr "ഓപ്ഷനുകൾ"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "അപ്രതീക്ഷിതമായ അധിക വാദം ലഭിച്ചു ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: {name!r} എന്ന കമാൻഡ് അവസാനിപ്പിച്ചു.{extra_message}"
+
+msgid "Aborted!"
+msgstr "അലസിപ്പിച്ചു!"
+
+msgid "Commands"
+msgstr "കമാൻഡുകൾ"
+
+msgid "Missing command."
+msgstr "കമാൻഡ് വിട്ടുപോയിരിക്കുന്നു."
+
+msgid "Value must be an iterable."
+msgstr "മൂല്യം ആവർത്തിക്കാവുന്ന ഒന്നായിരിക്കണം."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} മൂല്യങ്ങൾ എടുക്കുന്നു, എന്നാൽ 1 നൽകിയിട്ടുണ്ട്."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: {param_type} {name!r} അവസാനിപ്പിച്ചു.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "പേര് '{name}' രണ്ടുതവണ നിർവചിച്ചു"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "ബൂളിയൻ ഓപ്ഷൻ {decl!r} ശരി/തെറ്റ് എന്നതിന് ഒരേ ഫ്ലാഗ് ഉപയോഗിക്കാൻ കഴിയില്ല."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "{decls!r} പ്രഖ്യാപനങ്ങളുള്ള ഓപ്ഷൻ്റെ പേര് നിർണ്ണയിക്കാൻ കഴിഞ്ഞില്ല"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"ഓപ്‌ഷനുകളൊന്നും നിർവചിച്ചിട്ടില്ലെങ്കിലും ഒരു പേര് പാസ്സായി ({name}). "
+"പകരം ഒരു വാദം പ്രഖ്യാപിക്കാനാണോ നിങ്ങൾ ഉദ്ദേശിച്ചത്? '--{name}' "
+"പാസ്സാക്കണമെന്നാണോ നിങ്ങൾ ഉദ്ദേശിച്ചത്?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "സ്ഥിരസ്ഥിതി: {default}"
+
+msgid "required"
+msgstr "ആവശ്യമാണ്"
+
+msgid "(dynamic)"
+msgstr "(ഡൈനാമിക്)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"ആർഗ്യുമെൻ്റുകൾ കൃത്യമായി ഒരു പാരാമീറ്റർ ഡിക്ലറേഷൻ എടുക്കുന്നു, {length}: "
+"{decls} ലഭിച്ചു."
+
+msgid "Do you want to continue?"
+msgstr "നിങ്ങൾക്ക് തുടരണോ?"
+
+msgid "Confirm the action without prompting."
+msgstr "ആവശ്യപ്പെടാതെ തന്നെ പ്രവർത്തനം സ്ഥിരീകരിക്കുക."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(പ്രോഗ്)s, പതിപ്പ് %(പതിപ്പ്)s"
+
+msgid "Show the version and exit."
+msgstr "പതിപ്പ് കാണിച്ച് പുറത്തുകടക്കുക."
+
+msgid "Show this message and exit."
+msgstr "ഈ സന്ദേശം കാണിച്ച് പുറത്തുകടക്കുക."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "നിങ്ങൾ ഉദ്ദേശിച്ചത് {സാധ്യത} ആണോ?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "പിശക്: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "സഹായത്തിനായി '{command} {option}' പരീക്ഷിക്കുക."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "മൂല്യം അസാധുവാണ്: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint} എന്നതിനുള്ള മൂല്യം അസാധുവാണ്: {message}"
+
+msgid "Missing argument"
+msgstr "വാദം കാണുന്നില്ല"
+
+msgid "Missing option"
+msgstr "ഓപ്ഷൻ വിട്ടുപോയിരിക്കുന്നു"
+
+msgid "Missing parameter"
+msgstr "പാരാമീറ്റർ വിട്ടുപോയിരിക്കുന്നു"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} കാണുന്നില്ല"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "വിട്ടുപോയ പാരാമീറ്റർ: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "അത്തരം ഓപ്‌ഷൻ {name!r} ഒന്നുമില്ല."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "അത്തരം കമാൻഡ് {name!r} ഒന്നുമില്ല."
+
+msgid "unknown error"
+msgstr "അജ്ഞാത പിശക്"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "ഫയൽ {filename!r}: {message} തുറക്കാൻ കഴിഞ്ഞില്ല"
+
+msgid "Usage:"
+msgstr "ഉപയോഗിക്കുക:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "ഓപ്‌ഷനുള്ള ആരംഭ പ്രതീകം അസാധുവാണ് ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "ആർഗ്യുമെൻ്റ് {name!r} {nargs} മൂല്യങ്ങൾ എടുക്കുന്നു."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "ഓപ്‌ഷൻ {name!r} ഒരു മൂല്യം എടുക്കുന്നില്ല."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "ഓപ്‌ഷൻ {name!r} ഒരു വാദം ആവശ്യമാണ്."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "4.4-നേക്കാൾ പഴയ ബാഷ് പതിപ്പുകൾക്കായി ഷെൽ പൂർത്തീകരണം പിന്തുണയ്ക്കുന്നില്ല."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "ബാഷ് പതിപ്പ് കണ്ടെത്താനായില്ല, ഷെൽ പൂർത്തീകരണം പിന്തുണയ്ക്കുന്നില്ല."
+
+msgid "Repeat for confirmation"
+msgstr "സ്ഥിരീകരണത്തിനായി ആവർത്തിക്കുക"
+
+msgid "Error: The two entered values do not match."
+msgstr "പിശക്: നൽകിയ രണ്ട് മൂല്യങ്ങളും പൊരുത്തപ്പെടുന്നില്ല."
+
+msgid "Error: invalid input"
+msgstr "പിശക്: അസാധുവായ ഇൻപുട്ട്"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "അജ്ഞാത നിറം {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "തുടരാൻ ഏതെങ്കിലും കീ അമർത്തുക..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "ഇതിൽ നിന്ന് തിരഞ്ഞെടുക്കുക:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} എന്നത് {choice} അല്ല."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "ചോയ്‌സ്({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ഫോർമാറ്റുമായി പൊരുത്തപ്പെടുന്നില്ല {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ഒരു സാധുവായ {number_type} അല്ല."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} എന്നത് {range} എന്ന ശ്രേണിയിലല്ല."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ഒരു സാധുവായ ബൂളിയൻ അല്ല. അംഗീകൃത മൂല്യങ്ങൾ: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ഒരു സാധുവായ UUID അല്ല."
+
+msgid "file"
+msgstr "ഫയൽ"
+
+msgid "directory"
+msgstr "ഡയറക്ടറി"
+
+msgid "path"
+msgstr "പാത"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} നിലവിലില്ല."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} ഒരു ഫയലാണ്."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} ഒരു ഡയറക്ടറിയാണ്."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} വായിക്കാൻ കഴിയില്ല."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} എന്നത് എഴുതാനാകില്ല."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} എക്സിക്യൂട്ടബിൾ അല്ല."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} മൂല്യങ്ങൾ ആവശ്യമാണ്, എന്നാൽ {len_value} നൽകിയിട്ടുണ്ട്."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "അജ്ഞാത സ്റ്റാൻഡേർഡ് സ്ട്രീം '{name}'"
+
+msgid "This field is required."
+msgstr "ഈ ഫീൽഡ് പൂരിപ്പിക്കേണ്ടതുണ്ട്."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "ഫയലിന് അംഗീകൃത വിപുലീകരണം ഇല്ല: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "ഫയലിന് അംഗീകൃത വിപുലീകരണമില്ല."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "ഫയൽ {min_size} നും {max_size} ബൈറ്റുകൾക്കും ഇടയിലായിരിക്കണം."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "'%s' എന്ന ഫീൽഡ് നാമം അസാധുവാണ്."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "ഫീൽഡ് %(other_name)s-ന് തുല്യമായിരിക്കണം."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "ഫീൽഡിന് കുറഞ്ഞത് %(മിനിറ്റ്)d പ്രതീകമെങ്കിലും ദൈർഘ്യമുണ്ടായിരിക്കണം."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "ഫീൽഡ് %(max)d പ്രതീകത്തിൽ കൂടുതലാകരുത്."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "ഫീൽഡ് കൃത്യമായി %(max)d പ്രതീകം ആയിരിക്കണം."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "ഫീൽഡ് %(min)d, %(max)d എന്നീ അക്ഷരങ്ങൾക്കിടയിലായിരിക്കണം."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "സംഖ്യ കുറഞ്ഞത് %(മിനിറ്റ്) ആയിരിക്കണം."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "സംഖ്യ പരമാവധി %(പരമാവധി) ആയിരിക്കണം."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "നമ്പർ %(min)s നും %(max)s നും ഇടയിലായിരിക്കണം."
+
+msgid "Invalid input."
+msgstr "അസാധുവായ ഇൻപുട്ട്."
+
+msgid "Invalid email address."
+msgstr "ഇമെയിൽ വിലാസം അസാധുവാണ്."
+
+msgid "Invalid IP address."
+msgstr "അസാധുവായ IP വിലാസം."
+
+msgid "Invalid Mac address."
+msgstr "അസാധുവായ Mac വിലാസം."
+
+msgid "Invalid URL."
+msgstr "അസാധുവായ URL."
+
+msgid "Invalid UUID."
+msgstr "UUID അസാധുവാണ്."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "അസാധുവായ മൂല്യം, ഇവയിൽ ഒന്നായിരിക്കണം: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "മൂല്യം അസാധുവാണ്, ഇതിൽ ഏതെങ്കിലും ആയിരിക്കരുത്: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "ഈ ഫീൽഡ് എഡിറ്റ് ചെയ്യാൻ കഴിയില്ല."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "ഈ ഫീൽഡ് പ്രവർത്തനരഹിതമാക്കിയതിനാൽ ഒരു മൂല്യം ഉണ്ടായിരിക്കില്ല."
+
+msgid "Invalid CSRF Token."
+msgstr "അസാധുവായ CSRF ടോക്കൺ."
+
+msgid "CSRF token missing."
+msgstr "CSRF ടോക്കൺ കാണുന്നില്ല."
+
+msgid "CSRF failed."
+msgstr "CSRF പരാജയപ്പെട്ടു."
+
+msgid "CSRF token expired."
+msgstr "CSRF ടോക്കൺ കാലഹരണപ്പെട്ടു."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "അസാധുവായ ചോയ്‌സ്: നിർബന്ധിക്കാൻ കഴിഞ്ഞില്ല."
+
+msgid "Choices cannot be None."
+msgstr "ചോയ്‌സുകൾ ഒന്നും ആവരുത്."
+
+msgid "Not a valid choice."
+msgstr "സാധുവായ ഒരു തിരഞ്ഞെടുപ്പല്ല."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"അസാധുവായ ചോയ്‌സ്(കൾ): ഒന്നോ അതിലധികമോ ഡാറ്റ ഇൻപുട്ടുകൾ നിർബന്ധിതമാക്കാൻ "
+"കഴിഞ്ഞില്ല."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' ഈ ഫീൽഡിനുള്ള സാധുവായ ചോയിസല്ല."
+
+msgid "Not a valid datetime value."
+msgstr "സാധുവായ തീയതി സമയ മൂല്യമല്ല."
+
+msgid "Not a valid date value."
+msgstr "സാധുവായ തീയതി മൂല്യമല്ല."
+
+msgid "Not a valid time value."
+msgstr "സാധുവായ സമയ മൂല്യമല്ല."
+
+msgid "Not a valid week value."
+msgstr "സാധുവായ ആഴ്‌ച മൂല്യമല്ല."
+
+msgid "Not a valid integer value."
+msgstr "സാധുവായ ഒരു പൂർണ്ണസംഖ്യ മൂല്യമല്ല."
+
+msgid "Not a valid decimal value."
+msgstr "സാധുവായ ദശാംശ മൂല്യമല്ല."
+
+msgid "Not a valid float value."
+msgstr "സാധുതയുള്ള ഫ്ലോട്ട് മൂല്യമല്ല."
+

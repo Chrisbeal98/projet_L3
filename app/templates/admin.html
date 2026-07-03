@@ -1,0 +1,567 @@
+{% extends "base.html" %}
+{% block title %}{{ _('Administration') }} —  anti-vol {% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <div>
+        <h1 class="page-title">{{ _('Administration') }}</h1>
+        <p class="page-subtitle">{{ _('Gestion centralisée du système AntiVol') }}</p>
+    </div>
+</div>
+
+<!-- ═══ STATISTIQUES GLOBALES ═══ -->
+<div class="stats-grid">
+    <div class="stat-card stat-card-blue">
+        <div class="stat-icon"><i data-lucide="users"></i></div>
+        <div class="stat-info">
+            <span class="stat-value">{{ utilisateurs | length }}</span>
+            <span class="stat-label">{{ _('Utilisateurs') }}</span>
+        </div>
+    </div>
+    <div class="stat-card stat-card-green">
+        <div class="stat-icon"><i data-lucide="user-check"></i></div>
+        <div class="stat-info">
+            <span class="stat-value">{{ utilisateurs_actifs }}</span>
+            <span class="stat-label">{{ _("Actifs aujourd'hui") }}</span>
+        </div>
+    </div>
+    <div class="stat-card stat-card-purple">
+        <div class="stat-icon"><i data-lucide="user-plus"></i></div>
+        <div class="stat-info">
+            <span class="stat-value">{{ nouveaux_mois }}</span>
+            <span class="stat-label">{{ _('Nouveaux ce mois') }}</span>
+        </div>
+    </div>
+    <div class="stat-card stat-card-orange">
+        <div class="stat-icon"><i data-lucide="smartphone"></i></div>
+        <div class="stat-info">
+            <span class="stat-value">{{ total_appareils }}</span>
+            <span class="stat-label">{{ _('Appareils') }}</span>
+        </div>
+    </div>
+    <div class="stat-card stat-card-red">
+        <div class="stat-icon"><i data-lucide="bell-ring"></i></div>
+        <div class="stat-info">
+            <span class="stat-value">{{ alertes_en_cours }}</span>
+            <span class="stat-label">{{ _('Alertes actives') }}</span>
+        </div>
+    </div>
+</div>
+
+<!-- ═══ NAVIGATION ONGLETS ═══ -->
+<div class="admin-tabs">
+    <button class="admin-tab active" onclick="switchTab('analytique')" id="tab-analytique">
+        <i data-lucide="bar-chart-3"></i> {{ _('Analytique') }}
+    </button>
+    <button class="admin-tab" onclick="switchTab('activites')" id="tab-activites">
+        <i data-lucide="activity"></i> {{ _("Journal d'activité") }}
+    </button>
+    <button class="admin-tab" onclick="switchTab('erreurs')" id="tab-erreurs">
+        <i data-lucide="alert-circle"></i> {{ _('Erreurs') }}
+        {% if erreurs_non_resolues > 0 %}
+        <span class="tab-badge">{{ erreurs_non_resolues }}</span>
+        {% endif %}
+    </button>
+    <button class="admin-tab" onclick="switchTab('utilisateurs')" id="tab-utilisateurs">
+        <i data-lucide="users"></i> {{ _('Utilisateurs') }}
+    </button>
+</div>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- VOLET 1 : ANALYTIQUE                           -->
+<!-- ═══════════════════════════════════════════════ -->
+<div class="tab-panel active" id="panel-analytique">
+    <div class="dashboard-grid">
+        <div class="card">
+            <div class="card-header">
+                <h2><i data-lucide="trending-up"></i> {{ _('Connexions (7 derniers jours)') }}</h2>
+            </div>
+            <div class="card-body chart-container">
+                <canvas id="connexionChart"></canvas>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">
+                <h2><i data-lucide="pie-chart"></i> {{ _('Alertes par type') }}</h2>
+            </div>
+            <div class="card-body chart-container">
+                <canvas id="alertChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <div class="dashboard-grid" style="margin-top: 20px;">
+        <div class="card">
+            <div class="card-header">
+                <h2><i data-lucide="bar-chart-3"></i> {{ _('Appareils par opérateur') }}</h2>
+            </div>
+            <div class="card-body chart-container">
+                <canvas id="operatorChart"></canvas>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">
+                <h2><i data-lucide="target"></i> {{ _('Résumé du système') }}</h2>
+            </div>
+            <div class="card-body">
+                <div class="summary-list">
+                    <div class="summary-item">
+                        <span class="summary-label"><i data-lucide="users"></i> {{ _('Utilisateurs total') }}</span>
+                        <span class="summary-value">{{ utilisateurs | length }}</span>
+                    </div>
+                    <div class="summary-item">
+                        <span class="summary-label"><i data-lucide="smartphone"></i> {{ _('Appareils enregistrés') }}</span>
+                        <span class="summary-value">{{ total_appareils }}</span>
+                    </div>
+                    <div class="summary-item">
+                        <span class="summary-label"><i data-lucide="bell-ring"></i> {{ _('Total alertes') }}</span>
+                        <span class="summary-value">{{ total_alertes }}</span>
+                    </div>
+                    <div class="summary-item">
+                        <span class="summary-label"><i data-lucide="alert-triangle"></i> {{ _('Alertes en cours') }}</span>
+                        <span class="summary-value summary-value-warning">{{ alertes_en_cours }}</span>
+                    </div>
+                    <div class="summary-item">
+                        <span class="summary-label"><i data-lucide="alert-circle"></i> {{ _('Erreurs non résolues') }}</span>
+                        <span class="summary-value summary-value-danger">{{ erreurs_non_resolues }}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- VOLET 2 : JOURNAL D'ACTIVITÉ                  -->
+<!-- ═══════════════════════════════════════════════ -->
+<div class="tab-panel" id="panel-activites">
+    <div class="card">
+        <div class="card-header">
+            <h2><i data-lucide="activity"></i> {{ _('Dernières activités') }}</h2>
+            <span class="badge badge-info">{{ activites_recentes | length }} {{ _('récentes') }}</span>
+        </div>
+        <div class="card-body no-padding">
+            {% if activites_recentes %}
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>{{ _('Utilisateur') }}</th>
+                            <th>{{ _('Action') }}</th>
+                            <th>{{ _('Détails') }}</th>
+                            <th>{{ _('Adresse IP') }}</th>
+                            <th>{{ _('Navigateur') }}</th>
+                            <th>{{ _('Date') }}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for act in activites_recentes %}
+                        <tr>
+                            <td data-label="{{ _('Utilisateur') }}">
+                                {% if act.utilisateur %}
+                                <div class="user-cell">
+                                    <div class="user-avatar-sm">{{ act.utilisateur.prenom[0] }}{{ act.utilisateur.nom[0] }}</div>
+                                    <strong>{{ act.utilisateur.prenom }} {{ act.utilisateur.nom }}</strong>
+                                </div>
+                                {% else %}
+                                <span class="text-muted">Système</span>
+                                {% endif %}
+                            </td>
+                            <td data-label="{{ _('Action') }}">
+                                <span class="badge badge-{{ 'success' if act.action == 'connexion' else 'info' if act.action == 'inscription' else 'warning' if act.action == 'deconnexion' else 'purple' }}">
+                                    {% if act.action == 'connexion' %}<i data-lucide="log-in"></i>
+                                    {% elif act.action == 'deconnexion' %}<i data-lucide="log-out"></i>
+                                    {% elif act.action == 'inscription' %}<i data-lucide="user-plus"></i>
+                                    {% elif act.action == 'ajout_appareil' %}<i data-lucide="smartphone"></i>
+                                    {% elif act.action == 'signalement_alerte' %}<i data-lucide="bell-ring"></i>
+                                    {% elif act.action == 'modification_profil' %}<i data-lucide="edit"></i>
+                                    {% elif act.action == 'suppression_utilisateur' %}<i data-lucide="trash-2"></i>
+                                    {% else %}<i data-lucide="zap"></i>
+                                    {% endif %}
+                                    {{ act.action | replace('_', ' ') | capitalize }}
+                                </span>
+                            </td>
+                            <td class="text-truncate" data-label="{{ _('Détails') }}">{{ act.details or '—' }}</td>
+                            <td data-label="IP"><code>{{ act.adresse_ip or '—' }}</code></td>
+                            <td class="text-truncate text-muted" data-label="{{ _('Navigateur') }}">{{ act.navigateur or '—' }}</td>
+                            <td class="text-muted text-nowrap" data-label="{{ _('Date') }}">{{ act.date.strftime('%d/%m/%Y %H:%M') }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% else %}
+            <div class="empty-state">
+                <i data-lucide="activity"></i>
+                <h3>{{ _('Aucune activité') }}</h3>
+                <p>{{ _('Les activités des utilisateurs apparaîtront ici.') }}</p>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- VOLET 3 : JOURNAL D'ERREURS                   -->
+<!-- ═══════════════════════════════════════════════ -->
+<div class="tab-panel" id="panel-erreurs">
+    <div class="card">
+        <div class="card-header">
+            <h2><i data-lucide="alert-circle"></i> {{ _("Journal d'erreurs") }}</h2>
+            <div style="display:flex;align-items:center;gap:8px;">
+                {% if erreurs_non_resolues > 0 %}
+                <form method="POST" action="{{ url_for('dashboard.resoudre_toutes_erreurs') }}" style="display:inline;">
+                    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                    <button type="submit" class="btn btn-success btn-sm" onclick="return confirm('{{ _("Résoudre toutes les erreurs ?") }}')">
+                        <i data-lucide="check-circle"></i> {{ _('Tout résoudre') }}
+                    </button>
+                </form>
+                <span class="badge badge-danger">{{ erreurs_non_resolues }} {{ _('non résolues') }}</span>
+                {% else %}
+                <span class="badge badge-success">{{ _('Tout est résolu') }} ✓</span>
+                {% endif %}
+            </div>
+        </div>
+        <div class="card-body no-padding">
+            {% if erreurs_recentes %}
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>{{ _('Type') }}</th>
+                            <th>URL</th>
+                            <th>{{ _('Utilisateur') }}</th>
+                            <th>{{ _('Description') }}</th>
+                            <th>IP</th>
+                            <th>{{ _('Date') }}</th>
+                            <th>{{ _('Statut') }}</th>
+                            <th>{{ _('Action') }}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for err in erreurs_recentes %}
+                        <tr class="{{ 'row-highlight' if not err.resolu }}">
+                            <td data-label="{{ _('Type') }}">
+                                <span class="badge badge-{{ 'danger' if err.type_erreur in ['500', 'CSRF'] else 'warning' if err.type_erreur == '404' else 'info' }}">
+                                    {{ err.type_erreur }}
+                                </span>
+                            </td>
+                            <td class="text-truncate" data-label="URL"><code>{{ err.url or '—' }}</code></td>
+                            <td data-label="{{ _('Utilisateur') }}">
+                                {% if err.utilisateur %}
+                                <div class="user-cell">
+                                    <div class="user-avatar-sm">{{ err.utilisateur.prenom[0] }}{{ err.utilisateur.nom[0] }}</div>
+                                    {{ err.utilisateur.prenom }}
+                                </div>
+                                {% else %}
+                                <span class="text-muted">Anonyme</span>
+                                {% endif %}
+                            </td>
+                            <td class="text-truncate" data-label="{{ _('Description') }}">{{ err.description or '—' }}</td>
+                            <td data-label="IP"><code>{{ err.adresse_ip or '—' }}</code></td>
+                            <td class="text-muted text-nowrap" data-label="{{ _('Date') }}">{{ err.date.strftime('%d/%m/%Y %H:%M') }}</td>
+                            <td data-label="{{ _('Statut') }}">
+                                {% if err.resolu %}
+                                <span class="badge badge-success"><span class="status-dot status-resolved"></span> {{ _('Résolu') }}</span>
+                                {% else %}
+                                <span class="badge badge-danger"><span class="status-dot status-active"></span> {{ _('Non résolu') }}</span>
+                                {% endif %}
+                            </td>
+                            <td data-label="{{ _('Action') }}">
+                                <div style="display:flex;gap:4px;">
+                                    <button type="button" class="btn btn-info btn-xs" title="{{ _('Voir les détails') }}"
+                                            onclick="showErrorDetails({{ err.id }})">
+                                        <i data-lucide="eye"></i>
+                                    </button>
+                                    {% if not err.resolu %}
+                                    <form method="POST" action="{{ url_for('dashboard.resoudre_erreur', id=err.id) }}" style="display:inline;">
+                                        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                        <button type="submit" class="btn btn-success btn-xs" title="{{ _('Marquer comme résolu') }}">
+                                            <i data-lucide="check"></i>
+                                        </button>
+                                    </form>
+                                    {% else %}
+                                    <span class="text-muted" style="line-height:28px;">—</span>
+                                    {% endif %}
+                                </div>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% else %}
+            <div class="empty-state">
+                <i data-lucide="check-circle"></i>
+                <h3>{{ _('Aucune erreur enregistrée') }}</h3>
+                <p>{{ _('Le système fonctionne correctement.') }}</p>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- VOLET 4 : GESTION UTILISATEURS                -->
+<!-- ═══════════════════════════════════════════════ -->
+<div class="tab-panel" id="panel-utilisateurs">
+    <div class="card">
+        <div class="card-header">
+            <h2><i data-lucide="users"></i> {{ _('Gestion des utilisateurs') }}</h2>
+            <span class="badge badge-info">{{ utilisateurs | length }} {{ _('comptes') }}</span>
+        </div>
+        <div class="card-body no-padding">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>{{ _('Utilisateur') }}</th>
+                            <th>{{ _('Email') }}</th>
+                            <th>{{ _('Téléphone') }}</th>
+                            <th>{{ _('Rôle') }}</th>
+                            <th>{{ _('Appareils') }}</th>
+                            <th>{{ _('Inscrit le') }}</th>
+                            <th>{{ _('Actions') }}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for user in utilisateurs %}
+                        <tr>
+                            <td data-label="{{ _('Utilisateur') }}">
+                                <div class="user-cell">
+                                    <div class="user-avatar-sm">{{ user.prenom[0] }}{{ user.nom[0] }}</div>
+                                    <strong>{{ user.prenom }} {{ user.nom }}</strong>
+                                </div>
+                            </td>
+                            <td data-label="{{ _('Email') }}">{{ user.email }}</td>
+                            <td data-label="{{ _('Téléphone') }}">{{ user.telephone or '—' }}</td>
+                            <td data-label="{{ _('Rôle') }}">
+                                <span class="badge badge-{{ 'purple' if user.role == 'admin' else 'info' }}">
+                                    {{ user.role | capitalize }}
+                                </span>
+                            </td>
+                            <td data-label="{{ _('Appareils') }}">{{ user.appareils | length }}</td>
+                            <td class="text-muted" data-label="{{ _('Inscrit le') }}">{{ user.date_creation.strftime('%d/%m/%Y') }}</td>
+                            <td data-label="{{ _('Actions') }}">
+                                {% if user.id != current_user.id %}
+                                <form method="POST" action="{{ url_for('dashboard.supprimer_utilisateur', id=user.id) }}" onsubmit="return confirm('{{ _("Supprimer cet utilisateur et tous ses appareils ?") }}')">
+                                    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                    <button type="submit" class="btn btn-danger btn-xs" title="Supprimer">
+                                        <i data-lucide="trash-2"></i>
+                                    </button>
+                                </form>
+                                {% else %}
+                                <span class="badge badge-success">{{ _('Vous') }}</span>
+                                {% endif %}
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ═══ MODAL DÉTAILS ERREUR ═══ -->
+<div class="modal-overlay" id="errorDetailModal">
+    <div class="modal">
+        <div class="modal-header">
+            <h2><i data-lucide="alert-circle"></i> {{ _("Détails de l'erreur") }}</h2>
+            <button class="modal-close" onclick="closeModal('errorDetailModal')">
+                <i data-lucide="x"></i>
+            </button>
+        </div>
+        <div class="modal-body" id="errorDetailBody">
+            <div class="error-detail-grid">
+                <div class="error-detail-field">
+                    <span class="error-detail-label">{{ _('Type') }}</span>
+                    <span class="error-detail-value" id="detail-type"></span>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">URL</span>
+                    <code class="error-detail-value" id="detail-url"></code>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">{{ _('Utilisateur') }}</span>
+                    <span class="error-detail-value" id="detail-user"></span>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">{{ _('Description') }}</span>
+                    <p class="error-detail-value error-detail-desc" id="detail-description"></p>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">IP</span>
+                    <code class="error-detail-value" id="detail-ip"></code>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">{{ _('Navigateur') }}</span>
+                    <span class="error-detail-value" id="detail-browser"></span>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">{{ _('Date') }}</span>
+                    <span class="error-detail-value" id="detail-date"></span>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">{{ _('Statut') }}</span>
+                    <span class="error-detail-value" id="detail-status"></span>
+                </div>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-ghost" onclick="closeModal('errorDetailModal')">{{ _('Fermer') }}</button>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // ═══ DONNÉES ERREURS ═══
+    const erreursData = {{ erreurs_data | tojson }};
+
+    // ═══ AFFICHER DÉTAILS ERREUR ═══
+    function showErrorDetails(id) {
+        const err = erreursData.find(e => e.id === id);
+        if (!err) return;
+
+        document.getElementById('detail-type').textContent = err.type_erreur || '—';
+        document.getElementById('detail-url').textContent = err.url || '—';
+        document.getElementById('detail-user').textContent = err.utilisateur
+            ? (err.utilisateur.prenom + ' ' + err.utilisateur.nom)
+            : 'Anonyme';
+        document.getElementById('detail-description').textContent = err.description || '—';
+        document.getElementById('detail-ip').textContent = err.adresse_ip || '—';
+        document.getElementById('detail-browser').textContent = err.navigateur || '—';
+        document.getElementById('detail-date').textContent = err.date || '—';
+        document.getElementById('detail-status').textContent = err.resolu ? 'Résolu' : 'Non résolu';
+
+        document.getElementById('errorDetailModal').classList.add('active');
+        lucide.createIcons();
+    }
+
+    // ═══ GESTION DES ONGLETS ═══
+    function switchTab(tabName) {
+        // Désactiver tous les onglets
+        document.querySelectorAll('.admin-tab').forEach(t => t.classList.remove('active'));
+        document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+
+        // Activer l'onglet sélectionné
+        document.getElementById('tab-' + tabName).classList.add('active');
+        document.getElementById('panel-' + tabName).classList.add('active');
+
+        // Réinitialiser les icônes Lucide dans le panneau ouvert
+        lucide.createIcons();
+    }
+
+    // ═══ GRAPHIQUE CONNEXIONS (7 JOURS) ═══
+    const connCtx = document.getElementById('connexionChart').getContext('2d');
+    const connGradient = connCtx.createLinearGradient(0, 0, 0, 280);
+    connGradient.addColorStop(0, 'rgba(59, 130, 246, 0.3)');
+    connGradient.addColorStop(1, 'rgba(59, 130, 246, 0)');
+
+    new Chart(connCtx, {
+        type: 'line',
+        data: {
+            labels: {{ labels_jours | tojson }},
+            datasets: [{
+                label: '{{ _("Connexions") }}',
+                data: {{ connexions_par_jour | tojson }},
+                borderColor: '#3b82f6',
+                backgroundColor: connGradient,
+                borderWidth: 2.5,
+                fill: true,
+                tension: 0.4,
+                pointRadius: 5,
+                pointBackgroundColor: '#3b82f6',
+                pointBorderColor: '#1e293b',
+                pointBorderWidth: 2,
+                pointHoverRadius: 7
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: { display: false }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    ticks: { color: '#94a3b8', stepSize: 1, font: { family: 'Inter' } },
+                    grid: { color: 'rgba(148,163,184,0.08)' }
+                },
+                x: {
+                    ticks: { color: '#94a3b8', font: { family: 'Inter' } },
+                    grid: { display: false }
+                }
+            }
+        }
+    });
+
+    // ═══ GRAPHIQUE ALERTES (DONUT) ═══
+    const alertCtx = document.getElementById('alertChart').getContext('2d');
+    new Chart(alertCtx, {
+        type: 'doughnut',
+        data: {
+            labels: ['{{ _("Vol") }}', '{{ _("Perte") }}', '{{ _("Anomalie") }}'],
+            datasets: [{
+                data: [{{ stats_alertes.vol }}, {{ stats_alertes.perte }}, {{ stats_alertes.anomalie }}],
+                backgroundColor: ['#ef4444', '#f59e0b', '#8b5cf6'],
+                borderWidth: 0,
+                borderRadius: 4
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            cutout: '65%',
+            plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: { color: '#94a3b8', font: { family: 'Inter', size: 12 }, padding: 20 }
+                }
+            }
+        }
+    });
+
+    // ═══ GRAPHIQUE OPÉRATEURS ═══
+    const opCtx = document.getElementById('operatorChart').getContext('2d');
+    new Chart(opCtx, {
+        type: 'bar',
+        data: {
+            labels: ['Orange CI', 'MTN CI', 'Moov Africa', 'Autre'],
+            datasets: [{
+                label: '{{ _("Appareils") }}',
+                data: [
+                    {{ stats_operateurs.get('Orange CI', 0) }},
+                    {{ stats_operateurs.get('MTN CI', 0) }},
+                    {{ stats_operateurs.get('Moov Africa', 0) }},
+                    {{ stats_operateurs.get('Autre', 0) }}
+                ],
+                backgroundColor: ['#f97316', '#eab308', '#3b82f6', '#6b7280'],
+                borderRadius: 8,
+                borderSkipped: false
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: { display: false }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    ticks: { color: '#94a3b8', stepSize: 1, font: { family: 'Inter' } },
+                    grid: { color: 'rgba(148,163,184,0.08)' }
+                },
+                x: {
+                    ticks: { color: '#94a3b8', font: { family: 'Inter' } },
+                    grid: { display: false }
+                }
+            }
+        }
+    });
+</script>
+{% endblock %}

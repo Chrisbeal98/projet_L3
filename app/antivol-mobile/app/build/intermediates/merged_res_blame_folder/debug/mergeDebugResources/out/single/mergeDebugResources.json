@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout_activity_profil.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout\\activity_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\xml_device_admin.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\xml\\device_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\drawable_edittext_bg.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout-land_activity_login.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout-land\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout-sw600dp_activity_login.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout-sw600dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.antivol.mobile.app-debug-39:/layout_activity_settings.xml.flat",
+        "source": "com.antivol.mobile.app-main-41:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout_activity_lock.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout\\activity_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout_activity_alerts.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout\\activity_alerts.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout-land_activity_lock.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout-land\\activity_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout_item_alerte.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout\\item_alerte.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout-sw600dp_activity_lock.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout-sw600dp\\activity_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-debug-39:\\layout-sw600dp_activity_main.xml.flat",
+        "source": "C:\\Users\\kouad\\.gradle\\daemon\\8.7\\com.antivol.mobile.app-main-41:\\layout-sw600dp\\activity_main.xml"
+    }
+]

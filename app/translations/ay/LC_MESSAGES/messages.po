@@ -1,0 +1,1055 @@
+# Translations for AY.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ay\n"
+"Language-Team: ay <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Aka panka uñt’ayañatakix mantañamawa."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Aka IMEI ukaxa sistema ukanxa qillqantatawa."
+
+msgid "Accès non autorisé."
+msgstr "Jani autorizacionampi mantañaxa."
+
+msgid "Appareil déverrouillé."
+msgstr "Dispositivo ukax jist’aratawa."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "¡Alerta luratawa! Yatiyawinaka apayata."
+
+msgid "Alerte résolue."
+msgstr "Alerta ukax askichatawa."
+
+msgid "Pas encore de compte ?"
+msgstr "¿Janiw kuna cuentas utjkiti?"
+
+msgid "Mon Profil"
+msgstr "Nayan Perfiljaxa"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "¡Conexión ukax wali askiwa! Aski jutäwi."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Correo electrónico jan ukax contraseña jan wali."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Taqi wakisiri yapunakaxa phuqhachatäñapawa."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Contraseñanakax janiw kikipäkiti."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Uka aruskipawixa 6 chimpunakjamawa."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Aka correo electrónico ukax nayratpach apnaqatäxiwa."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "¡Cuenta ukax wali suma luratawa! Ukax mä juk’a pachanakanwa."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Aka correo electrónico ukampix janiw kuna cuentas ukanakas jikxataskiti."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Uka teléfono numerojj janiw cuenta numeromp chikäkiti."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Machaq contraseña ukax obligatorio ukhamawa."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "¡Contraseña reset ukax wali askiwa! Ukax mä juk’a pachanakanwa."
+
+msgid "Vous avez été déconnecté."
+msgstr "Jumax desconectatätawa."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Marka, modelo ukat IMEI ukanakax wakisiwa."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Mä dispositivo ukax aka IMEI ukampiw nayratpach utji."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "¡Dispositivo ukax wali suma qillqantatawa!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Uka lurawi lurañatakixa janiwa autorizatäkiti."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Dispositivo ukax jaya chiqat llawintata."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Dispositivo ukax suma jist’aratawa."
+
+msgid "Appareil supprimé."
+msgstr "Dispositivo ukax chhaqtayatawa."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Mä dispositivo ukat alerta tipo ukar ajlliñamawa."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Aka aparatox janiw jumankkiti."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alerta ukax suma yatiyatawa. Uka aparatojj wali sumawa."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alerta ukax askichatawa sasaw chimpuntata."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Nayrïr suti, qhipa suti ukat correo electrónico ukanakaw wakisi."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Aka correo electrónico ukax yaqha cuentan apnaqatawa."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "¡Perfil ukax wali sumaw machaqt’ayata!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Acceso ukax administradores ukanakatakiw reservado."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Pantjasiwi chimpuntatawa kunjamatixa askichata."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Janiw juma pachpan cuentam chhaqtaykasmati."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Usuario ukax suma chhaqtayatawa."
+
+msgid "Administration"
+msgstr "Administración ukaxa"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Sistema Anti-Robo uka apnaqaña centralizada"
+
+msgid "Utilisateurs"
+msgstr "Usuarionakaxa"
+
+msgid "Actifs aujourd'hui"
+msgstr "Jichhürunakanx activo ukhamawa"
+
+msgid "Nouveaux ce mois"
+msgstr "Jichha phaxsinx machaqäxiwa"
+
+msgid "Appareils"
+msgstr "Dispositivos ukanaka"
+
+msgid "Alertes actives"
+msgstr "Alertas activas ukanaka"
+
+msgid "Analytique"
+msgstr "Analítico ukax mä juk’a pachanakanwa"
+
+msgid "Journal d'activité"
+msgstr "Luräwinak qillqt’aña"
+
+msgid "Erreurs"
+msgstr "Pantjasiwinaka"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Conexiones (qhipa 7 urunaka) ."
+
+msgid "Alertes par type"
+msgstr "Tipo ukarjamaw alerta"
+
+msgid "Appareils par opérateur"
+msgstr "Dispositivos ukax operador ukan luratawa"
+
+msgid "Résumé du système"
+msgstr "Sistema Resumen ukax mä juk’a pachanakanwa"
+
+msgid "Utilisateurs total"
+msgstr "Taqi apnaqirinaka"
+
+msgid "Appareils enregistrés"
+msgstr "Dispositivos registrados ukanaka"
+
+msgid "Total alertes"
+msgstr "Taqi kuna alertanaka"
+
+msgid "Alertes en cours"
+msgstr "Jichhax alertas ukanakaw utji"
+
+msgid "Erreurs non résolues"
+msgstr "Jan askichat pantjasiwinaka"
+
+msgid "Dernières activités"
+msgstr "Qhipa lurawinaka"
+
+msgid "récentes"
+msgstr "jichhaki"
+
+msgid "Utilisateur"
+msgstr "Usuario"
+
+msgid "Action"
+msgstr "Luraña"
+
+msgid "Détails"
+msgstr "Qhananchanaka"
+
+msgid "Adresse IP"
+msgstr "IP uñt’ayawi"
+
+msgid "Navigateur"
+msgstr "Navegador ukax mä juk’a pachanakanwa"
+
+msgid "Date"
+msgstr "Uru"
+
+msgid "Aucune activité"
+msgstr "Janiw kuna lurañas utjkiti"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Usuario lurawinakapaxa aka chiqanwa uñstani."
+
+msgid "Journal d'erreurs"
+msgstr "Pantjasiw qillqt’aña"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "¿Taqi pantjasiwinak askichañati?"
+
+msgid "Tout résoudre"
+msgstr "Taqi kuna askichañani"
+
+msgid "non résolues"
+msgstr "jan askichata"
+
+msgid "Tout est résolu"
+msgstr "Taqi kunas askichatawa"
+
+msgid "Type"
+msgstr "Kasta"
+
+msgid "Description"
+msgstr "Qillqawi"
+
+msgid "Statut"
+msgstr "Istaru"
+
+msgid "Résolu"
+msgstr "Ukax askichatawa"
+
+msgid "Non résolu"
+msgstr "Jan askichata"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Janiw kuna pantjasiwinakas qillqt’atäkiti"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sistema ukax sum irnaqaski."
+
+msgid "Gestion des utilisateurs"
+msgstr "Usuario apnaqaña"
+
+msgid "comptes"
+msgstr "cuentas ukanaka"
+
+msgid "Email"
+msgstr "Correo electrónico tuqi"
+
+msgid "Téléphone"
+msgstr "Jawsaña"
+
+msgid "Rôle"
+msgstr "Ruli"
+
+msgid "Inscrit le"
+msgstr "Ukax qillqantatawa"
+
+msgid "Actions"
+msgstr "Luräwinaka"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Aka apnaqiriru ukhamaraki taqi dispositivonakaparu chhaqtayaña?"
+
+msgid "Vous"
+msgstr "JUMA"
+
+msgid "Connexions"
+msgstr "Conexiones ukanaka"
+
+msgid "Vol"
+msgstr "Jalaña"
+
+msgid "Perte"
+msgstr "Chhaqhata"
+
+msgid "Anomalie"
+msgstr "Anomalía ukaxa wali ch’amawa"
+
+msgid "Alertes"
+msgstr "Alertanaka"
+
+msgid "Gestion des alertes"
+msgstr "Alerta apnaqaña"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Lunthatasiña jan ukax chhaqhat yatiyaña ukat sarnaqäwinak uñakipaña"
+
+msgid "Signaler un vol / perte"
+msgstr "Lunthatasiña/chhaqhata yatiyaña"
+
+msgid "En cours"
+msgstr "Ukax nayrar sartaskiwa"
+
+msgid "Résolues"
+msgstr "Ukax askichatawa"
+
+msgid "Historique des alertes"
+msgstr "Alerta Historia ukax mä jach’a uñacht’äwiwa"
+
+msgid "Appareil"
+msgstr "Tispusitiwu"
+
+msgid "Priorité"
+msgstr "Nayraqata"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "¿Aka alertax askichatäkaspas ukham chimpuntañani?"
+
+msgid "Résoudre"
+msgstr "Askichaña"
+
+msgid "Aucune alerte"
+msgstr "Janiw kuna alertas utjkiti"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "¡Suma yatiyäwi! Janiw kuna alertas ukanakas yatiyatäkiti."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Lunthatasiña jan ukax chhaqhata yatiyaña"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Lunthatasiñ yatiyasaxa, dispositivox automáticamente llawintatäniwa ukat "
+"yatiyawinakaw apayanitarakini."
+
+msgid "Appareil concerné"
+msgstr "Dispositivo afectado ukaxa"
+
+msgid "Sélectionner un appareil"
+msgstr "Mä dispositivo ajlliñani"
+
+msgid "Type d'alerte"
+msgstr "Alerta kasta"
+
+msgid "Décrivez les circonstances..."
+msgstr "Kuna jan walt’awinakas utji uk qhanañcht’añamawa..."
+
+msgid "Annuler"
+msgstr "Kansilaña"
+
+msgid "Signaler"
+msgstr "Uñt'ayawi"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Sistema Anti-Robo Inteligente — Plataforma de seguridad ukax smartphones "
+"ukanakatakiw"
+
+msgid "Système Anti-Vol"
+msgstr "Sistema Anti Lunthatasiña"
+
+msgid "PRINCIPAL"
+msgstr "WAKISKIRI"
+
+msgid "Tableau de bord"
+msgstr "Tablero de instrumentos ukax mä juk’a pachanakanwa"
+
+msgid "SÉCURITÉ"
+msgstr "JARK'AQAWI"
+
+msgid "Géolocalisation"
+msgstr "Geolocalización ukaxa"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRACIÓN UKAXA WAKICHATAWA"
+
+msgid "Déconnexion"
+msgstr "Ukax mä juk’a pachanakanwa"
+
+msgid "Changer de langue"
+msgstr "Aru mayjt’ayaña"
+
+msgid "Rechercher une langue..."
+msgstr "Mä aru thaqhaña..."
+
+msgid "Profil"
+msgstr "Pirfila"
+
+msgid "Changer de thème"
+msgstr "Mayjt’ayaña tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Dispositivoman seguridad tuqit uñakipaña"
+
+msgid "Ajouter un appareil"
+msgstr "Mä dispositivo ukar yapxataña"
+
+msgid "Appareils volés"
+msgstr "Lunthatat yänaka"
+
+msgid "Verrouillés à distance"
+msgstr "Jaya pachat llawintata"
+
+msgid "Alertes récentes"
+msgstr "Jichha pacha alertanaka"
+
+msgid "Voir tout"
+msgstr "Taqi kun uñjañäni"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Janiw kuna alertas utjkiti. ¡Dispositivonakamax jan kuna usunïpxiwa!"
+
+msgid "Mes appareils"
+msgstr "Nayan dispositivonakaja"
+
+msgid "Aucun appareil enregistré"
+msgstr "Janiw kuna dispositivos ukanakas qillqantatäkiti"
+
+msgid "Ajouter"
+msgstr "Yapxataña"
+
+msgid "en attente"
+msgstr "ukax suyt’ayatawa"
+
+msgid "Gestion des appareils"
+msgstr "Dispositivo apnaqaña"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Qillqt’asiñamawa ukat smartphones ukanakam apnaqañamawa"
+
+msgid "Opérateur"
+msgstr "Operador ukaxa"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "¿Aka dispositivox jaya chiqat llawintatati?"
+
+msgid "Verrouiller"
+msgstr "Jist'antaña"
+
+msgid "Déverrouiller"
+msgstr "Jisk’a t’aqa"
+
+msgid "Supprimer cet appareil ?"
+msgstr "¿Aka dispositivo chhaqtayaña?"
+
+msgid "Supprimer"
+msgstr "PHISKHSUÑA"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Nayrïr smartphone ukar yapxatam jark’aqañ qalltañataki."
+
+msgid "Nouvel appareil"
+msgstr "Machaq aparato"
+
+msgid "Marque"
+msgstr "Chimpu"
+
+msgid "Sélectionner"
+msgstr "Ajlliña"
+
+msgid "Autre"
+msgstr "Yaqha"
+
+msgid "Modèle"
+msgstr "Murilu"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "ukatsti *#06# ukax teléfono ukan qillqt’atawa"
+
+msgid "Système d'exploitation"
+msgstr "Sistema operativo ukaxa"
+
+msgid "Numéro de téléphone"
+msgstr "Teléfono ukan jakhupa"
+
+msgid "Enregistrer"
+msgstr "Imaña"
+
+msgid "Connexion"
+msgstr "Ukax mä juk’a pachanakanwa"
+
+msgid "Système de sécurité pour smartphones"
+msgstr ""
+"Sistema de seguridad de teléfonos inteligentes ukax mä sistema de "
+"seguridad ukawa"
+
+msgid "Adresse email"
+msgstr "Ukax mä correo electrónico ukan uñt’ayatawa"
+
+msgid "Mot de passe"
+msgstr "Chimpu"
+
+msgid "Se connecter"
+msgstr "Ukax mä juk’a pachanakanwa"
+
+msgid "Mot de passe oublié ?"
+msgstr "¿Contraseña armasxtati?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"¿Jumax nayratpach mä cuentanïtati? Jan ukhamäkanixa, ¡cuenta lurañar "
+"saraskakim!"
+
+msgid "Créer un compte"
+msgstr "Mä cuenta luraña"
+
+msgid "Sécurité maximale"
+msgstr "Máxima seguridad ukaxa"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Datos personales ukax jaya chiqat bloqueo ukamp jark’aqañawa"
+
+msgid "Localisation GPS"
+msgstr "GPS ukan uñt’ayata"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Chiqpach pachanx smartphone ukan chiqap uñt’ayawip jikxatañamawa"
+
+msgid "Alertes instantanées"
+msgstr "Mä ratukiw alertas ukanakax utji"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr ""
+"SMS, correo electrónico ukat push yatiyawinak katuqañax lunthatasiñax "
+"utjki ukhaxa"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr ""
+"Dispositivonak jikxatañamawa ukat kawkhans jan walt’äwix utjaspa uk "
+"uñjañamawa"
+
+msgid "Aucun appareil"
+msgstr "Janiw kuna dispositivos utjkiti"
+
+msgid "Zones à risque"
+msgstr "Riesgo ukan chiqanakapa"
+
+msgid "incidents"
+msgstr "jan walt’awinaka"
+
+msgid "Aucune zone signalée"
+msgstr "Janiw kuna áreas ukanakas yatiyatäkiti"
+
+msgid "Niveau"
+msgstr "Niwila"
+
+msgid "Incidents"
+msgstr "Jan walt’awinaka"
+
+msgid "Profile utilisateur"
+msgstr "Usuario ukan perfilapa"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Sapa mayni yatiyawinakam apnaqaña"
+
+msgid "Membre depuis"
+msgstr "Miembro ukatpacha"
+
+msgid "Modifier mes informations"
+msgstr "Nayan yatiyawinakax chiqañchaña"
+
+msgid "Prénom"
+msgstr "Nayrïr suti"
+
+msgid "Nom"
+msgstr "Chacha"
+
+msgid "Changer le mot de passe"
+msgstr "Contraseña mayjt’ayaña"
+
+msgid "Nouveau mot de passe"
+msgstr "Machaq Contraseña"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "ch’uqi jaytaña ukhamata jani mayjt’ayañataki"
+
+msgid "Enregistrer les modifications"
+msgstr "Mayjt’awinaka imaña"
+
+msgid "Inscription"
+msgstr "Qillqantayasiña"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"Anti-Theft ukarux walikpun jutapxtaxa, dispositivos ukanakan juk’amp suma"
+" seguridadapataki"
+
+msgid "Confirmer"
+msgstr "Iyawsaña"
+
+msgid "Créer mon compte"
+msgstr "Nayan cuentaja lurañamawa"
+
+msgid "Déjà un compte ?"
+msgstr "¿Nayratpach mä cuentanïtati?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Contraseña ukar kutt’ayaña"
+
+msgid "Réinitialisation"
+msgstr "Ukax mä juk’a pachanakanwa"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Correo electrónico ukat teléfono ukar qillqt’añamawa, ukhamat identidad "
+"ukar chiqañchañataki"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Jakhuwi qillqantayawi pachana apnaqata"
+
+msgid "Minimum 6 caractères"
+msgstr "Jisk’a 6 chimpunaka"
+
+msgid "Confirmer le mot de passe"
+msgstr "Ukax mä contraseña chiqañchañawa"
+
+msgid "Retourner à la"
+msgstr "Ukar kuttʼañamawa"
+
+msgid "page de connexion"
+msgstr "uñt’ayañataki"
+
+msgid "Vérification sécurisée"
+msgstr "Seguro uñakipaña"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Identidad ukax correo electrónico ukat teléfono ukampiw chiqanchataraki"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Mä seguro contraseña 6 chimpunaka ajlliñani"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Editor ukax janiw phuqhaskiti"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Editor ukax janiw phuqhaskiti: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows pantjasiwi: {pantjasiwi}."
+
+msgid "deprecated"
+msgstr "jan yäqatäxiwa"
+
+msgid "Options"
+msgstr "Ajlliñanaka"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Jan suyt’at yaqha arsuwinak katuqawayta ({args}) ."
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"Jan wali lurawiWarning: {name!r} kamachix janiw "
+"apnaqatäkiti.{extra_message}"
+
+msgid "Aborted!"
+msgstr "¡Abortado!"
+
+msgid "Commands"
+msgstr "Kamachinaka"
+
+msgid "Missing command."
+msgstr "Chhaqhat kamachi."
+
+msgid "Value must be an iterable."
+msgstr "Valor ukax mä iterable ukhamäñapawa."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} valores ukanak apsu ukampis 1 ukax churatawa."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Jan wali lurawiWarning: {param_type} {name!r} ukax jan "
+"yäqatawa.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Suti '{sutini}' ukax pä kutiw qhanañchasi"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Boolean opción {decl!r} ukax janiw chiqpach/k’aritakix pachpa chimpunak "
+"apnaqkaspati."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Janiw sutix ajlliñ amtañjamäkiti declaraciones ukanakamp {decls!r}."
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Janiw kuna amtawinakax qhanañchatäkiti jan ukasti mä sutiw pasawayi "
+"({sutini}). ¿Uka lantix mä ch’axwäw yatiyañ munasmati? ¿Jumax "
+"'--{sutini}' pasañ munasmati?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var} ukax mä juk’a pachanakanwa."
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default} ukax mä juk’a pachanakanwa."
+
+msgid "required"
+msgstr "mayita"
+
+msgid "(dynamic)"
+msgstr "(dinámico) ukat juk’ampinaka."
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumentonakax chiqpachapuniw mä parámetro declaración apsu, got "
+"{length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "¿Jumajj sarantañ munasmati?"
+
+msgid "Confirm the action without prompting."
+msgstr "Uka lurawixa jani jiskt’asa chiqanchañawa."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, versión %(versión)s"
+
+msgid "Show the version and exit."
+msgstr "Uñacht’ayaña versión ukatxa mistuña."
+
+msgid "Show this message and exit."
+msgstr "Aka yatiyawi uñacht’ayaña ukatxa mistuña."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "¿Jumax {posibilidad} sañti munta?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Pantjasiwi: {yatiyawi}."
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Yanapt’añatakix '{comando} {opción}' ukar yant'añamawa."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Jan wali chimpunaka: {yatiyawi}."
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint} ukatakix jan wali chimpunaka: {message}."
+
+msgid "Missing argument"
+msgstr "Chhaqhat arsuwi"
+
+msgid "Missing option"
+msgstr "Ukax mä opción ukaniwa"
+
+msgid "Missing parameter"
+msgstr "Ukaxa parámetro ukankiwa"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Ukax {param_type} ukankiwa."
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Chhaqhat parámetro: {param_name}."
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Janiw ukham amtawix {sutini!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Janiw ukham kamachix {sutini!r}."
+
+msgid "unknown error"
+msgstr "jan uñt’at pantjasiwi"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Janiw {filename!r}: {message} qillqat jist’arañjamakiti."
+
+msgid "Usage:"
+msgstr "Apnaqaña:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Jan wali qallta chimpu amtawi ({option}) ."
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumento {sutin!r} ukax {nargs} chimpunak apsu."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Opción {sutin!r} ukax janiw mä valoranïkiti."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "{sutini!r} amtawix mä arsuwiw wakisi."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell tukuyañax janiw Bash 4.4 nayra versión ukanakatakix yanapt’atäkiti."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Janiw Bash versión uñt’ayañjamäkiti, shell tukuyañax janiw yanapt’atäkiti."
+
+msgid "Repeat for confirmation"
+msgstr "Ukham chiqañchañatakix mayamp lurañaw wakisi"
+
+msgid "Error: The two entered values do not match."
+msgstr "Pantjasiwi: Pä mantat chimpunakax janiw mayacht’atäkiti."
+
+msgid "Error: invalid input"
+msgstr "Pantjasiwi: jan wali uñt’ayawi"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Jan uñt’at sami {color!r}."
+
+msgid "Press any key to continue..."
+msgstr "Kawkïr tecla ukar ch’iqt’añamawa sarantañataki..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Aka tuqit ajlliñamawa:\\n\\t{ajllinaka}."
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{valor!r} ukax janiw {ajlliñ} ukhamäkiti."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Ajlliwi({ajlliwinaka}) ."
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ukax janiw {formato} formato ukarjamäkiti."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ukax janiw mä chiqap {jakhu_tipo} ukhamäkiti."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{valor} ukax janiw {rango} ukankiti."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ukax janiw mä boolean chiqapäkiti. Uñt’atanaka: {estados}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ukax janiw mä UUID chiqapäkiti."
+
+msgid "file"
+msgstr "archiwu"
+
+msgid "directory"
+msgstr "directorio ukanxa"
+
+msgid "path"
+msgstr "thakhi"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{sutin} {filename!r} ukax janiw utjkiti."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} ukax mä qillqatawa."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} ukax mä directorio ukhamawa."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} ukax janiw uñakipt’añjamäkiti."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} ukax janiw qillqañjamäkiti."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} ukax janiw phuqhañjamäkiti."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} chimpunakax wakisiwa, ukampis {len_value} ukax churatawa."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Jan uñt'at jawira estándar '{sutini}'."
+
+msgid "This field is required."
+msgstr "Aka yapuxa wakisiwa."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Archivox janiw mä aprobat extensión ukankiti: {extensions}."
+
+msgid "File does not have an approved extension."
+msgstr "Archivox janiw mä aprobat extensión ukankiti."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Archivox {min_size} ukat {max_size} bytes ukanakan utjañapawa."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Jan wali yapu suti '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Yapux %(yaqha_sutin)s ukar uñtasitawa."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Yapuxa %(min)d chimpunakjamawa."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Yapux janiw %(max)d chimput sipan juk’amp jach’äkaspati."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Yapuxa chiqapa %(max)d chimpu largo ukhamawa."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Yapuxa %(min)d ukatxa %(max)d chimpunak taypinkiwa."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Jakhuwixa %(min)s ukjamawa."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Jakhuwix %(max)s ukjat jilaw utjañapa."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Jakhuwix %(min)s ukat %(max)s ukanakan utjañapawa."
+
+msgid "Invalid input."
+msgstr "Jan wali amuyunaka."
+
+msgid "Invalid email address."
+msgstr "Jan wali correo electrónico ukan uñt’ayata."
+
+msgid "Invalid IP address."
+msgstr "Jan wali IP uñt’ayawi."
+
+msgid "Invalid Mac address."
+msgstr "Mac ukan jan wali uñt’ayawipa."
+
+msgid "Invalid URL."
+msgstr "URL ukax jan waliwa."
+
+msgid "Invalid UUID."
+msgstr "Jan wali UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Jan wali chimpunaka, mä chimpunïñapawa: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Jan wali chimpunaka, janiwa kunasa: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Aka yapuxa janiwa mayjt’ayatäkaspati."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Aka yapuxa ch’amanchatawa ukatxa janiwa mä valoranixa utjkaspati."
+
+msgid "Invalid CSRF Token."
+msgstr "Jan wali CSRF Token."
+
+msgid "CSRF token missing."
+msgstr "CSRF token ukax janiw utjkiti."
+
+msgid "CSRF failed."
+msgstr "CSRF ukax janiw phuqhaskiti."
+
+msgid "CSRF token expired."
+msgstr "CSRF token ukax tukusxiwa."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Jan wali Ajlliwi: janiw coerciñjamäkänti."
+
+msgid "Choices cannot be None."
+msgstr "Ajlliwinakax janiw Janiw kunas utjkaspati."
+
+msgid "Not a valid choice."
+msgstr "Janiw mä chiqap ajlliwikiti."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Jan wali ajlliwi(naka): mä jan ukax walja yatiyawinak mantañax janiw "
+"ch’amanchatäkaspati."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' ukax janiw mä chiqap ajlliwikiti aka yapu lurañataki."
+
+msgid "Not a valid datetime value."
+msgstr "Janiw mä chiqap uru pacha valorax utjkiti."
+
+msgid "Not a valid date value."
+msgstr "Janiwa mä chiqapa uruchañakiti."
+
+msgid "Not a valid time value."
+msgstr "Janiw mä chiqap pacha valoranïkiti."
+
+msgid "Not a valid week value."
+msgstr "Janiw mä semanan valoranïkiti."
+
+msgid "Not a valid integer value."
+msgstr "Janiw mä chiqap jakhüwi chimpunïkiti."
+
+msgid "Not a valid decimal value."
+msgstr "Janiw mä chiqap decimal valoräkiti."
+
+msgid "Not a valid float value."
+msgstr "Janiw mä chiqap flotador valorax utjkiti."
+

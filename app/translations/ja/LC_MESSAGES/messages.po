@@ -1,0 +1,1029 @@
+# Translations for JA.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "このページにアクセスするにはログインしてください。"
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "このIMEIはすでにシステムに登録されています。"
+
+msgid "Accès non autorisé."
+msgstr "不正アクセス。"
+
+msgid "Appareil déverrouillé."
+msgstr "デバイスのロックが解除されました。"
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "アラートが作成されました!通知が送信されました。"
+
+msgid "Alerte résolue."
+msgstr "アラートが解決されました。"
+
+msgid "Pas encore de compte ?"
+msgstr "まだアカウントをお持ちですか?"
+
+msgid "Mon Profil"
+msgstr "私のプロフィール"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "接続成功！いらっしゃいませ。"
+
+msgid "Email ou mot de passe incorrect."
+msgstr "メールアドレスまたはパスワードが間違っています。"
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "すべての必須フィールドに入力する必要があります。"
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "パスワードが一致しません。"
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "パスワードには少なくとも 6 文字を含める必要があります。"
+
+msgid "Cet email est déjà utilisé."
+msgstr "このメールはすでに使用されています。"
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "アカウントが正常に作成されました。ログイン。"
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "このメールではアカウントが見つかりませんでした。"
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "電話番号が口座番号と一致しません。"
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "新しいパスワードは必須です。"
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "パスワードのリセットが成功しました。ログイン。"
+
+msgid "Vous avez été déconnecté."
+msgstr "接続が切断されました。"
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "ブランド、モデル、IMEI は必須です。"
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "この IMEI を持つデバイスはすでに存在します。"
+
+msgid "Appareil enregistré avec succès !"
+msgstr "デバイスが正常に登録されました。"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "このアクションを実行する権限がありません。"
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "デバイスはリモートで正常にロックされました。"
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "デバイスのロックが正常に解除されました。"
+
+msgid "Appareil supprimé."
+msgstr "デバイスが削除されました。"
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "デバイスとアラートの種類を選択してください。"
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "このデバイスはあなたのものではありません。"
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "アラートは正常に報告されました。デバイスは保護されました。"
+
+msgid "Alerte marquée comme résolue."
+msgstr "アラートは解決済みとしてマークされています。"
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "名、姓、メールアドレスは必須です。"
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "このメールはすでに別のアカウントで使用されています。"
+
+msgid "Profil mis à jour avec succès !"
+msgstr "プロフィールが正常に更新されました。"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "アクセスは管理者のために予約されています。"
+
+msgid "Erreur marquée comme résolue."
+msgstr "エラーは解決済みとしてマークされました。"
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "自分のアカウントを削除することはできません。"
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "ユーザーは正常に削除されました。"
+
+msgid "Administration"
+msgstr "管理"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "盗難防止システムの一元管理"
+
+msgid "Utilisateurs"
+msgstr "ユーザー"
+
+msgid "Actifs aujourd'hui"
+msgstr "今日も活動中"
+
+msgid "Nouveaux ce mois"
+msgstr "今月の新作"
+
+msgid "Appareils"
+msgstr "デバイス"
+
+msgid "Alertes actives"
+msgstr "アクティブなアラート"
+
+msgid "Analytique"
+msgstr "分析的"
+
+msgid "Journal d'activité"
+msgstr "アクティビティログ"
+
+msgid "Erreurs"
+msgstr "エラー"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "接続数 (過去 7 日間)"
+
+msgid "Alertes par type"
+msgstr "タイプ別のアラート"
+
+msgid "Appareils par opérateur"
+msgstr "オペレータ別のデバイス"
+
+msgid "Résumé du système"
+msgstr "システム概要"
+
+msgid "Utilisateurs total"
+msgstr "総ユーザー数"
+
+msgid "Appareils enregistrés"
+msgstr "登録済みのデバイス"
+
+msgid "Total alertes"
+msgstr "アラートの合計数"
+
+msgid "Alertes en cours"
+msgstr "現在のアラート"
+
+msgid "Erreurs non résolues"
+msgstr "未解決のエラー"
+
+msgid "Dernières activités"
+msgstr "最新の活動"
+
+msgid "récentes"
+msgstr "最近の"
+
+msgid "Utilisateur"
+msgstr "ユーザー"
+
+msgid "Action"
+msgstr "アクション"
+
+msgid "Détails"
+msgstr "詳細"
+
+msgid "Adresse IP"
+msgstr "IPアドレス"
+
+msgid "Navigateur"
+msgstr "ブラウザ"
+
+msgid "Date"
+msgstr "日付"
+
+msgid "Aucune activité"
+msgstr "活動なし"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "ユーザーのアクティビティがここに表示されます。"
+
+msgid "Journal d'erreurs"
+msgstr "エラーログ"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "すべてのエラーを修正しますか?"
+
+msgid "Tout résoudre"
+msgstr "すべてを解決する"
+
+msgid "non résolues"
+msgstr "未解決"
+
+msgid "Tout est résolu"
+msgstr "すべてが解決しました"
+
+msgid "Type"
+msgstr "親切"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Statut"
+msgstr "状態"
+
+msgid "Résolu"
+msgstr "解決済み"
+
+msgid "Non résolu"
+msgstr "未解決"
+
+msgid "Aucune erreur enregistrée"
+msgstr "エラーは記録されませんでした"
+
+msgid "Le système fonctionne correctement."
+msgstr "システムは正常に動作しています。"
+
+msgid "Gestion des utilisateurs"
+msgstr "ユーザー管理"
+
+msgid "comptes"
+msgstr "アカウント"
+
+msgid "Email"
+msgstr "電子メール"
+
+msgid "Téléphone"
+msgstr "電話"
+
+msgid "Rôle"
+msgstr "役割"
+
+msgid "Inscrit le"
+msgstr "に登録されています"
+
+msgid "Actions"
+msgstr "アクション"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "このユーザーとそのすべてのデバイスを削除しますか?"
+
+msgid "Vous"
+msgstr "あなた"
+
+msgid "Connexions"
+msgstr "接続"
+
+msgid "Vol"
+msgstr "フライト"
+
+msgid "Perte"
+msgstr "損失"
+
+msgid "Anomalie"
+msgstr "異常"
+
+msgid "Alertes"
+msgstr "アラート"
+
+msgid "Gestion des alertes"
+msgstr "アラート管理"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "盗難または紛失を報告し、履歴を追跡する"
+
+msgid "Signaler un vol / perte"
+msgstr "盗難・紛失の届出"
+
+msgid "En cours"
+msgstr "進行中"
+
+msgid "Résolues"
+msgstr "解決済み"
+
+msgid "Historique des alertes"
+msgstr "アラート履歴"
+
+msgid "Appareil"
+msgstr "デバイス"
+
+msgid "Priorité"
+msgstr "優先度"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "このアラートを解決済みとしてマークしますか?"
+
+msgid "Résoudre"
+msgstr "解決する"
+
+msgid "Aucune alerte"
+msgstr "警告なし"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "朗報です！アラートは報告されていません。"
+
+msgid "Signaler un vol ou une perte"
+msgstr "盗難または紛失の届出"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr "盗難を報告すると、デバイスは自動的にロックされ、通知が送信されます。"
+
+msgid "Appareil concerné"
+msgstr "影響を受けるデバイス"
+
+msgid "Sélectionner un appareil"
+msgstr "デバイスを選択してください"
+
+msgid "Type d'alerte"
+msgstr "アラートの種類"
+
+msgid "Décrivez les circonstances..."
+msgstr "状況を説明してください..."
+
+msgid "Annuler"
+msgstr "キャンセル"
+
+msgid "Signaler"
+msgstr "報告"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "インテリジェント盗難防止システム — スマートフォン向けセキュリティ プラットフォーム"
+
+msgid "Système Anti-Vol"
+msgstr "盗難防止システム"
+
+msgid "PRINCIPAL"
+msgstr "主要"
+
+msgid "Tableau de bord"
+msgstr "ダッシュボード"
+
+msgid "SÉCURITÉ"
+msgstr "安全"
+
+msgid "Géolocalisation"
+msgstr "地理位置情報"
+
+msgid "ADMINISTRATION"
+msgstr "管理"
+
+msgid "Déconnexion"
+msgstr "切断する"
+
+msgid "Changer de langue"
+msgstr "言語を変更する"
+
+msgid "Rechercher une langue..."
+msgstr "言語を検索..."
+
+msgid "Profil"
+msgstr "プロフィール"
+
+msgid "Changer de thème"
+msgstr "テーマの変更"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "デバイスのセキュリティの概要"
+
+msgid "Ajouter un appareil"
+msgstr "デバイスを追加する"
+
+msgid "Appareils volés"
+msgstr "盗難されたデバイス"
+
+msgid "Verrouillés à distance"
+msgstr "遠隔ロック"
+
+msgid "Alertes récentes"
+msgstr "最近のアラート"
+
+msgid "Voir tout"
+msgstr "全て見る"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "警告はありません。あなたのデバイスは安全です!"
+
+msgid "Mes appareils"
+msgstr "私のデバイス"
+
+msgid "Aucun appareil enregistré"
+msgstr "デバイスが登録されていません"
+
+msgid "Ajouter"
+msgstr "追加"
+
+msgid "en attente"
+msgstr "保留中"
+
+msgid "Gestion des appareils"
+msgstr "デバイス管理"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "スマートフォンを登録して管理する"
+
+msgid "Opérateur"
+msgstr "オペレーター"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "このデバイスをリモートでロックしますか?"
+
+msgid "Verrouiller"
+msgstr "ロック"
+
+msgid "Déverrouiller"
+msgstr "ロックを解除する"
+
+msgid "Supprimer cet appareil ?"
+msgstr "このデバイスを削除しますか?"
+
+msgid "Supprimer"
+msgstr "消去"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "最初のスマートフォンを追加して保護を開始します。"
+
+msgid "Nouvel appareil"
+msgstr "新しいデバイス"
+
+msgid "Marque"
+msgstr "ブランド"
+
+msgid "Sélectionner"
+msgstr "選択"
+
+msgid "Autre"
+msgstr "他の"
+
+msgid "Modèle"
+msgstr "モデル"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "携帯電話で「*#06#」と入力してください"
+
+msgid "Système d'exploitation"
+msgstr "オペレーティング·システム"
+
+msgid "Numéro de téléphone"
+msgstr "電話番号"
+
+msgid "Enregistrer"
+msgstr "保存"
+
+msgid "Connexion"
+msgstr "繋がり"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "スマホセキュリティシステム"
+
+msgid "Adresse email"
+msgstr "電子メールアドレス"
+
+msgid "Mot de passe"
+msgstr "パスワード"
+
+msgid "Se connecter"
+msgstr "ログイン"
+
+msgid "Mot de passe oublié ?"
+msgstr "パスワードをお忘れですか?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "すでにアカウントをお持ちですか?それ以外の場合は、アカウントの作成に進んでください。"
+
+msgid "Créer un compte"
+msgstr "アカウントを作成する"
+
+msgid "Sécurité maximale"
+msgstr "最大限のセキュリティ"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "遠隔ロックで個人データを保護"
+
+msgid "Localisation GPS"
+msgstr "GPS位置情報"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "スマートフォンの正確な位置をリアルタイムで見つける"
+
+msgid "Alertes instantanées"
+msgstr "インスタントアラート"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "盗難時にSMS、電子メール、プッシュ通知を受信します"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "デバイスの位置を特定し、リスク領域を視覚化します"
+
+msgid "Aucun appareil"
+msgstr "デバイスがありません"
+
+msgid "Zones à risque"
+msgstr "リスク領域"
+
+msgid "incidents"
+msgstr "事件"
+
+msgid "Aucune zone signalée"
+msgstr "報告された地域はありません"
+
+msgid "Niveau"
+msgstr "レベル"
+
+msgid "Incidents"
+msgstr "事件"
+
+msgid "Profile utilisateur"
+msgstr "ユーザープロフィール"
+
+msgid "Gérez vos informations personnelles"
+msgstr "個人情報の管理"
+
+msgid "Membre depuis"
+msgstr "以来のメンバー"
+
+msgid "Modifier mes informations"
+msgstr "自分の情報を編集する"
+
+msgid "Prénom"
+msgstr "ファーストネーム"
+
+msgid "Nom"
+msgstr "名前"
+
+msgid "Changer le mot de passe"
+msgstr "パスワードを変更する"
+
+msgid "Nouveau mot de passe"
+msgstr "新しいパスワード"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "変更しないように空白のままにしてください"
+
+msgid "Enregistrer les modifications"
+msgstr "変更を保存する"
+
+msgid "Inscription"
+msgstr "登録"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "デバイスのセキュリティを向上させるための盗難防止機能へようこそ"
+
+msgid "Confirmer"
+msgstr "確認する"
+
+msgid "Créer mon compte"
+msgstr "アカウントを作成する"
+
+msgid "Déjà un compte ?"
+msgstr "すでにアカウントをお持ちですか?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "パスワードのリセット"
+
+msgid "Réinitialisation"
+msgstr "リセット"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "本人確認のためメールアドレスと電話番号を入力してください"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "登録時に使用した番号"
+
+msgid "Minimum 6 caractères"
+msgstr "最低6文字"
+
+msgid "Confirmer le mot de passe"
+msgstr "パスワードを認証する"
+
+msgid "Retourner à la"
+msgstr "に戻る"
+
+msgid "page de connexion"
+msgstr "ログインページ"
+
+msgid "Vérification sécurisée"
+msgstr "安全な検証"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "メールアドレスと電話番号を使用して本人確認が行われます"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "6 文字以上の安全なパスワードを選択してください"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: 編集に失敗しました"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: 編集に失敗しました: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows エラー: {エラー}"
+
+msgid "deprecated"
+msgstr "廃止された"
+
+msgid "Options"
+msgstr "オプション"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "予期しない追加の引数 ({args}) を取得しました"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "非推奨警告: コマンド {name!r} は非推奨です。{extra_message}"
+
+msgid "Aborted!"
+msgstr "中止されました！"
+
+msgid "Commands"
+msgstr "コマンド"
+
+msgid "Missing command."
+msgstr "コマンドがありません。"
+
+msgid "Value must be an iterable."
+msgstr "値は反復可能である必要があります。"
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} 値を受け取りますが、1 が与えられました。"
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: {param_type} {name!r} は非推奨です。{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "名前「{name}」が 2 回定義されています"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "ブール値オプション {decl!r} では、true/false に同じフラグを使用できません。"
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "宣言 {decls!r} を持つオプションの名前を決定できませんでした"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"オプションが定義されていませんが、名前が渡されました ({name})。代わりに引数を宣言するつもりでしたか? "
+"「--{name}」を渡すつもりでしたか?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "環境変数: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "デフォルト: {デフォルト}"
+
+msgid "required"
+msgstr "必須"
+
+msgid "(dynamic)"
+msgstr "（動的）"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "引数は 1 つのパラメーター宣言を取り、{length}: {decls} を取得します。"
+
+msgid "Do you want to continue?"
+msgstr "続けますか?"
+
+msgid "Confirm the action without prompting."
+msgstr "プロンプトを表示せずにアクションを確認します。"
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s、バージョン %(version)s"
+
+msgid "Show the version and exit."
+msgstr "バージョンを表示して終了します。"
+
+msgid "Show this message and exit."
+msgstr "このメッセージを表示して終了します。"
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "{可能性}という意味ですか?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "エラー: {メッセージ}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "ヘルプが必要な場合は、「{command} {option}」を試してください。"
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "無効な値: {メッセージ}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint} の値が無効です: {message}"
+
+msgid "Missing argument"
+msgstr "引数がありません"
+
+msgid "Missing option"
+msgstr "オプションがありません"
+
+msgid "Missing parameter"
+msgstr "パラメータがありません"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} がありません"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "パラメータがありません: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "そのようなオプション {name!r} はありません。"
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "そのようなコマンド {name!r} はありません。"
+
+msgid "unknown error"
+msgstr "不明なエラー"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "ファイル {filename!r} を開けませんでした: {message}"
+
+msgid "Usage:"
+msgstr "使用："
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "オプションの開始文字が無効です ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "引数 {name!r} は {nargs} 値を受け取ります。"
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "オプション {name!r} は値を取りません。"
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "オプション {name!r} には引数が必要です。"
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "シェル補完は、4.4 より前の Bash バージョンではサポートされていません。"
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Bash のバージョンを検出できませんでした。シェル補完はサポートされていません。"
+
+msgid "Repeat for confirmation"
+msgstr "確認のために繰り返します"
+
+msgid "Error: The two entered values do not match."
+msgstr "エラー: 入力された 2 つの値が一致しません。"
+
+msgid "Error: invalid input"
+msgstr "エラー: 無効な入力"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "不明な色 {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "続行するには任意のキーを押してください..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "次から選択します:\\n\\t{選択肢}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} は {choice} ではありません。"
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "選択肢({選択肢})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} は形式 {format} と一致しません。"
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} は有効な {number_type} ではありません。"
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} は範囲 {range} 内にありません。"
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} は有効なブール値ではありません。認識される値: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} は有効な UUID ではありません。"
+
+msgid "file"
+msgstr "ファイル"
+
+msgid "directory"
+msgstr "ディレクトリ"
+
+msgid "path"
+msgstr "パス"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} は存在しません。"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} はファイルです。"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} はディレクトリです。"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} は読み取れません。"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} は書き込み可能ではありません。"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} は実行可能ではありません。"
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} 値が必要ですが、{len_value} が指定されました。"
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "不明な標準ストリーム '{name}'"
+
+msgid "This field is required."
+msgstr "この項目は必須です。"
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "ファイルには承認された拡張子がありません: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "ファイルには承認された拡張子がありません。"
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "ファイルは {min_size} バイトから {max_size} バイトまでである必要があります。"
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "フィールド名「%s」が無効です。"
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "フィールドは %(other_name)s と等しくなければなりません。"
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "フィールドの長さは少なくとも %(min)d 文字である必要があります。"
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "フィールドは %(max)d 文字を超えることはできません。"
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "フィールドの長さは正確に %(max)d 文字である必要があります。"
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "フィールドの長さは %(min)d ～ %(max)d 文字にする必要があります。"
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "数値は少なくとも %(min)s である必要があります。"
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "数値は最大 %(max)s である必要があります。"
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "数値は %(min)s から %(max)s までの範囲にする必要があります。"
+
+msgid "Invalid input."
+msgstr "無効な入力です。"
+
+msgid "Invalid email address."
+msgstr "メールアドレスが無効です。"
+
+msgid "Invalid IP address."
+msgstr "無効な IP アドレスです。"
+
+msgid "Invalid Mac address."
+msgstr "無効な Mac アドレスです。"
+
+msgid "Invalid URL."
+msgstr "URLが無効です。"
+
+msgid "Invalid UUID."
+msgstr "無効な UUID。"
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "無効な値です。%(values)s のいずれかである必要があります。"
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "無効な値です。%(values)s は使用できません。"
+
+msgid "This field cannot be edited."
+msgstr "このフィールドは編集できません。"
+
+msgid "This field is disabled and cannot have a value."
+msgstr "このフィールドは無効になっており、値を設定できません。"
+
+msgid "Invalid CSRF Token."
+msgstr "無効な CSRF トークンです。"
+
+msgid "CSRF token missing."
+msgstr "CSRFトークンがありません。"
+
+msgid "CSRF failed."
+msgstr "CSRF が失敗しました。"
+
+msgid "CSRF token expired."
+msgstr "CSRFトークンの有効期限が切れました。"
+
+msgid "Invalid Choice: could not coerce."
+msgstr "無効な選択: 強制できませんでした。"
+
+msgid "Choices cannot be None."
+msgstr "選択肢を「なし」にすることはできません。"
+
+msgid "Not a valid choice."
+msgstr "有効な選択ではありません。"
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "無効な選択: 1 つ以上のデータ入力を強制できませんでした。"
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' は、このフィールドの有効な選択ではありません。"
+
+msgid "Not a valid datetime value."
+msgstr "有効な日時値ではありません。"
+
+msgid "Not a valid date value."
+msgstr "有効な日付値ではありません。"
+
+msgid "Not a valid time value."
+msgstr "有効な時間値ではありません。"
+
+msgid "Not a valid week value."
+msgstr "有効な週の値ではありません。"
+
+msgid "Not a valid integer value."
+msgstr "有効な整数値ではありません。"
+
+msgid "Not a valid decimal value."
+msgstr "有効な 10 進数値ではありません。"
+
+msgid "Not a valid float value."
+msgstr "有効な浮動小数点値ではありません。"
+

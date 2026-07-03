@@ -1,0 +1,1043 @@
+# Translations for CH.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ch\n"
+"Language-Team: ch <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "På'go, siña un hålom gi este na pahina."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Este na IMEI esta ma rehistra gi i sistema."
+
+msgid "Accès non autorisé."
+msgstr "Ti ma'a'a'ñao na inañadi."
+
+msgid "Appareil déverrouillé."
+msgstr "Ma na'lå'la' i dipattamenton-mu."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Ma fa'tinas i inatan! Manmamanda i notisia siha."
+
+msgid "Alerte résolue."
+msgstr "Ma'arekla i inatan."
+
+msgid "Pas encore de compte ?"
+msgstr "Ti guaha kuenta-mu på'go?"
+
+msgid "Mon Profil"
+msgstr "I prugråma-ku"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Ma cho'gue i koneksion! Buen binidu."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Ti maolek i email pat i password."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Debi di u ma kumple todu i nisisidåt na lugåt siha."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Ti parehu i password siha."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "I password debi di guaha 6 na letra siha."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Este na email esta ma'usa."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Ma fa'tinas i kuenta ya maolek! Hålom."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Ti ma sodda' kuenta gi este na email."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "I numeron tilifon ti parehu yan i numeron kuenta."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "I nuebu na password debi di u ma'usa."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Ma na'lå'la' ta'lo i password-mu! Hålom."
+
+msgid "Vous avez été déconnecté."
+msgstr "Esta ma deskonekta hao."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "I marka, i mudelu yan i IMEI nisisåriu."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Guaha un dipattamenton yan este na IMEI."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Ma rehistra i dipattamenton-mu!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Ti ma'a'a'ñao hao para un cho'gue este na aksion."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Ma låka i dipattamenton-måmi."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Ma na'lå'la' i dipattamenton-mu."
+
+msgid "Appareil supprimé."
+msgstr "Ma na'suha i dipattamenton-måmi."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "På'go, na'i un dipattamenton yan i klasin inabisa."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Ti iyo-mu este na dipattamenton."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Ma ripot na maolek i Alert. I dipattamenton-måmi esta ma'asegura."
+
+msgid "Alerte marquée comme résolue."
+msgstr "I inatan mamarkåyi komo ma'arekla."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "I na'an, i apiyidu yan i email nisisåriu."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Este na email esta ma'usa ni' otro na kuenta."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Ma na'lå'la' i prugråma!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "I akseso para i manma'gas."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Ma'marka i isao komo ma'arekla."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Ti siña un na'suha i kuenta-mu."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Ma na'suha i taotao."
+
+msgid "Administration"
+msgstr "Inadministrasion"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "I mana'dokko' i sisteman Anti-Theft"
+
+msgid "Utilisateurs"
+msgstr "Manma'usa"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktibu på'go na ha'åni"
+
+msgid "Nouveaux ce mois"
+msgstr "Nuebu este na mes"
+
+msgid "Appareils"
+msgstr "Dipattamenton"
+
+msgid "Alertes actives"
+msgstr "Abisa siha ni' manma'a'a'ñao"
+
+msgid "Analytique"
+msgstr "Analitiku"
+
+msgid "Journal d'activité"
+msgstr "Log put aktibidåt siha"
+
+msgid "Erreurs"
+msgstr "ti maolek"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "I koneksion siha (gi i uttimo na 7 dihas)"
+
+msgid "Alertes par type"
+msgstr "Alerta siha put klåsen"
+
+msgid "Appareils par opérateur"
+msgstr "Dipattamenton i taotao ni' ha cho'cho'gue"
+
+msgid "Résumé du système"
+msgstr "Sumångan i Sistema"
+
+msgid "Utilisateurs total"
+msgstr "Todu i taotao ni' umespiha"
+
+msgid "Appareils enregistrés"
+msgstr "Ma rehistra na dipattamenton"
+
+msgid "Total alertes"
+msgstr "Todu i inabisa siha"
+
+msgid "Alertes en cours"
+msgstr "Abisa siha på'go"
+
+msgid "Erreurs non résolues"
+msgstr "Ti ma'arekla i isao siha"
+
+msgid "Dernières activités"
+msgstr "I mas nuebu na aktibidåt siha"
+
+msgid "récentes"
+msgstr "alacha"
+
+msgid "Utilisateur"
+msgstr "User"
+
+msgid "Action"
+msgstr "Aksion"
+
+msgid "Détails"
+msgstr "Mas infotmasion"
+
+msgid "Adresse IP"
+msgstr "IP address"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Fetcha"
+
+msgid "Aucune activité"
+msgstr "taya' aktibidåt"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "I che'cho' i taotao siha para u fanmafa'nu'i guini."
+
+msgid "Journal d'erreurs"
+msgstr "Log i isao"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Na'huyong todu i isao siha?"
+
+msgid "Tout résoudre"
+msgstr "Na'suha todu"
+
+msgid "non résolues"
+msgstr "ti ma'arekla"
+
+msgid "Tout est résolu"
+msgstr "Todu ma sodda'"
+
+msgid "Type"
+msgstr "Klasi"
+
+msgid "Description"
+msgstr "Ketsura"
+
+msgid "Statut"
+msgstr "Estadu"
+
+msgid "Résolu"
+msgstr "Ma'arekla"
+
+msgid "Non résolu"
+msgstr "Ti ma'arekla"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Ti ma rikonisa i isao"
+
+msgid "Le système fonctionne correctement."
+msgstr "I sistema ha cho'cho'gue maolek."
+
+msgid "Gestion des utilisateurs"
+msgstr "Mana'dokko' i taotao"
+
+msgid "comptes"
+msgstr "kuenta siha"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Tilifon"
+
+msgid "Rôle"
+msgstr "Ofisiu"
+
+msgid "Inscrit le"
+msgstr "Ma rehistra gi"
+
+msgid "Actions"
+msgstr "Aksion siha"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Na'suha este na taotao yan todu i dipattamenton-ñiha?"
+
+msgid "Vous"
+msgstr "HAGU"
+
+msgid "Connexions"
+msgstr "Koneksion siha"
+
+msgid "Vol"
+msgstr "Lancho"
+
+msgid "Perte"
+msgstr "Minapeddi"
+
+msgid "Anomalie"
+msgstr "Ti maolek"
+
+msgid "Alertes"
+msgstr "Abisa siha"
+
+msgid "Gestion des alertes"
+msgstr "Mana'dokko' i inatan"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Na'i ripot put i pineddong pat i pineddong ya un li'e' i historian-ña"
+
+msgid "Signaler un vol / perte"
+msgstr "Na'i ripot put i linachi/pineddong"
+
+msgid "En cours"
+msgstr "Ma cho'gue"
+
+msgid "Résolues"
+msgstr "Ma'arekla"
+
+msgid "Historique des alertes"
+msgstr "Historia put i Alerta"
+
+msgid "Appareil"
+msgstr "Kosas"
+
+msgid "Priorité"
+msgstr "Gof impottanti"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Na'i este na abisu komo ma'arekla?"
+
+msgid "Résoudre"
+msgstr "Satba"
+
+msgid "Aucune alerte"
+msgstr "Ti ma'a'atan"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Maolek na notisia! Ti ma ripot na guaha inabisa."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Na'i ripot put i linachi pat i pineddong"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Yanggen un ripot na guaha linachi, i dipattamenton-mu u ma'atkila ya u "
+"ma'apåsi notisia siha."
+
+msgid "Appareil concerné"
+msgstr "ma'afekta na dipattamenton"
+
+msgid "Sélectionner un appareil"
+msgstr "Na'i un dipattamenton"
+
+msgid "Type d'alerte"
+msgstr "Klasin inatan"
+
+msgid "Décrivez les circonstances..."
+msgstr "Deskribi i siñat siha..."
+
+msgid "Annuler"
+msgstr "Kansela"
+
+msgid "Signaler"
+msgstr "Ripot"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Sisteman Intelihente para i Manma'a'ñao na Manma'a'ñao — Plånta siha ni' "
+"manma'a'ñao para i smartphones"
+
+msgid "Système Anti-Vol"
+msgstr "Sisteman Anti-Ladron"
+
+msgid "PRINCIPAL"
+msgstr "MAGAS"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "INASEGURA"
+
+msgid "Géolocalisation"
+msgstr "Geolokasion"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRASION"
+
+msgid "Déconnexion"
+msgstr "Na'suha"
+
+msgid "Changer de langue"
+msgstr "Na'lå'la' i fino'"
+
+msgid "Rechercher une langue..."
+msgstr "Fanli'e' un lengguåhi..."
+
+msgid "Profil"
+msgstr "Pruprof"
+
+msgid "Changer de thème"
+msgstr "Na'lå'la' i tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Inatan put i siguridåt i dipattamenton-mu"
+
+msgid "Ajouter un appareil"
+msgstr "Na'i un dipattamenton"
+
+msgid "Appareils volés"
+msgstr "Ma chule' na kosas siha"
+
+msgid "Verrouillés à distance"
+msgstr "Ma låka gi i tåya'"
+
+msgid "Alertes récentes"
+msgstr "I nuebu na abisu siha"
+
+msgid "Voir tout"
+msgstr "Li'e' todu"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Ti ma'a'atan. Mansåfu i kosas-mu siha!"
+
+msgid "Mes appareils"
+msgstr "I kosas-hu siha"
+
+msgid "Aucun appareil enregistré"
+msgstr "Ti ma rehistra i dipattamenton-ñiha"
+
+msgid "Ajouter"
+msgstr "Na dania"
+
+msgid "en attente"
+msgstr "ma'a'atan"
+
+msgid "Gestion des appareils"
+msgstr "Mana'dokko' i dipattamenton"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Rehistra yan maneha i tilifon-mu siha"
+
+msgid "Opérateur"
+msgstr "Operadot"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Un låka este na dipattamenton-mu?"
+
+msgid "Verrouiller"
+msgstr "Låka"
+
+msgid "Déverrouiller"
+msgstr "Na'lå'la'"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Na'suha este na dipattamenton?"
+
+msgid "Supprimer"
+msgstr "FUNAS"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Addåpta i fine'nina na smartphone-mu para un prutehi gui'."
+
+msgid "Nouvel appareil"
+msgstr "nuebu na dipattamenton"
+
+msgid "Marque"
+msgstr "Mårkåtu"
+
+msgid "Sélectionner"
+msgstr "Ayek"
+
+msgid "Autre"
+msgstr "Otro"
+
+msgid "Modèle"
+msgstr "Modelu"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "tuge' *#06# gi i tilifon-mu"
+
+msgid "Système d'exploitation"
+msgstr "Sisteman operasion"
+
+msgid "Numéro de téléphone"
+msgstr "Numeron tilifon"
+
+msgid "Enregistrer"
+msgstr "Satba"
+
+msgid "Connexion"
+msgstr "Koneksion"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sisteman siguridåt gi i smartphone"
+
+msgid "Adresse email"
+msgstr "E-mail address"
+
+msgid "Mot de passe"
+msgstr "Sengsong"
+
+msgid "Se connecter"
+msgstr "Hålom"
+
+msgid "Mot de passe oublié ?"
+msgstr "Un malingu i password-mu?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Ti guaha kuenta-mu? Yanggen ti siña, sigi ha' un fa'tinas i kuenta-mu!"
+
+msgid "Créer un compte"
+msgstr "Na'huyong un kuenta"
+
+msgid "Sécurité maximale"
+msgstr "I mas takhilo' na siguridåt"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Protehi i dañuyan na infotmasion-mu ni' un låhi gi i hålom guma'"
+
+msgid "Localisation GPS"
+msgstr "GPS na lugat"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Sodda' i eksakto na lugat i smartphone-mu gi i tiempon-ña"
+
+msgid "Alertes instantanées"
+msgstr "Insigidas na inabisa siha"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Risibi SMS, email yan notisian push yanggen guaha linachi"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr ""
+"Sodda' i dipattamenton-mu ya un li'e' i lugåt siha ni' siña ha "
+"na'fanlamen i taotao"
+
+msgid "Aucun appareil"
+msgstr "taya' dipattamenton"
+
+msgid "Zones à risque"
+msgstr "I lugåt siha ni' guaha risgu-ña"
+
+msgid "incidents"
+msgstr "insidente siha"
+
+msgid "Aucune zone signalée"
+msgstr "Ti ma ripot na lugåt siha"
+
+msgid "Niveau"
+msgstr "Nivel"
+
+msgid "Incidents"
+msgstr "Insidente siha"
+
+msgid "Profile utilisateur"
+msgstr "Prufil i taotao"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Na'siguru na ma maneha i infotmasion-mu"
+
+msgid "Membre depuis"
+msgstr "Membro desdeki"
+
+msgid "Modifier mes informations"
+msgstr "Na'lå'la' i infotmasion-hu"
+
+msgid "Prénom"
+msgstr "Primet na'an"
+
+msgid "Nom"
+msgstr "Na'an"
+
+msgid "Changer le mot de passe"
+msgstr "Na'lå'la' i password-mu"
+
+msgid "Nouveau mot de passe"
+msgstr "nuebu na password"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "na'suha ya ti u ma'apåsi"
+
+msgid "Enregistrer les modifications"
+msgstr "Na'setbe i inadelanta siha"
+
+msgid "Inscription"
+msgstr "Rehistrasion"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"Magof na matto gi Anti-Theft para mas maolek na siguridåt i "
+"dipattamenton-miyu"
+
+msgid "Confirmer"
+msgstr "Confitma"
+
+msgid "Créer mon compte"
+msgstr "Na'huyong i kuenta-ku"
+
+msgid "Déjà un compte ?"
+msgstr "Guaha kuenta-mu?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Na'lå'la' ta'lo i Password"
+
+msgid "Réinitialisation"
+msgstr "Na'lå'la' ta'lo"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Na'halom i email-mu yan i numeron tilifon-mu para un na'siguru na håyi hao"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "I numeron ni' ma'usa gi i tiempon rehistrasion"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimum 6 na letra siha"
+
+msgid "Confirmer le mot de passe"
+msgstr "Konfitma i password"
+
+msgid "Retourner à la"
+msgstr "Tåtte gi"
+
+msgid "page de connexion"
+msgstr "pahina para hålom"
+
+msgid "Vérification sécurisée"
+msgstr "Siguru na prubåba"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Ma verify i idåt-mu gi i email-mu yan i numeron tilifon-mu"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Na'i un siguru na password ni' mas ki 6 na letra siha"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Ti siña ma'edit"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Ti siña ma'edit: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows error: {error}"
+
+msgid "deprecated"
+msgstr "ti ma'usa"
+
+msgid "Options"
+msgstr "Siha i Siha"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Guaha otro na ineppe ni' ti ma espipiha ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: I tinago' {name!r} ti ma'usa.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Ma aborta!"
+
+msgid "Commands"
+msgstr "Manmamanda"
+
+msgid "Missing command."
+msgstr "Ti guaha tinago'."
+
+msgid "Value must be an iterable."
+msgstr "I balotu debi di u ma'itera."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Ha chule' i {nargs} na balotu siha lao unu ha' ma nå'i."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: I {param_type} {name!r} ti ma'usa.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "I na'an '{name}' ma difina dos biåhi"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"I Boolean na option {decl!r} ti siña ha usa i parehu na bandera para i "
+"magahet/ti magahet."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Ti siña ma ditetmina i na'an i option ni' i deklarasion {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Ti ma difina i option siha lao ma na'i un na'an ({name}). Malago' hao "
+"para un diklara un asunto enlugåt di este? Malago' hao para un na'i "
+"'--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default}"
+
+msgid "required"
+msgstr "ma nisisita"
+
+msgid "(dynamic)"
+msgstr "(dinanña')"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "I argumentu siha ma'usa un deklarasion parametru, got {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Malago' hao para un sigi ha'?"
+
+msgid "Confirm the action without prompting."
+msgstr "Konfitma i aksion sin un faisen."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, version %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Fa'nu'i i båndan-ña ya huyong."
+
+msgid "Show this message and exit."
+msgstr "Fa'nu'i este na mensåhi ya huyong."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Kao malago' hao ilek-mu {posipble}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "{mensåhi}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Påtte i '{command} {option}' para ayudo."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Ti maolek na balotu: {mensåhi}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Ti maolek na balotu para {param_hint}: {mensåhi}"
+
+msgid "Missing argument"
+msgstr "Ti ma sodda' i asunto"
+
+msgid "Missing option"
+msgstr "Ti guaha option"
+
+msgid "Missing parameter"
+msgstr "Mafañagu na parametru"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Ti guaha {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Ti ma sodda': {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Ti guaha este na option {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Ti taiguini na tinago' {name!r}."
+
+msgid "unknown error"
+msgstr "ti ma tungo' na isao"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Ti siña mababa i file {filename!r}: {mensåhi}"
+
+msgid "Usage:"
+msgstr "Usa:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Ti maolek i tinituhon na letra para i option ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "I argumentu {name!r} ha chule' i {nargs} na balotu siha."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "I option {name!r} ti ha na'i balotu."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "I option {name!r} ha nisisita un argumentu."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Ti ma supotte i finakpo' i shell para i Bash na båndan Bash ni' mas amko'"
+" ki 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Ti siña hu li'e' i Bash na båndan-ña, ti ma supotte i finakpo' i shell."
+
+msgid "Repeat for confirmation"
+msgstr "Na'lå'la' ta'lo para i konfitmasion"
+
+msgid "Error: The two entered values do not match."
+msgstr "Ti parehu i dos na balotu ni' ma'entrega."
+
+msgid "Error: invalid input"
+msgstr "ti maolek i input"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Ti ma tungo' i kulot {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Påtta maseha hafa na tekla para un sigi..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Pulan ginen:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} ti {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Choice({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ti parehu yan i {format} na fotmat."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ti maolek na {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} ti gaige gi i range {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ti maolek na boolean. Ma tungo' na balotu siha: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ti maolek na UUID."
+
+msgid "file"
+msgstr "fila"
+
+msgid "directory"
+msgstr "direksion"
+
+msgid "path"
+msgstr "chalan"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} ti gaige."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} un file."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} un direksion."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} ti siña ma taitai."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} ti siña ma tuge'."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} ti siña ma'usa."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} na balotu siha manma nisisita, lao {len_value} ma nå'i."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Ti ma tungo' i estao '{name}'"
+
+msgid "This field is required."
+msgstr "Este na lugåt nisisåriu."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Ti ma'aprueba i ekstension i file: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Ti ma'aprueba i ekstension i file."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "I file debi di u gaige gi entre {min_size} yan {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Ti maolek i na'an i lugåt '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "I lugåt debi di u parehu yan %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "I lugåt debi di u mas ki %(min)d na letra i lina'la'-ña."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Ti siña mas takhilo' ki %(max)d na letra i lugåt."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Debi di u %(max)d na letra i lina'la' i lugåt."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "I lugåt debi di u gaige gi entre %(min)d yan %(max)d na letra siha."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "I numero debi di u mas ki %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "I numero debi di u mas takhilo' ki %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "I numero debi di u gaige gi entre %(min)s yan %(max)s."
+
+msgid "Invalid input."
+msgstr "Ti maolek i input."
+
+msgid "Invalid email address."
+msgstr "Ti maolek i email-mu."
+
+msgid "Invalid IP address."
+msgstr "Ti maolek i IP address."
+
+msgid "Invalid Mac address."
+msgstr "Ti maolek i direksion Mac."
+
+msgid "Invalid URL."
+msgstr "Ti maolek na URL."
+
+msgid "Invalid UUID."
+msgstr "Ti maolek i UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "I balotu ni' ti maolek, debi di unu gi: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Ti maolek na balotu, ti siña ni' unu gi: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Ti siña ma na'lå'la' este na lugåt."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Ma na'suha este na lugåt ya ti siña guaha balotu-ña."
+
+msgid "Invalid CSRF Token."
+msgstr "Ti maolek i CSRF Token."
+
+msgid "CSRF token missing."
+msgstr "Ti ma sodda' i CSRF na token."
+
+msgid "CSRF failed."
+msgstr "Ti siña i CSRF."
+
+msgid "CSRF token expired."
+msgstr "I CSRF na token esta måpos."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Ti maolek na disision: ti siña ma'a'agang."
+
+msgid "Choices cannot be None."
+msgstr "Ti siña i disision siha taya'."
+
+msgid "Not a valid choice."
+msgstr "Ti maolek na disision."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Ti maolek na disision(siha): unu pat mas na input na dañu ti siña "
+"ma'a'agang."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' ti maolek na cho'cho' para este na lugåt."
+
+msgid "Not a valid datetime value."
+msgstr "Ti bali i balotu gi i fecha yan tiempo."
+
+msgid "Not a valid date value."
+msgstr "Ti bali i fecha."
+
+msgid "Not a valid time value."
+msgstr "Ti bali i tiempo."
+
+msgid "Not a valid week value."
+msgstr "Ti bali i balotu gi i simana."
+
+msgid "Not a valid integer value."
+msgstr "Ti bali i numeron enteru."
+
+msgid "Not a valid decimal value."
+msgstr "Ti bali i desimal na balotu."
+
+msgid "Not a valid float value."
+msgstr "Ti bali i balotu-ña."
+

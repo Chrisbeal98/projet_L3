@@ -1,0 +1,195 @@
+{% extends "base.html" %}
+{% block title %}{{ _('Alertes') }} — anti-vol {% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <div>
+        <h1 class="page-title">{{ _('Gestion des alertes') }}</h1>
+        <p class="page-subtitle">{{ _("Signalez un vol ou une perte et suivez l'historique") }}</p>
+    </div>
+    <div class="page-actions">
+        <button class="btn btn-danger" onclick="openModal('alertModal')">
+            <i data-lucide="alert-triangle"></i>
+            {{ _('Signaler un vol / perte') }}
+        </button>
+    </div>
+</div>
+
+<!-- ═══ STATISTIQUES ALERTES ═══ -->
+<div class="stats-grid stats-grid-3">
+    
+    <div class="stat-card stat-card-red">
+        <div class="stat-icon"><i data-lucide="alert-circle"></i></div>
+        <div class="stat-info">
+            <span class="stat-value">{{ en_cours }}</span>
+            <span class="stat-label">{{ _('En cours') }}</span>
+        </div>
+    </div>
+    <div class="stat-card stat-card-green">
+        <div class="stat-icon"><i data-lucide="check-circle"></i></div>
+        <div class="stat-info">
+            <span class="stat-value">{{ traitees }}</span>
+            <span class="stat-label">{{ _('Résolues') }}</span>
+        </div>
+    </div>
+    <div class="stat-card stat-card-blue">
+        <div class="stat-icon"><i data-lucide="list"></i></div>
+        <div class="stat-info">
+            <span class="stat-value">{{ total }}</span>
+            <span class="stat-label">{{ _('Total alertes') }}</span>
+        </div>
+    </div>
+</div>
+
+<!-- ═══ LISTE DES ALERTES ═══ -->
+<div class="card">
+    <div class="card-header">
+        <h2>{{ _('Historique des alertes') }}</h2>
+    </div>
+    <div class="card-body">
+        {% if alertes %}
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>{{ _('Type') }}</th>
+                        <th>{{ _('Appareil') }}</th>
+                        <th>{{ _('Description') }}</th>
+                        <th>{{ _('Priorité') }}</th>
+                        <th>{{ _('Statut') }}</th>
+                        <th>{{ _('Date') }}</th>
+                        <th>{{ _('Actions') }}</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for alerte in alertes %}
+                    <tr class="{{ 'row-highlight' if alerte.statut == 'en_cours' }}">
+                        <td data-label="#"> <strong>#{{ alerte.id }}</strong></td>
+                        <td data-label="{{ _('Type') }}">
+                            <span class="badge badge-{{ 'danger' if alerte.type_alerte == 'vol' else 'warning' if alerte.type_alerte == 'perte' else 'purple' if alerte.type_alerte == 'anomalie' else 'info' }}">
+                                {% if alerte.type_alerte == 'vol' %}<i data-lucide="alert-triangle"></i>
+                                {% elif alerte.type_alerte == 'perte' %}<i data-lucide="search"></i>
+                                {% else %}<i data-lucide="activity"></i>{% endif %}
+                                {{ alerte.type_alerte | upper }}
+                            </span>
+                        </td>
+                        <td data-label="{{ _('Appareil') }}">{{ alerte.appareil.marque }} {{ alerte.appareil.modele }}</td>
+                        <td class="text-truncate" data-label="{{ _('Description') }}">{{ alerte.description or '—' }}</td>
+                        <td data-label="{{ _('Priorité') }}">
+                            <span class="priority priority-{{ alerte.priorite }}">
+                                {{ alerte.priorite | capitalize }}
+                            </span>
+                        </td>
+                        <td data-label="{{ _('Statut') }}">
+                            <span class="status-dot status-{{ 'active' if alerte.statut == 'en_cours' else 'resolved' }}"></span>
+                            {{ alerte.statut | replace('_', ' ') | capitalize }}
+                        </td>
+                        <td class="text-muted text-nowrap" data-label="{{ _('Date') }}">{{ alerte.date_creation.strftime('%d/%m/%Y %H:%M') }}</td>
+                        <td data-label="{{ _('Actions') }}">
+                            {% if alerte.statut == 'en_cours' %}
+                            <form method="POST" action="{{ url_for('dashboard.resoudre_alerte', id=alerte.id) }}" onsubmit="return confirm('{{ _('Marquer cette alerte comme résolue ?') }}')">
+                                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                <button type="submit" class="btn btn-success btn-xs" title="{{ _('Résoudre') }}">
+                                    <i data-lucide="check"></i>
+                                </button>
+                            </form>
+                            {% else %}
+                            <span class="text-muted">—</span>
+                            {% endif %}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+        <div class="empty-state">
+            <i data-lucide="shield-check"></i>
+            <h3>{{ _('Aucune alerte') }}</h3>
+            <p>{{ _("Bonne nouvelle ! Aucune alerte n'a été signalée.") }}</p>
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<!-- ═══ MODAL SIGNALEMENT ═══ -->
+<div class="modal-overlay" id="alertModal">
+    <div class="modal">
+        <div class="modal-header modal-header-danger">
+            <h2><i data-lucide="alert-triangle"></i> {{ _('Signaler un vol ou une perte') }}</h2>
+            <button class="modal-close" onclick="closeModal('alertModal')">
+                <i data-lucide="x"></i>
+            </button>
+        </div>
+        <form method="POST" action="{{ url_for('dashboard.signaler') }}">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+            <div class="modal-body">
+                <div class="alert-warning-box">
+                    <i data-lucide="info"></i>
+                    <p>{{ _('En signalant un vol, votre appareil sera automatiquement verrouillé et des notifications seront envoyées.') }}</p>
+                </div>
+                
+                <div class="form-group">
+                    <label for="appareil_id">{{ _('Appareil concerné') }} *</label>
+                    <select id="appareil_id" name="appareil_id" required>
+                        <option value="">{{ _('Sélectionner un appareil') }}</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="type_alerte">{{ _("Type d'alerte") }} *</label>
+                    <div class="radio-group">
+                        <label class="radio-card">
+                            <input type="radio" name="type_alerte" value="vol" required>
+                            <div class="radio-card-content">
+                                <i data-lucide="alert-triangle"></i>
+                                <span>{{ _('Vol') }}</span>
+                            </div>
+                        </label>
+                        <label class="radio-card">
+                            <input type="radio" name="type_alerte" value="perte">
+                            <div class="radio-card-content">
+                                <i data-lucide="search"></i>
+                                <span>{{ _('Perte') }}</span>
+                            </div>
+                        </label>
+                        <label class="radio-card">
+                            <input type="radio" name="type_alerte" value="anomalie">
+                            <div class="radio-card-content">
+                                <i data-lucide="activity"></i>
+                                <span>{{ _('Anomalie') }}</span>
+                            </div>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="description">{{ _('Description') }}</label>
+                    <textarea id="description" name="description" rows="3" placeholder="{{ _('Décrivez les circonstances...') }}"></textarea>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-ghost" onclick="closeModal('alertModal')">{{ _('Annuler') }}</button>
+                <button type="submit" class="btn btn-danger">
+                    <i data-lucide="alert-triangle"></i>
+                    {{ _('Signaler') }}
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+    const select = document.getElementById('appareil_id');
+    {% for appareil in current_user.appareils %}
+    const opt{{ appareil.id }} = document.createElement('option');
+    opt{{ appareil.id }}.value = '{{ appareil.id }}';
+    opt{{ appareil.id }}.textContent = '{{ appareil.marque }} {{ appareil.modele }} ({{ appareil.imei }})';
+    select.appendChild(opt{{ appareil.id }});
+    {% endfor %}
+</script>
+{% endblock %}

@@ -1,0 +1,1052 @@
+# Translations for GN.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: gn\n"
+"Language-Team: gn <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Eike eike hag̃ua ko páhinape."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Ko IMEI ojeregistráma sistema-pe."
+
+msgid "Accès non autorisé."
+msgstr "Jeike ndojeautorisáiva."
+
+msgid "Appareil déverrouillé."
+msgstr "Dispositivo ojepe’a."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "¡Alerta ojejapo! Marandu oñemondova’ekue."
+
+msgid "Alerte résolue."
+msgstr "Alerta oñesoluciona."
+
+msgid "Pas encore de compte ?"
+msgstr "¿Ndaipóri gueteri cuenta?"
+
+msgid "Mon Profil"
+msgstr "Che Perfil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "¡Conexión osẽ porã! Tapeg̃uahẽporãite."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Correo electrónico térã ñe’ẽñemi hendape’ỹva."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Opaite tenda oñeikotevẽva oñembotýmava’erã."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Umi ñe’ẽñemi ndojoajúi."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Pe ñe’ẽñemi oguerekova’erã 6 tai jepe."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Ko correo electrónico ojeporúma."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "¡Cuenta ojejapo porã! Eike."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Ndojejuhúi cuenta ko correo electrónico ndive."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Pe teléfono número ndojoajúi pe cuenta número ndive."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Pe ñe’ẽñemi pyahu ha’e obligatorio."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "¡Contraseña reset osẽ porã! Eike."
+
+msgid "Vous avez été déconnecté."
+msgstr "Peẽ peñedesconecta vaʼekue."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Oñeikotevê marca, modelo ha IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Oĩma peteĩ tembipuru orekóva ko IMEI."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "¡Dispositivo oñeinskrivi porã!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Ndereguerekói autorización rejapo haguã ko tembiapo."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Dispositivo oñemboty mombyry guive hekopete."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Dispositivo ojedesblokea porã."
+
+msgid "Appareil supprimé."
+msgstr "Dispositivo oñembogue."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Eiporavo peteĩ tembipuru ha alerta tipo."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Ko tembipuru ndaha’éi nde mba’e."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alerta oñemombe'u porã. Pe aparato ojeasegurama."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alerta oñemarkáva oñesoluciona ramo."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Oñeikotevẽ téra peteĩha, apellido ha correo electrónico."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Ko correo electrónico oiporúma ambue cuenta."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "¡Perfil oñembopyahu porã!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Jeike oñeñongatu umi administrador-kuérape g̃uarã."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Jejavy oñemarkáva oñemyatyrõháicha."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Ndaikatúi rembogue nde cuenta tee."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Pojoapy puruhára oñembogue porã."
+
+msgid "Administration"
+msgstr "Administración rehegua"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Gestión centralizada sistema AntiRobo rehegua"
+
+msgid "Utilisateurs"
+msgstr "Umi oiporúva"
+
+msgid "Actifs aujourd'hui"
+msgstr "Activo ko árape"
+
+msgid "Nouveaux ce mois"
+msgstr "Ipyahúva ko jasýpe"
+
+msgid "Appareils"
+msgstr "Tembiporukuéra"
+
+msgid "Alertes actives"
+msgstr "Alerta activa rehegua"
+
+msgid "Analytique"
+msgstr "Analítico rehegua"
+
+msgid "Journal d'activité"
+msgstr "Tembiaporã registro"
+
+msgid "Erreurs"
+msgstr "Umi jejavy"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Ñembojoaju (7 ára paha) ."
+
+msgid "Alertes par type"
+msgstr "Oalerta tipo rupive"
+
+msgid "Appareils par opérateur"
+msgstr "Umi tembipuru operador rupive"
+
+msgid "Résumé du système"
+msgstr "Sistema Resumen rehegua"
+
+msgid "Utilisateurs total"
+msgstr "Total umi oiporúva"
+
+msgid "Appareils enregistrés"
+msgstr "Umi tembipuru ojeregistráva"
+
+msgid "Total alertes"
+msgstr "Umi alerta total rehegua"
+
+msgid "Alertes en cours"
+msgstr "Umi alerta ko’áĝagua"
+
+msgid "Erreurs non résolues"
+msgstr "Umi jejavy noñesolucionáiva"
+
+msgid "Dernières activités"
+msgstr "Tembiaporã ipyahuvéva"
+
+msgid "récentes"
+msgstr "ramoitegua"
+
+msgid "Utilisateur"
+msgstr "Pojoapy puruhára"
+
+msgid "Action"
+msgstr "Ojejapóva"
+
+msgid "Détails"
+msgstr "Sa'ỹijo peteĩteĩ"
+
+msgid "Adresse IP"
+msgstr "IP tenda"
+
+msgid "Navigateur"
+msgstr "Navegador rehegua"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Aucune activité"
+msgstr "Ndaipóri actividad"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Ko’ápe ojehechaukáta puruhára rembiapo."
+
+msgid "Journal d'erreurs"
+msgstr "Registro de errores rehegua"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "¿Emyatyrõpa opaite jejavy?"
+
+msgid "Tout résoudre"
+msgstr "Esolusiona opa mba’e"
+
+msgid "non résolues"
+msgstr "noñesolucionáiva"
+
+msgid "Tout est résolu"
+msgstr "Opa mba’e oñesolusiona"
+
+msgid "Type"
+msgstr "Rory"
+
+msgid "Description"
+msgstr "Techaukaha"
+
+msgid "Statut"
+msgstr "Tetã"
+
+msgid "Résolu"
+msgstr "Ojeresolve"
+
+msgid "Non résolu"
+msgstr "Noñesolucionáiva"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Ndaipóri jejavy ojeregistráva"
+
+msgid "Le système fonctionne correctement."
+msgstr "Pe sistema omba’apo porã hína."
+
+msgid "Gestion des utilisateurs"
+msgstr "Pojoapy puruhára jesareko"
+
+msgid "comptes"
+msgstr "umi cuenta rehegua"
+
+msgid "Email"
+msgstr "Correo electrónico rehegua"
+
+msgid "Téléphone"
+msgstr "Pumbyry"
+
+msgid "Rôle"
+msgstr "Kuatia"
+
+msgid "Inscrit le"
+msgstr "Ojeregistra ára"
+
+msgid "Actions"
+msgstr "Tembiapokuéra rehegua"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "¿Embogue ko puruhára ha opaite tembipurukuéra?"
+
+msgid "Vous"
+msgstr "NDE"
+
+msgid "Connexions"
+msgstr "Umi joajuha"
+
+msgid "Vol"
+msgstr "Veve"
+
+msgid "Perte"
+msgstr "Po'ẽ"
+
+msgid "Anomalie"
+msgstr "Anomalía rehegua"
+
+msgid "Alertes"
+msgstr "Alerta-kuéra rehegua"
+
+msgid "Gestion des alertes"
+msgstr "Alerta ñemboguata"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Omombe’u ñemonda térã pérdida ha ojesareko tembiasakue rehe"
+
+msgid "Signaler un vol / perte"
+msgstr "Omombe’u ñemonda/pérdida"
+
+msgid "En cours"
+msgstr "Oñemotenondévo"
+
+msgid "Résolues"
+msgstr "Ojeresolve"
+
+msgid "Historique des alertes"
+msgstr "Alerta Tembiasakue"
+
+msgid "Appareil"
+msgstr "Tembiporu"
+
+msgid "Priorité"
+msgstr "Ñemotenonde"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "¿Emarká ko alerta ojerresolve hague?"
+
+msgid "Résoudre"
+msgstr "Mbo'aipo'i"
+
+msgid "Aucune alerte"
+msgstr "Ndaipóri alerta"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "¡Marandu porã! Ndaipóri alerta oñemombe'úva."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Emombe’u ñemonda térã pérdida"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Omombe’úvo peteĩ ñemonda, ne tembipuru oñemboty ijehegui ha oñemondota "
+"marandu."
+
+msgid "Appareil concerné"
+msgstr "Dispositivo ojeafectáva"
+
+msgid "Sélectionner un appareil"
+msgstr "Eiporavo peteĩ tembipuru"
+
+msgid "Type d'alerte"
+msgstr "Tipo de alerta rehegua"
+
+msgid "Décrivez les circonstances..."
+msgstr "Emombe'u mba'éichapa oiko..."
+
+msgid "Annuler"
+msgstr "Heja"
+
+msgid "Signaler"
+msgstr "Momarandu"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Sistema Anti-Robo Arandu — Plataforma seguridad rehegua teléfono "
+"inteligente-pe g̃uarã"
+
+msgid "Système Anti-Vol"
+msgstr "Sistema Anti-Robo rehegua"
+
+msgid "PRINCIPAL"
+msgstr "TUICHAVÉVA"
+
+msgid "Tableau de bord"
+msgstr "Tabla de mando"
+
+msgid "SÉCURITÉ"
+msgstr "KYHYJE'Ỹ"
+
+msgid "Géolocalisation"
+msgstr "Geolocalización rehegua"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRACIÓN rehegua"
+
+msgid "Déconnexion"
+msgstr "Ojedesconecta haguã"
+
+msgid "Changer de langue"
+msgstr "Emoambue ñe’ẽ"
+
+msgid "Rechercher une langue..."
+msgstr "Eheka peteĩ ñe'ẽ..."
+
+msgid "Profil"
+msgstr "Yke"
+
+msgid "Changer de thème"
+msgstr "Omoambue tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Nde tembipuru’i seguridad rehegua jehechapyrã"
+
+msgid "Ajouter un appareil"
+msgstr "Emoĩ peteĩ tembipuru"
+
+msgid "Appareils volés"
+msgstr "Umi tembipuru oñemondava’ekue"
+
+msgid "Verrouillés à distance"
+msgstr "Remotamente oñembotyva’ekue"
+
+msgid "Alertes récentes"
+msgstr "Umi alerta nda’aréi ojejapóva"
+
+msgid "Voir tout"
+msgstr "Ehecha opa mba'e"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Ndaipóri alerta. ¡Ne dispositivokuéra oĩ seguro!"
+
+msgid "Mes appareils"
+msgstr "Che tembipurukuéra"
+
+msgid "Aucun appareil enregistré"
+msgstr "Ndaipóri dispositivo registrado"
+
+msgid "Ajouter"
+msgstr "Moinge"
+
+msgid "en attente"
+msgstr "oĩva espera-pe"
+
+msgid "Gestion des appareils"
+msgstr "Tembiporu jesarekorã"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Ehai ha emohenda nde teléfono inteligente"
+
+msgid "Opérateur"
+msgstr "Operador rehegua"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "¿Emboty ko tembipuru mombyry guive?"
+
+msgid "Verrouiller"
+msgstr "Mbotyha"
+
+msgid "Déverrouiller"
+msgstr "Desbloqueo"
+
+msgid "Supprimer cet appareil ?"
+msgstr "¿Embogue ko tembipuru?"
+
+msgid "Supprimer"
+msgstr "MBOJE'OHA"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Emoĩ nde smartphone peteĩha eñepyrũ hag̃ua eñangareko hese."
+
+msgid "Nouvel appareil"
+msgstr "Tembiporu pyahu"
+
+msgid "Marque"
+msgstr "Téra"
+
+msgid "Sélectionner"
+msgstr "Poravo"
+
+msgid "Autre"
+msgstr "Ambue"
+
+msgid "Modèle"
+msgstr "Techapyrãramo"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "ehai *#06# nde teléfono-pe"
+
+msgid "Système d'exploitation"
+msgstr "Sistema operativo rehegua"
+
+msgid "Numéro de téléphone"
+msgstr "Teléfono número"
+
+msgid "Enregistrer"
+msgstr "Pysyrõ"
+
+msgid "Connexion"
+msgstr "Ñembojoaju"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistema de seguridad teléfono inteligente rehegua"
+
+msgid "Adresse email"
+msgstr "Dirección de correo electrónico"
+
+msgid "Mot de passe"
+msgstr "Taiñomi"
+
+msgid "Se connecter"
+msgstr "Eike"
+
+msgid "Mot de passe oublié ?"
+msgstr "¿Hesarái piko contraseña?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"¿Reguerekómapa peteĩ kuénta? Ndaupeichairamo, ¡eñepyrũ emoheñói nde "
+"cuenta!"
+
+msgid "Créer un compte"
+msgstr "Ejapo peteĩ cuenta"
+
+msgid "Sécurité maximale"
+msgstr "Seguridad máxima rehegua"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Eñangareko nde dato personal rehe bloqueo remoto rupive"
+
+msgid "Localisation GPS"
+msgstr "GPS ñemohenda"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Eheka moõpa oĩ exacta nde smartphone tiempo real-pe"
+
+msgid "Alertes instantanées"
+msgstr "Alerta instantánea rehegua"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Ohupyty SMS, correo electrónico ha momarandu push oikóramo ñemonda"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Eheka ne tembipurukuéra ha ehecha umi área riesgo rehegua"
+
+msgid "Aucun appareil"
+msgstr "Ndaipóri tembipuru"
+
+msgid "Zones à risque"
+msgstr "Umi área de riesgo"
+
+msgid "incidents"
+msgstr "umi mba’e ojehúva"
+
+msgid "Aucune zone signalée"
+msgstr "Ndaipóri área oñemombe'úva"
+
+msgid "Niveau"
+msgstr "Yvatekueha'ã"
+
+msgid "Incidents"
+msgstr "Umi mba’e ojehúva"
+
+msgid "Profile utilisateur"
+msgstr "Perfil puruhára rehegua"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Emohenda ne marandu personal"
+
+msgid "Membre depuis"
+msgstr "Miembro guive"
+
+msgid "Modifier mes informations"
+msgstr "Emohenda che marandu"
+
+msgid "Prénom"
+msgstr "Téra peteĩha"
+
+msgid "Nom"
+msgstr "Téra"
+
+msgid "Changer le mot de passe"
+msgstr "Emoambue ñe’ẽñemi"
+
+msgid "Nouveau mot de passe"
+msgstr "Ñe’ẽñemi pyahu"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "oheja rei ani haguã oñemoambue"
+
+msgid "Enregistrer les modifications"
+msgstr "Eñongatu umi ñemoambue"
+
+msgid "Inscription"
+msgstr "Inscripción rehegua"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Eju porãite Anti-Robo-pe reñangareko porãve hag̃ua ne tembipurukuéra rehe"
+
+msgid "Confirmer"
+msgstr "Moneĩ"
+
+msgid "Créer mon compte"
+msgstr "Ejapo che cuenta"
+
+msgid "Déjà un compte ?"
+msgstr "¿Reguerekómapa peteĩ cuenta?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Reset Ñe’ẽñemi"
+
+msgid "Réinitialisation"
+msgstr "Reset jey"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Emoinge ne correo electrónico ha teléfono número emoañete hag̃ua nde "
+"identidad"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Papapy ojeporúva oñeinskrivi jave"
+
+msgid "Minimum 6 caractères"
+msgstr "Mínimo 6 tai"
+
+msgid "Confirmer le mot de passe"
+msgstr "Emoañete ñe’ẽñemi"
+
+msgid "Retourner à la"
+msgstr "Ojevy jey"
+
+msgid "page de connexion"
+msgstr "página ojeike haguã"
+
+msgid "Vérification sécurisée"
+msgstr "Verificación segura rehegua"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Nde identidad ojehechauka ojeporúvo ne correo electrónico ha teléfono "
+"número"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Eiporavo peteĩ ñe’ẽñemi seguro orekóva 6 tai jepe"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Ñemboheko ndoikói"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Ñemboheko ndoikói: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows jejavy: {javy}."
+
+msgid "deprecated"
+msgstr "ndojeporuvéimava"
+
+msgid "Options"
+msgstr "Opciones rehegua"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Ojehupyty argumento extra oñeha’arõ’ỹva ({args}) ."
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Pe tembiapoukapy {téra!r} oñemboyke.{extra_message}"
+
+msgid "Aborted!"
+msgstr "¡Ojeabortáma!"
+
+msgid "Commands"
+msgstr "Umi tembiapoukapy"
+
+msgid "Missing command."
+msgstr "Ofaltáva tembiapoukapy."
+
+msgid "Value must be an iterable."
+msgstr "Valor ha’eva’erã peteĩ iterable."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Ogueraha {nargs} valores ha katu oñeme’ẽ 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "ÑemboykeÑe’ẽñemi: Pe {param_type} {téra!r} oñemboyke.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Téra '{téra}' oñemboheko mokõi jey"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Opción booleana {decl!r} ndaikatúi oipuru peteĩchagua poyvi añetegua"
+"/japu-pe g̃uarã."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr ""
+"Ndaikatúi ojedetermina téra opción-pe g̃uarã umi declaración reheve "
+"{decls!r}."
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Ndaipóri opción oñembohekopyréva ha katu oñembohasa peteĩ téra ({téra}). "
+"¿Reipota piko redeclara peteĩ argumento upéva rangue? ¿Rehasépa ra'e "
+"'--{téra}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var} Ñe'ẽ guarani."
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "ñepyrũrã: {default}."
+
+msgid "required"
+msgstr "apopeteĩrã"
+
+msgid "(dynamic)"
+msgstr "(dinámico) ."
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Umi argumento ogueraha exactamente peteĩ declaración parámetro rehegua, "
+"ohupyty {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "¿Resegisépa?"
+
+msgid "Confirm the action without prompting."
+msgstr "Emoañete tembiapo rejerure’ỹre."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, versión %(versión)s"
+
+msgid "Show the version and exit."
+msgstr "Ehechauka pe versión ha esẽ."
+
+msgid "Show this message and exit."
+msgstr "Ehechauka ko marandu ha esẽ."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "¿Reipota piko ere {posibilidad}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Jejavy: {marandu}."
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Eñeha'ã '{command} {opción}' pytyvõrã."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Valor ndovaléiva: {marandu}."
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Valor ndovaléiva {param_hint}-pe g̃uarã: {marandu}."
+
+msgid "Missing argument"
+msgstr "Argumento ofaltáva"
+
+msgid "Missing option"
+msgstr "Opción ofaltáva"
+
+msgid "Missing parameter"
+msgstr "Parámetro ofaltáva"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Ofaltáva {param_type}."
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parámetro ofaltáva: {param_téra}."
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Ndaipóri opción peichagua {téra!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Ndaipóri peichagua tembiapoukapy {téra!r}."
+
+msgid "unknown error"
+msgstr "jejavy ndojekuaáiva"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Ndaikatúi ojeipe’a vore {fichero réra!r}: {marandu}."
+
+msgid "Usage:"
+msgstr "Poru:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Karai ñepyrũrã ndoikóiva opción ({opción})-pe g̃uarã ."
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumento {téra!r} ogueraha {nargs} mbaꞌekuaarã."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Opción {téra!r} ndoguerahái peteĩ mba’ekuaarã."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Opción {téra!r} oikotevẽ peteĩ argumento."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Shell ñembopaha ndojeguerohorýi umi versión Bash itujavévape g̃uarã "
+"4.4-gui."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Ndaikatúi ojehechakuaa versión Bash, ndojeguerohorýi shell ñembopaha."
+
+msgid "Repeat for confirmation"
+msgstr "Ojejapo jey oñemoañete haguã"
+
+msgid "Error: The two entered values do not match."
+msgstr "Jejavy: Umi mokõi mba’ekuaarã ojeikeva’ekue ndojoajúi."
+
+msgid "Error: invalid input"
+msgstr "Jejavy: jeike ndojeporúiva"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Sa'y ndojekuaáiva {color!r}."
+
+msgid "Press any key to continue..."
+msgstr "Emboguejy oimeraẽ tecla eñepyrũ hag̃ua..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Eiporavo:\\n\\t{jeporavokuéra}."
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{valor!r} ndaha’éi {jeporavo}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Jeporavo({jeporavokuéra}) ."
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ndojoajúi formato {formato} ndive."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{valor!r} ndaha’éi peteĩ {papapy_tipo} añetegua."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{valor} noĩri {rango} rango-pe."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr ""
+"{value!r} ndaha’éi peteĩ booleano añetegua. Umi mba’ekuaarã "
+"ojehechakuaáva: {estados}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ndaha’éi peteĩ UUID añetegua."
+
+msgid "file"
+msgstr "tapykuererekahai"
+
+msgid "directory"
+msgstr "directorio rehegua"
+
+msgid "path"
+msgstr "tapepo'i"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{téra} {vore réra!r} ndoikói."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{téra} {vore réra!r} ha’e peteĩ vore."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{téra} {fichero réra!r} ha’e peteĩ kundaha."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{téra} {fichero réra!r} ndaha’éi ojeleekuaáva."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{téra} {fichero réra!r} ndaha’éi ojehaikuaáva."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{téra} {fichero réra!r} ndaha’éi ojejapokuaava’erã."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} mba’ekuaarã oñeikotevẽ, ha katu oñeme’ẽkuri {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Ysyry estándar ndojekuaáiva '{téra}'."
+
+msgid "This field is required."
+msgstr "Ko campo oñeikotevẽ."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Archivo ndorekói peteĩ extensión oñemoneĩva: {extensions}."
+
+msgid "File does not have an approved extension."
+msgstr "Archivo ndorekói peteĩ extensión oñemoneĩva."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Archivo oĩva’erã {min_size} ha {max_size} byte apytépe."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Campo réra ndojeporúiva '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Campo ojojava’erã %(other_name)s ndive."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Campo ipukuva’erã %(min)d karameg̃ua jepe."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Campo ndaikatúi ipukuve karameg̃ua %(max)d-gui."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Campo ipukuva’erã exactamente %(max)d karameg̃ua."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Campo ipukuva’erã %(min)d ha %(max)d karameg̃ua apytépe."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Papapy ha’eva’erã %(min)s jepe."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Papapy ha’eva’erã %(max)s hetave."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Papapy oĩva’erã %(min)s ha %(max)s mbytépe."
+
+msgid "Invalid input."
+msgstr "Entrada ndoikóiva."
+
+msgid "Invalid email address."
+msgstr "Dirección de correo electrónico ndojeporúiva."
+
+msgid "Invalid IP address."
+msgstr "IP tenda ndoikóiva."
+
+msgid "Invalid Mac address."
+msgstr "Mac dirección ndojeporúiva."
+
+msgid "Invalid URL."
+msgstr "URL ndoikóiva."
+
+msgid "Invalid UUID."
+msgstr "UUID ndoikóiva."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Valor ndoikóiva, haꞌevaꞌerã peteĩva: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Valor ndoikóiva, ndaikatúi ha’e mba’eveichagua: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Ko tenda ndaikatúi oñemboheko."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Ko tenda oñembogue ha ndaikatúi oguereko peteĩ mba’ekuaarã."
+
+msgid "Invalid CSRF Token."
+msgstr "Token CSRF ndojeporúiva."
+
+msgid "CSRF token missing."
+msgstr "CSRF token ofalta."
+
+msgid "CSRF failed."
+msgstr "CSRF ndoikói."
+
+msgid "CSRF token expired."
+msgstr "CSRF token oñemohu’ãma."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Jeporavo Inválido: ndaikatúikuri ojeobliga."
+
+msgid "Choices cannot be None."
+msgstr "Umi jeporavo ndaikatúi ha’e Mba’eve."
+
+msgid "Not a valid choice."
+msgstr "Ndaha’éi peteĩ elección válida."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Jeporavo(kuéra) ndojeporúiva: peteĩ térã hetave marandu jeike ndaikatúi "
+"ojejopy."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' ndaha'éi peteĩ jeporavo añetegua ko ñanduti renda-pe g̃uarã."
+
+msgid "Not a valid datetime value."
+msgstr "Ndaha’éi peteĩ valor ára aravo rehegua añetegua."
+
+msgid "Not a valid date value."
+msgstr "Ndaha’éi peteĩ valor fecha válido rehegua."
+
+msgid "Not a valid time value."
+msgstr "Ndaha’éi peteĩ valor tiempo válido."
+
+msgid "Not a valid week value."
+msgstr "Ndaha’éi peteĩ valor semanal válido."
+
+msgid "Not a valid integer value."
+msgstr "Ndaha’éi peteĩ papapy entero valor añetegua."
+
+msgid "Not a valid decimal value."
+msgstr "Ndaha’éi peteĩ valor decimal añetegua."
+
+msgid "Not a valid float value."
+msgstr "Ndaha’éi peteĩ valor flotador añeteguáva."
+

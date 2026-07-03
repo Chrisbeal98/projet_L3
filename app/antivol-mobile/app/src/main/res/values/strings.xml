@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Antivol Intelligent</string>
+    <string name="app_subtitle">Système Anti-Vol Intelligent</string>
+
+    <!-- Connexion -->
+    <string name="login_title">Connexion</string>
+    <string name="login_email">Adresse email</string>
+    <string name="login_password">Mot de passe</string>
+    <string name="login_button">Se connecter</string>
+    <string name="login_no_account">Pas de compte ? S\'inscrire</string>
+    <string name="login_forgot_password">Mot de passe oublié ?</string>
+    <string name="login_securite">Sécurité maximale</string>
+    <string name="login_securite_desc">Protégez vos données personnelles grâce au verrouillage à distance</string>
+    <string name="login_gps">Localisation GPS</string>
+    <string name="login_gps_desc">Retrouvez la position exacte de votre smartphone en temps réel</string>
+    <string name="login_alertes">Alertes instantanées</string>
+    <string name="login_alertes_desc">Recevez des notifications SMS, email et push en cas de vol</string>
+
+    <!-- Inscription -->
+    <string name="register_title">Créer un compte</string>
+    <string name="register_firstname">Prénom</string>
+    <string name="register_lastname">Nom</string>
+    <string name="register_phone">Téléphone (optionnel)</string>
+    <string name="register_password_confirm">Confirmer le mot de passe</string>
+    <string name="register_button">Créer mon compte</string>
+    <string name="register_has_account">Déjà un compte ? Se connecter</string>
+    <string name="register_subtitle">Bienvenue sur AntiVol pour une meilleure sécurité de vos appareils</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Tableau de bord</string>
+    <string name="dashboard_subtitle">Vue d\'ensemble de la sécurité de vos appareils</string>
+    <string name="stats_appareils">Appareils</string>
+    <string name="stats_alertes">Alertes en cours</string>
+    <string name="stats_voles">Volés</string>
+    <string name="stats_verrouilles">Verrouillés</string>
+    <string name="stats_utilisateurs">Utilisateurs</string>
+
+    <!-- Appareil -->
+    <string name="device_status">État de l\'appareil</string>
+    <string name="device_imei">IMEI</string>
+    <string name="device_status_label">Statut</string>
+    <string name="device_locked_label">Verrouillé</string>
+    <string name="device_id">ID: Non enregistré</string>
+    <string name="device_yes">OUI</string>
+    <string name="device_no">NON</string>
+    <string name="btn_activate_admin">Activer la protection Admin</string>
+    <string name="btn_register_device">Enregistrer l\'appareil</string>
+    <string name="btn_start_monitoring">Lancer la surveillance</string>
+    <string name="btn_stop_monitoring">Arrêter la surveillance</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Tableau de bord</string>
+    <string name="nav_appareils">Mes appareils</string>
+    <string name="nav_alertes">Alertes</string>
+    <string name="nav_localisation">Géolocalisation</string>
+    <string name="nav_profil">Profil</string>
+    <string name="nav_settings">Paramètres</string>
+
+    <!-- Alertes -->
+    <string name="alertes_title">Gestion des alertes</string>
+    <string name="alertes_subtitle">Signalez un vol ou une perte et suivez l\'historique</string>
+    <string name="alertes_report">Signaler un vol / perte</string>
+    <string name="alertes_aucune">Aucune alerte signalée</string>
+    <string name="alertes_securite">Vos appareils sont en sécurité !</string>
+    <string name="alertes_en_cours">En cours</string>
+    <string name="alertes_resolues">Résolues</string>
+    <string name="alertes_total">Total</string>
+    <string name="alertes_type_vol">Vol</string>
+    <string name="alertes_type_perte">Perte</string>
+    <string name="alertes_type_anomalie">Anomalie</string>
+    <string name="alertes_appareil">Appareil concerné</string>
+    <string name="alertes_description">Description</string>
+    <string name="alertes_signaler">Signaler</string>
+    <string name="alertes_annuler">Annuler</string>
+    <string name="alertes_resoudre">Résoudre</string>
+    <string name="alertes_aucun_appareil">Aucun appareil enregistré</string>
+
+    <!-- Profil -->
+    <string name="profil_title">Mon profil</string>
+    <string name="profil_email">Email</string>
+    <string name="profil_telephone">Téléphone</string>
+    <string name="profil_membre_depuis">Membre depuis</string>
+
+    <!-- Boutons communs -->
+    <string name="btn_settings">Paramètres</string>
+    <string name="btn_logout">Déconnexion</string>
+    <string name="btn_unlock">Déverrouiller</string>
+    <string name="btn_save">Sauvegarder</string>
+
+    <!-- Verrouillage -->
+    <string name="lock_title">APPAREIL VERROUILLÉ</string>
+    <string name="lock_message">Cet appareil a été signalé comme volé ou perdu.</string>
+    <string name="lock_warning">Contactez le propriétaire ou les autorités.</string>
+    <string name="lock_code_hint">Code de déverrouillage</string>
+    <string name="lock_version">Antivol Intelligent v1.0</string>
+
+    <!-- Paramètres -->
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_user_label">Utilisateur connecté</string>
+    <string name="settings_server_url">URL du serveur</string>
+    <string name="settings_device_id">ID Appareil</string>
+    <string name="settings_device_hint">Laisser vide pour auto</string>
+
+    <!-- Log -->
+    <string name="log_title">Journal d\'activité</string>
+    <string name="unlock_code_hint">Code de déverrouillage: 2525</string>
+    <string name="app_ready">Application prête...</string>
+
+    <!-- Langues -->
+    <string name="lang_fr">Français</string>
+    <string name="lang_en">English</string>
+</resources>

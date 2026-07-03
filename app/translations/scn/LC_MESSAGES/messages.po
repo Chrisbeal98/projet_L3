@@ -1,0 +1,1043 @@
+# Translations for SCN.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: scn\n"
+"Language-Team: scn <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Accedi pi accèdiri a sta pàggina."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Stu IMEI è già arrigistratu nnô sistema."
+
+msgid "Accès non autorisé."
+msgstr "Accessu non auturizzatu."
+
+msgid "Appareil déverrouillé."
+msgstr "Dispusitivi sbluccatu."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Avvisu criatu! Nutificazzioni mannati."
+
+msgid "Alerte résolue."
+msgstr "Avvisu risoltu."
+
+msgid "Pas encore de compte ?"
+msgstr "Ancora nuḍḍu cuntu?"
+
+msgid "Mon Profil"
+msgstr "Lu me prufilu"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Cunnissioni arrinisciuta! Bimminutu."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email o password sbagghiati."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Tutti li campi nicissari hannu a èssiri cumplitati."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Li password nun currispùnninu."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "La password havi a cuntèniri armenu 6 carattari."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Sta e-mail è già 'n usu."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Account criatu cu successu! Accedi."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Nun s'attruvaru account cu sta e-mail."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Lu nùmmaru di tilèfunu nun currispunni ô nùmmaru dû cuntu."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "La nova password è obbligatoria."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Rizzitta cu successu la password! Accedi."
+
+msgid "Vous avez été déconnecté."
+msgstr "Fusti scunnessu."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Sunnu nicissari lu marchiu, lu mudeḍḍu e l'IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Nu dispusitivu cu stu IMEI esisti già."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Lu dispusitivu arrigistratu cu successu!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Nun si è auturizzatu a fari st'azzioni."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Lu dispusitivu fu chiusu a distanza cu successu."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Lu dispusitivu sbluccatu cu successu."
+
+msgid "Appareil supprimé."
+msgstr "Dispusitivi cancillatu."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Scegghi nu dispusitivu e nu tipu d'avvisu."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Stu dispusitivu nun ti apparteni."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "L'avvisu fu ripurtatu cu successu. Lu dispusitivu è statu assicuratu."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Avvisu signatu comu arrisurbutu."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Sunnu nicissari lu primu nomu, lu cognomi e l'email."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Sta e-mail è già usata di n'autru account."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Lu prufilu agghiurnatu cu successu!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "L'accessu è riservatu a l'amministratura."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Erruri signatu comu arrisurbutu."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Nun po' cancillari lu to contu."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "L'utenti fu cancillatu cu successu."
+
+msgid "Administration"
+msgstr "Amministrazzioni"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Gistioni cintralizzata dû sistema Antifurtu"
+
+msgid "Utilisateurs"
+msgstr "Utenti"
+
+msgid "Actifs aujourd'hui"
+msgstr "Attiva oggi"
+
+msgid "Nouveaux ce mois"
+msgstr "Novu stu misi"
+
+msgid "Appareils"
+msgstr "Dispusitivi"
+
+msgid "Alertes actives"
+msgstr "Avvisi attivi"
+
+msgid "Analytique"
+msgstr "Analiticu"
+
+msgid "Journal d'activité"
+msgstr "Registru di l'attivitati"
+
+msgid "Erreurs"
+msgstr "Sbagghi"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Cunnissioni (ùrtimi 7 jorna)"
+
+msgid "Alertes par type"
+msgstr "Avvisi pi tipu"
+
+msgid "Appareils par opérateur"
+msgstr "Dispusitivi pi upiraturi"
+
+msgid "Résumé du système"
+msgstr "Riassuntu dû sistema"
+
+msgid "Utilisateurs total"
+msgstr "Tutali di l'utenti"
+
+msgid "Appareils enregistrés"
+msgstr "Dispusitivi riggistrati"
+
+msgid "Total alertes"
+msgstr "Avvisi totali"
+
+msgid "Alertes en cours"
+msgstr "Avvisi attuali"
+
+msgid "Erreurs non résolues"
+msgstr "Sbagghi nun arrisurbuti"
+
+msgid "Dernières activités"
+msgstr "Attivitati ùrtimi"
+
+msgid "récentes"
+msgstr "ricenti"
+
+msgid "Utilisateur"
+msgstr "Utenti"
+
+msgid "Action"
+msgstr "Azziuni"
+
+msgid "Détails"
+msgstr "Dittagghi"
+
+msgid "Adresse IP"
+msgstr "Indirizzu IP"
+
+msgid "Navigateur"
+msgstr "Navigaturi"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Aucune activité"
+msgstr "Nudda attivitati"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "L'attività di l'utenti cumpàrinu ccà."
+
+msgid "Journal d'erreurs"
+msgstr "Registru di l'erruri"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Curriggi tutti l'erruri?"
+
+msgid "Tout résoudre"
+msgstr "Risolviri tuttu"
+
+msgid "non résolues"
+msgstr "nun risoltu"
+
+msgid "Tout est résolu"
+msgstr "Tuttu è risoltu"
+
+msgid "Type"
+msgstr "Gèniri"
+
+msgid "Description"
+msgstr "Discrizzioni"
+
+msgid "Statut"
+msgstr "Statu"
+
+msgid "Résolu"
+msgstr "Risoltu"
+
+msgid "Non résolu"
+msgstr "Nun arrisurbutu"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Nun ci foru erruri riggistrati"
+
+msgid "Le système fonctionne correctement."
+msgstr "Lu sistema funziona correttamenti."
+
+msgid "Gestion des utilisateurs"
+msgstr "Gistioni di l'utenti"
+
+msgid "comptes"
+msgstr "cunti"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Tilèfunu"
+
+msgid "Rôle"
+msgstr "Rolu"
+
+msgid "Inscrit le"
+msgstr "Iscrittu ô"
+
+msgid "Actions"
+msgstr "Azzioni"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Cancillari stu utenti e tutti li so dispusitivi?"
+
+msgid "Vous"
+msgstr "TU"
+
+msgid "Connexions"
+msgstr "Cunnissioni"
+
+msgid "Vol"
+msgstr "Abbolu"
+
+msgid "Perte"
+msgstr "Pèrdita"
+
+msgid "Anomalie"
+msgstr "Anòmalia"
+
+msgid "Alertes"
+msgstr "Avvisi"
+
+msgid "Gestion des alertes"
+msgstr "Gistioni di l'avvisi"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Signala furtu o pèrdita e rintraccia la storia"
+
+msgid "Signaler un vol / perte"
+msgstr "Signalari furtu/pèrdita"
+
+msgid "En cours"
+msgstr "'N prugressu"
+
+msgid "Résolues"
+msgstr "Risoltu"
+
+msgid "Historique des alertes"
+msgstr "Cronuluggìa di l'avvisu"
+
+msgid "Appareil"
+msgstr "Dispusitivu"
+
+msgid "Priorité"
+msgstr "Priurità"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Marca stu avvisu comu arrisurbutu?"
+
+msgid "Résoudre"
+msgstr "Arrisòrbiri"
+
+msgid "Aucune alerte"
+msgstr "Nuddu avvisu"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Bona nutizzia! Nun foru ripurtati avvisi."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Signalari furtu o pèrdita"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Signalannu nu furtu, lu dispusitivu veni chiusu autumàticamenti e li "
+"nutificazzioni vennu mannati."
+
+msgid "Appareil concerné"
+msgstr "Dispusitivi nfruenzati"
+
+msgid "Sélectionner un appareil"
+msgstr "Scegghi nu dispusitivu"
+
+msgid "Type d'alerte"
+msgstr "Tipu d'avvisu"
+
+msgid "Décrivez les circonstances..."
+msgstr "Discrìviri li circustanzi..."
+
+msgid "Annuler"
+msgstr "sfai"
+
+msgid "Signaler"
+msgstr "Riportu"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Sistema ntiliggenti antifurtu - Piattaforma di sicurizza pî smartphone"
+
+msgid "Système Anti-Vol"
+msgstr "Sistema antifurtu"
+
+msgid "PRINCIPAL"
+msgstr "PRINCIPALI"
+
+msgid "Tableau de bord"
+msgstr "Cruscottu"
+
+msgid "SÉCURITÉ"
+msgstr "SICURIZZA"
+
+msgid "Géolocalisation"
+msgstr "Giulucazzioni"
+
+msgid "ADMINISTRATION"
+msgstr "AMMINISTRAZZIUNI"
+
+msgid "Déconnexion"
+msgstr "Scunnetti"
+
+msgid "Changer de langue"
+msgstr "Cancia lingua"
+
+msgid "Rechercher une langue..."
+msgstr "Cerca na lingua..."
+
+msgid "Profil"
+msgstr "Prufilu"
+
+msgid "Changer de thème"
+msgstr "Cancia tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Panoramica dâ sicurizza dû dispusitivu"
+
+msgid "Ajouter un appareil"
+msgstr "Aggiungi nu dispusitivu"
+
+msgid "Appareils volés"
+msgstr "Dispusitivi arrubbati"
+
+msgid "Verrouillés à distance"
+msgstr "Chiusu a distanza"
+
+msgid "Alertes récentes"
+msgstr "Avvisi ricenti"
+
+msgid "Voir tout"
+msgstr "Vidi tutti"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Nisciunu avvisu. Li tò dispusitivi sunnu sicuri!"
+
+msgid "Mes appareils"
+msgstr "Li me dispusitivi"
+
+msgid "Aucun appareil enregistré"
+msgstr "Nun ci sunnu dispusitivi arrigistrati"
+
+msgid "Ajouter"
+msgstr "Agghiùnciri"
+
+msgid "en attente"
+msgstr "'n attesa"
+
+msgid "Gestion des appareils"
+msgstr "Gistioni dî dispusitivi"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Arrigistrati e amministrati li vostri smartphone"
+
+msgid "Opérateur"
+msgstr "Upiraturi"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Chiudi stu dispusitivu di luntanu?"
+
+msgid "Verrouiller"
+msgstr "Sirratura"
+
+msgid "Déverrouiller"
+msgstr "Sblocca"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Cancillari stu dispusitivu?"
+
+msgid "Supprimer"
+msgstr "SCANCIḌḌARI"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Aggiungi lu primu smartphone pi accuminciari a prutèggirilu."
+
+msgid "Nouvel appareil"
+msgstr "Dispusitivi novu"
+
+msgid "Marque"
+msgstr "Mercu"
+
+msgid "Sélectionner"
+msgstr "Silizziunari"
+
+msgid "Autre"
+msgstr "Autru"
+
+msgid "Modèle"
+msgstr "Mudeḍḍu"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "scrivi *#06# ntô to tilèfunu"
+
+msgid "Système d'exploitation"
+msgstr "Sistema upirativu"
+
+msgid "Numéro de téléphone"
+msgstr "Nùmmuru di tilèfunu"
+
+msgid "Enregistrer"
+msgstr "Sarbari"
+
+msgid "Connexion"
+msgstr "Cunnissioni"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistema di sicurizza dî smartphone"
+
+msgid "Adresse email"
+msgstr "Indirizzu e-mail"
+
+msgid "Mot de passe"
+msgstr "Password"
+
+msgid "Se connecter"
+msgstr "Accedi"
+
+msgid "Mot de passe oublié ?"
+msgstr "La password scurdàta?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Hai già nu contu? Altrimenti, prucidi a criari lu to contu!"
+
+msgid "Créer un compte"
+msgstr "Criàri n'account"
+
+msgid "Sécurité maximale"
+msgstr "Sicurizza massima"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Prutèggiri li dati pirsunali cu chiusura a distanza"
+
+msgid "Localisation GPS"
+msgstr "Pusizzioni GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Truva la pusizzioni esatta dû to smartphone 'n tempu riali"
+
+msgid "Alertes instantanées"
+msgstr "Avvisi istantanei"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Riciviri SMS, e-mail e nutificazzioni push 'n casu di furtu"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Indica li tò dispusitivi e visualizza l'arii a rìsicu"
+
+msgid "Aucun appareil"
+msgstr "Nuddu dispusitivu"
+
+msgid "Zones à risque"
+msgstr "Àrii di rìsicu"
+
+msgid "incidents"
+msgstr "incidenti"
+
+msgid "Aucune zone signalée"
+msgstr "Nudda aria signalata"
+
+msgid "Niveau"
+msgstr "Liveḍḍu"
+
+msgid "Incidents"
+msgstr "Incidenti"
+
+msgid "Profile utilisateur"
+msgstr "Prufilu utenti"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Gistisci li tò ‘nformazzioni pirsonàli"
+
+msgid "Membre depuis"
+msgstr "Membru di lu 1990"
+
+msgid "Modifier mes informations"
+msgstr "Mudifica li me nfurmazzioni"
+
+msgid "Prénom"
+msgstr "Nomu"
+
+msgid "Nom"
+msgstr "Nomu"
+
+msgid "Changer le mot de passe"
+msgstr "Cancia la password"
+
+msgid "Nouveau mot de passe"
+msgstr "Palora d'òrdini nova"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "lassari vacanti pi nun canciari"
+
+msgid "Enregistrer les modifications"
+msgstr "Sarba li canciamenti"
+
+msgid "Inscription"
+msgstr "Iscrizzioni"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Benvenuti a Anti-Theft pi na megghiu sicurizza dî vostri dispusitivi"
+
+msgid "Confirmer"
+msgstr "Cunfirmari"
+
+msgid "Créer mon compte"
+msgstr "Cria lu me cuntu"
+
+msgid "Déjà un compte ?"
+msgstr "Hai già nu contu?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Rizzitta la Palora d'òrdini"
+
+msgid "Réinitialisation"
+msgstr "Rizzitta"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Diggìri la tò e-mail e lu tò nùmmaru di tilèfunu pi virificari la tò "
+"identità"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Lu nùmmaru usatu duranti la riggistrazzioni"
+
+msgid "Minimum 6 caractères"
+msgstr "Almenu 6 carattari"
+
+msgid "Confirmer le mot de passe"
+msgstr "Cunfirmari la palora d'òrdini"
+
+msgid "Retourner à la"
+msgstr "Torna a"
+
+msgid "page de connexion"
+msgstr "pàggina di login"
+
+msgid "Vérification sécurisée"
+msgstr "Virìfica sicura"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"La tò identità veni virìficata usannu la tò e-mail e lu tò nùmmaru di "
+"tilèfunu"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Scegghi na password sicura di armenu 6 carattari"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: La mudifica nun arriniscìu"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: La mudifica nun arriniscìu: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Erruri di Windows: {erruri}"
+
+msgid "deprecated"
+msgstr "dipricatu"
+
+msgid "Options"
+msgstr "Opzioni"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Aviu n'argumentu suverchiu 'mprivistu ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DipricazzioniAvvisu: lu cumannu {nomu!r} è dipricatu.{messaggiu_suverchiu}"
+
+msgid "Aborted!"
+msgstr "Abbortu!"
+
+msgid "Commands"
+msgstr "Cumannamenti"
+
+msgid "Missing command."
+msgstr "Manca lu cumannu."
+
+msgid "Value must be an iterable."
+msgstr "Lu valuri àvi a èssiri n'itiràbbili."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Pigghia valura di {nargs} ma fu datu 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"DipricazzioniAvvisu: lu {tipu_param} {nomu!r} è "
+"dipricatu.{messaggiu_supra}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Nomu '{nomu}' difinitu du' voti"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "L'uzziuni buliana {decl!r} nun po usari la stissa bandiera pi veru/falsu."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Nun putìa ditirminari lu nomu di l'uzziuni cu dichiarazzioni {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Nun foru difinuti opzzioni ma fu passatu nu nomu ({nomu}). Vulìsti "
+"dichiarari mmeci n'argumentu? Vulìsti passari '--{nomu}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "di basi: {di basi}"
+
+msgid "required"
+msgstr "ubbligatoriu"
+
+msgid "(dynamic)"
+msgstr "(dinàmicu)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"L'argumenti ànnu pricisamenti na dichiarazzioni di paràmitru, utteni "
+"{lunghizza}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Vuliti cuntinuari?"
+
+msgid "Confirm the action without prompting."
+msgstr "Cunfirmari l'azzioni senza dumannari."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prug)s, virsioni %(virsioni)s"
+
+msgid "Show the version and exit."
+msgstr "Mustra la virsioni e nesci."
+
+msgid "Show this message and exit."
+msgstr "Mustra stu messaggiu e nesci."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Vulìsti diri {pussibbilità}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Erruri: {missaggiu}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Pruva '{cumannu} {opzzioni}' pi aiutu."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Valuri nun vàlidu: {missaggiu}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Valuri nun vàlidu pi {suggerimentu_param}: {missaggiu}"
+
+msgid "Missing argument"
+msgstr "Argumentu mancanti"
+
+msgid "Missing option"
+msgstr "Manca l'opzioni"
+
+msgid "Missing parameter"
+msgstr "Paràmitru mancanti"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Manca {tipu_paràmitru}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Paràmitru mancanti: {nomu_paràmitru}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Nun c'è sta opzzioni {nomu!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Nun c'è stu cumannu {nomu!r}."
+
+msgid "unknown error"
+msgstr "sbagghiu scanusciutu"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Nun si po grapiri lu file {nomu!r}: {missaggiu}"
+
+msgid "Usage:"
+msgstr "Scopu:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Caràttari di partenza nun validu pi l'upzzioni ({opzzioni})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "L'argumentu {nomu!r} pigghia valura {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "L'upzzioni {nomu!r} nun pigghia nuḍḍu valuri."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "L'upzzioni {nomu!r} abbisogna di n'argumentu."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Lu cumplitamentu dâ shell nun è sustinutu pi virsiuna di Bash cchiù "
+"vecchi di 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Nun fu rilevatu la virsiuni Bash, lu cumplitamentu dû shell nun è "
+"sustinutu."
+
+msgid "Repeat for confirmation"
+msgstr "Ripeti pâ cunferma"
+
+msgid "Error: The two entered values do not match."
+msgstr "Erruri: li du' valura scritti nun currispùnninu."
+
+msgid "Error: invalid input"
+msgstr "Erruri: nput nun validu"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Culuri scanusciutu {culuri!r}"
+
+msgid "Press any key to continue..."
+msgstr "Primi nu tastu qualegghiè pi cuntinuari..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Scegghi tra:\\n\\t{scelti}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{valuri!r} nun è {scelta}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Scelta ({scelti})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{valuri!r} nun currispunni ô furmatu {furmatu}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{valuri!r} nun è un {tipu_nùmmaru} validu."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{valuri} nun è nnô ranghi {intervallu}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{valuri!r} nun è un bulianu validu. Valuri arricanusciuti: {stati}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{valuri!r} nun è n'UUID validu."
+
+msgid "file"
+msgstr "ricugghituri"
+
+msgid "directory"
+msgstr "cartella"
+
+msgid "path"
+msgstr "pircursu"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{nomu} {nomu dû file!r} nun esisti."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{nomu} {nomu dû file!r} è nu file."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{nomu} {nomu dû file!r} è na cartella."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{nomu} {nomu dû file!r} nun è liggìbbili."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{nomu} {nomu dû file!r} nun è scrivìbbili."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{nomu} {nomu dû file!r} nun è esiguibbili."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "su' nicissari li valura di {tipu_len}, ma fu datu {valuri_len}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Flussu standard scanusciutu '{nomu}'"
+
+msgid "This field is required."
+msgstr "Chistu campu è nicissariu."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Lu file nun havi n'estenzioni appruvata: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Lu file nun àvi n'estensioni appruvata."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Lu file àvi a èssiri ntra {grannizza_min} e {grannizza_massima} byte."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Nomu dû campu nun validu '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Lu campu àvi a èssiri avali a %(autru_nomu)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Lu campu àvi a èssiri longu armenu %(min)d carattari."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Lu campu nun po èssiri cchiù longu dû caràttari %(max)d."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Lu campu àvi a èssiri longu esattamenti %(max)d carattari."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Lu campu àvi a èssiri longu ntra %(min)d e %(max)d carattari."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "U nùmmaru àvi a èssiri armenu %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "U nùmmaru àvi a èssiri ô massimu %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "U nùmmaru àvi a èssiri ntra %(min)s e %(max)s."
+
+msgid "Invalid input."
+msgstr "Input nun validu."
+
+msgid "Invalid email address."
+msgstr "Indirizzu e-mail nun validu."
+
+msgid "Invalid IP address."
+msgstr "Indirizzu IP nun validu."
+
+msgid "Invalid Mac address."
+msgstr "Indirizzu Mac nun validu."
+
+msgid "Invalid URL."
+msgstr "URL nun validu."
+
+msgid "Invalid UUID."
+msgstr "UUID nun validu."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Valuri nun validu, àvi a èssiri unu di: %(valura)."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Valuri nun validu, nun po èssiri nuḍḍu di: %(valura)."
+
+msgid "This field cannot be edited."
+msgstr "Stu campu nun pò èssiri mudificatu."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Stu campu è disattivatu e nun po aviri nuḍḍu valuri."
+
+msgid "Invalid CSRF Token."
+msgstr "Token CSRF nun validu."
+
+msgid "CSRF token missing."
+msgstr "Manca lu gettoni CSRF."
+
+msgid "CSRF failed."
+msgstr "Lu CSRF fallìu."
+
+msgid "CSRF token expired."
+msgstr "Lu token CSRF scadìu."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Scelta nun valida: nun putìa coerciri."
+
+msgid "Choices cannot be None."
+msgstr "Li scelti nun ponnu èssiri Nudda."
+
+msgid "Not a valid choice."
+msgstr "Nun è na scelta valida."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Scelta nun valida: unu o cchiù input di dati nun putìanu èssiri custritti."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(valuri)s' nun è na scigghiuta valida pi stu campu."
+
+msgid "Not a valid datetime value."
+msgstr "Nun è nu valuri di data-ura validu."
+
+msgid "Not a valid date value."
+msgstr "Nun è nu valuri di data validu."
+
+msgid "Not a valid time value."
+msgstr "Nun è nu valuri di tempu validu."
+
+msgid "Not a valid week value."
+msgstr "Nun è nu valuri validu dâ simana."
+
+msgid "Not a valid integer value."
+msgstr "Nun è un valuri nteru validu."
+
+msgid "Not a valid decimal value."
+msgstr "Nun è un valuri dicimali validu."
+
+msgid "Not a valid float value."
+msgstr "Nun è un valuri float validu."
+

@@ -1,0 +1,1041 @@
+# Translations for ET.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: et\n"
+"Language-Team: et <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Sellele lehele pääsemiseks logige sisse."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "See IMEI on juba süsteemis registreeritud."
+
+msgid "Accès non autorisé."
+msgstr "Volitamata juurdepääs."
+
+msgid "Appareil déverrouillé."
+msgstr "Seade on lukustamata."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Hoiatus loodud! Teatised saadetud."
+
+msgid "Alerte résolue."
+msgstr "Hoiatus lahendatud."
+
+msgid "Pas encore de compte ?"
+msgstr "Pole veel kontot?"
+
+msgid "Mon Profil"
+msgstr "Minu profiil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Ühendus õnnestus! Tere tulemast."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Vale e-posti aadress või parool."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Kõik nõutavad väljad tuleb täita."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Paroolid ei ühti."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Parool peab sisaldama vähemalt 6 tähemärki."
+
+msgid "Cet email est déjà utilisé."
+msgstr "See e-posti aadress on juba kasutusel."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Konto loomine õnnestus! Logi sisse."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Selle meiliga ei leitud ühtegi kontot."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Telefoninumber ei ühti kontonumbriga."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Uus parool on kohustuslik."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Parooli lähtestamine õnnestus! Logi sisse."
+
+msgid "Vous avez été déconnecté."
+msgstr "Teie ühendus on katkestatud."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Vajalik on kaubamärk, mudel ja IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Selle IMEI-ga seade on juba olemas."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Seade registreeriti edukalt!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Teil pole selle toimingu tegemiseks volitusi."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Seadme kauglukustus õnnestus."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Seade avati edukalt."
+
+msgid "Appareil supprimé."
+msgstr "Seade kustutatud."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Valige seade ja hoiatuse tüüp."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "See seade ei kuulu teile."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Hoiatus edastati edukalt. Seade on turvatud."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Hoiatus on märgitud lahendatuks."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Eesnimi, perekonnanimi ja e-posti aadress on kohustuslikud."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Seda e-posti aadressi kasutab juba teine ​​konto."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profiili värskendamine õnnestus!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Juurdepääs on reserveeritud administraatoritele."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Viga märgiti lahendatuks."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Te ei saa oma kontot kustutada."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Kasutaja kustutamine õnnestus."
+
+msgid "Administration"
+msgstr "Administreerimine"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Vargusvastase süsteemi tsentraliseeritud haldamine"
+
+msgid "Utilisateurs"
+msgstr "Kasutajad"
+
+msgid "Actifs aujourd'hui"
+msgstr "Täna aktiivne"
+
+msgid "Nouveaux ce mois"
+msgstr "Uus sel kuul"
+
+msgid "Appareils"
+msgstr "Seadmed"
+
+msgid "Alertes actives"
+msgstr "Aktiivsed hoiatused"
+
+msgid "Analytique"
+msgstr "Analüütiline"
+
+msgid "Journal d'activité"
+msgstr "Tegevuste logi"
+
+msgid "Erreurs"
+msgstr "Vead"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Ühendused (viimased 7 päeva)"
+
+msgid "Alertes par type"
+msgstr "Märguanded tüübi järgi"
+
+msgid "Appareils par opérateur"
+msgstr "Seadmed operaatori järgi"
+
+msgid "Résumé du système"
+msgstr "Süsteemi kokkuvõte"
+
+msgid "Utilisateurs total"
+msgstr "Kasutajaid kokku"
+
+msgid "Appareils enregistrés"
+msgstr "Registreeritud seadmed"
+
+msgid "Total alertes"
+msgstr "Märguandeid kokku"
+
+msgid "Alertes en cours"
+msgstr "Praegused hoiatused"
+
+msgid "Erreurs non résolues"
+msgstr "Lahendamata vead"
+
+msgid "Dernières activités"
+msgstr "Viimased tegevused"
+
+msgid "récentes"
+msgstr "hiljutine"
+
+msgid "Utilisateur"
+msgstr "Kasutaja"
+
+msgid "Action"
+msgstr "Tegevus"
+
+msgid "Détails"
+msgstr "Üksikasjad"
+
+msgid "Adresse IP"
+msgstr "IP-aadress"
+
+msgid "Navigateur"
+msgstr "Brauser"
+
+msgid "Date"
+msgstr "Kuupäev"
+
+msgid "Aucune activité"
+msgstr "Ei mingit tegevust"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Siin kuvatakse kasutajate tegevused."
+
+msgid "Journal d'erreurs"
+msgstr "Vealogi"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Kas parandada kõik vead?"
+
+msgid "Tout résoudre"
+msgstr "Lahenda kõik"
+
+msgid "non résolues"
+msgstr "lahendamata"
+
+msgid "Tout est résolu"
+msgstr "Kõik on lahendatud"
+
+msgid "Type"
+msgstr "Lahke"
+
+msgid "Description"
+msgstr "Kirjeldus"
+
+msgid "Statut"
+msgstr "Olek"
+
+msgid "Résolu"
+msgstr "Lahendatud"
+
+msgid "Non résolu"
+msgstr "Lahendamata"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Vigu pole salvestatud"
+
+msgid "Le système fonctionne correctement."
+msgstr "Süsteem töötab korralikult."
+
+msgid "Gestion des utilisateurs"
+msgstr "Kasutajate haldamine"
+
+msgid "comptes"
+msgstr "kontosid"
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "Téléphone"
+msgstr "Telefon"
+
+msgid "Rôle"
+msgstr "Roll"
+
+msgid "Inscrit le"
+msgstr "Registreeritud"
+
+msgid "Actions"
+msgstr "Tegevused"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Kas kustutada see kasutaja ja kõik tema seadmed?"
+
+msgid "Vous"
+msgstr "SINA"
+
+msgid "Connexions"
+msgstr "Ühendused"
+
+msgid "Vol"
+msgstr "Lend"
+
+msgid "Perte"
+msgstr "Kaotus"
+
+msgid "Anomalie"
+msgstr "Anomaalia"
+
+msgid "Alertes"
+msgstr "Märguanded"
+
+msgid "Gestion des alertes"
+msgstr "Hoiatuste haldamine"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Teatage vargusest või kadumisest ja jälgige ajalugu"
+
+msgid "Signaler un vol / perte"
+msgstr "Teatage vargusest/kaotusest"
+
+msgid "En cours"
+msgstr "Pooleli"
+
+msgid "Résolues"
+msgstr "Lahendatud"
+
+msgid "Historique des alertes"
+msgstr "Hoiatuste ajalugu"
+
+msgid "Appareil"
+msgstr "Seade"
+
+msgid "Priorité"
+msgstr "Prioriteet"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Kas märkida see hoiatus lahendatuks?"
+
+msgid "Résoudre"
+msgstr "Lahenda"
+
+msgid "Aucune alerte"
+msgstr "Hoiatust pole"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Hea uudis! Hoiatustest pole teatatud."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Teatage vargusest või kadumisest"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Vargusest teatades lukustatakse teie seade automaatselt ja saadetakse "
+"teateid."
+
+msgid "Appareil concerné"
+msgstr "Mõjutatud seade"
+
+msgid "Sélectionner un appareil"
+msgstr "Valige seade"
+
+msgid "Type d'alerte"
+msgstr "Hoiatuse tüüp"
+
+msgid "Décrivez les circonstances..."
+msgstr "Kirjeldage asjaolusid..."
+
+msgid "Annuler"
+msgstr "Tühista"
+
+msgid "Signaler"
+msgstr "Teata"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Intelligentne vargusvastane süsteem — nutitelefonide turvaplatvorm"
+
+msgid "Système Anti-Vol"
+msgstr "Vargusvastane süsteem"
+
+msgid "PRINCIPAL"
+msgstr "PEAMISED"
+
+msgid "Tableau de bord"
+msgstr "Armatuurlaud"
+
+msgid "SÉCURITÉ"
+msgstr "TURVALISUS"
+
+msgid "Géolocalisation"
+msgstr "Geolokatsioon"
+
+msgid "ADMINISTRATION"
+msgstr "MANUSTAMINE"
+
+msgid "Déconnexion"
+msgstr "Katkesta ühendus"
+
+msgid "Changer de langue"
+msgstr "Muuda keelt"
+
+msgid "Rechercher une langue..."
+msgstr "Otsi keelt..."
+
+msgid "Profil"
+msgstr "Profiil"
+
+msgid "Changer de thème"
+msgstr "Muuda teemat"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Teie seadme turvalisuse ülevaade"
+
+msgid "Ajouter un appareil"
+msgstr "Lisage seade"
+
+msgid "Appareils volés"
+msgstr "Varastatud seadmed"
+
+msgid "Verrouillés à distance"
+msgstr "Kauglukuga"
+
+msgid "Alertes récentes"
+msgstr "Viimased märguanded"
+
+msgid "Voir tout"
+msgstr "Vaata kõiki"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Hoiatust pole. Teie seadmed on ohutud!"
+
+msgid "Mes appareils"
+msgstr "Minu seadmed"
+
+msgid "Aucun appareil enregistré"
+msgstr "Ühtegi seadet pole registreeritud"
+
+msgid "Ajouter"
+msgstr "Lisa"
+
+msgid "en attente"
+msgstr "ootel"
+
+msgid "Gestion des appareils"
+msgstr "Seadmehaldus"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Registreerige ja hallake oma nutitelefone"
+
+msgid "Opérateur"
+msgstr "Operaator"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Kas lukustada see seade eemalt?"
+
+msgid "Verrouiller"
+msgstr "Lukk"
+
+msgid "Déverrouiller"
+msgstr "Avage lukustus"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Kas kustutada see seade?"
+
+msgid "Supprimer"
+msgstr "KUSTUTA"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Selle kaitsmise alustamiseks lisage oma esimene nutitelefon."
+
+msgid "Nouvel appareil"
+msgstr "Uus seade"
+
+msgid "Marque"
+msgstr "Kaubamärk"
+
+msgid "Sélectionner"
+msgstr "Valige"
+
+msgid "Autre"
+msgstr "muud"
+
+msgid "Modèle"
+msgstr "Mudel"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "tippige oma telefoni *#06#"
+
+msgid "Système d'exploitation"
+msgstr "Operatsioonisüsteem"
+
+msgid "Numéro de téléphone"
+msgstr "Telefoninumber"
+
+msgid "Enregistrer"
+msgstr "Salvesta"
+
+msgid "Connexion"
+msgstr "Ühendus"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Nutitelefoni turvasüsteem"
+
+msgid "Adresse email"
+msgstr "E-posti aadress"
+
+msgid "Mot de passe"
+msgstr "Parool"
+
+msgid "Se connecter"
+msgstr "Logi sisse"
+
+msgid "Mot de passe oublié ?"
+msgstr "Unustasid salasõna?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Kas teil on juba konto? Vastasel juhul jätkake oma konto loomisega!"
+
+msgid "Créer un compte"
+msgstr "Loo konto"
+
+msgid "Sécurité maximale"
+msgstr "Maksimaalne turvalisus"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Kaitske oma isikuandmeid kauglukustuse abil"
+
+msgid "Localisation GPS"
+msgstr "GPS asukoht"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Leidke oma nutitelefoni täpne asukoht reaalajas"
+
+msgid "Alertes instantanées"
+msgstr "Kiirhoiatused"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Saate varguse korral SMS-i, e-posti ja push-teateid"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Leidke oma seadmed ja visualiseerige riskipiirkonnad"
+
+msgid "Aucun appareil"
+msgstr "Seade puudub"
+
+msgid "Zones à risque"
+msgstr "Riskipiirkonnad"
+
+msgid "incidents"
+msgstr "juhtumid"
+
+msgid "Aucune zone signalée"
+msgstr "Ühtegi piirkonda ei teatatud"
+
+msgid "Niveau"
+msgstr "Tase"
+
+msgid "Incidents"
+msgstr "Juhtumid"
+
+msgid "Profile utilisateur"
+msgstr "Kasutajaprofiil"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Hallake oma isikuandmeid"
+
+msgid "Membre depuis"
+msgstr "liige alates"
+
+msgid "Modifier mes informations"
+msgstr "Muutke minu teavet"
+
+msgid "Prénom"
+msgstr "Eesnimi"
+
+msgid "Nom"
+msgstr "Nimi"
+
+msgid "Changer le mot de passe"
+msgstr "Muuda parooli"
+
+msgid "Nouveau mot de passe"
+msgstr "Uus parool"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "jätke tühjaks, et mitte muutuda"
+
+msgid "Enregistrer les modifications"
+msgstr "Salvestage muudatused"
+
+msgid "Inscription"
+msgstr "Registreerimine"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Tere tulemast Anti-Theft'i oma seadmete paremaks turvalisuseks"
+
+msgid "Confirmer"
+msgstr "Kinnita"
+
+msgid "Créer mon compte"
+msgstr "Loo minu konto"
+
+msgid "Déjà un compte ?"
+msgstr "Kas teil on juba konto?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Lähtestage parool"
+
+msgid "Réinitialisation"
+msgstr "Lähtesta"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Sisestage oma identiteedi kinnitamiseks oma e-posti aadress ja "
+"telefoninumber"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Registreerimisel kasutatud number"
+
+msgid "Minimum 6 caractères"
+msgstr "Vähemalt 6 tähemärki"
+
+msgid "Confirmer le mot de passe"
+msgstr "Kinnitage parool"
+
+msgid "Retourner à la"
+msgstr "Tagasi"
+
+msgid "page de connexion"
+msgstr "sisselogimisleht"
+
+msgid "Vérification sécurisée"
+msgstr "Turvaline kinnitamine"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Teie identiteeti kinnitatakse teie e-posti ja telefoninumbri abil"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Valige turvaline parool, mis koosneb vähemalt 6 tähemärgist"
+
+msgid "d"
+msgstr "d."
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: muutmine ebaõnnestus"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: muutmine ebaõnnestus: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windowsi viga: {error}"
+
+msgid "deprecated"
+msgstr "aegunud"
+
+msgid "Options"
+msgstr "Valikud"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Sai ootamatu lisaargumendi ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Tuginemise hoiatus: käsk {name!r} on aegunud.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Katkestatud!"
+
+msgid "Commands"
+msgstr "Käsud"
+
+msgid "Missing command."
+msgstr "Käsk puudub."
+
+msgid "Value must be an iterable."
+msgstr "Väärtus peab olema itereeritav."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Võtab väärtused {nargs}, kuid anti 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Tuginemise hoiatus. Parameetri {param_type} {name!r} tugi on "
+"aegunud.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Nimi „{name}” on määratletud kaks korda"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Tõeväärtuse valik {decl!r} ei saa kasutada tõese/väärsuse jaoks sama "
+"lippu."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Deklaratsioonidega {decls!r} valiku nime ei õnnestunud määrata"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Valikud pole määratud, kuid nimi anti edasi ({name}). Kas tahtsite selle "
+"asemel väita? Kas tahtsite mööduda nimest „--{name}”?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var env: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "vaikimisi: {default}"
+
+msgid "required"
+msgstr "nõutud"
+
+msgid "(dynamic)"
+msgstr "(dünaamiline)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumendid võtavad täpselt ühe parameetri deklaratsiooni, said {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Kas soovite jätkata?"
+
+msgid "Confirm the action without prompting."
+msgstr "Kinnitage toiming ilma viipata."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, versioon %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Näita versiooni ja välju."
+
+msgid "Show this message and exit."
+msgstr "Näita seda teadet ja välju."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Kas mõtlesite {ossibility}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Viga: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Abi saamiseks proovige käsku „{command} {option}”."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Kehtetu väärtus: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Kehtetu väärtus {param_hint} jaoks: {message}"
+
+msgid "Missing argument"
+msgstr "Puuduv argument"
+
+msgid "Missing option"
+msgstr "Variant puudub"
+
+msgid "Missing parameter"
+msgstr "Parameeter puudub"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Puudub {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Puuduv parameeter: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Sellist valikut {name!r} pole."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Sellist käsku {name!r} pole."
+
+msgid "unknown error"
+msgstr "tundmatu viga"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Faili {filename!r} ei saanud avada: {message}"
+
+msgid "Usage:"
+msgstr "Kasuta:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Valiku ({option}) algusmärk on kehtetu"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argument {name!r} võtab {nargs} väärtust."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Valik {name!r} ei võta väärtust."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Valik {name!r} nõuab argumenti."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Shelli lõpetamist ei toetata Bashi versioonide puhul, mis on vanemad kui "
+"4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Bashi versiooni ei õnnestunud tuvastada, kesta lõpetamist ei toetata."
+
+msgid "Repeat for confirmation"
+msgstr "Kinnitamiseks korrake"
+
+msgid "Error: The two entered values do not match."
+msgstr "Viga: kaks sisestatud väärtust ei ühti."
+
+msgid "Error: invalid input"
+msgstr "Viga: vale sisend"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Tundmatu värv {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Jätkamiseks vajutage suvalist klahvi..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Valige järgmiste hulgast:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} ei ole {valik}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "valik ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ei vasta vormingule {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ei ole kehtiv {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} ei ole vahemikus {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ei ole kehtiv tõeväärtus. Tunnustatud väärtused: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ei ole kehtiv UUID."
+
+msgid "file"
+msgstr "faili"
+
+msgid "directory"
+msgstr "kataloog"
+
+msgid "path"
+msgstr "tee"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} pole olemas."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} on fail."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} on kataloog."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} ei ole loetav."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} ei ole kirjutatav."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} ei ole käivitatav."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Väärtused {len_type} on kohustuslikud, kuid anti {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Tundmatu standardne voog „{name}”"
+
+msgid "This field is required."
+msgstr "See väli on kohustuslik."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Failil pole kinnitatud laiendit: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Failil pole kinnitatud laiendit."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Fail peab olema vahemikus {min_size} kuni {max_size} baiti."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Vale välja nimi '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Väli peab olema võrdne %(muu_nimi)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Väli peab olema vähemalt %(min)d tähemärki pikk."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Väli ei tohi olla pikem kui %(max)d tähemärki."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Väli peab olema täpselt %(max)d tähemärki pikk."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Väli peab olema %(min)d kuni %(max)d tähemärki pikk."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Arv peab olema vähemalt %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Arv peab olema kuni %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Arv peab jääma %(min)s ja %(max)s vahele."
+
+msgid "Invalid input."
+msgstr "Vale sisend."
+
+msgid "Invalid email address."
+msgstr "Vale e-posti aadress."
+
+msgid "Invalid IP address."
+msgstr "Vale IP-aadress."
+
+msgid "Invalid Mac address."
+msgstr "Vale Maci aadress."
+
+msgid "Invalid URL."
+msgstr "Kehtetu URL."
+
+msgid "Invalid UUID."
+msgstr "Kehtetu UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Kehtetu väärtus, peab olema üks järgmistest: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Vale väärtus, ei saa olla ükski järgmistest: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Seda välja ei saa muuta."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "See väli on keelatud ja sellel ei saa olla väärtust."
+
+msgid "Invalid CSRF Token."
+msgstr "Kehtetu CSRF-i tunnus."
+
+msgid "CSRF token missing."
+msgstr "CSRF-i tunnus puudub."
+
+msgid "CSRF failed."
+msgstr "CSRF ebaõnnestus."
+
+msgid "CSRF token expired."
+msgstr "CSRF-i luba aegus."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Vale valik: ei saanud sundida."
+
+msgid "Choices cannot be None."
+msgstr "Valikud ei saa olla Puuduvad."
+
+msgid "Not a valid choice."
+msgstr "Pole õige valik."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Valed valikud: ühte või mitut andmesisendit ei saanud sundida."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "„%(value)s” ei ole selle välja jaoks sobiv valik."
+
+msgid "Not a valid datetime value."
+msgstr "Pole kehtiv kuupäeva ja aja väärtus."
+
+msgid "Not a valid date value."
+msgstr "Ei ole kehtiv kuupäeva väärtus."
+
+msgid "Not a valid time value."
+msgstr "Ei ole kehtiv ajaväärtus."
+
+msgid "Not a valid week value."
+msgstr "Ei ole kehtiv nädala väärtus."
+
+msgid "Not a valid integer value."
+msgstr "Ei ole kehtiv täisarv."
+
+msgid "Not a valid decimal value."
+msgstr "Ei ole kehtiv kümnendväärtus."
+
+msgid "Not a valid float value."
+msgstr "Ei ole kehtiv ujuvväärtus."
+

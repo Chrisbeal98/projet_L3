@@ -1,0 +1,1038 @@
+# Translations for JW.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: jw\n"
+"Language-Team: jw <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Mangga mlebu log kanggo ngakses kaca iki."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "IMEI iki wis kadhaptar ing sistem."
+
+msgid "Accès non autorisé."
+msgstr "Akses ora sah."
+
+msgid "Appareil déverrouillé."
+msgstr "Piranti ora dikunci."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Tandha digawe! Kabar dikirim."
+
+msgid "Alerte résolue."
+msgstr "Tandha ditanggulangi."
+
+msgid "Pas encore de compte ?"
+msgstr "Durung akun?"
+
+msgid "Mon Profil"
+msgstr "Profil Kula"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Sambungan sukses! Sugeng rawuh."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email utawa sandhi sing salah."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Kabeh kolom sing dibutuhake kudu rampung."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Tembung sandhi ora cocog."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Tembung sandhi kudu ngemot paling ora 6 karakter."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Email iki wis digunakake."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Akun digawe kanthi sukses! mlebu log."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Ora ana akun sing ditemokake karo email iki."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Nomer telpon ora cocog karo nomer akun."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Sandi anyar iku wajib."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Kasil ngreset tembung sandhi! mlebu log."
+
+msgid "Vous avez été déconnecté."
+msgstr "Sampeyan wis pedhot."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Brand, model lan IMEI dibutuhake."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Piranti nganggo IMEI iki wis ana."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Piranti kadhaftar kasil!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Sampeyan ora duwe wewenang kanggo nindakake tumindak iki."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Piranti kasil dikunci saka adoh."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Piranti kasil mbukak kunci."
+
+msgid "Appareil supprimé."
+msgstr "Piranti dibusak."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Pilih piranti lan jinis tandha."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Piranti iki dudu duweke sampeyan."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Lansiran dilaporake kanthi sukses. Piranti kasebut wis diamanake."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Tandha ditandhani minangka ditanggulangi."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Jeneng ngarep, jeneng mburi lan email dibutuhake."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Email iki wis digunakake dening akun liyane."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil dianyari kanthi sukses!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Akses dilindhungi undhang-undhang kanggo administrator."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Kesalahan ditandhani minangka ditanggulangi."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Sampeyan ora bisa mbusak akun sampeyan dhewe."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Panganggo kasil dibusak."
+
+msgid "Administration"
+msgstr "Administrasi"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Manajemen terpusat saka sistem Anti-Theft"
+
+msgid "Utilisateurs"
+msgstr "Pangguna"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktif dina iki"
+
+msgid "Nouveaux ce mois"
+msgstr "Anyar sasi iki"
+
+msgid "Appareils"
+msgstr "Piranti"
+
+msgid "Alertes actives"
+msgstr "Tandha aktif"
+
+msgid "Analytique"
+msgstr "Analitik"
+
+msgid "Journal d'activité"
+msgstr "Log kegiatan"
+
+msgid "Erreurs"
+msgstr "Kasalahan"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Sambungan (7 dina pungkasan)"
+
+msgid "Alertes par type"
+msgstr "Tandha miturut jinis"
+
+msgid "Appareils par opérateur"
+msgstr "Piranti dening operator"
+
+msgid "Résumé du système"
+msgstr "Ringkesan Sistem"
+
+msgid "Utilisateurs total"
+msgstr "Total kedhaftar"
+
+msgid "Appareils enregistrés"
+msgstr "Piranti sing kadhaptar"
+
+msgid "Total alertes"
+msgstr "Total tandha"
+
+msgid "Alertes en cours"
+msgstr "Tandha saiki"
+
+msgid "Erreurs non résolues"
+msgstr "Kesalahan sing ora ditanggulangi"
+
+msgid "Dernières activités"
+msgstr "Aktivitas paling anyar"
+
+msgid "récentes"
+msgstr "bubar"
+
+msgid "Utilisateur"
+msgstr "panganggo"
+
+msgid "Action"
+msgstr "Tumindak"
+
+msgid "Détails"
+msgstr "Rincian"
+
+msgid "Adresse IP"
+msgstr "alamat IP"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Tanggal"
+
+msgid "Aucune activité"
+msgstr "Ora ana kegiatan"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Aktivitas pangguna bakal katon ing kene."
+
+msgid "Journal d'erreurs"
+msgstr "Log kesalahan"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Ndandani kabeh kesalahan?"
+
+msgid "Tout résoudre"
+msgstr "Ngatasi kabeh"
+
+msgid "non résolues"
+msgstr "ora ditanggulangi"
+
+msgid "Tout est résolu"
+msgstr "Kabeh wis ditanggulangi"
+
+msgid "Type"
+msgstr "jenis"
+
+msgid "Description"
+msgstr "Katrangan"
+
+msgid "Statut"
+msgstr "Status"
+
+msgid "Résolu"
+msgstr "ditanggulangi"
+
+msgid "Non résolu"
+msgstr "Ora ditanggulangi"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Ora ana kesalahan sing direkam"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sistem mlaku kanthi bener."
+
+msgid "Gestion des utilisateurs"
+msgstr "Manajemen pangguna"
+
+msgid "comptes"
+msgstr "akun"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telpon"
+
+msgid "Rôle"
+msgstr "peran"
+
+msgid "Inscrit le"
+msgstr "Kadhaftar ing"
+
+msgid "Actions"
+msgstr "Tumindak"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Mbusak pangguna iki lan kabeh piranti?"
+
+msgid "Vous"
+msgstr "KOWE"
+
+msgid "Connexions"
+msgstr "Sambungan"
+
+msgid "Vol"
+msgstr "Penerbangan"
+
+msgid "Perte"
+msgstr "mundhut"
+
+msgid "Anomalie"
+msgstr "Anomali"
+
+msgid "Alertes"
+msgstr "Tandha"
+
+msgid "Gestion des alertes"
+msgstr "Manajemen tandha"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Laporan nyolong utawa mundhut lan riwayat trek"
+
+msgid "Signaler un vol / perte"
+msgstr "Laporan nyolong / mundhut"
+
+msgid "En cours"
+msgstr "Ing proses"
+
+msgid "Résolues"
+msgstr "ditanggulangi"
+
+msgid "Historique des alertes"
+msgstr "Riwayat Tandha"
+
+msgid "Appareil"
+msgstr "piranti"
+
+msgid "Priorité"
+msgstr "Prioritas"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Tandhani tandha iki wis rampung?"
+
+msgid "Résoudre"
+msgstr "Ngatasi"
+
+msgid "Aucune alerte"
+msgstr "Ora waspada"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Kabar apik! Ora ana tandha sing dilaporake."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Laporan nyolong utawa mundhut"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Kanthi nglaporake maling, piranti bakal dikunci kanthi otomatis lan kabar"
+" bakal dikirim."
+
+msgid "Appareil concerné"
+msgstr "Piranti sing kena pengaruh"
+
+msgid "Sélectionner un appareil"
+msgstr "Pilih piranti"
+
+msgid "Type d'alerte"
+msgstr "Jinis tandha"
+
+msgid "Décrivez les circonstances..."
+msgstr "Tulisen kahanan..."
+
+msgid "Annuler"
+msgstr "Batal"
+
+msgid "Signaler"
+msgstr "Laporan"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Sistem Anti-Theft Intelligent - Platform keamanan kanggo smartphone"
+
+msgid "Système Anti-Vol"
+msgstr "Sistem Anti Maling"
+
+msgid "PRINCIPAL"
+msgstr "UTAMA"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "KEAMANAN"
+
+msgid "Géolocalisation"
+msgstr "Geolokasi"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRASI"
+
+msgid "Déconnexion"
+msgstr "Pedhot"
+
+msgid "Changer de langue"
+msgstr "Ganti basa"
+
+msgid "Rechercher une langue..."
+msgstr "Telusuri basa..."
+
+msgid "Profil"
+msgstr "Profile"
+
+msgid "Changer de thème"
+msgstr "Ngganti tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Ringkesan keamanan piranti sampeyan"
+
+msgid "Ajouter un appareil"
+msgstr "Tambah piranti"
+
+msgid "Appareils volés"
+msgstr "Piranti sing dicolong"
+
+msgid "Verrouillés à distance"
+msgstr "Dikunci adoh"
+
+msgid "Alertes récentes"
+msgstr "Tandha anyar"
+
+msgid "Voir tout"
+msgstr "Deleng kabeh"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Ora waspada. Piranti sampeyan aman!"
+
+msgid "Mes appareils"
+msgstr "Pirantiku"
+
+msgid "Aucun appareil enregistré"
+msgstr "Ora ana piranti sing kadhaptar"
+
+msgid "Ajouter"
+msgstr "Tambah"
+
+msgid "en attente"
+msgstr "ditahan"
+
+msgid "Gestion des appareils"
+msgstr "Manajemen piranti"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Ndhaptar lan atur smartphone sampeyan"
+
+msgid "Opérateur"
+msgstr "Operator"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Ngunci piranti iki saka adoh?"
+
+msgid "Verrouiller"
+msgstr "Kunci"
+
+msgid "Déverrouiller"
+msgstr "Mbukak kunci"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Busak piranti iki?"
+
+msgid "Supprimer"
+msgstr "Mbusak"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Tambah smartphone pisanan sampeyan kanggo miwiti nglindhungi."
+
+msgid "Nouvel appareil"
+msgstr "Piranti anyar"
+
+msgid "Marque"
+msgstr "Merk"
+
+msgid "Sélectionner"
+msgstr "Pilih"
+
+msgid "Autre"
+msgstr "Liyane"
+
+msgid "Modèle"
+msgstr "Model"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "ketik *#06# ing telpon"
+
+msgid "Système d'exploitation"
+msgstr "Sistem operasi"
+
+msgid "Numéro de téléphone"
+msgstr "nomer telpon"
+
+msgid "Enregistrer"
+msgstr "Simpen"
+
+msgid "Connexion"
+msgstr "Sambungan"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistem keamanan smartphone"
+
+msgid "Adresse email"
+msgstr "alamat e-mail"
+
+msgid "Mot de passe"
+msgstr "Sandi"
+
+msgid "Se connecter"
+msgstr "mlebu log"
+
+msgid "Mot de passe oublié ?"
+msgstr "Kelalen sandi?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Apa sampeyan wis duwe akun? Yen ora, nerusake nggawe akun!"
+
+msgid "Créer un compte"
+msgstr "Nggawe akun"
+
+msgid "Sécurité maximale"
+msgstr "keamanan maksimum"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Jaga data pribadhi kanthi ngunci remot"
+
+msgid "Localisation GPS"
+msgstr "lokasi GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Temokake lokasi pas smartphone sampeyan ing wektu nyata"
+
+msgid "Alertes instantanées"
+msgstr "Tandha cepet"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Nampa SMS, email lan kabar push yen ana maling"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Temokake piranti sampeyan lan gambarake area resiko"
+
+msgid "Aucun appareil"
+msgstr "Ora ana piranti"
+
+msgid "Zones à risque"
+msgstr "Area risiko"
+
+msgid "incidents"
+msgstr "prastawa"
+
+msgid "Aucune zone signalée"
+msgstr "Ora ana wilayah sing dilaporake"
+
+msgid "Niveau"
+msgstr "tingkat"
+
+msgid "Incidents"
+msgstr "Kedadeyan"
+
+msgid "Profile utilisateur"
+msgstr "profil panganggo"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Ngatur informasi pribadhi"
+
+msgid "Membre depuis"
+msgstr "Anggota wiwit"
+
+msgid "Modifier mes informations"
+msgstr "Sunting informasiku"
+
+msgid "Prénom"
+msgstr "Jeneng ngarep"
+
+msgid "Nom"
+msgstr "jeneng"
+
+msgid "Changer le mot de passe"
+msgstr "Ganti tembung sandhi"
+
+msgid "Nouveau mot de passe"
+msgstr "Sandi Anyar"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "kosongake supaya ora owah"
+
+msgid "Enregistrer les modifications"
+msgstr "Simpen owah-owahan"
+
+msgid "Inscription"
+msgstr "Registrasi"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Sugeng rawuh ing Anti-Theft kanggo keamanan piranti sing luwih apik"
+
+msgid "Confirmer"
+msgstr "Konfirmasi"
+
+msgid "Créer mon compte"
+msgstr "Gawe akunku"
+
+msgid "Déjà un compte ?"
+msgstr "Wis duwe akun?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Reset Sandi"
+
+msgid "Réinitialisation"
+msgstr "Reset"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Ketik email lan nomer telpon kanggo verifikasi identitas sampeyan"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Nomer sing digunakake nalika registrasi"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimal 6 karakter"
+
+msgid "Confirmer le mot de passe"
+msgstr "Konfirmasi sandhi"
+
+msgid "Retourner à la"
+msgstr "Bali menyang"
+
+msgid "page de connexion"
+msgstr "kaca mlebu"
+
+msgid "Vérification sécurisée"
+msgstr "Verifikasi aman"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Identitas sampeyan wis diverifikasi nggunakake email lan nomer telpon"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Pilih sandhi sing aman minimal 6 karakter"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Panyuntingan gagal"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Panyuntingan gagal: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Kesalahan Windows: {error}"
+
+msgid "deprecated"
+msgstr "ditinggalake"
+
+msgid "Options"
+msgstr "Pilihan"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Duwe argumen tambahan sing ora dikarepke ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Printah {name!r} ora digunakake.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Digugu!"
+
+msgid "Commands"
+msgstr "dhawuh"
+
+msgid "Missing command."
+msgstr "Ilang prentah."
+
+msgid "Value must be an iterable."
+msgstr "Nilai kudu iterable."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Njupuk {nargs} nilai nanging 1 diwenehi."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"DeprecationWarning: {param_type} {name!r} wis ora "
+"digunakake.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Jeneng '{name}' ditetepake kaping pindho"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Opsi Boolean {decl!r} ora bisa nggunakake gendera sing padha kanggo "
+"bener/salah."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Ora bisa nemtokake jeneng opsi kanthi pranyatan {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Ora ana opsi sing ditetepake nanging ana jeneng sing diwarisake "
+"({jeneng}). Apa sampeyan pengin ngumumake argumentasi? Apa sampeyan "
+"pengin ngliwati '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "standar: {standar}"
+
+msgid "required"
+msgstr "dibutuhake"
+
+msgid "(dynamic)"
+msgstr "(dinamis)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Argumen njupuk persis siji deklarasi parameter, entuk {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Apa sampeyan pengin nerusake?"
+
+msgid "Confirm the action without prompting."
+msgstr "Konfirmasi tumindak tanpa njaluk."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, versi %(versi)s"
+
+msgid "Show the version and exit."
+msgstr "Tampilake versi lan metu."
+
+msgid "Show this message and exit."
+msgstr "Tampilake pesen iki lan metu."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Maksudmu {kemungkinan}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Kesalahan: {pesen}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Coba '{command} {option}' kanggo bantuan."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Nilai ora valid: {pesen}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Nilai ora sah kanggo {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Argumentasi ilang"
+
+msgid "Missing option"
+msgstr "Pilihan sing ilang"
+
+msgid "Missing parameter"
+msgstr "Parameter sing ilang"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Ora ana {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parameter ilang: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Ora ana pilihan {jeneng!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Ora ana prentah {jeneng!r}."
+
+msgid "unknown error"
+msgstr "kesalahan dingerteni"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Ora bisa mbukak file {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Gunakake:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Karakter wiwitan ora sah kanggo opsi ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumen {name!r} njupuk {nargs} nilai."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Pilihan {name!r} ora njupuk nilai."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Opsi {name!r} mbutuhake argumentasi."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Rampung cangkang ora didhukung kanggo versi Bash sing luwih lawas "
+"tinimbang 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Ora bisa ndeteksi versi Bash, shell completion ora didhukung."
+
+msgid "Repeat for confirmation"
+msgstr "Baleni kanggo konfirmasi"
+
+msgid "Error: The two entered values do not match."
+msgstr "Kesalahan: Nilai loro sing diketik ora cocog."
+
+msgid "Error: invalid input"
+msgstr "Error: input ora bener"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Werna ora dingerteni {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Pencet sembarang tombol kanggo nerusake..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Pilih saka:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} dudu {pilihan}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Pilihan ({pilihan})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ora cocog karo format {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} dudu {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} ora ana ing kisaran {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} dudu boolean sing bener. Nilai sing diakoni: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} dudu UUID sing sah."
+
+msgid "file"
+msgstr "berkas"
+
+msgid "directory"
+msgstr "direktori"
+
+msgid "path"
+msgstr "dalan"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{jeneng} {jeneng berkas!r} ora ana."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} iku sawijining berkas."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} iku sawijining direktori."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} ora bisa diwaca."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} ora bisa ditulis."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} ora bisa dieksekusi."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Nilai {len_type} dibutuhake, nanging {len_value} diwenehi."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Aliran standar sing ora dingerteni '{name}'"
+
+msgid "This field is required."
+msgstr "Lapangan iki dibutuhake."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "File ora duwe ekstensi sing disetujoni: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "File ora duwe ekstensi sing disetujoni."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Berkas kudu antarane {min_size} lan {max_size} bita."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Jeneng kolom '%s' ora valid."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Kolom kudu padha karo %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Lapangan kudu paling sethithik %(min)d karakter."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Kolom ora bisa luwih saka %(maks)d karakter."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Lapangan kudu persis %(maks)d karakter dawa."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Lapangan kudu antarane %(min)d lan %(maks)d karakter."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Jumlah kudu paling sethithik %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Nomer kudu paling akeh %(maks)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Jumlah kudu antarane %(min)s lan %(maks)s."
+
+msgid "Invalid input."
+msgstr "Input ora sah."
+
+msgid "Invalid email address."
+msgstr "Alamat email ora sah."
+
+msgid "Invalid IP address."
+msgstr "Alamat IP ora sah."
+
+msgid "Invalid Mac address."
+msgstr "Alamat Mac ora bener."
+
+msgid "Invalid URL."
+msgstr "URL ora valid."
+
+msgid "Invalid UUID."
+msgstr "UUID ora valid."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Nilai ora valid, kudu salah siji saka: %(nilai)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Nilai ora valid, ora bisa dadi: %(nilai)s."
+
+msgid "This field cannot be edited."
+msgstr "Bidang iki ora bisa diowahi."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Lapangan iki dipatèni lan ora bisa duwe nilai."
+
+msgid "Invalid CSRF Token."
+msgstr "Token CSRF ora sah."
+
+msgid "CSRF token missing."
+msgstr "Token CSRF ilang."
+
+msgid "CSRF failed."
+msgstr "CSRF gagal."
+
+msgid "CSRF token expired."
+msgstr "Token CSRF kadaluwarsa."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Pilihan ora sah: ora bisa meksa."
+
+msgid "Choices cannot be None."
+msgstr "Pilihan ora bisa None."
+
+msgid "Not a valid choice."
+msgstr "Ora pilihan sing bener."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Pilihan ora bener: siji utawa luwih input data ora bisa dipeksa."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' dudu pilihan sing bener kanggo kolom iki."
+
+msgid "Not a valid datetime value."
+msgstr "Ora nilai datetime bener."
+
+msgid "Not a valid date value."
+msgstr "Ora nilai tanggal bener."
+
+msgid "Not a valid time value."
+msgstr "Ora nilai wektu sing bener."
+
+msgid "Not a valid week value."
+msgstr "Ora regane minggu sing bener."
+
+msgid "Not a valid integer value."
+msgstr "Ora nilai integer sing bener."
+
+msgid "Not a valid decimal value."
+msgstr "Ora angka desimal sing bener."
+
+msgid "Not a valid float value."
+msgstr "Ora nilai float sing bener."
+

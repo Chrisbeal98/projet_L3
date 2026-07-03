@@ -1,0 +1,1038 @@
+# Translations for AK.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ak\n"
+"Language-Team: ak <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, nkyerɛaseɛ %(nkyerɛaseɛ)s"
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' nyɛ paw a ɛfata ma saa afuw yi."
+
+msgid "(dynamic)"
+msgstr "(dynamic) ."
+
+msgid "ADMINISTRATION"
+msgstr "ADWUMA A WƆDE DI DWUMA"
+
+msgid "Aborted!"
+msgstr "Wɔayi nyinsɛn agu!"
+
+msgid "Accès non autorisé."
+msgstr "Wɔn a wɔmma ho kwan sɛ wɔbɛkɔ hɔ."
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Wɔde kwan a wɔfa so kɔ hɔ no asie ama adwuma so ahwɛfo."
+
+msgid "Actifs aujourd'hui"
+msgstr "Yɛ nnam nnɛ"
+
+msgid "Action"
+msgstr "Anamɔntuo"
+
+msgid "Actions"
+msgstr "Nneyɛe a wɔyɛ"
+
+msgid "Administration"
+msgstr "Adwumayɛ ho nhyehyɛe"
+
+msgid "Adresse IP"
+msgstr "IP address a ɛwɔ hɔ"
+
+msgid "Adresse email"
+msgstr "E-mail address a wɔde mena"
+
+msgid "Ajouter"
+msgstr "Fa ka ho"
+
+msgid "Ajouter un appareil"
+msgstr "Fa afiri bi ka ho"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Fa wo smartphone a edi kan no ka ho na fi ase bɔ ho ban."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Wɔabɔ kɔkɔbɔ! Amanneɛbɔ ahorow a wɔde mena."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alert a wɔahyɛ no agyirae sɛ wɔasiesie."
+
+msgid "Alerte résolue."
+msgstr "Alert a wɔasiesie."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert bɔɔ amanneɛ yiye. Wɔabɔ afiri no ho ban."
+
+msgid "Alertes"
+msgstr "Kɔkɔbɔ ahorow"
+
+msgid "Alertes actives"
+msgstr "Kɔkɔbɔ ahorow a ɛyɛ nnam"
+
+msgid "Alertes en cours"
+msgstr "Mprempren kɔkɔbɔ ahorow"
+
+msgid "Alertes instantanées"
+msgstr "Kɔkɔbɔ a wɔde ma ntɛm ara"
+
+msgid "Alertes par type"
+msgstr "Kɔkɔbɔ ahorow denam type so"
+
+msgid "Alertes récentes"
+msgstr "Nnansa yi kɔkɔbɔ ahorow"
+
+msgid "Analytique"
+msgstr "Nhwehwɛmu a wɔyɛ"
+
+msgid "Annuler"
+msgstr "Twam"
+
+msgid "Anomalie"
+msgstr "Anomaly a ɛyɛ nea ɛnteɛ"
+
+msgid "Appareil"
+msgstr "Afidie"
+
+msgid "Appareil concerné"
+msgstr "Mfiri a ɛka ho"
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Device no buee yiye."
+
+msgid "Appareil déverrouillé."
+msgstr "Mfiri a wɔabue ano."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Device a wɔkyerɛw wɔn din yiye!"
+
+msgid "Appareil supprimé."
+msgstr "Wɔapopa mfiri no."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Device remotely locked yiye."
+
+msgid "Appareils"
+msgstr "Mfiri a Wɔde Yɛ Adwuma"
+
+msgid "Appareils enregistrés"
+msgstr "Mfiri a wɔakyerɛw din wɔ so"
+
+msgid "Appareils par opérateur"
+msgstr "Mfiri a wɔde di dwuma denam nea ɔde di dwuma so"
+
+msgid "Appareils volés"
+msgstr "Mfiri a wɔawia"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Akyinnyegye {din!r} gye {nargs} botae ahorow."
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Akyinnyegye gye parameter mpaemuka biako pɛpɛɛpɛ, nyaa {length}: {decls}."
+
+msgid "Aucun appareil"
+msgstr "Mfiri biara nni hɔ"
+
+msgid "Aucun appareil enregistré"
+msgstr "Mfiri biara nni hɔ a wɔakyerɛw din"
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Wonhuu akontaabu biara a ɛwɔ saa email yi mu."
+
+msgid "Aucune activité"
+msgstr "Dwumadi biara nni hɔ"
+
+msgid "Aucune alerte"
+msgstr "Kɔkɔbɔ biara nni hɔ"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Kɔkɔbɔ biara nni hɔ. Wo mfiri ahorow no yɛ nea ahobammɔ wom!"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Wɔankyerɛw mfomso biara"
+
+msgid "Aucune zone signalée"
+msgstr "Wɔammɔ mmeae biara ho amanneɛ"
+
+msgid "Autre"
+msgstr "Foforɔ"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "So wowɔ akontaabu dedaw? Sɛ ɛnte saa a, kɔ so yɛ wo akontaabu no!"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"Yɛma wo akwaaba ba Anti-Theft na ama woanya ahobammɔ a eye wɔ wo mfiri "
+"ahorow ho"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Asɛmpa! Wɔmmɔ kɔkɔbɔ biara ho amanneɛ."
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Boolean option {decl!r} ntumi mfa frankaa koro no ara nni dwuma mma "
+"nokware/atoro."
+
+msgid "CSRF failed."
+msgstr "CSRF no dii nkogu."
+
+msgid "CSRF token expired."
+msgstr "CSRF token no twaam."
+
+msgid "CSRF token missing."
+msgstr "CSRF token no nni hɔ."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Wɔakyerɛw saa IMEI yi din wɔ nhyehyɛe no mu dedaw."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Saa mfiri yi nyɛ wo dea."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Saa email yi, akontaabu foforo de adi dwuma dedaw."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Wɔde saa email yi redi dwuma dedaw."
+
+msgid "Changer de langue"
+msgstr "Sesa kasa"
+
+msgid "Changer de thème"
+msgstr "Sesa asɛmti no"
+
+msgid "Changer le mot de passe"
+msgstr "Sesa password no"
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Paw({paw ahorow}) ."
+
+msgid "Choices cannot be None."
+msgstr "Nneɛma a wɔpaw no ntumi nyɛ Obiara nni hɔ."
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Paw password a ahobammɔ wom a anyɛ yiye koraa no ɛwɔ nkyerɛwde 6"
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Paw fi:\\n\\t{paw ahorow}."
+
+msgid "Commands"
+msgstr "Ahyɛde ahorow"
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Wɔayɛ akontaabu no yiye! Kɔ mu."
+
+msgid "Confirm the action without prompting."
+msgstr "Si adeyɛ no so dua a wonhyɛ no nkuran."
+
+msgid "Confirmer"
+msgstr "Si pi"
+
+msgid "Confirmer le mot de passe"
+msgstr "Si password no so dua"
+
+msgid "Connexion"
+msgstr "Nkitahodi a ɛwɔ hɔ"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Nkitahodi no di yiye! Akwaaba."
+
+msgid "Connexions"
+msgstr "Nkitahodi ahorow"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Nkitahodi (nnafua 7 a atwam) ."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Entumi nkyerɛ din mma option ne mpaemuka {decls!r}."
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Entumi mmue fael {fael din!r}: {nkrasɛm}."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Entumi nhu Bash version, shell awie no ntumi mmoa."
+
+msgid "Créer mon compte"
+msgstr "Yɛ me akontaabu"
+
+msgid "Créer un compte"
+msgstr "Yɛ akontaabu bi"
+
+msgid "Date"
+msgstr "Da"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Wɔagyae ahyɛde {name!r} no.{extra_message}"
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: Wɔagyae {param_type} {din!r} no.{extra_message}"
+
+msgid "Dernières activités"
+msgstr "Dwumadi ahorow a aba foforo"
+
+msgid "Description"
+msgstr "Nkyerɛmu"
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "So na wopɛ sɛ woka {nea ebetumi aba}?"
+
+msgid "Do you want to continue?"
+msgstr "So wopɛ sɛ wotoa so?"
+
+msgid "Déconnexion"
+msgstr "Twa nkitahodi no mu"
+
+msgid "Décrivez les circonstances..."
+msgstr "Kyerɛkyerɛ tebea horow no mu..."
+
+msgid "Déjà un compte ?"
+msgstr "Wowɔ akontaabu dedaw?"
+
+msgid "Détails"
+msgstr "Nkyerɛmu"
+
+msgid "Déverrouiller"
+msgstr "Bue afiri no mu"
+
+msgid "Email"
+msgstr "E-mail a wɔde mena"
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email anaa password a ɛnteɛ."
+
+msgid "En cours"
+msgstr "Wɔrekɔ so"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Sɛ wobɔ korɔnbɔ ho amanneɛ a, wɔbɛto wo mfiri no mu ara kwa na wɔde "
+"amanneɛbɔ bɛmena."
+
+msgid "Enregistrer"
+msgstr "Kora"
+
+msgid "Enregistrer les modifications"
+msgstr "Fa nsakrae ahorow sie"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Kyerɛw wo din na hwɛ wo smartphones so"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Hyehyɛ wo email ne wo fon nɔma na hwɛ sɛ wo ho yɛ nokware"
+
+msgid "Erreur marquée comme résolue."
+msgstr "Mfomso a wɔahyɛ no agyirae sɛ wɔasiesie."
+
+msgid "Erreurs"
+msgstr "Mfomso ahorow"
+
+msgid "Erreurs non résolues"
+msgstr "Mfomso ahorow a wonnya nsiesiee"
+
+msgid "Error: The two entered values do not match."
+msgstr "Mfomso: Nneɛma abien a wɔde ahyɛ mu no nhyia."
+
+msgid "Error: invalid input"
+msgstr "Mfomso: nsɛm a wɔde hyɛ mu a ɛnteɛ"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Mfomso: {nkrasɛm}"
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Field ntumi nware nsen %(max)d nkyerɛwde."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Ɛsɛ sɛ anyɛ yiye koraa no, afuw no tenten yɛ %(min)d nkyerɛwde tenten."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Ɛsɛ sɛ afuw no tenten wɔ %(min)d ne %(max)d nkyerɛwde ntam."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Ɛsɛ sɛ field no ne %(other_name)s yɛ pɛ."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Ɛsɛ sɛ afuw no yɛ %(max)d nkyerɛwde tenten pɛpɛɛpɛ."
+
+msgid "File does not have an approved extension."
+msgstr "Fael no nni ntrɛwmu a wɔapene so."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Fael no nni ntrɛwmu a wɔapene so: {extensions}."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Ɛsɛ sɛ fael no wɔ {min_size} ne {max_size} baiti ntam."
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Anti-Theft nhyehyɛe no sohwɛ a ɛwɔ mfinimfini"
+
+msgid "Gestion des alertes"
+msgstr "Kɔkɔbɔ a wɔde di dwuma"
+
+msgid "Gestion des appareils"
+msgstr "Mfiri a wɔde di dwuma ho nhyehyɛe"
+
+msgid "Gestion des utilisateurs"
+msgstr "Wɔn a wɔde di dwuma no sohwɛ"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Nyaa akyinnyegye foforo a wɔnhwɛ kwan ({args}) ."
+
+msgid "Géolocalisation"
+msgstr "Beae a ɛwɔ asase so"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Hwɛ w’ankasa wo ho nsɛm so"
+
+msgid "Historique des alertes"
+msgstr "Alert Abakɔsɛm"
+
+msgid "Incidents"
+msgstr "Nsɛm a esisii"
+
+msgid "Inscription"
+msgstr "Wɔn a wɔbɛkyerɛw wɔn din"
+
+msgid "Inscrit le"
+msgstr "Wɔakyerɛw wɔn din wɔ"
+
+msgid "Invalid CSRF Token."
+msgstr "CSRF Token a ɛnyɛ adwuma."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Invalid Choice: antumi anhyɛ no."
+
+msgid "Invalid IP address."
+msgstr "IP address a ɛnteɛ."
+
+msgid "Invalid Mac address."
+msgstr "Mac address a ɛnteɛ."
+
+msgid "Invalid URL."
+msgstr "URL a ɛnteɛ."
+
+msgid "Invalid UUID."
+msgstr "UUID a ɛnteɛ."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Invalid choice(s): wɔantumi anhyɛ data biako anaa nea ɛboro saa a wɔde "
+"bɛhyɛ mu."
+
+msgid "Invalid email address."
+msgstr "Email address a ɛnteɛ."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Afuo din '%s' a ɛnteɛ."
+
+msgid "Invalid input."
+msgstr "Nsɛm a wɔde hyɛ mu a ɛnteɛ."
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Mfiase nkyerɛwde a ɛnteɛ ma option ({option}) ."
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Botae a ɛnteɛ ma {param_hint}: {message}."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Botae a ɛnteɛ, entumi nyɛ: %(botae)s no mu biara."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Botae a ɛnteɛ, ɛsɛ sɛ ɛyɛ: %(botae)s no mu biako."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Botae a ɛnteɛ: {nkrasɛm}."
+
+msgid "Journal d'activité"
+msgstr "Dwumadie ho kyerɛwtohɔ"
+
+msgid "Journal d'erreurs"
+msgstr "Mfomso ho kyerɛwtohɔ"
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Brand, model ne IMEI na wɔhwehwɛ."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Anyɛ yiye koraa no, ɛsɛ sɛ asɛmfua no kura nkyerɛwde 6."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Password foforo no yɛ ahyɛde."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Telefon nɔma no ne akontaabu nɔma no nhyia."
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Nɔma a wɔde dii dwuma bere a wɔrekyerɛw wɔn din no"
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Edin a edi kan, edin a etwa to ne email na wɔhwehwɛ."
+
+msgid "Le système fonctionne correctement."
+msgstr "Nhyehyɛe no reyɛ adwuma yiye."
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Dwumadi ahorow a wɔde di dwuma no bɛda adi wɔ ha."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Passwords nhyia."
+
+msgid "Localisation GPS"
+msgstr "GPS beae a ɛwɔ"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Hwehwɛ wo mfiri ahorow no na yɛ mmeae a asiane wɔ ho wɔ w’adwenem"
+
+msgid "Marque"
+msgstr "Adeban"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Hyɛ kɔkɔbɔ yi agyirae sɛ wɔasiesie?"
+
+msgid "Membre depuis"
+msgstr "Member since"
+
+msgid "Mes appareils"
+msgstr "Me mfiri ahorow"
+
+msgid "Minimum 6 caractères"
+msgstr "Anyɛ yiye koraa no, nkyerɛwde 6"
+
+msgid "Missing argument"
+msgstr "Akyinnyegye a ɛyera"
+
+msgid "Missing command."
+msgstr "Ahyɛde a ɛyera."
+
+msgid "Missing option"
+msgstr "Option a ɛyera"
+
+msgid "Missing parameter"
+msgstr "Parameter a ɛyera"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parameter a ɛyera: {param_name}."
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} a ɛyerae."
+
+msgid "Modifier mes informations"
+msgstr "Sesa me nsɛm no"
+
+msgid "Modèle"
+msgstr "Nhwɛsoɔ"
+
+msgid "Mon Profil"
+msgstr "Me Profile"
+
+msgid "Mot de passe"
+msgstr "Paswɛde"
+
+msgid "Mot de passe oublié ?"
+msgstr "Wo werɛ afi password?"
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Password reset no yiye! Kɔ mu."
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Edin '{din}' a wɔakyerɛkyerɛ mu mprenu"
+
+msgid "Navigateur"
+msgstr "Browser a wɔde di dwuma"
+
+msgid "Niveau"
+msgstr "Tipɛn"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Wɔankyerɛkyerɛ akwan biara mu nanso wɔde din bi twaa mu ({din}). So na "
+"wopɛ sɛ wobɔ akyinnyegye bi ho dawuru mmom? So na wopɛ sɛ wotwam "
+"'--{din}'?"
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Ahyɛdeɛ biara nni hɔ a ɛte saa {din!r}."
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Ɔkwan a ɛte saa biara nni hɔ {din!r}."
+
+msgid "Nom"
+msgstr "Din"
+
+msgid "Non résolu"
+msgstr "Wɔnnya nsiesiee"
+
+msgid "Not a valid choice."
+msgstr "Ɛnyɛ paw a ɛfata."
+
+msgid "Not a valid date value."
+msgstr "Ɛnyɛ date bo a ɛfata."
+
+msgid "Not a valid datetime value."
+msgstr "Ɛnyɛ datetime botae a ɛfata."
+
+msgid "Not a valid decimal value."
+msgstr "Ɛnyɛ decimal bo a ɛfata."
+
+msgid "Not a valid float value."
+msgstr "Ɛnyɛ float value a ɛfata."
+
+msgid "Not a valid integer value."
+msgstr "Ɛnyɛ integer botae a ɛfata."
+
+msgid "Not a valid time value."
+msgstr "Ɛnyɛ bere bo a ɛfata."
+
+msgid "Not a valid week value."
+msgstr "Ɛnyɛ dapɛn bo a ɛfata."
+
+msgid "Nouveau mot de passe"
+msgstr "Password Foforo"
+
+msgid "Nouveaux ce mois"
+msgstr "Foforo wɔ ɔsram yi mu"
+
+msgid "Nouvel appareil"
+msgstr "Mfiri foforo"
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Ɛsɛ sɛ nɔma no yɛ anyɛ yiye koraa no %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Ɛsɛ sɛ dodow no yɛ nea ɛboro so %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Ɛsɛ sɛ nɔma no wɔ %(min)s ne %(max)s ntam."
+
+msgid "Numéro de téléphone"
+msgstr "Telefon nɔma"
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Option {name!r} nnye botaeɛ biara."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Option {name!r} hwehwɛ sɛ wonya akyinnyegye."
+
+msgid "Options"
+msgstr "Nneɛma a wubetumi apaw"
+
+msgid "Opérateur"
+msgstr "Adwumayɛfo"
+
+msgid "PRINCIPAL"
+msgstr "ANKSA"
+
+msgid "Pas encore de compte ?"
+msgstr "Akontaabu biara nni hɔ de besi nnɛ?"
+
+msgid "Perte"
+msgstr "Ɛka"
+
+msgid "Press any key to continue..."
+msgstr "Mia safoa biara so na toa so..."
+
+msgid "Priorité"
+msgstr "Asɛnhia"
+
+msgid "Profil"
+msgstr "Ho asɛm"
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profile updated yiye!"
+
+msgid "Profile utilisateur"
+msgstr "Ɔdefo no ho nsɛm"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Fa remote locking bɔ w’ankasa data ho ban"
+
+msgid "Prénom"
+msgstr "Fie din"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Nya SMS, email ne push notifications sɛ ɛba sɛ wowia a"
+
+msgid "Rechercher une langue..."
+msgstr "Hwehwɛ kasa bi..."
+
+msgid "Repeat for confirmation"
+msgstr "Tia mu na ama woagye atom"
+
+msgid "Retourner à la"
+msgstr "San kɔ"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Hwehwɛ beae pɔtee a wo smartphone no wɔ wɔ bere ankasa mu"
+
+msgid "Réinitialisation"
+msgstr "Reset no bio"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Reset Password no bio"
+
+msgid "Résolu"
+msgstr "Wɔasiesie"
+
+msgid "Résolues"
+msgstr "Wɔasiesie"
+
+msgid "Résoudre"
+msgstr "Pɛ ano aduro"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Wosiesie mfomso nyinaa?"
+
+msgid "Résumé du système"
+msgstr "Nhyehyɛe no mu Nsɛm a Wɔaboaboa Ano"
+
+msgid "Rôle"
+msgstr "Asodie"
+
+msgid "Se connecter"
+msgstr "Kɔ mu"
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell awieɛ no nnyɛ mmoa mma Bash nkyerɛaseɛ a akyɛ sene 4.4."
+
+msgid "Show the version and exit."
+msgstr "Kyerɛ version no na fi mu."
+
+msgid "Show this message and exit."
+msgstr "Kyerɛ saa nkrasɛm yi na fi mu."
+
+msgid "Signaler"
+msgstr "Amaneɛbɔ"
+
+msgid "Signaler un vol / perte"
+msgstr "Bɔ korɔnbɔ/adehwere ho amanneɛ"
+
+msgid "Signaler un vol ou une perte"
+msgstr "Bɔ korɔnbɔ anaa adehwere ho amanneɛ"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Bɔ korɔnbɔ anaa adehwere ho amanneɛ na di abakɔsɛm akyi"
+
+msgid "Statut"
+msgstr "Gyinabea"
+
+msgid "Supprimer"
+msgstr "PEPA"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Popa saa afiri yi?"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Popa saa ɔdefo yi ne wɔn mfiri nyinaa?"
+
+msgid "Système Anti-Vol"
+msgstr "Nhyehyɛe a Ɛko Tia Korɔnbɔ"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Intelligent Anti-Theft System — Ahobammɔ nhyehyɛe ma smartphones"
+
+msgid "Système d'exploitation"
+msgstr "Dwumadi nhyehyɛe"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Smartphone ahobammɔ nhyehyɛe"
+
+msgid "SÉCURITÉ"
+msgstr "BAMMƆ"
+
+msgid "Sécurité maximale"
+msgstr "Ahobammɔ a ɛsen biara"
+
+msgid "Sélectionner"
+msgstr "Yi ho"
+
+msgid "Sélectionner un appareil"
+msgstr "Paw afiri bi"
+
+msgid "Tableau de bord"
+msgstr "Dashboard a wɔde kyerɛw nsɛm"
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Fa {nargs} values ​​nanso wɔde 1 mae."
+
+msgid "This field cannot be edited."
+msgstr "Wontumi nsiesie saa afuw yi."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Saa afuo yi yɛ adwuma na entumi nnya boɔ."
+
+msgid "This field is required."
+msgstr "Saa afuw yi na wɔhwehwɛ."
+
+msgid "Total alertes"
+msgstr "Kɔkɔbɔ ahorow a wɔde ma nyinaa"
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Ɛsɛ sɛ wɔhyehyɛ mfuw a wɔhwehwɛ nyinaa."
+
+msgid "Tout est résolu"
+msgstr "Wɔasiesie biribiara"
+
+msgid "Tout résoudre"
+msgstr "Siesie biribiara"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Sɔ '{command} {option}' hwɛ na woanya mmoa."
+
+msgid "Type"
+msgstr "Ayamye"
+
+msgid "Type d'alerte"
+msgstr "Kɔkɔbɔ type"
+
+msgid "Téléphone"
+msgstr "Fon"
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Mfiri bi a ɛwɔ saa IMEI yi wɔ hɔ dedaw."
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Kɔla a wonnim {kɔla!r}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Asuten a ɛyɛ gyinapɛn a wonnim '{din}'."
+
+msgid "Usage:"
+msgstr "Fa di dwuma:"
+
+msgid "Utilisateur"
+msgstr "Ɔdefo"
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Ɔdefo no atumi apopa."
+
+msgid "Utilisateurs"
+msgstr "Wɔn a wɔde di dwuma"
+
+msgid "Utilisateurs total"
+msgstr "Wɔn a wɔde di dwuma nyinaa"
+
+msgid "Value must be an iterable."
+msgstr "Ɛsɛ sɛ botae yɛ nea wotumi san yɛ bio."
+
+msgid "Verrouiller"
+msgstr "To mu"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Lock saa afiri yi wɔ akyirikyiri?"
+
+msgid "Verrouillés à distance"
+msgstr "Wɔatoto mu wɔ akyirikyiri"
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Yɛsrɛ sɛ paw afiri bi ne kɔkɔbɔ bi."
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Yɛsrɛ wo, kɔ mu na woakɔ krataafa yi so."
+
+msgid "Voir tout"
+msgstr "Hwɛ ne nyinaa"
+
+msgid "Vol"
+msgstr "Wiemhyɛn"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Wɔde wo email ne telefon nɔma na ɛkyerɛ sɛ wo ho yɛ nokware"
+
+msgid "Vous"
+msgstr "WO"
+
+msgid "Vous avez été déconnecté."
+msgstr "Wɔatwa wo nkitahodi no mu."
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Wonni tumi sɛ wobɛyɛ saa adeyɛ yi."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Worentumi mpopa w’ankasa wo akontaabu."
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Wo device ahobammɔ ho nsɛm a wɔaka abom"
+
+msgid "Vérification sécurisée"
+msgstr "Nhwehwɛmu a ahobammɔ wom"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows mfomso: {mfomso}."
+
+msgid "Zones à risque"
+msgstr "Mmeae a asiane wɔ"
+
+msgid "comptes"
+msgstr "akontaabu ahorow"
+
+msgid "d"
+msgstr "ԑtᴐ mmere bi a ԑyԑ"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default}."
+
+msgid "deprecated"
+msgstr "a wɔagye atom"
+
+msgid "directory"
+msgstr "directory a wɔde kyerɛw nsɛm"
+
+msgid "en attente"
+msgstr "wɔ hold so"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}."
+
+msgid "file"
+msgstr "faale"
+
+msgid "incidents"
+msgstr "nsɛm a esisii"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "gyaw hɔ kwa sɛnea ɛbɛyɛ a worensakra"
+
+msgid "non résolues"
+msgstr "a wonnya nsiesiee"
+
+msgid "page de connexion"
+msgstr "login krataafa no"
+
+msgid "path"
+msgstr "kwan"
+
+msgid "required"
+msgstr "ɛhia"
+
+msgid "récentes"
+msgstr "nnano yi"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "type **#06# wɔ wo fon so"
+
+msgid "unknown error"
+msgstr "mfomso a wonnim"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Nsiesiei no adi nkogu"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Nsiesiei no adi nkogu: {e}"
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} botaeɛ no ho hia, nanso wɔde {len_value} maeɛ."
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{din} {fael din!r} nni hɔ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {fael din!r} yɛ kyerɛwtohɔ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{din} {fael din!r} yɛ fael."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {fael din!r} nyɛ nea wobetumi de adi dwuma."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {fael din!r} ntumi nkenkan."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{din} {fael din!r} nyɛ nea wobetumi akyerɛw."
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ne format {format} no nhyia."
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} nyɛ UUID a ɛfata."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} nyɛ boolean a ɛfata. Nneɛma a wɔagye atom: {states}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} nyɛ {nɔma_su} a ɛfata."
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} nyɛ {paw}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} nni range {range} no mu."
+

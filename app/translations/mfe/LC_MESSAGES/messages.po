@@ -1,0 +1,1033 @@
+# Translations for MFE.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: mfe\n"
+"Language-Team: mfe <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Silvouple konekte pou aksed sa paz-la."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Sa IMEI-la deza anrezistre dan sistem-la."
+
+msgid "Accès non autorisé."
+msgstr "Akse non-otorize."
+
+msgid "Appareil déverrouillé."
+msgstr "Laparey finn deverouye."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alert finn kree! Bann notifikasyon finn avoye."
+
+msgid "Alerte résolue."
+msgstr "Alert finn rezoud."
+
+msgid "Pas encore de compte ?"
+msgstr "Pena okenn kont ankor?"
+
+msgid "Mon Profil"
+msgstr "Mo Profil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Koneksion finn marse! Bienveni."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email ou modpas ki pa korek."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Bizin ranpli tou bann domenn obligatwar."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Bann modpas pa koresponn."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Modpas-la bizin ena omwin 6 karakter."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Sa email-la deza pe servi."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Kont finn kree avek sikse! Konnekte."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Pena okenn kont ki finn trouve avek sa email-la."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Nimero telefonn-la pa koresponn avek nimero kont-la."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Nouvo modpas-la obligatwar."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Re-reset modpas avek sikse! Konnekte."
+
+msgid "Vous avez été déconnecté."
+msgstr "Ou finn dekonekte."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Mark, model ek IMEI neseser."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Enn laparey avek sa IMEI-la deza existe."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Laparey finn anrezistre avek sikse!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Ou pa otorize pou fer sa aksion-la."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Laparey finn bloke a distans avek sikse."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Laparey finn debloke avek sikse."
+
+msgid "Appareil supprimé."
+msgstr "Laparey finn efase."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Silvouple swazir enn laparey ek enn tip alert."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Sa laparey-la pa pou ou."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert finn raporte avek sikse. Laparey-la finn sekirize."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alert finn marke kouma rezoud."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Prenom, sirnom ek email neseser."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Sa email-la deza servi par enn lot kont."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil finn met azour avek sikse!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Akse rezerve pou bann administrater."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Erer finn marke kouma finn rezoud."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Ou pa kapav efas ou prop kont."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Itilizater finn efase avek sikse."
+
+msgid "Administration"
+msgstr "Administrasion"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Zesion santralize sistem Anti-Vol"
+
+msgid "Utilisateurs"
+msgstr "Itilizater"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktif zordi"
+
+msgid "Nouveaux ce mois"
+msgstr "Nouvo sa mwa-la"
+
+msgid "Appareils"
+msgstr "Bann laparey"
+
+msgid "Alertes actives"
+msgstr "Bann alert aktiv"
+
+msgid "Analytique"
+msgstr "Analitikal"
+
+msgid "Journal d'activité"
+msgstr "Zournal aktivite"
+
+msgid "Erreurs"
+msgstr "Bann erer"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Bann koneksion (dernie 7 zour)"
+
+msgid "Alertes par type"
+msgstr "Bann alert par tip"
+
+msgid "Appareils par opérateur"
+msgstr "Bann laparey par operater"
+
+msgid "Résumé du système"
+msgstr "Rezime sistem"
+
+msgid "Utilisateurs total"
+msgstr "Total itilizater"
+
+msgid "Appareils enregistrés"
+msgstr "Bann laparey ki finn anrezistre"
+
+msgid "Total alertes"
+msgstr "Bann alert total"
+
+msgid "Alertes en cours"
+msgstr "Bann alert aktiel"
+
+msgid "Erreurs non résolues"
+msgstr "Bann erer ki pankor rezoud"
+
+msgid "Dernières activités"
+msgstr "Bann dernie aktivite"
+
+msgid "récentes"
+msgstr "resan"
+
+msgid "Utilisateur"
+msgstr "Itilizater"
+
+msgid "Action"
+msgstr "Aksion"
+
+msgid "Détails"
+msgstr "Detay"
+
+msgid "Adresse IP"
+msgstr "Ladres IP"
+
+msgid "Navigateur"
+msgstr "Navigater"
+
+msgid "Date"
+msgstr "Dat"
+
+msgid "Aucune activité"
+msgstr "Pena okenn aktivite"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Bann aktivite itilizater pou aparet isi."
+
+msgid "Journal d'erreurs"
+msgstr "Rezis erer"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Koriz tou bann erer?"
+
+msgid "Tout résoudre"
+msgstr "Rezoud tou"
+
+msgid "non résolues"
+msgstr "pa finn rezoud"
+
+msgid "Tout est résolu"
+msgstr "Tou finn rezoud"
+
+msgid "Type"
+msgstr "Bonte"
+
+msgid "Description"
+msgstr "Deskripsion"
+
+msgid "Statut"
+msgstr "Stati"
+
+msgid "Résolu"
+msgstr "Finn rezoud"
+
+msgid "Non résolu"
+msgstr "Pa finn rezoud"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Pena okenn erer ki finn anrezistre"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sistem-la pe mars kouma bizin."
+
+msgid "Gestion des utilisateurs"
+msgstr "Zesion itilizater"
+
+msgid "comptes"
+msgstr "bann kont"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telefonn"
+
+msgid "Rôle"
+msgstr "Rol"
+
+msgid "Inscrit le"
+msgstr "Finn anrezistre lor"
+
+msgid "Actions"
+msgstr "Bann aksion"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Efas sa itilizater-la ek tou so bann laparey?"
+
+msgid "Vous"
+msgstr "TWA"
+
+msgid "Connexions"
+msgstr "Koneksion"
+
+msgid "Vol"
+msgstr "Vol"
+
+msgid "Perte"
+msgstr "Pert"
+
+msgid "Anomalie"
+msgstr "Anomali"
+
+msgid "Alertes"
+msgstr "Alert"
+
+msgid "Gestion des alertes"
+msgstr "Zesion alert"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Raport vol ou pert e swiv listwar"
+
+msgid "Signaler un vol / perte"
+msgstr "Raport vol/pert"
+
+msgid "En cours"
+msgstr "An progre"
+
+msgid "Résolues"
+msgstr "Finn rezoud"
+
+msgid "Historique des alertes"
+msgstr "Listwar alert"
+
+msgid "Appareil"
+msgstr "Laparey"
+
+msgid "Priorité"
+msgstr "Priorite"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Mark sa alert-la kouma finn rezoud?"
+
+msgid "Résoudre"
+msgstr "Rezoud"
+
+msgid "Aucune alerte"
+msgstr "Pena alert"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Enn bon nouvel! Pena okenn alert ki finn raporte."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Raport vol ou pert"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Kan ou raport enn vol, ou laparey pou bloke otomatikman e bann "
+"notifikasyon pou avoye."
+
+msgid "Appareil concerné"
+msgstr "Laparey afekte"
+
+msgid "Sélectionner un appareil"
+msgstr "Seleksionn enn laparey"
+
+msgid "Type d'alerte"
+msgstr "Tip alert"
+
+msgid "Décrivez les circonstances..."
+msgstr "Dekrir bann sirkonstans..."
+
+msgid "Annuler"
+msgstr "Kennsel"
+
+msgid "Signaler"
+msgstr "Rapor"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Sistem Intelizan Anti-Vol — Platform sekirite pou bann smartphone"
+
+msgid "Système Anti-Vol"
+msgstr "Sistem anti-vol"
+
+msgid "PRINCIPAL"
+msgstr "PRINSIPAL"
+
+msgid "Tableau de bord"
+msgstr "Tablo-bord"
+
+msgid "SÉCURITÉ"
+msgstr "SEKIRITE"
+
+msgid "Géolocalisation"
+msgstr "Zeolokalizasion"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRASION"
+
+msgid "Déconnexion"
+msgstr "Dekonekte"
+
+msgid "Changer de langue"
+msgstr "Sanz langaz"
+
+msgid "Rechercher une langue..."
+msgstr "Rod enn lang..."
+
+msgid "Profil"
+msgstr "Profil"
+
+msgid "Changer de thème"
+msgstr "Sanz tem"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Apersi lor sekirite ou laparey"
+
+msgid "Ajouter un appareil"
+msgstr "Azout enn laparey"
+
+msgid "Appareils volés"
+msgstr "Bann laparey ki finn kokin"
+
+msgid "Verrouillés à distance"
+msgstr "Verouye a distans"
+
+msgid "Alertes récentes"
+msgstr "Bann alert resan"
+
+msgid "Voir tout"
+msgstr "Get tou"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Pena okenn alert. Ou bann laparey an sekirite!"
+
+msgid "Mes appareils"
+msgstr "Mo bann laparey"
+
+msgid "Aucun appareil enregistré"
+msgstr "Pena okenn laparey ki finn anrezistre"
+
+msgid "Ajouter"
+msgstr "Azoute"
+
+msgid "en attente"
+msgstr "an atant"
+
+msgid "Gestion des appareils"
+msgstr "Zesion laparey"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Anrezistre ek zer ou bann smartphone"
+
+msgid "Opérateur"
+msgstr "Operater"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Verouy sa laparey-la a distans?"
+
+msgid "Verrouiller"
+msgstr "Serir"
+
+msgid "Déverrouiller"
+msgstr "Deverouy"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Efas sa laparey-la?"
+
+msgid "Supprimer"
+msgstr "EFASE"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Azout ou premie smartphone pou koumans protez li."
+
+msgid "Nouvel appareil"
+msgstr "Nouvo laparey"
+
+msgid "Marque"
+msgstr "Mark"
+
+msgid "Sélectionner"
+msgstr "Swazir"
+
+msgid "Autre"
+msgstr "Lezot"
+
+msgid "Modèle"
+msgstr "Mannkin"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "tap *#06# lor ou telefonn"
+
+msgid "Système d'exploitation"
+msgstr "Sistem operasion"
+
+msgid "Numéro de téléphone"
+msgstr "Nimero telefonn"
+
+msgid "Enregistrer"
+msgstr "Sove"
+
+msgid "Connexion"
+msgstr "Koneksion"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistem sekirite pou telefonn intelizan"
+
+msgid "Adresse email"
+msgstr "Ladres e-mail"
+
+msgid "Mot de passe"
+msgstr "Modpas"
+
+msgid "Se connecter"
+msgstr "Konnekte"
+
+msgid "Mot de passe oublié ?"
+msgstr "Mo finn bliye?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Eski ou deza ena enn kont? Sinon, kontinie kree ou kont!"
+
+msgid "Créer un compte"
+msgstr "Kree enn kont"
+
+msgid "Sécurité maximale"
+msgstr "Sekirite maximum"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Protez ou bann done personel avek enn blokaz a distans"
+
+msgid "Localisation GPS"
+msgstr "Lokalizasion GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Rod lokalizasion exakt ou smartphone an tan reel"
+
+msgid "Alertes instantanées"
+msgstr "Bann alert instantane"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Resevwar bann notifikasyon SMS, email ek push dan ka vol"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Lokaliz ou bann laparey ek vizialize bann landrwa a risk"
+
+msgid "Aucun appareil"
+msgstr "Pena okenn laparey"
+
+msgid "Zones à risque"
+msgstr "Bann landrwa a risk"
+
+msgid "incidents"
+msgstr "bann insidan"
+
+msgid "Aucune zone signalée"
+msgstr "Pena okenn rezion ki finn raporte"
+
+msgid "Niveau"
+msgstr "Nivo"
+
+msgid "Incidents"
+msgstr "Bann insidan"
+
+msgid "Profile utilisateur"
+msgstr "Profil itilizater"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Zer ou bann linformasion personel"
+
+msgid "Membre depuis"
+msgstr "Manb depi"
+
+msgid "Modifier mes informations"
+msgstr "Modifie mo bann linformasion"
+
+msgid "Prénom"
+msgstr "Prenom"
+
+msgid "Nom"
+msgstr "Nom"
+
+msgid "Changer le mot de passe"
+msgstr "Sanz modpas"
+
+msgid "Nouveau mot de passe"
+msgstr "Nouvo modpas"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "les vid pou pa sanze"
+
+msgid "Enregistrer les modifications"
+msgstr "Anrezistre bann sanzman"
+
+msgid "Inscription"
+msgstr "Lanrezistreman"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Bienveni dan Anti-Theft pou enn meyer sekirite ou bann laparey"
+
+msgid "Confirmer"
+msgstr "Konfirme"
+
+msgid "Créer mon compte"
+msgstr "Kree mo kont"
+
+msgid "Déjà un compte ?"
+msgstr "Ou deza ena enn kont?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Remet Modpas"
+
+msgid "Réinitialisation"
+msgstr "Reset"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Met ou email ek nimero telefonn pou verifie ou lidantite"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Nimero ki finn servi pandan lanrezistreman"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimo 6 karakter"
+
+msgid "Confirmer le mot de passe"
+msgstr "Konfirm modpas"
+
+msgid "Retourner à la"
+msgstr "Retourn ver"
+
+msgid "page de connexion"
+msgstr "paz konekte"
+
+msgid "Vérification sécurisée"
+msgstr "Verifikasion sekirize"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Ou lidantite finn verifie par servi ou email ek nimero telefonn"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Swazir enn modpas sekirize avek omwin 6 karakter"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editer}: Editing finn fel"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editer}: Editing finn fel: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Erer Windows: {erer}"
+
+msgid "deprecated"
+msgstr "deprekan"
+
+msgid "Options"
+msgstr "Bann opsion"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Finn gagn argiman anplis ki mo pa ti atann ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Komann {name!r} finn deprese.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Finn avorte!"
+
+msgid "Commands"
+msgstr "Bann komann"
+
+msgid "Missing command."
+msgstr "Mank komann."
+
+msgid "Value must be an iterable."
+msgstr "Valer bizin enn iterab."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Pran bann valer {nargs} me 1 finn done."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: {param_type} {name!r} finn deprese.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Nom '{name}' finn definir de fwa"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Opsion boolean {decl!r} pa kapav servi mem pavion pou vre/fos."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Pa finn kapav determinn nom pou opsion avek bann deklarasion {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Pena okenn opsion ki finn definir me enn nom finn pase ({name}). Eski ou "
+"ti pe rod deklar enn argiman plito? Eski ou ti pe rod pas '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "par defo: {par defo}"
+
+msgid "required"
+msgstr "neseser"
+
+msgid "(dynamic)"
+msgstr "(dinamik)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Bann argiman pran exakteman enn deklarasion paramet, got {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "To anvi kontinie?"
+
+msgid "Confirm the action without prompting."
+msgstr "Konfirm aksion-la san ki bizin invit li."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, version %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Montre version-la ek sorti."
+
+msgid "Show this message and exit."
+msgstr "Montre sa mesaz-la ek sorti."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Eski ou ti pe rod dir {posibilite}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Erer: {mesaz}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Sey '{command} {option}' pou gagn led."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Valer invalid: {mesaz}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Valer invalid pou {param_hint}: {mesaz}"
+
+msgid "Missing argument"
+msgstr "Argiman ki manke"
+
+msgid "Missing option"
+msgstr "Opsion ki manke"
+
+msgid "Missing parameter"
+msgstr "Paramet manke"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} manke"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Paramet ki manke: {nom_paramet}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Pena enn opsion koumsa {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Pena sa komann-la {name!r}."
+
+msgid "unknown error"
+msgstr "erer inkoni"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Pa finn kapav ouver fisie {nom fisie!r}: {mesaz}"
+
+msgid "Usage:"
+msgstr "Itilite:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Karakter depar pa valid pou opsion ({opsion})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argiman {name!r} pran bann valer {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Opsion {name!r} pa pran enn valer."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Opsion {name!r} bizin enn argiman."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Konpletman shell pa siporte pou bann version Bash ki pli vie ki 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Pa finn kapav detekte version Bash, konpletman shell pa siporte."
+
+msgid "Repeat for confirmation"
+msgstr "Repete pou konfirmasion"
+
+msgid "Error: The two entered values do not match."
+msgstr "Erer: De valer ki finn rantre pa koresponn."
+
+msgid "Error: invalid input"
+msgstr "Erer: input invalid"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Kouler inkoni {kouler!r}"
+
+msgid "Press any key to continue..."
+msgstr "Pez ninport ki lakle pou kontinie..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Swazir parmi:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} pa {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Swa({swa})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} pa koresponn ar format {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} pa enn {number_type} ki valid."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} pa dan ranze {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} pa enn boolean valid. Bann valer ki finn rekonet: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} pa enn UUID valid."
+
+msgid "file"
+msgstr "fisie"
+
+msgid "directory"
+msgstr "repertwar"
+
+msgid "path"
+msgstr "parkour"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} pa existe."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} se enn fisie."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} se enn repertwar."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} pa lizib."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} pa kapav ekrir."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} pa kapav exekite."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} bann valer bizin, me {len_value} finn done."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Flux standar inkoni '{name}'"
+
+msgid "This field is required."
+msgstr "Sa domenn-la obligatwar."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Fisie-la pena enn extansion aprouve: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Fisie-la pena enn extansion ki finn aprouve."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Fisie-la bizin ant {min_size} ek {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Nom domenn '%s' pa valid."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Champ bizin egal a %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Sa domenn-la bizin ena omwin %(min)d karakter longer."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Sa domenn-la pa kapav pli long ki %(max)d karakter."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Sa domenn-la bizin ena exakteman %(max)d karakter longer."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Sa domenn-la bizin ant %(min)d ek %(max)d karakter longer."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Nimero bizin omwin %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Nimero bizin o maximum %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Nimero bizin ant %(min)s ek %(max)s."
+
+msgid "Invalid input."
+msgstr "Input pa valid."
+
+msgid "Invalid email address."
+msgstr "Ladres email pa valid."
+
+msgid "Invalid IP address."
+msgstr "Ladres IP pa valid."
+
+msgid "Invalid Mac address."
+msgstr "Ladres Mac ki pa valid."
+
+msgid "Invalid URL."
+msgstr "URL pa valid."
+
+msgid "Invalid UUID."
+msgstr "UUID pa valid."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Valer ki pa valid, bizin enn parmi: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Valer ki pa valid, pa kapav okenn parmi: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Pa kapav modifie sa domenn-la."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Sa domenn-la finn dezaktive e li pa kapav ena enn valer."
+
+msgid "Invalid CSRF Token."
+msgstr "Token CSRF pa valid."
+
+msgid "CSRF token missing."
+msgstr "Token CSRF manke."
+
+msgid "CSRF failed."
+msgstr "CSRF finn fel."
+
+msgid "CSRF token expired."
+msgstr "Token CSRF finn expire."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Swa invalid: pa finn kapav forse."
+
+msgid "Choices cannot be None."
+msgstr "Bann swa pa kapav Okenn."
+
+msgid "Not a valid choice."
+msgstr "Pa enn swa ki valab."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Bann swa ki pa valid: enn ou plizier input done pa finn kapav forse."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' pa enn swa valid pou sa domenn-la."
+
+msgid "Not a valid datetime value."
+msgstr "Pa enn valer dat-ler ki valid."
+
+msgid "Not a valid date value."
+msgstr "Pa enn valer dat valid."
+
+msgid "Not a valid time value."
+msgstr "Pa enn valer letan valid."
+
+msgid "Not a valid week value."
+msgstr "Pa enn valer semenn valid."
+
+msgid "Not a valid integer value."
+msgstr "Pa enn valer antie valid."
+
+msgid "Not a valid decimal value."
+msgstr "Pa enn valer desimal valid."
+
+msgid "Not a valid float value."
+msgstr "Pa enn valer flotan ki valid."
+

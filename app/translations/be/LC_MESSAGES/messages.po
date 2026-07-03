@@ -1,0 +1,1048 @@
+# Translations for BE.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: be\n"
+"Language-Team: be <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Калі ласка, увайдзіце, каб атрымаць доступ да гэтай старонкі."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Гэты IMEI ўжо зарэгістраваны ў сістэме."
+
+msgid "Accès non autorisé."
+msgstr "Несанкцыянаваны доступ."
+
+msgid "Appareil déverrouillé."
+msgstr "Прылада разблакіравана."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Абвестка створана! Апавяшчэнні адпраўлены."
+
+msgid "Alerte résolue."
+msgstr "Абвестка вырашана."
+
+msgid "Pas encore de compte ?"
+msgstr "Яшчэ няма ўліковага запісу?"
+
+msgid "Mon Profil"
+msgstr "Мой профіль"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Падключэнне паспяхова! Сардэчна запрашаем."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Няправільны адрас электроннай пошты ці пароль."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Усе неабходныя палі павінны быць запоўненыя."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Паролі не супадаюць."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Пароль павінен змяшчаць не менш за 6 сімвалаў."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Гэты адрас электроннай пошты ўжо выкарыстоўваецца."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Уліковы запіс створаны паспяхова! Увайдзіце ў сістэму."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Уліковыя запісы з гэтым адрасам электроннай пошты не знойдзены."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Нумар тэлефона не супадае з нумарам рахунку."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Новы пароль абавязковы."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Паспяховы скід пароля! Увайдзіце ў сістэму."
+
+msgid "Vous avez été déconnecté."
+msgstr "Вы былі адключаны."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Патрабуецца марка, мадэль і IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Прылада з такім IMEI ужо існуе."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Прылада паспяхова зарэгістравана!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Вы не маеце права выконваць гэта дзеянне."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Прылада выдалена заблакіравана."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Прылада паспяхова разблакіравана."
+
+msgid "Appareil supprimé."
+msgstr "Прылада выдалена."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Выберыце прыладу і тып абвесткі."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Гэта прылада не належыць вам."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Абвестка паспяхова адпраўлена. Прылада была абаронена."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Абвестка пазначана як вырашаная."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Імя, прозвішча і адрас электроннай пошты абавязковыя."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Гэты адрас электроннай пошты ўжо выкарыстоўваецца іншым уліковым запісам."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Профіль паспяхова абноўлены!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Доступ зарэзерваваны для адміністратараў."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Памылка пазначана як вырашаная."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Вы не можаце выдаліць свой уласны рахунак."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Карыстальнік паспяхова выдалены."
+
+msgid "Administration"
+msgstr "Адміністрацыя"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Цэнтралізаванае кіраванне сістэмай Anti-Theft"
+
+msgid "Utilisateurs"
+msgstr "Карыстальнікі"
+
+msgid "Actifs aujourd'hui"
+msgstr "Актыўны сёння"
+
+msgid "Nouveaux ce mois"
+msgstr "Новае ў гэтым месяцы"
+
+msgid "Appareils"
+msgstr "прылады"
+
+msgid "Alertes actives"
+msgstr "Актыўныя абвесткі"
+
+msgid "Analytique"
+msgstr "Аналітычны"
+
+msgid "Journal d'activité"
+msgstr "Часопіс дзейнасці"
+
+msgid "Erreurs"
+msgstr "Памылкі"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Сувязі (апошнія 7 дзён)"
+
+msgid "Alertes par type"
+msgstr "Абвесткі па тыпу"
+
+msgid "Appareils par opérateur"
+msgstr "Прылады па аператару"
+
+msgid "Résumé du système"
+msgstr "Рэзюмэ сістэмы"
+
+msgid "Utilisateurs total"
+msgstr "Усяго карыстальнікаў"
+
+msgid "Appareils enregistrés"
+msgstr "Зарэгістраваныя прылады"
+
+msgid "Total alertes"
+msgstr "Усяго абвестак"
+
+msgid "Alertes en cours"
+msgstr "Актуальныя абвесткі"
+
+msgid "Erreurs non résolues"
+msgstr "Нявырашаныя памылкі"
+
+msgid "Dernières activités"
+msgstr "Апошнія дзеянні"
+
+msgid "récentes"
+msgstr "нядаўні"
+
+msgid "Utilisateur"
+msgstr "Карыстальнік"
+
+msgid "Action"
+msgstr "Дзеянне"
+
+msgid "Détails"
+msgstr "Дэталі"
+
+msgid "Adresse IP"
+msgstr "IP-адрас"
+
+msgid "Navigateur"
+msgstr "Браўзэр"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Aucune activité"
+msgstr "Няма актыўнасці"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Тут з'явяцца дзеянні карыстальніка."
+
+msgid "Journal d'erreurs"
+msgstr "Журнал памылак"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Выправіць усе памылкі?"
+
+msgid "Tout résoudre"
+msgstr "Вырашыць усё"
+
+msgid "non résolues"
+msgstr "нявырашаная"
+
+msgid "Tout est résolu"
+msgstr "Усё вырашана"
+
+msgid "Type"
+msgstr "Ласкавы"
+
+msgid "Description"
+msgstr "Апісанне"
+
+msgid "Statut"
+msgstr "Статус"
+
+msgid "Résolu"
+msgstr "Вырашана"
+
+msgid "Non résolu"
+msgstr "Нявырашаная"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Памылак не зафіксавана"
+
+msgid "Le système fonctionne correctement."
+msgstr "Сістэма працуе спраўна."
+
+msgid "Gestion des utilisateurs"
+msgstr "Кіраванне карыстальнікамі"
+
+msgid "comptes"
+msgstr "рахункі"
+
+msgid "Email"
+msgstr "Электронная пошта"
+
+msgid "Téléphone"
+msgstr "Тэлефон"
+
+msgid "Rôle"
+msgstr "Роля"
+
+msgid "Inscrit le"
+msgstr "Зарэгістраваны на"
+
+msgid "Actions"
+msgstr "Дзеянні"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Выдаліць гэтага карыстальніка і ўсе яго прылады?"
+
+msgid "Vous"
+msgstr "ВЫ"
+
+msgid "Connexions"
+msgstr "Сувязі"
+
+msgid "Vol"
+msgstr "Палёт"
+
+msgid "Perte"
+msgstr "Страта"
+
+msgid "Anomalie"
+msgstr "Анамалія"
+
+msgid "Alertes"
+msgstr "Абвесткі"
+
+msgid "Gestion des alertes"
+msgstr "Кіраванне абвесткамі"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Паведаміце аб крадзяжы або страце і адсочвайце гісторыю"
+
+msgid "Signaler un vol / perte"
+msgstr "Паведаміць аб крадзяжы/страце"
+
+msgid "En cours"
+msgstr "У рабоце"
+
+msgid "Résolues"
+msgstr "Вырашана"
+
+msgid "Historique des alertes"
+msgstr "Гісторыя абвестак"
+
+msgid "Appareil"
+msgstr "прылада"
+
+msgid "Priorité"
+msgstr "Прыярытэт"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Пазначыць гэту абвестку як вырашаную?"
+
+msgid "Résoudre"
+msgstr "Разгадаць"
+
+msgid "Aucune alerte"
+msgstr "Няма абвесткі"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Добрыя навіны! Абвестак не паступала."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Паведаміць аб крадзяжы або страце"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Паведаміўшы аб крадзяжы, ваша прылада будзе аўтаматычна заблакіравана і "
+"будуць адпраўлены апавяшчэнні."
+
+msgid "Appareil concerné"
+msgstr "Пашкоджаная прылада"
+
+msgid "Sélectionner un appareil"
+msgstr "Выберыце прыладу"
+
+msgid "Type d'alerte"
+msgstr "Тып абвесткі"
+
+msgid "Décrivez les circonstances..."
+msgstr "Апішыце абставіны..."
+
+msgid "Annuler"
+msgstr "Адмяніць"
+
+msgid "Signaler"
+msgstr "Справаздача"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Інтэлектуальная сістэма супраць крадзяжу — платформа бяспекі для "
+"смартфонаў"
+
+msgid "Système Anti-Vol"
+msgstr "Сістэма супраць крадзяжу"
+
+msgid "PRINCIPAL"
+msgstr "ГАЛОЎНАЯ"
+
+msgid "Tableau de bord"
+msgstr "Прыборная панэль"
+
+msgid "SÉCURITÉ"
+msgstr "БЯСПЕКА"
+
+msgid "Géolocalisation"
+msgstr "Геалакацыя"
+
+msgid "ADMINISTRATION"
+msgstr "АДМІНІСТРАЦЫЯ"
+
+msgid "Déconnexion"
+msgstr "Адключыцца"
+
+msgid "Changer de langue"
+msgstr "Змяніць мову"
+
+msgid "Rechercher une langue..."
+msgstr "Пошук мовы..."
+
+msgid "Profil"
+msgstr "Профіль"
+
+msgid "Changer de thème"
+msgstr "Змяніць тэму"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Агляд бяспекі вашай прылады"
+
+msgid "Ajouter un appareil"
+msgstr "Дадайце прыладу"
+
+msgid "Appareils volés"
+msgstr "Скрадзеныя прылады"
+
+msgid "Verrouillés à distance"
+msgstr "Дыстанцыйна заблакаваны"
+
+msgid "Alertes récentes"
+msgstr "Апошнія абвесткі"
+
+msgid "Voir tout"
+msgstr "Глядзець усе"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Няма абвесткі. Вашы прылады ў бяспецы!"
+
+msgid "Mes appareils"
+msgstr "Мае прылады"
+
+msgid "Aucun appareil enregistré"
+msgstr "Няма зарэгістраваных прылад"
+
+msgid "Ajouter"
+msgstr "Дадаць"
+
+msgid "en attente"
+msgstr "на ўтрыманні"
+
+msgid "Gestion des appareils"
+msgstr "Кіраванне прыладай"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Рэгіструйце і кіруйце сваімі смартфонамі"
+
+msgid "Opérateur"
+msgstr "Аператар"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Заблакіраваць гэту прыладу дыстанцыйна?"
+
+msgid "Verrouiller"
+msgstr "Замак"
+
+msgid "Déverrouiller"
+msgstr "Разблакіраваць"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Выдаліць гэту прыладу?"
+
+msgid "Supprimer"
+msgstr "ВЫДАЛІЦЬ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Дадайце свой першы смартфон, каб пачаць яго абараняць."
+
+msgid "Nouvel appareil"
+msgstr "Новая прылада"
+
+msgid "Marque"
+msgstr "Марка"
+
+msgid "Sélectionner"
+msgstr "Выберыце"
+
+msgid "Autre"
+msgstr "Іншае"
+
+msgid "Modèle"
+msgstr "мадэль"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "увядзіце *#06# на вашым тэлефоне"
+
+msgid "Système d'exploitation"
+msgstr "Аперацыйная сістэма"
+
+msgid "Numéro de téléphone"
+msgstr "Нумар тэлефона"
+
+msgid "Enregistrer"
+msgstr "Захаваць"
+
+msgid "Connexion"
+msgstr "Злучэнне"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Сістэма бяспекі смартфона"
+
+msgid "Adresse email"
+msgstr "Адрас электроннай пошты"
+
+msgid "Mot de passe"
+msgstr "Пароль"
+
+msgid "Se connecter"
+msgstr "Увайдзіце ў сістэму"
+
+msgid "Mot de passe oublié ?"
+msgstr "Забыўся пароль?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"У вас ужо ёсць рахунак? У адваротным выпадку перайдзіце да стварэння "
+"акаўнта!"
+
+msgid "Créer un compte"
+msgstr "Стварыць уліковы запіс"
+
+msgid "Sécurité maximale"
+msgstr "Максімальная бяспека"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Абараніце свае асабістыя даныя з дапамогай аддаленай блакіроўкі"
+
+msgid "Localisation GPS"
+msgstr "месцазнаходжанне GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr ""
+"Знайдзіце дакладнае месцазнаходжанне вашага смартфона ў рэжыме рэальнага "
+"часу"
+
+msgid "Alertes instantanées"
+msgstr "Імгненныя абвесткі"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Атрымлівайце SMS, электронную пошту і push-апавяшчэнні ў выпадку крадзяжу"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Знайдзіце свае прылады і візуалізуйце зоны рызыкі"
+
+msgid "Aucun appareil"
+msgstr "Няма прылады"
+
+msgid "Zones à risque"
+msgstr "Зоны рызыкі"
+
+msgid "incidents"
+msgstr "інцыдэнтаў"
+
+msgid "Aucune zone signalée"
+msgstr "Аб раёнах не паведамляецца"
+
+msgid "Niveau"
+msgstr "Узровень"
+
+msgid "Incidents"
+msgstr "Інцыдэнты"
+
+msgid "Profile utilisateur"
+msgstr "Профіль карыстальніка"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Кіруйце сваёй асабістай інфармацыяй"
+
+msgid "Membre depuis"
+msgstr "Член з"
+
+msgid "Modifier mes informations"
+msgstr "Рэдагаваць маю інфармацыю"
+
+msgid "Prénom"
+msgstr "імя"
+
+msgid "Nom"
+msgstr "Імя"
+
+msgid "Changer le mot de passe"
+msgstr "Змяніць пароль"
+
+msgid "Nouveau mot de passe"
+msgstr "Новы пароль"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "пакіньце пустым, каб не мяняць"
+
+msgid "Enregistrer les modifications"
+msgstr "Захавайце змены"
+
+msgid "Inscription"
+msgstr "Рэгістрацыя"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Сардэчна запрашаем у Anti-Theft для лепшай бяспекі вашых прылад"
+
+msgid "Confirmer"
+msgstr "Пацвердзіць"
+
+msgid "Créer mon compte"
+msgstr "Стварыце мой уліковы запіс"
+
+msgid "Déjà un compte ?"
+msgstr "У вас ужо ёсць уліковы запіс?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Скінуць пароль"
+
+msgid "Réinitialisation"
+msgstr "Скінуць"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Увядзіце адрас электроннай пошты і нумар тэлефона, каб пацвердзіць сваю "
+"асобу"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Нумар, які выкарыстоўваецца пры рэгістрацыі"
+
+msgid "Minimum 6 caractères"
+msgstr "Мінімум 6 знакаў"
+
+msgid "Confirmer le mot de passe"
+msgstr "Пацвердзіце пароль"
+
+msgid "Retourner à la"
+msgstr "Вярнуцца да"
+
+msgid "page de connexion"
+msgstr "старонка ўваходу"
+
+msgid "Vérification sécurisée"
+msgstr "Бяспечная праверка"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Ваша асоба правяраецца з дапамогай электроннай пошты і нумара тэлефона"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Выберыце бяспечны пароль, які змяшчае не менш за 6 сімвалаў"
+
+msgid "d"
+msgstr "D"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{рэдактар}: рэдагаванне не атрымалася"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{рэдактар}: Памылка рэдагавання: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Памылка Windows: {error}"
+
+msgid "deprecated"
+msgstr "састарэў"
+
+msgid "Options"
+msgstr "Параметры"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Атрыманы нечаканы дадатковы аргумент ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: каманда {name!r} састарэла.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Перарвана!"
+
+msgid "Commands"
+msgstr "Каманды"
+
+msgid "Missing command."
+msgstr "Адсутнічае каманда."
+
+msgid "Value must be an iterable."
+msgstr "Значэнне павінна быць паўтаральным."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Прымае значэнні {nargs}, але было дадзена 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: {param_type} {name!r} састарэў.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Імя '{name}' вызначана двойчы"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Лагічная опцыя {decl!r} не можа выкарыстоўваць адзін і той жа сцяг для "
+"true/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Немагчыма вызначыць назву для опцыі з дэкларацыямі {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Параметры не вызначаны, але было перададзена імя ({name}). Вы мелі на "
+"ўвазе аб'явіць аргумент замест гэтага? Вы хацелі перадаць '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var env: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "па змаўчанні: {па змаўчанні}"
+
+msgid "required"
+msgstr "патрабуецца"
+
+msgid "(dynamic)"
+msgstr "(дынамічны)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Аргументы прымаюць дакладна адно аб'яву параметра, атрымалі {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Вы хочаце працягнуць?"
+
+msgid "Confirm the action without prompting."
+msgstr "Пацвердзіце дзеянне без падказкі."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, версія %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Паказаць версію і выйсці."
+
+msgid "Show this message and exit."
+msgstr "Паказаць гэта паведамленне і выйсці."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Вы мелі на ўвазе {магчымасць}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Памылка: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Паспрабуйце \"{command} {option}\" для атрымання дапамогі."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Няправільнае значэнне: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Няправільнае значэнне для {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Адсутны аргумент"
+
+msgid "Missing option"
+msgstr "Адсутнічае варыянт"
+
+msgid "Missing parameter"
+msgstr "Адсутны параметр"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Адсутнічае {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Адсутны параметр: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Няма такога варыянту {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Няма такой каманды {name!r}."
+
+msgid "unknown error"
+msgstr "невядомая памылка"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Не атрымалася адкрыць файл {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Выкарыстоўвайце:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Няправільны сімвал пачатку для параметра ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Аргумент {name!r} прымае значэнні {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Опцыя {name!r} не прымае значэння."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Варыянт {name!r} патрабуе аргументу."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Завяршэнне абалонкі не падтрымліваецца для версій Bash, старэйшых за 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Не ўдалося вызначыць версію Bash, завяршэнне абалонкі не падтрымліваецца."
+
+msgid "Repeat for confirmation"
+msgstr "Паўтарыце для пацверджання"
+
+msgid "Error: The two entered values do not match."
+msgstr "Памылка: два ўведзеныя значэнні не супадаюць."
+
+msgid "Error: invalid input"
+msgstr "Памылка: няправільны ўвод"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Невядомы колер {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Каб працягнуць, націсніце любую клавішу..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Выберыце з:\\n\\t{выбары}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} не з'яўляецца {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Выбар ({выбары})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} не адпавядае фармату {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} не з'яўляецца дапушчальным {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} не ўваходзіць у дыяпазон {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr ""
+"{значэнне!r} не з'яўляецца дапушчальным лагічным. Прызнаныя значэнні: "
+"{станы}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} не з'яўляецца сапраўдным UUID."
+
+msgid "file"
+msgstr "файл"
+
+msgid "directory"
+msgstr "каталог"
+
+msgid "path"
+msgstr "шлях"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} не існуе."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} гэта файл."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} - гэта каталог."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} не чытаецца."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} недаступны для запісу."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} не з'яўляецца выканальным."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Значэнні {len_type} патрабуюцца, але было дадзена {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Невядомы стандартны паток \"{name}\""
+
+msgid "This field is required."
+msgstr "Гэта поле абавязковае."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Файл не мае зацверджанага пашырэння: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Файл не мае зацверджанага пашырэння."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Файл павінен быць ад {min_size} да {max_size} байтаў."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Няправільная назва поля \"%s\"."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Поле павінна быць роўна %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Даўжыня поля павінна быць не менш за %(min)d сімвала."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Даўжыня поля не можа перавышаць %(макс.)d сімвал."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Даўжыня поля павінна быць роўна %(макс.)d сімвала."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Даўжыня поля павінна быць ад %(min)d да %(max)d сімвалаў."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Колькасць павінна быць не менш за %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Колькасць павінна быць не больш за %(макс.)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Колькасць павінна быць паміж %(min)s і %(max)s."
+
+msgid "Invalid input."
+msgstr "Няправільны ўвод."
+
+msgid "Invalid email address."
+msgstr "Няправільны адрас электроннай пошты."
+
+msgid "Invalid IP address."
+msgstr "Няправільны IP-адрас."
+
+msgid "Invalid Mac address."
+msgstr "Няправільны Mac-адрас."
+
+msgid "Invalid URL."
+msgstr "Няправільны URL."
+
+msgid "Invalid UUID."
+msgstr "Няправільны UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Няправільнае значэнне, павінна быць адно з: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Няправільнае значэнне, не можа быць ні адным з: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Гэта поле нельга рэдагаваць."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Гэта поле адключана і не можа мець значэнне."
+
+msgid "Invalid CSRF Token."
+msgstr "Няправільны токен CSRF."
+
+msgid "CSRF token missing."
+msgstr "Адсутнічае маркер CSRF."
+
+msgid "CSRF failed."
+msgstr "CSRF не ўдалося."
+
+msgid "CSRF token expired."
+msgstr "Тэрмін дзеяння токена CSRF скончыўся."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Няправільны выбар: нельга прымусіць."
+
+msgid "Choices cannot be None."
+msgstr "Выбару не можа быць."
+
+msgid "Not a valid choice."
+msgstr "Няправільны выбар."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Няправільны(-ыя) выбар(-ы): адзін або некалькі ўводаў даных не могуць "
+"быць прымусова ўведзеныя."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' недапушчальны выбар для гэтага поля."
+
+msgid "Not a valid datetime value."
+msgstr "Несапраўднае значэнне даты і часу."
+
+msgid "Not a valid date value."
+msgstr "Несапраўднае значэнне даты."
+
+msgid "Not a valid time value."
+msgstr "Несапраўднае значэнне часу."
+
+msgid "Not a valid week value."
+msgstr "Несапраўднае значэнне тыдня."
+
+msgid "Not a valid integer value."
+msgstr "Несапраўднае цэлае значэнне."
+
+msgid "Not a valid decimal value."
+msgstr "Несапраўднае дзесятковае значэнне."
+
+msgid "Not a valid float value."
+msgstr "Несапраўднае значэнне з плаваючай часткай."
+

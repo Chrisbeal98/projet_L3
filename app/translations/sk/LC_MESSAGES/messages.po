@@ -1,0 +1,1039 @@
+# Translations for SK.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: sk\n"
+"Language-Team: sk <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Pre prístup na túto stránku sa prosím prihláste."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Tento IMEI je už zaregistrovaný v systéme."
+
+msgid "Accès non autorisé."
+msgstr "Neoprávnený prístup."
+
+msgid "Appareil déverrouillé."
+msgstr "Zariadenie je odomknuté."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Upozornenie vytvorené! Upozornenia odoslané."
+
+msgid "Alerte résolue."
+msgstr "Upozornenie vyriešené."
+
+msgid "Pas encore de compte ?"
+msgstr "Ešte nemáte účet?"
+
+msgid "Mon Profil"
+msgstr "Môj profil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Pripojenie úspešné! Vitajte."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email ou mot de passe incorrect."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Tous les champs obligatoires doivent être remplis."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Heslá sa nezhodujú."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Heslo musí obsahovať aspoň 6 znakov."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Tento e-mail sa už používa."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Účet bol úspešne vytvorený! Prihláste sa."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Nenašli sa žiadne účty s týmto e-mailom."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Telefónne číslo sa nezhoduje s číslom účtu."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Nové heslo je povinné."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Obnovenie hesla bolo úspešné! Prihláste sa."
+
+msgid "Vous avez été déconnecté."
+msgstr "Boli ste odpojení."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Vyžaduje sa značka, model a IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Zariadenie s týmto IMEI už existuje."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Zariadenie bolo úspešne zaregistrované!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Nemáte oprávnenie na vykonanie tejto akcie."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Zariadenie bolo úspešne uzamknuté na diaľku."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Zariadenie bolo úspešne odomknuté."
+
+msgid "Appareil supprimé."
+msgstr "Zariadenie bolo odstránené."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Vyberte zariadenie a typ upozornenia."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Toto zariadenie vám nepatrí."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Upozornenie bolo úspešne nahlásené. Zariadenie bolo zabezpečené."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Upozornenie označené ako vyriešené."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Meno, priezvisko a email sú povinné."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Tento e-mail už používa iný účet."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil bol úspešne aktualizovaný!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Prístup vyhradený pre administrátorov."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Chyba označená ako vyriešená."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Nemôžete odstrániť svoj vlastný účet."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Používateľ bol úspešne odstránený."
+
+msgid "Administration"
+msgstr "Administrácia"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Centralizované riadenie systému Anti-Theft"
+
+msgid "Utilisateurs"
+msgstr "Používatelia"
+
+msgid "Actifs aujourd'hui"
+msgstr "Dnes aktívny"
+
+msgid "Nouveaux ce mois"
+msgstr "Novinka tento mesiac"
+
+msgid "Appareils"
+msgstr "Zariadenia"
+
+msgid "Alertes actives"
+msgstr "Aktívne upozornenia"
+
+msgid "Analytique"
+msgstr "Analytické"
+
+msgid "Journal d'activité"
+msgstr "Denník aktivít"
+
+msgid "Erreurs"
+msgstr "Chyby"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Pripojenia (posledných 7 dní)"
+
+msgid "Alertes par type"
+msgstr "Upozornenia podľa typu"
+
+msgid "Appareils par opérateur"
+msgstr "Zariadenia podľa operátora"
+
+msgid "Résumé du système"
+msgstr "Súhrn systému"
+
+msgid "Utilisateurs total"
+msgstr "Celkový počet používateľov"
+
+msgid "Appareils enregistrés"
+msgstr "Registrované zariadenia"
+
+msgid "Total alertes"
+msgstr "Celkový počet upozornení"
+
+msgid "Alertes en cours"
+msgstr "Aktuálne upozornenia"
+
+msgid "Erreurs non résolues"
+msgstr "Nevyriešené chyby"
+
+msgid "Dernières activités"
+msgstr "Najnovšie aktivity"
+
+msgid "récentes"
+msgstr "nedávne"
+
+msgid "Utilisateur"
+msgstr "Používateľ"
+
+msgid "Action"
+msgstr "Akcia"
+
+msgid "Détails"
+msgstr "Podrobnosti"
+
+msgid "Adresse IP"
+msgstr "IP adresa"
+
+msgid "Navigateur"
+msgstr "Prehliadač"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "Aucune activité"
+msgstr "Žiadna aktivita"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Tu sa zobrazia aktivity používateľov."
+
+msgid "Journal d'erreurs"
+msgstr "Protokol chýb"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Opraviť všetky chyby?"
+
+msgid "Tout résoudre"
+msgstr "Všetko vyriešiť"
+
+msgid "non résolues"
+msgstr "nevyriešené"
+
+msgid "Tout est résolu"
+msgstr "Všetko je vyriešené"
+
+msgid "Type"
+msgstr "Milý"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Statut"
+msgstr "Stav"
+
+msgid "Résolu"
+msgstr "Vyriešené"
+
+msgid "Non résolu"
+msgstr "Nevyriešené"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Nie sú zaznamenané žiadne chyby"
+
+msgid "Le système fonctionne correctement."
+msgstr "Systém funguje správne."
+
+msgid "Gestion des utilisateurs"
+msgstr "Správa používateľov"
+
+msgid "comptes"
+msgstr "účtov"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telefón"
+
+msgid "Rôle"
+msgstr "Role"
+
+msgid "Inscrit le"
+msgstr "Registrovaný dňa"
+
+msgid "Actions"
+msgstr "Akcie"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Odstrániť tohto používateľa a všetky jeho zariadenia?"
+
+msgid "Vous"
+msgstr "VY"
+
+msgid "Connexions"
+msgstr "Spojenia"
+
+msgid "Vol"
+msgstr "Let"
+
+msgid "Perte"
+msgstr "Strata"
+
+msgid "Anomalie"
+msgstr "Anomália"
+
+msgid "Alertes"
+msgstr "Upozornenia"
+
+msgid "Gestion des alertes"
+msgstr "Správa upozornení"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Nahláste krádež alebo stratu a sledujte históriu"
+
+msgid "Signaler un vol / perte"
+msgstr "Nahláste krádež/stratu"
+
+msgid "En cours"
+msgstr "Prebieha"
+
+msgid "Résolues"
+msgstr "Vyriešené"
+
+msgid "Historique des alertes"
+msgstr "História výstrah"
+
+msgid "Appareil"
+msgstr "Zariadenie"
+
+msgid "Priorité"
+msgstr "Priorita"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Označiť toto upozornenie ako vyriešené?"
+
+msgid "Résoudre"
+msgstr "Riešiť"
+
+msgid "Aucune alerte"
+msgstr "Žiadne upozornenie"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Dobrá správa! Neboli hlásené žiadne upozornenia."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Nahláste krádež alebo stratu"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Nahlásením krádeže sa vaše zariadenie automaticky uzamkne a budú sa "
+"odosielať upozornenia."
+
+msgid "Appareil concerné"
+msgstr "Postihnuté zariadenie"
+
+msgid "Sélectionner un appareil"
+msgstr "Vyberte zariadenie"
+
+msgid "Type d'alerte"
+msgstr "Typ upozornenia"
+
+msgid "Décrivez les circonstances..."
+msgstr "Popíšte okolnosti..."
+
+msgid "Annuler"
+msgstr "Zrušiť"
+
+msgid "Signaler"
+msgstr "Správa"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Inteligentný systém proti krádeži — Bezpečnostná platforma pre smartfóny"
+
+msgid "Système Anti-Vol"
+msgstr "Systém proti krádeži"
+
+msgid "PRINCIPAL"
+msgstr "HLAVNÁ"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "BEZPEČNOSŤ"
+
+msgid "Géolocalisation"
+msgstr "Geolokácia"
+
+msgid "ADMINISTRATION"
+msgstr "SPRÁVA"
+
+msgid "Déconnexion"
+msgstr "Odpojiť"
+
+msgid "Changer de langue"
+msgstr "Zmeniť jazyk"
+
+msgid "Rechercher une langue..."
+msgstr "Vyhľadajte jazyk..."
+
+msgid "Profil"
+msgstr "Profil"
+
+msgid "Changer de thème"
+msgstr "Zmeniť tému"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Prehľad zabezpečenia vášho zariadenia"
+
+msgid "Ajouter un appareil"
+msgstr "Pridajte zariadenie"
+
+msgid "Appareils volés"
+msgstr "Ukradnuté zariadenia"
+
+msgid "Verrouillés à distance"
+msgstr "Diaľkovo zamknuté"
+
+msgid "Alertes récentes"
+msgstr "Nedávne upozornenia"
+
+msgid "Voir tout"
+msgstr "Zobraziť všetky"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Žiadne upozornenie. Vaše zariadenia sú v bezpečí!"
+
+msgid "Mes appareils"
+msgstr "Moje zariadenia"
+
+msgid "Aucun appareil enregistré"
+msgstr "Nie sú zaregistrované žiadne zariadenia"
+
+msgid "Ajouter"
+msgstr "Pridať"
+
+msgid "en attente"
+msgstr "na počkanie"
+
+msgid "Gestion des appareils"
+msgstr "Správa zariadenia"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Zaregistrujte sa a spravujte svoje smartfóny"
+
+msgid "Opérateur"
+msgstr "Operátor"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Uzamknúť toto zariadenie na diaľku?"
+
+msgid "Verrouiller"
+msgstr "Zamknúť"
+
+msgid "Déverrouiller"
+msgstr "Odomknúť"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Odstrániť toto zariadenie?"
+
+msgid "Supprimer"
+msgstr "VYMAZAŤ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Pridajte svoj prvý smartfón a začnite ho chrániť."
+
+msgid "Nouvel appareil"
+msgstr "Nové zariadenie"
+
+msgid "Marque"
+msgstr "Značka"
+
+msgid "Sélectionner"
+msgstr "Vyberte"
+
+msgid "Autre"
+msgstr "Iné"
+
+msgid "Modèle"
+msgstr "Model"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "napíšte do telefónu *#06#"
+
+msgid "Système d'exploitation"
+msgstr "Operačný systém"
+
+msgid "Numéro de téléphone"
+msgstr "Telefónne číslo"
+
+msgid "Enregistrer"
+msgstr "Uložiť"
+
+msgid "Connexion"
+msgstr "Pripojenie"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Bezpečnostný systém smartfónu"
+
+msgid "Adresse email"
+msgstr "E-mailová adresa"
+
+msgid "Mot de passe"
+msgstr "heslo"
+
+msgid "Se connecter"
+msgstr "Prihláste sa"
+
+msgid "Mot de passe oublié ?"
+msgstr "Zabudli ste heslo?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Už máte účet? V opačnom prípade pokračujte vo vytváraní účtu!"
+
+msgid "Créer un compte"
+msgstr "Vytvorte si účet"
+
+msgid "Sécurité maximale"
+msgstr "Maximálna bezpečnosť"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Chráňte svoje osobné údaje pomocou vzdialeného uzamknutia"
+
+msgid "Localisation GPS"
+msgstr "GPS poloha"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Nájdite presnú polohu svojho smartfónu v reálnom čase"
+
+msgid "Alertes instantanées"
+msgstr "Okamžité upozornenia"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Dostávajte SMS, e-mail a upozornenia push v prípade krádeže"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Nájdite svoje zariadenia a vizualizujte rizikové oblasti"
+
+msgid "Aucun appareil"
+msgstr "Žiadne zariadenie"
+
+msgid "Zones à risque"
+msgstr "Rizikové oblasti"
+
+msgid "incidents"
+msgstr "incidentov"
+
+msgid "Aucune zone signalée"
+msgstr "Nie sú nahlásené žiadne oblasti"
+
+msgid "Niveau"
+msgstr "úroveň"
+
+msgid "Incidents"
+msgstr "Incidenty"
+
+msgid "Profile utilisateur"
+msgstr "Používateľský profil"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Spravujte svoje osobné údaje"
+
+msgid "Membre depuis"
+msgstr "Členom od r"
+
+msgid "Modifier mes informations"
+msgstr "Upravte moje informácie"
+
+msgid "Prénom"
+msgstr "Krstné meno"
+
+msgid "Nom"
+msgstr "Meno"
+
+msgid "Changer le mot de passe"
+msgstr "Zmeniť heslo"
+
+msgid "Nouveau mot de passe"
+msgstr "Nové heslo"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "nechajte prázdne, aby sa nezmenilo"
+
+msgid "Enregistrer les modifications"
+msgstr "Uložiť zmeny"
+
+msgid "Inscription"
+msgstr "Registrácia"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Vitajte v Anti-Theft pre lepšie zabezpečenie vašich zariadení"
+
+msgid "Confirmer"
+msgstr "Potvrďte"
+
+msgid "Créer mon compte"
+msgstr "Vytvoriť môj účet"
+
+msgid "Déjà un compte ?"
+msgstr "Už máte účet?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Obnoviť heslo"
+
+msgid "Réinitialisation"
+msgstr "Resetovať"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Zadajte svoj e-mail a telefónne číslo na overenie identity"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Číslo použité pri registrácii"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimálne 6 znakov"
+
+msgid "Confirmer le mot de passe"
+msgstr "Potvrďte heslo"
+
+msgid "Retourner à la"
+msgstr "Návrat do"
+
+msgid "page de connexion"
+msgstr "prihlasovacia stránka"
+
+msgid "Vérification sécurisée"
+msgstr "Bezpečné overenie"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Vaša identita je overená pomocou vášho e-mailu a telefónneho čísla"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Zvoľte si bezpečné heslo s minimálne 6 znakmi"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Úprava zlyhala"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Úprava zlyhala: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Chyba systému Windows: {error}"
+
+msgid "deprecated"
+msgstr "zastarané"
+
+msgid "Options"
+msgstr "Možnosti"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Máte neočakávaný argument navyše ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"Upozornenie na ukončenie podpory: Príkaz {name!r} je "
+"zastaraný.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Prerušené!"
+
+msgid "Commands"
+msgstr "Príkazy"
+
+msgid "Missing command."
+msgstr "Chýbajúci príkaz."
+
+msgid "Value must be an iterable."
+msgstr "Hodnota musí byť iterovateľná."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Má hodnoty {nargs}, ale bola daná 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Upozornenie na ukončenie podpory: {param_type} {name!r} je "
+"zastarané.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Názov '{name}' je definovaný dvakrát"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Booleovská možnosť {decl!r} nemôže použiť rovnaký príznak pre hodnotu "
+"true/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Nepodarilo sa určiť názov možnosti s deklaráciami {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Nie sú definované žiadne možnosti, ale bol zadaný názov ({meno}). Chceli "
+"ste namiesto toho vyhlásiť argument? Chceli ste prejsť '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "predvolená hodnota: {default}"
+
+msgid "required"
+msgstr "požadované"
+
+msgid "(dynamic)"
+msgstr "(dynamický)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumenty majú presne jednu deklaráciu parametra, dostali {dĺžka}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Chcete pokračovať?"
+
+msgid "Confirm the action without prompting."
+msgstr "Potvrďte akciu bez výzvy."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, verzia %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Ukážte verziu a ukončite."
+
+msgid "Show this message and exit."
+msgstr "Ukážte túto správu a ukončite ju."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Mali ste na mysli slovo {possibility}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Chyba: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Skúste použiť príkaz {command} {option}."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Neplatná hodnota: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Neplatná hodnota pre {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Chýbajúci argument"
+
+msgid "Missing option"
+msgstr "Chýbajúca možnosť"
+
+msgid "Missing parameter"
+msgstr "Chýba parameter"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Chýba {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Chýba parameter: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Žiadna takáto možnosť {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Žiadny takýto príkaz {name!r}."
+
+msgid "unknown error"
+msgstr "neznáma chyba"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Nepodarilo sa otvoriť súbor {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Použitie:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Neplatný počiatočný znak pre možnosť ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argument {name!r} má {nargs} hodnôt."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Možnosť {name!r} nemá žiadnu hodnotu."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Možnosť {name!r} vyžaduje argument."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Dokončenie shellu nie je podporované pre verzie Bash staršie ako 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Verzia Bash sa nepodarilo zistiť, dokončenie shellu nie je podporované."
+
+msgid "Repeat for confirmation"
+msgstr "Pre potvrdenie opakujte"
+
+msgid "Error: The two entered values do not match."
+msgstr "Chyba: Dve zadané hodnoty sa nezhodujú."
+
+msgid "Error: invalid input"
+msgstr "Chyba: neplatný vstup"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Neznáma farba {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Pokračujte stlačením ľubovoľného klávesu..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Vyberte si z:\\n\\t{možností}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} nie je {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Výber ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} nezodpovedá formátu {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} nie je platný {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} nie je v rozsahu {rozsah}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} nie je platná logická hodnota. Rozpoznané hodnoty: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} nie je platné UUID."
+
+msgid "file"
+msgstr "súbor"
+
+msgid "directory"
+msgstr "adresár"
+
+msgid "path"
+msgstr "cesta"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} neexistuje."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} je súbor."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} je adresár."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} nie je čitateľný."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} nie je zapisovateľný."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} nie je spustiteľný."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Hodnoty {len_type} sú povinné, ale bolo zadané {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Neznámy štandardný stream '{name}'"
+
+msgid "This field is required."
+msgstr "Toto pole je povinné."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Súbor nemá schválenú príponu: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Súbor nemá schválenú príponu."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Súbor musí byť medzi {min_size} a {max_size} bajtov."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Neplatný názov poľa '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Pole sa musí rovnať %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Pole musí mať aspoň %(min)d znakov."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Pole nemôže byť dlhšie ako %(max)d znakov."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Pole musí mať presne %(max)d znakov."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Pole musí mať dĺžku od %(min)d do %(max)d znakov."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Číslo musí byť aspoň %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Číslo musí byť najviac %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Číslo musí byť medzi %(min)s a %(max)s."
+
+msgid "Invalid input."
+msgstr "Neplatný vstup."
+
+msgid "Invalid email address."
+msgstr "Neplatná e-mailová adresa."
+
+msgid "Invalid IP address."
+msgstr "Neplatná adresa IP."
+
+msgid "Invalid Mac address."
+msgstr "Neplatná adresa Mac."
+
+msgid "Invalid URL."
+msgstr "Neplatná adresa URL."
+
+msgid "Invalid UUID."
+msgstr "Neplatné UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Neplatná hodnota, musí to byť jedna z: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Neplatná hodnota, nemôže byť žiadna z: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Toto pole nie je možné upraviť."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Toto pole je zakázané a nemôže mať hodnotu."
+
+msgid "Invalid CSRF Token."
+msgstr "Neplatný token CSRF."
+
+msgid "CSRF token missing."
+msgstr "Chýba token CSRF."
+
+msgid "CSRF failed."
+msgstr "CSRF zlyhal."
+
+msgid "CSRF token expired."
+msgstr "Platnosť tokenu CSRF vypršala."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Neplatná voľba: nepodarilo sa vynútiť."
+
+msgid "Choices cannot be None."
+msgstr "Možnosti nemôžu byť Žiadne."
+
+msgid "Not a valid choice."
+msgstr "Neplatná voľba."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Neplatné voľby: jeden alebo viac údajových vstupov nebolo možné vynútiť."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' nie je platná voľba pre toto pole."
+
+msgid "Not a valid datetime value."
+msgstr "Neplatná hodnota dátumu a času."
+
+msgid "Not a valid date value."
+msgstr "Neplatná hodnota dátumu."
+
+msgid "Not a valid time value."
+msgstr "Neplatná časová hodnota."
+
+msgid "Not a valid week value."
+msgstr "Neplatná hodnota týždňa."
+
+msgid "Not a valid integer value."
+msgstr "Neplatná celočíselná hodnota."
+
+msgid "Not a valid decimal value."
+msgstr "Neplatná desatinná hodnota."
+
+msgid "Not a valid float value."
+msgstr "Neplatná plávajúca hodnota."
+

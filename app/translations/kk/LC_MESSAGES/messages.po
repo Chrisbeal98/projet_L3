@@ -1,0 +1,1049 @@
+# Translations for KK.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: kk\n"
+"Language-Team: kk <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Бұл бетке кіру үшін жүйеге кіріңіз."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Бұл IMEI жүйеде әлдеқашан тіркелген."
+
+msgid "Accès non autorisé."
+msgstr "Рұқсатсыз кіру."
+
+msgid "Appareil déverrouillé."
+msgstr "Құрылғы құлпы ашылды."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Ескерту жасалды! Хабарландырулар жіберілді."
+
+msgid "Alerte résolue."
+msgstr "Ескерту шешілді."
+
+msgid "Pas encore de compte ?"
+msgstr "Есептік жазба әлі жоқ па?"
+
+msgid "Mon Profil"
+msgstr "Менің профилім"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Қосылым сәтті! Қош келдіңіз."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Қате электрондық пошта немесе құпия сөз."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Барлық қажетті өрістер толтырылуы керек."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Құпия сөздер сәйкес келмейді."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Құпия сөз кемінде 6 таңбадан тұруы керек."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Бұл электрондық пошта бұрыннан қолданыста."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Есептік жазба сәтті жасалды! Жүйеге кіріңіз."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Бұл электрондық поштамен тіркелгілер табылмады."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Телефон нөмірі шот нөміріне сәйкес келмейді."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Жаңа құпия сөз міндетті болып табылады."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Құпия сөз сәтті қалпына келтірілді! Жүйеге кіріңіз."
+
+msgid "Vous avez été déconnecté."
+msgstr "Сіз ажыратылды."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Бренд, модель және IMEI қажет."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Бұл IMEI бар құрылғы бұрыннан бар."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Құрылғы сәтті тіркелді!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Бұл әрекетті орындауға рұқсатыңыз жоқ."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Құрылғы қашықтан сәтті құлыпталды."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Құрылғы құлпы сәтті ашылды."
+
+msgid "Appareil supprimé."
+msgstr "Құрылғы жойылды."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Құрылғыны және ескерту түрін таңдаңыз."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Бұл құрылғы сізге тиесілі емес."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Ескерту сәтті хабарланды. Құрылғы қорғалған."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Ескерту шешілді деп белгіленді."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Аты, тегі және электрондық поштасы қажет."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Бұл электрондық пошта басқа тіркелгімен бұрыннан пайдаланылған."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Профиль сәтті жаңартылды!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Кіру әкімшілер үшін сақталған."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Қате шешілді деп белгіленді."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Сіз өзіңіздің есептік жазбаңызды жоя алмайсыз."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Пайдаланушы сәтті жойылды."
+
+msgid "Administration"
+msgstr "Әкімшілік"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Ұрлыққа қарсы жүйені орталықтандырылған басқару"
+
+msgid "Utilisateurs"
+msgstr "Пайдаланушылар"
+
+msgid "Actifs aujourd'hui"
+msgstr "Бүгін белсенді"
+
+msgid "Nouveaux ce mois"
+msgstr "Осы айда жаңа"
+
+msgid "Appareils"
+msgstr "Құрылғылар"
+
+msgid "Alertes actives"
+msgstr "Белсенді ескертулер"
+
+msgid "Analytique"
+msgstr "Аналитикалық"
+
+msgid "Journal d'activité"
+msgstr "Әрекет журналы"
+
+msgid "Erreurs"
+msgstr "Қателер"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Қосылымдар (соңғы 7 күн)"
+
+msgid "Alertes par type"
+msgstr "Түрі бойынша ескертулер"
+
+msgid "Appareils par opérateur"
+msgstr "Оператор бойынша құрылғылар"
+
+msgid "Résumé du système"
+msgstr "Жүйенің қысқаша мазмұны"
+
+msgid "Utilisateurs total"
+msgstr "Жалпы пайдаланушылар"
+
+msgid "Appareils enregistrés"
+msgstr "Тіркелген құрылғылар"
+
+msgid "Total alertes"
+msgstr "Жалпы ескертулер"
+
+msgid "Alertes en cours"
+msgstr "Ағымдағы ескертулер"
+
+msgid "Erreurs non résolues"
+msgstr "Шешілмеген қателер"
+
+msgid "Dernières activités"
+msgstr "Соңғы әрекеттер"
+
+msgid "récentes"
+msgstr "жақында"
+
+msgid "Utilisateur"
+msgstr "Пайдаланушы"
+
+msgid "Action"
+msgstr "Әрекет"
+
+msgid "Détails"
+msgstr "Мәліметтер"
+
+msgid "Adresse IP"
+msgstr "IP мекенжайы"
+
+msgid "Navigateur"
+msgstr "Браузер"
+
+msgid "Date"
+msgstr "Күн"
+
+msgid "Aucune activité"
+msgstr "Белсенділік жоқ"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Пайдаланушы әрекеттері осы жерде пайда болады."
+
+msgid "Journal d'erreurs"
+msgstr "Қате журналы"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Барлық қателер түзетілсін бе?"
+
+msgid "Tout résoudre"
+msgstr "Барлығын шешіңіз"
+
+msgid "non résolues"
+msgstr "шешілмеген"
+
+msgid "Tout est résolu"
+msgstr "Бәрі шешілді"
+
+msgid "Type"
+msgstr "Мейірімді"
+
+msgid "Description"
+msgstr "Сипаттама"
+
+msgid "Statut"
+msgstr "Күй"
+
+msgid "Résolu"
+msgstr "Шешілді"
+
+msgid "Non résolu"
+msgstr "Шешілмеген"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Ешқандай қате жазылмады"
+
+msgid "Le système fonctionne correctement."
+msgstr "Жүйе дұрыс жұмыс істеп тұр."
+
+msgid "Gestion des utilisateurs"
+msgstr "Пайдаланушыны басқару"
+
+msgid "comptes"
+msgstr "шоттар"
+
+msgid "Email"
+msgstr "Электрондық пошта"
+
+msgid "Téléphone"
+msgstr "Телефон"
+
+msgid "Rôle"
+msgstr "Рөл"
+
+msgid "Inscrit le"
+msgstr "Тіркелген күні"
+
+msgid "Actions"
+msgstr "Әрекеттер"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Осы пайдаланушыны және оның барлық құрылғыларын жою қажет пе?"
+
+msgid "Vous"
+msgstr "СІЗ"
+
+msgid "Connexions"
+msgstr "Қосылымдар"
+
+msgid "Vol"
+msgstr "Ұшу"
+
+msgid "Perte"
+msgstr "Жоғалту"
+
+msgid "Anomalie"
+msgstr "Аномалия"
+
+msgid "Alertes"
+msgstr "Ескертулер"
+
+msgid "Gestion des alertes"
+msgstr "Ескертуді басқару"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Ұрлық немесе жоғалту туралы хабарлаңыз және тарихты бақылаңыз"
+
+msgid "Signaler un vol / perte"
+msgstr "Ұрлық/жоғалту туралы хабарлау"
+
+msgid "En cours"
+msgstr "Орындалуда"
+
+msgid "Résolues"
+msgstr "Шешілді"
+
+msgid "Historique des alertes"
+msgstr "Ескерту тарихы"
+
+msgid "Appareil"
+msgstr "Құрылғы"
+
+msgid "Priorité"
+msgstr "Басымдық"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Бұл ескертуді шешілген деп белгілеу керек пе?"
+
+msgid "Résoudre"
+msgstr "Шешіңіз"
+
+msgid "Aucune alerte"
+msgstr "Ескерту жоқ"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Жақсы жаңалық! Ешқандай ескертулер хабарланбаған."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Ұрлық немесе жоғалту туралы хабарлаңыз"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Ұрлық туралы хабарлау арқылы құрылғыңыз автоматты түрде құлыпталады және "
+"хабарландырулар жіберіледі."
+
+msgid "Appareil concerné"
+msgstr "Зардап шеккен құрылғы"
+
+msgid "Sélectionner un appareil"
+msgstr "Құрылғыны таңдаңыз"
+
+msgid "Type d'alerte"
+msgstr "Ескерту түрі"
+
+msgid "Décrivez les circonstances..."
+msgstr "Жағдайларды сипаттаңыз ..."
+
+msgid "Annuler"
+msgstr "Болдырмау"
+
+msgid "Signaler"
+msgstr "Есеп беру"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Ұрлыққа қарсы интеллектуалды жүйе — смартфондарға арналған қауіпсіздік "
+"платформасы"
+
+msgid "Système Anti-Vol"
+msgstr "Ұрлыққа қарсы жүйе"
+
+msgid "PRINCIPAL"
+msgstr "НЕГІЗГІ"
+
+msgid "Tableau de bord"
+msgstr "Бақылау тақтасы"
+
+msgid "SÉCURITÉ"
+msgstr "ҚАУІПСІЗДІК"
+
+msgid "Géolocalisation"
+msgstr "Геолокация"
+
+msgid "ADMINISTRATION"
+msgstr "ӘКІМШІЛІК"
+
+msgid "Déconnexion"
+msgstr "Ажырату"
+
+msgid "Changer de langue"
+msgstr "Тілді өзгерту"
+
+msgid "Rechercher une langue..."
+msgstr "Тіл іздеу..."
+
+msgid "Profil"
+msgstr "Профиль"
+
+msgid "Changer de thème"
+msgstr "Тақырыпты өзгерту"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Құрылғы қауіпсіздігіне шолу"
+
+msgid "Ajouter un appareil"
+msgstr "Құрылғы қосыңыз"
+
+msgid "Appareils volés"
+msgstr "Ұрланған құрылғылар"
+
+msgid "Verrouillés à distance"
+msgstr "Қашықтан құлыпталған"
+
+msgid "Alertes récentes"
+msgstr "Соңғы ескертулер"
+
+msgid "Voir tout"
+msgstr "Барлығын көру"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Ескерту жоқ. Құрылғыларыңыз қауіпсіз!"
+
+msgid "Mes appareils"
+msgstr "Менің құрылғыларым"
+
+msgid "Aucun appareil enregistré"
+msgstr "Тіркелген құрылғылар жоқ"
+
+msgid "Ajouter"
+msgstr "қосу"
+
+msgid "en attente"
+msgstr "күтуде"
+
+msgid "Gestion des appareils"
+msgstr "Құрылғыны басқару"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Смартфондарды тіркеңіз және басқарыңыз"
+
+msgid "Opérateur"
+msgstr "Оператор"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Бұл құрылғыны қашықтан құлыптау керек пе?"
+
+msgid "Verrouiller"
+msgstr "Құлыптау"
+
+msgid "Déverrouiller"
+msgstr "Құлыпты ашу"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Бұл құрылғыны жою қажет пе?"
+
+msgid "Supprimer"
+msgstr "ЖОЮ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Оны қорғауды бастау үшін бірінші смартфонды қосыңыз."
+
+msgid "Nouvel appareil"
+msgstr "Жаңа құрылғы"
+
+msgid "Marque"
+msgstr "Бренд"
+
+msgid "Sélectionner"
+msgstr "таңдаңыз"
+
+msgid "Autre"
+msgstr "Басқа"
+
+msgid "Modèle"
+msgstr "Үлгі"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "телефоныңызға *#06# теріңіз"
+
+msgid "Système d'exploitation"
+msgstr "Операциялық жүйе"
+
+msgid "Numéro de téléphone"
+msgstr "Телефон нөмірі"
+
+msgid "Enregistrer"
+msgstr "Сақтау"
+
+msgid "Connexion"
+msgstr "Байланыс"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Смартфонның қауіпсіздік жүйесі"
+
+msgid "Adresse email"
+msgstr "Электрондық поштаның адресі"
+
+msgid "Mot de passe"
+msgstr "Құпия сөз"
+
+msgid "Se connecter"
+msgstr "Жүйеге кіріңіз"
+
+msgid "Mot de passe oublié ?"
+msgstr "Құпия сөзді ұмыттыңыз ба?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Сізде бұрыннан тіркелгі бар ма? Әйтпесе, тіркелгіңізді жасауды "
+"жалғастырыңыз!"
+
+msgid "Créer un compte"
+msgstr "Аккаунты құру"
+
+msgid "Sécurité maximale"
+msgstr "Максималды қауіпсіздік"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Жеке деректеріңізді қашықтан құлыптау арқылы қорғаңыз"
+
+msgid "Localisation GPS"
+msgstr "GPS орны"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Нақты уақытта смартфонның нақты орнын табыңыз"
+
+msgid "Alertes instantanées"
+msgstr "Жедел ескертулер"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr ""
+"Ұрлық болған жағдайда SMS, электрондық пошта және push хабарландыруларын "
+"алыңыз"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Құрылғыларыңызды тауып, қауіпті аймақтарды визуализациялаңыз"
+
+msgid "Aucun appareil"
+msgstr "Құрылғы жоқ"
+
+msgid "Zones à risque"
+msgstr "Тәуекел аймақтары"
+
+msgid "incidents"
+msgstr "оқиғалар"
+
+msgid "Aucune zone signalée"
+msgstr "Ешқандай аумақ хабарланбады"
+
+msgid "Niveau"
+msgstr "Деңгей"
+
+msgid "Incidents"
+msgstr "Оқиғалар"
+
+msgid "Profile utilisateur"
+msgstr "Пайдаланушы профилі"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Жеке ақпаратыңызды басқарыңыз"
+
+msgid "Membre depuis"
+msgstr "бері мүше"
+
+msgid "Modifier mes informations"
+msgstr "Менің ақпаратымды өңдеңіз"
+
+msgid "Prénom"
+msgstr "Аты"
+
+msgid "Nom"
+msgstr "Аты"
+
+msgid "Changer le mot de passe"
+msgstr "Құпия сөзді өзгерту"
+
+msgid "Nouveau mot de passe"
+msgstr "Жаңа құпия сөз"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "өзгертпеу үшін бос қалдырыңыз"
+
+msgid "Enregistrer les modifications"
+msgstr "Өзгерістерді сақтау"
+
+msgid "Inscription"
+msgstr "Тіркеу"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"Құрылғыларыңыздың қауіпсіздігін жақсарту үшін Ұрлыққа қарсы қолданбаға "
+"қош келдіңіз"
+
+msgid "Confirmer"
+msgstr "Растау"
+
+msgid "Créer mon compte"
+msgstr "Менің тіркелгімді жасау"
+
+msgid "Déjà un compte ?"
+msgstr "Есептік жазбаңыз бар ма?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Құпия сөзді қалпына келтіру"
+
+msgid "Réinitialisation"
+msgstr "Қалпына келтіру"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Жеке басыңызды растау үшін электрондық поштаңызды және телефон "
+"нөміріңізді енгізіңіз"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Тіркеу кезінде пайдаланылған нөмір"
+
+msgid "Minimum 6 caractères"
+msgstr "Кемінде 6 таңба"
+
+msgid "Confirmer le mot de passe"
+msgstr "Құпия сөзді Растау"
+
+msgid "Retourner à la"
+msgstr "Қайту"
+
+msgid "page de connexion"
+msgstr "кіру беті"
+
+msgid "Vérification sécurisée"
+msgstr "Қауіпсіз растау"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Жеке басыңыз электрондық поштаңыз бен телефон нөміріңіз арқылы расталады"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Кемінде 6 таңбадан тұратын қауіпсіз құпия сөзді таңдаңыз"
+
+msgid "d"
+msgstr "г"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{Editor}: Өңдеу орындалмады"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{редактор}: Өңдеу орындалмады: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows қатесі: {қате}"
+
+msgid "deprecated"
+msgstr "ескірген"
+
+msgid "Options"
+msgstr "Параметрлер"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Күтпеген қосымша аргумент алды ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Ескерту: {name!r} пәрмені ескірген.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Тоқтатылды!"
+
+msgid "Commands"
+msgstr "Командалар"
+
+msgid "Missing command."
+msgstr "Пәрмен жоқ."
+
+msgid "Value must be an iterable."
+msgstr "Мән қайталанатын болуы керек."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} мәндерін қабылдайды, бірақ 1 берілді."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "Ескерту: {param_type} {name!r} ескірген.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "\"{name}\" атауы екі рет анықталды"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Логикалық опция {decl!r} шын/жалған үшін бірдей жалаушаны пайдалана "
+"алмайды."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "{decls!r} мәлімдемесі бар опция атауын анықтау мүмкін болмады"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Опциялар анықталмады, бірақ атау берілді ({name}). Оның орнына дау "
+"жариялағыңыз келді ме? Сіз '--{name}' өткіңіз келді ме?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "әдепкі: {әдепкі}"
+
+msgid "required"
+msgstr "қажет"
+
+msgid "(dynamic)"
+msgstr "(динамикалық)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Аргументтер дәл бір параметр мәлімдемесін қабылдайды, {length} алды: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Жалғастырғыңыз келе ме?"
+
+msgid "Confirm the action without prompting."
+msgstr "Әрекетті сұраусыз растаңыз."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, %(version)s нұсқасы"
+
+msgid "Show the version and exit."
+msgstr "Нұсқаны көрсетіп, шығыңыз."
+
+msgid "Show this message and exit."
+msgstr "Осы хабарды көрсетіп, шығыңыз."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Сіз {мүмкіндік} дегенді білдірдіңіз бе?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Қате: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Анықтама алу үшін '{command} {option}' қолданып көріңіз."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Жарамсыз мән: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint} үшін жарамсыз мән: {message}"
+
+msgid "Missing argument"
+msgstr "Аргумент жоқ"
+
+msgid "Missing option"
+msgstr "Опция жоқ"
+
+msgid "Missing parameter"
+msgstr "Параметр жоқ"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} жоқ"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Жетіспейтін параметр: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Мұндай опция жоқ {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Мұндай пәрмен жоқ {name!r}."
+
+msgid "unknown error"
+msgstr "белгісіз қате"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "{filename!r} файлын ашу мүмкін болмады: {message}"
+
+msgid "Usage:"
+msgstr "Қолдану:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Опция үшін жарамсыз бастапқы таңба ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "{name!r} аргументі {nargs} мәндерін қабылдайды."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "{name!r} опциясы мән алмайды."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "{name!r} опциясы аргумент талап етеді."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "4.4-тен асқан Bash нұсқалары үшін қабықшаны аяқтауға қолдау көрсетілмейді."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Bash нұсқасын анықтау мүмкін болмады, қабықшаны аяқтауға қолдау "
+"көрсетілмейді."
+
+msgid "Repeat for confirmation"
+msgstr "Растау үшін қайталаңыз"
+
+msgid "Error: The two entered values do not match."
+msgstr "Қате: енгізілген екі мән сәйкес келмейді."
+
+msgid "Error: invalid input"
+msgstr "Қате: жарамсыз енгізу"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Белгісіз түс {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Жалғастыру үшін кез келген пернені басыңыз..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Таңдаңыз:\\n\\t{таңдаулар}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} — {choice} емес."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Таңдау({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} {пішім} пішіміне сәйкес келмейді."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} жарамды {сан_түрі} емес."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} {ауқым} ауқымында емес."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} жарамды логикалық емес. Танылған мәндер: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} жарамды UUID емес."
+
+msgid "file"
+msgstr "файл"
+
+msgid "directory"
+msgstr "каталог"
+
+msgid "path"
+msgstr "жол"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} жоқ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} — файл."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} — каталог."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} оқылмайды."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {файл аты!r} жазылмайды."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} орындалмайды."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} мәндері қажет, бірақ {len_value} берілген."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Белгісіз стандартты ағын '{name}'"
+
+msgid "This field is required."
+msgstr "Бұл өріс қажет."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Файлдың бекітілген кеңейтімі жоқ: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Файлдың бекітілген кеңейтімі жоқ."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Файл {min_size} және {max_size} байт аралығында болуы керек."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "\"%s\" өріс атауы жарамсыз."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Өріс %(other_name)s мәніне тең болуы керек."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Өріс кемінде %(min)d таңбадан тұруы керек."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Өріс %(max)d таңбадан ұзын болмауы керек."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Өріс дәл %(max)d таңбадан тұруы керек."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Өріс ұзындығы %(min)d және %(max)d таңба аралығында болуы керек."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Сан кем дегенде %(min)s болуы керек."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Сан ең көбі %(max)s болуы керек."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Сан %(min)s және %(max)s арасында болуы керек."
+
+msgid "Invalid input."
+msgstr "Жарамсыз енгізу."
+
+msgid "Invalid email address."
+msgstr "Жарамсыз электрондық пошта мекенжайы."
+
+msgid "Invalid IP address."
+msgstr "Жарамсыз IP мекенжайы."
+
+msgid "Invalid Mac address."
+msgstr "Жарамсыз Mac мекенжайы."
+
+msgid "Invalid URL."
+msgstr "Жарамсыз URL."
+
+msgid "Invalid UUID."
+msgstr "Жарамсыз UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Жарамсыз мән, мыналардың бірі болуы керек: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Жарамсыз мән, мыналардың ешқайсысы болуы мүмкін емес: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Бұл өрісті өңдеу мүмкін емес."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Бұл өріс өшірілген және мәнге ие бола алмайды."
+
+msgid "Invalid CSRF Token."
+msgstr "Жарамсыз CSRF таңбалауышы."
+
+msgid "CSRF token missing."
+msgstr "CSRF таңбалауышы жоқ."
+
+msgid "CSRF failed."
+msgstr "CSRF сәтсіз аяқталды."
+
+msgid "CSRF token expired."
+msgstr "CSRF белгісінің мерзімі аяқталды."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Жарамсыз таңдау: мәжбүрлеу мүмкін емес."
+
+msgid "Choices cannot be None."
+msgstr "Таңдаулар Жоқ болуы мүмкін емес."
+
+msgid "Not a valid choice."
+msgstr "Жарамды таңдау емес."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Жарамсыз таңдау(лар): бір немесе бірнеше деректерді енгізуді мәжбүрлеу "
+"мүмкін емес."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' бұл өріс үшін жарамды таңдау емес."
+
+msgid "Not a valid datetime value."
+msgstr "Жарамды күн уақыты мәні емес."
+
+msgid "Not a valid date value."
+msgstr "Жарамды күн мәні емес."
+
+msgid "Not a valid time value."
+msgstr "Жарамды уақыт мәні емес."
+
+msgid "Not a valid week value."
+msgstr "Жарамды апта мәні емес."
+
+msgid "Not a valid integer value."
+msgstr "Жарамды бүтін мән емес."
+
+msgid "Not a valid decimal value."
+msgstr "Жарамды ондық мән емес."
+
+msgid "Not a valid float value."
+msgstr "Жарамды қалқымалы мән емес."
+

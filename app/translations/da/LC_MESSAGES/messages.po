@@ -1,0 +1,1037 @@
+# Translations for DA.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: da\n"
+"Language-Team: da <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Log venligst ind for at få adgang til denne side."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Denne IMEI er allerede registreret i systemet."
+
+msgid "Accès non autorisé."
+msgstr "Uautoriseret adgang."
+
+msgid "Appareil déverrouillé."
+msgstr "Enheden er låst op."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Underretning oprettet! Beskeder sendt."
+
+msgid "Alerte résolue."
+msgstr "Alarm løst."
+
+msgid "Pas encore de compte ?"
+msgstr "Ingen konto endnu?"
+
+msgid "Mon Profil"
+msgstr "Min profil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Forbindelsen lykkedes! Velkomst."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Forkert e-mail eller adgangskode."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Alle obligatoriske felter skal udfyldes."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Adgangskoder stemmer ikke overens."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Adgangskoden skal indeholde mindst 6 tegn."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Denne e-mail er allerede i brug."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Konto oprettet! Log ind."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Ingen konti fundet med denne e-mail."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Telefonnummeret stemmer ikke overens med kontonummeret."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Den nye adgangskode er obligatorisk."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Adgangskode nulstillet med succes! Log ind."
+
+msgid "Vous avez été déconnecté."
+msgstr "Du er blevet afbrudt."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Mærke, model og IMEI er påkrævet."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Der findes allerede en enhed med denne IMEI."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Enheden er registreret!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Du er ikke autoriseret til at udføre denne handling."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Enheden blev fjernlåst."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Enheden blev låst op."
+
+msgid "Appareil supprimé."
+msgstr "Enheden er slettet."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Vælg venligst en enhed og advarselstype."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Denne enhed tilhører ikke dig."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Advarsel rapporteret med succes. Enheden er blevet sikret."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Advarsel markeret som løst."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Fornavn, efternavn og e-mail er påkrævet."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Denne e-mail er allerede brugt af en anden konto."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profilen blev opdateret!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Adgang forbeholdt administratorer."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Fejl markeret som løst."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Du kan ikke slette din egen konto."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Brugeren blev slettet."
+
+msgid "Administration"
+msgstr ""
+"\n"
+"\t\t\t\tAdministration\t\t\t"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Centraliseret styring af tyverisikringssystemet"
+
+msgid "Utilisateurs"
+msgstr "Brugere"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktiv i dag"
+
+msgid "Nouveaux ce mois"
+msgstr "Nyt denne måned"
+
+msgid "Appareils"
+msgstr "Enheder"
+
+msgid "Alertes actives"
+msgstr "Aktive alarmer"
+
+msgid "Analytique"
+msgstr "Analytisk"
+
+msgid "Journal d'activité"
+msgstr "Aktivitetslog"
+
+msgid "Erreurs"
+msgstr "Fejl"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Forbindelser (sidste 7 dage)"
+
+msgid "Alertes par type"
+msgstr "Advarsler efter type"
+
+msgid "Appareils par opérateur"
+msgstr "Enheder af operatør"
+
+msgid "Résumé du système"
+msgstr "Systemoversigt"
+
+msgid "Utilisateurs total"
+msgstr "Samlede brugere"
+
+msgid "Appareils enregistrés"
+msgstr "Registrerede enheder"
+
+msgid "Total alertes"
+msgstr "Samlede alarmer"
+
+msgid "Alertes en cours"
+msgstr "Aktuelle alarmer"
+
+msgid "Erreurs non résolues"
+msgstr "Uløste fejl"
+
+msgid "Dernières activités"
+msgstr "Seneste aktiviteter"
+
+msgid "récentes"
+msgstr "nylig"
+
+msgid "Utilisateur"
+msgstr "Bruger"
+
+msgid "Action"
+msgstr "Handling"
+
+msgid "Détails"
+msgstr "Detaljer"
+
+msgid "Adresse IP"
+msgstr "IP-adresse"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Aucune activité"
+msgstr "Ingen aktivitet"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Brugeraktiviteter vises her."
+
+msgid "Journal d'erreurs"
+msgstr "Fejllog"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Rette alle fejl?"
+
+msgid "Tout résoudre"
+msgstr "Løs alt"
+
+msgid "non résolues"
+msgstr "uafklaret"
+
+msgid "Tout est résolu"
+msgstr "Alt er løst"
+
+msgid "Type"
+msgstr "Slags"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Statut"
+msgstr "Status"
+
+msgid "Résolu"
+msgstr "Løst"
+
+msgid "Non résolu"
+msgstr "Uafklaret"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Ingen fejl registreret"
+
+msgid "Le système fonctionne correctement."
+msgstr "Systemet fungerer korrekt."
+
+msgid "Gestion des utilisateurs"
+msgstr "Brugerstyring"
+
+msgid "comptes"
+msgstr "regnskaber"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telefon"
+
+msgid "Rôle"
+msgstr "Rolle"
+
+msgid "Inscrit le"
+msgstr "Registreret d"
+
+msgid "Actions"
+msgstr "Handlinger"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Vil du slette denne bruger og alle deres enheder?"
+
+msgid "Vous"
+msgstr "DU"
+
+msgid "Connexions"
+msgstr "Forbindelser"
+
+msgid "Vol"
+msgstr "Flyvningen"
+
+msgid "Perte"
+msgstr "Tab"
+
+msgid "Anomalie"
+msgstr "Anomali"
+
+msgid "Alertes"
+msgstr "Advarsler"
+
+msgid "Gestion des alertes"
+msgstr "Advarselsstyring"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Rapporter tyveri eller tab og følg historie"
+
+msgid "Signaler un vol / perte"
+msgstr "Anmeld tyveri/tab"
+
+msgid "En cours"
+msgstr "I gang"
+
+msgid "Résolues"
+msgstr "Løst"
+
+msgid "Historique des alertes"
+msgstr "Alarmhistorik"
+
+msgid "Appareil"
+msgstr "Enhed"
+
+msgid "Priorité"
+msgstr "Prioritet"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Vil du markere denne underretning som løst?"
+
+msgid "Résoudre"
+msgstr "Løse"
+
+msgid "Aucune alerte"
+msgstr "Ingen alarm"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Gode ​​nyheder! Ingen advarsler er blevet rapporteret."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Anmeld tyveri eller tab"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Ved at anmelde et tyveri bliver din enhed automatisk låst, og "
+"notifikationer vil blive sendt."
+
+msgid "Appareil concerné"
+msgstr "Berørt enhed"
+
+msgid "Sélectionner un appareil"
+msgstr "Vælg en enhed"
+
+msgid "Type d'alerte"
+msgstr "Advarselstype"
+
+msgid "Décrivez les circonstances..."
+msgstr "Beskriv omstændighederne..."
+
+msgid "Annuler"
+msgstr "Ophæve"
+
+msgid "Signaler"
+msgstr "Rapport"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Intelligent Anti-Theft System — Sikkerhedsplatform til smartphones"
+
+msgid "Système Anti-Vol"
+msgstr "Anti-tyveri system"
+
+msgid "PRINCIPAL"
+msgstr "HOVED"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "SIKKERHED"
+
+msgid "Géolocalisation"
+msgstr "Geolokalisering"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRATION"
+
+msgid "Déconnexion"
+msgstr "Afbryde"
+
+msgid "Changer de langue"
+msgstr "Skift sprog"
+
+msgid "Rechercher une langue..."
+msgstr "Søg efter et sprog..."
+
+msgid "Profil"
+msgstr "Profil"
+
+msgid "Changer de thème"
+msgstr "Skift tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Oversigt over din enheds sikkerhed"
+
+msgid "Ajouter un appareil"
+msgstr "Tilføj en enhed"
+
+msgid "Appareils volés"
+msgstr "Stjålne enheder"
+
+msgid "Verrouillés à distance"
+msgstr "Fjernlåst"
+
+msgid "Alertes récentes"
+msgstr "Seneste underretninger"
+
+msgid "Voir tout"
+msgstr "Se alle"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Ingen alarm. Dine enheder er sikre!"
+
+msgid "Mes appareils"
+msgstr "Mine enheder"
+
+msgid "Aucun appareil enregistré"
+msgstr "Ingen enheder registreret"
+
+msgid "Ajouter"
+msgstr "Tilføje"
+
+msgid "en attente"
+msgstr "på hold"
+
+msgid "Gestion des appareils"
+msgstr "Enhedshåndtering"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Registrer og administrer dine smartphones"
+
+msgid "Opérateur"
+msgstr "Operatør"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Lås denne enhed eksternt?"
+
+msgid "Verrouiller"
+msgstr "Låse"
+
+msgid "Déverrouiller"
+msgstr "Lås op"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Vil du slette denne enhed?"
+
+msgid "Supprimer"
+msgstr "SLET"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Tilføj din første smartphone for at begynde at beskytte den."
+
+msgid "Nouvel appareil"
+msgstr "Ny enhed"
+
+msgid "Marque"
+msgstr "Mærke"
+
+msgid "Sélectionner"
+msgstr "Vælge"
+
+msgid "Autre"
+msgstr "Andre"
+
+msgid "Modèle"
+msgstr "Model"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "skriv *#06# på din telefon"
+
+msgid "Système d'exploitation"
+msgstr "Operativsystem"
+
+msgid "Numéro de téléphone"
+msgstr "Telefonnummer"
+
+msgid "Enregistrer"
+msgstr "Spare"
+
+msgid "Connexion"
+msgstr "Forbindelse"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Smartphone sikkerhedssystem"
+
+msgid "Adresse email"
+msgstr "E-mail adresse"
+
+msgid "Mot de passe"
+msgstr "Adgangskode"
+
+msgid "Se connecter"
+msgstr "Log ind"
+
+msgid "Mot de passe oublié ?"
+msgstr "Glemt adgangskode?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Har du allerede en konto? Ellers skal du fortsætte med at oprette din "
+"konto!"
+
+msgid "Créer un compte"
+msgstr "Opret en konto"
+
+msgid "Sécurité maximale"
+msgstr "Maksimal sikkerhed"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Beskyt dine personlige data med fjernlåsning"
+
+msgid "Localisation GPS"
+msgstr "GPS-placering"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Find den nøjagtige placering af din smartphone i realtid"
+
+msgid "Alertes instantanées"
+msgstr "Øjeblikkelige advarsler"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Modtag SMS, e-mail og push notifikationer i tilfælde af tyveri"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Find dine enheder og visualiser risikoområder"
+
+msgid "Aucun appareil"
+msgstr "Ingen enhed"
+
+msgid "Zones à risque"
+msgstr "Risikoområder"
+
+msgid "incidents"
+msgstr "hændelser"
+
+msgid "Aucune zone signalée"
+msgstr "Ingen områder rapporteret"
+
+msgid "Niveau"
+msgstr "Baseline"
+
+msgid "Incidents"
+msgstr "Hændelser"
+
+msgid "Profile utilisateur"
+msgstr "Brugerprofil"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Administrer dine personlige oplysninger"
+
+msgid "Membre depuis"
+msgstr "Medlem siden"
+
+msgid "Modifier mes informations"
+msgstr "Rediger mine oplysninger"
+
+msgid "Prénom"
+msgstr "Fornavn"
+
+msgid "Nom"
+msgstr "Navn"
+
+msgid "Changer le mot de passe"
+msgstr "Skift adgangskode"
+
+msgid "Nouveau mot de passe"
+msgstr "Ny adgangskode"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "lad stå tomt for ikke at ændre"
+
+msgid "Enregistrer les modifications"
+msgstr "Gem ændringer"
+
+msgid "Inscription"
+msgstr "Registrering"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Velkommen til Anti-Theft for bedre sikkerhed på dine enheder"
+
+msgid "Confirmer"
+msgstr "Bekræfte"
+
+msgid "Créer mon compte"
+msgstr "Opret min konto"
+
+msgid "Déjà un compte ?"
+msgstr "Har du allerede en konto?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Nulstil adgangskode"
+
+msgid "Réinitialisation"
+msgstr "Nulstil"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Indtast din e-mail og dit telefonnummer for at bekræfte din identitet"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Nummeret brugt under registreringen"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimum 6 tegn"
+
+msgid "Confirmer le mot de passe"
+msgstr "Bekræft adgangskode"
+
+msgid "Retourner à la"
+msgstr "Vend tilbage til"
+
+msgid "page de connexion"
+msgstr "login side"
+
+msgid "Vérification sécurisée"
+msgstr "Sikker verifikation"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Din identitet bekræftes ved hjælp af din e-mail og dit telefonnummer"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Vælg en sikker adgangskode på mindst 6 tegn"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Redigering mislykkedes"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Redigering mislykkedes: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows-fejl: {fejl}"
+
+msgid "deprecated"
+msgstr "forældet"
+
+msgid "Options"
+msgstr "Valgmuligheder"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Fik uventet ekstra argument ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Kommandoen {name!r} er forældet.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Afbrudt!"
+
+msgid "Commands"
+msgstr "Kommandoer"
+
+msgid "Missing command."
+msgstr "Manglende kommando."
+
+msgid "Value must be an iterable."
+msgstr "Værdien skal være en iterabel."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Tager {nargs} værdier, men 1 blev givet."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: {param_type} {name!r} er forældet.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Navnet '{name}' defineret to gange"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Den boolske indstilling {decl!r} kan ikke bruge det samme flag for "
+"sand/falsk."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Kunne ikke bestemme navn for mulighed med erklæringer {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Ingen indstillinger defineret, men et navn blev givet ({name}). Mente du "
+"at erklære et argument i stedet for? Mente du at sende '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var env: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "standard: {standard}"
+
+msgid "required"
+msgstr "påkrævet"
+
+msgid "(dynamic)"
+msgstr "(dynamisk)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Argumenter tager præcis én parametererklæring, fik {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Vil du fortsætte?"
+
+msgid "Confirm the action without prompting."
+msgstr "Bekræft handlingen uden at spørge."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%( prog )s, version %( version )s"
+
+msgid "Show the version and exit."
+msgstr "Vis versionen og afslut."
+
+msgid "Show this message and exit."
+msgstr "Vis denne besked og afslut."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Mente du {mulighed}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Fejl: {meddelelse}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Prøv '{command} {option}' for at få hjælp."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Ugyldig værdi: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Ugyldig værdi for {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Manglende argument"
+
+msgid "Missing option"
+msgstr "Manglende mulighed"
+
+msgid "Missing parameter"
+msgstr "Manglende parameter"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Mangler {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Manglende parameter: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Ingen sådan mulighed {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Ingen sådan kommando {name!r}."
+
+msgid "unknown error"
+msgstr "ukendt fejl"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Kunne ikke åbne filen {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Bruge:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Ugyldigt starttegn for valgmulighed ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumentet {name!r} tager {nargs}-værdier."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Indstillingen {name!r} tager ikke en værdi."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Mulighed {name!r} kræver et argument."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell-fuldførelse er ikke understøttet for Bash-versioner ældre end 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Kunne ikke finde Bash-versionen, shell-fuldførelse er ikke understøttet."
+
+msgid "Repeat for confirmation"
+msgstr "Gentag for bekræftelse"
+
+msgid "Error: The two entered values do not match."
+msgstr "Fejl: De to indtastede værdier stemmer ikke overens."
+
+msgid "Error: invalid input"
+msgstr "Fejl: ugyldigt input"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Ukendt farve {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Tryk på en vilkårlig tast for at fortsætte..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Vælg mellem:\\n\\t{valg}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} er ikke {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Valg({valg})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} matcher ikke formatet {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} er ikke en gyldig {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} er ikke i området {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} er ikke en gyldig boolean. Genkendte værdier: {stater}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} er ikke et gyldigt UUID."
+
+msgid "file"
+msgstr "fil"
+
+msgid "directory"
+msgstr "vejviser"
+
+msgid "path"
+msgstr "sti"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{navn} {filnavn!r} eksisterer ikke."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{navn} {filnavn!r} er en fil."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{navn} {filnavn!r} er en mappe."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{navn} {filnavn!r} kan ikke læses."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{navn} {filnavn!r} kan ikke skrives."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{navn} {filnavn!r} er ikke eksekverbar."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} værdier er påkrævet, men {len_value} blev givet."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Ukendt standardstream '{name}'"
+
+msgid "This field is required."
+msgstr "Dette felt er påkrævet."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Filen har ikke en godkendt udvidelse: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Filen har ikke en godkendt udvidelse."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Filen skal være mellem {min_size} og {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Ugyldigt feltnavn '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Feltet skal være lig med %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Feltet skal være mindst %(min)d tegn langt."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Feltet må ikke være længere end %(max)d tegn."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Feltet skal være nøjagtigt %(max)d tegn langt."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Feltet skal være mellem %(min)d og %(max)d tegn langt."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Antallet skal være mindst %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Antallet må højst være %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Antallet skal være mellem %(min)s og %(max)s."
+
+msgid "Invalid input."
+msgstr "Ugyldigt input."
+
+msgid "Invalid email address."
+msgstr "Ugyldig e-mailadresse."
+
+msgid "Invalid IP address."
+msgstr "Ugyldig IP-adresse."
+
+msgid "Invalid Mac address."
+msgstr "Ugyldig Mac-adresse."
+
+msgid "Invalid URL."
+msgstr "Ugyldig URL."
+
+msgid "Invalid UUID."
+msgstr "Ugyldigt UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Ugyldig værdi, skal være en af: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Ugyldig værdi, kan ikke være nogen af: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Dette felt kan ikke redigeres."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Dette felt er deaktiveret og kan ikke have en værdi."
+
+msgid "Invalid CSRF Token."
+msgstr "Ugyldigt CSRF-token."
+
+msgid "CSRF token missing."
+msgstr "CSRF-token mangler."
+
+msgid "CSRF failed."
+msgstr "CSRF mislykkedes."
+
+msgid "CSRF token expired."
+msgstr "CSRF-token er udløbet."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Ugyldigt valg: kunne ikke tvinge."
+
+msgid "Choices cannot be None."
+msgstr "Valg kan ikke være Ingen."
+
+msgid "Not a valid choice."
+msgstr "Ikke et gyldigt valg."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Ugyldige valg: et eller flere datainput kunne ikke tvinges."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' er ikke et gyldigt valg for dette felt."
+
+msgid "Not a valid datetime value."
+msgstr "Ikke en gyldig datetime-værdi."
+
+msgid "Not a valid date value."
+msgstr "Ikke en gyldig datoværdi."
+
+msgid "Not a valid time value."
+msgstr "Ikke en gyldig tidsværdi."
+
+msgid "Not a valid week value."
+msgstr "Ikke en gyldig ugeværdi."
+
+msgid "Not a valid integer value."
+msgstr "Ikke en gyldig heltalsværdi."
+
+msgid "Not a valid decimal value."
+msgstr "Ikke en gyldig decimalværdi."
+
+msgid "Not a valid float value."
+msgstr "Ikke en gyldig flydende værdi."
+

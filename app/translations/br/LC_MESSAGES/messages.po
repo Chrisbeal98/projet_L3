@@ -1,0 +1,1044 @@
+# Translations for BR.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: br\n"
+"Language-Team: br <LL@li.org>\n"
+"Plural-Forms: nplurals=6; plural=(n==1 ? 0 : n%10==1 && n%100!=11 && "
+"n%100!=71 && n%100!=91 ? 1 : n%10==2 && n%100!=12 && n%100!=72 && "
+"n%100!=92 ? 2 : (n%10==3 || n%10==4 || n%10==9) && n%100!=13 && n%100!=14"
+" && n%100!=19 && n%100!=73 && n%100!=74 && n%100!=79 && n%100!=93 && "
+"n%100!=94 && n%100!=99 ? 3 : n%1000000==0 ? 4 : 5);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Mar plij, kevreit evit mont war ar bajenn-mañ."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Enrollet eo an IMEI-mañ er reizhiad dija."
+
+msgid "Accès non autorisé."
+msgstr "Moned hep aotre."
+
+msgid "Appareil déverrouillé."
+msgstr "Dibrennañ an urzhiataer."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Krouet eo bet an diwall ! Kemennadennoù kaset."
+
+msgid "Alerte résolue."
+msgstr "Diwall diskoulmet."
+
+msgid "Pas encore de compte ?"
+msgstr "Kont ebet c'hoazh ?"
+
+msgid "Mon Profil"
+msgstr "Ma profil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Deuet eo a-benn ar c'hennask ! Degemer mat."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Postel pe ger-tremen direizh."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Ret eo leuniañ an holl vaeziennoù rekis."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Ne glot ket ar gerioù-tremen."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Ret eo d'ar ger-tremen kaout 6 arouezenn d'an nebeutañ."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Implijet e vez ar postel-mañ dija."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Krouet eo bet ar gont gant berzh ! Kevreañ."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "N'eus bet kavet kont ebet gant ar postel-mañ."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Ne glot ket an niverenn bellgomz gant niverenn ar gont."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Ret eo kaout ar ger-tremen nevez."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Adderaouekaat ar ger-tremen gant berzh ! Kevreañ."
+
+msgid "Vous avez été déconnecté."
+msgstr "Distaget oc'h bet."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Merk, patrom hag IMEI a zo rekis."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Ur benveg gant an IMEI-mañ zo anezhañ dija."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Enrollet eo bet an urzhiataer gant berzh !"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "N'oc'h ket aotreet d'ober an ober-mañ."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Prennet eo bet an urzhiataer a-bell gant berzh."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Dibrennet eo bet an urzhiataer gant berzh."
+
+msgid "Appareil supprimé."
+msgstr "Dilamet eo bet an urzhiataer."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Dibabit un dafariad hag ur seurt kemennadenn mar plij."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "N'eo ket deoc'h an dafariad-mañ."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Kemennet eo bet an diwall gant berzh. Diogelet eo bet an dafariad."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Diwall merket evel diskoulmet."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Anv-tiegezh, anv-bihan ha postel a zo rekis."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Implijet eo ar postel-mañ gant ur gont all dija."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Hizivaet eo bet ar profil gant berzh !"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "An tremen miret d'ar verourien."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Fazi merket evel diskoulmet."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "N'hallit ket dilemel ho kont hoc'h-unan."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Diverket eo bet an implijer gant berzh."
+
+msgid "Administration"
+msgstr "Melestradurezh"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Merañ kreizennet ar reizhiad Enep-Laeroñsi"
+
+msgid "Utilisateurs"
+msgstr "Implijerien"
+
+msgid "Actifs aujourd'hui"
+msgstr "Oberiant hiziv"
+
+msgid "Nouveaux ce mois"
+msgstr "Nevez ar miz-mañ"
+
+msgid "Appareils"
+msgstr "Dafar"
+
+msgid "Alertes actives"
+msgstr "Kemennadennoù oberiant"
+
+msgid "Analytique"
+msgstr "Analitikel"
+
+msgid "Journal d'activité"
+msgstr "Marilh obererezhioù"
+
+msgid "Erreurs"
+msgstr "Fazioù"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Kevreadennoù (7 devezh diwezhañ)"
+
+msgid "Alertes par type"
+msgstr "Kemennadennoù dre seurt"
+
+msgid "Appareils par opérateur"
+msgstr "Ardivinkoù dre oberataer"
+
+msgid "Résumé du système"
+msgstr "Diverrañ ar reizhiad"
+
+msgid "Utilisateurs total"
+msgstr "An hollad implijerien"
+
+msgid "Appareils enregistrés"
+msgstr "Ardivinkoù enrollet"
+
+msgid "Total alertes"
+msgstr "Kemennadennoù hollek"
+
+msgid "Alertes en cours"
+msgstr "Kemennadennoù bremañ"
+
+msgid "Erreurs non résolues"
+msgstr "Fazioù diskoulmet"
+
+msgid "Dernières activités"
+msgstr "Obererezhioù diwezhañ"
+
+msgid "récentes"
+msgstr "nevez"
+
+msgid "Utilisateur"
+msgstr "Implijer"
+
+msgid "Action"
+msgstr "Ober"
+
+msgid "Détails"
+msgstr "Munudoù"
+
+msgid "Adresse IP"
+msgstr "Chomlec'h IP"
+
+msgid "Navigateur"
+msgstr "Merdeer"
+
+msgid "Date"
+msgstr "Deiziad"
+
+msgid "Aucune activité"
+msgstr "Obererezh ebet"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Obererezhioù an implijer a zeuio war wel amañ."
+
+msgid "Journal d'erreurs"
+msgstr "Marilh fazioù"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Reizhañ an holl fazioù ?"
+
+msgid "Tout résoudre"
+msgstr "Diskoulmañ pep tra"
+
+msgid "non résolues"
+msgstr "diskoulmet"
+
+msgid "Tout est résolu"
+msgstr "Diskoulmet eo pep tra"
+
+msgid "Type"
+msgstr "Jentil"
+
+msgid "Description"
+msgstr "Deskrivadur"
+
+msgid "Statut"
+msgstr "Statud"
+
+msgid "Résolu"
+msgstr "Diskoulmet"
+
+msgid "Non résolu"
+msgstr "N'eo ket bet diskoulmet"
+
+msgid "Aucune erreur enregistrée"
+msgstr "N'eus bet enrollet fazi ebet"
+
+msgid "Le système fonctionne correctement."
+msgstr "Emañ ar reizhiad o vont en-dro evel m'eo dleet."
+
+msgid "Gestion des utilisateurs"
+msgstr "Merañ an implijerien"
+
+msgid "comptes"
+msgstr "kontoù"
+
+msgid "Email"
+msgstr "Postel"
+
+msgid "Téléphone"
+msgstr "Pellgomz"
+
+msgid "Rôle"
+msgstr "Roll"
+
+msgid "Inscrit le"
+msgstr "Enrollet d'an"
+
+msgid "Actions"
+msgstr "Oberoù"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Dilemel an implijer-mañ hag e holl ardivinkoù ?"
+
+msgid "Vous"
+msgstr "C'HWI"
+
+msgid "Connexions"
+msgstr "Kevreadurioù"
+
+msgid "Vol"
+msgstr "Nijadenn"
+
+msgid "Perte"
+msgstr "Koll"
+
+msgid "Anomalie"
+msgstr "Anomaliezh"
+
+msgid "Alertes"
+msgstr "Kemennadennoù"
+
+msgid "Gestion des alertes"
+msgstr "Merañ an diwalloù"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Kemenn al laeroñsi pe ar c'holl ha heuliañ an istor"
+
+msgid "Signaler un vol / perte"
+msgstr "Kemenn laeroñsi/koll"
+
+msgid "En cours"
+msgstr "O vont war-raok"
+
+msgid "Résolues"
+msgstr "Diskoulmet"
+
+msgid "Historique des alertes"
+msgstr "Istor an evezhiadennoù"
+
+msgid "Appareil"
+msgstr "Mekanik"
+
+msgid "Priorité"
+msgstr "Priorelezh"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Merkañ an diwall-mañ evel diskoulmet ?"
+
+msgid "Résoudre"
+msgstr "Diskoulmañ"
+
+msgid "Aucune alerte"
+msgstr "Kemennadenn ebet"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Keloù mat ! N'eus bet kelaouet kemennadenn ebet."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Kemenn al laeroñsi pe ar c'holl"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Pa vo roet da c'houzout ez eus bet laeret e vo prennet ho trevnad ent "
+"emgefre ha kaset e vo kemennadennoù."
+
+msgid "Appareil concerné"
+msgstr "Ur benveg gwallet"
+
+msgid "Sélectionner un appareil"
+msgstr "Dibabit un dafariad"
+
+msgid "Type d'alerte"
+msgstr "Seurt kemenn"
+
+msgid "Décrivez les circonstances..."
+msgstr "Deskrivit an traoù..."
+
+msgid "Annuler"
+msgstr "Nullañ"
+
+msgid "Signaler"
+msgstr "Kas keloù"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Reizhiad enep-laeroñsi speredek — Leurenn surentez evit ar pellgomzerioù "
+"hezoug"
+
+msgid "Système Anti-Vol"
+msgstr "Reizhiad enep-laerezh"
+
+msgid "PRINCIPAL"
+msgstr "PENNAÑ"
+
+msgid "Tableau de bord"
+msgstr "Taolenn-stur"
+
+msgid "SÉCURITÉ"
+msgstr "SURENTEZ"
+
+msgid "Géolocalisation"
+msgstr "Lec'hiadur douaroniel"
+
+msgid "ADMINISTRATION"
+msgstr "MELERADUREZH"
+
+msgid "Déconnexion"
+msgstr "Digennaskañ"
+
+msgid "Changer de langue"
+msgstr "Cheñch yezh"
+
+msgid "Rechercher une langue..."
+msgstr "Klask ur yezh..."
+
+msgid "Profil"
+msgstr "Aelad"
+
+msgid "Changer de thème"
+msgstr "Cheñch tem"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Gwelet dre vras ​​diogelroez ho trevnad"
+
+msgid "Ajouter un appareil"
+msgstr "Ouzhpennañ un dafariad"
+
+msgid "Appareils volés"
+msgstr "Dafar laeret"
+
+msgid "Verrouillés à distance"
+msgstr "Prennet a-bell"
+
+msgid "Alertes récentes"
+msgstr "Kemennadennoù diwezhañ"
+
+msgid "Voir tout"
+msgstr "Gwelet an holl"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Diwall ebet. Sur eo ho trevnadoù !"
+
+msgid "Mes appareils"
+msgstr "Ma dafar"
+
+msgid "Aucun appareil enregistré"
+msgstr "N'eus bet enrollet urzhiataer ebet"
+
+msgid "Ajouter"
+msgstr "Ouzhpennañ"
+
+msgid "en attente"
+msgstr "da c'hortoz"
+
+msgid "Gestion des appareils"
+msgstr "Merañ an dafar"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Enrollañ ha merañ ho pellgomzerioù hezoug"
+
+msgid "Opérateur"
+msgstr "Oberer"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Prennañ an dafariad-mañ a-bell ?"
+
+msgid "Verrouiller"
+msgstr "Prennañ"
+
+msgid "Déverrouiller"
+msgstr "Dibrennañ"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Dilemel an dafariad-mañ ?"
+
+msgid "Supprimer"
+msgstr "DILEMEL"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Ouzhpennit ho pellgomzer hezoug kentañ evit kregiñ da wareziñ anezhañ."
+
+msgid "Nouvel appareil"
+msgstr "Ur benveg nevez"
+
+msgid "Marque"
+msgstr "Merk"
+
+msgid "Sélectionner"
+msgstr "Diuzañ"
+
+msgid "Autre"
+msgstr "All"
+
+msgid "Modèle"
+msgstr "Patrom"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "skrivit *#06# war ho pellgomzer"
+
+msgid "Système d'exploitation"
+msgstr "Reizhiad korvoiñ"
+
+msgid "Numéro de téléphone"
+msgstr "Niverenn bellgomz"
+
+msgid "Enregistrer"
+msgstr "Saveteiñ"
+
+msgid "Connexion"
+msgstr "Kennaskañ"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Reizhiad diogelroez ar pellgomzerioù hezoug"
+
+msgid "Adresse email"
+msgstr "Chomlec'h postel"
+
+msgid "Mot de passe"
+msgstr "Ger-tremen"
+
+msgid "Se connecter"
+msgstr "Kevreañ"
+
+msgid "Mot de passe oublié ?"
+msgstr "Ankounac'haet ho ker-tremen ?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Ur gont hoc'h eus dija ? Mod all, kendalc'hit da grouiñ ho kont !"
+
+msgid "Créer un compte"
+msgstr "Krouiñ ur gont"
+
+msgid "Sécurité maximale"
+msgstr "Diogelroez uhelañ"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Gwarezit ho roadennoù personel gant prennañ a-bell"
+
+msgid "Localisation GPS"
+msgstr "Lec'hiadur GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Kavout lec'hiadur resis ho pellgomzer hezoug en amzer gwirion"
+
+msgid "Alertes instantanées"
+msgstr "Kemennadennoù diouzhtu"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Resev SMS, postel ha kemennadennoù push e-keñver laeroñsi"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Kavit ho trevnadoù ha gwelit an tachennoù risklus"
+
+msgid "Aucun appareil"
+msgstr "Ur benveg ebet"
+
+msgid "Zones à risque"
+msgstr "Tachennoù riskl"
+
+msgid "incidents"
+msgstr "darvoudoù |"
+
+msgid "Aucune zone signalée"
+msgstr "N'eus bet roet da c'houzout lec'h ebet"
+
+msgid "Niveau"
+msgstr "Live"
+
+msgid "Incidents"
+msgstr "Darvoudoù"
+
+msgid "Profile utilisateur"
+msgstr "Profil implijer"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Merañ ho titouroù personel"
+
+msgid "Membre depuis"
+msgstr "Ezel abaoe"
+
+msgid "Modifier mes informations"
+msgstr "Kemmañ ma titouroù"
+
+msgid "Prénom"
+msgstr "Anv-bihan"
+
+msgid "Nom"
+msgstr "Anv"
+
+msgid "Changer le mot de passe"
+msgstr "Cheñch ar ger-tremen"
+
+msgid "Nouveau mot de passe"
+msgstr "Ger-tremen nevez"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "lezel goullo evit chom hep cheñch"
+
+msgid "Enregistrer les modifications"
+msgstr "Enrollañ ar c'hemmoù"
+
+msgid "Inscription"
+msgstr "Enskrivadur"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Degemer mat war Anti-Theft evit gwellaat ho trevnadoù"
+
+msgid "Confirmer"
+msgstr "Kadarnaat"
+
+msgid "Créer mon compte"
+msgstr "Krouiñ ma c'hont"
+
+msgid "Déjà un compte ?"
+msgstr "Ur gont hoc'h eus dija ?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Adderaouekaat ar ger-tremen"
+
+msgid "Réinitialisation"
+msgstr "Adderaouekaat"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Lakait ho postel hag ho niverenn bellgomz evit kadarnaat ho identelezh"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "An niverenn implijet e-pad an enskrivadur"
+
+msgid "Minimum 6 caractères"
+msgstr "6 arouezenn da nebeutañ"
+
+msgid "Confirmer le mot de passe"
+msgstr "Kadarnaat ar ger-tremen"
+
+msgid "Retourner à la"
+msgstr "Distreiñ da"
+
+msgid "page de connexion"
+msgstr "pajenn kevreañ"
+
+msgid "Vérification sécurisée"
+msgstr "Gwiriekaat sur"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Gwiriekaet eo ho identelezh dre ho postel hag ho niverenn bellgomz"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Dibabit ur ger-tremen diogel gant 6 arouezenn da nebeutañ"
+
+msgid "d"
+msgstr "D"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: C'hwitet en deus an aozañ"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: C'hwitet en deus an aozañ : {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Fazi Windows : {fazi}"
+
+msgid "deprecated"
+msgstr "diamzeret"
+
+msgid "Options"
+msgstr "Dibarzhioù"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Kavet ez eus bet un arguzenn ouzhpenn dic'hortoz ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Diwallit : diamzeret eo ar gemennadenn {name!r}.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Skarzhet !"
+
+msgid "Commands"
+msgstr "Urzhioù"
+
+msgid "Missing command."
+msgstr "Mankout a ra ur gemennadenn."
+
+msgid "Value must be an iterable."
+msgstr "Ret eo d'ar werzh bezañ un iterabl."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Kemer a ra talvoudoù {nargs} met 1 zo bet roet."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "Diwallit : diamzeret eo ar {param_type} {name!r}.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Anv '{name}' termenet div wech"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"N'hall ket an dibab boolean {decl!r} implijout ar memes banniel evit "
+"true/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "N'haller ket termeniñ anv an dibab gant disklêriadurioù {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Dibab ebet termenet met un anv zo bet treuzkaset ({name}). Fellout a rae "
+"deoc'h disklêriañ un arguzenn kentoc'h ? Fellout a rae deoc'h tremen "
+"'--{name}' ?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "argemmenn an endro : {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "dre ziouer : {dre ziouer}"
+
+msgid "required"
+msgstr "rekis"
+
+msgid "(dynamic)"
+msgstr "(dinamek)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"An arguzennoù a gemer un disklêriadur arventenn rik, got {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Fellout a ra deoc'h kenderc'hel ?"
+
+msgid "Confirm the action without prompting."
+msgstr "Kadarnaat an ober hep bezañ goulennet."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, stumm %(stumm)s"
+
+msgid "Show the version and exit."
+msgstr "Diskouez ar stumm ha mont kuit."
+
+msgid "Show this message and exit."
+msgstr "Diskouez ar gemennadenn-mañ ha mont kuit."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Ha fellout a rae deoc'h lavaret {posubl} ?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Fazi : {kemennadenn}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Klaskit '{command} {option}' evit sikour."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Talvoud direizh : {kemennadenn}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Talvoud direizh evit {param_hint} : {kemennadenn}"
+
+msgid "Missing argument"
+msgstr "Arguzenn mankout"
+
+msgid "Missing option"
+msgstr "Dibab mankout"
+
+msgid "Missing parameter"
+msgstr "Arventenn mankout"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Mankout a ra {seurt_param}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Arventenn mankout : {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "N'eus ket a seurt dibab {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "N'eus ket ur gemennadenn evel-se {name!r}."
+
+msgid "unknown error"
+msgstr "fazi dianav"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "N'haller ket digeriñ ar restr {anv ar restr!r} : {kemennadenn}"
+
+msgid "Usage:"
+msgstr "Implijout:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Arouezenn loc'hañ direizh evit an dibab ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "An arguzenn {name!r} a gemer talvoudoù {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "An dibab {name!r} ne gemer ket ur werzh."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Ret eo kaout un arguzenn evit an dibarzh {name!r}."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "N'eo ket skoret klokaat ar shell evit stummoù Bash koshoc'h eget 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"N'eus ket bet gallet detektiñ stumm Bash, n'eo ket skoret klokaat ar "
+"shell."
+
+msgid "Repeat for confirmation"
+msgstr "Adkregiñ evit kadarnaat"
+
+msgid "Error: The two entered values do not match."
+msgstr "Fazi : N'eo ket heñvel an daou dalvoudenn enanket."
+
+msgid "Error: invalid input"
+msgstr "Fazi : mont e-barzh direizh"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Liv dianav {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Pouezit war n'eus forzh peseurt stokell evit kenderc'hel..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Dibab etre:\\n\\t{dibaboù}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} n'eo ket {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Dibab({dibaboù})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ne glot ket gant ar furmad {furmad}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} n'eo ket ur {number_type} reizh."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "N'emañ ket {value} e-barzh an dibarzh {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} n'eo ket ur boolean reizh. Talvoudoù anavezet : {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} n'eo ket un UUID reizh."
+
+msgid "file"
+msgstr "restr"
+
+msgid "directory"
+msgstr "renkell"
+
+msgid "path"
+msgstr "gwenodenn"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {restrname!r} n'eus ket anezhañ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {restrname!r} zo ur restr."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {restrname!r} zo ur renkell."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {restrname!r} n'eo ket lennus."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {restrname!r} n'eo ket skrivus."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {restrname!r} n'eo ket kaset da benn."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Ret eo talvoudoù {len_type}, met roet eo bet {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Ar stlennvon skoueriek dianav '{name}'."
+
+msgid "This field is required."
+msgstr "Rekis eo ar vaezienn-mañ."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "N'eus astenn aotreet ebet gant ar restr : {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "N'eus astenn aotreet ebet gant ar restr."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Ret eo d'ar restr bezañ etre {min_min} ha {ment_uhelañ} octetoù."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Anv ar vaezienn '%s' direizh."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Ret eo d'ar vaezienn bezañ par da %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Ret eo d'ar vaezienn bezañ %(min)d arouezenn da nebeutañ."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Ne c'hall ket ar vaezienn bezañ hiroc'h eget %(max)d arouezenn."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Ret eo d'ar vaezienn bezañ %(max)d arouezenn hirder rik."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Ret eo d'ar vaezienn bezañ etre %(min)d ha %(max)d arouezennoù hirder."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Ret eo d'an niver bezañ %(min)s da nebeutañ."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Ret eo d'an niver bezañ %(max)s d'ar muiañ."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Ret eo d'an niver bezañ etre %(min)s ha %(max)s."
+
+msgid "Invalid input."
+msgstr "Enankad direizh."
+
+msgid "Invalid email address."
+msgstr "Chomlec'h postel direizh."
+
+msgid "Invalid IP address."
+msgstr "Chomlec'h IP direizh."
+
+msgid "Invalid Mac address."
+msgstr "Chomlec'h Mac direizh."
+
+msgid "Invalid URL."
+msgstr "URL direizh."
+
+msgid "Invalid UUID."
+msgstr "UUID direizh."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Talvoud direizh, ret eo bezañ unan eus : %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Talvoud direizh, n'hall ket bezañ hini ebet eus : %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "N'haller ket kemmañ ar vaezienn-mañ."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Diweredekaet eo ar vaezienn-mañ ha n'hall ket kaout talvoud ebet."
+
+msgid "Invalid CSRF Token."
+msgstr "Token CSRF direizh."
+
+msgid "CSRF token missing."
+msgstr "Mankout a ra token CSRF."
+
+msgid "CSRF failed."
+msgstr "C'hwitet en deus CSRF."
+
+msgid "CSRF token expired."
+msgstr "Diamzeret eo an token CSRF."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Dibab direizh : n'haller ket rediañ."
+
+msgid "Choices cannot be None."
+msgstr "N'hall ket an dibaboù bezañ Hini ebet."
+
+msgid "Not a valid choice."
+msgstr "N'eo ket un dibab reizh."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Dibab(où direizh): n'haller ket rediañ unan pe meur a enankad roadennoù."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' n'eo ket un dibab reizh evit ar vaezienn-mañ."
+
+msgid "Not a valid datetime value."
+msgstr "N'eo ket ur werzh deiziad-amzer reizh."
+
+msgid "Not a valid date value."
+msgstr "N'eo ket ur werzh deiziad reizh."
+
+msgid "Not a valid time value."
+msgstr "N'eo ket ur werzh amzer reizh."
+
+msgid "Not a valid week value."
+msgstr "N'eo ket ur werzh sizhun reizh."
+
+msgid "Not a valid integer value."
+msgstr "N'eo ket ur werzh anterin talvoudek."
+
+msgid "Not a valid decimal value."
+msgstr "N'eo ket ur werzh dekvedennel reizh."
+
+msgid "Not a valid float value."
+msgstr "N'eo ket ur werzh float reizh."
+

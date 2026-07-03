@@ -1,0 +1,1041 @@
+# Translations for BM.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: bm\n"
+"Language-Team: bm <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Aw ye don a kɔnɔ walasa ka don nin ɲɛ in na."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "O IMEI in sɛbɛnnen bɛ sistɛmu kɔnɔ kaban."
+
+msgid "Accès non autorisé."
+msgstr "Sɔrɔli min ma yamaruya."
+
+msgid "Appareil déverrouillé."
+msgstr "Minɛn min dabɔra."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alert dabɔra! Ladɔnniyali minnu cilen don."
+
+msgid "Alerte résolue."
+msgstr "Alert (kɔlɔsili) ɲɛnabɔra."
+
+msgid "Pas encore de compte ?"
+msgstr "Konte tɛ fɔlɔ wa?"
+
+msgid "Mon Profil"
+msgstr "N ka Profil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Jɛɲɔgɔnya ye ɲɛtaa sɔrɔ! I danse."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email walima password jugu."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Foro minnu wajibiyalen don, olu bɛɛ ka kan ka dafa."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Passwordw tɛ bɛn ɲɔgɔn ma."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Daɲɛ dogolen ka kan ka kɛ ni taamasiyɛn 6 ye a dɔgɔyalenba la."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Nin email in bɛ baara la kaban."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Konte dabɔra ka ɲɛ! Aw bɛ don a kɔnɔ."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Jatebla si ma Sɔrɔ ni nin email in ye."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Telefɔni nimɔrɔ tɛ bɛn jatebɔsɛbɛn nimɔrɔ ma."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "O tɔgɔlasɛbɛn kura in ye wajibi ye."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Password reset ka ɲɛ! Aw bɛ don a kɔnɔ."
+
+msgid "Vous avez été déconnecté."
+msgstr "Aw ye jɛɲɔgɔnya tigɛ."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Marka, modɛli ani IMEI de wajibiyalen don."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Minɛn min bɛ ni nin IMEI in ye, o bɛ yen kaban."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Minɛn min tɔgɔ sɛbɛnna ka ɲɛ!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "I ma se ka nin wale in kɛ."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Minɛn min bɛ yɔrɔjan na, o datugulen don ka ɲɛ."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Minɛn dabɔra ka ɲɛ."
+
+msgid "Appareil supprimé."
+msgstr "Minɛn min bɔra."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Aw ye minɛn dɔ sugandi ani ka lasɔmini suguya dɔ sugandi."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Nin minɛn in tɛ i ta ye."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert ye kunnafoni di ka ɲɛ. Minɛn in lakananen don."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Kɔlɔsili taamasiyɛn kɛra ko a ɲɛnabɔra."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Tɔgɔ fɔlɔ, tɔgɔ laban ani imɛri de wajibiyalen don."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Nin email in bɛ baara kɛ ni a ye kaban jatebɔsɛbɛn wɛrɛ fɛ."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil updated ka ɲɛ!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Sɔrɔli maralen bɛ ɲɛmɔgɔw de kama."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Misali taamasiyɛn kɛra ko a ɲɛnabɔra."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "I tɛ se k’i yɛrɛ ka jatebɔsɛbɛn bɔ yen."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Baarakɛla ye se sɔrɔ ka bɔ yen."
+
+msgid "Administration"
+msgstr "Administration (marako) la"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Sonyali kɛlɛli siratigɛ ɲɛnabɔli cɛmancɛ la"
+
+msgid "Utilisateurs"
+msgstr "Baarakɛlaw"
+
+msgid "Actifs aujourd'hui"
+msgstr "Active bi"
+
+msgid "Nouveaux ce mois"
+msgstr "Ko kura nin kalo in na"
+
+msgid "Appareils"
+msgstr "Minɛnw"
+
+msgid "Alertes actives"
+msgstr "Kɔlɔsili minnu bɛ kɛ"
+
+msgid "Analytique"
+msgstr "Analytique (sɛgɛsɛgɛli) kɛcogo"
+
+msgid "Journal d'activité"
+msgstr "Baarakɛcogo sɛbɛn"
+
+msgid "Erreurs"
+msgstr "Misaliw"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Jɛɲɔgɔnyaw (tile 7 tɛmɛnenw) ."
+
+msgid "Alertes par type"
+msgstr "Kɔlɔsili bɛ kɛ ka kɛɲɛ ni suguya ye"
+
+msgid "Appareils par opérateur"
+msgstr "Minɛnw ka kɛɲɛ ni baarakɛla ye"
+
+msgid "Résumé du système"
+msgstr "Sistɛmu kuncɛlen"
+
+msgid "Utilisateurs total"
+msgstr "Baarakɛlaw bɛɛ lajɛlen"
+
+msgid "Appareils enregistrés"
+msgstr "Minɛn minnu tɔgɔ sɛbɛnna"
+
+msgid "Total alertes"
+msgstr "Lakɔlɔsili bɛɛ lajɛlen"
+
+msgid "Alertes en cours"
+msgstr "Lakɔlɔsili minnu bɛ kɛ sisan"
+
+msgid "Erreurs non résolues"
+msgstr "Misali minnu ma ɲɛnabɔ"
+
+msgid "Dernières activités"
+msgstr "Baara labanw"
+
+msgid "récentes"
+msgstr "kɔsa in na"
+
+msgid "Utilisateur"
+msgstr "Baarakɛla"
+
+msgid "Action"
+msgstr "Wale"
+
+msgid "Détails"
+msgstr "Ɲɛfɔli"
+
+msgid "Adresse IP"
+msgstr "IP ladɛrɛsi"
+
+msgid "Navigateur"
+msgstr "Navigatɛri (navigateur)."
+
+msgid "Date"
+msgstr "Don"
+
+msgid "Aucune activité"
+msgstr "Baara si tɛ kɛ"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Baarakɛlaw ka baara bɛna jira yan."
+
+msgid "Journal d'erreurs"
+msgstr "Misaliw sɛbɛnfura"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Ka filiw bɛɛ labɛn wa?"
+
+msgid "Tout résoudre"
+msgstr "Fɛn bɛɛ ɲɛnabɔ"
+
+msgid "non résolues"
+msgstr "min ma ɲɛnabɔ"
+
+msgid "Tout est résolu"
+msgstr "Fɛn bɛɛ ɲɛnabɔra"
+
+msgid "Type"
+msgstr "Sugu"
+
+msgid "Description"
+msgstr "Cogojirali"
+
+msgid "Statut"
+msgstr "Sigisariyaw"
+
+msgid "Résolu"
+msgstr "A ɲɛnabɔra"
+
+msgid "Non résolu"
+msgstr "A ma ɲɛnabɔ"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Misali si ma sɛbɛn"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sistɛmu bɛ baara kɛ ka ɲɛ."
+
+msgid "Gestion des utilisateurs"
+msgstr "Baarakɛlaw ka ɲɛnabɔli"
+
+msgid "comptes"
+msgstr "jatew"
+
+msgid "Email"
+msgstr "E-mail (E-mail) ci"
+
+msgid "Téléphone"
+msgstr "Telefɔni"
+
+msgid "Rôle"
+msgstr "Jɔyɔrɔ"
+
+msgid "Inscrit le"
+msgstr "A tɔgɔ sɛbɛnna kan"
+
+msgid "Actions"
+msgstr "Waleya minnu bɛ kɛ"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Ka nin baarakɛla in n’a ka minɛnw bɛɛ bɔ yen wa?"
+
+msgid "Vous"
+msgstr "I"
+
+msgid "Connexions"
+msgstr "Jɛɲɔgɔnyaw"
+
+msgid "Vol"
+msgstr "Awiyɔn"
+
+msgid "Perte"
+msgstr "Bɔnɛ"
+
+msgid "Anomalie"
+msgstr "Anomaliya (Anomalie) (Anomalie)."
+
+msgid "Alertes"
+msgstr "Kɔlɔsiliw"
+
+msgid "Gestion des alertes"
+msgstr "Kɔlɔsili ɲɛnabɔli"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Sonyali walima bɔnɛko fɔ ani ka tariku lajɛ"
+
+msgid "Signaler un vol / perte"
+msgstr "Sonyali/bɔnɛ kofɔ"
+
+msgid "En cours"
+msgstr "A bɛ sen na"
+
+msgid "Résolues"
+msgstr "A ɲɛnabɔra"
+
+msgid "Historique des alertes"
+msgstr "Lakɔlɔsili Tariku"
+
+msgid "Appareil"
+msgstr "Minɛn"
+
+msgid "Priorité"
+msgstr "Min bɛ kɛ fɔlɔ"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Nin lasɔmini in taamasiyɛn i n’a fɔ a ɲɛnabɔra cogo min na wa?"
+
+msgid "Résoudre"
+msgstr "Ka ɲɛnabɔ"
+
+msgid "Aucune alerte"
+msgstr "Kɔlɔsili si tɛ yen"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Kibaru duman don! Kɔlɔsili si ma fɔ."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Sonyali walima bɔnɛko fɔ"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Ni i ye sonyali dɔ fɔ, i ka minɛn bɛna datugu a yɛrɛma ani kunnafoniw "
+"bɛna ci."
+
+msgid "Appareil concerné"
+msgstr "Minɛn min bɛ nɔ bila a la"
+
+msgid "Sélectionner un appareil"
+msgstr "Minɛn dɔ sugandi"
+
+msgid "Type d'alerte"
+msgstr "Kɔlɔsili suguya"
+
+msgid "Décrivez les circonstances..."
+msgstr "Aw ye ko kɛlenw ɲɛfɔ..."
+
+msgid "Annuler"
+msgstr "ka dankari"
+
+msgid "Signaler"
+msgstr "Cisama"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Intelligent Anti-Theft System — Lakanali yɔrɔ min bɛ kɛ telefɔni seleke "
+"naani na"
+
+msgid "Système Anti-Vol"
+msgstr "Sonyali kɛlɛli Sistɛmu"
+
+msgid "PRINCIPAL"
+msgstr "KUNBABA"
+
+msgid "Tableau de bord"
+msgstr "Dashboard (Dashboard) ye"
+
+msgid "SÉCURITÉ"
+msgstr "LAKANA"
+
+msgid "Géolocalisation"
+msgstr "Dugukolo-yɔrɔko"
+
+msgid "ADMINISTRATION"
+msgstr "ƝƐNABƆLI"
+
+msgid "Déconnexion"
+msgstr "Aw bɛ jɛɲɔgɔnya tigɛ"
+
+msgid "Changer de langue"
+msgstr "Kan caman Changer"
+
+msgid "Rechercher une langue..."
+msgstr "Kan dɔ ɲini..."
+
+msgid "Profil"
+msgstr "Porofili"
+
+msgid "Changer de thème"
+msgstr "Barokun caman Changer"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "I ka minɛnw lakanani ɲɛfɔli kunbaba"
+
+msgid "Ajouter un appareil"
+msgstr "Aw bɛ minɛn dɔ fara a kan"
+
+msgid "Appareils volés"
+msgstr "Minɛn sonyalenw"
+
+msgid "Verrouillés à distance"
+msgstr "Yɔrɔjan fɛ, a bɛ datugu"
+
+msgid "Alertes récentes"
+msgstr "Lakɔlɔsili minnu kɛra kɔsa in na"
+
+msgid "Voir tout"
+msgstr "Aw ye a bɛɛ lajɛ"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Kɔlɔsili si tɛ yen. Aw ka minɛnw lakananen don!"
+
+msgid "Mes appareils"
+msgstr "N ka minɛnw"
+
+msgid "Aucun appareil enregistré"
+msgstr "Minɛn si ma sɛbɛn"
+
+msgid "Ajouter"
+msgstr "Ka fara kan"
+
+msgid "en attente"
+msgstr "ka jɔ"
+
+msgid "Gestion des appareils"
+msgstr "Minɛnw ɲɛnabɔli"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Aw ye aw tɔgɔ sɛbɛn ani k’aw ka telefɔni seleke naani ɲɛminɛ"
+
+msgid "Opérateur"
+msgstr "Baarakɛla min bɛ baara kɛ"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Aw bɛ nin minɛn in datugu yɔrɔjan fɛ wa?"
+
+msgid "Verrouiller"
+msgstr "Ka sɔgɔ"
+
+msgid "Déverrouiller"
+msgstr "Da wuli"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Ka nin minɛn in bɔ yen wa?"
+
+msgid "Supprimer"
+msgstr "KA JƆSI"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Aw ye aw ka smartfon fɔlɔ fara a kan walasa k’a lakanani daminɛ."
+
+msgid "Nouvel appareil"
+msgstr "Minɛn kura"
+
+msgid "Marque"
+msgstr "Mariki"
+
+msgid "Sélectionner"
+msgstr "Ka sugandi"
+
+msgid "Autre"
+msgstr "Dɔ wɛrɛ"
+
+msgid "Modèle"
+msgstr "Mɔdɛli"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "*#06# sɛbɛn i ka telefɔni na"
+
+msgid "Système d'exploitation"
+msgstr "Baarakɛcogo"
+
+msgid "Numéro de téléphone"
+msgstr "Telefɔni nimɔrɔ"
+
+msgid "Enregistrer"
+msgstr "Ka mara"
+
+msgid "Connexion"
+msgstr "Jɛɲɔgɔnya"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Smartphone lakanani sira"
+
+msgid "Adresse email"
+msgstr "E-mail ladɛrɛsi"
+
+msgid "Mot de passe"
+msgstr "Kɔdi"
+
+msgid "Se connecter"
+msgstr "Aw bɛ don a kɔnɔ"
+
+msgid "Mot de passe oublié ?"
+msgstr "I ɲinɛna tɔgɔlasɛbɛn kɔ wa?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Yala jatebɔsɛbɛn b’i bolo kaban wa? N’o tɛ, i ka taa ɲɛ i ka jatebɔsɛbɛn "
+"dabɔli la!"
+
+msgid "Créer un compte"
+msgstr "Jatebɔsɛbɛn dɔ dabɔ"
+
+msgid "Sécurité maximale"
+msgstr "Lakanali hakɛ min ka bon kosɛbɛ"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "I ka kunnafoniw lakana ni yɔrɔjan dakunw datuguli ye"
+
+msgid "Localisation GPS"
+msgstr "GPS sigiyɔrɔ"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "I ka telefɔni seleke naani yɔrɔ tigitigi ɲini waati yɛrɛ la"
+
+msgid "Alertes instantanées"
+msgstr "Kɔlɔsili minnu bɛ kɛ o yɔrɔnin bɛɛ"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "SMS, email ani push kunnafoniw sɔrɔ ni sonyali kɛra"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Aw ye aw ka minɛnw ɲini ani ka farati yɔrɔw lajɛ aw ɲɛ na"
+
+msgid "Aucun appareil"
+msgstr "Minɛn si tɛ yen"
+
+msgid "Zones à risque"
+msgstr "Farati bɛ yɔrɔ minnu na"
+
+msgid "incidents"
+msgstr "ko kɛlenw"
+
+msgid "Aucune zone signalée"
+msgstr "Yɔrɔ si ma fɔ"
+
+msgid "Niveau"
+msgstr "Hakɛya"
+
+msgid "Incidents"
+msgstr "Ko minnu kɛra"
+
+msgid "Profile utilisateur"
+msgstr "Baarakɛla ka kunnafoni"
+
+msgid "Gérez vos informations personnelles"
+msgstr "I ka i yɛrɛ ka kunnafoniw ɲɛnabɔ"
+
+msgid "Membre depuis"
+msgstr "Membre kabini"
+
+msgid "Modifier mes informations"
+msgstr "N ka kunnafoniw ladilan"
+
+msgid "Prénom"
+msgstr "Tɔgɔ"
+
+msgid "Nom"
+msgstr "Tɔ̀gɔ"
+
+msgid "Changer le mot de passe"
+msgstr "I ka tɔgɔlasɛbɛn Changer"
+
+msgid "Nouveau mot de passe"
+msgstr "Password kura"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "aw bɛ a to yɔrɔ lankolon na walasa a kana Changé"
+
+msgid "Enregistrer les modifications"
+msgstr "Yɛlɛma minnu kɛra, olu mara"
+
+msgid "Inscription"
+msgstr "I tɔgɔ sɛbɛnni"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Aw ni ce Anti-Theft la walasa ka aw ka minɛnw lakana ka ɲɛ"
+
+msgid "Confirmer"
+msgstr "Sɛmɛntiya"
+
+msgid "Créer mon compte"
+msgstr "Aw ye n ka jatebɔsɛbɛn da"
+
+msgid "Déjà un compte ?"
+msgstr "I ye jatebɔsɛbɛn sɔrɔ kaban wa?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Segin ka Password (Pasword) Lasegin"
+
+msgid "Réinitialisation"
+msgstr "Segin-ka-bɔnye kɛ"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "I ka i ka imeyili ni telefɔni nimɔrɔ sɛbɛn walisa k’i ka mɔgɔya sɛgɛsɛgɛ"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Nimɔrɔ min bɛ kɛ i tɔgɔ sɛbɛnni waati la"
+
+msgid "Minimum 6 caractères"
+msgstr "A dɔgɔyalenba ye taamaʃyɛn 6 ye"
+
+msgid "Confirmer le mot de passe"
+msgstr "A’ ye tɔgɔlasɛbɛn dafa"
+
+msgid "Retourner à la"
+msgstr "Segin ka na"
+
+msgid "page de connexion"
+msgstr "don yɔrɔ min na"
+
+msgid "Vérification sécurisée"
+msgstr "Sɛgɛsɛgɛli lakananen"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "I ka danyɔrɔ bɛ sɛgɛsɛgɛ ni i ka imeyili ni i ka telefɔni nimɔrɔ ye"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "I ka tɔgɔlasɛbɛn lakananen dɔ sugandi min ka dɔgɔn ni taamasiyɛn 6 ye"
+
+msgid "d"
+msgstr "yé yé"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Labɛnni ma ɲɛ"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Labɛnni ma ɲɛ: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows fili: {fili}."
+
+msgid "deprecated"
+msgstr "a kɛra fɛn ye min tɛ baara kɛ ni a ye"
+
+msgid "Options"
+msgstr "Sugandili minnu bɛ kɛ"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "A ye sɔsɔli wɛrɛ sɔrɔ min ma labɛn ({args}) ."
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Cikan {tɔgɔ!r} bɛ ban.{extra_message}"
+
+msgid "Aborted!"
+msgstr "A ye kɔnɔtiɲɛ kɛ!"
+
+msgid "Commands"
+msgstr "Cikanw"
+
+msgid "Missing command."
+msgstr "Cikan min tununna."
+
+msgid "Value must be an iterable."
+msgstr "Nafa ka kan ka kɛ iterable ye."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "A bɛ {nargs} nafaw ta nka 1 dira."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: {param_type} {tɔgɔ!r} bɛ baara kɛ.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Tɔgɔ '{tɔgɔ}' ɲɛfɔra siɲɛ fila"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Boolean sugandi {decl!r} tɛ se ka baara kɛ ni o darapo kelen ye tiɲɛ/nɔgɔ"
+" la."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "A ma se ka tɔgɔ latigɛ sugandi la ni fɔlisenw ye {decls!r}."
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Sugandili si ma ɲɛfɔ nka tɔgɔ dɔ tɛmɛna ({tɔgɔ}). Yala i tun b’a fɛ ka "
+"sɔsɔli dɔ fɔ o nɔ na wa? Yala i tun b'a fɛ ka '--{tɔgɔ}' tɛmɛ wa?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}."
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {dafalen}"
+
+msgid "required"
+msgstr "laɲininnen"
+
+msgid "(dynamic)"
+msgstr "(dinamiki) ."
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Arguments bɛ paramètre declaration kelen tigitigi ta, got {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Yala i b’a fɛ ka taa a fɛ wa?"
+
+msgid "Confirm the action without prompting."
+msgstr "Aw bɛ wale in dafa k’a sɔrɔ aw ma ɲininkali kɛ."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, version %(version)w"
+
+msgid "Show the version and exit."
+msgstr "Version jira ani ka bɔ."
+
+msgid "Show this message and exit."
+msgstr "Nin cikan in jira ani ka bɔ."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Yala i tun b’a fɛ ka {possibilité} fɔ wa?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Misali: {cikan}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Aw bɛ '{command} {option}' lajɛ walasa ka dɛmɛ sɔrɔ."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Nafa tiɲɛnen: {cikan}."
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Nafa tiɲɛnen don {param_hint}: {message} la."
+
+msgid "Missing argument"
+msgstr "sɔsɔli min tununna"
+
+msgid "Missing option"
+msgstr "Sugandili min tununna"
+
+msgid "Missing parameter"
+msgstr "Paramɛtiri min tununna"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} min tununna."
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Paramɛtiri min tununna: {paramɛri_tɔgɔ}."
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "O sugandi sugu tɛ {tɔgɔ!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "O cikan sugu tɛ {tɔgɔ!r}."
+
+msgid "unknown error"
+msgstr "fili dɔnbali"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "A ma se ka dosiye {filename!r} da wuli: {message}."
+
+msgid "Usage:"
+msgstr "K'a nafa bɔ a la:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Daminɛ taamasiyɛn tiɲɛnen sugandili ({option}) kama ."
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argument {tɔgɔ!r} bɛ {nargs} nafaw ta."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Sugandili {tɔgɔ!r} tɛ nafa ta."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Sugandili {tɔgɔ!r} bɛ sɔsɔli de wajibiya."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell dafalen tɛ Dɛmɛ Bash sɛrɛkiliw la minnu kɔrɔlen don ni 4.4 ye."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "A ma Se ka Bash version Sɔrɔ, shell dafalen ma Dɛmɛ."
+
+msgid "Repeat for confirmation"
+msgstr "Aw bɛ segin o kan walasa ka a dafa"
+
+msgid "Error: The two entered values do not match."
+msgstr "Misali: Nafa fila minnu donna, olu tɛ bɛn ɲɔgɔn ma."
+
+msgid "Error: invalid input"
+msgstr "Misali: donnakow tiɲɛnen"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Kulɛri dɔnbali {kulɛri!r}."
+
+msgid "Press any key to continue..."
+msgstr "Butɔn o butɔni digi walasa ka taa ɲɛ..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Sugandili kɛ:\\n\\t{sugandili} la."
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} tɛ {sugandili} ye."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Sugandili({sugandiliw})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} tɛ bɛn {format} cogoya ma."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} tɛ {jate_suguya} ye min bɛ se ka kɛ."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} tɛ {range} kɔnɔ."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} tɛ boolean tiɲɛnen ye. Nafa minnu dɔnna: {jamanaw}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} tɛ UUID ye min bɛ se ka kɛ."
+
+msgid "file"
+msgstr "papiye"
+
+msgid "directory"
+msgstr "ɲɛbilasɛbɛn"
+
+msgid "path"
+msgstr "sira"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{tɔgɔ} {dosiyɛri tɔgɔ!r} tɛ yen."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{tɔgɔ} {filename!r} ye filen ye."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{tɔgɔ} {filename!r} ye ɲɛbilasɛbɛn ye."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{tɔgɔ} {filename!r} tɛ kalan."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{tɔgɔ} {filename!r} tɛ sɛbɛn."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{tɔgɔ} {filename!r} tɛ se ka kɛ."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} nafaw wajibiyalen don, nka {len_value} dira."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Sɔgɔsɔgɔninjɛ dantigɛbali '{tɔgɔ}'."
+
+msgid "This field is required."
+msgstr "O foro in de wajibiyalen don."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Filen tɛ ni farankan ye min dabɔra: {extensions}."
+
+msgid "File does not have an approved extension."
+msgstr "File tɛ ni extension (dakun) ye min dabɔra."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Filen ka kan ka kɛ {min_size} ni {max_size} bayt cɛ."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Foro tɔgɔ tiɲɛnen '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Foro ka kan ka bɛn %(tɔgɔ_tɔgɔ)w ma."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Foro ka kan ka kɛ %(min)d taamasiyɛn janya ye a dɔgɔyalenba la."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Foro tɛ se ka janya ka tɛmɛ %(max)d taamasiyɛn kan."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Foro ka kan ka kɛ %(max)d taamaʃyɛn janya tigitigi ye."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Foro ka kan ka janya %(min)d ni %(max)d cɛ."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Jate ka kan ka kɛ %(min)s ye a dɔgɔyalenba la."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Jate ka kan ka kɛ %(max)s ye a caya la."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Jate ka kan ka kɛ %(min)s ni %(max)s cɛ."
+
+msgid "Invalid input."
+msgstr "Donan min tɛ tiɲɛ ye."
+
+msgid "Invalid email address."
+msgstr "Email ladɛrɛsi min tɛ tiɲɛ ye."
+
+msgid "Invalid IP address."
+msgstr "IP ladɛrɛsi tiɲɛnen."
+
+msgid "Invalid Mac address."
+msgstr "Mac ladɛrɛsi tiɲɛnen."
+
+msgid "Invalid URL."
+msgstr "URL min tɛ tiɲɛ ye."
+
+msgid "Invalid UUID."
+msgstr "UUID min tɛ baara kɛ."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Nafa tiɲɛnen, ka kan ka kɛ ninnu dɔ ye: %(nafaw)w."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Nafa tiɲɛnen, tɛ se ka kɛ ninnu si ye: %(nafaw)w."
+
+msgid "This field cannot be edited."
+msgstr "Nin foro in tɛ se ka ladilan."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Nin foro in ye baarakɛbali ye, wa a tɛ se ka kɛ ni nafa ye."
+
+msgid "Invalid CSRF Token."
+msgstr "CSRF Token min tɛ baara kɛ."
+
+msgid "CSRF token missing."
+msgstr "CSRF token tununna."
+
+msgid "CSRF failed."
+msgstr "CSRF ma se ka baara kɛ."
+
+msgid "CSRF token expired."
+msgstr "CSRF token waati tɛmɛna."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Sugandili tiɲɛnen: a ma se ka waajibiya."
+
+msgid "Choices cannot be None."
+msgstr "Sugandili tɛ se ka kɛ None ye."
+
+msgid "Not a valid choice."
+msgstr "Sugandili bɛnnen tɛ."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Sugandili (w) minnu tɛ tiɲɛ ye: kunnafonidilan kelen walima caman doncogo"
+" ma se ka wajibiya."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' tɛ sugandili ɲuman ye nin foro in na."
+
+msgid "Not a valid datetime value."
+msgstr "Datetime nafa bɛnnen tɛ."
+
+msgid "Not a valid date value."
+msgstr "Don nafa bɛnnen tɛ."
+
+msgid "Not a valid time value."
+msgstr "Waati nafa bɛnnen tɛ."
+
+msgid "Not a valid week value."
+msgstr "Dɔgɔkun nafa bɛnnen tɛ."
+
+msgid "Not a valid integer value."
+msgstr "Jateden dafalen nafa bɛnnen tɛ."
+
+msgid "Not a valid decimal value."
+msgstr "A tɛ jateden tannan ye min bɛ se ka kɛ."
+
+msgid "Not a valid float value."
+msgstr "A tɛ flot value tiɲɛnen ye."
+
