@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+{% block title %}{{ _('Profile utilisateur') }} —  anti-vol{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <div>
+        <h1 class="page-title">{{ _('Profile utilisateur') }}</h1>
+        <p class="page-subtitle">{{ _('Gérez vos informations personnelles') }}</p>
+    </div>
+</div>
+
+<div class="profile-layout">
+    <!-- Carte Profil -->
+    <div class="card profile-card">
+        <div class="profile-header">
+            <div class="profile-avatar">
+                {{ current_user.prenom[0] }}{{ current_user.nom[0] }}
+            </div>
+            <h2>{{ current_user.prenom }} {{ current_user.nom }}</h2>
+            <span class="badge badge-{{ 'purple' if current_user.role == 'admin' else 'info' }}">
+                {{ current_user.role | capitalize }}
+            </span>
+        </div>
+        <div class="profile-stats">
+            <div class="profile-stat">
+                <span class="profile-stat-value">{{ appareils | length }}</span>
+                <span class="profile-stat-label">{{ _('Appareils') }}</span>
+            </div>
+            <div class="profile-stat">
+                <span class="profile-stat-value">{{ total_alertes }}</span>
+                <span class="profile-stat-label">{{ _('Alertes') }}</span>
+            </div>
+            <div class="profile-stat">
+                <span class="profile-stat-value">{{ current_user.date_creation.strftime('%d/%m/%Y') }}</span>
+                <span class="profile-stat-label">{{ _('Membre depuis') }}</span>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Formulaire Modification -->
+    <div class="card">
+        <div class="card-header">
+            <h2><i data-lucide="edit"></i> {{ _('Modifier mes informations') }}</h2>
+        </div>
+        <div class="card-body">
+            <form method="POST" action="{{ url_for('dashboard.modifier_profil') }}" class="profile-form">
+                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="prenom">{{ _('Prénom') }}</label>
+                        <input type="text" id="prenom" name="prenom" value="{{ current_user.prenom }}">
+                    </div>
+                    <div class="form-group">
+                        <label for="nom">{{ _('Nom') }}</label>
+                        <input type="text" id="nom" name="nom" value="{{ current_user.nom }}">
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="email">{{ _('Email') }}</label>
+                    <input type="email" id="email" name="email" value="{{ current_user.email }}">
+                </div>
+                
+                <div class="form-group">
+                    <label for="telephone">{{ _('Téléphone') }}</label>
+                    <input type="tel" id="telephone" name="telephone" value="{{ current_user.telephone or '' }}">
+                </div>
+                
+                <hr class="divider">
+                
+                <h3 class="form-section-title">{{ _('Changer le mot de passe') }}</h3>
+                <div class="form-group">
+                    <label for="new_password">{{ _('Nouveau mot de passe') }} <small class="text-muted">({{ _('laisser vide pour ne pas changer') }})</small></label>
+                    <input type="password" id="new_password" name="new_password" placeholder="••••••••" minlength="6">
+                </div>
+                
+                <button type="submit" class="btn btn-primary">
+                    <i data-lucide="save"></i>
+                    {{ _('Enregistrer les modifications') }}
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

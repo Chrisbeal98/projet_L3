@@ -1,0 +1,1043 @@
+# Translations for LMO.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: lmo\n"
+"Language-Team: lmo <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Per piasér accedi per entrà en chesta pagina."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Chestu IMEI l’è giamò registrà in del sistèm."
+
+msgid "Accès non autorisé."
+msgstr "Access minga autorizà."
+
+msgid "Appareil déverrouillé."
+msgstr "Dispositif sblocà."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "L'avvertiment creà! Notificaziun invià."
+
+msgid "Alerte résolue."
+msgstr "L’avvertiment risolt."
+
+msgid "Pas encore de compte ?"
+msgstr "Ancamò nissun cunt?"
+
+msgid "Mon Profil"
+msgstr "El me prufil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "La cunnession l’è riussida! Benvegnud."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "E-mail o password sbajaa."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Tüt i camp duperà g’han de vèss cumpletà."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "I password currispunden minga."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "La password la g’ha de avegh almen 6 caratter."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Chestu email l’è giamò duperà."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Cont creà cun succèss! Accedi."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Nissun cunt truvà cun chesta e-mail."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "El numer del telefon currispunt minga al numer del cunt."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "La nœuva password l’è obbligatoria."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Ripristinà la password cun succès! Accedi."
+
+msgid "Vous avez été déconnecté."
+msgstr "L’è stà descüness."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Sun necessari marca, mudel e IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Un dispusitif cun chestu IMEI esist giamò."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Dispositif registrà cun succèss!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "L’è minga autorizà a fär chesta aziun."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Dispositif blocà a distanza cun succèss."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "El dispusitif sblocà cun succèss."
+
+msgid "Appareil supprimé."
+msgstr "Dispositif eliminà."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Per piasé seleziuna un dispusitif e un tip de avvertiment."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Chestu dispusitif l’è minga di te."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert l’è stà segnalà cun succèss. El dispusitif l’è stà assicurà."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Avvertiment segnà cuma risolt."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Sun necessari el nomm, el cognom e l’e-mail."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Chestu email l’è giamò duperà de un olter cunt."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil agiornà cun succèss!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "L’access riservà ai aministratur."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Errur segnà cuma risolt."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Pœdet minga cancelà el voster conto."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "L'utente l'è stà eliminà cun succès."
+
+msgid "Administration"
+msgstr "Aministrazion"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Gestiun centralizada del sistèm Antifurto"
+
+msgid "Utilisateurs"
+msgstr "Utents"
+
+msgid "Actifs aujourd'hui"
+msgstr "Attiv incœu"
+
+msgid "Nouveaux ce mois"
+msgstr "Nœuf chestu mes"
+
+msgid "Appareils"
+msgstr "Dispositif"
+
+msgid "Alertes actives"
+msgstr "Avvisi attif"
+
+msgid "Analytique"
+msgstr "Analitich"
+
+msgid "Journal d'activité"
+msgstr "Register di attività"
+
+msgid "Erreurs"
+msgstr "Erur"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Cunnessiun (ültem 7 dì)"
+
+msgid "Alertes par type"
+msgstr "Avvisi per tip"
+
+msgid "Appareils par opérateur"
+msgstr "Dispositif per uperatur"
+
+msgid "Résumé du système"
+msgstr "Riassunt del sistema"
+
+msgid "Utilisateurs total"
+msgstr "Total di utent"
+
+msgid "Appareils enregistrés"
+msgstr "Dispositif registrà"
+
+msgid "Total alertes"
+msgstr "Total di avvertiment"
+
+msgid "Alertes en cours"
+msgstr "Avvisi atuai"
+
+msgid "Erreurs non résolues"
+msgstr "Erur minga risolt"
+
+msgid "Dernières activités"
+msgstr "Ultim attività"
+
+msgid "récentes"
+msgstr "recent"
+
+msgid "Utilisateur"
+msgstr "Utent"
+
+msgid "Action"
+msgstr "Azion"
+
+msgid "Détails"
+msgstr "Detali"
+
+msgid "Adresse IP"
+msgstr "Indiriz IP"
+
+msgid "Navigateur"
+msgstr "Navigatur"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Aucune activité"
+msgstr "Nissüna attività"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "I attività del utent cumpariran chi."
+
+msgid "Journal d'erreurs"
+msgstr "Register di errur"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Curregg tüt i erur?"
+
+msgid "Tout résoudre"
+msgstr "Risolver tutt"
+
+msgid "non résolues"
+msgstr "minga risolt"
+
+msgid "Tout est résolu"
+msgstr "Tut l'è risolt"
+
+msgid "Type"
+msgstr "Jener"
+
+msgid "Description"
+msgstr "Descrizion"
+
+msgid "Statut"
+msgstr "Stat"
+
+msgid "Résolu"
+msgstr "Risolt"
+
+msgid "Non résolu"
+msgstr "Minga risolt"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Nissun erur registrà"
+
+msgid "Le système fonctionne correctement."
+msgstr "El sistema funziona ben."
+
+msgid "Gestion des utilisateurs"
+msgstr "Gestiun di utent"
+
+msgid "comptes"
+msgstr "cunt"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telefon"
+
+msgid "Rôle"
+msgstr "Rœl"
+
+msgid "Inscrit le"
+msgstr "Registrato su"
+
+msgid "Actions"
+msgstr "Aziun"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Eliminar chestu utent e tüt i sò dispusitif?"
+
+msgid "Vous"
+msgstr "TI"
+
+msgid "Connexions"
+msgstr "Cunnesiun"
+
+msgid "Vol"
+msgstr "Vol"
+
+msgid "Perte"
+msgstr "Perdita"
+
+msgid "Anomalie"
+msgstr "Anomalia"
+
+msgid "Alertes"
+msgstr "Avvisi"
+
+msgid "Gestion des alertes"
+msgstr "Gestiun di avvertiment"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Segnala furt o perdita e pista la stòria"
+
+msgid "Signaler un vol / perte"
+msgstr "Segnala furto/perdita"
+
+msgid "En cours"
+msgstr "En curs"
+
+msgid "Résolues"
+msgstr "Risolt"
+
+msgid "Historique des alertes"
+msgstr "Storia de avvertiment"
+
+msgid "Appareil"
+msgstr "Dispositiv"
+
+msgid "Priorité"
+msgstr "Prioritaa"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Marca chestu avvertiment cuma risolt?"
+
+msgid "Résoudre"
+msgstr "Resolver"
+
+msgid "Aucune alerte"
+msgstr "Nissun avvertiment"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Buona nutizia! Nissun alert l’è stà segnalà."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Segnala furt o perdita"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Se segnalant un furt, el dispositif l’è blocà automaticamente e i "
+"notifikaziun sarann ​​invià."
+
+msgid "Appareil concerné"
+msgstr "Dispositif interessà"
+
+msgid "Sélectionner un appareil"
+msgstr "Seleziuna un dispusitif"
+
+msgid "Type d'alerte"
+msgstr "Tip de avvertiment"
+
+msgid "Décrivez les circonstances..."
+msgstr "Descrif i circustanz..."
+
+msgid "Annuler"
+msgstr "scancella"
+
+msgid "Signaler"
+msgstr "Report"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Sistema inteligent antifurt - Piatafurma de sicureza per i smartphone"
+
+msgid "Système Anti-Vol"
+msgstr "Sistema antifurto"
+
+msgid "PRINCIPAL"
+msgstr "PRINCIPAL"
+
+msgid "Tableau de bord"
+msgstr "Cruscott"
+
+msgid "SÉCURITÉ"
+msgstr "SEGURTAA"
+
+msgid "Géolocalisation"
+msgstr "Geolocalizaziun"
+
+msgid "ADMINISTRATION"
+msgstr "AMMINISTRAZIUN"
+
+msgid "Déconnexion"
+msgstr "Scollega"
+
+msgid "Changer de langue"
+msgstr "Cambia lingua"
+
+msgid "Rechercher une langue..."
+msgstr "Cerca una lengua..."
+
+msgid "Profil"
+msgstr "Profil"
+
+msgid "Changer de thème"
+msgstr "Cambia tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Panoramica de la sicureza del dispositif"
+
+msgid "Ajouter un appareil"
+msgstr "Aggiungi un dispositivo"
+
+msgid "Appareils volés"
+msgstr "Dispositif arrubà"
+
+msgid "Verrouillés à distance"
+msgstr "Bloccad a distanza"
+
+msgid "Alertes récentes"
+msgstr "Avvisi recent"
+
+msgid "Voir tout"
+msgstr "Vedi tutt"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Nissun avvertiment. I tò dispusitif sun sicür!"
+
+msgid "Mes appareils"
+msgstr "I me dispusitif"
+
+msgid "Aucun appareil enregistré"
+msgstr "Nissun dispusitif registrà"
+
+msgid "Ajouter"
+msgstr "Jontar"
+
+msgid "en attente"
+msgstr "in attesa"
+
+msgid "Gestion des appareils"
+msgstr "Gestiun di dispusitif"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Registras e gestì i tò smartphone"
+
+msgid "Opérateur"
+msgstr "Operatur"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Blocca chestu dispusitif a distanza?"
+
+msgid "Verrouiller"
+msgstr "Saradura"
+
+msgid "Déverrouiller"
+msgstr "Sblocca"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Elimina chestu dispusitif?"
+
+msgid "Supprimer"
+msgstr "SCANCELLAR"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Aggiungi il tuo primo smartphone per cominciare a proteggerlo."
+
+msgid "Nouvel appareil"
+msgstr "Nœuf dispusitif"
+
+msgid "Marque"
+msgstr "Marqi"
+
+msgid "Sélectionner"
+msgstr "Selezionar"
+
+msgid "Autre"
+msgstr "Olter"
+
+msgid "Modèle"
+msgstr "Modell"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "scrif *#06# sul telefon"
+
+msgid "Système d'exploitation"
+msgstr "Sistema operatif"
+
+msgid "Numéro de téléphone"
+msgstr "Numer de telefon"
+
+msgid "Enregistrer"
+msgstr "Salvar"
+
+msgid "Connexion"
+msgstr "Cunnession"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistema de sicureza del smartphone"
+
+msgid "Adresse email"
+msgstr "Indiriz e-mail"
+
+msgid "Mot de passe"
+msgstr "Password"
+
+msgid "Se connecter"
+msgstr "Accedi"
+
+msgid "Mot de passe oublié ?"
+msgstr "La password desmentegada?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "G’he jamò un cunt? Altriment, procedi a crear el tò conto!"
+
+msgid "Créer un compte"
+msgstr "Crea un cunt"
+
+msgid "Sécurité maximale"
+msgstr "Sicurezza massima"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Protegg i tò dat persunal cunt el blocagg a distanza"
+
+msgid "Localisation GPS"
+msgstr "Posiziun GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Truva la posiziun esatta del tò smartphone en temp real"
+
+msgid "Alertes instantanées"
+msgstr "Avvisi istantanei"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Ricef SMS, e-mail e notificaziun push en cas de furt"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Trova i tò dispusitif e visualiza i sit de ris’c"
+
+msgid "Aucun appareil"
+msgstr "Nissun dispusitif"
+
+msgid "Zones à risque"
+msgstr "Aree de risc"
+
+msgid "incidents"
+msgstr "incident"
+
+msgid "Aucune zone signalée"
+msgstr "Nissun sit segnalà"
+
+msgid "Niveau"
+msgstr "Nivell"
+
+msgid "Incidents"
+msgstr "Incident"
+
+msgid "Profile utilisateur"
+msgstr "Profil del utent"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Gestisci i tò informaziun persunal"
+
+msgid "Membre depuis"
+msgstr "Membro dal"
+
+msgid "Modifier mes informations"
+msgstr "Modifica i me informaziun"
+
+msgid "Prénom"
+msgstr "Nom"
+
+msgid "Nom"
+msgstr "Nom"
+
+msgid "Changer le mot de passe"
+msgstr "Cambia la password"
+
+msgid "Nouveau mot de passe"
+msgstr "Nœuva password"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "lassà vœui per minga cambiar"
+
+msgid "Enregistrer les modifications"
+msgstr "Salva i modifich"
+
+msgid "Inscription"
+msgstr "Registraziun"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Benvenuti a Anti-Theft per una migliur sicurezza di voster dispusitif"
+
+msgid "Confirmer"
+msgstr "Confermar"
+
+msgid "Créer mon compte"
+msgstr "Crea el me cunt"
+
+msgid "Déjà un compte ?"
+msgstr "G’he jamò un cunt?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Ripristinà la password"
+
+msgid "Réinitialisation"
+msgstr "Ripristina"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Digita la tò e-mail e el tò numer di telefon per verificà la tò identidà"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "El numer duperà durant la registraziun"
+
+msgid "Minimum 6 caractères"
+msgstr "Almen 6 caratter"
+
+msgid "Confirmer le mot de passe"
+msgstr "Cunferma la password"
+
+msgid "Retourner à la"
+msgstr "Torna a"
+
+msgid "page de connexion"
+msgstr "pagina de access"
+
+msgid "Vérification sécurisée"
+msgstr "Verifica següra"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"La vòstra identidà l’è verificà duperand el vòster e-mail e el vòster "
+"numer di telefon"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Scegli una password sicüra de almen 6 carater"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: la modifica l’è fallìda"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editur}: La modifica l’è fallìda: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Errur de Windows: {errur}"
+
+msgid "deprecated"
+msgstr "obsolet"
+
+msgid "Options"
+msgstr "Opziun"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "G’he un argument ulteriur minga specià ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Avvertiment de deprecaziun: el comand {nom!r} l’è obsolet.{messaj_extra}"
+
+msgid "Aborted!"
+msgstr "Abort!"
+
+msgid "Commands"
+msgstr "Comand"
+
+msgid "Missing command."
+msgstr "Mancant el comand."
+
+msgid "Value must be an iterable."
+msgstr "El valur el g’ha de vèss un iterabil."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Prend valur {nargs} ma l’è stà dà 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Avvertiment de deprecaziun: el {tip_param} {nom!r} l’è "
+"obsolet.{messagg_extra}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Nom '{nom}' definì dü volt"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"L'upziun booleana {decl!r} la pœu no duperà l’istess bandiera per "
+"vero/falso."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Pudeva minga determinar el nomm del opziun cun di dichiaraziun {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Nissun opziun definì ma l’è stà pasà un nomm ({nom}). Vurevet dichiarar "
+"inveci un argument? Vurevet passar '--{nom}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "predefinì: {predefinì}"
+
+msgid "required"
+msgstr "domandad"
+
+msgid "(dynamic)"
+msgstr "(dinamich)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"I argument prenden esatament una dichiaraziun de parameter, ottegnuu "
+"{luungheza}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Vœu segutar?"
+
+msgid "Confirm the action without prompting."
+msgstr "Cunferma l’aziun senza dumandà."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog), versiun %(versiun)"
+
+msgid "Show the version and exit."
+msgstr "Mostra la versiun e nesci."
+
+msgid "Show this message and exit."
+msgstr "Mostra chestu messagg e nesci."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Intendevi {pusibilità}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Errur: {messagg}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Pruvà '{comand} {opziun}' per aiut."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Valur minga valid: {messaj}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Valur minga valid per {suggeriment_param}: {messagg}"
+
+msgid "Missing argument"
+msgstr "Argument mancant"
+
+msgid "Missing option"
+msgstr "Opziun mancant"
+
+msgid "Missing parameter"
+msgstr "Parameter mancant"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Mancant {tip_param}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parameter mancant: {nom_parameter}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Nissun tal opziun {nom!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Nissun tal comand {nom!r}."
+
+msgid "unknown error"
+msgstr "errur minga cognussü"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Pudeva minga dervir el file {nom del file!r}: {messagg}"
+
+msgid "Usage:"
+msgstr "Usaj:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Caratter de partenza minga valid per l’opziun ({opziun})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "L’argument {nom!r} prend di valur {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "L'opziun {nom!r} prend no un valur."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "L'opziun {nom!r} dumanda un argument."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"La cumpletaziun de la cunchiglia l’è minga suportada per i versiun Bash "
+"püsee vècc de 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Pudeva minga rilevar la versiun Bash, el cumpletament del shell l’è minga"
+" suportà."
+
+msgid "Repeat for confirmation"
+msgstr "Ripeti per la cunferma"
+
+msgid "Error: The two entered values do not match."
+msgstr "Errur: i dü valur inserii curispunden no."
+
+msgid "Error: invalid input"
+msgstr "Errur: input minga valid"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Culur minga cognussü {culur!r}"
+
+msgid "Press any key to continue..."
+msgstr "Premi qual-sa-vöör tast per continuà..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Scegli tra:\\n\\t{scelte}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{valur!r} l’è minga {scelta}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Scelta ({scelte})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{valur!r} currispunt minga al furmà {furmà}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{valur!r} l’è minga un {tip_numer} valid."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{valur} l’è minga in del interval {interval}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{valur!r} l’è minga un boolean valid. Valur recognossuu: {stat}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{valur!r} l’è minga un UUID valid."
+
+msgid "file"
+msgstr "libron"
+
+msgid "directory"
+msgstr "repertori"
+
+msgid "path"
+msgstr "percors"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{nom} {nom del file!r} esist minga."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{nom} {nom del file!r} l’è un file."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{nom} {nom del file!r} l’è un diretori."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{nom} {nom del file!r} l’è minga lejibil."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{nom} {nom del file!r} l’è minga scrivibil."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{nom} {nom del file!r} l’è minga eseguibil."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Sun necesari valur {len_type}, ma l’è stà dà {valur_len}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Fluss standard minga cognusuu “{nom}”"
+
+msgid "This field is required."
+msgstr "Chestu camp l’è necesari."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "El file g’ha minga un’estensiun apruvada: {estensiun}"
+
+msgid "File does not have an approved extension."
+msgstr "El file g’ha minga un’estensiun apruvada."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "El file g’ha de vèss intra {dimensiun_min} e {dimensiun_max} byte."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Nom del camp minga valid '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "El camp g’ha de vèss istess a %(olter_nom)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "El camp g’ha de vèss luungh almen %(min)d de carater."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "El camp pœu no vèss püsee luungh de %(max)d carater."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "El camp g’ha de vèss luungh esatament %(max)d de carater."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "El camp g’ha de vèss luungh intra %(min)d e %(max)d carater."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "El numer g’ha de vèss almen %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "El numer g’ha de vèss al massim %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "El numer g’ha de vèss intra %(min) e %(max)."
+
+msgid "Invalid input."
+msgstr "Input minga valid."
+
+msgid "Invalid email address."
+msgstr "Indiriz e-mail minga valid."
+
+msgid "Invalid IP address."
+msgstr "Indiriz IP minga valid."
+
+msgid "Invalid Mac address."
+msgstr "Indiriz Mac minga valid."
+
+msgid "Invalid URL."
+msgstr "URL minga valid."
+
+msgid "Invalid UUID."
+msgstr "UUID minga valid."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Valur minga valid, g’ha de vèss un di: %(valur)."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Valur minga valid, pœu no vèss nissun di: %(valur)."
+
+msgid "This field cannot be edited."
+msgstr "Chestu camp pœu no vèss mudificà."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Chestu camp l’è disabilità e pœu no avegh un valur."
+
+msgid "Invalid CSRF Token."
+msgstr "Geton CSRF minga valid."
+
+msgid "CSRF token missing."
+msgstr "Manca el geton CSRF."
+
+msgid "CSRF failed."
+msgstr "CSRF l’è fallì."
+
+msgid "CSRF token expired."
+msgstr "El geton CSRF l’è scadù."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Scelta minga valida: pudeva minga coercir."
+
+msgid "Choices cannot be None."
+msgstr "I scernid pœden no vèss Nissun."
+
+msgid "Not a valid choice."
+msgstr "Minga una scelta valida."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Scelta(i) minga valida: vun o püsee input de dati pœden no vèss costrett."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "“%(valur)s” l’è minga una scernida valida per chestu camp."
+
+msgid "Not a valid datetime value."
+msgstr "Minga un valur data-ora valid."
+
+msgid "Not a valid date value."
+msgstr "Minga un valur de data valid."
+
+msgid "Not a valid time value."
+msgstr "Minga un valur de temp valid."
+
+msgid "Not a valid week value."
+msgstr "Minga un valur settimanal valid."
+
+msgid "Not a valid integer value."
+msgstr "Minga un valur inter valid."
+
+msgid "Not a valid decimal value."
+msgstr "Minga un valur decimal valid."
+
+msgid "Not a valid float value."
+msgstr "Minga un valur float valid."
+

@@ -1,0 +1,1040 @@
+# Translations for LG.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: lg\n"
+"Language-Team: lg <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Nsaba oyingire okuyingira ku mukutu guno."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "IMEI eno yawandiisibwa dda mu nkola."
+
+msgid "Accès non autorisé."
+msgstr "Okuyingira nga tolina lukusa."
+
+msgid "Appareil déverrouillé."
+msgstr "Ekyuma kisumuluddwa."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alert yatondeddwawo! Ebimanyisibwa biweerezeddwa."
+
+msgid "Alerte résolue."
+msgstr "Alert egonjoddwa."
+
+msgid "Pas encore de compte ?"
+msgstr "Tewali akawunti n'okutuusa kati?"
+
+msgid "Mon Profil"
+msgstr "Profile Yange"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Okuyungibwa ku buwanguzi! Kaale."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email oba password enkyamu."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Ennimiro zonna ezeetaagisa zirina okujjibwamu."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Ebigambo by’okuyingira tebikwatagana."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Ekigambo ky’okuyingira kirina okubaamu ennukuta ezitakka wansi wa 6."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Email eno yakozesebwa dda."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Akawunti yatondeddwa bulungi! Yingira mu."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Tewali akawunti zizuuliddwa ne email eno."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Ennamba y’essimu tekwatagana na nnamba ya akawunti."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Ekigambo ky’okuyingira ekipya kikakatako."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Okuzzaawo ebigambo by'okuyingira (pasword reset) bulungi! Yingira mu."
+
+msgid "Vous avez été déconnecté."
+msgstr "Obadde okutuddwako akakwate."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Brand, model ne IMEI byetaagibwa."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Ekyuma ekirina IMEI eno kyaliwo dda."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Ekyuma kyawandiisibwa bulungi!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Tokkirizibwa kukola kikolwa kino."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Ekyuma kyasibirwa bulungi okuva ewala."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Ekyuma kyasumuluddwa bulungi."
+
+msgid "Appareil supprimé."
+msgstr "Ekyuma kyasaziddwamu."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Nsaba olonde ekyuma n'ekika ky'okulabula."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Ekyuma kino si kyammwe."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert yaloopedde bulungi. Ekyuma kino kibadde kikuumibwa bulungi."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alert ewandiikiddwa nga egonjoddwa."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Amannya agasooka, amannya ag’enkomerero ne email byetaagibwa."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Email eno yakozesebwa dda akawunti endala."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profile etereezeddwa bulungi!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Okuyingira kuterekeddwa abaddukanya emirimu."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Ensobi ewandiikiddwa nga egonjoddwa."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Tosobola kusazaamu akawunti yo."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Omukozesa asaziddwamu bulungi."
+
+msgid "Administration"
+msgstr "Enzirukanya y’emirimu"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Enzirukanya y’enkola y’okulwanyisa obubbi mu kifo ekimu"
+
+msgid "Utilisateurs"
+msgstr "Abakozesa"
+
+msgid "Actifs aujourd'hui"
+msgstr "Active leero"
+
+msgid "Nouveaux ce mois"
+msgstr "Ebipya omwezi guno"
+
+msgid "Appareils"
+msgstr "Ebyuma ebikozesebwa"
+
+msgid "Alertes actives"
+msgstr "Okulabula okukola"
+
+msgid "Analytique"
+msgstr "Okwekenenya"
+
+msgid "Journal d'activité"
+msgstr "Ekiwandiiko ky’emirimu"
+
+msgid "Erreurs"
+msgstr "Ensobi"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Ebiyungo (ennaku 7 ezisembyeyo) ."
+
+msgid "Alertes par type"
+msgstr "Okulabula okusinziira ku kika"
+
+msgid "Appareils par opérateur"
+msgstr "Ebyuma okusinziira ku muddukanya"
+
+msgid "Résumé du système"
+msgstr "Enkola mu bufunze"
+
+msgid "Utilisateurs total"
+msgstr "Omugatte gw’abakozesa"
+
+msgid "Appareils enregistrés"
+msgstr "Ebyuma ebiwandiisiddwa"
+
+msgid "Total alertes"
+msgstr "Omugatte gw'okulabula"
+
+msgid "Alertes en cours"
+msgstr "Okulabula okuliwo kati"
+
+msgid "Erreurs non résolues"
+msgstr "Ensobi ezitannagonjoolwa"
+
+msgid "Dernières activités"
+msgstr "Ebikolebwa ebisembyeyo"
+
+msgid "récentes"
+msgstr "mu buliwo"
+
+msgid "Utilisateur"
+msgstr "Omukozesa"
+
+msgid "Action"
+msgstr "Okikolwa"
+
+msgid "Détails"
+msgstr "Ebisingawo"
+
+msgid "Adresse IP"
+msgstr "Endagiriro ya IP"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Olunaku olw'omweezi"
+
+msgid "Aucune activité"
+msgstr "Tewali mulimu gwonna"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Emirimu gy'abakozesa gijja kulabika wano."
+
+msgid "Journal d'erreurs"
+msgstr "Ekiwandiiko ky’ensobi"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Okutereeza ensobi zonna?"
+
+msgid "Tout résoudre"
+msgstr "Buli kimu kigonjoole"
+
+msgid "non résolues"
+msgstr "ekitannaba kugonjoolwa"
+
+msgid "Tout est résolu"
+msgstr "Buli kimu kigonjoddwa"
+
+msgid "Type"
+msgstr "Kisa"
+
+msgid "Description"
+msgstr "Okunnyonnyola"
+
+msgid "Statut"
+msgstr "Ennyimirira"
+
+msgid "Résolu"
+msgstr "Kigonjoddwa"
+
+msgid "Non résolu"
+msgstr "Tekigonjoddwa"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Tewali nsobi ziwandiikiddwa"
+
+msgid "Le système fonctionne correctement."
+msgstr "Enkola eno ekola bulungi."
+
+msgid "Gestion des utilisateurs"
+msgstr "Enzirukanya y’abakozesa"
+
+msgid "comptes"
+msgstr "akawunti"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Essimu"
+
+msgid "Rôle"
+msgstr "Omugaso"
+
+msgid "Inscrit le"
+msgstr "Ewandiisiddwa ku..."
+
+msgid "Actions"
+msgstr "Ebikolwa"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Ssaawo omukozesa ono n'ebyuma bye byonna?"
+
+msgid "Vous"
+msgstr "GGWE"
+
+msgid "Connexions"
+msgstr "Ebiyungo"
+
+msgid "Vol"
+msgstr "Okubuuka"
+
+msgid "Perte"
+msgstr "Okufirwa"
+
+msgid "Anomalie"
+msgstr "Obutali bumativu"
+
+msgid "Alertes"
+msgstr "Okulabula"
+
+msgid "Gestion des alertes"
+msgstr "Enzirukanya y’okulabula"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Loopa obubbi oba okufiirwa era olondoole ebyafaayo"
+
+msgid "Signaler un vol / perte"
+msgstr "Loopa obubbi/okufiirwa"
+
+msgid "En cours"
+msgstr "Mu bigenda mu maaso"
+
+msgid "Résolues"
+msgstr "Kigonjoddwa"
+
+msgid "Historique des alertes"
+msgstr "Ebyafaayo by'okulabula"
+
+msgid "Appareil"
+msgstr "Ekyuuma"
+
+msgid "Priorité"
+msgstr "Kyankizo nyo"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Laga ku kulabula kuno nga bwe kugonjoddwa?"
+
+msgid "Résoudre"
+msgstr "Okuggusa"
+
+msgid "Aucune alerte"
+msgstr "Tewali kulabula"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Amawulire amalungi! Tewali kulabula kwonna kutegeezeddwa."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Loopa obubbi oba okufiirwa"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Bw’oloopa obubbi, ekyuma kyo kijja kusibirwa mu ngeri ey’otoma era "
+"n’okumanyisibwa kujja kusindikibwa."
+
+msgid "Appareil concerné"
+msgstr "Ekyuma ekikoseddwa"
+
+msgid "Sélectionner un appareil"
+msgstr "Londa ekyuma"
+
+msgid "Type d'alerte"
+msgstr "Ekika ky’okulabula"
+
+msgid "Décrivez les circonstances..."
+msgstr "Nnyonnyola embeera..."
+
+msgid "Annuler"
+msgstr "okusazaamu"
+
+msgid "Signaler"
+msgstr "Okuloopa"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Intelligent Anti-Theft System — Omukutu gw’obukuumi ku ssimu ez’amaanyi"
+
+msgid "Système Anti-Vol"
+msgstr "Enkola y’okulwanyisa obubbi"
+
+msgid "PRINCIPAL"
+msgstr "KIKULU"
+
+msgid "Tableau de bord"
+msgstr "Daasiboodi"
+
+msgid "SÉCURITÉ"
+msgstr "OBUKUUMI"
+
+msgid "Géolocalisation"
+msgstr "Enfo y’ensi"
+
+msgid "ADMINISTRATION"
+msgstr "ENZIRUKANYA y’emirimu"
+
+msgid "Déconnexion"
+msgstr "Ggyako omukutu"
+
+msgid "Changer de langue"
+msgstr "Kyusa olulimi"
+
+msgid "Rechercher une langue..."
+msgstr "Noonya olulimi..."
+
+msgid "Profil"
+msgstr "Ebikukwatako"
+
+msgid "Changer de thème"
+msgstr "Kyusa omulamwa"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Okulaba obukuumi bw’ekyuma kyo"
+
+msgid "Ajouter un appareil"
+msgstr "Okwongerako ekyuma"
+
+msgid "Appareils volés"
+msgstr "Ebyuma ebibbiddwa"
+
+msgid "Verrouillés à distance"
+msgstr "Ekubiddwa kkufulu okuva ewala"
+
+msgid "Alertes récentes"
+msgstr "Okulabula okusembyeyo"
+
+msgid "Voir tout"
+msgstr "Laba byonna"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Tewali kulabula. Ebyuma byo tebirina bulabe!"
+
+msgid "Mes appareils"
+msgstr "Ebyuma byange"
+
+msgid "Aucun appareil enregistré"
+msgstr "Tewali byuma biwandiisiddwa"
+
+msgid "Ajouter"
+msgstr "Okwongerako"
+
+msgid "en attente"
+msgstr "ku kuyimirizibwa"
+
+msgid "Gestion des appareils"
+msgstr "Enzirukanya y’ebyuma"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Wewandiise era oddukanya essimu zo ez’amaanyi"
+
+msgid "Opérateur"
+msgstr "Omuddukanya emirimu"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Okusiba ekyuma kino okuva ewala?"
+
+msgid "Verrouiller"
+msgstr "Ekkufulu"
+
+msgid "Déverrouiller"
+msgstr "Sumulula kkufulu"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Ssazaamu ekyuma kino?"
+
+msgid "Supprimer"
+msgstr "OKUSIIMUULA"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Yongera ku ssimu yo esooka okutandika okugikuuma."
+
+msgid "Nouvel appareil"
+msgstr "Ekyuma ekipya"
+
+msgid "Marque"
+msgstr "Bulandi"
+
+msgid "Sélectionner"
+msgstr "Okulonda"
+
+msgid "Autre"
+msgstr "Lala"
+
+msgid "Modèle"
+msgstr "Ekifaananyi"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "wandiika **#06# ku ssimu yo"
+
+msgid "Système d'exploitation"
+msgstr "Enkola y’emirimu"
+
+msgid "Numéro de téléphone"
+msgstr "Ennamba y’essimu"
+
+msgid "Enregistrer"
+msgstr "Okununula"
+
+msgid "Connexion"
+msgstr "Okuyungibwa"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Enkola y’obukuumi bw’essimu ez’amaanyi"
+
+msgid "Adresse email"
+msgstr "Endagiriro ya e-mail"
+
+msgid "Mot de passe"
+msgstr "Paasiwaadi"
+
+msgid "Se connecter"
+msgstr "Yingira mu"
+
+msgid "Mot de passe oublié ?"
+msgstr "Owerabidde password?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Olina dda akawunti? Bwe kitaba ekyo, genda mu maaso n'okukola akawunti yo!"
+
+msgid "Créer un compte"
+msgstr "Tonda akawunti"
+
+msgid "Sécurité maximale"
+msgstr "Obukuumi obusinga obunene"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Kuuma data yo ey’obuntu ng’okozesa okusiba okuva ewala"
+
+msgid "Localisation GPS"
+msgstr "Ekifo kya GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Funa ekifo ekituufu essimu yo ey’omu ngalo mu kiseera ekituufu"
+
+msgid "Alertes instantanées"
+msgstr "Okulabula okw’amangu"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Funa obubaka bwa SMS, email ne push notifications singa wabaawo obubbi"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Funa ebyuma byo era olabe mu birowoozo ebifo ebirimu akabi"
+
+msgid "Aucun appareil"
+msgstr "Tewali kyuma kyonna"
+
+msgid "Zones à risque"
+msgstr "Ebitundu ebirimu akabi"
+
+msgid "incidents"
+msgstr "ebibaddewo"
+
+msgid "Aucune zone signalée"
+msgstr "Tewali bitundu byategeezeddwa"
+
+msgid "Niveau"
+msgstr "Okwenkanyankanya"
+
+msgid "Incidents"
+msgstr "Ebibaddewo"
+
+msgid "Profile utilisateur"
+msgstr "Profile y'omukozesa"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Dukanya ebikwata ku bantu bo"
+
+msgid "Membre depuis"
+msgstr "Member okuva"
+
+msgid "Modifier mes informations"
+msgstr "Edita amawulire gange"
+
+msgid "Prénom"
+msgstr "Erinnya erisooka"
+
+msgid "Nom"
+msgstr "Erinnya"
+
+msgid "Changer le mot de passe"
+msgstr "Kyusa ekigambo ky'okuyingira"
+
+msgid "Nouveau mot de passe"
+msgstr "Password Empya"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "leka nga tewali kintu kireme kukyuka"
+
+msgid "Enregistrer les modifications"
+msgstr "Teeka enkyukakyuka"
+
+msgid "Inscription"
+msgstr "Okwewandiisa"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Mwaniriziddwa mu Anti-Theft okufuna obukuumi obulungi ku byuma byo"
+
+msgid "Confirmer"
+msgstr "Okukakasa"
+
+msgid "Créer mon compte"
+msgstr "Tonda akawunti yange"
+
+msgid "Déjà un compte ?"
+msgstr "Olina dda akawunti?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Okuzzaawo Password"
+
+msgid "Réinitialisation"
+msgstr "Okuddamu okuteekawo"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Yingiza email yo n’ennamba y’essimu yo okukakasa omuntu wo"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Ennamba ekozesebwa mu kiseera ky’okwewandiisa"
+
+msgid "Minimum 6 caractères"
+msgstr "Ekitono ennyo ennukuta 6"
+
+msgid "Confirmer le mot de passe"
+msgstr "Kakasa ekigambo ky'okuyingira"
+
+msgid "Retourner à la"
+msgstr "Ddayo ku..."
+
+msgid "page de connexion"
+msgstr "omuko gw'okuyingira"
+
+msgid "Vérification sécurisée"
+msgstr "Okukakasa okunywevu"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Endagamuntu yo ekakasibwa ng’okozesa email yo n’ennamba y’essimu yo"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr ""
+"Londa ekigambo ky’okuyingira ekikuumibwa nga kirimu ennukuta ezitakka "
+"wansi wa 6"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Okulongoosa kulemereddwa"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Okulongoosa kulemereddwa: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Ensobi ya Windows: {ensobi}"
+
+msgid "deprecated"
+msgstr "evudde ku mulembe"
+
+msgid "Options"
+msgstr "Ebintu by’oyinza okulonda"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Yafuna ensonga ez'enjawulo ezitasuubirwa ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Ekiragiro {erinnya!r} kiggiddwawo.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Yaggyibwamu olubuto!"
+
+msgid "Commands"
+msgstr "Ebiragiro"
+
+msgid "Missing command."
+msgstr "Ekiragiro ekibula."
+
+msgid "Value must be an iterable."
+msgstr "Omuwendo gulina okuba nga guddibwamu."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Atwala emiwendo gya {nargs} naye 1 yaweebwa."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "OkugezesaOkulabula: {param_type} {erinnya!r} kiggiddwawo.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Erinnya '{erinnya}' litegeezeddwa emirundi ebiri"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Enkola ya Boolean {decl!r} tesobola kukozesa bendera y'emu ku "
+"kituufu/ekikyamu."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Teyasobodde kusalawo linnya lya kulonda n'okulangirira {decls!r}."
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Tewali nkola zitegeezeddwa naye erinnya lyayisibwa ({erinnya}). Obadde "
+"otegeeza kulangirira nsonga mu kifo ky’ekyo? Obadde otegeeza kuyisa "
+"'--{erinnya}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}."
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "ekisookerwako: {ekisookerwako}"
+
+msgid "required"
+msgstr "-etaagisa"
+
+msgid "(dynamic)"
+msgstr "(dynamic) ."
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Ensonga zitwala okulangirira kwa parameter emu ddala, yafuna {obuwanvu}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Oyagala kweyongerayo?"
+
+msgid "Confirm the action without prompting."
+msgstr "Kakasa ekikolwa nga tolina kusaba."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, enkyusa % (enkyusa)s"
+
+msgid "Show the version and exit."
+msgstr "Laga enkyusa era ofulume."
+
+msgid "Show this message and exit."
+msgstr "Laga obubaka buno era ofulume."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Obadde otegeeza {okusoboka}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Ensobi: {obubaka}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Gezaako '{ekiragiro} {eky'okulonda}' okufuna obuyambi."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Omuwendo ogutali mutuufu: {obubaka}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Omuwendo ogutali mutuufu ogwa {param_hint}: {obubaka}"
+
+msgid "Missing argument"
+msgstr "Okuyomba okubula"
+
+msgid "Missing option"
+msgstr "Ekyokulonda ekibula"
+
+msgid "Missing parameter"
+msgstr "Parameter ebuze"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Ebibulamu {param_type}."
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parameter ebuze: {erinnya_erya_param}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Tewali nkola ng'eyo {erinnya!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Tewali kiragiro nga kino {erinnya!r}."
+
+msgid "unknown error"
+msgstr "ensobi etamanyiddwa"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Teyasobodde kuggulawo fayiro {erinnya lya fayiro!r}: {obubaka}"
+
+msgid "Usage:"
+msgstr "Omugaso:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Ennukuta y'okutandika etali ntuufu ey'okulonda ({option}) ."
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Ensonga {erinnya!r} etwala emiwendo gya {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Enkola {erinnya!r} tetwala muwendo."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Enkola {erinnya!r} yeetaaga ensonga."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Okumaliriza Shell tekiwagirwa ku nkyusa za Bash enkadde okusinga 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Teyasobodde kuzuula nkyusa ya Bash, okumaliriza kwa shell tekuwagirwa."
+
+msgid "Repeat for confirmation"
+msgstr "Ddamu okusobola okukakasa"
+
+msgid "Error: The two entered values do not match."
+msgstr "Ensobi: Emiwendo ebiri egyayingiziddwa tegikwatagana."
+
+msgid "Error: invalid input"
+msgstr "Ensobi: okuyingiza okutali kutuufu"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Langi etamanyiddwa {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Nywa ekisumuluzo kyonna okugenda mu maaso..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Londa okuva mu:\\n\\t{okulonda}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{omuwendo!r} si {okulonda}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Okulonda({okulonda})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} tekwatagana na nkola {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} si {ekika_namba} ekituufu."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{omuwendo} teguli mu bbanga {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} si boolean entuufu. Emiwendo egimanyiddwa: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} si UUID entuufu."
+
+msgid "file"
+msgstr "fayilo"
+
+msgid "directory"
+msgstr "dayirekita"
+
+msgid "path"
+msgstr "ekkubo"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{erinnya} {erinnya lya fayiro!r} tewali."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{erinnya} {erinnya lya fayiro!r} ye fayiro."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{erinnya} {erinnya lya fayiro!r} ye dayirekita."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{erinnya} {erinnya lya fayiro!r} tekisomebwa."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{erinnya} {erinnya lya fayiro!r} tekiwandiikibwa."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{erinnya} {erinnya lya fayiro!r} tesobola kukolebwa."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} emiwendo gyetaagisa, naye {len_value} yaweebwa."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Omugga ogutamanyiddwa '{erinnya}'."
+
+msgid "This field is required."
+msgstr "Ennimiro eno yeetaagibwa."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Fayiro terina ekyongereza ekikkirizibwa: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Fayiro terina kwongerako kukkirizibwa."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Fayiro erina okuba wakati wa {min_size} ne {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Erinnya ly'ennimiro eritali ntuufu '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Ennimiro erina okwenkana %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Ennimiro erina okuba nga waakiri ennukuta %(min)d obuwanvu."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Ennimiro teyinza kuba mpanvu okusinga %(max)d character."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Ennimiro erina okuba nga ddala %(max)d obuwanvu bw'ennukuta."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Ennimiro erina okuba wakati w'ennukuta %(min)d ne %(max)d obuwanvu."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Ennamba erina okuba waakiri %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Omuwendo gulina okuba nga gusinga %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Omuwendo gulina okuba wakati wa %(min)s ne %(max)s."
+
+msgid "Invalid input."
+msgstr "Okuyingiza okutali kutuufu."
+
+msgid "Invalid email address."
+msgstr "Endagiriro ya email etali ntuufu."
+
+msgid "Invalid IP address."
+msgstr "Endagiriro ya IP etali ntuufu."
+
+msgid "Invalid Mac address."
+msgstr "Endagiriro ya Mac etali ntuufu."
+
+msgid "Invalid URL."
+msgstr "URL etali ntuufu."
+
+msgid "Invalid UUID."
+msgstr "UUID etali ntuufu."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Omuwendo ogutali mutuufu, gulina okuba gumu ku: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Omuwendo ogutali mutuufu, teguyinza kuba gwonna ku: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Ennimiro eno tesobola kulongoosebwa."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Ennimiro eno eremeddwa era tesobola kuba na muwendo."
+
+msgid "Invalid CSRF Token."
+msgstr "Akabonero ka CSRF akatali katuufu."
+
+msgid "CSRF token missing."
+msgstr "Akabonero ka CSRF kaabuze."
+
+msgid "CSRF failed."
+msgstr "CSRF eremereddwa."
+
+msgid "CSRF token expired."
+msgstr "Akabonero ka CSRF kaggwaako."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Invalid Choice: teyasobodde kukaka."
+
+msgid "Choices cannot be None."
+msgstr "Okulonda tekuyinza kuba Tewali."
+
+msgid "Not a valid choice."
+msgstr "Si kulonda kutuufu."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Okulonda (s) okutali kutuufu: okuyingiza data emu oba eziwera "
+"tekwasobodde kukakibwa."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' si kulonda kutuufu ku nnimiro eno."
+
+msgid "Not a valid datetime value."
+msgstr "Si muwendo gwa datetime omutuufu."
+
+msgid "Not a valid date value."
+msgstr "Si muwendo gwa lunaku mutuufu."
+
+msgid "Not a valid time value."
+msgstr "Si muwendo gwa kiseera mutuufu."
+
+msgid "Not a valid week value."
+msgstr "Si muwendo gwa wiiki omutuufu."
+
+msgid "Not a valid integer value."
+msgstr "Si muwendo gwa namba enzijuvu omutuufu."
+
+msgid "Not a valid decimal value."
+msgstr "Si muwendo gwa decimal omutuufu."
+
+msgid "Not a valid float value."
+msgstr "Si muwendo gwa float omutuufu."
+

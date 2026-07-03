@@ -1,0 +1,1037 @@
+# Translations for FF.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ff\n"
+"Language-Team: ff <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Tiiɗno naata ngam naatde e ngoo hello."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Oo IMEI ina winndaa e nder system oo."
+
+msgid "Accès non autorisé."
+msgstr "Naatgol ngol yamiraaka."
+
+msgid "Appareil déverrouillé."
+msgstr "Kaɓirgal ngal udditaama."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Jeertinaango sosaa! Notifikaaji neldaama."
+
+msgid "Alerte résolue."
+msgstr "Jeertinaango safraama."
+
+msgid "Pas encore de compte ?"
+msgstr "Alaa konte tawo?"
+
+msgid "Mon Profil"
+msgstr "Profaayiil am"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Jokkondiral ngal waɗii faayiida! Jabbama."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Imeel walla konngol ngol moƴƴaani."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Fannuuji ɗaɓɓaaɗi ɗii fof ina poti timmineede."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Passwords njiidaani."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Password oo ina foti jogaade ko famɗi fof alkule 6."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Oo iimeel ina huutoree tawo."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Konte ɗee sosaa ko no moƴƴi! Naat."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Alaa konte tawaaɗe e ndee iimeel."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Limoore telefoŋ ndee yahdaani e limoore konte ɗee."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Password keso oo ko doole."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Reset konngol ngol waɗii faayiida! Naat."
+
+msgid "Vous avez été déconnecté."
+msgstr "A taƴaama."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Marke, model e IMEI ina ɗaɓɓiree."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Kaɓirgal jogiingal ngalɗoo IMEI ina woodi tawo."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Appaare winnditaama no moƴƴi!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "A yamiraaka waɗde ndee golle."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Appaare remote cokaaɗo e nafoore."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Kaɓirgal ngal udditaama no moƴƴi."
+
+msgid "Appareil supprimé."
+msgstr "Kaɓirgal ngal momtaama."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Tiiɗno, suɓo kaɓirgol e sifaa jeertinaango."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Ooɗoo kaɓirgal jeyaaka e maa."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert habrii ko moƴƴi. Kaɓirgal ngal ina selli."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Jeertinaango maande no safraama."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Innde, innde cakkitiinde e iimeel ina ɗaɓɓiree."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Oo imeel ina huutoree e konte goɗɗe."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profaayiil hesɗitinaama no moƴƴi!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Heɓde ko njuɓɓudi reerɗi."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Juumre maande no safraama."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "A waawaa momtude konte maa."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Huutortooɗo oo momtaama."
+
+msgid "Administration"
+msgstr "Njuɓɓudi"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Njuɓɓudi cakkitiindi e nder njuɓɓudi Anti-Theft"
+
+msgid "Utilisateurs"
+msgstr "Huutortooɓe"
+
+msgid "Actifs aujourd'hui"
+msgstr "Active hannde"
+
+msgid "Nouveaux ce mois"
+msgstr "Kesum e ndee lewru"
+
+msgid "Appareils"
+msgstr "Kaɓirɗe"
+
+msgid "Alertes actives"
+msgstr "Jeertinaali gollotooɗi"
+
+msgid "Analytique"
+msgstr "Hiisiwal"
+
+msgid "Journal d'activité"
+msgstr "Log golle"
+
+msgid "Erreurs"
+msgstr "Juumre"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Jokkondire (balɗe 7 cakkitiiɗe)"
+
+msgid "Alertes par type"
+msgstr "Jeertinaango e sifaa"
+
+msgid "Appareils par opérateur"
+msgstr "Kaɓirɗe e golloowo"
+
+msgid "Résumé du système"
+msgstr "Ciimtol Siistem"
+
+msgid "Utilisateurs total"
+msgstr "Total huutortooɓe"
+
+msgid "Appareils enregistrés"
+msgstr "Kaɓirɗe binndaaɗe"
+
+msgid "Total alertes"
+msgstr "Total jeertinaango"
+
+msgid "Alertes en cours"
+msgstr "Jeertinaango jooni"
+
+msgid "Erreurs non résolues"
+msgstr "Juumre nde laaɓtaani"
+
+msgid "Dernières activités"
+msgstr "Golle cakkitiiɗe"
+
+msgid "récentes"
+msgstr "neebay"
+
+msgid "Utilisateur"
+msgstr "Huutortooɗo"
+
+msgid "Action"
+msgstr "Kugal"
+
+msgid "Détails"
+msgstr "Matinolji"
+
+msgid "Adresse IP"
+msgstr "Adrees IP"
+
+msgid "Navigateur"
+msgstr "Feerorde"
+
+msgid "Date"
+msgstr "Nyalade"
+
+msgid "Aucune activité"
+msgstr "Alaa golle"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Golle kuutortooɗo maa peeñ ɗoo."
+
+msgid "Journal d'erreurs"
+msgstr "Juumre majjere"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Feewnit boofi ɗii fof?"
+
+msgid "Tout résoudre"
+msgstr "Safrude kala ko woni"
+
+msgid "non résolues"
+msgstr "ko ƴeewtaaka"
+
+msgid "Tout est résolu"
+msgstr "Huunde fof ina safra"
+
+msgid "Type"
+msgstr "Irin"
+
+msgid "Description"
+msgstr "Limtol"
+
+msgid "Statut"
+msgstr "Jonde"
+
+msgid "Résolu"
+msgstr "Feewnitaama"
+
+msgid "Non résolu"
+msgstr "Ko feewnaaka"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Alaa boowal winndaa"
+
+msgid "Le système fonctionne correctement."
+msgstr "Siistem oo ina golloo no haanirta nii."
+
+msgid "Gestion des utilisateurs"
+msgstr "Njuɓɓudi kuutortooɗo"
+
+msgid "comptes"
+msgstr "konte"
+
+msgid "Email"
+msgstr "Imeel"
+
+msgid "Téléphone"
+msgstr "Noɗɗirgel"
+
+msgid "Rôle"
+msgstr "Kugal"
+
+msgid "Inscrit le"
+msgstr "Winnditaama ñalnde..."
+
+msgid "Actions"
+msgstr "Golle"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Mumtu oo kuutortooɗo e denndaangal kaɓirɗe mum?"
+
+msgid "Vous"
+msgstr "AN"
+
+msgid "Connexions"
+msgstr "Jokkondire"
+
+msgid "Vol"
+msgstr "Fiirol"
+
+msgid "Perte"
+msgstr "Majjol"
+
+msgid "Anomalie"
+msgstr "Anomali"
+
+msgid "Alertes"
+msgstr "Jeertinaali"
+
+msgid "Gestion des alertes"
+msgstr "Njuɓɓudi jeertinaango"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Habrirde gujjo walla majjugol e rewindaade daartol"
+
+msgid "Signaler un vol / perte"
+msgstr "Habrirde gujjo/majjugol"
+
+msgid "En cours"
+msgstr "E nder golle"
+
+msgid "Résolues"
+msgstr "Feewnitaama"
+
+msgid "Historique des alertes"
+msgstr "Daartol jeertinaango"
+
+msgid "Appareil"
+msgstr "Ordo"
+
+msgid "Priorité"
+msgstr "Mangu"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Maande ndee jeertinaango no safraama?"
+
+msgid "Résoudre"
+msgstr "Teffugo dabare"
+
+msgid "Aucune alerte"
+msgstr "Alaa jeertinaango"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Kabaaru belɗo! Alaa jeertinaango ngo haalaa."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Habrirde gujjo walla majjugol"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"So a habrii gujjo, kaɓirgol maa coktirtee ɗoon e ɗoon, humpitooji "
+"neldetee."
+
+msgid "Appareil concerné"
+msgstr "Kaɓirgal ngal toɗɗii"
+
+msgid "Sélectionner un appareil"
+msgstr "Suɓo kaɓirgal"
+
+msgid "Type d'alerte"
+msgstr "Sifaa jeertinaango"
+
+msgid "Décrivez les circonstances..."
+msgstr "Siftor ngonkaaji ɗii..."
+
+msgid "Annuler"
+msgstr "Willugo"
+
+msgid "Signaler"
+msgstr "Matinugo"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Siistem haɓaade gujjo hakkille — Platform kisal ngam telefoŋaaji cinndooji"
+
+msgid "Système Anti-Vol"
+msgstr "Siistem haɓaade gujjo"
+
+msgid "PRINCIPAL"
+msgstr "ARANDERE"
+
+msgid "Tableau de bord"
+msgstr "Tablo"
+
+msgid "SÉCURITÉ"
+msgstr "JAM"
+
+msgid "Géolocalisation"
+msgstr "Nokku leydi"
+
+msgid "ADMINISTRATION"
+msgstr "NJUUMU"
+
+msgid "Déconnexion"
+msgstr "Taƴtu jokkondiral"
+
+msgid "Changer de langue"
+msgstr "Waylu ɗemngal"
+
+msgid "Rechercher une langue..."
+msgstr "Yiylo ɗemngal..."
+
+msgid "Profil"
+msgstr "Sappinol"
+
+msgid "Changer de thème"
+msgstr "Waylu tiitoonde"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Yiyngo kisal kaɓirgol maa"
+
+msgid "Ajouter un appareil"
+msgstr "Ɓeydu heen kaɓirgal"
+
+msgid "Appareils volés"
+msgstr "Kaɓirɗe wujjaaɗe"
+
+msgid "Verrouillés à distance"
+msgstr "Ko coktirgal to woɗɗi"
+
+msgid "Alertes récentes"
+msgstr "Jeertinaango ɓooyngo"
+
+msgid "Voir tout"
+msgstr "Ƴeew fof"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Alaa jeertinaango. Kaɓirɗe mon ina kisal!"
+
+msgid "Mes appareils"
+msgstr "Kaɓirɗe am"
+
+msgid "Aucun appareil enregistré"
+msgstr "Alaa kaɓirɗe binndaaɗe"
+
+msgid "Ajouter"
+msgstr "Besdugo"
+
+msgid "en attente"
+msgstr "e dow jogaade"
+
+msgid "Gestion des appareils"
+msgstr "Njuɓɓudi kaɓirɗe"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Winndito e ƴellitde telefoŋaaji maa"
+
+msgid "Opérateur"
+msgstr "Gollotooɗo"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Sokkit ooɗoo kaɓirgal e woɗɗude?"
+
+msgid "Verrouiller"
+msgstr "Maɓɓode"
+
+msgid "Déverrouiller"
+msgstr "Uddit"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Mumtu ndee kaɓirgal?"
+
+msgid "Supprimer"
+msgstr "WILUGO"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Ɓeydu smartphone maa gadano ngam fuɗɗaade reende ɗum."
+
+msgid "Nouvel appareil"
+msgstr "Kaɓirgal kesal"
+
+msgid "Marque"
+msgstr "Inde"
+
+msgid "Sélectionner"
+msgstr "Suɓɓugo"
+
+msgid "Autre"
+msgstr "Feere"
+
+msgid "Modèle"
+msgstr "Dabare"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "winndu *#06# e telefoŋ maa"
+
+msgid "Système d'exploitation"
+msgstr "Siistem gollorɗo"
+
+msgid "Numéro de téléphone"
+msgstr "Limoore telefoŋ"
+
+msgid "Enregistrer"
+msgstr "Hisugo"
+
+msgid "Connexion"
+msgstr "Jokkondiral"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Siistem kisal telefoŋaaji cinndooji"
+
+msgid "Adresse email"
+msgstr "Adrees imeel"
+
+msgid "Mot de passe"
+msgstr "Siiri nastirde"
+
+msgid "Se connecter"
+msgstr "Naat"
+
+msgid "Mot de passe oublié ?"
+msgstr "Yejjitaama konngol?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Mbele aɗa jogii konte jooni? So wonaa ɗuum, jokku e sosde konte maa!"
+
+msgid "Créer un compte"
+msgstr "Sos konte"
+
+msgid "Sécurité maximale"
+msgstr "Kisal ɓurngal mawnude"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Reento dokke maa keertiiɗe e coktirgal to woɗɗi"
+
+msgid "Localisation GPS"
+msgstr "Nokku GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Yiytu nokku ɗo smartphone maa woni ɗoo e sahaa tigi-rigi"
+
+msgid "Alertes instantanées"
+msgstr "Jeertinaango ɗoon e ɗoon"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Jaɓɓo SMS, iimeel e humpitooji push so tawii gujjo waɗii"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Yiytu kaɓirɗe maa e yiytude nokkuuji risk"
+
+msgid "Aucun appareil"
+msgstr "Alaa kaɓirgal"
+
+msgid "Zones à risque"
+msgstr "Nokkuuji risk"
+
+msgid "incidents"
+msgstr "kewuuji"
+
+msgid "Aucune zone signalée"
+msgstr "Alaa nokkuuji ɗi kaalaaka"
+
+msgid "Niveau"
+msgstr "Baabal"
+
+msgid "Incidents"
+msgstr "Kewuuji"
+
+msgid "Profile utilisateur"
+msgstr "Profaayiil kuutortooɗo"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Njuɓɓudi kabaruuji maa keertiiɗi"
+
+msgid "Membre depuis"
+msgstr "Tergal gila ndeen"
+
+msgid "Modifier mes informations"
+msgstr "Waylu kabaruuji am"
+
+msgid "Prénom"
+msgstr "Arandere inde"
+
+msgid "Nom"
+msgstr "Inde"
+
+msgid "Changer le mot de passe"
+msgstr "Waylu konngol"
+
+msgid "Nouveau mot de passe"
+msgstr "Konngol kesol"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "accu ko ɓuuɓɗo ngam waasde waylaade"
+
+msgid "Enregistrer les modifications"
+msgstr "Hisnu waylooji"
+
+msgid "Inscription"
+msgstr "Binnditagol"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "On njaaraama e Anti-Theft ngam ɓeydaade kisal kaɓirɗe mon"
+
+msgid "Confirmer"
+msgstr "Jabbugo"
+
+msgid "Créer mon compte"
+msgstr "Sos konte am"
+
+msgid "Déjà un compte ?"
+msgstr "Aɗa jogii konte jooni?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Resndo konngol"
+
+msgid "Réinitialisation"
+msgstr "Resndo"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Winndu imeel maa e tonngoode telefoŋ maa ngam hoolkisaade ko ngonɗaa koo"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Limre huutorteende e binnditagol"
+
+msgid "Minimum 6 caractères"
+msgstr "Ko famɗi fof alkule 6"
+
+msgid "Confirmer le mot de passe"
+msgstr "Tabintin konngol"
+
+msgid "Retourner à la"
+msgstr "Hoto ngartu e..."
+
+msgid "page de connexion"
+msgstr "hello naatgol"
+
+msgid "Vérification sécurisée"
+msgstr "Hoolkiso kisal"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Hoolkiso maa ko e kuutoragol iimeel maa e tonngoode telefoŋ maa"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Suɓo konngol kisal ngol ko famɗi fof alkule 6"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Waylude ndee ŋakki"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{bayluɗo}: Waylude ronkaama: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Juumre Windows: {juumre}"
+
+msgid "deprecated"
+msgstr "ƴaañii"
+
+msgid "Options"
+msgstr "Cuɓe"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Heɓi hujja ɓeydiiɗo mo miijaaka ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Jeertinaango: Yamiroore {innde!r} ndee ina ɓooyi.{mesaas_ɓeydiiɗo}"
+
+msgid "Aborted!"
+msgstr "Taƴaama!"
+
+msgid "Commands"
+msgstr "Yamirooje"
+
+msgid "Missing command."
+msgstr "Yamiroore ŋakkunde."
+
+msgid "Value must be an iterable."
+msgstr "Nafoore ina foti wonde iterable."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Ƴetta {nargs} nafooje kono 1 rokkaama."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "Jeertinaango: {param_type} {innde!r} ina ɓooyi.{mesaas_ɓedaaɗo}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Innde '{innde}' firtaama laabi ɗiɗi"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Cuɓal Boolean {decl!r} waawaa huutoraade bannge gooto ngam "
+"goonga/fenaande."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Waawaa anndude innde cuɓal e bayyinaango {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Alaa cuɓe cifaaɗe kono innde yaltinaama ({innde}). Mbele aɗa yiɗi "
+"bayyinde hujja e nokku mum? Aɗa yiɗi waɗde '--{innde}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env mbaydi: {mbaydi}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default}"
+
+msgid "required"
+msgstr "emmi"
+
+msgid "(dynamic)"
+msgstr "(dinamik)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Hujjaaji ƴetta bayyinaango parameeter gooto tan, keɓii {njuuteendi}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Mbele aɗa yiɗi jokkude?"
+
+msgid "Confirm the action without prompting."
+msgstr "Tabintin gollal ngal tawa aɗa ƴama."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, mbaydi %(mbaydi)s"
+
+msgid "Show the version and exit."
+msgstr "Hollit mbaydi ndii e yaltude."
+
+msgid "Show this message and exit."
+msgstr "Hollit ndee mesaas, yaltu."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Mbele aɗa yiɗi wiyde {waawde}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Juumre: {mesaas}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Enndu '{yamiroore} {cuɓal}' ngam heɓde ballal."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Nafoore moƴƴaani: {mesaas}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Nafoore {param_hint} moƴƴaani: {mesaas}"
+
+msgid "Missing argument"
+msgstr "Hujja ŋakkuɗo"
+
+msgid "Missing option"
+msgstr "Cuɓal ŋakkungal"
+
+msgid "Missing parameter"
+msgstr "Parameeter mo ŋakki"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{mbaydi_param} ŋakki"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parameeter ŋakkuɗo: {innde_paraam}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Alaa cuɓal hono ngal {innde!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Alaa yamiroore hono ndee {innde!r}."
+
+msgid "unknown error"
+msgstr "majjere nde anndaaka"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Waawaa udditaade fiilde {innde fiilde!r}: {mesaas}"
+
+msgid "Usage:"
+msgstr "Huwugo be:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Karallaagal fuɗɗoode moƴƴaani wonande cuɓal ({cuɓal})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Hujja {innde!r} ina ƴetta nafooje {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Cuɓal {innde!r} ƴettataa nafoore."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Cuɓal {innde!r} ina ɗaɓɓi hujja."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Timminoore Shell jaɓaaka wonande mbaydiiji Bash ɓurɗi ɓooyde e 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Waawaa yiytude mbaydi Bash, timmal shell jaɓaaka."
+
+msgid "Repeat for confirmation"
+msgstr "Fuɗɗito ngam tabitinde"
+
+msgid "Error: The two entered values do not match."
+msgstr "Juumre: Nafooje ɗiɗi naatnaaɗe ɗee njiidaani."
+
+msgid "Error: invalid input"
+msgstr "Juumre: naatgol ngol moƴƴaani"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Nokku mo anndaaka {nokku!r}"
+
+msgid "Press any key to continue..."
+msgstr "Toɓɓu kala toɓɓere ngam jokkude..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Suɓo e nder:\\n\\t{cuɓagol}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{nafoore!r} wonaa {suɓngo}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Suɓo({suɓorɗe})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} yahdaani e mbaadi {mbaadi}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{nafoore!r} wonaa {limre_mbaydi} moƴƴere."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{nafoore} alaa e nder doggol {diidi}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{nafoore!r} wonaa boowal moƴƴal. Nafooje anndaaɗe: {dowlaaji}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{nafoore!r} wonaa UUID moƴƴo."
+
+msgid "file"
+msgstr "haala"
+
+msgid "directory"
+msgstr "regginorde"
+
+msgid "path"
+msgstr "lawol"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{innde} {innde fiilde!r} woodaani."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{innde} {innde fiilde!r} ko fiilde."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{innde} {innde fiilde!r} ko regginorde."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{innde} {innde!r} janngaaka."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{innde} {innde fiilde!r} winndaaka."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{innde} {innde fiilde!r} huutoraaka."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} nafooje ina ɗaɓɓiree, kono {len_nafooje} rokkaama."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "'{innde}' kuutorteeɗo mo anndaaka."
+
+msgid "This field is required."
+msgstr "Oo fannu ina ɗaɓɓiree."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Fiilde ndee alaa ɓeydaare jaɓaande: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Fiilde ndee alaa jokkorgal jaɓaangal."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Fiilde ndee ina foti wonde hakkunde bayteeji {min_size} e {max_size}."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Innde fannu '%s' moƴƴaani."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Field ina foti fotde %(innde_goɗnde)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Field ina foti wonde ko famɗi fof %(min)d njuuteendi alkulal."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Field waawaa ɓurde %(max)d alkulal."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Field ina foti wonde %(max)d njuuteendi alkulal tigi rigi."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Ladde ina foti wonde hakkunde %(min)d e %(max)d alkule njuuteendi."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Limre ndee ina foti wonde ko famɗi fof %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Limre ndee ina foti ɓurde %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Limre ndee ina foti wonde hakkunde %(min)s e %(max)s."
+
+msgid "Invalid input."
+msgstr "Naatgol ngol moƴƴaani."
+
+msgid "Invalid email address."
+msgstr "Adres imeel mo moƴƴaani."
+
+msgid "Invalid IP address."
+msgstr "Adrees IP mo moƴƴaani."
+
+msgid "Invalid Mac address."
+msgstr "Adrees Mac mo moƴƴaani."
+
+msgid "Invalid URL."
+msgstr "URL mo moƴƴaani."
+
+msgid "Invalid UUID."
+msgstr "UUID mo moƴƴaani."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Nafoore nde moƴƴaani, foti wonde ko gooto e: %(nafooje)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Nafoore nde moƴƴaani, waawaa wonde hay gooto e: %(nafooje)s."
+
+msgid "This field cannot be edited."
+msgstr "Oo fannu waawaa wayleede."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Oo fannu ina muusi, waawaa jogaade nafoore."
+
+msgid "Invalid CSRF Token."
+msgstr "Token CSRF mo moƴƴaani."
+
+msgid "CSRF token missing."
+msgstr "Token CSRF ina ŋakki."
+
+msgid "CSRF failed."
+msgstr "CSRF ina ŋakki."
+
+msgid "CSRF token expired."
+msgstr "Toɓɓere CSRF ndee timmi."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Suɓngo ngo moƴƴaani: waawaa doole."
+
+msgid "Choices cannot be None."
+msgstr "Suɓngooji mbaawaa wonde Hay gooto."
+
+msgid "Not a valid choice."
+msgstr "Wonaa suɓngo moƴƴo."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Suɓngo (suɓngo) ngo moƴƴaani : naatgol dokke gooto walla ko ɓuri ɗum "
+"waawaano dooleede."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' wonaa cuɓal moƴƴal wonande ndee fannu."
+
+msgid "Not a valid datetime value."
+msgstr "Wonaa nafoore ñalngu waktu moƴƴo."
+
+msgid "Not a valid date value."
+msgstr "Wonaa nafoore ñalngu moƴƴu."
+
+msgid "Not a valid time value."
+msgstr "Wonaa nafoore waktu moƴƴo."
+
+msgid "Not a valid week value."
+msgstr "Wonaa nafoore yontere moƴƴere."
+
+msgid "Not a valid integer value."
+msgstr "Wonaa limre timmunde moƴƴere."
+
+msgid "Not a valid decimal value."
+msgstr "Wonaa limre toɓɓere moƴƴere."
+
+msgid "Not a valid float value."
+msgstr "Wonaa nafoore float moƴƴere."
+

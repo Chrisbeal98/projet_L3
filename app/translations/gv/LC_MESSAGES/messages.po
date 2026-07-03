@@ -1,0 +1,1038 @@
+# Translations for GV.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: gv\n"
+"Language-Team: gv <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Loggey stiagh dy gheddyn stiagh er y duillag shoh."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Ta'n IMEI shoh clàrait 'sy system."
+
+msgid "Accès non autorisé."
+msgstr "Roshtyn gyn urree."
+
+msgid "Appareil déverrouillé."
+msgstr "Instrument er ny ghlassey."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alert er ny chroo! Foddeeaghyn er nyn goyrt."
+
+msgid "Alerte résolue."
+msgstr "Alert er ny rheynn."
+
+msgid "Pas encore de compte ?"
+msgstr "Gyn coontey erbee foast?"
+
+msgid "Mon Profil"
+msgstr "My phrofiil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Ta'n cheshaght soit! Curmish."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "E-mail ny fockle-faarkey neu-ghooghyssagh."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Feme dy bee ooilley ny fieldyn ry-gholl stiagh."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Cha nel ny focklyn-pass co-chosney."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Feme dy vel 6 caracteyryn 'sy 'faarkey'."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Ta'n e-mail shoh ry-chlashtyn."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Account er ny chroo dy mie! Loggey stiagh."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Cha nel coontae erbee er ny gheddyn rish y e-mail shoh."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Ta'n phone cosoylagh rish y count."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Ta'n fockle-faarkey noa ry-hoi."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Reset y fockle-faarkey dy mie! Loggey stiagh."
+
+msgid "Vous avez été déconnecté."
+msgstr "T'ou er ny scarrey."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Ta brand, model as IMEI ry-hoi."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Ta innid lesh y IMEI shoh ayn marroo."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Instrument clàrait dy mie!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Cha nel oo er ny choyrt pooar dy yannoo y obbyr shoh."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Instrument lockit dy mie."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Device unlockit dy mie."
+
+msgid "Appareil supprimé."
+msgstr "Instrument er ny scughey."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Taght yn innid as y sorch alert."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Cha nel yn innid shoh jeh dty laue."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert er ny chowraghey dy mie. Ta'n innid er ny choadey."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alert markit myr resolve."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Ta feme er y chied ennym, y chied ennym as y email."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Ta'n e-mail shoh er ny ussaghey liorish cuntait elley."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profile er ny h-aghurt dy mie!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Ta'n obbyr ry-gheddyn son stiureyderyn."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Error markit myr resolve."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Cha vod oo dty account hene y scughey."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "User er ny scughey dy mie."
+
+msgid "Administration"
+msgstr "Riaghlagh;"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Riaghlagh ry-cheilley y system Anti-Theft"
+
+msgid "Utilisateurs"
+msgstr "Cleaynee"
+
+msgid "Actifs aujourd'hui"
+msgstr "Ghlare y laa shoh"
+
+msgid "Nouveaux ce mois"
+msgstr "Noa yn mhee shoh"
+
+msgid "Appareils"
+msgstr "Instrumentyn"
+
+msgid "Alertes actives"
+msgstr "Raaidyn glan"
+
+msgid "Analytique"
+msgstr "Analysagh"
+
+msgid "Journal d'activité"
+msgstr "Log obbraghey"
+
+msgid "Erreurs"
+msgstr "Mealaghyn"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Ceaghleyn (7 laa er-dy-henney)"
+
+msgid "Alertes par type"
+msgstr "Raadaghyn liorish seihll"
+
+msgid "Appareils par opérateur"
+msgstr "Instrumentyn liorish obbree"
+
+msgid "Résumé du système"
+msgstr "Gearree y System"
+
+msgid "Utilisateurs total"
+msgstr "Cleayneyderyn ooilley"
+
+msgid "Appareils enregistrés"
+msgstr "Injinyn clàrait"
+
+msgid "Total alertes"
+msgstr "Raaidyn immeeaght"
+
+msgid "Alertes en cours"
+msgstr "Raaidyn ry-hoi"
+
+msgid "Erreurs non résolues"
+msgstr "Faultyn nagh vel er nyn freayll"
+
+msgid "Dernières activités"
+msgstr "Obbraghyn s'jerree"
+
+msgid "récentes"
+msgstr "jeianagh"
+
+msgid "Utilisateur"
+msgstr "Cleaysh;"
+
+msgid "Action"
+msgstr "Neead"
+
+msgid "Détails"
+msgstr "Bun"
+
+msgid "Adresse IP"
+msgstr "Seoysey IP"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Aucune activité"
+msgstr "Cha nel obbyr erbee"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Ta obbraghyn y cleaysh ry-akin ec shoh."
+
+msgid "Journal d'erreurs"
+msgstr "Log foalsey"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Fix ooilley ny meillyn?"
+
+msgid "Tout résoudre"
+msgstr "Fuassaghey ooilley ny reddyn"
+
+msgid "non résolues"
+msgstr "gyn feaysley."
+
+msgid "Tout est résolu"
+msgstr "Ta ooilley ny reddyn freilt"
+
+msgid "Type"
+msgstr "Dooghys"
+
+msgid "Description"
+msgstr "Coontey"
+
+msgid "Statut"
+msgstr "Keimeeaght"
+
+msgid "Résolu"
+msgstr "Reiht"
+
+msgid "Non résolu"
+msgstr "Gyn freayll"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Cha nel foalsey erbee er ny screeu"
+
+msgid "Le système fonctionne correctement."
+msgstr "Ta'n system gobbraghey myr shen."
+
+msgid "Gestion des utilisateurs"
+msgstr "Riaghlagh ymmydeyr"
+
+msgid "comptes"
+msgstr "coontae;"
+
+msgid "Email"
+msgstr "E-mail;"
+
+msgid "Téléphone"
+msgstr "Chellvane"
+
+msgid "Rôle"
+msgstr "Currym"
+
+msgid "Inscrit le"
+msgstr "Clàrait er"
+
+msgid "Actions"
+msgstr "Ghooishyn."
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Delete y user shoh as ooilley ny h-injinyn echey?"
+
+msgid "Vous"
+msgstr "OO"
+
+msgid "Connexions"
+msgstr "Ceanglaghyn"
+
+msgid "Vol"
+msgstr "Chea"
+
+msgid "Perte"
+msgstr "Coayl"
+
+msgid "Anomalie"
+msgstr "Annomaly"
+
+msgid "Alertes"
+msgstr "Raaidyn"
+
+msgid "Gestion des alertes"
+msgstr "Riaghlagh raaidyn"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Cur fys er goid ny caggey as cur tastey da"
+
+msgid "Signaler un vol / perte"
+msgstr "Reih goid/caillt"
+
+msgid "En cours"
+msgstr "Ayns obbyr"
+
+msgid "Résolues"
+msgstr "Reiht"
+
+msgid "Historique des alertes"
+msgstr "Taishbyney Raad"
+
+msgid "Appareil"
+msgstr "Saase"
+
+msgid "Priorité"
+msgstr "Tosheeaght"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Marke yn alert shoh myr resolve?"
+
+msgid "Résoudre"
+msgstr "Ansoor"
+
+msgid "Aucune alerte"
+msgstr "Gyn arrey"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Naight mie! Cha nel red erbee er ny choyrt."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Cur fys er goid ny caillteen"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"As t'ou uss cur fys er goid, bee dty innid lockit dy h-automagh as bee "
+"fysseree er ny choyrt."
+
+msgid "Appareil concerné"
+msgstr "Innid er ny stroie"
+
+msgid "Sélectionner un appareil"
+msgstr "Taght ynnyd"
+
+msgid "Type d'alerte"
+msgstr "Seihll raaidyn"
+
+msgid "Décrivez les circonstances..."
+msgstr "Screeu ny staydaghyn..."
+
+msgid "Annuler"
+msgstr "cur ass"
+
+msgid "Signaler"
+msgstr "Raah"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Sisteem Anti-Goid Inshley — Platform slaynt son smartphones"
+
+msgid "Système Anti-Vol"
+msgstr "System Ny-Goid"
+
+msgid "PRINCIPAL"
+msgstr "PREEVE"
+
+msgid "Tableau de bord"
+msgstr "Boayrd-dash;"
+
+msgid "SÉCURITÉ"
+msgstr "LHIETTAL LOGHTYN"
+
+msgid "Géolocalisation"
+msgstr "Tallooin;"
+
+msgid "ADMINISTRATION"
+msgstr "RIANNAGH"
+
+msgid "Déconnexion"
+msgstr "Dys-cheangley"
+
+msgid "Changer de langue"
+msgstr "Caghlaa yn çhengey"
+
+msgid "Rechercher une langue..."
+msgstr "Shirveish son çhengey..."
+
+msgid "Profil"
+msgstr "Profiyl"
+
+msgid "Changer de thème"
+msgstr "Caghlaa theme"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Ard-scrutaght er slaynt dty innid"
+
+msgid "Ajouter un appareil"
+msgstr "Cur urree stiagh"
+
+msgid "Appareils volés"
+msgstr "Instrumentyn ghoit"
+
+msgid "Verrouillés à distance"
+msgstr "Ghlassit er-dy-hoshiaght"
+
+msgid "Alertes récentes"
+msgstr "Raaidyn recent"
+
+msgid "Voir tout"
+msgstr "Jeeagh er ooilley"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Gyn raaidyn. Ta dty innidyn safe!"
+
+msgid "Mes appareils"
+msgstr "My innidyn"
+
+msgid "Aucun appareil enregistré"
+msgstr "Cha nel innidyn clàrait"
+
+msgid "Ajouter"
+msgstr "Cur er"
+
+msgid "en attente"
+msgstr "er cummal;"
+
+msgid "Gestion des appareils"
+msgstr "Riaghlagh yn innid"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Clasht as reirey dty phoneyn smartphone"
+
+msgid "Opérateur"
+msgstr "Operator"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Lock yn innid shoh er-dy-hoshiaght?"
+
+msgid "Verrouiller"
+msgstr "Glass"
+
+msgid "Déverrouiller"
+msgstr "Fosley"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Smooinee yn innid shoh?"
+
+msgid "Supprimer"
+msgstr "DOLLEY MAGH"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Cur rish y chied smartphone dy thoshiaght dy ghra rish."
+
+msgid "Nouvel appareil"
+msgstr "Inneal noa"
+
+msgid "Marque"
+msgstr "Bran"
+
+msgid "Sélectionner"
+msgstr "Reih"
+
+msgid "Autre"
+msgstr "Elley"
+
+msgid "Modèle"
+msgstr "Cummey"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "scrieu *#06# er dty phone"
+
+msgid "Système d'exploitation"
+msgstr "System obbraghey"
+
+msgid "Numéro de téléphone"
+msgstr "Uimmir phone"
+
+msgid "Enregistrer"
+msgstr "Er-lhimmey"
+
+msgid "Connexion"
+msgstr "Ceaghlagh"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sisteem slaynt phoneyn cleaynagh"
+
+msgid "Adresse email"
+msgstr "Seihll e-posht"
+
+msgid "Mot de passe"
+msgstr "Fockle yn arrey"
+
+msgid "Se connecter"
+msgstr "Loggey stiagh"
+
+msgid "Mot de passe oublié ?"
+msgstr "Faarkey er ny vee-chraueeaght?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Vel cuntas ayd er-dy-henney? As myr shen, gow er-ash dy chroo dty account!"
+
+msgid "Créer un compte"
+msgstr "Cree coontey"
+
+msgid "Sécurité maximale"
+msgstr "Slaynt smoo"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Coadey dty ghraih persoonagh lesh lockey er-dy-hoshiaght"
+
+msgid "Localisation GPS"
+msgstr "Sushtal GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Faigh ynnyd y smartphone ayd ayns am ymmyrchagh"
+
+msgid "Alertes instantanées"
+msgstr "Raadaghyn tappee"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Ghow SMS, e-mail as fysseree push my ta goid"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Lhig da dty innidyn y lhoobey as cur-my-ner ny slystaghyn risk"
+
+msgid "Aucun appareil"
+msgstr "Gyn inneal"
+
+msgid "Zones à risque"
+msgstr "Sthieyn risk"
+
+msgid "incidents"
+msgstr "Taghyrtyn;"
+
+msgid "Aucune zone signalée"
+msgstr "Cha nel slyst erbee er ny chowraghey"
+
+msgid "Niveau"
+msgstr "Laare"
+
+msgid "Incidents"
+msgstr "Taghyrtyn"
+
+msgid "Profile utilisateur"
+msgstr "Profail ymmydeyr"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Riaghlagh dty fys pearsanta"
+
+msgid "Membre depuis"
+msgstr "Baill veih"
+
+msgid "Modifier mes informations"
+msgstr "Reih my fysseree"
+
+msgid "Prénom"
+msgstr "Ennymtoshiaghtagh"
+
+msgid "Nom"
+msgstr "Ennym"
+
+msgid "Changer le mot de passe"
+msgstr "Caghlaa fockle-hasht"
+
+msgid "Nouveau mot de passe"
+msgstr "Fockle-faarkey noa"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "faag blank er son nagh jean eh caghlaa"
+
+msgid "Enregistrer les modifications"
+msgstr "Save aa-chaghlaaghyn"
+
+msgid "Inscription"
+msgstr "Classaghey;"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Ta shin cur booise da Anti-Theft son slaynt ny share jeh dty innidyn"
+
+msgid "Confirmer"
+msgstr "Cur fo laue yn aspick"
+
+msgid "Créer mon compte"
+msgstr "Cree my choontey"
+
+msgid "Déjà un compte ?"
+msgstr "Ta cuntait ayd er-dy-henney?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Reset fockle-hasht"
+
+msgid "Réinitialisation"
+msgstr "Reset reesht"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Cur stiagh dty e-mail as dty lhommey phone dy vriaght dty identity"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Yn earroo v'er ny h-ussaghey tra t'ou cláshtaghey"
+
+msgid "Minimum 6 caractères"
+msgstr "caracteryn ny sloo"
+
+msgid "Confirmer le mot de passe"
+msgstr "Dearbhagh fockle-hasht"
+
+msgid "Retourner à la"
+msgstr "Dy heet reesht gys"
+
+msgid "page de connexion"
+msgstr "duillag lhiggey;"
+
+msgid "Vérification sécurisée"
+msgstr "Verify s'saghney"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Ta dty identity er ny vriwnys liorish dty e-mail as dty uimhir phone"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Taght fockle-hashtaghyn scanshoil lesh 6 caracteyryn er-y-fa shen"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Cha dod y rheynn"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Cha dod y rheynn: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Fault Windows: {fault}"
+
+msgid "deprecated"
+msgstr "er ny stroie;"
+
+msgid "Options"
+msgstr "Roghyn"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Ghow arrey er-lheh ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Raad-ymmyd: Ta'n cowrey {ennym!r} er ny ghleiy.{teisht_er-lheh}"
+
+msgid "Aborted!"
+msgstr "Currit ass!"
+
+msgid "Commands"
+msgstr "Comandantyn"
+
+msgid "Missing command."
+msgstr "Comandant goll er."
+
+msgid "Value must be an iterable."
+msgstr "Feme dy bee y value iterable."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Ta {nargs} ymmyd agh 1 v'er ny choyrt."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "Raad-chroo: Ta'n {param_type} {ennym!r} er ny ghleiy.{teisht_er-lheh}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Ennym '{ennym}' er ny mharkey daa cheayrt"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Cha vod y roshtyn boolean {decl!r} y red cheddin y usaghey son "
+"firrinagh/faalsey."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Cha b'aashagh ennym y rheynn son roghain lesh focklyn {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Cha nel roghanyn erbee er nyn mharkey agh cha row ennym er ny choyrt "
+"({ennym}). Va'n aght ayd dy follaghey argument ayns e ynnyd? V'ou er "
+"n'yannoo '--{ennym}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {coontit}"
+
+msgid "required"
+msgstr "Aggair"
+
+msgid "(dynamic)"
+msgstr "(dynamysagh)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Ta argumentyn goaill un fockle parameter dy kiart, got {fad}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Vel oo booiagh goll er?"
+
+msgid "Confirm the action without prompting."
+msgstr "Dearbhagh y ghraih gyn prompt."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, sheean %(sheean)s"
+
+msgid "Show the version and exit."
+msgstr "Show yn version as gow magh."
+
+msgid "Show this message and exit."
+msgstr "Show y text shoh as gow magh."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "V'ou er n'insh {possibility}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Fault: {teisht}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Feaysaghey '{ordagh} {roshtyn}' son cooney."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Lught neu-ghooghyssagh: {teisht}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Vaal neu-ghooghyssagh son {param_hint}: {teisht}"
+
+msgid "Missing argument"
+msgstr "Argament caillt"
+
+msgid "Missing option"
+msgstr "Roshtyn caillt"
+
+msgid "Missing parameter"
+msgstr "Parameter er-mayrn"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{seihll_param} er-mayrn}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parametr caillt: {ennym_parametr}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Cha nel ymmyd erbee jeh {ennym!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Cha nel cowrey erbee {ennym!r}."
+
+msgid "unknown error"
+msgstr "foalsey neu-ennoil;"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Cha dod eh foshlit y coadan {ennym coadan!r}: {teisht}"
+
+msgid "Usage:"
+msgstr "Bible:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Caracter toshiaght neu-ghooghyssagh son roghain ({roghnagh})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Ta'n argament {ennym!r} goaill ymmyd jeh {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Roisht {name!r} cha nel eh goaill ymmyd."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Ta'n roshtyn {ennym!r} feme er argument."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Cha nel cloie shell er ny choyrt stiagh son versionyn Bash ta ny s'seose "
+"na 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Cha b'aashagh y version Bash y lhoobey, cha nel cliaghtey shell er ny "
+"choyrt tastey da."
+
+msgid "Repeat for confirmation"
+msgstr "Reayrt son cowraghey"
+
+msgid "Error: The two entered values do not match."
+msgstr "Error: Cha nel ny daa ghraih ry-cheilley."
+
+msgid "Error: invalid input"
+msgstr "Fault: cur stiagh neu-ghooghyssagh"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Daah neu-ennoil {dath!r}"
+
+msgid "Press any key to continue..."
+msgstr "Bring key erbee dy gholl er-soylley..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Roghnagh veih:\\n\\t{roghyn}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{argid!r} cha nel eh {roshtyn}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Roghyn ({roghyn})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} cha nel eh cordail rish y form {form}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} cha nel eh {seihll_lieh} ry-hoi."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} cha nel eh 'sy raad {raad}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} cha nel eh 'sy ghleashtan. Vaalaghyn aignagh: {stateyn}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} cha nel eh UUID ry-hoi."
+
+msgid "file"
+msgstr "rereyn"
+
+msgid "directory"
+msgstr "sheeanchoorse;"
+
+msgid "path"
+msgstr "cassan"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{ennym} {ennym!r} cha nel."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{ennym} {ennym!r} ny coadan."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{ennym} {ennym!r} ny chowrey."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{ennym} {ennym!r} cha nel eh ry-leih."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{ennym} {ennym!r} cha nel eh ry-scrudey."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{ennym} {ennym!r} cha nel eh ry-ghoaill."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Ta ymmyd jeant jeh {len_type}, agh v'eh er ny choyrt {len_type}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Stream cadjin neu-enmyssit '{ennym}'."
+
+msgid "This field is required."
+msgstr "Ta'n field shoh ry-hoi."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Cha nel ymmyd jeant jeh'n coadan: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Cha nel ymmyd erbee ec y file."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Feme dy bee y coadan eddyr {mean_min} as {mean_max} byteyn."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Ainm field '%s' neu-ghooghyssagh."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Feme dy bee y field co-ionnan rish %(ennym_elley)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Feme dy bee %(min)d caracter er y chooid sloo."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Cha vod y field ve ny s'hickyr na %(max)d caracter."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Feme dy bee %(max)d caracter ry-hoi."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Feme dy bee y field eddyr %(min)d as %(max)d y hrooid."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Feme dy bee yn earroo %(min)s er-y-fa shen."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Feme dy bee yn earroo %(max)s ec y chooid smoo."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Feme dy bee yn earroo eddyr %(min)s as %(max)s."
+
+msgid "Invalid input."
+msgstr "Input neu-ghlen."
+
+msgid "Invalid email address."
+msgstr "Seoysey e-mail neu-ghlen."
+
+msgid "Invalid IP address."
+msgstr "Seoysey IP neu-ghlen."
+
+msgid "Invalid Mac address."
+msgstr "Seoysey Mac neu-ghlen."
+
+msgid "Invalid URL."
+msgstr "URL neu-ghlen."
+
+msgid "Invalid UUID."
+msgstr "UUID neu-ghlen."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Value neu-ghlen, feme dy ve un jeh: %(vaalyn)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Value neu-ghlen, cha vod eh ve ny: %(vaalyn)s."
+
+msgid "This field cannot be edited."
+msgstr "Cha nel y field shoh ry-chasley."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Ta'n field shoh dyslagh as cha nel eh ry-gheddyn."
+
+msgid "Invalid CSRF Token."
+msgstr "Token CSRF neu-ghlen."
+
+msgid "CSRF token missing."
+msgstr "Token CSRF er-mayrn."
+
+msgid "CSRF failed."
+msgstr "CSRF cha dod eh."
+
+msgid "CSRF token expired."
+msgstr "Token CSRF er n'gholl ersooyl."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Roisht neu-ghlen: cha b'ee coerce."
+
+msgid "Choices cannot be None."
+msgstr "Cha vod roghanyn ve None."
+
+msgid "Not a valid choice."
+msgstr "Cha nee roshtyn glen."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Roshtyn(yn) neu-ghlen: cha row un no ny smoo inçhyn data ry-ghoaill."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "Cha nel '%(value)s' ny roshtyn ry-hoi 'sy field shoh."
+
+msgid "Not a valid datetime value."
+msgstr "Cha nel y datetime ry-gheddyn."
+
+msgid "Not a valid date value."
+msgstr "Cha nel y date ymmydoil."
+
+msgid "Not a valid time value."
+msgstr "Cha nel ymmyd jeh'n traa t'ayn."
+
+msgid "Not a valid week value."
+msgstr "Cha nel ymmyd jeh'n seihll."
+
+msgid "Not a valid integer value."
+msgstr "Cha nel eh ymmyd jeh'n integer."
+
+msgid "Not a valid decimal value."
+msgstr "Cha nel eh 'sy 'decimal'."
+
+msgid "Not a valid float value."
+msgstr "Cha nel y float ry-gheddyn."
+

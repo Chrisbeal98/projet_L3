@@ -1,0 +1,1033 @@
+# Translations for PS.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ps\n"
+"Language-Team: ps <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "مهرباني وکړئ دې پاڼې ته د لاسرسي لپاره لاګ ان شئ."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "دا IMEI لا دمخه په سیسټم کې ثبت شوی."
+
+msgid "Accès non autorisé."
+msgstr "غیر مجاز لاسرسی."
+
+msgid "Appareil déverrouillé."
+msgstr "وسیله خلاص شوه."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "خبرتیا رامنځته شوه! خبرتیاوې لیږل شوې."
+
+msgid "Alerte résolue."
+msgstr "خبرتیا حل شوه."
+
+msgid "Pas encore de compte ?"
+msgstr "تراوسه حساب نشته؟"
+
+msgid "Mon Profil"
+msgstr "زما پروفایل"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "اړیکه بریالۍ شوه! ښه راغلاست."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "غلط بریښنالیک یا پټنوم."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "ټول اړین ساحې باید بشپړې شي."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "پاسورډونه سمون نه خوري."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "پاسورډ باید لږترلږه 6 حروف ولري."
+
+msgid "Cet email est déjà utilisé."
+msgstr "دا بریښنالیک لا دمخه کارول کیږي."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "حساب په بریالیتوب سره جوړ شو! ننوتل."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "د دې بریښنالیک سره هیڅ حسابونه ندي موندل شوي."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "د تلیفون شمیره د حساب شمیرې سره سمون نلري."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "نوی پټنوم لازمي دی."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "پاسورډ په بریالیتوب سره بیا تنظیم کړئ! ننوتل."
+
+msgid "Vous avez été déconnecté."
+msgstr "تاسو منحل شوي یاست."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "برانډ، ماډل او IMEI اړین دي."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "د دې IMEI سره یو وسیله لا دمخه شتون لري."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "وسیله په بریالیتوب سره ثبت شوه!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "تاسو د دې عمل د ترسره کولو اجازه نه لرئ."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "وسیله په بریالیتوب سره بنده شوه."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "وسیله په بریالیتوب سره خلاص شوه."
+
+msgid "Appareil supprimé."
+msgstr "وسیله ړنګه شوه."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "مهرباني وکړئ یو وسیله وټاکئ او د خبرتیا ډول."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "دا وسیله ستاسو پورې اړه نلري."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "خبرتیا په بریالیتوب سره راپور شوې. وسیله خوندي شوې."
+
+msgid "Alerte marquée comme résolue."
+msgstr "خبرتیا د حل شوي په توګه نښه شوې."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "لومړی نوم، وروستی نوم او بریښنالیک اړین دی."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "دا بریښنالیک دمخه د بل حساب لخوا کارول شوی."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "پروفایل په بریالیتوب سره تازه شو!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "لاسرسی د مدیرانو لپاره خوندي دی."
+
+msgid "Erreur marquée comme résolue."
+msgstr "تېروتنه د حل شوې په توګه نښه شوې."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "تاسو نشئ کولی خپل حساب حذف کړئ."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "کارن په بریالیتوب سره حذف شو."
+
+msgid "Administration"
+msgstr "اداره"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "د غلا ضد سیسټم مرکزي مدیریت"
+
+msgid "Utilisateurs"
+msgstr "کاروونکي"
+
+msgid "Actifs aujourd'hui"
+msgstr "نن ورځ فعاله ده"
+
+msgid "Nouveaux ce mois"
+msgstr "پدې میاشت کې نوی"
+
+msgid "Appareils"
+msgstr "وسایل"
+
+msgid "Alertes actives"
+msgstr "فعال خبرتیاوې"
+
+msgid "Analytique"
+msgstr "تحلیلي"
+
+msgid "Journal d'activité"
+msgstr "د فعالیت ثبت"
+
+msgid "Erreurs"
+msgstr "تېروتنې"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "اړیکې (وروستی 7 ورځې)"
+
+msgid "Alertes par type"
+msgstr "د ډول له مخې خبرتیاوې"
+
+msgid "Appareils par opérateur"
+msgstr "د آپریټر لخوا وسایل"
+
+msgid "Résumé du système"
+msgstr "د سیسټم لنډیز"
+
+msgid "Utilisateurs total"
+msgstr "ټول کاروونکي"
+
+msgid "Appareils enregistrés"
+msgstr "ثبت شوي وسایل"
+
+msgid "Total alertes"
+msgstr "ټول خبرتیاوې"
+
+msgid "Alertes en cours"
+msgstr "اوسني خبرتیاوې"
+
+msgid "Erreurs non résolues"
+msgstr "نه حل شوې تېروتنې"
+
+msgid "Dernières activités"
+msgstr "وروستي فعالیتونه"
+
+msgid "récentes"
+msgstr "وروستی"
+
+msgid "Utilisateur"
+msgstr "کارن"
+
+msgid "Action"
+msgstr "عمل"
+
+msgid "Détails"
+msgstr "جزیات"
+
+msgid "Adresse IP"
+msgstr "IP پته"
+
+msgid "Navigateur"
+msgstr "براوزر"
+
+msgid "Date"
+msgstr "نیټه"
+
+msgid "Aucune activité"
+msgstr "هیڅ فعالیت نشته"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "د کارونکي فعالیتونه به دلته ښکاره شي."
+
+msgid "Journal d'erreurs"
+msgstr "د تېروتنې log"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "ټولې غلطۍ سم کړئ؟"
+
+msgid "Tout résoudre"
+msgstr "هر څه حل کړئ"
+
+msgid "non résolues"
+msgstr "نه حل شوی"
+
+msgid "Tout est résolu"
+msgstr "هر څه حل کیږي"
+
+msgid "Type"
+msgstr "ډول"
+
+msgid "Description"
+msgstr "تفصیل"
+
+msgid "Statut"
+msgstr "حالت"
+
+msgid "Résolu"
+msgstr "حل شوی"
+
+msgid "Non résolu"
+msgstr "ناحل شوی"
+
+msgid "Aucune erreur enregistrée"
+msgstr "هیڅ غلطی ندی ثبت شوی"
+
+msgid "Le système fonctionne correctement."
+msgstr "سیسټم په سمه توګه کار کوي."
+
+msgid "Gestion des utilisateurs"
+msgstr "د کارن مدیریت"
+
+msgid "comptes"
+msgstr "حسابونه"
+
+msgid "Email"
+msgstr "ای میل"
+
+msgid "Téléphone"
+msgstr "تلیفون"
+
+msgid "Rôle"
+msgstr "رول"
+
+msgid "Inscrit le"
+msgstr "ثبت شوی دی"
+
+msgid "Actions"
+msgstr "کړنې"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "دا کاروونکي او د دوی ټول وسایل حذف کړئ؟"
+
+msgid "Vous"
+msgstr "تاسو"
+
+msgid "Connexions"
+msgstr "ارتباطات"
+
+msgid "Vol"
+msgstr "الوتنه"
+
+msgid "Perte"
+msgstr "تاوان"
+
+msgid "Anomalie"
+msgstr "بې نظمي"
+
+msgid "Alertes"
+msgstr "خبرتیاوې"
+
+msgid "Gestion des alertes"
+msgstr "د خبرتیا مدیریت"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "د غلا یا ضایع کیدو راپور ورکړئ او تاریخ تعقیب کړئ"
+
+msgid "Signaler un vol / perte"
+msgstr "د غلا / زیان راپور ورکړئ"
+
+msgid "En cours"
+msgstr "د پرمختګ په حال کې"
+
+msgid "Résolues"
+msgstr "حل شوی"
+
+msgid "Historique des alertes"
+msgstr "د خبرتیا تاریخ"
+
+msgid "Appareil"
+msgstr "وسیله"
+
+msgid "Priorité"
+msgstr "لومړیتوب"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "دا خبرتیا د حل شوي په توګه په نښه کړئ؟"
+
+msgid "Résoudre"
+msgstr "حل کول"
+
+msgid "Aucune alerte"
+msgstr "خبرتیا نشته"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "ښه خبر! هیڅ خبرتیا راپور نه دی ورکړل شوی."
+
+msgid "Signaler un vol ou une perte"
+msgstr "د غلا یا زیان راپور ورکړئ"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"د غلا راپور ورکولو سره، ستاسو وسیله به په اوتومات ډول لاک شي او خبرتیاوې "
+"به واستول شي."
+
+msgid "Appareil concerné"
+msgstr "اغیزمن وسیله"
+
+msgid "Sélectionner un appareil"
+msgstr "یو وسیله غوره کړئ"
+
+msgid "Type d'alerte"
+msgstr "د خبرتیا ډول"
+
+msgid "Décrivez les circonstances..."
+msgstr "حالات بیان کړه..."
+
+msgid "Annuler"
+msgstr "لغوه کړئ"
+
+msgid "Signaler"
+msgstr "راپور"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "د غلا ضد هوښیار سیسټم - د سمارټ فونونو لپاره امنیت پلیټ فارم"
+
+msgid "Système Anti-Vol"
+msgstr "د غلا ضد سیسټم"
+
+msgid "PRINCIPAL"
+msgstr "MAIN"
+
+msgid "Tableau de bord"
+msgstr "ډشبورډ"
+
+msgid "SÉCURITÉ"
+msgstr "امنیت"
+
+msgid "Géolocalisation"
+msgstr "جیولیکیشن"
+
+msgid "ADMINISTRATION"
+msgstr "اداره"
+
+msgid "Déconnexion"
+msgstr "منحل کول"
+
+msgid "Changer de langue"
+msgstr "ژبه بدله کړه"
+
+msgid "Rechercher une langue..."
+msgstr "د ژبې لټون..."
+
+msgid "Profil"
+msgstr "پروفایل"
+
+msgid "Changer de thème"
+msgstr "موضوع بدل کړئ"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "ستاسو د وسیلې امنیت عمومي کتنه"
+
+msgid "Ajouter un appareil"
+msgstr "وسیله اضافه کړئ"
+
+msgid "Appareils volés"
+msgstr "غلا شوي وسایل"
+
+msgid "Verrouillés à distance"
+msgstr "په لیرې توګه تړل شوی"
+
+msgid "Alertes récentes"
+msgstr "وروستي خبرتیاوې"
+
+msgid "Voir tout"
+msgstr "ټول وګورئ"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "خبرتیا نشته. ستاسو وسایل خوندي دي!"
+
+msgid "Mes appareils"
+msgstr "زما وسایل"
+
+msgid "Aucun appareil enregistré"
+msgstr "هیڅ وسایل ثبت شوي ندي"
+
+msgid "Ajouter"
+msgstr "اضافه کړئ"
+
+msgid "en attente"
+msgstr "په تمه ، خنډول"
+
+msgid "Gestion des appareils"
+msgstr "د وسیلې مدیریت"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "خپل سمارټ فونونه ثبت او اداره کړئ"
+
+msgid "Opérateur"
+msgstr "چلونکی"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "دا وسیله په لیرې توګه بنده کړئ؟"
+
+msgid "Verrouiller"
+msgstr "تالاشي"
+
+msgid "Déverrouiller"
+msgstr "خلاصول"
+
+msgid "Supprimer cet appareil ?"
+msgstr "دا وسیله حذف کړئ؟"
+
+msgid "Supprimer"
+msgstr "ړنګول"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "خپل لومړی سمارټ فون اضافه کړئ ترڅو د دې ساتنه پیل کړئ."
+
+msgid "Nouvel appareil"
+msgstr "نوې وسیله"
+
+msgid "Marque"
+msgstr "برانډ"
+
+msgid "Sélectionner"
+msgstr "وټاکئ"
+
+msgid "Autre"
+msgstr "نور"
+
+msgid "Modèle"
+msgstr "ماډل"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "په خپل تلیفون کې *#06# ټایپ کړئ"
+
+msgid "Système d'exploitation"
+msgstr "عملیاتي سیسټم"
+
+msgid "Numéro de téléphone"
+msgstr "د تلیفون شمیره"
+
+msgid "Enregistrer"
+msgstr "خوندي کړئ"
+
+msgid "Connexion"
+msgstr "پیوستون"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "د سمارټ فون امنیت سیسټم"
+
+msgid "Adresse email"
+msgstr "بریښنا‌لیک"
+
+msgid "Mot de passe"
+msgstr "رمز"
+
+msgid "Se connecter"
+msgstr "ننوتل"
+
+msgid "Mot de passe oublié ?"
+msgstr "پټنوم هیر شوی؟"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "ایا تاسو دمخه حساب لرئ؟ که نه نو، د خپل حساب جوړولو ته لاړ شئ!"
+
+msgid "Créer un compte"
+msgstr "یو حساب جوړ کړئ"
+
+msgid "Sécurité maximale"
+msgstr "اعظمي امنیت"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "خپل شخصي معلومات د ریموټ لاک کولو سره خوندي کړئ"
+
+msgid "Localisation GPS"
+msgstr "د GPS موقعیت"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "په ریښتیني وخت کې د خپل سمارټ فون دقیق موقعیت ومومئ"
+
+msgid "Alertes instantanées"
+msgstr "فوري خبرتیاوې"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "د غلا په صورت کې SMS، بریښنالیک او پش خبرتیاوې ترلاسه کړئ"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "خپل وسایل ومومئ او د خطر ساحې وګورئ"
+
+msgid "Aucun appareil"
+msgstr "هیڅ وسیله نشته"
+
+msgid "Zones à risque"
+msgstr "د خطر ساحې"
+
+msgid "incidents"
+msgstr "پیښې"
+
+msgid "Aucune zone signalée"
+msgstr "هیڅ سیمې راپور شوي ندي"
+
+msgid "Niveau"
+msgstr "کچه"
+
+msgid "Incidents"
+msgstr "پیښې"
+
+msgid "Profile utilisateur"
+msgstr "د کارن پروفایل"
+
+msgid "Gérez vos informations personnelles"
+msgstr "خپل شخصي معلومات اداره کړئ"
+
+msgid "Membre depuis"
+msgstr "له هغه راهیسې غړی"
+
+msgid "Modifier mes informations"
+msgstr "زما معلومات سم کړئ"
+
+msgid "Prénom"
+msgstr "لومړی نوم"
+
+msgid "Nom"
+msgstr "نوم"
+
+msgid "Changer le mot de passe"
+msgstr "پټ نوم بدل کړی"
+
+msgid "Nouveau mot de passe"
+msgstr "نوی پټنوم"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "خالي پریږدئ ترڅو بدلون ونه کړي"
+
+msgid "Enregistrer les modifications"
+msgstr "بدلونونه خوندي کړئ"
+
+msgid "Inscription"
+msgstr "نوم لیکنه"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "ستاسو د وسیلو ښه امنیت لپاره د غلا ضد ته ښه راغلاست"
+
+msgid "Confirmer"
+msgstr "تایید کړه"
+
+msgid "Créer mon compte"
+msgstr "زما حساب جوړ کړئ"
+
+msgid "Déjà un compte ?"
+msgstr "ایا دمخه حساب لرئ؟"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "پټنوم بیا تنظیم کړئ"
+
+msgid "Réinitialisation"
+msgstr "بیا تنظیم کړئ"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "د خپل هویت تصدیق کولو لپاره خپل بریښنالیک او د تلیفون شمیره دننه کړئ"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "هغه شمیره چې د نوم لیکنې پرمهال کارول کیږي"
+
+msgid "Minimum 6 caractères"
+msgstr "لږترلږه 6 حروف"
+
+msgid "Confirmer le mot de passe"
+msgstr "پاسورډ تایید کړئ"
+
+msgid "Retourner à la"
+msgstr "ته ورشئ"
+
+msgid "page de connexion"
+msgstr "د ننوتلو پاڼه"
+
+msgid "Vérification sécurisée"
+msgstr "خوندي تایید"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "ستاسو هویت ستاسو د بریښنالیک او تلیفون شمیرې په کارولو سره تایید شوی"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "لږترلږه د 6 حروفونو خوندي پټنوم غوره کړئ"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: تدوین ناکام شو"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: تدوین ناکام شو: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "د وینډوز تېروتنه: {error}"
+
+msgid "deprecated"
+msgstr "تخریب شوی"
+
+msgid "Options"
+msgstr "اختیارونه"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "غیر متوقع اضافي دلیل ترلاسه کړ ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "د استخراج خبرداری: کمانډ {نوم! r} رد شوی. extra_message}"
+
+msgid "Aborted!"
+msgstr "لغوه شوی!"
+
+msgid "Commands"
+msgstr "امرونه"
+
+msgid "Missing command."
+msgstr "کمانډ ورک شوی."
+
+msgid "Value must be an iterable."
+msgstr "ارزښت باید د تکرار وړ وي."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{نارګ} ارزښت اخلي خو ۱ ورکړل شو."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "د استخراج خبرداری: {param_type} {نوم!r} رد شوی دی. extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "نوم '{name}' دوه ځله تعریف شوی"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "د بولین اختیار {decl!r} نشي کولی ورته بیرغ د ریښتیا / غلط لپاره وکاروي."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "د اعلاناتو سره د اختیار لپاره نوم ندی ټاکلی {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"هیڅ اختیار ندی ټاکل شوی مګر یو نوم تیر شوی ({name}). ایا تاسو د دې پر ځای"
+" د دلیل اعلان کولو معنی درلوده؟ ایا تاسو د '--{نوم}' پاس کولو مطلب درلود؟"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default}"
+
+msgid "required"
+msgstr "اړین"
+
+msgid "(dynamic)"
+msgstr "(متحرک)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"دلیلونه په سمه توګه د یو پیرامیټر اعالمیه اخلي، ترلاسه شوي {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "ایا تاسو غواړئ دوام ورکړئ؟"
+
+msgid "Confirm the action without prompting."
+msgstr "پرته له هڅولو عمل تایید کړئ."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, version %(version)s"
+
+msgid "Show the version and exit."
+msgstr "نسخه وښایاست او وتل."
+
+msgid "Show this message and exit."
+msgstr "دا پیغام وښایاست او وخورئ."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "آیا ستاسو مطلب {امکان} دی؟"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "تېروتنه: {پیغام}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "د مرستې لپاره '{command} {option} هڅه وکړئ."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "ناسم ارزښت: {پیغام}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "د {param_hint} لپاره ناسم ارزښت: {message}"
+
+msgid "Missing argument"
+msgstr "ورک شوی دلیل"
+
+msgid "Missing option"
+msgstr "ورک شوی اختیار"
+
+msgid "Missing parameter"
+msgstr "ورک شوی پیرامیټر"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "ورک شوی {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "ورک شوی پیرامیټر: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "داسې انتخاب نشته {نوم!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "داسې حکم نشته {نوم!r}."
+
+msgid "unknown error"
+msgstr "نامعلومه تېروتنه"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "دوتنې {filename!r}: {message} خلاص نشو"
+
+msgid "Usage:"
+msgstr "کارول:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "د اختیار لپاره غلط پیل کرکټر ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "دلیل {نوم! r} {nargs} ارزښتونه اخلي."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "اختیار {نوم! r} ارزښت نه اخلي."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "اختیار {name!r} دلیل ته اړتیا لري."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "د شیل بشپړول د 4.4 څخه زاړه بش نسخو لپاره ملاتړ نه کوي."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "د باش نسخه نشي موندلی، د شیل بشپړول ملاتړ نه کوي."
+
+msgid "Repeat for confirmation"
+msgstr "د تایید لپاره تکرار کړئ"
+
+msgid "Error: The two entered values do not match."
+msgstr "تېروتنه: دوه داخل شوي ارزښتونه سره سمون نه خوري."
+
+msgid "Error: invalid input"
+msgstr "تېروتنه: ناسم داخلول"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "نامعلوم رنګ {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "د دوام لپاره کوم کیلي فشار ورکړئ ..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "له دې څخه غوره کړئ:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} {انتخاب} نه دی."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "انتخاب({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} د شکل {format} سره سمون نه خوري."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} د اعتبار وړ {number_type} نه دی."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} په رینج {range} کې نه دی."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} یو معتبر بولین نه دی. پیژندل شوي ارزښتونه: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} یو معتبر UUID ندی."
+
+msgid "file"
+msgstr "دوتنه"
+
+msgid "directory"
+msgstr "لارښود"
+
+msgid "path"
+msgstr "لاره"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} شتون نلري."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} یوه دوتنه ده."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} یو لارښود دی."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} د لوستلو وړ نه ده."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} د لیکلو وړ ندی."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} د اجرا وړ نه دی."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} ارزښتونه اړین دي، مګر {len_value} ورکړل شوي."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "نامعلوم معیاري جریان '{نوم}'"
+
+msgid "This field is required."
+msgstr "دا ساحه اړینه ده."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "دوتنه تصویب شوی توسیع نلري: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "دوتنه تصویب شوی توسیع نلري."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "فایل باید د {min_size} او {max_size} بایټس ترمنځ وي."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "د ساحې ناسم نوم '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "ساحه باید د %(other_name)s سره مساوي وي."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "ساحه باید لږ تر لږه %(min)d کرکټر اوږده وي."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "ساحه له %(max)d کرکټر څخه اوږده نشي."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "ساحه باید دقیقاً %(max)d کرکټر اوږده وي."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "ساحه باید د %(min)d او %(max)d حروف اوږده وي."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "شمیره باید لږ تر لږه %(min)s وي."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "شمیره باید په سلو کې (زیاته) وي."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "شمیره باید د٪ (min) او٪ (زیاته) تر منځ وي."
+
+msgid "Invalid input."
+msgstr "ناسم داخلول."
+
+msgid "Invalid email address."
+msgstr "ناسم بریښنالیک پته."
+
+msgid "Invalid IP address."
+msgstr "ناسم IP پته."
+
+msgid "Invalid Mac address."
+msgstr "ناسم میک پته."
+
+msgid "Invalid URL."
+msgstr "ناسم URL."
+
+msgid "Invalid UUID."
+msgstr "ناسم UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "ناسم ارزښت، باید یو له: %(ارزښتونو) څخه وي."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "ناباوره ارزښت، له دې څخه نه شي کیدی: %(ارزښتونه)s."
+
+msgid "This field cannot be edited."
+msgstr "دا ساحه نشي ترمیم کیدی."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "دا ساحه غیر فعاله ده او ارزښت نلري."
+
+msgid "Invalid CSRF Token."
+msgstr "ناسم CSRF ټوکن."
+
+msgid "CSRF token missing."
+msgstr "د CSRF نښه ورکه شوې."
+
+msgid "CSRF failed."
+msgstr "CSRF ناکام شو."
+
+msgid "CSRF token expired."
+msgstr "د CSRF نښه پای ته ورسیده."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "ناسم انتخاب: مجبور نشو."
+
+msgid "Choices cannot be None."
+msgstr "انتخابونه هیڅ شی نشي کیدی."
+
+msgid "Not a valid choice."
+msgstr "د اعتبار وړ انتخاب نه دی."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "ناسم انتخاب(ونه): د یو یا ډیرو ډیټا داخلونه په زور نشي اخیستل کیدی."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' د دې ساحې لپاره د اعتبار وړ انتخاب نه دی."
+
+msgid "Not a valid datetime value."
+msgstr "د اعتبار وړ نیټې وخت ارزښت نه دی."
+
+msgid "Not a valid date value."
+msgstr "د اعتبار وړ نیټې ارزښت ندی."
+
+msgid "Not a valid time value."
+msgstr "د اعتبار وړ وخت ارزښت نه دی."
+
+msgid "Not a valid week value."
+msgstr "د اعتبار وړ اونۍ ارزښت نه دی."
+
+msgid "Not a valid integer value."
+msgstr "د اعتبار وړ عدد ارزښت نه دی."
+
+msgid "Not a valid decimal value."
+msgstr "د اعتبار وړ لسیزې ارزښت نه دی."
+
+msgid "Not a valid float value."
+msgstr "د اعتبار وړ فلوټ ارزښت ندی."
+

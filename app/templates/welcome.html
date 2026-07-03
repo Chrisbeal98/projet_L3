@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="{{ get_locale() }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AntiVol.ci</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #0a0a1a;
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+        }
+        .logo {
+            width: 120px;
+            height: 120px;
+            margin: 0 auto 30px;
+            animation: pulse 1.5s ease-in-out infinite;
+        }
+        .logo img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            filter: drop-shadow(0 0 20px rgba(59, 130, 246, 0.4));
+        }
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.08); }
+        }
+        h1 {
+            font-size: 28px;
+            font-weight: 800;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+        h1 span {
+            color: #3b82f6;
+        }
+        p {
+            font-size: 15px;
+            color: #94a3b8;
+            margin-bottom: 40px;
+        }
+        .btn-start {
+            display: inline-block;
+            padding: 16px 48px;
+            border-radius: 30px;
+            background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+            color: #fff;
+            font-size: 17px;
+            font-weight: 700;
+            text-decoration: none;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 4px 25px rgba(59, 130, 246, 0.3);
+        }
+        .btn-start:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 35px rgba(59, 130, 246, 0.4);
+        }
+        .btn-start:active {
+            transform: translateY(0);
+        }
+        .nav-links {
+            margin-top: 30px;
+            display: flex;
+            gap: 24px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .nav-links a {
+            color: #64748b;
+            font-size: 14px;
+            font-weight: 500;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        .nav-links a:hover {
+            color: #3b82f6;
+        }
+        .nav-links .separator {
+            color: #334155;
+        }
+        .footer {
+            position: fixed;
+            bottom: 20px;
+            font-size: 12px;
+            color: #334155;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <img src="{{ url_for('static', filename='logo.png') }}" alt="AntiVol.ci">
+        </div>
+        <h1>AntiVol<span>.ci</span></h1>
+        <p>{{ _('Notre application est conçue pour fournir une protection intelligente pour vos appareils pour les garder en toutes sécurités et les retrouver en cas de  vols ') }}</p>
+        <a href="{{ url_for('auth.register') }}" class="btn-start">{{ _('Commencer') }}</a>
+        <div class="nav-links">
+            <a href="{{ url_for('auth.login') }}">{{ _('Se connecter') }}</a>
+            <span class="separator">|</span>
+            <a href="#">{{ _('Aller vers') }}</a>
+        </div>
+    </div>
+    <div class="footer">&copy; Fondé début janvier 2026 AntiVol.ci</div>
+</body>
+</html>

@@ -1,0 +1,1060 @@
+# Translations for BEM.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: bem\n"
+"Language-Team: bem <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Mukwai ingileni pakuti mumone ili ibuula."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Iyi IMEI yalilembeshiwa kale mu citabo."
+
+msgid "Accès non autorisé."
+msgstr "Ukufika ukwabula ukusuminishiwa."
+
+msgid "Appareil déverrouillé."
+msgstr "Icibombelo caisulwa."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Icishibisho capangilwe! Ifishibisho fyatuminwe."
+
+msgid "Alerte résolue."
+msgstr "Ukucenjesha kwapwishiwa."
+
+msgid "Pas encore de compte ?"
+msgstr "Tapali akaunti nomba?"
+
+msgid "Mon Profil"
+msgstr "Ubutantiko bwandi"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Ukulanshanya kwatunguluka! Ukusengela."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Imeli nangula ishiwi lyakucingilila ilyalubene."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Ifiputulwa fyonse ifilefwaikwa fifwile ukupwishishiwa."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Amashiwi ya kwingililapo tayapalana."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Ishiwi lya kucingililamo lilingile ukuba ne fikomo ukufika kuli 6."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Iyi imeli ilebomfiwa kale."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Akaunti yapangilwe bwino! Ingilamo."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Tapali ama akaunti ayasangwa na iyi email."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Namba ya foni tayapalana ne namba ya akaunti."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Ishina lya kwingililapo ilyapya lyalicindama."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Ukubwekeshapo kwa mashiwi ya kwingililapo kwatunguluka! Ingilamo."
+
+msgid "Vous avez été déconnecté."
+msgstr "Mwaputulwa ukulanshanya."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Icilangililo, umusango na IMEI filafwaikwa."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Icipe icakwata iyi IMEI cilipo kale."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Icibombelo calembeshiwa bwino!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Tamuli abasuminishiwa ukucita ici cintu."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Icibombelo caisalilwe bwino bwino."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Icibombelo califungulwa bwino bwino."
+
+msgid "Appareil supprimé."
+msgstr "Icibombelo cafuutwa."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Mukwai saleni icibombelo no musango wa cishibisho."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Ici cipe te cenu."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert yalishimikilwe bwino bwino. Ici cipe calicingililwa."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Icishibisho calembwa ukuti capwishiwa."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Ishina lya kubalilapo, ishina lya kulekelesha na email filafwaikwa."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Iyi email naibomfiwa kale na akaunti imbi."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Ubutantiko bwalungishiwa bwino bwino!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Ukwingila kwasuminishiwa ku bacilolo."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Icilubo calembwa nge capwishiwa."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Teti mufuute akaunti yenu."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Umuntu alifuuta bwino bwino."
+
+msgid "Administration"
+msgstr "Ubutungulushi"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Ukutungulula kwa pa kati ukwa mibombele ya kulwisha ubucende"
+
+msgid "Utilisateurs"
+msgstr "Ababomfya"
+
+msgid "Actifs aujourd'hui"
+msgstr "Icibomba ilelo"
+
+msgid "Nouveaux ce mois"
+msgstr "Icipya uno mweshi"
+
+msgid "Appareils"
+msgstr "Ifibombelo"
+
+msgid "Alertes actives"
+msgstr "Ifishinbisho ifibomba"
+
+msgid "Analytique"
+msgstr "Ukupitulukamo"
+
+msgid "Journal d'activité"
+msgstr "Icitabo ca milimo"
+
+msgid "Erreurs"
+msgstr "Ifilubo"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Ukuminkanya (inshiku 7 ishapita)"
+
+msgid "Alertes par type"
+msgstr "Ifishinbisho ukulingana no musango"
+
+msgid "Appareils par opérateur"
+msgstr "Ifibombelo ukulingana na kabomfya"
+
+msgid "Résumé du système"
+msgstr "Ukufutika kwa mibombele"
+
+msgid "Utilisateurs total"
+msgstr "Ababomfya bonse"
+
+msgid "Appareils enregistrés"
+msgstr "Ifibombelo ifyalembeshiwa"
+
+msgid "Total alertes"
+msgstr "Ifishinbisho fyonse"
+
+msgid "Alertes en cours"
+msgstr "Ifishinbisho fya nomba"
+
+msgid "Erreurs non résolues"
+msgstr "Ifilubo ifishilapwa"
+
+msgid "Dernières activités"
+msgstr "Imilimo iya nombaline"
+
+msgid "récentes"
+msgstr "mulibwangu"
+
+msgid "Utilisateur"
+msgstr "Kabomfya"
+
+msgid "Action"
+msgstr "Ukubomba"
+
+msgid "Détails"
+msgstr "Ifyebo"
+
+msgid "Adresse IP"
+msgstr "akeyala ka IP"
+
+msgid "Navigateur"
+msgstr "Icifwailisha"
+
+msgid "Date"
+msgstr "Ubushiku"
+
+msgid "Aucune activité"
+msgstr "Tapali icakucita"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Imilimo ya babomfya ikamoneka apa."
+
+msgid "Journal d'erreurs"
+msgstr "Icitabo ca filubo"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Bushe mwalungika ifilubo fyonse?"
+
+msgid "Tout résoudre"
+msgstr "Ukupwisha fyonse"
+
+msgid "non résolues"
+msgstr "ifishapwishishiwa"
+
+msgid "Tout est résolu"
+msgstr "Ifintu fyonse fyapwishiwa ."
+
+msgid "Type"
+msgstr "Umusango"
+
+msgid "Description"
+msgstr "Ubulondoloshi"
+
+msgid "Statut"
+msgstr "Imibele"
+
+msgid "Résolu"
+msgstr "Icapwishiwa"
+
+msgid "Non résolu"
+msgstr "Tacipwishiwe"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Tapali ifilubo ifyalembwa"
+
+msgid "Le système fonctionne correctement."
+msgstr "Inshila ilebomba bwino."
+
+msgid "Gestion des utilisateurs"
+msgstr "Ukutungulula ababomfya"
+
+msgid "comptes"
+msgstr "ama akaunti"
+
+msgid "Email"
+msgstr "Imelo"
+
+msgid "Téléphone"
+msgstr "Lamya"
+
+msgid "Rôle"
+msgstr "Umulimo"
+
+msgid "Inscrit le"
+msgstr "Ukulembeshiwa pa"
+
+msgid "Actions"
+msgstr "Imilimo"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Bushe kuti mwafumyapo uyu muntu ne fibombelo fyakwe fyonse?"
+
+msgid "Vous"
+msgstr "IWE"
+
+msgid "Connexions"
+msgstr "Ukuminkanya"
+
+msgid "Vol"
+msgstr "Indeke"
+
+msgid "Perte"
+msgstr "Ubuluse"
+
+msgid "Anomalie"
+msgstr "Ukukanalinga"
+
+msgid "Alertes"
+msgstr "Ifishinbisho"
+
+msgid "Gestion des alertes"
+msgstr "Ukutungulula kwakucenjesha"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Lipoti ubucende nangula ukuloba no kukonka ilyashi lya kale"
+
+msgid "Signaler un vol / perte"
+msgstr "Lipoti ubucende/ukuloba"
+
+msgid "En cours"
+msgstr "Mukukonkanyapo"
+
+msgid "Résolues"
+msgstr "Icapwishiwa"
+
+msgid "Historique des alertes"
+msgstr "Ilyashi lya kale ilya kucenjesha"
+
+msgid "Appareil"
+msgstr "Icintu"
+
+msgid "Priorité"
+msgstr "Ukubikisha amano"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Bushe lembeni uku kucenjesha nga kwapwishishiwa?"
+
+msgid "Résoudre"
+msgstr "Ukupwisha"
+
+msgid "Aucune alerte"
+msgstr "Tapali icakucenjesha"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Imbila nsuma! Tapali ifishinbisho ifyalandwapo."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Lipoti ubucende nangula ukuloba"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Nga mwashimikilako ubucende, icibombelo cenu cikaisalilwa kabili "
+"ifishibisho fikatumwa."
+
+msgid "Appareil concerné"
+msgstr "Icibombelo icakuma"
+
+msgid "Sélectionner un appareil"
+msgstr "Saleni icibombelo"
+
+msgid "Type d'alerte"
+msgstr "Umusango wa cebusho"
+
+msgid "Décrivez les circonstances..."
+msgstr "Londololeni ifyacitike..."
+
+msgid "Annuler"
+msgstr "Ukuleesha"
+
+msgid "Signaler"
+msgstr "Nsebo"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Inshila iya mano iya kulwisha ubucende — Inshila ya kucingililamo amafoni"
+" ya ku minwe"
+
+msgid "Système Anti-Vol"
+msgstr "Inshila iyakulwisha ubucende"
+
+msgid "PRINCIPAL"
+msgstr "ICIKULU"
+
+msgid "Tableau de bord"
+msgstr "Dashibodi"
+
+msgid "SÉCURITÉ"
+msgstr "UBUCINGO"
+
+msgid "Géolocalisation"
+msgstr "Icifulo ca ncende"
+
+msgid "ADMINISTRATION"
+msgstr "UBUTUMI"
+
+msgid "Déconnexion"
+msgstr "Ukuleka ukuminkanya"
+
+msgid "Changer de langue"
+msgstr "Cinjeni ululimi"
+
+msgid "Rechercher une langue..."
+msgstr "Fwaya ululimi..."
+
+msgid "Profil"
+msgstr "Profaelo"
+
+msgid "Changer de thème"
+msgstr "Cinjeni umutwe"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Ukumona ubucingililo bwa cibombelo cenu"
+
+msgid "Ajouter un appareil"
+msgstr "Lundako icibombelo"
+
+msgid "Appareils volés"
+msgstr "Ifibombelo ifyaibilwe"
+
+msgid "Verrouillés à distance"
+msgstr "Ukukakilwa ukutali"
+
+msgid "Alertes récentes"
+msgstr "Ifishinbisho fya nombaline"
+
+msgid "Voir tout"
+msgstr "Moneni fyonse"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Tapali ukucenjesha. Ifibombelo fyenu fyalicingililwa!"
+
+msgid "Mes appareils"
+msgstr "Ifibombelo fyandi"
+
+msgid "Aucun appareil enregistré"
+msgstr "Tapali ifibombelo ifyalembeshiwa"
+
+msgid "Ajouter"
+msgstr "Ukulundapo"
+
+msgid "en attente"
+msgstr "ukulolesha"
+
+msgid "Gestion des appareils"
+msgstr "Ukutungulula ifibombelo"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Lembesheni no kusunga ama foni yenu"
+
+msgid "Opérateur"
+msgstr "Kabomfya"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Bushe kuti mwafunga ici cibombelo ukutali?"
+
+msgid "Verrouiller"
+msgstr "Isala"
+
+msgid "Déverrouiller"
+msgstr "Ukwisula"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Bushe kuti mwafuuta ici cibombelo?"
+
+msgid "Supprimer"
+msgstr "UKUFUTA"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Lundapo foni yobe iya kubalilapo pa kuti utendeke ukuicingililako."
+
+msgid "Nouvel appareil"
+msgstr "Icibombelo icipya"
+
+msgid "Marque"
+msgstr "Umusango"
+
+msgid "Sélectionner"
+msgstr "Sala"
+
+msgid "Autre"
+msgstr "Cimbi"
+
+msgid "Modèle"
+msgstr "Umusango"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "taimbeni *#06# pa foni yenu"
+
+msgid "Système d'exploitation"
+msgstr "Inshila yakubomfya"
+
+msgid "Numéro de téléphone"
+msgstr "Namba ya lamya"
+
+msgid "Enregistrer"
+msgstr "Ukusunga"
+
+msgid "Connexion"
+msgstr "Ukuminkanya"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Inshila ya kucingililamo foni"
+
+msgid "Adresse email"
+msgstr "Akeyala ka imeli"
+
+msgid "Mot de passe"
+msgstr "Ishiwi lya kwisalilako"
+
+msgid "Se connecter"
+msgstr "Ingila"
+
+msgid "Mot de passe oublié ?"
+msgstr "Bushe mwaluba ishiwi lyakucingilila?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Bushe muli na akaunti kale? Nga tefyo, twalilileni ukupanga akaunti yenu!"
+
+msgid "Créer un compte"
+msgstr "Pangeni akaunti"
+
+msgid "Sécurité maximale"
+msgstr "Ubucingo ubukulu"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Cingilileni ifyebo fyenu ukubomfya ukufunga ukutali"
+
+msgid "Localisation GPS"
+msgstr "Icifulo ca GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr ""
+"Fwayeni icifulo ca cine cine ica foni yenu iya ku minwe mu nshita icine "
+"cine"
+
+msgid "Alertes instantanées"
+msgstr "Ifishinbisho fya bwangu"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr ""
+"Pokeleleni ama SMS, imeli no kusuntinkanya ifishibisho nga cakuti "
+"ubucende bwaba"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Fwayeni ifibombelo fyenu no kumona mu menso ififulo ifyabipa"
+
+msgid "Aucun appareil"
+msgstr "Tapali icibombelo"
+
+msgid "Zones à risque"
+msgstr "Incende sha mafya"
+
+msgid "incidents"
+msgstr "ifyacitike"
+
+msgid "Aucune zone signalée"
+msgstr "Tapali ififulo ifyalandwapo"
+
+msgid "Niveau"
+msgstr "Iciputulwa"
+
+msgid "Incidents"
+msgstr "Ifyacitike"
+
+msgid "Profile utilisateur"
+msgstr "Ilyashi lya kabomfya"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Bombeleni pa fyebo fyenu"
+
+msgid "Membre depuis"
+msgstr "Icilundwa ukufuma"
+
+msgid "Modifier mes informations"
+msgstr "Yalula ifyebo fyandi"
+
+msgid "Prénom"
+msgstr "Ishina lykwambilapo"
+
+msgid "Nom"
+msgstr "Ishina"
+
+msgid "Changer le mot de passe"
+msgstr "Cinjeni ishiwi lya kwisalilako"
+
+msgid "Nouveau mot de passe"
+msgstr "Ishiwi lya kwisalilako ilipya"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "shileni ifyabulamo pakuti fishipilibuke"
+
+msgid "Enregistrer les modifications"
+msgstr "Sunga ifyakupilibula"
+
+msgid "Inscription"
+msgstr "Ukulembesha"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Mwapokelelwe ku Kulwisha Ubucende pakuti ifibombelo fyenu fibe ifisuma"
+
+msgid "Confirmer"
+msgstr "Ukushininkisha"
+
+msgid "Créer mon compte"
+msgstr "Pangeni akaunti yandi"
+
+msgid "Déjà un compte ?"
+msgstr "Bushe muli na akaunti?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Bwekeshapo ishiwi lya kwisalilako"
+
+msgid "Réinitialisation"
+msgstr "Ukubwekeshapo"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Ingisheni email yenu ne nambala ya lamya pakuti mushininkishe ubunte bwenu"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Namba balebomfya ilyo balelembesha ."
+
+msgid "Minimum 6 caractères"
+msgstr "Ukucepako kwa fishibilo 6"
+
+msgid "Confirmer le mot de passe"
+msgstr "Shininkisheni ishiwi lya kwisalilako"
+
+msgid "Retourner à la"
+msgstr "Bwelela ku"
+
+msgid "page de connexion"
+msgstr "ibuula lya kwingililamo"
+
+msgid "Vérification sécurisée"
+msgstr "Ukushininkisha ukwacingililwa"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Ubushininkisho bwenu bwashininkishiwa ukubomfya email yenu na nambala ya "
+"foni"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr ""
+"Saleni ishiwi lya kwingililapo ilyacingililwa ilyakwata amalembo ukufika "
+"kuli 6"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{kalemba}: Ukupitulukamo kwafilwa"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{kalemba}: Ukulungika kwafilwa: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Icilubo ca pa Windows: {icilubo}"
+
+msgid "deprecated"
+msgstr "icasuulwa"
+
+msgid "Options"
+msgstr "Ifyakusalapo"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Nakwata ukukansana ukwalundwako ukwabula ukucetekela ({amashiwi})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Ukucenjesha: Ifunde {ishina!r} lyalileshiwa.{imbila_iyalundwapo}"
+
+msgid "Aborted!"
+msgstr "Yafumishiwapo!"
+
+msgid "Commands"
+msgstr "Amafunde"
+
+msgid "Missing command."
+msgstr "Ifunde ilyabula."
+
+msgid "Value must be an iterable."
+msgstr "Umutengo ufwile ukuba uwabwekeshiwapo."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Ifipimo fya {nargs} lelo 1 yapeelwe."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Ukucenjesha: {umusango_wa_param} {ishina!r} "
+"lyalifulwa.{imbila_iyalundwako}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Ishina '{ishina}' lyalondolwelwe imiku ibili"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Icakusalapo ica Boolean {ukukana!r} tekuti cibomfye icishibilo cimo cine "
+"ku cine/ubufi."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Teti mwishibe ishina lyakusalapo ne fyakubilisha {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Tapali ifya kusalapo ifyalondolwelwe lelo ishina lyapitile ({ishina}). "
+"Bushe mwalefwaya ukubilisha ukukansana mu cifulo ca iko? Bushe mwalefwaya"
+" ukupita '--{ishina}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env ukulekanalekana: {ukulekanalekana}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "ifyakubalilapo: {ifyakubalilapo}"
+
+msgid "required"
+msgstr "icilefwaika"
+
+msgid "(dynamic)"
+msgstr "(ukwaluka)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Amashiwi yakwata ukusokolola kwa paramita imo, ukukwata {ubutali}: "
+"{ukusokolola}."
+
+msgid "Do you want to continue?"
+msgstr "Bushe mulefwaya ukutwalilila?"
+
+msgid "Confirm the action without prompting."
+msgstr "Shininkisheni ifyo mulecita ukwabula ukumwipusha."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(amapekanyo)s, umusango %(umusango)s"
+
+msgid "Show the version and exit."
+msgstr "Langisheni umusango no kufumapo."
+
+msgid "Show this message and exit."
+msgstr "Langisheni iyi mbila no kufuma."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Bushe mwalepilibula {kuti cacitika}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Icilubo: {imbila}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Esheni '{ifunde} {ifyakusalapo}' pakuti mukwafwe."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Umutengo uushalinga: {imbila}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Umutengo uushalinga uwa {icilangililo}: {imbila}"
+
+msgid "Missing argument"
+msgstr "Ukukansana ukubulile"
+
+msgid "Missing option"
+msgstr "Icakusalapo icabula"
+
+msgid "Missing parameter"
+msgstr "Paramita iyabula"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Ukubulisha {umusango_wa_cipimo}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Icikomo icibulile: {ishina_ilya cikomo}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Tapali ifyakusalapo ifya musango yo {ishina!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Tapali ifunde lya musango yo {ishina!r}."
+
+msgid "unknown error"
+msgstr "icilubo icishiishibikwe"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Teti cifungule failo {ishina lya failo!r}: {imbila}"
+
+msgid "Usage:"
+msgstr "Ukubomfya:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr ""
+"Icilangililo ca kutendekelako icishili icalinga ica kusalapo ({ica "
+"kusalapo})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Ukukansana {ishina!r} kutwala {amashina} imitengo."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Icakusalapo {ishina!r} tacipokelela umutengo."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Icakusalapo {ishina!r} cilekabila ukukansana."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Ukupwisha kwa Shell takusuminishiwa ku misango ya Bash iya kale ukucila "
+"pali 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Tatwasanga umusango wa Bash, ukupwisha kwa shell takusuminishiwa."
+
+msgid "Repeat for confirmation"
+msgstr "Bwelelenipo pakuti mushininkishe"
+
+msgid "Error: The two entered values do not match."
+msgstr "Icilubo: Imitantikile ibili iyabikwa tayapalana."
+
+msgid "Error: invalid input"
+msgstr "Icilubo: ifyabikwamo tafyalinga"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Ilangi ilishaishibikwa {ilangi!r}"
+
+msgid "Press any key to continue..."
+msgstr "Tinikeni ifungulo ilili lyonse pakuti mutwalilile..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Saleni ukufuma muli:\\n\\t{ifyakusalapo}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{umutengo!r} te {ukusalapo}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Ifyakusalapo({ifyakusalapo})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{umutengo!r} taulingana ne mipangilwe {imipangile}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{umutengo!r} tekuti ube uwalinga {umusango_wa_namba}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{umutengo} tauli mu cipimo {umusango}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{umutengo!r} te cishinka icalinga. Imitengo iyaishibikwa: {amabuteko}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{umutengo!r} te UUID iyalinga."
+
+msgid "file"
+msgstr "faelo"
+
+msgid "directory"
+msgstr "ubutungulushi"
+
+msgid "path"
+msgstr "inshila"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{ishina} {ishina lya failo!r} talipo."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{ishina} {ishina lya failo!r} ni failo."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{ishina} {ishina lya failo!r} ni citabo."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{ishina} {ishina lya failo!r} talyabelenga."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{ishina} {ishina lya failo!r} talyalembelwe."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{ishina} {ishina lya failo!r} tekuti libomfiwe."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr ""
+"{umusango_wa_len} imitantikile ilefwaikwa, lelo {umutengo_uwa_len} "
+"walipeelwe."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Umumana uushaishibikwa '{ishina}'"
+
+msgid "This field is required."
+msgstr "Iyi incende ilafwaikwa."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Fayelo tayakwata icakukonkanyapo icasuminishiwa: {ifyakukonkanyapo}"
+
+msgid "File does not have an approved extension."
+msgstr "Fayelo tayakwata ukulundako ukwasuminishiwa."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr ""
+"Fayelo ilingile ukuba pakati ka {ubukulu_ubunono} na {ubukulu_ubukulu} "
+"amabaiti."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Ishina lya cifulo ilyashilinga '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Iciputulwa cifwile ukulingana na %(ishina_limbi)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Iciputulwa cifwile ukuba ukufika kuli %(min)d ubutali bwa cishibilo."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Iciputulwa tekuti cibe icitali ukucila %(max)d icilangililo."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Iciputulwa cifwile ukuba %(max)d ubutali bwa cishibilo."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr ""
+"Iciputulwa cifwile ukuba pakati ka %(min)d na %(ukucilapo)d ubutali bwa "
+"fishibilo."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Impendwa ilingile ukuba ukucepako %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Impendwa ilingile ukuba ukucila pali %(ukucila)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Impendwa ilingile ukuba pakati ka %(min)s na %(ukucilapo)s."
+
+msgid "Invalid input."
+msgstr "Ifya kwingilishamo ifishalinga."
+
+msgid "Invalid email address."
+msgstr "Akeyala ka email akashibomba."
+
+msgid "Invalid IP address."
+msgstr "Akeyala ka IP akashibomba."
+
+msgid "Invalid Mac address."
+msgstr "Akeyala ka Mac akashibomba."
+
+msgid "Invalid URL."
+msgstr "URL iyishilebomba."
+
+msgid "Invalid UUID."
+msgstr "UUID iyashibomba."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Umutengo uushalinga, ufwile ukuba umo uwa: %(imitengo)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Umutengo uushalinga, tekuti ube nangu umo uwa: %(imitengo)s."
+
+msgid "This field cannot be edited."
+msgstr "Iyi incende tekuti ipilibulwe."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Iyi incende tayabomba kabili tekuti ibe no mutengo."
+
+msgid "Invalid CSRF Token."
+msgstr "Icilangililo ca CSRF icishili icalinga."
+
+msgid "CSRF token missing."
+msgstr "Icilangililo ca CSRF tacilubile."
+
+msgid "CSRF failed."
+msgstr "CSRF yalifililwe."
+
+msgid "CSRF token expired."
+msgstr "Icilangililo ca CSRF capwa."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Ukusala ukwabula bwino: tekuti kupatikishe."
+
+msgid "Choices cannot be None."
+msgstr "Ifyakusalapo tekuti fibe Ukwabula."
+
+msgid "Not a valid choice."
+msgstr "Takuli ukusala ukwalinga."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Ifyakusalapo ifishili bwino: cimo nangu ifingi ifyabikwamo tekuti "
+"fipatikishiwe."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(umutengo)s' te kusalapo ukwalinga kuli iyi incende."
+
+msgid "Not a valid datetime value."
+msgstr "Tacili umutengo wa bushiku uwalinga."
+
+msgid "Not a valid date value."
+msgstr "Tacili umutengo wa bushiku uwalinga."
+
+msgid "Not a valid time value."
+msgstr "Tacili umutengo wa nshita uwalinga."
+
+msgid "Not a valid week value."
+msgstr "Tacili umutengo wa mulungu uwalinga."
+
+msgid "Not a valid integer value."
+msgstr "Tacili umutengo wa namba uwalinga."
+
+msgid "Not a valid decimal value."
+msgstr "Tacili umutengo wa cikumi uwalinga."
+
+msgid "Not a valid float value."
+msgstr "Tacili umutengo wa float uwalinga."
+

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0a0015"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp">
+
+        <!-- Lock Icon -->
+        <ImageView
+            android:id="@+id/ivLockIcon"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@android:drawable/ic_lock_lock"
+            android:tint="#ef4444"
+            android:importantForAccessibility="no"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="48dp"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/tvLockTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/lock_title"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#ef4444"
+            android:gravity="center"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/ivLockIcon"
+            android:layout_marginBottom="12dp" />
+
+        <TextView
+            android:id="@+id/tvLockMessage"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/lock_message"
+            android:textSize="16sp"
+            android:textColor="#94a3b8"
+            android:gravity="center"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvLockTitle"
+            android:layout_marginBottom="6dp" />
+
+        <TextView
+            android:id="@+id/tvLockWarning"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/lock_warning"
+            android:textSize="14sp"
+            android:textColor="#f59e0b"
+            android:textStyle="bold"
+            android:gravity="center"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvLockMessage"
+            android:layout_marginBottom="32dp" />
+
+        <!-- Code Input -->
+        <EditText
+            android:id="@+id/etCode"
+            android:layout_width="0dp"
+            android:layout_height="52dp"
+            android:hint="@string/lock_code_hint"
+            android:inputType="numberPassword"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textColorHint="#64748b"
+            android:backgroundTint="#ef4444"
+            android:letterSpacing="0.3"
+            android:maxLength="4"
+            android:importantForAutofill="no"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvLockWarning"
+            android:layout_marginBottom="12dp" />
+
+        <Button
+            android:id="@+id/btnUnlock"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:text="@string/btn_unlock"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:backgroundTint="#ef4444"
+            android:textColor="#ffffff"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/etCode"
+            android:layout_marginBottom="12dp" />
+
+        <TextView
+            android:id="@+id/tvError"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="14sp"
+            android:textColor="#f87171"
+            android:gravity="center"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/btnUnlock"
+            android:layout_marginBottom="24dp" />
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="160dp"
+            android:layout_height="1dp"
+            android:background="#333333"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvError"
+            android:layout_marginBottom="12dp" />
+
+        <TextView
+            android:id="@+id/tvVersion"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/lock_version"
+            android:textSize="12sp"
+            android:textColor="#475569"
+            android:gravity="center"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/divider"
+            android:layout_marginBottom="24dp" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

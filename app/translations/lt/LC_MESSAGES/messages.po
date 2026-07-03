@@ -1,0 +1,1046 @@
+# Translations for LT.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: lt\n"
+"Language-Team: lt <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"(n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Jei norite pasiekti šį puslapį, prisijunkite."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Šis IMEI jau užregistruotas sistemoje."
+
+msgid "Accès non autorisé."
+msgstr "Neteisėta prieiga."
+
+msgid "Appareil déverrouillé."
+msgstr "Įrenginys atrakintas."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Įspėjimas sukurtas! Pranešimai išsiųsti."
+
+msgid "Alerte résolue."
+msgstr "Įspėjimas išspręstas."
+
+msgid "Pas encore de compte ?"
+msgstr "Dar neturite paskyros?"
+
+msgid "Mon Profil"
+msgstr "Mano profilis"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Prisijungimas sėkmingas! Sveiki atvykę."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Neteisingas el. pašto adresas arba slaptažodis."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Visi privalomi laukai turi būti užpildyti."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Slaptažodžiai nesutampa."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Slaptažodį turi sudaryti mažiausiai 6 simboliai."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Šis el. paštas jau naudojamas."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Paskyra sėkmingai sukurta! Prisijunkite."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Nerasta jokių paskyrų su šiuo el. paštu."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Telefono numeris nesutampa su sąskaitos numeriu."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Naujas slaptažodis yra privalomas."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Slaptažodis sėkmingai nustatytas iš naujo! Prisijunkite."
+
+msgid "Vous avez été déconnecté."
+msgstr "Jūs buvote atjungti."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Reikalingas prekės ženklas, modelis ir IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Įrenginys su šiuo IMEI jau yra."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Įrenginys sėkmingai užregistruotas!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Jūs neturite teisės atlikti šio veiksmo."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Įrenginys sėkmingai užrakintas nuotoliniu būdu."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Įrenginys sėkmingai atrakintas."
+
+msgid "Appareil supprimé."
+msgstr "Įrenginys ištrintas."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Pasirinkite įrenginį ir įspėjimo tipą."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Šis įrenginys jums nepriklauso."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Įspėjimas sėkmingai praneštas. Prietaisas buvo apsaugotas."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Įspėjimas pažymėtas kaip išspręstas."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Būtina nurodyti vardą, pavardę ir el."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Šis el. pašto adresas jau naudojamas kitoje paskyroje."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profilis sėkmingai atnaujintas!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Prieiga skirta administratoriams."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Klaida pažymėta kaip išspręsta."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Negalite ištrinti savo paskyros."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Vartotojas sėkmingai ištrintas."
+
+msgid "Administration"
+msgstr "Administravimas"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Centralizuotas apsaugos nuo vagystės sistemos valdymas"
+
+msgid "Utilisateurs"
+msgstr "Vartotojai"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktyvus šiandien"
+
+msgid "Nouveaux ce mois"
+msgstr "Nauja šį mėnesį"
+
+msgid "Appareils"
+msgstr "Prietaisai"
+
+msgid "Alertes actives"
+msgstr "Aktyvūs įspėjimai"
+
+msgid "Analytique"
+msgstr "Analitinis"
+
+msgid "Journal d'activité"
+msgstr "Veiklos žurnalas"
+
+msgid "Erreurs"
+msgstr "Klaidos"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Ryšiai (paskutines 7 dienas)"
+
+msgid "Alertes par type"
+msgstr "Įspėjimai pagal tipą"
+
+msgid "Appareils par opérateur"
+msgstr "Prietaisai pagal operatorių"
+
+msgid "Résumé du système"
+msgstr "Sistemos santrauka"
+
+msgid "Utilisateurs total"
+msgstr "Iš viso vartotojų"
+
+msgid "Appareils enregistrés"
+msgstr "Registruoti įrenginiai"
+
+msgid "Total alertes"
+msgstr "Iš viso įspėjimų"
+
+msgid "Alertes en cours"
+msgstr "Dabartiniai įspėjimai"
+
+msgid "Erreurs non résolues"
+msgstr "Neišspręstos klaidos"
+
+msgid "Dernières activités"
+msgstr "Naujausia veikla"
+
+msgid "récentes"
+msgstr "neseniai"
+
+msgid "Utilisateur"
+msgstr "Vartotojas"
+
+msgid "Action"
+msgstr "Veiksmas"
+
+msgid "Détails"
+msgstr "Detalės"
+
+msgid "Adresse IP"
+msgstr "IP adresas"
+
+msgid "Navigateur"
+msgstr "Naršyklė"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Aucune activité"
+msgstr "Jokios veiklos"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Čia bus rodoma naudotojų veikla."
+
+msgid "Journal d'erreurs"
+msgstr "Klaidų žurnalas"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Ištaisyti visas klaidas?"
+
+msgid "Tout résoudre"
+msgstr "Išspręskite viską"
+
+msgid "non résolues"
+msgstr "neišspręstas"
+
+msgid "Tout est résolu"
+msgstr "Viskas išspręsta"
+
+msgid "Type"
+msgstr "Malonus"
+
+msgid "Description"
+msgstr "Aprašymas"
+
+msgid "Statut"
+msgstr "Būsena"
+
+msgid "Résolu"
+msgstr "Išspręsta"
+
+msgid "Non résolu"
+msgstr "Neišspręstas"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Klaidų neužfiksuota"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sistema veikia tinkamai."
+
+msgid "Gestion des utilisateurs"
+msgstr "Vartotojų valdymas"
+
+msgid "comptes"
+msgstr "sąskaitas"
+
+msgid "Email"
+msgstr "paštas"
+
+msgid "Téléphone"
+msgstr "Telefonas"
+
+msgid "Rôle"
+msgstr "Vaidmuo"
+
+msgid "Inscrit le"
+msgstr "Užsiregistravo"
+
+msgid "Actions"
+msgstr "Veiksmai"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Ištrinti šį naudotoją ir visus jo įrenginius?"
+
+msgid "Vous"
+msgstr "TU"
+
+msgid "Connexions"
+msgstr "Jungtys"
+
+msgid "Vol"
+msgstr "Skrydis"
+
+msgid "Perte"
+msgstr "Pralaimėjimas"
+
+msgid "Anomalie"
+msgstr "Anomalija"
+
+msgid "Alertes"
+msgstr "Perspėjimai"
+
+msgid "Gestion des alertes"
+msgstr "Įspėjimų valdymas"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Praneškite apie vagystę ar praradimą ir stebėkite istoriją"
+
+msgid "Signaler un vol / perte"
+msgstr "Pranešti apie vagystę / praradimą"
+
+msgid "En cours"
+msgstr "Vykdoma"
+
+msgid "Résolues"
+msgstr "Išspręsta"
+
+msgid "Historique des alertes"
+msgstr "Įspėjimų istorija"
+
+msgid "Appareil"
+msgstr "Įrenginys"
+
+msgid "Priorité"
+msgstr "Pirmenybė"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Pažymėti šį įspėjimą kaip išspręstą?"
+
+msgid "Résoudre"
+msgstr "Išspręsti"
+
+msgid "Aucune alerte"
+msgstr "Jokio įspėjimo"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Geros naujienos! Jokių įspėjimų nepranešta."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Pranešti apie vagystę ar praradimą"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Pranešus apie vagystę, jūsų įrenginys bus automatiškai užrakintas ir bus "
+"siunčiami pranešimai."
+
+msgid "Appareil concerné"
+msgstr "Paveiktas įrenginys"
+
+msgid "Sélectionner un appareil"
+msgstr "Pasirinkite įrenginį"
+
+msgid "Type d'alerte"
+msgstr "Įspėjimo tipas"
+
+msgid "Décrivez les circonstances..."
+msgstr "Aprašykite aplinkybes..."
+
+msgid "Annuler"
+msgstr "Atšaukti"
+
+msgid "Signaler"
+msgstr "Pranešimas"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Išmanioji apsaugos nuo vagystės sistema – išmaniųjų telefonų saugos "
+"platforma"
+
+msgid "Système Anti-Vol"
+msgstr "Apsaugos nuo vagystės sistema"
+
+msgid "PRINCIPAL"
+msgstr "PAGRINDINĖ"
+
+msgid "Tableau de bord"
+msgstr "Prietaisų skydelis"
+
+msgid "SÉCURITÉ"
+msgstr "SAUGUMAS"
+
+msgid "Géolocalisation"
+msgstr "Geolokacija"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRAVIMAS"
+
+msgid "Déconnexion"
+msgstr "Atsijungti"
+
+msgid "Changer de langue"
+msgstr "Keisti kalbą"
+
+msgid "Rechercher une langue..."
+msgstr "Ieškoti kalbos..."
+
+msgid "Profil"
+msgstr "Profilis"
+
+msgid "Changer de thème"
+msgstr "Keisti temą"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Jūsų įrenginio saugos apžvalga"
+
+msgid "Ajouter un appareil"
+msgstr "Pridėkite įrenginį"
+
+msgid "Appareils volés"
+msgstr "Pavogti prietaisai"
+
+msgid "Verrouillés à distance"
+msgstr "Nuotoliniu būdu užrakinta"
+
+msgid "Alertes récentes"
+msgstr "Naujausi įspėjimai"
+
+msgid "Voir tout"
+msgstr "Žiūrėti viską"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Jokio įspėjimo. Jūsų įrenginiai saugūs!"
+
+msgid "Mes appareils"
+msgstr "Mano įrenginiai"
+
+msgid "Aucun appareil enregistré"
+msgstr "Nėra registruotų įrenginių"
+
+msgid "Ajouter"
+msgstr "Pridėti"
+
+msgid "en attente"
+msgstr "sulaikytas"
+
+msgid "Gestion des appareils"
+msgstr "Įrenginių valdymas"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Užregistruokite ir valdykite savo išmaniuosius telefonus"
+
+msgid "Opérateur"
+msgstr "Operatorius"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Užrakinti šį įrenginį nuotoliniu būdu?"
+
+msgid "Verrouiller"
+msgstr "Užraktas"
+
+msgid "Déverrouiller"
+msgstr "Atrakinti"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Ištrinti šį įrenginį?"
+
+msgid "Supprimer"
+msgstr "IŠTRINTI"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Pridėkite savo pirmąjį išmanųjį telefoną, kad pradėtumėte jį apsaugoti."
+
+msgid "Nouvel appareil"
+msgstr "Naujas prietaisas"
+
+msgid "Marque"
+msgstr "Prekės ženklas"
+
+msgid "Sélectionner"
+msgstr "Pasirinkite"
+
+msgid "Autre"
+msgstr "Kita"
+
+msgid "Modèle"
+msgstr "Modelis"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "telefone įveskite *#06#"
+
+msgid "Système d'exploitation"
+msgstr "Operacinė sistema"
+
+msgid "Numéro de téléphone"
+msgstr "Telefono numeris"
+
+msgid "Enregistrer"
+msgstr "Išsaugoti"
+
+msgid "Connexion"
+msgstr "Ryšys"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Išmaniojo telefono apsaugos sistema"
+
+msgid "Adresse email"
+msgstr "El. pašto adresas"
+
+msgid "Mot de passe"
+msgstr "Slaptažodis"
+
+msgid "Se connecter"
+msgstr "Prisijunkite"
+
+msgid "Mot de passe oublié ?"
+msgstr "Pamiršote slaptažodį?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Ar jau turite paskyrą? Kitu atveju pereikite prie paskyros kūrimo!"
+
+msgid "Créer un compte"
+msgstr "Susikurti paskyrą"
+
+msgid "Sécurité maximale"
+msgstr "Maksimalus saugumas"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Apsaugokite savo asmeninius duomenis nuotoliniu užraktu"
+
+msgid "Localisation GPS"
+msgstr "GPS vieta"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Raskite tikslią savo išmaniojo telefono vietą realiuoju laiku"
+
+msgid "Alertes instantanées"
+msgstr "Momentiniai įspėjimai"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Gaukite SMS, el. paštu ir tiesioginius pranešimus vagystės atveju"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Raskite savo įrenginius ir vizualizuokite rizikos sritis"
+
+msgid "Aucun appareil"
+msgstr "Nėra įrenginio"
+
+msgid "Zones à risque"
+msgstr "Rizikos zonos"
+
+msgid "incidents"
+msgstr "incidentai"
+
+msgid "Aucune zone signalée"
+msgstr "Jokių sričių nepranešta"
+
+msgid "Niveau"
+msgstr "Lygis"
+
+msgid "Incidents"
+msgstr "Incidentai"
+
+msgid "Profile utilisateur"
+msgstr "Vartotojo profilis"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Tvarkykite savo asmeninę informaciją"
+
+msgid "Membre depuis"
+msgstr "Narys nuo"
+
+msgid "Modifier mes informations"
+msgstr "Redaguoti mano informaciją"
+
+msgid "Prénom"
+msgstr "Vardas"
+
+msgid "Nom"
+msgstr "Vardas"
+
+msgid "Changer le mot de passe"
+msgstr "Keisti slaptažodį"
+
+msgid "Nouveau mot de passe"
+msgstr "Naujas slaptažodis"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "palikite tuščią, kad nepasikeistų"
+
+msgid "Enregistrer les modifications"
+msgstr "Išsaugoti pakeitimus"
+
+msgid "Inscription"
+msgstr "Registracija"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Sveiki atvykę į „Anti-Theft“, kad pagerintumėte savo įrenginių saugumą"
+
+msgid "Confirmer"
+msgstr "Patvirtinti"
+
+msgid "Créer mon compte"
+msgstr "Sukurti mano paskyrą"
+
+msgid "Déjà un compte ?"
+msgstr "Jau turite paskyrą?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Iš naujo nustatyti slaptažodį"
+
+msgid "Réinitialisation"
+msgstr "Nustatyti iš naujo"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Įveskite savo el. pašto adresą ir telefono numerį, kad patvirtintumėte "
+"savo tapatybę"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Registracijos metu naudotas numeris"
+
+msgid "Minimum 6 caractères"
+msgstr "Mažiausiai 6 simboliai"
+
+msgid "Confirmer le mot de passe"
+msgstr "Patvirtinkite slaptažodį"
+
+msgid "Retourner à la"
+msgstr "Grįžti į"
+
+msgid "page de connexion"
+msgstr "prisijungimo puslapyje"
+
+msgid "Vérification sécurisée"
+msgstr "Saugus patvirtinimas"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Jūsų tapatybė patvirtinama naudojant el. pašto adresą ir telefono numerį"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Pasirinkite saugų mažiausiai 6 simbolių slaptažodį"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: redaguoti nepavyko"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: redaguoti nepavyko: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "„Windows“ klaida: {error}"
+
+msgid "deprecated"
+msgstr "pasenęs"
+
+msgid "Options"
+msgstr "Parinktys"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Gautas netikėtas papildomas argumentas ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"Įspėjimas dėl naudojimo nutraukimo: komanda {name!r} "
+"nebenaudojama.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Nutraukta!"
+
+msgid "Commands"
+msgstr "Komandos"
+
+msgid "Missing command."
+msgstr "Trūksta komandos."
+
+msgid "Value must be an iterable."
+msgstr "Vertė turi būti kartojama."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Paima {nargs} reikšmes, bet buvo pateikta 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"Įspėjimas dėl naudojimo nutraukimo: {param_type} {name!r} "
+"nebenaudojamas.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Vardas „{name}“ apibrėžtas du kartus"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Būlio parinktis {decl!r} negali naudoti tos pačios vėliavėlės teisingam /"
+" klaidingam."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Nepavyko nustatyti parinkties pavadinimo su deklaracijomis {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Nenustatyta jokių parinkčių, bet buvo perduotas vardas ({name}). Ar "
+"norėjote vietoj to pareikšti argumentą? Ar norėjote perduoti „--{name}“?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "numatytasis: {default}"
+
+msgid "required"
+msgstr "reikalaujama"
+
+msgid "(dynamic)"
+msgstr "(dinaminis)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumentai turi tiksliai vieną parametro deklaraciją, gavo {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Ar norite tęsti?"
+
+msgid "Confirm the action without prompting."
+msgstr "Patvirtinkite veiksmą be raginimo."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, versija %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Parodykite versiją ir išeikite."
+
+msgid "Show this message and exit."
+msgstr "Parodykite šį pranešimą ir išeikite."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Ar turėjote omenyje {possibility}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Klaida: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Išbandykite „{command} {option}“, kad gautumėte pagalbos."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Neteisinga vertė: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Netinkama {param_hint} vertė: {message}"
+
+msgid "Missing argument"
+msgstr "Trūksta argumento"
+
+msgid "Missing option"
+msgstr "Trūksta varianto"
+
+msgid "Missing parameter"
+msgstr "Trūksta parametro"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Trūksta {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Trūksta parametro: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Nėra tokios parinkties {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Nėra tokios komandos {name!r}."
+
+msgid "unknown error"
+msgstr "nežinoma klaida"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Nepavyko atidaryti failo {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Naudokite:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Netinkamas parinkties pradžios simbolis ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumentas {name!r} turi {nargs} vertes."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Parinktis {name!r} neturi reikšmės."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Parinktis {name!r} reikalauja argumento."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell užbaigimas nepalaikomas senesnėse nei 4.4 „Bash“ versijose."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Nepavyko aptikti „Bash“ versijos, apvalkalo užbaigimas nepalaikomas."
+
+msgid "Repeat for confirmation"
+msgstr "Pakartokite, kad patvirtintumėte"
+
+msgid "Error: The two entered values do not match."
+msgstr "Klaida: dvi įvestos reikšmės nesutampa."
+
+msgid "Error: invalid input"
+msgstr "Klaida: neteisinga įvestis"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Nežinoma spalva {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Norėdami tęsti, paspauskite bet kurį klavišą..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Pasirinkite iš:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} nėra {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Pasirinkimas ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} neatitinka formato {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} nėra tinkamas {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} nėra diapazone {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} nėra tinkama loginė vertė. Pripažintos vertės: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} nėra galiojantis UUID."
+
+msgid "file"
+msgstr "failą"
+
+msgid "directory"
+msgstr "katalogas"
+
+msgid "path"
+msgstr "kelias"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} neegzistuoja."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} yra failas."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} yra katalogas."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} neįskaitomas."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} nerašomas."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} nėra vykdomas."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Reikalingos {len_type} reikšmės, bet buvo pateikta {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Nežinomas standartinis srautas „{name}“"
+
+msgid "This field is required."
+msgstr "Šis laukas yra būtinas."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Failas neturi patvirtinto plėtinio: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Failas neturi patvirtinto plėtinio."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Failas turi būti nuo {min_size} iki {max_size} baitų."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Neteisingas lauko pavadinimas „%s“."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Laukas turi būti lygus %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Lauke turi būti bent %(min)d simbolio."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Laukas negali būti ilgesnis nei %(max)d simbolio."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Laukas turi būti tiksliai %(max)d simbolio ilgio."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Lauką turi sudaryti nuo %(min)d iki %(max)d simbolių."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Skaičius turi būti bent %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Skaičius turi būti ne didesnis kaip %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Skaičius turi būti nuo %(min)s iki %(max)s."
+
+msgid "Invalid input."
+msgstr "Neteisinga įvestis."
+
+msgid "Invalid email address."
+msgstr "Neteisingas el. pašto adresas."
+
+msgid "Invalid IP address."
+msgstr "Neteisingas IP adresas."
+
+msgid "Invalid Mac address."
+msgstr "Neteisingas „Mac“ adresas."
+
+msgid "Invalid URL."
+msgstr "Netinkamas URL."
+
+msgid "Invalid UUID."
+msgstr "Neteisingas UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Netinkama vertė, turi būti viena iš: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Netinkama vertė, negali būti nė viena iš: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Šio lauko redaguoti negalima."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Šis laukas išjungtas ir negali turėti reikšmės."
+
+msgid "Invalid CSRF Token."
+msgstr "Neteisingas CSRF prieigos raktas."
+
+msgid "CSRF token missing."
+msgstr "Trūksta CSRF prieigos rakto."
+
+msgid "CSRF failed."
+msgstr "CSRF nepavyko."
+
+msgid "CSRF token expired."
+msgstr "Baigėsi CSRF prieigos rakto galiojimo laikas."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Neteisingas pasirinkimas: nepavyko priversti."
+
+msgid "Choices cannot be None."
+msgstr "Pasirinkimų negali būti Jokių."
+
+msgid "Not a valid choice."
+msgstr "Netinkamas pasirinkimas."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Netinkamas (-i) pasirinkimas (-ai): nepavyko priverstinai įvesti vieno ar"
+" daugiau duomenų."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "„%(value)s“ nėra tinkamas šio lauko pasirinkimas."
+
+msgid "Not a valid datetime value."
+msgstr "Netinkama datos ir laiko reikšmė."
+
+msgid "Not a valid date value."
+msgstr "Netinkama datos vertė."
+
+msgid "Not a valid time value."
+msgstr "Netinkama laiko reikšmė."
+
+msgid "Not a valid week value."
+msgstr "Netinkama savaitės vertė."
+
+msgid "Not a valid integer value."
+msgstr "Netinkama sveikojo skaičiaus reikšmė."
+
+msgid "Not a valid decimal value."
+msgstr "Netinkama dešimtainė reikšmė."
+
+msgid "Not a valid float value."
+msgstr "Netinkama slankioji vertė."
+

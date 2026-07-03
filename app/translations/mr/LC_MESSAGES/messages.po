@@ -1,0 +1,1038 @@
+# Translations for MR.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: mr\n"
+"Language-Team: mr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "कृपया या पृष्ठावर प्रवेश करण्यासाठी लॉग इन करा."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "हा IMEI आधीच सिस्टममध्ये नोंदणीकृत आहे."
+
+msgid "Accès non autorisé."
+msgstr "अनधिकृत प्रवेश."
+
+msgid "Appareil déverrouillé."
+msgstr "डिव्हाइस अनलॉक केले."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "अलर्ट तयार केला! सूचना पाठवल्या."
+
+msgid "Alerte résolue."
+msgstr "अलर्ट सोडवला."
+
+msgid "Pas encore de compte ?"
+msgstr "अजून खाते नाही?"
+
+msgid "Mon Profil"
+msgstr "माझे प्रोफाइल"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "कनेक्शन यशस्वी झाले! स्वागत आहे."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "चुकीचा ईमेल किंवा पासवर्ड."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "सर्व आवश्यक फील्ड पूर्ण करणे आवश्यक आहे."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "पासवर्ड जुळत नाहीत."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "पासवर्डमध्ये किमान 6 वर्ण असणे आवश्यक आहे."
+
+msgid "Cet email est déjà utilisé."
+msgstr "हा ईमेल आधीपासूनच वापरात आहे."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "खाते यशस्वीरित्या तयार केले! लॉग इन करा."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "या ईमेलसह कोणतीही खाती आढळली नाहीत."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "फोन नंबर खाते क्रमांकाशी जुळत नाही."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "नवीन पासवर्ड अनिवार्य आहे."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "पासवर्ड यशस्वीरित्या रीसेट! लॉग इन करा."
+
+msgid "Vous avez été déconnecté."
+msgstr "तुमचा संपर्क खंडित झाला आहे."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "ब्रँड, मॉडेल आणि IMEI आवश्यक आहे."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "या IMEI सह डिव्हाइस आधीपासूनच अस्तित्वात आहे."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "डिव्हाइस यशस्वीरित्या नोंदणीकृत झाले!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "तुम्ही ही क्रिया करण्यासाठी अधिकृत नाही."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "डिव्हाइस दूरस्थपणे यशस्वीरित्या लॉक झाले."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "डिव्हाइस यशस्वीरित्या अनलॉक केले."
+
+msgid "Appareil supprimé."
+msgstr "डिव्हाइस हटवले."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "कृपया डिव्हाइस आणि सूचना प्रकार निवडा."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "हे डिव्हाइस तुमच्या मालकीचे नाही."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "अलर्ट यशस्वीरित्या कळवला. डिव्हाइस सुरक्षित केले गेले आहे."
+
+msgid "Alerte marquée comme résolue."
+msgstr "सूचना सोडवली म्हणून चिन्हांकित केली."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "नाव, आडनाव आणि ईमेल आवश्यक आहे."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "हा ईमेल आधीपासूनच दुसऱ्या खात्याद्वारे वापरला गेला आहे."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "प्रोफाइल यशस्वीरित्या अपडेट केले!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "प्रवेश प्रशासकांसाठी राखीव आहे."
+
+msgid "Erreur marquée comme résolue."
+msgstr "त्रुटी सोडवली म्हणून चिन्हांकित केली."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "तुम्ही तुमचे स्वतःचे खाते हटवू शकत नाही."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "वापरकर्ता यशस्वीरित्या हटवला."
+
+msgid "Administration"
+msgstr "प्रशासन"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "अँटी थेफ्ट सिस्टमचे केंद्रीकृत व्यवस्थापन"
+
+msgid "Utilisateurs"
+msgstr "वापरकर्ते"
+
+msgid "Actifs aujourd'hui"
+msgstr "आज सक्रिय"
+
+msgid "Nouveaux ce mois"
+msgstr "या महिन्यात नवीन"
+
+msgid "Appareils"
+msgstr "उपकरणे"
+
+msgid "Alertes actives"
+msgstr "सक्रिय सूचना"
+
+msgid "Analytique"
+msgstr "विश्लेषणात्मक"
+
+msgid "Journal d'activité"
+msgstr "क्रियाकलाप लॉग"
+
+msgid "Erreurs"
+msgstr "चुका"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "कनेक्शन (गेले 7 दिवस)"
+
+msgid "Alertes par type"
+msgstr "प्रकारानुसार सूचना"
+
+msgid "Appareils par opérateur"
+msgstr "ऑपरेटरद्वारे उपकरणे"
+
+msgid "Résumé du système"
+msgstr "सिस्टम सारांश"
+
+msgid "Utilisateurs total"
+msgstr "एकूण वापरकर्ते"
+
+msgid "Appareils enregistrés"
+msgstr "नोंदणीकृत उपकरणे"
+
+msgid "Total alertes"
+msgstr "एकूण सूचना"
+
+msgid "Alertes en cours"
+msgstr "वर्तमान सूचना"
+
+msgid "Erreurs non résolues"
+msgstr "निराकरण न झालेल्या त्रुटी"
+
+msgid "Dernières activités"
+msgstr "नवीनतम क्रियाकलाप"
+
+msgid "récentes"
+msgstr "अलीकडील"
+
+msgid "Utilisateur"
+msgstr "वापरकर्ता"
+
+msgid "Action"
+msgstr "कृती"
+
+msgid "Détails"
+msgstr "तपशील"
+
+msgid "Adresse IP"
+msgstr "IP पत्ता"
+
+msgid "Navigateur"
+msgstr "ब्राउझर"
+
+msgid "Date"
+msgstr "तारीख"
+
+msgid "Aucune activité"
+msgstr "क्रियाकलाप नाही"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "वापरकर्ता क्रियाकलाप येथे दिसून येतील."
+
+msgid "Journal d'erreurs"
+msgstr "त्रुटी लॉग"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "सर्व त्रुटींचे निराकरण करायचे?"
+
+msgid "Tout résoudre"
+msgstr "सर्व काही सोडवा"
+
+msgid "non résolues"
+msgstr "निराकरण न केलेले"
+
+msgid "Tout est résolu"
+msgstr "सर्व काही सोडवले जाते"
+
+msgid "Type"
+msgstr "दयाळू"
+
+msgid "Description"
+msgstr "वर्णन"
+
+msgid "Statut"
+msgstr "स्थिती"
+
+msgid "Résolu"
+msgstr "निराकरण केले"
+
+msgid "Non résolu"
+msgstr "निराकरण झाले नाही"
+
+msgid "Aucune erreur enregistrée"
+msgstr "कोणत्याही त्रुटी रेकॉर्ड केल्या नाहीत"
+
+msgid "Le système fonctionne correctement."
+msgstr "यंत्रणा व्यवस्थित काम करत आहे."
+
+msgid "Gestion des utilisateurs"
+msgstr "वापरकर्ता व्यवस्थापन"
+
+msgid "comptes"
+msgstr "खाती"
+
+msgid "Email"
+msgstr "ई-मेल"
+
+msgid "Téléphone"
+msgstr "फोन"
+
+msgid "Rôle"
+msgstr "भूमिका"
+
+msgid "Inscrit le"
+msgstr "वर नोंदणी केली"
+
+msgid "Actions"
+msgstr "क्रिया"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "हा वापरकर्ता आणि त्यांचे सर्व डिव्हाइस हटवायचे?"
+
+msgid "Vous"
+msgstr "आपण"
+
+msgid "Connexions"
+msgstr "जोडण्या"
+
+msgid "Vol"
+msgstr "उड्डाण"
+
+msgid "Perte"
+msgstr "तोटा"
+
+msgid "Anomalie"
+msgstr "विसंगती"
+
+msgid "Alertes"
+msgstr "इशारे"
+
+msgid "Gestion des alertes"
+msgstr "अलर्ट व्यवस्थापन"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "चोरी किंवा तोटा नोंदवा आणि इतिहासाचा मागोवा घ्या"
+
+msgid "Signaler un vol / perte"
+msgstr "चोरी/तोटा नोंदवा"
+
+msgid "En cours"
+msgstr "प्रगतीपथावर आहे"
+
+msgid "Résolues"
+msgstr "निराकरण केले"
+
+msgid "Historique des alertes"
+msgstr "इशारा इतिहास"
+
+msgid "Appareil"
+msgstr "साधन"
+
+msgid "Priorité"
+msgstr "प्राधान्य"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "ही सूचना सोडवली म्हणून चिन्हांकित करायची?"
+
+msgid "Résoudre"
+msgstr "सोडवा"
+
+msgid "Aucune alerte"
+msgstr "इशारा नाही"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "चांगली बातमी! कोणताही अलर्ट नोंदवला गेला नाही."
+
+msgid "Signaler un vol ou une perte"
+msgstr "चोरी किंवा तोटा नोंदवा"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"चोरीचा अहवाल दिल्याने, तुमचे डिव्हाइस स्वयंचलितपणे लॉक केले जाईल आणि "
+"सूचना पाठवल्या जातील."
+
+msgid "Appareil concerné"
+msgstr "प्रभावित डिव्हाइस"
+
+msgid "Sélectionner un appareil"
+msgstr "डिव्हाइस निवडा"
+
+msgid "Type d'alerte"
+msgstr "सूचना प्रकार"
+
+msgid "Décrivez les circonstances..."
+msgstr "परिस्थितीचे वर्णन करा..."
+
+msgid "Annuler"
+msgstr "रद्द करा"
+
+msgid "Signaler"
+msgstr "अहवाल द्या"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "इंटेलिजेंट अँटी-थेफ्ट सिस्टम - स्मार्टफोनसाठी सुरक्षा मंच"
+
+msgid "Système Anti-Vol"
+msgstr "अँटी-थेफ्ट सिस्टम"
+
+msgid "PRINCIPAL"
+msgstr "मुख्य"
+
+msgid "Tableau de bord"
+msgstr "डॅशबोर्ड"
+
+msgid "SÉCURITÉ"
+msgstr "सुरक्षितता"
+
+msgid "Géolocalisation"
+msgstr "भौगोलिक स्थान"
+
+msgid "ADMINISTRATION"
+msgstr "प्रशासन"
+
+msgid "Déconnexion"
+msgstr "डिस्कनेक्ट करा"
+
+msgid "Changer de langue"
+msgstr "भाषा बदला"
+
+msgid "Rechercher une langue..."
+msgstr "भाषा शोधा..."
+
+msgid "Profil"
+msgstr "प्रोफाइल"
+
+msgid "Changer de thème"
+msgstr "थीम बदला"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "तुमच्या डिव्हाइसच्या सुरक्षिततेचे विहंगावलोकन"
+
+msgid "Ajouter un appareil"
+msgstr "डिव्हाइस जोडा"
+
+msgid "Appareils volés"
+msgstr "चोरीला गेलेली उपकरणे"
+
+msgid "Verrouillés à distance"
+msgstr "दूरस्थपणे लॉक केलेले"
+
+msgid "Alertes récentes"
+msgstr "अलीकडील सूचना"
+
+msgid "Voir tout"
+msgstr "सर्व पहा"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "इशारा नाही. तुमचे डिव्हाइस सुरक्षित आहेत!"
+
+msgid "Mes appareils"
+msgstr "माझी उपकरणे"
+
+msgid "Aucun appareil enregistré"
+msgstr "कोणतीही उपकरणे नोंदणीकृत नाहीत"
+
+msgid "Ajouter"
+msgstr "ॲड"
+
+msgid "en attente"
+msgstr "होल्डवर"
+
+msgid "Gestion des appareils"
+msgstr "डिव्हाइस व्यवस्थापन"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "नोंदणी करा आणि तुमचे स्मार्टफोन व्यवस्थापित करा"
+
+msgid "Opérateur"
+msgstr "ऑपरेटर"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "हे डिव्हाइस दूरस्थपणे लॉक करायचे?"
+
+msgid "Verrouiller"
+msgstr "कुलूप"
+
+msgid "Déverrouiller"
+msgstr "अनलॉक करा"
+
+msgid "Supprimer cet appareil ?"
+msgstr "हे डिव्हाइस हटवायचे?"
+
+msgid "Supprimer"
+msgstr "हटवा"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "तुमचा पहिला स्मार्टफोन जोडा आणि त्याचे संरक्षण सुरू करा."
+
+msgid "Nouvel appareil"
+msgstr "नवीन उपकरण"
+
+msgid "Marque"
+msgstr "ब्रँड"
+
+msgid "Sélectionner"
+msgstr "निवडा"
+
+msgid "Autre"
+msgstr "इतर"
+
+msgid "Modèle"
+msgstr "मॉडेल"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "तुमच्या फोनवर *#06# टाइप करा"
+
+msgid "Système d'exploitation"
+msgstr "कार्यप्रणाली"
+
+msgid "Numéro de téléphone"
+msgstr "फोन नंबर"
+
+msgid "Enregistrer"
+msgstr "जतन करा"
+
+msgid "Connexion"
+msgstr "जोडणी"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "स्मार्टफोन सुरक्षा प्रणाली"
+
+msgid "Adresse email"
+msgstr "ई-मेल पत्ता"
+
+msgid "Mot de passe"
+msgstr "पासवर्ड"
+
+msgid "Se connecter"
+msgstr "लॉग इन करा"
+
+msgid "Mot de passe oublié ?"
+msgstr "पासवर्ड विसरलात?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"तुमच्याकडे आधीपासूनच खाते आहे का? अन्यथा, तुमचे खाते तयार करण्यासाठी पुढे"
+" जा!"
+
+msgid "Créer un compte"
+msgstr "खाते तयार करा"
+
+msgid "Sécurité maximale"
+msgstr "कमाल सुरक्षा"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "रिमोट लॉकिंगसह तुमचा वैयक्तिक डेटा संरक्षित करा"
+
+msgid "Localisation GPS"
+msgstr "GPS स्थान"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "रिअल टाइममध्ये आपल्या स्मार्टफोनचे अचूक स्थान शोधा"
+
+msgid "Alertes instantanées"
+msgstr "झटपट सूचना"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "चोरी झाल्यास एसएमएस, ईमेल आणि पुश सूचना प्राप्त करा"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "तुमची उपकरणे शोधा आणि जोखीम क्षेत्रे पहा"
+
+msgid "Aucun appareil"
+msgstr "कोणतेही साधन नाही"
+
+msgid "Zones à risque"
+msgstr "जोखीम क्षेत्रे"
+
+msgid "incidents"
+msgstr "घटना"
+
+msgid "Aucune zone signalée"
+msgstr "कोणतेही क्षेत्र नोंदवले नाही"
+
+msgid "Niveau"
+msgstr "पातळी"
+
+msgid "Incidents"
+msgstr "घटना"
+
+msgid "Profile utilisateur"
+msgstr "वापरकर्ता प्रोफाइल"
+
+msgid "Gérez vos informations personnelles"
+msgstr "तुमची वैयक्तिक माहिती व्यवस्थापित करा"
+
+msgid "Membre depuis"
+msgstr "पासून सदस्य"
+
+msgid "Modifier mes informations"
+msgstr "माझी माहिती संपादित करा"
+
+msgid "Prénom"
+msgstr "नाव"
+
+msgid "Nom"
+msgstr "नाव"
+
+msgid "Changer le mot de passe"
+msgstr "पासवर्ड बदला"
+
+msgid "Nouveau mot de passe"
+msgstr "नवीन पासवर्ड"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "बदलू ​​नये म्हणून रिक्त सोडा"
+
+msgid "Enregistrer les modifications"
+msgstr "बदल जतन करा"
+
+msgid "Inscription"
+msgstr "नोंदणी"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"तुमच्या डिव्हाइसच्या चांगल्या सुरक्षिततेसाठी अँटी-थेफ्टमध्ये तुमचे स्वागत"
+" आहे"
+
+msgid "Confirmer"
+msgstr "पुष्टी करा"
+
+msgid "Créer mon compte"
+msgstr "माझे खाते तयार करा"
+
+msgid "Déjà un compte ?"
+msgstr "आधीच खाते आहे?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "पासवर्ड रीसेट करा"
+
+msgid "Réinitialisation"
+msgstr "रीसेट करा"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "तुमची ओळख सत्यापित करण्यासाठी तुमचा ईमेल आणि फोन नंबर प्रविष्ट करा"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "नोंदणी दरम्यान वापरलेला क्रमांक"
+
+msgid "Minimum 6 caractères"
+msgstr "किमान 6 वर्ण"
+
+msgid "Confirmer le mot de passe"
+msgstr "पासवर्डची पुष्टी करा"
+
+msgid "Retourner à la"
+msgstr "कडे परत जा"
+
+msgid "page de connexion"
+msgstr "लॉगिन पृष्ठ"
+
+msgid "Vérification sécurisée"
+msgstr "सुरक्षित सत्यापन"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "तुमची ओळख तुमचा ईमेल आणि फोन नंबर वापरून सत्यापित केली जाते"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "किमान 6 वर्णांचा सुरक्षित पासवर्ड निवडा"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: संपादन अयशस्वी"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: संपादन अयशस्वी: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows त्रुटी: {error}"
+
+msgid "deprecated"
+msgstr "नापसंत"
+
+msgid "Options"
+msgstr "पर्याय"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "अनपेक्षित अतिरिक्त युक्तिवाद मिळाला ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "नापसंत चेतावणी: कमांड {name!r} नापसंत आहे.{extra_message}"
+
+msgid "Aborted!"
+msgstr "निरस्त केले!"
+
+msgid "Commands"
+msgstr "आज्ञा"
+
+msgid "Missing command."
+msgstr "गहाळ आदेश."
+
+msgid "Value must be an iterable."
+msgstr "मूल्य पुनरावृत्ती करण्यायोग्य असणे आवश्यक आहे."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} मूल्ये घेते परंतु 1 दिले."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "नापसंत चेतावणी: {param_type} {name!r} नापसंत आहे.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "'{name}' नाव दोनदा परिभाषित केले"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "बुलियन पर्याय {decl!r} सत्य/असत्य साठी समान ध्वज वापरू शकत नाही."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "घोषणेसह पर्यायासाठी नाव निर्धारित करू शकलो नाही {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"कोणतेही पर्याय परिभाषित केलेले नाहीत परंतु नाव पास केले गेले ({name}). "
+"त्याऐवजी तुम्हाला एक युक्तिवाद घोषित करायचे होते का? तुम्हाला '--{name}' "
+"पास करायचे होते का?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "डीफॉल्ट: {डिफॉल्ट}"
+
+msgid "required"
+msgstr "आवश्यक"
+
+msgid "(dynamic)"
+msgstr "(गतिशील)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"आर्ग्युमेंट्स अगदी एक पॅरामीटर डिक्लेरेशन घेतात, त्याला {length} मिळाले: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "तुम्हाला सुरू ठेवायचे आहे का?"
+
+msgid "Confirm the action without prompting."
+msgstr "सूचना न देता कृतीची पुष्टी करा."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, आवृत्ती %(आवृत्ती)s"
+
+msgid "Show the version and exit."
+msgstr "आवृत्ती दर्शवा आणि बाहेर पडा."
+
+msgid "Show this message and exit."
+msgstr "हा संदेश दाखवा आणि बाहेर पडा."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "तुम्हाला {possibility} म्हणायचे आहे का?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "एरर: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "मदतीसाठी '{command} {option}' वापरून पहा."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "अवैध मूल्य: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint} साठी अवैध मूल्य: {message}"
+
+msgid "Missing argument"
+msgstr "गहाळ युक्तिवाद"
+
+msgid "Missing option"
+msgstr "गहाळ पर्याय"
+
+msgid "Missing parameter"
+msgstr "गहाळ पॅरामीटर"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "गहाळ {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "गहाळ पॅरामीटर: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "असा पर्याय नाही {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "अशी कोणतीही आज्ञा {name!r} नाही."
+
+msgid "unknown error"
+msgstr "अज्ञात त्रुटी"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "फाइल उघडू शकलो नाही {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "वापरा:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "पर्यायासाठी अवैध प्रारंभ वर्ण ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "वितर्क {name!r} {nargs} मूल्ये घेते."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "पर्याय {name!r} हे मूल्य घेत नाही."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "पर्याय {name!r} ला युक्तिवाद आवश्यक आहे."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "4.4 पेक्षा जुन्या बॅश आवृत्त्यांसाठी शेल पूर्ण करणे समर्थित नाही."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "बॅश आवृत्ती शोधू शकलो नाही, शेल पूर्ण करणे समर्थित नाही."
+
+msgid "Repeat for confirmation"
+msgstr "पुष्टीकरणासाठी पुनरावृत्ती करा"
+
+msgid "Error: The two entered values do not match."
+msgstr "त्रुटी: दोन प्रविष्ट केलेली मूल्ये जुळत नाहीत."
+
+msgid "Error: invalid input"
+msgstr "त्रुटी: अवैध इनपुट"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "अज्ञात रंग {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "सुरू ठेवण्यासाठी कोणतीही की दाबा..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "यामधून निवडा:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} हे {choice} नाही."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "निवड({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} हे स्वरूप {format} शी जुळत नाही."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} हे वैध {number_type} नाही."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} श्रेणी {range} मध्ये नाही."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} हे वैध बुलियन नाही. मान्यताप्राप्त मूल्ये: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} हे वैध UUID नाही."
+
+msgid "file"
+msgstr "फाइल"
+
+msgid "directory"
+msgstr "निर्देशिका"
+
+msgid "path"
+msgstr "मार्ग"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} अस्तित्वात नाही."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} ही फाइल आहे."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} ही निर्देशिका आहे."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} वाचनीय नाही."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} लिहिण्यायोग्य नाही."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} एक्झिक्युटेबल नाही."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} मूल्ये आवश्यक आहेत, परंतु {len_value} दिली होती."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "अज्ञात मानक प्रवाह '{name}'"
+
+msgid "This field is required."
+msgstr "हे फील्ड आवश्यक आहे."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "फाइलमध्ये मंजूर विस्तार नाही: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "फाइलमध्ये मंजूर विस्तार नाही."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "फाइल {min_size} आणि {max_size} बाइट्स दरम्यान असणे आवश्यक आहे."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "अवैध फील्ड नाव '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "फील्ड %(other_name)s च्या समान असणे आवश्यक आहे."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "फील्ड किमान %(min)d वर्ण लांब असणे आवश्यक आहे."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "फील्ड %(कमाल)d वर्णापेक्षा जास्त लांब असू शकत नाही."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "फील्ड अचूक %(कमाल)d वर्ण लांब असणे आवश्यक आहे."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "फील्ड %(min)d आणि %(max)d वर्णांच्या दरम्यान असणे आवश्यक आहे."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "संख्या किमान %(min)s असणे आवश्यक आहे."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "संख्या जास्तीत जास्त %(कमाल)s असणे आवश्यक आहे."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "संख्या %(min)s आणि %(max)s मधील असणे आवश्यक आहे."
+
+msgid "Invalid input."
+msgstr "अवैध इनपुट."
+
+msgid "Invalid email address."
+msgstr "अवैध ईमेल पत्ता."
+
+msgid "Invalid IP address."
+msgstr "अवैध IP पत्ता."
+
+msgid "Invalid Mac address."
+msgstr "अवैध Mac पत्ता."
+
+msgid "Invalid URL."
+msgstr "अवैध URL."
+
+msgid "Invalid UUID."
+msgstr "अवैध UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "अवैध मूल्य, यापैकी एक असणे आवश्यक आहे: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "अवैध मूल्य, यापैकी कोणतेही असू शकत नाही: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "हे फील्ड संपादित केले जाऊ शकत नाही."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "हे फील्ड अक्षम आहे आणि मूल्य असू शकत नाही."
+
+msgid "Invalid CSRF Token."
+msgstr "अवैध CSRF टोकन."
+
+msgid "CSRF token missing."
+msgstr "CSRF टोकन गहाळ."
+
+msgid "CSRF failed."
+msgstr "CSRF अयशस्वी."
+
+msgid "CSRF token expired."
+msgstr "CSRF टोकन कालबाह्य झाले."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "अवैध निवड: जबरदस्ती करू शकत नाही."
+
+msgid "Choices cannot be None."
+msgstr "निवडी काहीही असू शकत नाहीत."
+
+msgid "Not a valid choice."
+msgstr "वैध निवड नाही."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "अवैध निवड(चे): एक किंवा अधिक डेटा इनपुट जबरदस्तीने करता आले नाहीत."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "या फील्डसाठी '%(value)s' ही वैध निवड नाही."
+
+msgid "Not a valid datetime value."
+msgstr "वैध तारीख वेळ मूल्य नाही."
+
+msgid "Not a valid date value."
+msgstr "वैध तारीख मूल्य नाही."
+
+msgid "Not a valid time value."
+msgstr "वैध वेळ मूल्य नाही."
+
+msgid "Not a valid week value."
+msgstr "वैध आठवड्याचे मूल्य नाही."
+
+msgid "Not a valid integer value."
+msgstr "वैध पूर्णांक मूल्य नाही."
+
+msgid "Not a valid decimal value."
+msgstr "वैध दशांश मूल्य नाही."
+
+msgid "Not a valid float value."
+msgstr "वैध फ्लोट मूल्य नाही."
+

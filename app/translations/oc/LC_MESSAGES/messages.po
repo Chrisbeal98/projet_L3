@@ -1,0 +1,1049 @@
+# Translations for OC.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: oc\n"
+"Language-Team: oc <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Mercés de vos connectar per accedir a aquesta pagina."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Aqueste IMEI es ja enregistrat dins lo sistèma."
+
+msgid "Accès non autorisé."
+msgstr "Accès non autorizat."
+
+msgid "Appareil déverrouillé."
+msgstr "Dispositiu desblocat."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alèrta creada! Notificacions mandadas."
+
+msgid "Alerte résolue."
+msgstr "Alèrta resolguda."
+
+msgid "Pas encore de compte ?"
+msgstr "Pas de compte encara?"
+
+msgid "Mon Profil"
+msgstr "Mon perfil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "La connexion capitada! Benvengut."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Corrièl o senhal incorrèctes."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Totes los camps obligatòris devon èsser completats."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Los senhals correspondon pas."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Lo senhal deu conténer al mens 6 caractèrs."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Aqueste corrièl es ja utilizat."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Compte creat amb succès! Connectatz-vos."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Cap de compte pas trobat amb aqueste corrièl."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Lo numèro de telefòn correspond pas al numèro de compte."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Lo novèl senhal es obligatòri."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Reïnicializar lo senhal amb succès! Connectatz-vos."
+
+msgid "Vous avez été déconnecté."
+msgstr "Sètz estat desconnectat."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Marca, modèl e IMEI son requerits."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Un periferic amb aqueste IMEI existís ja."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Dispositiu enregistrat amb succès!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Sètz pas autorizat a efectuar aquesta accion."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Lo periferic verrolhat a distància amb succès."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Lo periferic desblocat amb succès."
+
+msgid "Appareil supprimé."
+msgstr "Dispositiu suprimit."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Seleccionatz un periferic e un tipe d'alèrta."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Aqueste periferic vos aparten pas."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alèrta reportada amb succès. Lo periferic es estat assegurat."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alèrta marcada coma resolguda."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Lo nom, lo nom de familha e lo corrièl son obligatòris."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Aqueste corrièl es ja utilizat per un autre compte."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Perfil mes a jorn amb succès!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "L'accès reservat als administrators."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Error marcada coma resolguda."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Podètz pas suprimir vòstre pròpri compte."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Utilizaire suprimit amb succès."
+
+msgid "Administration"
+msgstr "Administracion"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Gestion centralizada del sistèma Antifurt"
+
+msgid "Utilisateurs"
+msgstr "Utilizaires"
+
+msgid "Actifs aujourd'hui"
+msgstr "Actiu uèi"
+
+msgid "Nouveaux ce mois"
+msgstr "Novèl aqueste mes"
+
+msgid "Appareils"
+msgstr "Dispositius"
+
+msgid "Alertes actives"
+msgstr "Alèrtas activas"
+
+msgid "Analytique"
+msgstr "Analitica"
+
+msgid "Journal d'activité"
+msgstr "Jornal d'activitats"
+
+msgid "Erreurs"
+msgstr "D'errors"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Connexions (7 darrièrs jorns)"
+
+msgid "Alertes par type"
+msgstr "Alèrtas per tipe"
+
+msgid "Appareils par opérateur"
+msgstr "Dispositius per operator"
+
+msgid "Résumé du système"
+msgstr "Resumit del sistèma"
+
+msgid "Utilisateurs total"
+msgstr "Total d'utilizaires"
+
+msgid "Appareils enregistrés"
+msgstr "Dispositius enregistrats"
+
+msgid "Total alertes"
+msgstr "Total d'alèrtas"
+
+msgid "Alertes en cours"
+msgstr "Alèrtas actualas"
+
+msgid "Erreurs non résolues"
+msgstr "D'errors non resoludas"
+
+msgid "Dernières activités"
+msgstr "Las darrièras activitats"
+
+msgid "récentes"
+msgstr "recent"
+
+msgid "Utilisateur"
+msgstr "Utilizaire"
+
+msgid "Action"
+msgstr "Accion"
+
+msgid "Détails"
+msgstr "Detalhs"
+
+msgid "Adresse IP"
+msgstr "Adreça IP"
+
+msgid "Navigateur"
+msgstr "Navigador"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Aucune activité"
+msgstr "Cap d'activitat"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Las activitats de l'utilizaire apareisseràn aicí."
+
+msgid "Journal d'erreurs"
+msgstr "Jornal d'errors"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Corregir totas las errors?"
+
+msgid "Tout résoudre"
+msgstr "Resolver tot"
+
+msgid "non résolues"
+msgstr "pas resolut"
+
+msgid "Tout est résolu"
+msgstr "Tot es resolgut"
+
+msgid "Type"
+msgstr "Brave"
+
+msgid "Description"
+msgstr "Descripcion"
+
+msgid "Statut"
+msgstr "Estatut"
+
+msgid "Résolu"
+msgstr "Resolgut"
+
+msgid "Non résolu"
+msgstr "Pas resolut"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Cap d'error enregistrada"
+
+msgid "Le système fonctionne correctement."
+msgstr "Lo sistèma fonciona corrèctament."
+
+msgid "Gestion des utilisateurs"
+msgstr "Gestion de l'utilizaire"
+
+msgid "comptes"
+msgstr "comptes"
+
+msgid "Email"
+msgstr "Corrièl electronic"
+
+msgid "Téléphone"
+msgstr "Telefòn"
+
+msgid "Rôle"
+msgstr "Ròtle"
+
+msgid "Inscrit le"
+msgstr "Inscrich sus"
+
+msgid "Actions"
+msgstr "Accions"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Suprimir aqueste utilizaire e totes sos periferics ?"
+
+msgid "Vous"
+msgstr "TU"
+
+msgid "Connexions"
+msgstr "Connexions"
+
+msgid "Vol"
+msgstr "Vòl"
+
+msgid "Perte"
+msgstr "Pèrda"
+
+msgid "Anomalie"
+msgstr "Anomalia"
+
+msgid "Alertes"
+msgstr "Alèrtas"
+
+msgid "Gestion des alertes"
+msgstr "Gestion d'alèrtas"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Raportar lo panatòri o la pèrda e seguir l'istoric"
+
+msgid "Signaler un vol / perte"
+msgstr "Raportar lo panatòri/pèrda"
+
+msgid "En cours"
+msgstr "En cors"
+
+msgid "Résolues"
+msgstr "Resolgut"
+
+msgid "Historique des alertes"
+msgstr "Istoric d'alèrtas"
+
+msgid "Appareil"
+msgstr "Aparelh"
+
+msgid "Priorité"
+msgstr "Prioritat"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Marcar aquesta alèrta coma resolguda ?"
+
+msgid "Résoudre"
+msgstr "Resòlvre"
+
+msgid "Aucune alerte"
+msgstr "Pas d'alèrta"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "De bonas novèlas! Cap d'alèrta es pas estada senhalada."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Denonciar lo panatòri o la pèrda"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"En senhalant un panatòri, vòstre periferic serà automaticament verrolhat "
+"e de notificacions seràn mandadas."
+
+msgid "Appareil concerné"
+msgstr "Dispositiu afectat"
+
+msgid "Sélectionner un appareil"
+msgstr "Seleccionatz un periferic"
+
+msgid "Type d'alerte"
+msgstr "Tipe d'alèrta"
+
+msgid "Décrivez les circonstances..."
+msgstr "Descriu las circonstàncias..."
+
+msgid "Annuler"
+msgstr "Anullar"
+
+msgid "Signaler"
+msgstr "Rapòrt"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Sistèma antivolt intelligent — Plataforma de seguretat pels telefòns "
+"intelligents"
+
+msgid "Système Anti-Vol"
+msgstr "Sistèma antipanatòri"
+
+msgid "PRINCIPAL"
+msgstr "PRINCIPAL"
+
+msgid "Tableau de bord"
+msgstr "Tablèu de bòrd"
+
+msgid "SÉCURITÉ"
+msgstr "SEGURETAT"
+
+msgid "Géolocalisation"
+msgstr "Geolocalizacion"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRACION"
+
+msgid "Déconnexion"
+msgstr "Desconnectar"
+
+msgid "Changer de langue"
+msgstr "Cambiar de lenga"
+
+msgid "Rechercher une langue..."
+msgstr "Cercar una lenga..."
+
+msgid "Profil"
+msgstr "Perfil"
+
+msgid "Changer de thème"
+msgstr "Cambiar lo tèma"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Vista generala de la seguretat de vòstre periferic"
+
+msgid "Ajouter un appareil"
+msgstr "Apondre un periferic"
+
+msgid "Appareils volés"
+msgstr "Dispositius panats"
+
+msgid "Verrouillés à distance"
+msgstr "Blocat a distància"
+
+msgid "Alertes récentes"
+msgstr "D'alèrtas recentas"
+
+msgid "Voir tout"
+msgstr "Veire tot"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Pas d'alèrta. Vòstres periferics son segurs!"
+
+msgid "Mes appareils"
+msgstr "Mos periferics"
+
+msgid "Aucun appareil enregistré"
+msgstr "Cap de periferic enregistrat"
+
+msgid "Ajouter"
+msgstr "Apondre"
+
+msgid "en attente"
+msgstr "en espèra"
+
+msgid "Gestion des appareils"
+msgstr "Gestion dels periferics"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Enregistratz-vos e gestionatz vòstres telefòns intelligents"
+
+msgid "Opérateur"
+msgstr "Operator"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Verrolhar aqueste periferic a distància ?"
+
+msgid "Verrouiller"
+msgstr "Clavar"
+
+msgid "Déverrouiller"
+msgstr "Desblocar"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Suprimir aqueste periferic ?"
+
+msgid "Supprimer"
+msgstr "ESCAFAR"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Apondètz vòstre primièr smartphone per començar de lo protegir."
+
+msgid "Nouvel appareil"
+msgstr "Dispositiu novèl"
+
+msgid "Marque"
+msgstr "Marca"
+
+msgid "Sélectionner"
+msgstr "Causir"
+
+msgid "Autre"
+msgstr "Autre"
+
+msgid "Modèle"
+msgstr "Modèl"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "picatz *#06# sus vòstre telefòn"
+
+msgid "Système d'exploitation"
+msgstr "Sistèma operatiu"
+
+msgid "Numéro de téléphone"
+msgstr "Numèro de telefòn"
+
+msgid "Enregistrer"
+msgstr "Salvar"
+
+msgid "Connexion"
+msgstr "Connexion"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistèma de seguretat de telefòn intelligent"
+
+msgid "Adresse email"
+msgstr "Adreça de corrièl"
+
+msgid "Mot de passe"
+msgstr "Senhal"
+
+msgid "Se connecter"
+msgstr "Connectatz-vos"
+
+msgid "Mot de passe oublié ?"
+msgstr "Senhal oblidat?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Avètz ja un compte? Autrament, contunhatz a crear vòstre compte !"
+
+msgid "Créer un compte"
+msgstr "Crear un compte"
+
+msgid "Sécurité maximale"
+msgstr "Seguretat maximala"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Protegir vòstras donadas personalas amb un verrolhatge a distància"
+
+msgid "Localisation GPS"
+msgstr "Emplaçament GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Trobatz l'emplaçament exacte de vòstre smartphone en temps real"
+
+msgid "Alertes instantanées"
+msgstr "Alèrtas instantanèas"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Recebre de notificacions SMS, corrièl e push en cas de panatòri"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Localizatz vòstres periferics e visualizatz las zònas de risc"
+
+msgid "Aucun appareil"
+msgstr "Cap de periferic"
+
+msgid "Zones à risque"
+msgstr "Zonas de risc"
+
+msgid "incidents"
+msgstr "incidents"
+
+msgid "Aucune zone signalée"
+msgstr "Cap d'airal pas raportat"
+
+msgid "Niveau"
+msgstr "Nivèl"
+
+msgid "Incidents"
+msgstr "Incidents"
+
+msgid "Profile utilisateur"
+msgstr "Perfil d'utilizaire"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Gestionatz vòstras informacions personalas"
+
+msgid "Membre depuis"
+msgstr "Membre dempuèi"
+
+msgid "Modifier mes informations"
+msgstr "Modificar mas informacions"
+
+msgid "Prénom"
+msgstr "Prenom"
+
+msgid "Nom"
+msgstr "Nom"
+
+msgid "Changer le mot de passe"
+msgstr "Cambiar lo senhal"
+
+msgid "Nouveau mot de passe"
+msgstr "Novèl senhal"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "daissar void per pas cambiar"
+
+msgid "Enregistrer les modifications"
+msgstr "Enregistrar las modificacions"
+
+msgid "Inscription"
+msgstr "Inscripcion"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Benvenguda a Anti-Theft per una melhora seguretat de vòstres periferics"
+
+msgid "Confirmer"
+msgstr "Confirmar"
+
+msgid "Créer mon compte"
+msgstr "Crear mon compte"
+
+msgid "Déjà un compte ?"
+msgstr "Avètz ja un compte?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Reïnicializar lo senhal"
+
+msgid "Réinitialisation"
+msgstr "Reïnicializar"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Picatz vòstre corrièl e vòstre numèro de telefòn per verificar vòstra "
+"identitat"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Lo numèro utilizat pendent l'inscripcion"
+
+msgid "Minimum 6 caractères"
+msgstr "Un minimum de 6 caractèrs"
+
+msgid "Confirmer le mot de passe"
+msgstr "Confirmar lo senhal"
+
+msgid "Retourner à la"
+msgstr "Tornar a"
+
+msgid "page de connexion"
+msgstr "pagina de connexion"
+
+msgid "Vérification sécurisée"
+msgstr "Verificacion segura"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Vòstra identitat es verificada en utilizant vòstre corrièl e vòstre "
+"numèro de telefòn"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Causissètz un senhal segur d'al mens 6 caractèrs"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: L'edicion a fracassat"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: L'edicion a fracassat : {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Error de Windows : {error}"
+
+msgid "deprecated"
+msgstr "obsolèt"
+
+msgid "Options"
+msgstr "Opcions"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Avètz un argument suplementari inesperat ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: La comanda {name!r} es obsoleta.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Avortat!"
+
+msgid "Commands"
+msgstr "Comandas"
+
+msgid "Missing command."
+msgstr "Comanda mancanta."
+
+msgid "Value must be an iterable."
+msgstr "La valor deu èsser una iterabla."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Pren de valors {nargs} mas 1 foguèt donat."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: Lo {param_type} {name!r} es obsolet.{extra_messatge}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Lo nom « {nom} » definit dos còps"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"L'opcion booleana {decl!r} pòt pas utilizar lo meteis senhal per "
+"true/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr ""
+"Impossible de determinar lo nom per l'opcion amb las declaracions "
+"{decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Cap d'opcion definida mas un nom es estat passat ({name}). Voliás "
+"declarar un argument a la plaça? Voliás passar '--{name}' ?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "per defaut : {per defaut}"
+
+msgid "required"
+msgstr "exigit"
+
+msgid "(dynamic)"
+msgstr "(dinamic)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Los arguments prenon exactament una declaracion de paramètre, got "
+"{length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Volètz contunhar?"
+
+msgid "Confirm the action without prompting."
+msgstr "Confirmatz l'accion sens demandar."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, version %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Afichar la version e sortir."
+
+msgid "Show this message and exit."
+msgstr "Afichar aqueste messatge e sortir."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Voliás dire {possibilitat}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Error : {messatge}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Ensajatz '{command} {option}' per ajuda."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Valor invalida : {messatge}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Valor invalida per {param_hint} : {messatge}"
+
+msgid "Missing argument"
+msgstr "Argument mancant"
+
+msgid "Missing option"
+msgstr "Opcion mancanta"
+
+msgid "Missing parameter"
+msgstr "Paramètre mancant"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Mancant {tipe_param}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Paramètre mancant : {nom_paramètre}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Pas d'aquela opcion {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Pas de comanda aital {name!r}."
+
+msgid "unknown error"
+msgstr "error desconeguda"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Impossible de dobrir lo fichièr {nom de fichièr!r} : {messatge}"
+
+msgid "Usage:"
+msgstr "Utilizar:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Caractèr de començament invalid per l'opcion ({opcion})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "L'argument {nom!r} pren de valors {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "L'opcion {name!r} pren pas de valor."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "L'opcion {name!r} demanda un argument."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"La completacion de l'intèrpret es pas presa en carga per las versions "
+"Bash mai ancianas que 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Impossible de detectar la version Bash, la completacion de l'intèrpret es"
+" pas presa en carga."
+
+msgid "Repeat for confirmation"
+msgstr "Repetir per la confirmacion"
+
+msgid "Error: The two entered values do not match."
+msgstr "Error : las doas valors picadas correspondon pas."
+
+msgid "Error: invalid input"
+msgstr "Error : entrada invalida"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Color desconeguda {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Picatz quina tòca que siá per contunhar..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Causissètz entre:\\n\\t{causidas}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{valor!r} es pas {causida}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Causida({causidas})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} correspond pas al format {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{valor!r} es pas un {tipe_nombre} valid."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{valor} es pas dins l'interval {interval}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} es pas un boolean valid. Valors reconegudas : {estats}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} es pas un UUID valid."
+
+msgid "file"
+msgstr "fichièr"
+
+msgid "directory"
+msgstr "repertòri"
+
+msgid "path"
+msgstr "camin"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} existís pas."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{nom} {nom de fichièr!r} es un fichièr."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{nom} {nom de fichièr!r} es un repertòri."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} es pas legible."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} es pas escrivible."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{nom} {nom de fichièr!r} es pas executable."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Las valors {len_type} son requeridas, mas {len_value} es estada donada."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Flux estandard desconegut « {name} »."
+
+msgid "This field is required."
+msgstr "Aqueste camp es obligatòri."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Fichièr a pas d'extension aprovada : {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Fichièr a pas una extension aprovada."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Lo fichièr deu èsser entre los octets {talha_min_size} e {talha_maximala}."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Nom de camp « %s » invalid."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Lo camp deu èsser egal a %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Lo camp deu aver al mens %(min)d caractèr de long."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Lo camp pòt pas èsser mai long que %(max)d caractèr."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Lo camp deu aver exactament %(max)d caractèr de long."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Lo camp deu aver entre %(min)d e %(max)d caractèrs de long."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Lo nombre deu èsser al mens %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Lo nombre deu èsser al maximum %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Lo nombre deu èsser entre %(min)s e %(max)s."
+
+msgid "Invalid input."
+msgstr "Entrada invalida."
+
+msgid "Invalid email address."
+msgstr "Adreça electronica invalida."
+
+msgid "Invalid IP address."
+msgstr "Adreça IP invalida."
+
+msgid "Invalid Mac address."
+msgstr "Adreça Mac invalida."
+
+msgid "Invalid URL."
+msgstr "URL invalida."
+
+msgid "Invalid UUID."
+msgstr "UUID invalid."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Valor invalida, deu èsser una de : %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Valor invalida, pòt pas èsser cap de: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Aqueste camp pòt pas èsser modificat."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Aqueste camp es desactivat e pòt pas aver una valor."
+
+msgid "Invalid CSRF Token."
+msgstr "Geton CSRF invalid."
+
+msgid "CSRF token missing."
+msgstr "Geton CSRF mancant."
+
+msgid "CSRF failed."
+msgstr "CSRF a fracassat."
+
+msgid "CSRF token expired."
+msgstr "Lo jeton CSRF expirat."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Causida invalida: poguèt pas coercir."
+
+msgid "Choices cannot be None."
+msgstr "Las causidas pòdon pas èsser Cap."
+
+msgid "Not a valid choice."
+msgstr "Pas una causida valida."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Causida(s) invalida(s): una o mai d'entradas de donadas poguèron pas "
+"èsser coercidas."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "« %(value)s » es pas una causida valida per aqueste camp."
+
+msgid "Not a valid datetime value."
+msgstr "Pas una valor de dataora valida."
+
+msgid "Not a valid date value."
+msgstr "Pas una valor de data valida."
+
+msgid "Not a valid time value."
+msgstr "Pas una valor de temps valida."
+
+msgid "Not a valid week value."
+msgstr "Pas una valor de setmana valida."
+
+msgid "Not a valid integer value."
+msgstr "Pas una valor entièra valida."
+
+msgid "Not a valid decimal value."
+msgstr "Pas una valor decimala valida."
+
+msgid "Not a valid float value."
+msgstr "Pas una valor de flotacion valida."
+

@@ -1,0 +1,1029 @@
+# Translations for IU.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: iu\n"
+"Language-Team: iu <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "ᐊᑏ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᓗᑎᑦ ᑖᔅᓱᒥᖓ ᒪᒃᐱᒐᕐᒥᒃ ᑕᑯᓂᐊᕐᓗᑎᑦ."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "ᑖᓐᓇ IMEI ᑎᑎᕋᖅᑕᐅᓯᒪᓕᕇᖅᑐᖅ ᖃᕆᑕᐅᔭᒃᑯᑦ."
+
+msgid "Accès non autorisé."
+msgstr "ᐱᔪᓐᓇᐅᑎᖃᙱᑦᑐᓄᑦ ᐃᓯᕈᓐᓇᕐᓂᖅ."
+
+msgid "Appareil déverrouillé."
+msgstr "ᖃᕆᑕᐅᔭᖅ ᒪᑐᐃᖓᔪᖅ."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "ᖃᐅᔨᒃᑲᐃᔾᔪᑎ ᓴᖅᑭᑕᐅᔪᖅ! ᖃᐅᔨᒃᑲᐃᔾᔪᑏᑦ ᐊᐅᓪᓚᖅᑎᑕᐅᓯᒪᔪᑦ."
+
+msgid "Alerte résolue."
+msgstr "ᖃᐅᔨᒃᑲᐃᔾᔪᑎ ᐋᖅᑭᒃᑕᐅᔪᖅ."
+
+msgid "Pas encore de compte ?"
+msgstr "ᐊᑭᓕᒃᓴᖃᓐᖏᓚᑎᑦ ᓱᓕ?"
+
+msgid "Mon Profil"
+msgstr "ᓇᓗᓇᐃᔭᖅᓯᒪᓂᕆᔭᕋ"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "ᑲᓱᖅᓯᒪᓂᖅ ᑲᔪᓯᑦᑎᐊᖅᑐᖅ! ᑐᙵᓱᒋᑦ."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "ᑕᒻᒪᖅᓯᒪᔪᖅ ᐃᕐᖐᓐᓈᖅᑕᐅᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓇᕿᑦᑕᒐᖅ."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "ᑕᒪᕐᒥᒃ ᐱᔭᕆᐊᖃᖅᑐᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐱᔭᕇᖅᑕᐅᓯᒪᔭᕆᐊᖃᖅᐳᑦ."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "ᓇᕿᑦᑕᒐᐃᑦ ᐊᔾᔨᒌᙱᒻᒪᑕ."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "ᓇᕿᑦᑕᒐᖅ ᐃᓗᓕᖃᕆᐊᖃᖅᐳᖅ 6-ᓂᒃ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ."
+
+msgid "Cet email est déjà utilisé."
+msgstr "ᑖᓐᓇ ᐃᕐᖐᓐᓈᖅᑕᐅᑦ ᐊᑐᖅᑕᐅᔭᕇᖅᑐᖅ."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "ᐊᑭᓕᒃᓴᖅ ᓴᖅᑭᑕᐅᑦᑎᐊᖅᑐᖅ! ᐃᓯᕐᓗᑎᑦ."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "ᓇᓂᔭᐅᓯᒪᙱᑦᑐᑦ ᐊᑭᓕᒃᓴᐃᑦ ᑖᔅᓱᒧᖓ ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒧᑦ."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "ᐅᖄᓚᐅᑎᐅᑉ ᓈᓴᐅᑎᖓ ᐊᔾᔨᒋᙱᒻᒪᒍ ᑮᓇᐅᔭᒃᑯᕕᐅᑉ ᓈᓴᐅᑎᖓᑕ."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "ᓄᑖᖅ ᓇᕿᑦᑕᒐᖅ ᐊᑐᖅᑕᐅᔭᕆᐊᖃᓪᓚᕆᒃᑐᖅ."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "ᓇᕿᑦᑕᒐᖅ ᐋᖅᑭᒃᑕᐅᒃᑲᓐᓂᖅᑐᖅ ᑲᔪᓯᑦᑎᐊᖅᑐᖅ! ᐃᓯᕐᓗᑎᑦ."
+
+msgid "Vous avez été déconnecté."
+msgstr "ᐲᖅᑕᐅᓯᒪᓕᕋᕕᑦ."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "ᓇᓗᓇᐃᒃᑯᑕᖓ, ᐆᑦᑑᑎᖓ ᐊᒻᒪ IMEI ᐱᑕᖃᕆᐊᖃᖅᐳᑦ."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "ᑖᓐᓇ IMEI-ᖃᖅᑐᖅ ᐱᑕᖃᕇᖅᑐᖅ."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "ᖃᕆᑕᐅᔭᖅ ᑎᑎᕋᖅᑕᐅᓯᒪᑦᑎᐊᖅᑐᖅ!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "ᐱᔪᓐᓇᕐᓂᖃᙱᓚᑎᑦ ᑕᒪᑐᒥᖓ ᖃᓄᐃᓕᐅᕈᓐᓇᕐᓂᕐᒥᒃ."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "ᖃᕆᑕᐅᔭᖅ ᐅᖓᓯᒃᑐᒥ ᒪᑐᔭᐅᓯᒪᑦᑎᐊᖅᑐᖅ."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "ᖃᕆᑕᐅᔭᖅ ᒪᑐᐃᖅᑕᐅᑦᑎᐊᖅᑐᖅ."
+
+msgid "Appareil supprimé."
+msgstr "ᖃᕆᑕᐅᔭᖅ ᐲᖅᑕᐅᓯᒪᔪᖅ."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "ᐊᑏ ᓂᕈᐊᕐᓗᒍ ᖃᕆᑕᐅᔭᖅ ᐊᒻᒪᓗ ᖃᐅᔨᒃᑲᐃᔾᔪᑎ ᖃᓄᐃᑦᑑᓂᖓ."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "ᑖᓐᓇ ᖃᕆᑕᐅᔭᖅ ᐃᓕᖕᓄᑦ ᐱᒋᔭᐅᙱᓚᖅ."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "ᐅᔾᔨᖅᓱᖁᔨᓂᖅ ᐅᓂᒃᑳᓕᐊᖅ ᑲᔪᓯᑦᑎᐊᖅᑐᖅ. ᑖᓐᓇ ᓱᓇᒃᑯᑖᖅ ᓴᐳᔾᔭᐅᓯᒪᓕᖅᑐᖅ."
+
+msgid "Alerte marquée comme résolue."
+msgstr "ᐅᔾᔨᖅᓱᖁᔨᓂᖅ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᔪᖅ ᐋᖅᑭᒃᑕᐅᓯᒪᓕᕐᓂᕋᖅᑕᐅᓪᓗᓂ."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "ᐊᑎᖅ, ᐊᑎᕈᓯᖅ ᐊᒻᒪ ᐃᕐᖐᓐᓈᖅᑕᐅᑦ ᐱᔭᕆᐊᖃᖅᐳᑦ."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "ᑖᓐᓇ ᐃᕐᖐᓐᓈᖅᑕᐅᑦ ᐊᑐᖅᑕᐅᔭᕇᖅᑐᖅ ᐊᓯᐊᓄᑦ ᐊᑭᓕᒃᓴᒧᑦ."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "ᓇᓗᓇᐃᔭᖅᓯᒪᔪᖅ ᓄᑖᙳᕆᐊᖅᑕᐅᓯᒪᔪᖅ ᑲᔪᓯᑦᑎᐊᖅᑐᒃᑯᑦ!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "ᐊᑐᐃᓐᓇᖃᕐᓂᖅ ᓴᓂᕐᕙᒃᑕᐅᓯᒪᔪᖅ ᐊᐅᓚᑦᑎᔨᓄᑦ."
+
+msgid "Erreur marquée comme résolue."
+msgstr "ᑕᒻᒪᖅᓯᒪᔪᖅ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᔪᖅ ᐋᖅᑭᒃᑕᐅᓯᒪᓕᕐᓂᕋᖅᑕᐅᓪᓗᓂ."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "ᐲᖅᓯᔪᓐᓇᙱᓚᑎᑦ ᓇᖕᒥᓂᖅ ᐊᑭᓕᒃᓴᕆᔭᕐᓂᒃ."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "ᐊᑐᖅᑎ ᐲᖅᑕᐅᑦᑎᐊᖅᑐᖅ."
+
+msgid "Administration"
+msgstr "ᐊᓪᓚᕝᕕᓕᕆᓂᖅ"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "ᐊᑕᐅᓯᕐᒨᖓᔪᒥᒃ ᐊᐅᓚᑦᑎᓂᖅ ᑎᓪᓕᒐᖅᑕᐅᑦᑕᐃᓕᒪᓂᕐᒧᑦ ᐋᖅᑭᒃᓯᒪᓂᐅᔪᒥᒃ"
+
+msgid "Utilisateurs"
+msgstr "ᐊᑐᖅᑏᑦ"
+
+msgid "Actifs aujourd'hui"
+msgstr "ᐅᓪᓗᒥ ᐆᒻᒪᕆᒃᑐᖅ"
+
+msgid "Nouveaux ce mois"
+msgstr "ᓄᑖᖅ ᑕᒪᑐᒪᓂ ᑕᖅᑭᒥ"
+
+msgid "Appareils"
+msgstr "ᓱᓇᒃᑯᑖᑦ"
+
+msgid "Alertes actives"
+msgstr "ᐊᑐᖅᑐᑦ ᖃᐅᔨᒃᑲᐃᔾᔪᑏᑦ"
+
+msgid "Analytique"
+msgstr "ᖃᐅᔨᓴᕐᓂᖅ"
+
+msgid "Journal d'activité"
+msgstr "ᐱᓕᕆᐊᖑᔪᑦ ᑎᑎᕋᖅᑕᐅᓯᒪᔪᑦ"
+
+msgid "Erreurs"
+msgstr "ᑕᒻᒪᖅᓯᒪᔪᑦ"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "ᑲᓱᖅᓯᒪᓂᖏᑦ (ᐅᓪᓗᐃᑦ 7 ᑭᖑᓪᓕᖅᐹᑦ)"
+
+msgid "Alertes par type"
+msgstr "ᖃᐅᔨᒃᑲᐃᔾᔪᑏᑦ ᖃᓄᐃᑦᑑᓂᖏᑦ ᒪᓕᒡᓗᒋᑦ"
+
+msgid "Appareils par opérateur"
+msgstr "ᖃᕆᑕᐅᔭᐃᑦ ᐊᐅᓚᑦᑎᔨᑎᒍᑦ"
+
+msgid "Résumé du système"
+msgstr "ᖃᕆᑕᐅᔭᒃᑯᑦ ᓇᐃᓈᖅᓯᒪᔪᑦ"
+
+msgid "Utilisateurs total"
+msgstr "ᑲᑎᖦᖢᒋᑦ ᐊᑐᖅᐸᒃᑐᑦ"
+
+msgid "Appareils enregistrés"
+msgstr "ᑎᑎᕋᖅᑕᐅᓯᒪᔪᑦ ᖃᕆᑕᐅᔭᐃᑦ"
+
+msgid "Total alertes"
+msgstr "ᑲᑎᖦᖢᒋᑦ ᖃᐅᔨᒃᑲᐃᔾᔪᑏᑦ"
+
+msgid "Alertes en cours"
+msgstr "ᒫᓐᓇᐅᔪᖅ ᐅᔾᔨᖅᓱᖁᔨᔾᔪᑏᑦ"
+
+msgid "Erreurs non résolues"
+msgstr "ᐋᖅᑭᒃᑕᐅᓯᒪᙱᑦᑐᑦ ᑕᒻᒪᖅᓯᒪᔪᑦ"
+
+msgid "Dernières activités"
+msgstr "ᑭᖑᓪᓕᖅᐹᑦ ᐱᓕᕆᐊᖑᔪᑦ"
+
+msgid "récentes"
+msgstr "ᖃᖓᑦᑎᐊᓕᓴᖅ"
+
+msgid "Utilisateur"
+msgstr "ᐊᑐᖅᑎ"
+
+msgid "Action"
+msgstr "ᐱᓕᕆᐊᖅ"
+
+msgid "Détails"
+msgstr "ᐃᓗᓕᖏᑦ"
+
+msgid "Adresse IP"
+msgstr "IP ᑐᕌᕈᑎ"
+
+msgid "Navigateur"
+msgstr "ᖃᕆᑕᐅᔭᒃᑯᑦ ᕿᓂᕈᑎ"
+
+msgid "Date"
+msgstr "ᐅᓪᓗᖓ"
+
+msgid "Aucune activité"
+msgstr "ᐱᓕᕆᐊᒃᓴᖅᑕᖃᙱᑦᑐᖅ"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "ᐊᑐᖅᑎᐅᑉ ᐱᓕᕆᐊᒃᓴᖏᑦ ᑕᕝᕙᓂ ᓴᖅᑭᓐᓂᐊᖅᐳᑦ."
+
+msgid "Journal d'erreurs"
+msgstr "ᑕᒻᒪᖅᓯᒪᔪᑦ"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "ᐋᖅᑭᒋᐊᕐᓗᒋᑦ ᑕᒻᒪᖅᓯᒪᔪᓕᒫᑦ?"
+
+msgid "Tout résoudre"
+msgstr "ᐋᖅᑭᒃᓯᓗᑎᑦ ᑭᓱᓕᒫᓂᒃ"
+
+msgid "non résolues"
+msgstr "ᐋᖅᑭᒃᑕᐅᓯᒪᙱᑦᑐᖅ"
+
+msgid "Tout est résolu"
+msgstr "ᑭᓱᓕᒫᑦ ᐋᖅᑭᒃᑕᐅᓯᒪᓕᖅᐳᑦ"
+
+msgid "Type"
+msgstr "ᖃᓄᐃᑦᑑᓂᖓ"
+
+msgid "Description"
+msgstr "ᐃᓗᓕᖏᑦ"
+
+msgid "Statut"
+msgstr "ᖃᓄᐃᓕᖓᓂᖓ"
+
+msgid "Résolu"
+msgstr "ᐋᖅᑭᒃᑕᐅᔪᖅ"
+
+msgid "Non résolu"
+msgstr "ᐋᖅᑭᒃᑕᐅᓯᒪᙱᑦᑐᖅ"
+
+msgid "Aucune erreur enregistrée"
+msgstr "ᑕᒻᒪᖅᓯᒪᔪᓂᒃ ᑎᑎᕋᖅᓯᒪᔪᖃᙱᑦᑐᖅ"
+
+msgid "Le système fonctionne correctement."
+msgstr "ᑖᓐᓇ ᐋᖅᑭᒃᓯᒪᓂᖓ ᐊᐅᓚᑦᑎᐊᖅᑐᖅ."
+
+msgid "Gestion des utilisateurs"
+msgstr "ᐊᑐᖅᑎᓄᑦ ᐊᐅᓚᑦᑎᓂᖅ"
+
+msgid "comptes"
+msgstr "ᑮᓇᐅᔭᓕᕆᔾᔪᑏᑦ"
+
+msgid "Email"
+msgstr "ᐃᕐᖐᓐᓈᖅᑕᐅᑦ"
+
+msgid "Téléphone"
+msgstr "ᐅᖄᓚᐅᑎ"
+
+msgid "Rôle"
+msgstr "ᐱᓕᕆᐊᒃᓴᑦ"
+
+msgid "Inscrit le"
+msgstr "ᐊᑎᓕᐅᖅᑕᐅᓯᒪᔪᖅ ᐅᕙᓂ"
+
+msgid "Actions"
+msgstr "ᖃᓄᐃᓕᐅᕈᑕᐅᔪᑦ"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "ᐲᖅᓯᓗᓂ ᑖᔅᓱᒥᖓ ᐊᑐᖅᑎᒥᒃ ᐊᒻᒪᓗ ᖃᕆᑕᐅᔭᓕᒫᖏᓐᓂᒃ?"
+
+msgid "Vous"
+msgstr "ᐃᕝᕕᑦ"
+
+msgid "Connexions"
+msgstr "ᑲᓱᖅᓯᒪᓂᖏᑦ"
+
+msgid "Vol"
+msgstr "ᖃᖓᑕᓂᖅ"
+
+msgid "Perte"
+msgstr "ᐊᓯᐅᔨᓂᖅ"
+
+msgid "Anomalie"
+msgstr "ᐊᔾᔨᐅᙱᓐᓂᖅ"
+
+msgid "Alertes"
+msgstr "ᐅᔾᔨᖅᓱᖁᔨᔾᔪᑏᑦ"
+
+msgid "Gestion des alertes"
+msgstr "ᐅᔾᔨᖅᓱᖁᔨᓂᕐᒧᑦ ᐊᐅᓚᑦᑎᓂᖅ"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "ᐅᓂᒃᑳᓕᐅᕐᓗᑎᑦ ᑎᓪᓕᒐᐅᓐᓂᖅᐸᑦ ᔭᒐᐃᔪᖃᕐᓂᖅᐸᓪᓘᓐᓃᑦ ᐊᒻᒪᓗ ᖃᐅᔨᒪᓇᓱᐊᕐᓗᑎᑦ ᖃᓄᐃᓐᓂᐅᓚᐅᖅᑐᓂᒃ"
+
+msgid "Signaler un vol / perte"
+msgstr "ᐅᓂᒃᑳᓕᐅᕐᓂᖅ ᑎᓪᓕᒐᐅᓂᕐᒥᒃ/ᔭᒐᐃᓂᕐᒥᒃ"
+
+msgid "En cours"
+msgstr "ᐱᕙᓪᓕᐊᔪᖅ"
+
+msgid "Résolues"
+msgstr "ᐋᖅᑭᒃᑕᐅᔪᖅ"
+
+msgid "Historique des alertes"
+msgstr "ᐅᔾᔨᖅᓱᖁᔨᓂᖅ ᑭᖑᓂᑦᑎᓐᓂᑦ"
+
+msgid "Appareil"
+msgstr "ᐅᖃᓘᑎᕋᓛᖅ"
+
+msgid "Priorité"
+msgstr "ᓯᕗᓪᓕᐅᑎᔭᕆᐊᓖᑦ"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "ᓇᓗᓇᐃᕐᓗᒍ ᑖᓐᓇ ᖃᐅᔨᒃᑲᐃᔾᔪᑎ ᐋᖅᑭᒃᑕᐅᓯᒪᓕᕐᒪᑦ?"
+
+msgid "Résoudre"
+msgstr "ᐋᖅᑭᒍᓯᖅ"
+
+msgid "Aucune alerte"
+msgstr "ᖃᐅᔨᒃᑲᐃᔾᔪᑎᑕᖃᙱᓚᖅ"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "ᑐᓴᕈᒥᓇᖅᑐᖅ! ᖃᐅᔨᒃᑲᐃᔾᔪᑎᓂᒃ ᐅᓂᒃᑳᖅᑐᖃᖅᓯᒪᙱᑦᑐᖅ."
+
+msgid "Signaler un vol ou une perte"
+msgstr "ᐅᓂᒃᑳᕆᓗᒍ ᑎᓪᓕᒐᐅᓐᓂᖅᐸᑦ ᔭᒐᐃᓐᓂᕈᓂᓘᓐᓃᑦ"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr "ᐅᓂᒃᑳᓕᐅᕈᕕᑦ ᑎᓪᓕᒐᐅᔪᒥᒃ, ᖃᕆᑕᐅᔭᐃᑦ ᒪᑐᔭᐅᑲᐅᑎᒋᓂᐊᖅᑐᖅ ᐊᒻᒪᓗ ᖃᐅᔨᒃᑲᐃᔾᔪᑎᑦ ᓇᒃᓯᐅᔾᔭᐅᓂᐊᖅᑐᑦ."
+
+msgid "Appareil concerné"
+msgstr "ᐊᒃᑐᖅᑕᐅᓯᒪᔪᖅ ᖃᕆᑕᐅᔭᖅ"
+
+msgid "Sélectionner un appareil"
+msgstr "ᓂᕈᐊᕐᓗᒍ ᖃᕆᑕᐅᔭᖅ"
+
+msgid "Type d'alerte"
+msgstr "ᖃᐅᔨᒃᑲᐃᔾᔪᑎᐅᑉ ᖃᓄᐃᑦᑑᓂᖓ"
+
+msgid "Décrivez les circonstances..."
+msgstr "ᓇᓗᓇᐃᔭᕐᓗᒋᑦ ᖃᓄᐃᓐᓂᕆᔭᖏᑦ..."
+
+msgid "Annuler"
+msgstr "ᖁᔭᓈᕐᓂᖅ"
+
+msgid "Signaler"
+msgstr "ᐅᓂᒃᑳᖅ"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "ᓯᓚᑐᔪᖅ ᑎᓪᓕᒐᖅᑕᐅᑦᑕᐃᓕᒪᔾᔪᑎ — ᐊᑦᑕᓇᔾᔭᐃᖅᓯᒪᓂᕐᒧᑦ ᑐᙵᕕᒃ ᖃᕆᑕᐅᔭᕋᓛᓄᑦ"
+
+msgid "Système Anti-Vol"
+msgstr "ᑎᓪᓕᒐᖅᑕᐅᑦᑕᐃᓕᒪᔾᔪᑎ"
+
+msgid "PRINCIPAL"
+msgstr "ᐱᓪᓗᐊᑕᖅ"
+
+msgid "Tableau de bord"
+msgstr "ᖃᕋᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᕕᒃ"
+
+msgid "SÉCURITÉ"
+msgstr "ᓇᐅᑦᑎᖅᓱᖅᑎᑦ"
+
+msgid "Géolocalisation"
+msgstr "ᓄᓇᐅᑉ ᓇᒦᓐᓂᖓ"
+
+msgid "ADMINISTRATION"
+msgstr "ᐊᓪᓚᕝᕕᓕᕆᓂᖅ"
+
+msgid "Déconnexion"
+msgstr "ᐲᕐᓗᒍ"
+
+msgid "Changer de langue"
+msgstr "ᐊᓯᔾᔨᕐᓗᒍ ᐅᖃᐅᓯᖅ"
+
+msgid "Rechercher une langue..."
+msgstr "ᕿᓂᕐᓗᑎᑦ ᐅᖃᐅᓯᕐᒥᒃ..."
+
+msgid "Profil"
+msgstr "ᖃᓄᐃᓕᖓᓂᖓ"
+
+msgid "Changer de thème"
+msgstr "ᐊᓯᔾᔨᕐᓗᒍ ᑕᐃᒎᓯᖓ"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "ᓇᐃᓈᖅᓯᒪᔪᖅ ᖃᕆᑕᐅᔭᕐᓄᑦ ᐊᑦᑕᓇᔾᔭᐃᖅᓯᒪᓂᕐᒧᑦ"
+
+msgid "Ajouter un appareil"
+msgstr "ᐃᓚᓯᓗᑎᑦ ᖃᕆᑕᐅᔭᕐᒥᒃ"
+
+msgid "Appareils volés"
+msgstr "ᑎᓪᓕᒐᐅᓯᒪᔪᑦ ᖃᕆᑕᐅᔭᐃᑦ"
+
+msgid "Verrouillés à distance"
+msgstr "ᐅᖓᓯᒃᑐᒥ ᑮᒃᓯᒪᔪᖅ"
+
+msgid "Alertes récentes"
+msgstr "ᒫᓐᓇᕈᓘᓚᐅᖅᑐᖅ ᐅᔾᔨᖅᓱᖁᔨᔾᔪᑏᑦ"
+
+msgid "Voir tout"
+msgstr "ᑕᑯᓗᒋᑦ ᑕᒪᕐᒥᒃ"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "ᖃᐅᔨᒃᑲᐃᔾᔪᑎᑕᖃᙱᓚᖅ. ᖃᕆᑕᐅᔭᑎᑦ ᐊᑦᑕᕐᓇᙱᓚᑦ!"
+
+msgid "Mes appareils"
+msgstr "ᖃᕆᑕᐅᔭᒃᑲ"
+
+msgid "Aucun appareil enregistré"
+msgstr "ᖃᕆᑕᐅᔭᐃᑦ ᐊᑎᓕᐅᖅᑕᐅᓯᒪᙱᑦᑐᑦ"
+
+msgid "Ajouter"
+msgstr "ᐃᓚᓗᒍ"
+
+msgid "en attente"
+msgstr "ᓄᖅᑲᖓᑎᑕᐅᑲᐃᓐᓇᖅᑐᖅ"
+
+msgid "Gestion des appareils"
+msgstr "ᖃᕆᑕᐅᔭᕐᓄᑦ ᐊᐅᓚᑦᑎᓂᖅ"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "ᐊᑎᓕᐅᕆᓗᑎᑦ ᐊᐅᓚᑦᑎᓗᑎᓪᓗ ᖃᕆᑕᐅᔭᕋᓛᕐᓂᒃ"
+
+msgid "Opérateur"
+msgstr "ᐊᐅᓚᑦᑎᔨ"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "ᑮᒃᓯᒪᓗᒍ ᑖᓐᓇ ᖃᕆᑕᐅᔭᖅ ᐅᖓᓯᒃᑐᒥ?"
+
+msgid "Verrouiller"
+msgstr "ᑮᒍᑎᓯᒪᓂᖅ"
+
+msgid "Déverrouiller"
+msgstr "ᒪᑐᐃᕐᓗᒍ"
+
+msgid "Supprimer cet appareil ?"
+msgstr "ᐲᖅᑕᐅᓗᓂ ᑖᓐᓇ ᖃᕆᑕᐅᔭᖅ?"
+
+msgid "Supprimer"
+msgstr "ᐲᔭᖅᑕᐅᔪᖅ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "ᐃᓚᓕᐅᑎᓗᒍ ᓯᕗᓪᓕᖅᐹᖅ ᖃᕋᓴᐅᔭᕋᓛᖅ ᓴᐳᒻᒥᔭᐅᓕᖁᓪᓗᒍ."
+
+msgid "Nouvel appareil"
+msgstr "ᓄᑖᖅ ᖃᕆᑕᐅᔭᖅ"
+
+msgid "Marque"
+msgstr "ᓇᓗᓇᐃᒃᑯᑕᖅ"
+
+msgid "Sélectionner"
+msgstr "ᓂᕈᐊᕐᓂᖅ"
+
+msgid "Autre"
+msgstr "ᐊᓯᖏᑦ"
+
+msgid "Modèle"
+msgstr "ᖃᓄᐃᑦᑑᓂᖓ"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "ᑎᑎᕋᕐᓗᒍ *#06# ᐅᖄᓚᐅᑎᒃᑯᑦ"
+
+msgid "Système d'exploitation"
+msgstr "ᐊᐅᓚᔾᔪᑎᖓ"
+
+msgid "Numéro de téléphone"
+msgstr "ᐅᖄᓚᐅᑎᐅᑉ ᓈᓴᐅᑖ"
+
+msgid "Enregistrer"
+msgstr "ᐱᐅᓕᒃᖠᓂᖅ"
+
+msgid "Connexion"
+msgstr "ᐊᑕᓂᖅ"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "ᖃᕆᑕᐅᔭᕋᓛᑦ ᓴᐳᒻᒥᔭᐅᔾᔪᑎᖏᑦ"
+
+msgid "Adresse email"
+msgstr "ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ ᑐᕌᕈᑎᖓ"
+
+msgid "Mot de passe"
+msgstr "ᐃᓯᕈᓐᓇᐅᑎᖓ"
+
+msgid "Se connecter"
+msgstr "ᐃᓯᕐᓗᑎᑦ"
+
+msgid "Mot de passe oublié ?"
+msgstr "ᐳᐃᒍᖅᓯᒪᕕᐅᒃ ᓇᕿᑦᑕᒐᖅ?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "ᑮᓇᐅᔭᒃᑯᕕᖃᕇᖅᐲᑦ? ᐊᓯᐊᒍᑦ, ᑲᔪᓯᓗᑎᑦ ᓴᖅᑭᑦᑎᓗᑎᑦ ᐊᑭᓕᒃᓴᕆᔭᕐᓂᒃ!"
+
+msgid "Créer un compte"
+msgstr "ᓴᖅᑭᑦᑎᓗᑎᑦ ᐊᑭᓕᒃᓴᒥᒃ"
+
+msgid "Sécurité maximale"
+msgstr "ᐊᖏᓛᒥᒃ ᐊᑦᑕᓇᔾᔭᐃᖅᓯᒪᓂᕐᒧᑦ"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "ᓴᐳᑎᓯᒪᓗᒋᑦ ᓇᖕᒥᓂᖅ ᑐᑭᓯᒋᐊᕈᑎᒃᓴᑎᑦ ᐅᖓᓯᒃᑐᒥ ᒪᑐᓯᒪᓂᒃᑯᑦ"
+
+msgid "Localisation GPS"
+msgstr "GPS-ᑯᑦ ᐃᓂᒋᔭᖓ"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "ᓇᓂᓯᓗᑎᑦ ᓇᒦᓪᓚᑦᑖᕐᒪᖔᖅ ᖃᕋᓴᐅᔭᕋᓛᖅ ᖃᖓᑐᐃᓐᓇᒃᑯᑦ"
+
+msgid "Alertes instantanées"
+msgstr "ᐃᕐᖐᓐᓇᖅ ᖃᐅᔨᒃᑲᐃᔾᔪᑏᑦ"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "ᐱᖃᑦᑕᕐᓗᑎᑦ SMS-ᓂᒃ, ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ ᐊᒻᒪᓗ ᐊᔭᐅᖅᑐᐃᔾᔪᑎᓂᒃ ᖃᐅᔨᒃᑲᐃᔾᔪᑎᓂᒃ ᑎᓪᓕᒐᖅᑕᐅᓐᓂᖅᐸᑦ"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "ᓇᓂᓯᓗᑎᑦ ᖃᕆᑕᐅᔭᕐᓂᒃ ᐊᒻᒪᓗ ᑕᐅᑐᙳᐊᕐᓗᒋᑦ ᐊᑦᑕᕐᓇᖅᑐᒦᑦᑐᑦ"
+
+msgid "Aucun appareil"
+msgstr "ᓱᓇᒃᑯᑖᖃᙱᑦᑐᖅ"
+
+msgid "Zones à risque"
+msgstr "ᐊᑦᑕᕐᓇᖅᑐᒦᑦᑐᑦ"
+
+msgid "incidents"
+msgstr "ᖃᓄᐃᓐᓂᐅᔪᑦ"
+
+msgid "Aucune zone signalée"
+msgstr "ᐅᓂᒃᑳᓕᐊᖑᓯᒪᔪᖃᙱᑦᑐᖅ"
+
+msgid "Niveau"
+msgstr "ᖁᑦᑎᖕᓂᖓ"
+
+msgid "Incidents"
+msgstr "ᖃᓄᐃᓐᓂᐅᔪᑦ"
+
+msgid "Profile utilisateur"
+msgstr "ᐊᑐᖅᑎᐅᑉ ᓇᓗᓇᐃᔭᖅᓯᒪᓂᖓ"
+
+msgid "Gérez vos informations personnelles"
+msgstr "ᐊᐅᓚᑦᑎᓗᑎᑦ ᐃᒻᒥᒧᑦ ᑐᕌᖓᔪᓂᒃ ᑐᑭᓯᒋᐊᕈᑎᒃᓴᓂᒃ"
+
+msgid "Membre depuis"
+msgstr "ᒪᓕᒐᓕᐅᖅᑎᐅᖃᑕᐅᔪᖅ ᑕᐃᒪᙵᓂᑦ"
+
+msgid "Modifier mes informations"
+msgstr "ᐋᖅᑭᒋᐊᕐᓗᒋᑦ ᑐᑭᓯᒋᐊᕈᑎᒃᓴᒃᑲ"
+
+msgid "Prénom"
+msgstr "ᓯᕗᓪᓕᖅ ᐊᑎᖅ"
+
+msgid "Nom"
+msgstr "ᐊᑎᖓ"
+
+msgid "Changer le mot de passe"
+msgstr "ᐊᓯᔾᔨᕐᓗᒍ ᓇᕿᑦᑕᒐᖅ"
+
+msgid "Nouveau mot de passe"
+msgstr "ᓄᑖᖅ ᓇᕿᑦᑕᒐᖅ"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "ᑎᑎᕋᖅᓯᒪᙱᑎᓪᓗᒍ ᐊᓯᔾᔨᕐᓂᐊᙱᒻᒪᑦ"
+
+msgid "Enregistrer les modifications"
+msgstr "ᓴᓂᕐᕙᒃᑕᐅᓗᑎᒃ ᐊᓯᔾᔨᖅᑕᐅᔪᑦ"
+
+msgid "Inscription"
+msgstr "ᐊᑎᓕᐅᖅᑕᐅᓂᖅ"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "ᑐᙵᓱᒋᑦ ᑎᓪᓕᒐᖅᑕᐅᑦᑕᐃᓕᒪᓂᕐᒧᑦ ᐱᐅᓂᖅᓴᒥᒃ ᐊᑦᑕᓇᔾᔭᐃᖅᓯᒪᓂᕐᒧᑦ ᖃᕆᑕᐅᔭᕐᓄᑦ"
+
+msgid "Confirmer"
+msgstr "ᓇᓗᓇᐃᔭᐃᓂᖅ"
+
+msgid "Créer mon compte"
+msgstr "ᓴᖅᑭᑦᑎᓗᑎᑦ ᐊᑭᓕᒃᓴᓐᓂᒃ"
+
+msgid "Déjà un compte ?"
+msgstr "ᑮᓇᐅᔭᒃᑯᕕᖃᕇᖅᐲᑦ?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "ᐋᖅᑭᒃᑲᓐᓂᕐᓗᒍ ᓇᕿᑦᑕᒐᖅ"
+
+msgid "Réinitialisation"
+msgstr "ᐋᖅᑭᒃᑲᓐᓂᕐᓗᒍ"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "ᑎᑎᕋᕐᓗᒍ ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ ᐅᖄᓚᐅᑎᒃᑯᑦ ᓈᓴᐅᑎᖓ ᓇᓗᓇᐃᖅᓯᓂᐊᕐᓗᑎᑦ ᑭᓇᐅᓂᕐᓂᒃ"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "ᓈᓴᐅᑎᖓ ᐊᑐᖅᑕᐅᔪᖅ ᐊᑎᓕᐅᖅᑕᐅᑎᓪᓗᒍ"
+
+msgid "Minimum 6 caractères"
+msgstr "ᒥᑭᓛᖓ 6 ᑎᑎᕋᐅᓯᑦ"
+
+msgid "Confirmer le mot de passe"
+msgstr "ᓇᓗᓇᐃᕐᓗᒍ ᓇᕿᑦᑕᒐᖅ"
+
+msgid "Retourner à la"
+msgstr "ᐅᑎᕐᓗᑎᑦ ᐅᕗᖓ"
+
+msgid "page de connexion"
+msgstr "ᒪᒃᐱᒐᖅ"
+
+msgid "Vérification sécurisée"
+msgstr "ᐊᑦᑕᓇᔾᔭᐃᖅᓯᒪᓗᓂ ᓇᓗᓇᐃᖅᓯᓂᖅ"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "ᑭᓇᐅᓂᕆᔭᐃᑦ ᓇᓗᓇᐃᖅᑕᐅᕗᖅ ᐊᑐᕐᓗᒍ ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ ᑎᑎᕋᕐᕕᒋᕙᒃᑕᐃᑦ ᐊᒻᒪ ᐅᖄᓚᐅᑎᒃᑯᑦ ᓈᓴᐅᑎᖓ"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "ᓂᕈᐊᕐᓗᑎᑦ ᐊᑦᑕᓇᙱᑦᑐᒥᒃ ᓇᕿᑦᑕᒐᕐᒥᒃ 6-ᓂᒃ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{ᐋᖅᑭᒃᓱᐃᔨ}: ᐋᖅᑭᒋᐊᕆᓂᖅ ᑲᔪᓯᑦᑎᐊᙱᑦᑐᖅ"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{ᐋᖅᑭᒃᓱᐃᔨ}: ᐋᖅᑭᒋᐊᕆᓂᖅ ᑲᔪᓯᑦᑎᐊᙱᑦᑐᖅ: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows ᑕᒻᒪᖅᓯᒪᔪᖅ: {ᑕᒻᒪᖅᓯᒪᔪᖅ}"
+
+msgid "deprecated"
+msgstr "ᐊᑐᖅᑕᐅᔪᓐᓃᖅᑐᖅ"
+
+msgid "Options"
+msgstr "ᓇᓖᕌᕈᑎᒃᓴᑦ"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "ᓂᕆᐅᓇᙱᑦᑐᒥᒃ ᐊᐃᕙᔾᔪᑎᒃᓴᒃᑲᓐᓂᕐᒥᒃ ᐱᓚᐅᖅᐳᖅ ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "ᓄᖅᑲᖅᑎᑕᐅᓯᒪᔪᖅᐅᔾᔨᖅᓱᖁᔨᓂᖅ: ᑎᓕᐅᕈᑎ {ᐊᑎᖓ!r} ᓄᖅᑲᖅᑎᑕᐅᓯᒪᔪᖅ.{ᐃᓚᒃᑲᓐᓂᐊ_ᑐᓴᒐᒃᓴᖅ}"
+
+msgid "Aborted!"
+msgstr "ᓄᖅᑲᖅᑎᑕᐅᓯᒪᔪᖅ!"
+
+msgid "Commands"
+msgstr "ᑎᓕᐅᕈᑎᑦ"
+
+msgid "Missing command."
+msgstr "ᐱᑕᖃᙱᒻᒪᑦ ᑎᓕᐅᕈᑎᒥᒃ."
+
+msgid "Value must be an iterable."
+msgstr "ᖃᑦᓯᐅᓂᖓ ᑕᐃᒪᐃᒃᑲᓐᓂᕈᓐᓇᕆᐊᖃᖅᐳᖅ."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "ᑎᒍᓯᔪᖅ {nargs} ᓈᓴᐅᑎᓂᒃ ᑭᓯᐊᓂ 1 ᑐᓂᔭᐅᓚᐅᖅᑐᖅ."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "ᓄᖑᑉᐸᓪᓕᐊᓂᖓᐅᔾᔨᖅᓱᖁᔨᓂᖅ: {param_type} {ᐊᑎᖓ!r} ᓄᖑᑉᐸᓪᓕᐊᓕᖅᑐᖅ.{ᐃᓚᖓ_ᑐᓴᒐᒃᓴᖅ}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "ᐊᑎᖓ '{ᐊᑎᖓ}' ᒪᕐᕈᐊᖅᑎᖅᑐᓂ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᔪᖅ"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "ᐴᓕᐊᓐ ᓇᓕᕌᕈᑎᖓ {decl!r} ᐊᑐᕈᓐᓇᙱᓚᖅ ᑕᐃᒪᐃᑦᑐᓴᐃᓐᓇᕐᒥᒃ ᓴᐃᒻᒪᑎᒥᒃ ᓱᓕᔪᒧᑦ/ᓴᒡᓗᔪᒧᑦ."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "ᓇᓗᓇᐃᖅᓯᔪᓐᓇᙱᓚᖅ ᐊᑎᖓᓂᒃ ᓇᓖᕌᕈᑎᐅᑉ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᓂᒃ {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"ᓇᓖᕌᕈᑎᒃᓴᑦ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᔪᑦ ᑭᓯᐊᓂ ᐊᑎᖅ ᑲᔪᓯᑎᑕᐅᓚᐅᖅᑐᖅ ({name}). ᐊᐃᕙᐅᑎᖃᖔᕈᒪᓚᐅᖅᐲᑦ? "
+"ᑲᔪᓯᑎᑦᑎᔪᒪᕖᑦ '--{ᐊᑎᖓ}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env ᐊᔾᔨᒌᙱᓐᓂᖅ: {ᐊᔾᔨᒌᙱᓐᓂᖅ}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "ᐋᖅᑭᒃᓯᒪᓂᖓ: {ᐋᖅᑭᒃᓯᒪᓂᖓ}"
+
+msgid "required"
+msgstr "ᐱᖁᔭᐅᓯᒪᔪᑦ"
+
+msgid "(dynamic)"
+msgstr "(ᐆᒻᒪᕆᒃᑐᖅ)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "ᐊᐃᕙᔾᔪᑕᐅᔪᑦ ᐊᑕᐅᓯᕐᒥᒃ ᓇᓗᓇᐃᒃᑯᑕᖃᖅᐳᑦ, ᐱᔭᐅᓯᒪᔪᖅ {ᑕᑭᓂᖓ}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "ᑲᔪᓯᔪᒪᕕᑦ?"
+
+msgid "Confirm the action without prompting."
+msgstr "ᓇᓗᓇᐃᖅᓯᓗᑎᑦ ᖃᓄᐃᓕᐅᕈᑎᒃᓴᒥᒃ ᑎᓕᐅᕆᙱᓪᓗᑎᑦ."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(ᐱᓕᕆᐊᒃᓴᖅ)s, ᐋᖅᑭᒃᓯᒪᓂᖓ %(ᐋᖅᑭᒃᓯᒪᓂᖓ)s"
+
+msgid "Show the version and exit."
+msgstr "ᑕᑯᒃᓴᐅᑎᑦᑎᓗᑎᑦ ᐋᖅᑭᒃᓯᒪᓂᖓᓂᒃ ᐊᒻᒪᓗ ᐊᓂᓗᑎᑦ."
+
+msgid "Show this message and exit."
+msgstr "ᑕᑯᒃᓴᐅᑎᑦᑎᓗᑎᑦ ᑖᔅᓱᒥᖓ ᑐᓴᒐᒃᓴᒥᒃ ᐊᒻᒪᓗ ᐊᓂᓗᑎᑦ."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "ᑐᑭᖃᖅᐲᑦ {ᐊᔪᕐᓇᙱᓐᓂᖅ}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "ᑕᒻᒪᖅᓯᒪᔪᖅ: {ᑐᓴᒐᒃᓴᖅ}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "ᐆᒃᑐᕐᓗᒍ '{ᑎᓕᐅᕈᑎ} {ᓇᓖᕌᕈᑎ}' ᐃᑲᔪᖅᑕᐅᔪᒪᒍᕕᑦ."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "ᓈᒻᒪᖏᑦᑐᖅ ᓇᓗᓇᐃᒃᑯᑕᖅ: {ᑐᓴᒐᒃᓴᖅ}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "ᓈᒻᒪᖏᑦᑐᖅ ᖃᔅᓯᐅᓂᖓ {param_ᐃᑲᔪᖅᑐᐃᔾᔪᑎ}: {ᑐᓴᒐᒃᓴᖅ}"
+
+msgid "Missing argument"
+msgstr "ᐱᑕᖃᙱᑦᑐᖅ ᐊᐃᕙᔾᔪᑎ"
+
+msgid "Missing option"
+msgstr "ᐱᑕᖃᙱᑦᑐᖅ ᓇᓖᕌᕈᑎᒃᓴᖅ"
+
+msgid "Missing parameter"
+msgstr "ᐱᑕᖃᙱᑦᑐᖅ ᐋᖅᑭᒃᓯᒪᓂᖓ"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "ᐱᑕᖃᙱᑦᑐᖅ {ᐊᑐᖅᑕᐅᕙᒃᑐᖅ_ᐊᔾᔨᒌᙱᓐᓂᖏᑦ}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "ᐱᑕᖃᙱᑦᑐᖅ ᐋᖅᑭᒃᓯᒪᓂᖓ: {ᐋᖅᑭᒃᓯᒪᓂᖓ_ᐊᑎᖓ}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "ᑕᐃᒪᐃᑦᑐᒥᒃ ᓇᓖᕌᕈᑎᒃᓴᖅᑕᖃᙱᓚᖅ {ᐊᑎᖓ!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "ᑕᐃᒪᐃᑦᑐᒥᒃ ᑎᓕᐅᕈᑎᑕᖃᙱᓚᖅ {ᐊᑎᖓ!r}."
+
+msgid "unknown error"
+msgstr "ᖃᐅᔨᒪᔭᐅᙱᑦᑐᖅ ᑕᒻᒪᖅᓯᒪᔪᖅ"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "ᒪᑐᐃᖅᓯᔪᓐᓇᙱᓚᖅ ᑎᑎᖅᑲᖁᑎᒥᒃ {ᑎᑎᖅᑲᖁᑎᐅᑉ ᐊᑎᖓ!r}: {ᑐᓴᒐᒃᓴᖅ}"
+
+msgid "Usage:"
+msgstr "ᐊᑐᕐᓗᒍ:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "ᐊᑐᙱᑦᑐᖅ ᐱᒋᐊᕈᑎ ᑎᑎᕋᐅᓯᖅ ᓇᓖᕌᕈᑎᒧᑦ ({ᓇᓖᕌᕈᑎ})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "ᐊᐃᕙᔾᔪᑎ {ᐊᑎᖓ!r} ᐱᔪᖅ {nargs} ᓈᓴᐅᑎᓂᒃ."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "ᓇᓖᕌᕈᑎ {ᐊᑎᖓ!r} ᓈᓴᐅᑎᑖᙱᓚᖅ."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "ᓇᓖᕌᕈᑎ {ᐊᑎᖓ!r} ᐱᔭᕆᐊᖃᖅᐳᖅ ᐊᐃᕙᔾᔪᑎᒥᒃ."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell ᐱᔭᕇᖅᓯᓂᖅ ᐃᑲᔪᖅᓱᖅᑕᐅᙱᓚᖅ Bash ᐋᖅᑭᒃᓯᒪᓂᖏᓐᓄᑦ ᐱᑐᖃᐅᓂᖅᓴᓄᑦ 4.4-ᒥᒃ."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "ᖃᐅᔨᔪᓐᓇᓚᐅᙱᓚᖅ Bash ᐋᖅᑭᒃᓯᒪᓂᖓᓂᒃ, shell ᐱᔭᕇᖅᓯᓂᖅ ᐃᑲᔪᖅᑐᖅᑕᐅᙱᓚᖅ."
+
+msgid "Repeat for confirmation"
+msgstr "ᐅᖃᒃᑲᓐᓂᕐᓗᒍ ᓇᓗᓇᐃᖅᑕᐅᖁᓪᓗᒍ"
+
+msgid "Error: The two entered values do not match."
+msgstr "ᑕᒻᒪᖅᓯᒪᔪᖅ: ᒪᕐᕉᒃ ᑎᑎᕋᖅᑕᐅᓯᒪᔪᒃ ᓈᓴᐅᑎᖏᑦ ᐊᔾᔨᒌᙱᒻᒪᑎᒃ."
+
+msgid "Error: invalid input"
+msgstr "ᑕᒻᒪᖅᓯᒪᔪᖅ: ᓈᒻᒪᖏᑦᑐᖅ ᑎᑎᕋᖅᓯᒪᔪᖅ"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "ᖃᐅᔨᒪᔭᐅᙱᑦᑐᖅ ᐊᒥᐊᖓ {ᐊᒥᐊᖓ!r}"
+
+msgid "Press any key to continue..."
+msgstr "ᓇᕿᓪᓗᒍ ᓇᓕᐊᑐᐃᓐᓇᖅ ᑲᔪᓯᓂᐊᕐᓗᑎᑦ..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "ᓂᕈᐊᕐᓗᑎᑦ ᐅᑯᓇᙵᑦ:\\n\\t{ᓂᕈᐊᒐᒃᓴᑦ}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{ᐊᑭᖓ!r} ᓂᕈᐊᒐᒃᓴᐅᙱᓚᖅ}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "ᓂᕈᐊᒐᒃᓴᖅ({ᓂᕈᐊᒐᒃᓴᑦ})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{ᐊᑭᖓ!r} ᑐᑭᓕᐊᙱᓚᖅ ᐋᖅᑭᒃᓯᒪᓂᖓᓄᑦ {ᐋᖅᑭᒃᓯᒪᓂᖓ}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{ᐊᑭᖓ!r} ᓱᓕᙱᓚᖅ {ᓈᓴᐅᑎ_ᐊᔾᔨᒌᙱᓐᓂᖏᑦ}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{ᐊᑭᖓ} ᑕᕝᕙᓃᙱᓚᖅ {ᐊᔾᔨᒌᙱᓐᓂᖏᑦ}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{ᐊᑭᖓ!r} ᓱᓕᙱᑦᑐᖅ ᐴᓕᐊᓐ. ᐃᓕᓴᕆᔭᐅᓯᒪᔪᑦ ᐱᒻᒪᕆᐅᓂᖏᑦ: {ᐊᕕᒃᑐᖅᓯᒪᔪᑦ}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{ᐊᑭᖓ!r} ᓱᓕᙱᑦᑐᖅ UUID."
+
+msgid "file"
+msgstr "ᑐᖅᑯᖅᓯᒪᔪᖅ"
+
+msgid "directory"
+msgstr "ᑐᑭᓯᒋᐊᕐᕕᒃ"
+
+msgid "path"
+msgstr "ᐊᖅᑯᑎᒃᓴᖅ"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{ᐊᑎᖓ} {ᑎᑎᖅᑲᖁᑎᐅᑉ ᐊᑎᖓ!r} ᐱᑕᖃᙱᓚᖅ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{ᐊᑎᖓ} {ᑎᑎᖅᑲᖁᑎᐅᑉ ᐊᑎᖓ!r} ᑎᑎᖅᑲᖁᑎᐅᕗᖅ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{ᐊᑎᖓ} {ᑎᑎᖅᑲᖁᑎᐅᑉ ᐊᑎᖓ!r} ᑐᑭᓯᒋᐊᕐᕕᒃ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{ᐊᑎᖓ} {ᑎᑎᖅᑲᖁᑎᐅᑉ ᐊᑎᖓ!r} ᐅᖃᓕᒫᖅᑕᐅᔪᓐᓇᙱᓚᖅ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{ᐊᑎᖓ} {ᑎᑎᖅᑲᐅᑉ ᐊᑎᖓ!r} ᑎᑎᕋᖅᑕᐅᔪᓐᓇᖏᑦᑐᖅ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{ᐊᑎᖓ} {ᑎᑎᖅᑲᖁᑎᐅᑉ ᐊᑎᖓ!r} ᑲᔪᓯᑎᑕᐅᔪᓐᓇᙱᓚᖅ."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_ᐊᔾᔨᒌᙱᓐᓂᖏᑦ} ᓈᓴᐅᑎᖏᑦ ᐱᔭᕆᐊᖃᖅᐳᑦ, ᑭᓯᐊᓂ {len_ᐊᔾᔨᒌᙱᓐᓂᖏᑦ} ᑐᓂᔭᐅᓚᐅᖅᐳᖅ."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "ᖃᐅᔨᒪᔭᐅᙱᑦᑐᖅ ᐊᑐᖅᑕᐅᒐᔪᒃᑐᖅ '{ᐊᑎᖅ}'"
+
+msgid "This field is required."
+msgstr "ᑖᓐᓇ ᐱᑕᖃᕆᐊᖃᖅᑐᖅ."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "ᑎᑎᖅᑲᖅ ᐊᖏᖅᑕᐅᓯᒪᔪᒥᒃ ᑕᑭᓪᓕᒋᐊᕈᑎᖃᙱᓚᖅ: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "ᑎᑎᖅᑲᖁᑎᖓ ᐊᖏᖅᑕᐅᓯᒪᔪᒥᒃ ᐅᖓᕙᕆᐊᕈᑎᖃᙱᓚᖅ."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "ᑎᑎᖅᑲᖅ ᐊᑯᓐᓂᖓᓃᑦᑕᕆᐊᖃᖅᐳᖅ {ᒥᑭᓛᖅ_ᐊᖏᓂᖓ} ᐊᒻᒪ {ᐊᖏᓛᖅ_ᐊᖏᓂᖓ} ᐸᐃᑉᐹᑦ."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "ᓈᒻᒪᖏᑦᑐᖅ ᓇᓗᓇᐃᒃᑯᑕᖅ ᐊᑎᖓ '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "ᓇᓗᓇᐃᒃᑯᑕᖅ ᐊᔾᔨᒋᔭᕆᐊᖃᖅᑕᖓ %(ᐊᓯᐊ_ᐊᑎᖅ)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "ᑎᑎᕋᖅᓯᒪᔪᖅ ᒥᑭᓛᖑᔭᕆᐊᖃᖅᐳᖅ %(min)d ᑎᑎᕋᖅᓯᒪᔪᖅ ᑕᑭᓂᖃᕐᓗᓂ."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "ᑎᑎᕋᖅᓯᒪᔪᖅ ᑕᑭᓂᖅᓴᐅᔪᓐᓇᖏᑦᑐᖅ %(max)d ᑎᑎᕋᖅᓯᒪᔪᒥᒃ."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "ᑕᑭᓂᖃᕆᐊᖃᖅᐳᖅ %(max)d ᑎᑎᕋᖅᓯᒪᔪᓂᒃ."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "ᑎᑎᕋᖅᓯᒪᔪᖅ ᐊᑯᓐᓂᖓᓃᑦᑕᕆᐊᖃᖅᐳᖅ %(ᒥᑭᓛᖅ)d ᐊᒻᒪ %(ᐊᖏᓛᖅ)d ᑎᑎᕋᖅᓯᒪᔪᑦ ᑕᑭᓂᖃᕐᓗᓂ."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "ᓈᓴᐅᑎᖓ ᒥᑭᓛᖑᔭᕆᐊᖃᖅᐳᖅ %(ᒥᓂᑦ)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "ᓈᓴᐅᑎᖓ ᖁᑦᑎᖕᓂᖅᐹᖑᔭᕆᐊᖃᖅᐳᖅ %(ᐊᖏᓛᖑᔪᖅ)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "ᓈᓴᐅᑎᖓ ᐊᑯᓐᓂᖓᓃᑦᑕᕆᐊᖃᖅᐳᖅ %(ᒥᑭᓛᖅ) ᐊᒻᒪ %(ᐊᖏᓛᖅ)."
+
+msgid "Invalid input."
+msgstr "ᓈᒻᒪᖏᑦᑐᖅ ᑎᑎᕋᖅᓯᒪᔪᖅ."
+
+msgid "Invalid email address."
+msgstr "ᐊᑐᙱᑦᑐᖅ ᐃᕐᖐᓐᓈᖅᑕᐅᑦ ᑐᕌᕈᑎᖓ."
+
+msgid "Invalid IP address."
+msgstr "ᓈᒻᒪᖏᑦᑐᖅ IP ᑐᕌᕈᑎᖓ."
+
+msgid "Invalid Mac address."
+msgstr "ᐊᑐᙱᑦᑐᖅ ᒪᒃ ᑐᕌᕈᑎᖓ."
+
+msgid "Invalid URL."
+msgstr "ᓈᒻᒪᖏᑦᑐᖅ URL."
+
+msgid "Invalid UUID."
+msgstr "ᐊᑐᙱᑦᑐᖅ UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "ᓈᒻᒪᖏᑦᑐᖅ ᓈᓴᐅᑎ, ᐊᑕᐅᓯᐅᔭᕆᐊᖃᖅᐳᖅ: %(ᖃᑦᓯᐅᓂᖏᑦ)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "ᓈᒻᒪᖏᑦᑐᖅ ᓈᓴᐅᑎ, ᓇᓕᐊᑐᐃᓐᓇᐅᔪᓐᓇᖏᑦᑐᖅ: %(ᖃᑦᓯᐅᓂᖏᑦ)s."
+
+msgid "This field cannot be edited."
+msgstr "ᑖᓐᓇ ᐋᖅᑭᒋᐊᖅᑕᐅᔪᓐᓇᖏᑦᑐᖅ."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "ᑖᓐᓇ ᓇᓗᓇᐃᒃᑯᑕᖅ ᒪᑐᔭᐅᓯᒪᕗᖅ ᐊᒻᒪ ᓇᓗᓇᐃᒃᑯᑕᖃᕈᓐᓇᙱᓚᖅ."
+
+msgid "Invalid CSRF Token."
+msgstr "ᐊᑐᖏᑦᑐᖅ CSRF ᓇᓗᓇᐃᒃᑯᑕᖅ."
+
+msgid "CSRF token missing."
+msgstr "CSRF ᓇᓗᓇᐃᒃᑯᑕᖅ ᐱᑕᖃᙱᒻᒪᑦ."
+
+msgid "CSRF failed."
+msgstr "CSRF ᑲᔪᓯᑦᑎᐊᓚᐅᓐᖏᑦᑐᖅ."
+
+msgid "CSRF token expired."
+msgstr "CSRF ᓇᓗᓇᐃᒃᑯᑕᖅ ᐃᓱᓕᑉᐳᖅ."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "ᓂᕈᐊᒐᒃᓴᐅᙱᑦᑐᖅ: ᑎᓕᐅᕆᔪᓐᓇᓚᐅᙱᓚᖅ."
+
+msgid "Choices cannot be None."
+msgstr "ᓂᕈᐊᒐᒃᓴᐃᑦ ᐱᑕᖃᕈᓐᓇᖏᑦᑐᑦ."
+
+msgid "Not a valid choice."
+msgstr "ᓂᕈᐊᒐᒃᓴᑦᑎᐊᕙᐅᙱᓚᖅ."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "ᐊᑐᙱᑦᑐᑦ ᓂᕈᐊᒐᒃᓴᑦ(ᑦ): ᐊᑕᐅᓯᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐊᒥᓲᓂᖅᓴᐃᑦ ᑐᑭᓯᒋᐊᕈᑎᒃᓴᑦ ᐃᓕᔭᐅᔪᓐᓇᓚᐅᙱᓚᑦ."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(ᐊᑭᖓ)s' ᓂᕈᐊᒐᒃᓴᐅᙱᓚᖅ ᑖᔅᓱᒧᖓ ᓇᓗᓇᐃᒃᑯᑕᕐᒧᑦ."
+
+msgid "Not a valid datetime value."
+msgstr "ᓱᓕᙱᑦᑐᖅ ᐅᓪᓗᖓ ᓯᕿᙳᔭᖓᓗ."
+
+msgid "Not a valid date value."
+msgstr "ᓱᓕᙱᑦᑐᖅ ᐅᓪᓗᖓᑕ ᓈᓴᐅᑎᖓ."
+
+msgid "Not a valid time value."
+msgstr "ᓈᒻᒪᖏᑦᑐᖅ ᓯᕿᙳᔭᖅ."
+
+msgid "Not a valid week value."
+msgstr "ᐱᓇᓱᐊᕈᓯᐅᑉ ᓈᓴᐅᑎᖓ ᓈᒻᒪᖏᑦᑐᖅ."
+
+msgid "Not a valid integer value."
+msgstr "ᓈᓴᐅᑎᓪᓚᑦᑖᖑᙱᑦᑐᖅ."
+
+msgid "Not a valid decimal value."
+msgstr "ᓱᓕᙱᑦᑐᖅ ᖁᓕᕇᓕᒃ ᓈᓴᐅᑎᖓ."
+
+msgid "Not a valid float value."
+msgstr "ᓱᓕᙱᑦᑐᖅ ᐳᑦᑕᖅᑯᑎᐅᑉ ᓈᓴᐅᑎᖓ."
+

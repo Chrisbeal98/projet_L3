@@ -1,0 +1,1034 @@
+# Translations for FA.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fa\n"
+"Language-Team: fa <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "لطفا برای دسترسی به این صفحه وارد شوید."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "این IMEI قبلاً در سیستم ثبت شده است."
+
+msgid "Accès non autorisé."
+msgstr "دسترسی غیرمجاز"
+
+msgid "Appareil déverrouillé."
+msgstr "قفل دستگاه باز شد."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "هشدار ایجاد شد! اعلان ها ارسال شد."
+
+msgid "Alerte résolue."
+msgstr "هشدار حل شد."
+
+msgid "Pas encore de compte ?"
+msgstr "هنوز حسابی ندارید؟"
+
+msgid "Mon Profil"
+msgstr "نمایه من"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "اتصال موفق شد! خوش آمدید."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "ایمیل یا رمز عبور نادرست"
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "تمام فیلدهای مورد نیاز باید تکمیل شود."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "رمزهای عبور مطابقت ندارند."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "رمز عبور باید حداقل 6 کاراکتر داشته باشد."
+
+msgid "Cet email est déjà utilisé."
+msgstr "این ایمیل در حال حاضر در حال استفاده است."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "حساب با موفقیت ایجاد شد! وارد شوید"
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "هیچ حسابی با این ایمیل پیدا نشد."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "شماره تلفن با شماره حساب مطابقت ندارد."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "رمز جدید اجباری است."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "رمز عبور با موفقیت بازنشانی شد! وارد شوید"
+
+msgid "Vous avez été déconnecté."
+msgstr "شما قطع شده اید."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "نام تجاری، مدل و IMEI مورد نیاز است."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "دستگاهی با این IMEI از قبل وجود دارد."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "دستگاه با موفقیت ثبت شد!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "شما مجاز به انجام این عمل نیستید."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "دستگاه با موفقیت از راه دور قفل شد."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "قفل دستگاه با موفقیت باز شد."
+
+msgid "Appareil supprimé."
+msgstr "دستگاه حذف شد."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "لطفاً یک دستگاه و نوع هشدار را انتخاب کنید."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "این دستگاه متعلق به شما نیست."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "هشدار با موفقیت گزارش شد. دستگاه ایمن شده است."
+
+msgid "Alerte marquée comme résolue."
+msgstr "هشدار به عنوان حل‌وفصل علامت‌گذاری شد."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "نام، نام خانوادگی و ایمیل الزامی است."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "این ایمیل قبلاً توسط حساب دیگری استفاده شده است."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "نمایه با موفقیت به روز شد!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "دسترسی برای مدیران محفوظ است."
+
+msgid "Erreur marquée comme résolue."
+msgstr "خطا به عنوان حل شده علامت گذاری شد."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "شما نمی توانید حساب خود را حذف کنید."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "کاربر با موفقیت حذف شد"
+
+msgid "Administration"
+msgstr "اداره"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "مدیریت متمرکز سیستم ضد سرقت"
+
+msgid "Utilisateurs"
+msgstr "کاربران"
+
+msgid "Actifs aujourd'hui"
+msgstr "امروز فعال است"
+
+msgid "Nouveaux ce mois"
+msgstr "جدید این ماه"
+
+msgid "Appareils"
+msgstr "دستگاه ها"
+
+msgid "Alertes actives"
+msgstr "هشدارهای فعال"
+
+msgid "Analytique"
+msgstr "تحلیلی"
+
+msgid "Journal d'activité"
+msgstr "گزارش فعالیت"
+
+msgid "Erreurs"
+msgstr "خطاها"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "اتصالات (7 روز گذشته)"
+
+msgid "Alertes par type"
+msgstr "هشدارها بر اساس نوع"
+
+msgid "Appareils par opérateur"
+msgstr "دستگاه ها توسط اپراتور"
+
+msgid "Résumé du système"
+msgstr "خلاصه سیستم"
+
+msgid "Utilisateurs total"
+msgstr "مجموع کاربران"
+
+msgid "Appareils enregistrés"
+msgstr "دستگاه های ثبت شده"
+
+msgid "Total alertes"
+msgstr "کل هشدارها"
+
+msgid "Alertes en cours"
+msgstr "هشدارهای فعلی"
+
+msgid "Erreurs non résolues"
+msgstr "خطاهای حل نشده"
+
+msgid "Dernières activités"
+msgstr "آخرین فعالیت ها"
+
+msgid "récentes"
+msgstr "اخیر"
+
+msgid "Utilisateur"
+msgstr "کاربر"
+
+msgid "Action"
+msgstr "اقدام"
+
+msgid "Détails"
+msgstr "جزئیات"
+
+msgid "Adresse IP"
+msgstr "آدرس IP"
+
+msgid "Navigateur"
+msgstr "مرورگر"
+
+msgid "Date"
+msgstr "تاریخ"
+
+msgid "Aucune activité"
+msgstr "بدون فعالیت"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "فعالیت های کاربر در اینجا ظاهر می شود."
+
+msgid "Journal d'erreurs"
+msgstr "گزارش خطا"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "رفع همه خطاها؟"
+
+msgid "Tout résoudre"
+msgstr "همه چیز رو حل کن"
+
+msgid "non résolues"
+msgstr "حل نشده"
+
+msgid "Tout est résolu"
+msgstr "همه چیز حل شده است"
+
+msgid "Type"
+msgstr "مهربان"
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "Statut"
+msgstr "وضعیت"
+
+msgid "Résolu"
+msgstr "حل شد"
+
+msgid "Non résolu"
+msgstr "حل نشده"
+
+msgid "Aucune erreur enregistrée"
+msgstr "هیچ خطایی ثبت نشده است"
+
+msgid "Le système fonctionne correctement."
+msgstr "سیستم به درستی کار می کند."
+
+msgid "Gestion des utilisateurs"
+msgstr "مدیریت کاربر"
+
+msgid "comptes"
+msgstr "حساب ها"
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "Téléphone"
+msgstr "تلفن"
+
+msgid "Rôle"
+msgstr "نقش"
+
+msgid "Inscrit le"
+msgstr "ثبت شده در"
+
+msgid "Actions"
+msgstr "اقدامات"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "این کاربر و همه دستگاه‌هایش حذف شود؟"
+
+msgid "Vous"
+msgstr "شما"
+
+msgid "Connexions"
+msgstr "اتصالات"
+
+msgid "Vol"
+msgstr "پرواز"
+
+msgid "Perte"
+msgstr "از دست دادن"
+
+msgid "Anomalie"
+msgstr "ناهنجاری"
+
+msgid "Alertes"
+msgstr "هشدارها"
+
+msgid "Gestion des alertes"
+msgstr "مدیریت هشدار"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "گزارش سرقت یا گم شدن و پیگیری سابقه"
+
+msgid "Signaler un vol / perte"
+msgstr "گزارش سرقت/مفقود شدن"
+
+msgid "En cours"
+msgstr "در حال انجام است"
+
+msgid "Résolues"
+msgstr "حل شد"
+
+msgid "Historique des alertes"
+msgstr "تاریخچه هشدار"
+
+msgid "Appareil"
+msgstr "دستگاه"
+
+msgid "Priorité"
+msgstr "اولویت"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "علامت گذاری این هشدار به عنوان حل شده است؟"
+
+msgid "Résoudre"
+msgstr "حل کنید"
+
+msgid "Aucune alerte"
+msgstr "بدون هشدار"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "خبر خوب! هیچ هشداری گزارش نشده است."
+
+msgid "Signaler un vol ou une perte"
+msgstr "دزدی یا گم شدن را گزارش دهید"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"با گزارش سرقت، دستگاه شما به صورت خودکار قفل می شود و اعلان ها ارسال می "
+"شود."
+
+msgid "Appareil concerné"
+msgstr "دستگاه تحت تأثیر قرار گرفته است"
+
+msgid "Sélectionner un appareil"
+msgstr "یک دستگاه را انتخاب کنید"
+
+msgid "Type d'alerte"
+msgstr "نوع هشدار"
+
+msgid "Décrivez les circonstances..."
+msgstr "شرایط را شرح دهید ..."
+
+msgid "Annuler"
+msgstr "لغو کنید"
+
+msgid "Signaler"
+msgstr "گزارش دهید"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "سیستم ضد سرقت هوشمند - پلت فرم امنیتی برای گوشی های هوشمند"
+
+msgid "Système Anti-Vol"
+msgstr "سیستم ضد سرقت"
+
+msgid "PRINCIPAL"
+msgstr "اصلی"
+
+msgid "Tableau de bord"
+msgstr "داشبورد"
+
+msgid "SÉCURITÉ"
+msgstr "امنیت"
+
+msgid "Géolocalisation"
+msgstr "موقعیت جغرافیایی"
+
+msgid "ADMINISTRATION"
+msgstr "اداره"
+
+msgid "Déconnexion"
+msgstr "قطع کن"
+
+msgid "Changer de langue"
+msgstr "تغییر زبان"
+
+msgid "Rechercher une langue..."
+msgstr "جستجوی زبان..."
+
+msgid "Profil"
+msgstr "نمایه"
+
+msgid "Changer de thème"
+msgstr "تغییر تم"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "مروری بر امنیت دستگاه شما"
+
+msgid "Ajouter un appareil"
+msgstr "یک دستگاه اضافه کنید"
+
+msgid "Appareils volés"
+msgstr "وسایل دزدیده شده"
+
+msgid "Verrouillés à distance"
+msgstr "از راه دور قفل شده است"
+
+msgid "Alertes récentes"
+msgstr "هشدارهای اخیر"
+
+msgid "Voir tout"
+msgstr "همه را ببینید"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "بدون هشدار دستگاه های شما ایمن هستند!"
+
+msgid "Mes appareils"
+msgstr "دستگاه های من"
+
+msgid "Aucun appareil enregistré"
+msgstr "هیچ دستگاهی ثبت نشده است"
+
+msgid "Ajouter"
+msgstr "اضافه کنید"
+
+msgid "en attente"
+msgstr "در انتظار"
+
+msgid "Gestion des appareils"
+msgstr "مدیریت دستگاه"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "گوشی های هوشمند خود را ثبت و مدیریت کنید"
+
+msgid "Opérateur"
+msgstr "اپراتور"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "این دستگاه از راه دور قفل شود؟"
+
+msgid "Verrouiller"
+msgstr "قفل کنید"
+
+msgid "Déverrouiller"
+msgstr "باز کردن قفل"
+
+msgid "Supprimer cet appareil ?"
+msgstr "این دستگاه حذف شود؟"
+
+msgid "Supprimer"
+msgstr "حذف کنید"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "اولین گوشی هوشمند خود را اضافه کنید تا از آن محافظت کنید."
+
+msgid "Nouvel appareil"
+msgstr "دستگاه جدید"
+
+msgid "Marque"
+msgstr "نام تجاری"
+
+msgid "Sélectionner"
+msgstr "انتخاب کنید"
+
+msgid "Autre"
+msgstr "دیگر"
+
+msgid "Modèle"
+msgstr "مدل"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "*#06# را در گوشی خود تایپ کنید"
+
+msgid "Système d'exploitation"
+msgstr "سیستم عامل"
+
+msgid "Numéro de téléphone"
+msgstr "شماره تلفن"
+
+msgid "Enregistrer"
+msgstr "ذخیره کنید"
+
+msgid "Connexion"
+msgstr "اتصال"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "سیستم امنیتی گوشی های هوشمند"
+
+msgid "Adresse email"
+msgstr "آدرس ایمیل"
+
+msgid "Mot de passe"
+msgstr "رمز عبور"
+
+msgid "Se connecter"
+msgstr "وارد شوید"
+
+msgid "Mot de passe oublié ?"
+msgstr "رمز عبور را فراموش کرده اید؟"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"آیا از قبل حساب کاربری دارید؟ در غیر این صورت، اقدام به ایجاد حساب کاربری"
+" خود کنید!"
+
+msgid "Créer un compte"
+msgstr "یک حساب کاربری ایجاد کنید"
+
+msgid "Sécurité maximale"
+msgstr "حداکثر امنیت"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "از اطلاعات شخصی خود با قفل از راه دور محافظت کنید"
+
+msgid "Localisation GPS"
+msgstr "موقعیت مکانی GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "مکان دقیق گوشی هوشمند خود را در زمان واقعی پیدا کنید"
+
+msgid "Alertes instantanées"
+msgstr "هشدارهای فوری"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "دریافت اس ام اس، ایمیل و اعلان های فشار در صورت سرقت"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "دستگاه های خود را پیدا کنید و مناطق خطر را تجسم کنید"
+
+msgid "Aucun appareil"
+msgstr "بدون دستگاه"
+
+msgid "Zones à risque"
+msgstr "مناطق خطر"
+
+msgid "incidents"
+msgstr "حوادث"
+
+msgid "Aucune zone signalée"
+msgstr "هیچ منطقه ای گزارش نشده است"
+
+msgid "Niveau"
+msgstr "سطح"
+
+msgid "Incidents"
+msgstr "حوادث"
+
+msgid "Profile utilisateur"
+msgstr "مشخصات کاربر"
+
+msgid "Gérez vos informations personnelles"
+msgstr "اطلاعات شخصی خود را مدیریت کنید"
+
+msgid "Membre depuis"
+msgstr "عضو از"
+
+msgid "Modifier mes informations"
+msgstr "اطلاعات من را ویرایش کنید"
+
+msgid "Prénom"
+msgstr "نام کوچک"
+
+msgid "Nom"
+msgstr "نام"
+
+msgid "Changer le mot de passe"
+msgstr "رمز عبور را تغییر دهید"
+
+msgid "Nouveau mot de passe"
+msgstr "رمز عبور جدید"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "خالی بگذارید تا تغییر نکنید"
+
+msgid "Enregistrer les modifications"
+msgstr "ذخیره تغییرات"
+
+msgid "Inscription"
+msgstr "ثبت نام"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "برای امنیت بهتر دستگاه های خود به Anti-Theft خوش آمدید"
+
+msgid "Confirmer"
+msgstr "تایید کنید"
+
+msgid "Créer mon compte"
+msgstr "حساب کاربری من را ایجاد کنید"
+
+msgid "Déjà un compte ?"
+msgstr "از قبل حساب کاربری دارید؟"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "بازنشانی رمز عبور"
+
+msgid "Réinitialisation"
+msgstr "بازنشانی کنید"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "ایمیل و شماره تلفن خود را برای تایید هویت خود وارد کنید"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "شماره استفاده شده در هنگام ثبت نام"
+
+msgid "Minimum 6 caractères"
+msgstr "حداقل 6 کاراکتر"
+
+msgid "Confirmer le mot de passe"
+msgstr "رمز عبور را تایید کنید"
+
+msgid "Retourner à la"
+msgstr "بازگشت به"
+
+msgid "page de connexion"
+msgstr "صفحه ورود"
+
+msgid "Vérification sécurisée"
+msgstr "تایید امن"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "هویت شما با استفاده از ایمیل و شماره تلفن شما تایید می شود"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "یک رمز عبور امن حداقل 6 کاراکتری انتخاب کنید"
+
+msgid "d"
+msgstr "د"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{ویرایشگر}: ویرایش انجام نشد"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: ویرایش انجام نشد: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "خطای ویندوز: {خطا}"
+
+msgid "deprecated"
+msgstr "منسوخ شده است"
+
+msgid "Options"
+msgstr "گزینه ها"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "آرگومان اضافی غیرمنتظره دریافت کرد ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: دستور {name!r} منسوخ شده است.{extra_message}"
+
+msgid "Aborted!"
+msgstr "سقط شد!"
+
+msgid "Commands"
+msgstr "دستورات"
+
+msgid "Missing command."
+msgstr "دستور از دست رفته"
+
+msgid "Value must be an iterable."
+msgstr "مقدار باید تکرارپذیر باشد."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "مقادیر {nargs} را می گیرد اما 1 داده شده است."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "هشدار منسوخ شدن: {param_type} {name!r} منسوخ شده است.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "نام \"{name}\" دو بار تعریف شده است"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "گزینه بولی {decl!r} نمی تواند از همان پرچم برای true/false استفاده کند."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "با اعلان‌های {decls!r} نامی برای گزینه تعیین نشد"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"هیچ گزینه ای تعریف نشده است اما یک نام ارسال شده است ({name}). آیا "
+"منظورتان این بود که به جای آن یک استدلال اعلام کنید؟ آیا می‌خواهید "
+"«--{name}» را پاس کنید؟"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "متغیر محیطی: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "پیش‌فرض: {default}"
+
+msgid "required"
+msgstr "مورد نیاز است"
+
+msgid "(dynamic)"
+msgstr "(پویا)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "آرگومان‌ها دقیقاً یک اعلان پارامتر دارند، {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "آیا می خواهید ادامه دهید؟"
+
+msgid "Confirm the action without prompting."
+msgstr "بدون درخواست، اقدام را تأیید کنید."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s، نسخه %(نسخه)s"
+
+msgid "Show the version and exit."
+msgstr "نسخه را نشان دهید و خارج شوید."
+
+msgid "Show this message and exit."
+msgstr "این پیام را نشان دهید و خارج شوید."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "منظورت {امکان} بود؟"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "خطا: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "برای راهنمایی «{command} {option}» را امتحان کنید."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "مقدار نامعتبر: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "مقدار نامعتبر برای {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "استدلال گم شده"
+
+msgid "Missing option"
+msgstr "گزینه گم شده"
+
+msgid "Missing parameter"
+msgstr "پارامتر از دست رفته"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} وجود ندارد"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "پارامتر موجود نیست: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "چنین گزینه ای {name!r} وجود ندارد."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "چنین دستوری {name!r} وجود ندارد."
+
+msgid "unknown error"
+msgstr "خطای ناشناخته"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "فایل {filename!r} باز نشد: {message}"
+
+msgid "Usage:"
+msgstr "استفاده کنید:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "نویسه شروع نامعتبر برای گزینه ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "آرگومان {name!r} مقادیر {nargs} را می گیرد."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "گزینه {name!r} مقداری نمی گیرد."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "گزینه {name!r} به آرگومان نیاز دارد."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "تکمیل پوسته برای نسخه‌های Bash قدیمی‌تر از 4.4 پشتیبانی نمی‌شود."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "نسخه Bash شناسایی نشد، تکمیل پوسته پشتیبانی نمی‌شود."
+
+msgid "Repeat for confirmation"
+msgstr "برای تایید تکرار کنید"
+
+msgid "Error: The two entered values do not match."
+msgstr "خطا: دو مقدار وارد شده مطابقت ندارند."
+
+msgid "Error: invalid input"
+msgstr "خطا: ورودی نامعتبر است"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "رنگ ناشناخته {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "برای ادامه هر کلیدی را فشار دهید..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "انتخاب از بین:\\n\\t{انتخابها}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} {انتخاب} نیست."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "انتخاب ({انتخابها})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} با قالب {format} مطابقت ندارد."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} یک {number_type} معتبر نیست."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} در محدوده {range} نیست."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} یک بولی معتبر نیست. مقادیر شناسایی شده: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} یک UUID معتبر نیست."
+
+msgid "file"
+msgstr "فایل"
+
+msgid "directory"
+msgstr "دایرکتوری"
+
+msgid "path"
+msgstr "مسیر"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} وجود ندارد."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} یک فایل است."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} یک دایرکتوری است."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} قابل خواندن نیست."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} قابل نوشتن نیست."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} قابل اجرا نیست."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "مقادیر {len_type} مورد نیاز است، اما {len_value} داده شده است."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "جریان استاندارد ناشناخته \"{name}\""
+
+msgid "This field is required."
+msgstr "این فیلد الزامی است."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "فایل پسوند تأیید شده ندارد: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "فایل پسوند تایید شده ندارد."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "فایل باید بین {min_size} و {max_size} بایت باشد."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "نام فیلد «%s» نامعتبر است."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "فیلد باید برابر با %(other_name)s باشد."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "طول فیلد باید حداقل %(min)d نویسه باشد."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "فیلد نمی تواند بیشتر از %(max)d کاراکتر باشد."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "طول فیلد باید دقیقا %(max)d باشد."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "طول فیلد باید بین %(min)d و %(max)d کاراکتر باشد."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "تعداد باید حداقل %(min)s باشد."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "عدد باید حداکثر %(max)s باشد."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "عدد باید بین %(min)s و %(max)s باشد."
+
+msgid "Invalid input."
+msgstr "ورودی نامعتبر است."
+
+msgid "Invalid email address."
+msgstr "آدرس ایمیل نامعتبر است."
+
+msgid "Invalid IP address."
+msgstr "آدرس IP نامعتبر است."
+
+msgid "Invalid Mac address."
+msgstr "آدرس مک نامعتبر است."
+
+msgid "Invalid URL."
+msgstr "URL نامعتبر است."
+
+msgid "Invalid UUID."
+msgstr "UUID نامعتبر است."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "مقدار نامعتبر، باید یکی از موارد زیر باشد: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "مقدار نامعتبر است، نمی تواند هیچ یک از: %(values)s باشد."
+
+msgid "This field cannot be edited."
+msgstr "این فیلد قابل ویرایش نیست."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "این فیلد غیرفعال است و نمی تواند مقداری داشته باشد."
+
+msgid "Invalid CSRF Token."
+msgstr "توکن CSRF نامعتبر است."
+
+msgid "CSRF token missing."
+msgstr "رمز CSRF از دست رفته است."
+
+msgid "CSRF failed."
+msgstr "CSRF شکست خورد."
+
+msgid "CSRF token expired."
+msgstr "توکن CSRF منقضی شده است."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "انتخاب نامعتبر: نتوانست اجبار کند."
+
+msgid "Choices cannot be None."
+msgstr "انتخاب ها نمی توانند هیچ باشند."
+
+msgid "Not a valid choice."
+msgstr "انتخاب معتبری نیست"
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "انتخاب(های) نامعتبر: یک یا چند ورودی داده را نمی توان اجباری کرد."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' یک انتخاب معتبر برای این فیلد نیست."
+
+msgid "Not a valid datetime value."
+msgstr "یک مقدار تاریخ معتبر نیست."
+
+msgid "Not a valid date value."
+msgstr "یک مقدار تاریخ معتبر نیست."
+
+msgid "Not a valid time value."
+msgstr "یک مقدار زمانی معتبر نیست."
+
+msgid "Not a valid week value."
+msgstr "یک مقدار هفته معتبر نیست."
+
+msgid "Not a valid integer value."
+msgstr "یک مقدار صحیح معتبر نیست."
+
+msgid "Not a valid decimal value."
+msgstr "یک مقدار اعشاری معتبر نیست."
+
+msgid "Not a valid float value."
+msgstr "یک مقدار شناور معتبر نیست."
+

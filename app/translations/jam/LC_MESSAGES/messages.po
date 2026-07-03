@@ -1,0 +1,1030 @@
+# Translations for JAM.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: jam\n"
+"Language-Team: jam <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Pliiz lag iin fi akses dis piej."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Dis IMEI don register inna di system."
+
+msgid "Accès non autorisé."
+msgstr "Unauthorized access."
+
+msgid "Appareil déverrouillé."
+msgstr "Device unlocked."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alert created! Notifications sen."
+
+msgid "Alerte résolue."
+msgstr "Alert resolved."
+
+msgid "Pas encore de compte ?"
+msgstr "No account yet?"
+
+msgid "Mon Profil"
+msgstr "Mi Profile"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Connection successful! Welcum."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Incorrect email or password."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "All required fields must be completed."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Passwords nuh match."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Di password haffi contain at least 6 characters."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Dis email deh inna use aredi."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Account created successfully! Log iin."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "No accounts find wid dis email."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Di phone numba nuh match di account numba."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Di new password is mandatory."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Password reset successfully! Log iin."
+
+msgid "Vous avez été déconnecté."
+msgstr "Yuh get disconnect."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Brand, model an IMEI dem need."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "A device wid dis IMEI already deh deh."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Device registered successfully!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Yuh noh authorized fi perform dis action."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Device remotely locked successfully."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Device unlocked successfully."
+
+msgid "Appareil supprimé."
+msgstr "Device delete."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Please select a device an alert type."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Dis device nuh belong to yuh."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert reported successfully. Di device get secure."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alert marked as resolved."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Fos niem, laas niem an iimiel niid."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Dis email is already used by anodda account."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profile updated successfully!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Access reserved fi administrators."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Error marked as resolved."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Yuh cyaan delete yuh own account."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "User successfully delete."
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Centralized management a di Anti-Theft system"
+
+msgid "Utilisateurs"
+msgstr "Users"
+
+msgid "Actifs aujourd'hui"
+msgstr "Active today"
+
+msgid "Nouveaux ce mois"
+msgstr "New dis month"
+
+msgid "Appareils"
+msgstr "Devices"
+
+msgid "Alertes actives"
+msgstr "Active alerts"
+
+msgid "Analytique"
+msgstr "Analytical"
+
+msgid "Journal d'activité"
+msgstr "Activity log"
+
+msgid "Erreurs"
+msgstr "Errors"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Connections (last 7 days)"
+
+msgid "Alertes par type"
+msgstr "Alerts by type"
+
+msgid "Appareils par opérateur"
+msgstr "Devices by operator"
+
+msgid "Résumé du système"
+msgstr "System Summary"
+
+msgid "Utilisateurs total"
+msgstr "Total users"
+
+msgid "Appareils enregistrés"
+msgstr "Registered devices"
+
+msgid "Total alertes"
+msgstr "Total alerts"
+
+msgid "Alertes en cours"
+msgstr "Current alerts"
+
+msgid "Erreurs non résolues"
+msgstr "Unresolved errors"
+
+msgid "Dernières activités"
+msgstr "Latest activities"
+
+msgid "récentes"
+msgstr "nuh too lang aguh"
+
+msgid "Utilisateur"
+msgstr "User"
+
+msgid "Action"
+msgstr "Movement"
+
+msgid "Détails"
+msgstr "Detail dem"
+
+msgid "Adresse IP"
+msgstr "IP address"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Aucune activité"
+msgstr "No activity"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "User activities ago appear yah."
+
+msgid "Journal d'erreurs"
+msgstr "Error log"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Fix all errors?"
+
+msgid "Tout résoudre"
+msgstr "Solve everyting"
+
+msgid "non résolues"
+msgstr "unresolved"
+
+msgid "Tout est résolu"
+msgstr "Everyting is solve"
+
+msgid "Type"
+msgstr "Kine"
+
+msgid "Description"
+msgstr "Discripshan"
+
+msgid "Statut"
+msgstr "Place"
+
+msgid "Résolu"
+msgstr "Resolved"
+
+msgid "Non résolu"
+msgstr "Unresolved"
+
+msgid "Aucune erreur enregistrée"
+msgstr "No errors neva record"
+
+msgid "Le système fonctionne correctement."
+msgstr "Di system a work properly."
+
+msgid "Gestion des utilisateurs"
+msgstr "User management"
+
+msgid "comptes"
+msgstr "accounts"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Fone"
+
+msgid "Rôle"
+msgstr "Paaty"
+
+msgid "Inscrit le"
+msgstr "Registered pan"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Delete dis user an all dem devices?"
+
+msgid "Vous"
+msgstr "YUH"
+
+msgid "Connexions"
+msgstr "Connections"
+
+msgid "Vol"
+msgstr "Flite"
+
+msgid "Perte"
+msgstr "Lose"
+
+msgid "Anomalie"
+msgstr "Anomaly"
+
+msgid "Alertes"
+msgstr "Alerts"
+
+msgid "Gestion des alertes"
+msgstr "Alert management"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Report theft or loss an track history"
+
+msgid "Signaler un vol / perte"
+msgstr "Report theft/loss"
+
+msgid "En cours"
+msgstr "Inna progress"
+
+msgid "Résolues"
+msgstr "Resolved"
+
+msgid "Historique des alertes"
+msgstr "Alert History"
+
+msgid "Appareil"
+msgstr "Divice"
+
+msgid "Priorité"
+msgstr "Very impotant"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Mark dis alert as resolved?"
+
+msgid "Résoudre"
+msgstr "Figa out"
+
+msgid "Aucune alerte"
+msgstr "No alert"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Good news! No alerts neva get report."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Report theft or loss"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Wen yuh report a theft, yuh device ago get lock automatically an "
+"notifications ago sen."
+
+msgid "Appareil concerné"
+msgstr "Affected device"
+
+msgid "Sélectionner un appareil"
+msgstr "Select a device"
+
+msgid "Type d'alerte"
+msgstr "Alert type"
+
+msgid "Décrivez les circonstances..."
+msgstr "Describe di circumstances..."
+
+msgid "Annuler"
+msgstr "Shet dung"
+
+msgid "Signaler"
+msgstr "Tell"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Intelligent Anti-Theft System — Security platform fi smartphones"
+
+msgid "Système Anti-Vol"
+msgstr "Anti-Theft System"
+
+msgid "PRINCIPAL"
+msgstr "MAIN"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "PROTECSHAN"
+
+msgid "Géolocalisation"
+msgstr "Geolocation"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRATION"
+
+msgid "Déconnexion"
+msgstr "Disconnect"
+
+msgid "Changer de langue"
+msgstr "Chienj langwij"
+
+msgid "Rechercher une langue..."
+msgstr "Search fi a language..."
+
+msgid "Profil"
+msgstr "Profile"
+
+msgid "Changer de thème"
+msgstr "Change theme"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Ovaview a yuh device security"
+
+msgid "Ajouter un appareil"
+msgstr "Add a device"
+
+msgid "Appareils volés"
+msgstr "Stolen devices"
+
+msgid "Verrouillés à distance"
+msgstr "Remotely locked"
+
+msgid "Alertes récentes"
+msgstr "Recent alerts"
+
+msgid "Voir tout"
+msgstr "See all"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "No alert. Yuh devices dem safe!"
+
+msgid "Mes appareils"
+msgstr "Mi devices"
+
+msgid "Aucun appareil enregistré"
+msgstr "No devices registered"
+
+msgid "Ajouter"
+msgstr "Add aan"
+
+msgid "en attente"
+msgstr "pan hold"
+
+msgid "Gestion des appareils"
+msgstr "Device management"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Register an manage yuh smartphones"
+
+msgid "Opérateur"
+msgstr "Operator"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Lock dis device remotely?"
+
+msgid "Verrouiller"
+msgstr "Lack"
+
+msgid "Déverrouiller"
+msgstr "Unlock"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Delete dis device?"
+
+msgid "Supprimer"
+msgstr "CHROW WEH"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Add yuh first smartphone fi staat protect it."
+
+msgid "Nouvel appareil"
+msgstr "New device"
+
+msgid "Marque"
+msgstr "Bran"
+
+msgid "Sélectionner"
+msgstr "Chuze"
+
+msgid "Autre"
+msgstr "Eda"
+
+msgid "Modèle"
+msgstr "Magella"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "type *#06# pan yuh phone"
+
+msgid "Système d'exploitation"
+msgstr "Operating system"
+
+msgid "Numéro de téléphone"
+msgstr "Phone numba"
+
+msgid "Enregistrer"
+msgstr "Sayv"
+
+msgid "Connexion"
+msgstr "Connection"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Smartphone security system"
+
+msgid "Adresse email"
+msgstr "E-mail address"
+
+msgid "Mot de passe"
+msgstr "Passwud"
+
+msgid "Se connecter"
+msgstr "Log iin"
+
+msgid "Mot de passe oublié ?"
+msgstr "Yuh forget password?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Yuh already have an account? Or else, proceed to creating yuh account!"
+
+msgid "Créer un compte"
+msgstr "Mek wan account"
+
+msgid "Sécurité maximale"
+msgstr "Maximum security"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Protek yuh personal data wid remote locking"
+
+msgid "Localisation GPS"
+msgstr "GPS location"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Find di exact location a yuh smartphone inna real time"
+
+msgid "Alertes instantanées"
+msgstr "Instant alerts"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Receive SMS, email an push notifications inna di event a theft"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Locate yuh devices an visualize risk areas"
+
+msgid "Aucun appareil"
+msgstr "No device"
+
+msgid "Zones à risque"
+msgstr "Risk areas"
+
+msgid "incidents"
+msgstr "incidents"
+
+msgid "Aucune zone signalée"
+msgstr "No areas reported"
+
+msgid "Niveau"
+msgstr "Level"
+
+msgid "Incidents"
+msgstr "Incidents"
+
+msgid "Profile utilisateur"
+msgstr "User profile"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Manage yuh personal information"
+
+msgid "Membre depuis"
+msgstr "Member since"
+
+msgid "Modifier mes informations"
+msgstr "Edit mi information"
+
+msgid "Prénom"
+msgstr "Fuss name"
+
+msgid "Nom"
+msgstr "Name"
+
+msgid "Changer le mot de passe"
+msgstr "Change password"
+
+msgid "Nouveau mot de passe"
+msgstr "New Password"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "lef blank so yuh no change"
+
+msgid "Enregistrer les modifications"
+msgstr "Save changes"
+
+msgid "Inscription"
+msgstr "Registration"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Welkom tu Anti-Theft fi beta sekiuriti a yu divais dem"
+
+msgid "Confirmer"
+msgstr "Confirm"
+
+msgid "Créer mon compte"
+msgstr "Mek mi account"
+
+msgid "Déjà un compte ?"
+msgstr "Yuh have an account aredi?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Reset Password"
+
+msgid "Réinitialisation"
+msgstr "Reset"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Put iin yuh email an phone numba fi verify yuh identity"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Di numba weh dem use wen dem did a registrate"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimum 6 characters"
+
+msgid "Confirmer le mot de passe"
+msgstr "Confirm password"
+
+msgid "Retourner à la"
+msgstr "Go bak to"
+
+msgid "page de connexion"
+msgstr "login page"
+
+msgid "Vérification sécurisée"
+msgstr "Secure verification"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Yuh identity get verified wid yuh email an phone numba"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Choose a secure password wid at least 6 characters"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Editing failed"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Editing failed: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows error: {error}"
+
+msgid "deprecated"
+msgstr "deprecated"
+
+msgid "Options"
+msgstr "Options"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Get unexpected extra argument ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Di command {name!r} is deprecated.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Aborted!"
+
+msgid "Commands"
+msgstr "Commands"
+
+msgid "Missing command."
+msgstr "Missing command."
+
+msgid "Value must be an iterable."
+msgstr "Value haffi be an iterable."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Tek {nargs} values ​​ﬁbut 1 was given."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: Di {param_type} {name!r} is deprecated.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Name '{name}' defined twice"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Boolean option {decl!r} cyaan use di same flag fi true/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Could determine name fi option wid declarations {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"No opshan no difain bot a niem wehn paas ({niem}). Yuh did mean fi "
+"declare an argument instead? Yuh did mean fi pass '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default}"
+
+msgid "required"
+msgstr "require"
+
+msgid "(dynamic)"
+msgstr "(dynamic)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Arguments tek exactly one parameter declaration, got {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Yuh waan continue?"
+
+msgid "Confirm the action without prompting."
+msgstr "Confirm di action widout prompting."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, version %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Show di version an exit."
+
+msgid "Show this message and exit."
+msgstr "Show dis message an exit."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Yuh did mean {possibility}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Error: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Chrai '{command} {option}' fi elp."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Invalid value: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Invalid value fi {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Missing argument"
+
+msgid "Missing option"
+msgstr "Missing option"
+
+msgid "Missing parameter"
+msgstr "Missing parameter"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Missing {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Missing parameter: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "No such option {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "No such command {name!r}."
+
+msgid "unknown error"
+msgstr "no know error"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Couldn't open file {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Use:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Invalid staat character fi option ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argument {name!r} tek {nargs} values."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Option {name!r} nuh tek a value."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Option {name!r} need an argument."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell completion no support fi Bash versions weh uolda dan 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Couldn't detect Bash version, shell completion is not supported."
+
+msgid "Repeat for confirmation"
+msgstr "Repeat fi confirmation"
+
+msgid "Error: The two entered values do not match."
+msgstr "Error: Di two values ​​weh yuh put in no match."
+
+msgid "Error: invalid input"
+msgstr "Error: invalid input"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Unknown color {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Press any key fi continue..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Choose fram:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} a nuh {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Choice({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} no match di format {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} a nuh valid {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} no deh inna di range {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} a nuh valid boolean. Recognized values: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} a nuh valid UUID."
+
+msgid "file"
+msgstr "file"
+
+msgid "directory"
+msgstr "directory"
+
+msgid "path"
+msgstr "way"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} no egzis."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} a one file."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} a one directory."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} is not readable."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} is not writable."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} is not executable."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} values ​​are required, but {len_value} was given."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Unknown standard stream '{name}'"
+
+msgid "This field is required."
+msgstr "Dis field is required."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "File no have an approved extension: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "File nuh have an approved extension."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "File haffi deh between {min_size} an {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Invalid field name '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Fiil mos bi iikual tu %(ada_niem)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Field haffi be at least %(min)d character long."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Field cyaan be longer dan %(max)d character."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Field haffi be exactly %(max)d character long."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Field haffi be between %(min)d an %(max)d characters long."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Number haffi be at least %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Number haffi be at most %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Number haffi be between %(min)s an %(max)s."
+
+msgid "Invalid input."
+msgstr "Invalid input."
+
+msgid "Invalid email address."
+msgstr "Invalid email address."
+
+msgid "Invalid IP address."
+msgstr "Invalid IP address."
+
+msgid "Invalid Mac address."
+msgstr "Invalid Mac address."
+
+msgid "Invalid URL."
+msgstr "Invalid URL."
+
+msgid "Invalid UUID."
+msgstr "Invalid UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Invalid value, haffi be one a: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Invalid value, can't be any of: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Dis fiil kyaahn edit."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Dis field is disabled an cyaan have a value."
+
+msgid "Invalid CSRF Token."
+msgstr "Invalid CSRF Token."
+
+msgid "CSRF token missing."
+msgstr "CSRF token missing."
+
+msgid "CSRF failed."
+msgstr "CSRF fail."
+
+msgid "CSRF token expired."
+msgstr "CSRF token expire."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Invalid Choice: couldn't coerce."
+
+msgid "Choices cannot be None."
+msgstr "Choices cyaan be None."
+
+msgid "Not a valid choice."
+msgstr "Not a valid choice."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Invalid choice(s): one or more data inputs couldn't be coerced."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' a no valid choice fi dis field."
+
+msgid "Not a valid datetime value."
+msgstr "Not a valid datetime value."
+
+msgid "Not a valid date value."
+msgstr "Not a valid date value."
+
+msgid "Not a valid time value."
+msgstr "Not a valid time value."
+
+msgid "Not a valid week value."
+msgstr "Not a valid week value."
+
+msgid "Not a valid integer value."
+msgstr "Not a valid integer value."
+
+msgid "Not a valid decimal value."
+msgstr "Not a valid decimal value."
+
+msgid "Not a valid float value."
+msgstr "Not a valid float value."
+

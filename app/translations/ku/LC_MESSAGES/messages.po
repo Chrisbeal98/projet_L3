@@ -1,0 +1,1039 @@
+# Translations for KU.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ku\n"
+"Language-Team: ku <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Ji kerema xwe têkeve vê rûpelê."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Ev IMEI jixwe di pergalê de qeydkirî ye."
+
+msgid "Accès non autorisé."
+msgstr "Gihîştina bê destûr."
+
+msgid "Appareil déverrouillé."
+msgstr "Device vekir."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alert hate afirandin! Agahdarî şandin."
+
+msgid "Alerte résolue."
+msgstr "Hişyar çareser kirin."
+
+msgid "Pas encore de compte ?"
+msgstr "Hesab tune ye?"
+
+msgid "Mon Profil"
+msgstr "Profîla min"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Têkilî serketî ye! Bi xêr hatî."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "E-name an şîfreya çewt."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Pêdivî ye ku hemî qadên pêwîst bêne tije kirin."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Şîfre li hev nayên."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Divê şîfre herî kêm 6 tîpan hebe."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Ev e-name jixwe tê bikaranîn."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Hesab bi serkeftî hate afirandin! Têkeve."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Hesabên bi vê e-nameyê re nehatin dîtin."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Hejmara têlefonê bi jimareya hesabê re nagire."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Şîfreya nû mecbûrî ye."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Şîfre bi serkeftî vegere! Têkeve."
+
+msgid "Vous avez été déconnecté."
+msgstr "Hûn hatine qut kirin."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Brand, model û IMEI hewce ne."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Amûrek bi vê IMEI-ê jixwe heye."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Cîhaz bi serketî hat qeyd kirin!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Hûn ne destûr in ku hûn vê çalakiyê bikin."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Cîhaz ji dûr ve bi serkeftî hate girtin."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Amûr bi serkeftî vebû."
+
+msgid "Appareil supprimé."
+msgstr "Amûr hate jêbirin."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Ji kerema xwe amûrek û celebek hişyariyê hilbijêrin."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Ev amûr ne ya we ye."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert bi serkeftî ragihand. Amûr hatiye ewlekirin."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Hişyar wekî çareserkirî hat nîşankirin."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Nav, paşnav û e-name hewce ne."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Ev e-name jixwe ji hêla hesabek din ve tê bikar anîn."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profîl bi serkeftî hate nûve kirin!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Gihîştin ji bo rêvebiran parastî ye."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Çewtî wekî çareserkirî hat nîşankirin."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Hûn nikarin hesabê xwe jêbirin."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Bikarhêner bi serkeftî hat jêbirin."
+
+msgid "Administration"
+msgstr "Birêvebirî"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Rêveberiya navendî ya pergala Dij-Diziyê"
+
+msgid "Utilisateurs"
+msgstr "Bikarhêner"
+
+msgid "Actifs aujourd'hui"
+msgstr "Îro çalak e"
+
+msgid "Nouveaux ce mois"
+msgstr "Vê mehê nû"
+
+msgid "Appareils"
+msgstr "Devices"
+
+msgid "Alertes actives"
+msgstr "alerts Active"
+
+msgid "Analytique"
+msgstr "Analîtîk"
+
+msgid "Journal d'activité"
+msgstr "Têketina çalakiyê"
+
+msgid "Erreurs"
+msgstr "Errors"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Têkilî (7 rojên dawîn)"
+
+msgid "Alertes par type"
+msgstr "Alerts bi cureyê"
+
+msgid "Appareils par opérateur"
+msgstr "Amûrên ji hêla operator"
+
+msgid "Résumé du système"
+msgstr "Pergala Kurte"
+
+msgid "Utilisateurs total"
+msgstr "Bi tevahî bikarhêneran"
+
+msgid "Appareils enregistrés"
+msgstr "Amûrên qeydkirî"
+
+msgid "Total alertes"
+msgstr "Total alerts"
+
+msgid "Alertes en cours"
+msgstr "Alerts niha"
+
+msgid "Erreurs non résolues"
+msgstr "Çewtiyên neçareserkirî"
+
+msgid "Dernières activités"
+msgstr "Latest çalakiyên"
+
+msgid "récentes"
+msgstr "demek berê"
+
+msgid "Utilisateur"
+msgstr "Bikaranîvan"
+
+msgid "Action"
+msgstr "Çalakî"
+
+msgid "Détails"
+msgstr "Details"
+
+msgid "Adresse IP"
+msgstr "Navnîşana IP'yê"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Rojek"
+
+msgid "Aucune activité"
+msgstr "No çalakî"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Çalakiyên bikarhêner dê li vir xuya bibin."
+
+msgid "Journal d'erreurs"
+msgstr "Têketina çewtiyê"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Hemî xeletiyan rast bikin?"
+
+msgid "Tout résoudre"
+msgstr "Her tiştî çareser bikin"
+
+msgid "non résolues"
+msgstr "bêçareserkirin"
+
+msgid "Tout est résolu"
+msgstr "Her tişt çareser dibe"
+
+msgid "Type"
+msgstr "Cins"
+
+msgid "Description"
+msgstr "Terîf"
+
+msgid "Statut"
+msgstr "Cî"
+
+msgid "Résolu"
+msgstr "Çareser kirin"
+
+msgid "Non résolu"
+msgstr "Bêçareserkirin"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Tu çewtî nehat tomarkirin"
+
+msgid "Le système fonctionne correctement."
+msgstr "Pergal bi rêkûpêk dixebite."
+
+msgid "Gestion des utilisateurs"
+msgstr "Rêveberiya bikarhêner"
+
+msgid "comptes"
+msgstr "hesaban"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telefon"
+
+msgid "Rôle"
+msgstr "Role"
+
+msgid "Inscrit le"
+msgstr "Li ser qeydkirî ye"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Vê bikarhêner û hemî cîhazên wî jêbirin?"
+
+msgid "Vous"
+msgstr "HÛN"
+
+msgid "Connexions"
+msgstr "Girêdanên"
+
+msgid "Vol"
+msgstr "Firrê"
+
+msgid "Perte"
+msgstr "Winda"
+
+msgid "Anomalie"
+msgstr "Anomalî"
+
+msgid "Alertes"
+msgstr "Alerts"
+
+msgid "Gestion des alertes"
+msgstr "Rêveberiya hişyariyê"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Dizî an windabûnê rapor bikin û dîroka bişopînin"
+
+msgid "Signaler un vol / perte"
+msgstr "Rapor dizî / winda"
+
+msgid "En cours"
+msgstr "Ez teslîm nabim"
+
+msgid "Résolues"
+msgstr "Çareser kirin"
+
+msgid "Historique des alertes"
+msgstr "Dîroka Hişyariyê"
+
+msgid "Appareil"
+msgstr "Sazî"
+
+msgid "Priorité"
+msgstr "Pêşeyî"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Vê hişyariyê wekî çareserkirî nîşan bide?"
+
+msgid "Résoudre"
+msgstr "Çareserkirin"
+
+msgid "Aucune alerte"
+msgstr "No hişyar"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Nûçeyên baş! Hişyariyek nehatiye ragihandin."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Rapor dizî an winda"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Bi raporkirina diziyê, cîhaza we dê bixweber were girtin û agahdarî dê "
+"bêne şandin."
+
+msgid "Appareil concerné"
+msgstr "Amûra bandorkirî"
+
+msgid "Sélectionner un appareil"
+msgstr "Amûrek hilbijêre"
+
+msgid "Type d'alerte"
+msgstr "Cureyê hişyariyê"
+
+msgid "Décrivez les circonstances..."
+msgstr "Rewşan vedibêje..."
+
+msgid "Annuler"
+msgstr "Bişûndekirin"
+
+msgid "Signaler"
+msgstr "Nûçe"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Pergala Dij-Diziyê ya Aqilmend - Platforma Ewlekariyê ji bo têlefonên "
+"têlefonê"
+
+msgid "Système Anti-Vol"
+msgstr "Pergala Dij-Diziyê"
+
+msgid "PRINCIPAL"
+msgstr "SER"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "EWLEKARÎ"
+
+msgid "Géolocalisation"
+msgstr "Geolocation"
+
+msgid "ADMINISTRATION"
+msgstr "BIRÊVEBIRÎ"
+
+msgid "Déconnexion"
+msgstr "Hevqetandin"
+
+msgid "Changer de langue"
+msgstr "Ziman biguherînin"
+
+msgid "Rechercher une langue..."
+msgstr "Li zimanekî bigerin..."
+
+msgid "Profil"
+msgstr "Tengal"
+
+msgid "Changer de thème"
+msgstr "Mijarê biguherînin"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Pêşniyara ewlehiya cîhaza we"
+
+msgid "Ajouter un appareil"
+msgstr "Amûrek zêde bikin"
+
+msgid "Appareils volés"
+msgstr "Amûrên dizîn"
+
+msgid "Verrouillés à distance"
+msgstr "Ji dûr ve girtî"
+
+msgid "Alertes récentes"
+msgstr "hişyariyên dawî"
+
+msgid "Voir tout"
+msgstr "Hemî bibînin"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "No hişyar. Amûrên we ewle ne!"
+
+msgid "Mes appareils"
+msgstr "Amûrên min"
+
+msgid "Aucun appareil enregistré"
+msgstr "No cîhazên qeydkirî"
+
+msgid "Ajouter"
+msgstr "Lêzêdekirin"
+
+msgid "en attente"
+msgstr "li bendê"
+
+msgid "Gestion des appareils"
+msgstr "management Device"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Qeyd bikin û smartfonên xwe îdare bikin"
+
+msgid "Opérateur"
+msgstr "Makînevan"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Vê cîhazê ji dûr ve were girtin?"
+
+msgid "Verrouiller"
+msgstr "Qesr"
+
+msgid "Déverrouiller"
+msgstr "Vekirin"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Vê cîhazê jê bibe?"
+
+msgid "Supprimer"
+msgstr "JÊBIRIN"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Yekem smartphone xwe zêde bikin da ku dest bi parastina wê bikin."
+
+msgid "Nouvel appareil"
+msgstr "Amûra nû"
+
+msgid "Marque"
+msgstr "Nîşan"
+
+msgid "Sélectionner"
+msgstr "Neqandin"
+
+msgid "Autre"
+msgstr "Yên din"
+
+msgid "Modèle"
+msgstr "Cins"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "*#06# li ser têlefona xwe binivîsin"
+
+msgid "Système d'exploitation"
+msgstr "Pergala xebitandinê"
+
+msgid "Numéro de téléphone"
+msgstr "Jimare telefon"
+
+msgid "Enregistrer"
+msgstr "Rizgarkirin"
+
+msgid "Connexion"
+msgstr "Têkêlî"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sîstema ewlehiyê ya Smartphone"
+
+msgid "Adresse email"
+msgstr "Navnîşana emailê"
+
+msgid "Mot de passe"
+msgstr "Şîfre"
+
+msgid "Se connecter"
+msgstr "Têkeve"
+
+msgid "Mot de passe oublié ?"
+msgstr "Şîfreya ji bîr kir?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Jixwe hesabek te heye? Wekî din, berdewam bikin ku hûn hesabê xwe çêbikin!"
+
+msgid "Créer un compte"
+msgstr "Hesabek çêbikin"
+
+msgid "Sécurité maximale"
+msgstr "Ewlekariya herî zêde"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Daneyên xweyên kesane bi kilîtkirina dûr ve biparêzin"
+
+msgid "Localisation GPS"
+msgstr "cîhê GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Di demek rast de cîhê rastîn a smartphone xwe bibînin"
+
+msgid "Alertes instantanées"
+msgstr "alerts Instant"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Di bûyera diziyê de agahdariya SMS, e-name û push bistînin"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Amûrên xwe bibînin û qadên xetereyê bibînin"
+
+msgid "Aucun appareil"
+msgstr "Amûr tune"
+
+msgid "Zones à risque"
+msgstr "Herêmên rîskê"
+
+msgid "incidents"
+msgstr "bûyerên"
+
+msgid "Aucune zone signalée"
+msgstr "Ti herêm nehat ragihandin"
+
+msgid "Niveau"
+msgstr "Deşt"
+
+msgid "Incidents"
+msgstr "Bûyer"
+
+msgid "Profile utilisateur"
+msgstr "Profîla bikarhêner"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Manage agahiyên xwe yên takekesî"
+
+msgid "Membre depuis"
+msgstr "Endam ji ber"
+
+msgid "Modifier mes informations"
+msgstr "Agahdariya min biguherîne"
+
+msgid "Prénom"
+msgstr "Nav"
+
+msgid "Nom"
+msgstr "Nav"
+
+msgid "Changer le mot de passe"
+msgstr "Şîfre biguherînin"
+
+msgid "Nouveau mot de passe"
+msgstr "Şîfreya Nû"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "vala bihêlin da ku neguherin"
+
+msgid "Enregistrer les modifications"
+msgstr "Guherandinên tomar bike"
+
+msgid "Inscription"
+msgstr "Qeydkirinî"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Hûn bi xêr hatin Anti-Diziyê ji bo ewlehiya çêtir a cîhazên xwe"
+
+msgid "Confirmer"
+msgstr "Tesdîqkirin"
+
+msgid "Créer mon compte"
+msgstr "Hesabê min biafirîne"
+
+msgid "Déjà un compte ?"
+msgstr "Jixwe hesabek heye?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Şîfreyê Vegerîne"
+
+msgid "Réinitialisation"
+msgstr "Reset"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "E-name û jimareya têlefona xwe binivîsin da ku nasnameya xwe verast bikin"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Hejmara ku di dema qeydkirinê de tê bikar anîn"
+
+msgid "Minimum 6 caractères"
+msgstr "Herî kêm 6 karakter"
+
+msgid "Confirmer le mot de passe"
+msgstr "Di pêşîyê da em sipas dikin"
+
+msgid "Retourner à la"
+msgstr "Vegere"
+
+msgid "page de connexion"
+msgstr "rûpela têketinê"
+
+msgid "Vérification sécurisée"
+msgstr "Verastkirina ewledar"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Nasnameya we bi karanîna e-name û jimara têlefona we tê verast kirin"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Şîfreyek ewledar ya herî kêm 6 tîpan hilbijêrin"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Guherandin bi ser neket"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Guherandin bi ser neket: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Çewtiya Windows: {çewtî}"
+
+msgid "deprecated"
+msgstr "betal kirin"
+
+msgid "Options"
+msgstr "Vebijêrk"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Argumana zêde ya neçaverêkirî hat ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationHişyarî: Fermana {name!r} hatiye betal kirin.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Aborted!"
+
+msgid "Commands"
+msgstr "Commands"
+
+msgid "Missing command."
+msgstr "Fermana wenda."
+
+msgid "Value must be an iterable."
+msgstr "Pêdivî ye ku nirxek dubare be."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Nirxên {nargs} digire lê 1 hate dayîn."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"DeprecationHişyarî: {param_type} {name!r} hatiye betal "
+"kirin.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Navê '{name}' du caran hatiye diyarkirin"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Vebijarka Boolean {decl!r} nikare heman ala rast/derew bi kar bîne."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Navê vebijarkê bi danezan nehat diyarkirin {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Vebijêrk nehat diyarkirin lê navek derbas bû ({name}). Mebesta we bû ku "
+"hûn li şûna argumanekê ragihînin? Mebesta te derbaskirina '--{name}' bû?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default}"
+
+msgid "required"
+msgstr "pêwîst"
+
+msgid "(dynamic)"
+msgstr "(dînamîk)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Arguman tam danezana yek parametreyê digirin, {length} hene: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Ma hûn dixwazin berdewam bikin?"
+
+msgid "Confirm the action without prompting."
+msgstr "Çalakiyê bêyî daxwazkirinê piştrast bikin."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, guhertoya %(guherto)s"
+
+msgid "Show the version and exit."
+msgstr "Guhertoyê nîşan bide û derkeve."
+
+msgid "Show this message and exit."
+msgstr "Vê peyamê nîşan bide û derkeve."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Mebesta te {îmkan} bû?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Çewtî: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Ji bo alîkariyê '{ferman} {vebijêrk}' biceribîne."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Nirxa nederbasdar: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Nirxa nederbasdar ji bo {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Argumana wenda"
+
+msgid "Missing option"
+msgstr "Vebijêrk winda"
+
+msgid "Missing parameter"
+msgstr "Parametre winda ye"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Nebûna {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parametre wenda ye: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Vebijêrkek weha tune {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Fermanek weha tune {name!r}."
+
+msgid "unknown error"
+msgstr "xeletiya nenas"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Nekarî pelê veke {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Bikaranîn:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Karaktera destpêkê ya nederbasdar ji bo vebijarkê ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumenta {name!r} {nargs} nirxan digire."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Vebijêrk {name!r} nirxek nagire."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Vebijêrk {name!r} argumanek hewce dike."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Temamkirina Shell ji bo guhertoyên Bash ên ji 4.4 kevntir nayê piştgirî "
+"kirin."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Guhertoya Bash nehat tespîtkirin, temamkirina şêlê nayê piştgirî kirin."
+
+msgid "Repeat for confirmation"
+msgstr "Ji bo piştrastkirinê dubare bikin"
+
+msgid "Error: The two entered values do not match."
+msgstr "Çewtî: Du nirxên têketin hev nagirin."
+
+msgid "Error: invalid input"
+msgstr "Çewtî: têketina nederbasdar"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Rengê nenas {reng!r}"
+
+msgid "Press any key to continue..."
+msgstr "Ji bo berdewamkirinê bişkojkê bikirtînin..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Hilbijêre ji:\\n\\t{hilbijartinan}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} ne {hilbijartin} e."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Hilbijartin ({hilbijartin)"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} bi formata {format} re li hev nayê."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} {hejmar_type} ne derbasdar e."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{nirx} ne di rêza {range} de ye."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} booleanek derbasdar nîne. Nirxên naskirî: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} UUID ne derbasdar e."
+
+msgid "file"
+msgstr "dosî"
+
+msgid "directory"
+msgstr "directory"
+
+msgid "path"
+msgstr "şop"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} tune."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} pelek e."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} pelrêçek e."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} nayê xwendin."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} nayê nivîsandin."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} ne pêkan e."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Nirxên {len_type} hewce ne, lê {len_value} hate dayîn."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Weşana standard ya nenas '{name}'"
+
+msgid "This field is required."
+msgstr "Ev qada pêdivî ye."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Pelê pêvekek pejirandî nîne: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Pelê pêvekek pejirandî nîne."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Divê pel di navbera {min_size} û {max_size} bytes de be."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Navê zeviyê nederbasdar '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Qad divê wekhevî %(other_name)s be."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Qad divê herî kêm %(min)d karakter be."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Qad nikare ji %(max)d karakter dirêjtir be."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Qad divê tam %(max)d karakter dirêj be."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Qad divê di navbera %(min)d û %(max)d karakteran de dirêj be."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Divê jimar herî kêm %(min)s be."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Divê jimar herî zêde %(max)s be."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Divê jimar di navbera %(min)s û %(max)s de be."
+
+msgid "Invalid input."
+msgstr "Ketina nederbasdar."
+
+msgid "Invalid email address."
+msgstr "Navnîşana e-nameya nederbasdar."
+
+msgid "Invalid IP address."
+msgstr "Navnîşana IP ya nederbasdar."
+
+msgid "Invalid Mac address."
+msgstr "Navnîşana Mac nederbasdar."
+
+msgid "Invalid URL."
+msgstr "URL nederbasdar."
+
+msgid "Invalid UUID."
+msgstr "UUID nederbasdar."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Nirxa nederbasdar, divê yek ji wan be: %(nirx)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Nirxa nederbasdar, nikare bibe yek ji: %(nirx)s."
+
+msgid "This field cannot be edited."
+msgstr "Ev qad nayê guherandin."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Ev qad neçalak e û nikare nirxek wê hebe."
+
+msgid "Invalid CSRF Token."
+msgstr "Nederbasdar Token CSRF."
+
+msgid "CSRF token missing."
+msgstr "Token CSRF winda ye."
+
+msgid "CSRF failed."
+msgstr "CSRF têk çû."
+
+msgid "CSRF token expired."
+msgstr "Tokena CSRF qediya."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Hilbijartina nederbasdar: nekarî zorê bike."
+
+msgid "Choices cannot be None."
+msgstr "Hilbijartin nikarin Tune bin."
+
+msgid "Not a valid choice."
+msgstr "Hilbijartinek derbasdar nîne."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Hilbijartin(ên) nederbasdar: yek an çend têketinên daneyê nekarin bi darê"
+" zorê werin girtin."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' ji bo vê qadê ne hilbijartineke derbasdar e."
+
+msgid "Not a valid datetime value."
+msgstr "Nirxek tarîxa dema derbasdar nîne."
+
+msgid "Not a valid date value."
+msgstr "Nirxa tarîxê ne derbasdar e."
+
+msgid "Not a valid time value."
+msgstr "Ne nirxek dem derbasdar e."
+
+msgid "Not a valid week value."
+msgstr "Nirxa hefteyê ne derbasdar e."
+
+msgid "Not a valid integer value."
+msgstr "Nirxa jimareyek derbasdar nîne."
+
+msgid "Not a valid decimal value."
+msgstr "Nirxa dehiyê ne derbasdar e."
+
+msgid "Not a valid float value."
+msgstr "Ne nirxek float derbasdar e."
+

@@ -1,0 +1,1033 @@
+# Translations for HT.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ht\n"
+"Language-Team: ht <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Tanpri konekte pou jwenn aksè nan paj sa a."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "IMEI sa a deja anrejistre nan sistèm lan."
+
+msgid "Accès non autorisé."
+msgstr "Aksè san otorizasyon."
+
+msgid "Appareil déverrouillé."
+msgstr "Aparèy debloke."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alèt kreye! Notifikasyon yo voye."
+
+msgid "Alerte résolue."
+msgstr "Alèt rezoud."
+
+msgid "Pas encore de compte ?"
+msgstr "Pa gen kont ankò?"
+
+msgid "Mon Profil"
+msgstr "Profil mwen an"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Koneksyon siksè! Byenvini."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Imèl oswa modpas ki pa kòrèk."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Tout jaden obligatwa yo dwe ranpli."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Modpas pa koresponn."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Modpas la dwe genyen omwen 6 karaktè."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Imèl sa a deja itilize."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Kont kreye avèk siksè! Konekte."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Pa jwenn okenn kont ak imèl sa a."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Nimewo telefòn nan pa matche ak nimewo kont la."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Nouvo modpas la obligatwa."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Reyajiste modpas avèk siksè! Konekte."
+
+msgid "Vous avez été déconnecté."
+msgstr "Ou te dekonekte."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Yo mande mak, modèl ak IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Yon aparèy ki gen IMEI sa a deja egziste."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Aparèy anrejistre avèk siksè!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Ou pa otorize pou fè aksyon sa a."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Aparèy adistans fèmen avèk siksè."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Aparèy debloke avèk siksè."
+
+msgid "Appareil supprimé."
+msgstr "Aparèy efase."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Tanpri chwazi yon aparèy ak kalite alèt."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Aparèy sa a pa fè pati ou."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alèt rapòte avèk siksè. Aparèy la te an sekirite."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alèt make kòm rezoud."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Prenon, siyati ak imèl obligatwa."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Imel sa a deja itilize pa yon lòt kont."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Pwofil mete ajou avèk siksè!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Aksè rezève pou administratè yo."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Erè make kòm rezoud."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Ou pa kapab efase kont ou."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Itilizatè a efase avèk siksè."
+
+msgid "Administration"
+msgstr "Administrasyon"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Jesyon santralize sistèm Anti-Vòl la"
+
+msgid "Utilisateurs"
+msgstr "Itilizatè yo"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktif jodi a"
+
+msgid "Nouveaux ce mois"
+msgstr "Nouvo mwa sa a"
+
+msgid "Appareils"
+msgstr "Aparèy"
+
+msgid "Alertes actives"
+msgstr "Alèt aktif"
+
+msgid "Analytique"
+msgstr "Analitik"
+
+msgid "Journal d'activité"
+msgstr "Jounal aktivite"
+
+msgid "Erreurs"
+msgstr "Erè"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Koneksyon (7 dènye jou)"
+
+msgid "Alertes par type"
+msgstr "Alèt pa kalite"
+
+msgid "Appareils par opérateur"
+msgstr "Aparèy pa operatè"
+
+msgid "Résumé du système"
+msgstr "Rezime sistèm"
+
+msgid "Utilisateurs total"
+msgstr "Total itilizatè yo"
+
+msgid "Appareils enregistrés"
+msgstr "Aparèy ki anrejistre"
+
+msgid "Total alertes"
+msgstr "Alèt total"
+
+msgid "Alertes en cours"
+msgstr "Alèt aktyèl yo"
+
+msgid "Erreurs non résolues"
+msgstr "Erè ki pako rezoud"
+
+msgid "Dernières activités"
+msgstr "Dènye aktivite yo"
+
+msgid "récentes"
+msgstr "resan"
+
+msgid "Utilisateur"
+msgstr "Itilizatè"
+
+msgid "Action"
+msgstr "Aksyon"
+
+msgid "Détails"
+msgstr "Detay yo"
+
+msgid "Adresse IP"
+msgstr "adrès IP"
+
+msgid "Navigateur"
+msgstr "Navigatè"
+
+msgid "Date"
+msgstr "Dat"
+
+msgid "Aucune activité"
+msgstr "Pa gen aktivite"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Aktivite itilizatè yo ap parèt isit la."
+
+msgid "Journal d'erreurs"
+msgstr "Log erè"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Ranje tout erè?"
+
+msgid "Tout résoudre"
+msgstr "Rezoud tout bagay"
+
+msgid "non résolues"
+msgstr "ki pako rezoud"
+
+msgid "Tout est résolu"
+msgstr "Tout bagay rezoud"
+
+msgid "Type"
+msgstr "Janti"
+
+msgid "Description"
+msgstr "Deskripsyon"
+
+msgid "Statut"
+msgstr "Estati"
+
+msgid "Résolu"
+msgstr "Rezoud"
+
+msgid "Non résolu"
+msgstr "Poko rezoud"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Pa gen okenn erè anrejistre"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sistèm nan ap travay byen."
+
+msgid "Gestion des utilisateurs"
+msgstr "Jesyon itilizatè"
+
+msgid "comptes"
+msgstr "kont"
+
+msgid "Email"
+msgstr "Imèl"
+
+msgid "Téléphone"
+msgstr "Telefòn"
+
+msgid "Rôle"
+msgstr "Wòl"
+
+msgid "Inscrit le"
+msgstr "Anrejistre sou"
+
+msgid "Actions"
+msgstr "Aksyon"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Efase itilizatè sa a ak tout aparèy yo?"
+
+msgid "Vous"
+msgstr "OU"
+
+msgid "Connexions"
+msgstr "Koneksyon"
+
+msgid "Vol"
+msgstr "Vòl"
+
+msgid "Perte"
+msgstr "Pèt"
+
+msgid "Anomalie"
+msgstr "Anomali"
+
+msgid "Alertes"
+msgstr "Alèt"
+
+msgid "Gestion des alertes"
+msgstr "Jesyon alèt"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Rapòte vòl oswa pèt epi swiv istwa"
+
+msgid "Signaler un vol / perte"
+msgstr "Rapòte vòl/pèt"
+
+msgid "En cours"
+msgstr "Nan pwogrè"
+
+msgid "Résolues"
+msgstr "Rezoud"
+
+msgid "Historique des alertes"
+msgstr "Istwa Alèt"
+
+msgid "Appareil"
+msgstr "Aparèy"
+
+msgid "Priorité"
+msgstr "Priyorite"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Make alèt sa a kòm rezoud?"
+
+msgid "Résoudre"
+msgstr "Rezoud"
+
+msgid "Aucune alerte"
+msgstr "Pa gen alèt"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Bon nouvèl! Yo pa rapòte okenn alèt."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Rapòte vòl oswa pèt"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Lè w rapòte yon vòl, aparèy ou an ap fèmen otomatikman epi y ap voye "
+"notifikasyon."
+
+msgid "Appareil concerné"
+msgstr "Aparèy ki afekte yo"
+
+msgid "Sélectionner un appareil"
+msgstr "Chwazi yon aparèy"
+
+msgid "Type d'alerte"
+msgstr "Kalite alèt"
+
+msgid "Décrivez les circonstances..."
+msgstr "Dekri sikonstans yo..."
+
+msgid "Annuler"
+msgstr "Anile"
+
+msgid "Signaler"
+msgstr "Rapò"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Sistèm Entelijan Anti-Vòl — Platfòm sekirite pou smartphones"
+
+msgid "Système Anti-Vol"
+msgstr "Sistèm Anti-Vòl"
+
+msgid "PRINCIPAL"
+msgstr "PRINCIPAL"
+
+msgid "Tableau de bord"
+msgstr "Dach"
+
+msgid "SÉCURITÉ"
+msgstr "SEKIRITE"
+
+msgid "Géolocalisation"
+msgstr "Geolokalizasyon"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRASYON"
+
+msgid "Déconnexion"
+msgstr "Dekonekte"
+
+msgid "Changer de langue"
+msgstr "Chanje lang"
+
+msgid "Rechercher une langue..."
+msgstr "Chèche yon lang..."
+
+msgid "Profil"
+msgstr "Profile"
+
+msgid "Changer de thème"
+msgstr "Chanje tèm"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Apèsi sou sekirite aparèy ou an"
+
+msgid "Ajouter un appareil"
+msgstr "Ajoute yon aparèy"
+
+msgid "Appareils volés"
+msgstr "Aparèy yo vòlè"
+
+msgid "Verrouillés à distance"
+msgstr "Adistans fèmen"
+
+msgid "Alertes récentes"
+msgstr "Alèt ki sot pase yo"
+
+msgid "Voir tout"
+msgstr "Gade tout"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Pa gen alèt. Aparèy ou yo an sekirite!"
+
+msgid "Mes appareils"
+msgstr "Aparèy mwen yo"
+
+msgid "Aucun appareil enregistré"
+msgstr "Pa gen aparèy ki anrejistre"
+
+msgid "Ajouter"
+msgstr "Ajoute"
+
+msgid "en attente"
+msgstr "an kenbe"
+
+msgid "Gestion des appareils"
+msgstr "Jesyon aparèy"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Enskri epi jere smartphones ou yo"
+
+msgid "Opérateur"
+msgstr "Operatè"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Fèmen aparèy sa a adistans?"
+
+msgid "Verrouiller"
+msgstr "Fèmen"
+
+msgid "Déverrouiller"
+msgstr "Debloke"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Efase aparèy sa a?"
+
+msgid "Supprimer"
+msgstr "EFASE"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Ajoute premye smartphone ou pou kòmanse pwoteje li."
+
+msgid "Nouvel appareil"
+msgstr "Nouvo aparèy"
+
+msgid "Marque"
+msgstr "Mak"
+
+msgid "Sélectionner"
+msgstr "Chwazi"
+
+msgid "Autre"
+msgstr "Lòt"
+
+msgid "Modèle"
+msgstr "Modèl"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "tape *#06# sou telefòn ou"
+
+msgid "Système d'exploitation"
+msgstr "Sistèm operasyon"
+
+msgid "Numéro de téléphone"
+msgstr "Nimewo telefòn"
+
+msgid "Enregistrer"
+msgstr "Sove"
+
+msgid "Connexion"
+msgstr "Koneksyon"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistèm sekirite smartphone"
+
+msgid "Adresse email"
+msgstr "Adrès imel"
+
+msgid "Mot de passe"
+msgstr "Modpas"
+
+msgid "Se connecter"
+msgstr "Konekte"
+
+msgid "Mot de passe oublié ?"
+msgstr "Ou bliye modpas?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Ou deja gen yon kont? Sinon, kontinye nan kreye kont ou!"
+
+msgid "Créer un compte"
+msgstr "Kreye yon kont"
+
+msgid "Sécurité maximale"
+msgstr "Maksimòm sekirite"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Pwoteje done pèsonèl ou ak bloke aleka"
+
+msgid "Localisation GPS"
+msgstr "Kote GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Jwenn kote egzak smartphone ou an tan reyèl"
+
+msgid "Alertes instantanées"
+msgstr "Alèt instant"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Resevwa SMS, imèl ak notifikasyon pouse si yo ta vòlè"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Jwenn aparèy ou yo epi gade zòn ki riske yo"
+
+msgid "Aucun appareil"
+msgstr "Pa gen aparèy"
+
+msgid "Zones à risque"
+msgstr "Zòn ki riske"
+
+msgid "incidents"
+msgstr "ensidan"
+
+msgid "Aucune zone signalée"
+msgstr "Pa gen zòn ki rapòte"
+
+msgid "Niveau"
+msgstr "Nivo"
+
+msgid "Incidents"
+msgstr "Ensidan"
+
+msgid "Profile utilisateur"
+msgstr "Pwofil itilizatè"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Jere enfòmasyon pèsonèl ou"
+
+msgid "Membre depuis"
+msgstr "Manm depi"
+
+msgid "Modifier mes informations"
+msgstr "Edit enfòmasyon mwen yo"
+
+msgid "Prénom"
+msgstr "Premye non"
+
+msgid "Nom"
+msgstr "Non"
+
+msgid "Changer le mot de passe"
+msgstr "Chanje modpas"
+
+msgid "Nouveau mot de passe"
+msgstr "Nouvo Modpas"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "kite vid pou pa chanje"
+
+msgid "Enregistrer les modifications"
+msgstr "Sove chanjman yo"
+
+msgid "Inscription"
+msgstr "Enskripsyon"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Byenveni nan Anti-Vòl pou pi bon sekirite nan aparèy ou yo"
+
+msgid "Confirmer"
+msgstr "Konfime"
+
+msgid "Créer mon compte"
+msgstr "Kreye kont mwen"
+
+msgid "Déjà un compte ?"
+msgstr "Ou deja gen yon kont?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Reyajiste Modpas"
+
+msgid "Réinitialisation"
+msgstr "Reyajiste"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Antre imèl ou ak nimewo telefòn ou pou verifye idantite w"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Nimewo yo itilize pandan enskripsyon an"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimòm 6 karaktè"
+
+msgid "Confirmer le mot de passe"
+msgstr "Konfime modpas"
+
+msgid "Retourner à la"
+msgstr "Retounen nan"
+
+msgid "page de connexion"
+msgstr "paj konekte"
+
+msgid "Vérification sécurisée"
+msgstr "Verifikasyon an sekirite"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Yo verifye idantite w ak imel ou ak nimewo telefòn ou"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Chwazi yon modpas an sekirite ki gen omwen 6 karaktè"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editè}: Modification echwe"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editè}: Modification echwe: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Erè Windows: {erè}"
+
+msgid "deprecated"
+msgstr "depreche"
+
+msgid "Options"
+msgstr "Opsyon"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Gen diskisyon siplemantè inatandi ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Kòmandman {name!r} demode.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Avòte!"
+
+msgid "Commands"
+msgstr "Kòmandman"
+
+msgid "Missing command."
+msgstr "Manke kòmandman."
+
+msgid "Value must be an iterable."
+msgstr "Valè dwe yon iterable."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Pran valè {nargs} men yo te bay 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: {param_type} {name!r} demode.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Non '{name}' defini de fwa"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Opsyon booleyen {decl!r} pa ka itilize menm drapo a pou vre/fo."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Pa t 'kapab detèmine non pou opsyon ak deklarasyon {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Pa gen opsyon defini men yo te pase yon non ({name}). Èske ou te vle di "
+"deklare yon agiman pito? Èske w te vle pase '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default}"
+
+msgid "required"
+msgstr "obligatwa"
+
+msgid "(dynamic)"
+msgstr "(dinamik)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Agiman yo pran egzakteman yon deklarasyon paramèt, te resevwa {longè}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Ou vle kontinye?"
+
+msgid "Confirm the action without prompting."
+msgstr "Konfime aksyon an san pouse."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, vèsyon %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Montre vèsyon an ak sòti."
+
+msgid "Show this message and exit."
+msgstr "Montre mesaj sa a epi sòti."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Èske w te vle di {posibilite}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Erè: {mesaj}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Eseye '{kòmand} {opsyon}' pou èd."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Valè ki pa valab: {mesaj}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Valè pa valab pou {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Manke agiman"
+
+msgid "Missing option"
+msgstr "Opsyon ki manke"
+
+msgid "Missing parameter"
+msgstr "Manke paramèt"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Li manke {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Paramèt ki manke: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Pa gen opsyon sa yo {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Pa gen kòmandman sa yo {non!r}."
+
+msgid "unknown error"
+msgstr "erè enkoni"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Pa t 'kapab louvri fichye {filename!r}: {mesaj}"
+
+msgid "Usage:"
+msgstr "Sèvi ak:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Karaktè kòmansman pa valab pou opsyon ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Agiman {name!r} pran valè {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Opsyon {name!r} pa pran yon valè."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Opsyon {name!r} mande pou yon agiman."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Fini Shell pa sipòte pou vèsyon Bash ki pi gran pase 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Pa t 'kapab detekte vèsyon Bash, fini koki yo pa sipòte."
+
+msgid "Repeat for confirmation"
+msgstr "Repete pou konfimasyon"
+
+msgid "Error: The two entered values do not match."
+msgstr "Erè: De valè antre yo pa matche."
+
+msgid "Error: invalid input"
+msgstr "Erè: opinyon pa valab"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Koulè enkoni {koulè!r}"
+
+msgid "Press any key to continue..."
+msgstr "Peze nenpòt kle pou kontinye..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Chwazi nan:\\n\\t{chwa}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} se pa {chwa}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Chwa ({chwa})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} pa matche ak fòma {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} se pa yon {number_type} valab."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{valè} pa nan seri a {ranje}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} se pa yon booleyen ki valab. Valè rekonèt: {eta}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} se pa yon UUID valab."
+
+msgid "file"
+msgstr "dosye"
+
+msgid "directory"
+msgstr "anyè"
+
+msgid "path"
+msgstr "chemen"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} pa egziste."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} se yon fichye."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} se yon anyè."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} pa ka lizib."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} pa ka ekri."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} pa ègzekutabl."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Valè {len_type} obligatwa, men yo te bay {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Enkoni kouran estanda '{name}'"
+
+msgid "This field is required."
+msgstr "Jaden sa a obligatwa."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Fichye a pa gen yon ekstansyon apwouve: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Fichye a pa gen yon ekstansyon apwouve."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Fichye a dwe ant {min_size} ak {max_size} octets."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Non jaden '%s' pa valab."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Jaden dwe egal a %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Jaden an dwe gen omwen %(min)d karaktè."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Jaden pa ka pi long pase %(max)d karaktè."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Field dwe gen egzakteman %(max)d karaktè long."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Jaden dwe genyen ant %(min)d ak %(max)d karaktè."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Nimewo a dwe omwen %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Nimewo a dwe pi plis nan %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Nimewo a dwe ant %(min)s ak %(max)s."
+
+msgid "Invalid input."
+msgstr "D' envalid."
+
+msgid "Invalid email address."
+msgstr "Adrès imèl ki pa valab."
+
+msgid "Invalid IP address."
+msgstr "Adrès IP envalid."
+
+msgid "Invalid Mac address."
+msgstr "Adrès Mac envalid."
+
+msgid "Invalid URL."
+msgstr "URL pa valab."
+
+msgid "Invalid UUID."
+msgstr "UUID envalid."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Valè pa valab, dwe youn nan: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Valè pa valab, pa kapab youn nan: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Jaden sa a pa ka modifye."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Jaden sa a enfim epi li pa ka gen yon valè."
+
+msgid "Invalid CSRF Token."
+msgstr "Token CSRF ki pa valab."
+
+msgid "CSRF token missing."
+msgstr "Siy CSRF manke."
+
+msgid "CSRF failed."
+msgstr "CSRF echwe."
+
+msgid "CSRF token expired."
+msgstr "Jeton CSRF ekspire."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Chwa envalid: pa t 'kapab fòse."
+
+msgid "Choices cannot be None."
+msgstr "Chwa yo pa ka Okenn."
+
+msgid "Not a valid choice."
+msgstr "Pa yon chwa valab."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Chwa ki pa valab (yo): youn oswa plis done yo pa t kapab fòse."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' pa yon chwa valab pou jaden sa a."
+
+msgid "Not a valid datetime value."
+msgstr "Pa yon valè dat lè valab."
+
+msgid "Not a valid date value."
+msgstr "Pa yon valè dat valab."
+
+msgid "Not a valid time value."
+msgstr "Pa yon valè tan valab."
+
+msgid "Not a valid week value."
+msgstr "Pa yon valè semèn valab."
+
+msgid "Not a valid integer value."
+msgstr "Pa yon valè nonb antye relatif."
+
+msgid "Not a valid decimal value."
+msgstr "Pa yon valè desimal valab."
+
+msgid "Not a valid float value."
+msgstr "Pa yon valè flote valab."
+

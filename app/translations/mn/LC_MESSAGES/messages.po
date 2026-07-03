@@ -1,0 +1,1044 @@
+# Translations for MN.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: mn\n"
+"Language-Team: mn <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Энэ хуудсанд нэвтрэхийн тулд нэвтэрнэ үү."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Энэ IMEI системд аль хэдийн бүртгэгдсэн байна."
+
+msgid "Accès non autorisé."
+msgstr "Зөвшөөрөлгүй нэвтрэх."
+
+msgid "Appareil déverrouillé."
+msgstr "Төхөөрөмжийн түгжээг тайлсан."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Анхааруулга үүсгэсэн! Мэдэгдэл илгээсэн."
+
+msgid "Alerte résolue."
+msgstr "Сэрэмжлүүлэг шийдэгдсэн."
+
+msgid "Pas encore de compte ?"
+msgstr "Бүртгэл байхгүй юу?"
+
+msgid "Mon Profil"
+msgstr "Миний профайл"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Холболт амжилттай боллоо! Тавтай морил."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Буруу имэйл эсвэл нууц үг."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Шаардлагатай бүх талбарыг бөглөх ёстой."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Нууц үг таарахгүй байна."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Нууц үг нь дор хаяж 6 тэмдэгт агуулсан байх ёстой."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Энэ имэйлийг аль хэдийн ашиглаж байна."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Бүртгэл амжилттай үүсгэгдсэн! Нэвтрэх."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Энэ имэйлд бүртгэл олдсонгүй."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Утасны дугаар нь дансны дугаартай таарахгүй байна."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Шинэ нууц үг заавал байх ёстой."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Нууц үгээ амжилттай сэргээлээ! Нэвтрэх."
+
+msgid "Vous avez été déconnecté."
+msgstr "Таныг салгасан байна."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Брэнд, загвар, IMEI шаардлагатай."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Энэ IMEI-тэй төхөөрөмж аль хэдийн байна."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Төхөөрөмж амжилттай бүртгэгдлээ!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Та энэ үйлдлийг гүйцэтгэх эрхгүй."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Төхөөрөмжийг алсаас амжилттай түгжээ."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Төхөөрөмжийн түгжээг амжилттай тайллаа."
+
+msgid "Appareil supprimé."
+msgstr "Төхөөрөмж устгагдсан."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Төхөөрөмж болон дохионы төрлийг сонгоно уу."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Энэ төхөөрөмж таных биш."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Сэрэмжлүүлгийг амжилттай мэдээлэв. Төхөөрөмж хамгаалагдсан."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Сэрэмжлүүлгийг шийдвэрлэсэн гэж тэмдэглэв."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Нэр, овог, имэйл хаяг шаардлагатай."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Энэ имэйлийг өөр бүртгэл аль хэдийн ашигласан байна."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Профайлыг амжилттай шинэчилсэн!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Хандалтыг администраторуудад зориулж хадгалсан."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Алдааг шийдвэрлэсэн гэж тэмдэглэсэн."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Та өөрийн бүртгэлээ устгах боломжгүй."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Хэрэглэгчийг амжилттай устгасан."
+
+msgid "Administration"
+msgstr "Захиргаа"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Хулгайтай тэмцэх системийн төвлөрсөн удирдлага"
+
+msgid "Utilisateurs"
+msgstr "Хэрэглэгчид"
+
+msgid "Actifs aujourd'hui"
+msgstr "Өнөөдөр идэвхтэй"
+
+msgid "Nouveaux ce mois"
+msgstr "Энэ сард шинэ"
+
+msgid "Appareils"
+msgstr "Төхөөрөмжүүд"
+
+msgid "Alertes actives"
+msgstr "Идэвхтэй сэрэмжлүүлэг"
+
+msgid "Analytique"
+msgstr "Аналитик"
+
+msgid "Journal d'activité"
+msgstr "Үйл ажиллагааны бүртгэл"
+
+msgid "Erreurs"
+msgstr "Алдаа"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Холболтууд (сүүлийн 7 хоног)"
+
+msgid "Alertes par type"
+msgstr "Анхааруулга төрлөөр"
+
+msgid "Appareils par opérateur"
+msgstr "Операторын төхөөрөмжүүд"
+
+msgid "Résumé du système"
+msgstr "Системийн хураангуй"
+
+msgid "Utilisateurs total"
+msgstr "Нийт хэрэглэгчид"
+
+msgid "Appareils enregistrés"
+msgstr "Бүртгэгдсэн төхөөрөмжүүд"
+
+msgid "Total alertes"
+msgstr "Нийт сэрэмжлүүлэг"
+
+msgid "Alertes en cours"
+msgstr "Одоогийн сэрэмжлүүлэг"
+
+msgid "Erreurs non résolues"
+msgstr "Шийдвэрлэгдээгүй алдаанууд"
+
+msgid "Dernières activités"
+msgstr "Хамгийн сүүлийн үеийн үйл ажиллагаа"
+
+msgid "récentes"
+msgstr "саяхан"
+
+msgid "Utilisateur"
+msgstr "Хэрэглэгч"
+
+msgid "Action"
+msgstr "Үйлдэл"
+
+msgid "Détails"
+msgstr "Дэлгэрэнгүй мэдээлэл"
+
+msgid "Adresse IP"
+msgstr "IP хаяг"
+
+msgid "Navigateur"
+msgstr "Хөтөч"
+
+msgid "Date"
+msgstr "Огноо"
+
+msgid "Aucune activité"
+msgstr "Үйл ажиллагаа байхгүй"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Хэрэглэгчийн үйл ажиллагаа энд харагдах болно."
+
+msgid "Journal d'erreurs"
+msgstr "Алдааны бүртгэл"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Бүх алдааг засах уу?"
+
+msgid "Tout résoudre"
+msgstr "Бүгдийг шийд"
+
+msgid "non résolues"
+msgstr "шийдэгдээгүй"
+
+msgid "Tout est résolu"
+msgstr "Бүх зүйл шийдэгдсэн"
+
+msgid "Type"
+msgstr "Сайхан сэтгэлтэй"
+
+msgid "Description"
+msgstr "Тодорхойлолт"
+
+msgid "Statut"
+msgstr "Статус"
+
+msgid "Résolu"
+msgstr "Шийдвэрлэсэн"
+
+msgid "Non résolu"
+msgstr "Шийдвэрлэгдээгүй"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Алдаа бүртгэгдээгүй"
+
+msgid "Le système fonctionne correctement."
+msgstr "Систем зөв ажиллаж байна."
+
+msgid "Gestion des utilisateurs"
+msgstr "Хэрэглэгчийн удирдлага"
+
+msgid "comptes"
+msgstr "дансууд"
+
+msgid "Email"
+msgstr "И-мэйл"
+
+msgid "Téléphone"
+msgstr "Утас"
+
+msgid "Rôle"
+msgstr "Үүрэг"
+
+msgid "Inscrit le"
+msgstr "Бүртгэгдсэн"
+
+msgid "Actions"
+msgstr "Үйлдлүүд"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Энэ хэрэглэгч болон түүний бүх төхөөрөмжийг устгах уу?"
+
+msgid "Vous"
+msgstr "ТА"
+
+msgid "Connexions"
+msgstr "Холболтууд"
+
+msgid "Vol"
+msgstr "Нислэг"
+
+msgid "Perte"
+msgstr "Алдагдал"
+
+msgid "Anomalie"
+msgstr "Аномали"
+
+msgid "Alertes"
+msgstr "Анхааруулга"
+
+msgid "Gestion des alertes"
+msgstr "Сэрэмжлүүлгийн удирдлага"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Хулгай, алдагдлыг мэдээлэх, түүхийг хянах"
+
+msgid "Signaler un vol / perte"
+msgstr "Хулгай / алдагдлыг мэдээлэх"
+
+msgid "En cours"
+msgstr "Ажиллаж байна"
+
+msgid "Résolues"
+msgstr "Шийдвэрлэсэн"
+
+msgid "Historique des alertes"
+msgstr "Сэрэмжлүүлгийн түүх"
+
+msgid "Appareil"
+msgstr "Төхөөрөмж"
+
+msgid "Priorité"
+msgstr "Тэргүүлэх"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Энэ сэрэмжлүүлгийг шийдсэн гэж тэмдэглэх үү?"
+
+msgid "Résoudre"
+msgstr "Шийдэх"
+
+msgid "Aucune alerte"
+msgstr "Сэрэмжлүүлэг байхгүй"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Сайн мэдээ! Анхааруулга мэдээлээгүй байна."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Хулгай, алдагдлыг мэдээлэх"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Хулгайг мэдээлснээр таны төхөөрөмжийг автоматаар түгжиж, мэдэгдэл илгээх "
+"болно."
+
+msgid "Appareil concerné"
+msgstr "Нөлөөлөлд өртсөн төхөөрөмж"
+
+msgid "Sélectionner un appareil"
+msgstr "Төхөөрөмж сонгоно уу"
+
+msgid "Type d'alerte"
+msgstr "Анхааруулгын төрөл"
+
+msgid "Décrivez les circonstances..."
+msgstr "Нөхцөл байдлыг тайлбарлана уу ..."
+
+msgid "Annuler"
+msgstr "Цуцлах"
+
+msgid "Signaler"
+msgstr "Тайлан"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Хулгайн эсрэг ухаалаг систем — Ухаалаг гар утасны хамгаалалтын платформ"
+
+msgid "Système Anti-Vol"
+msgstr "Хулгайн эсрэг систем"
+
+msgid "PRINCIPAL"
+msgstr "ҮНДСЭН"
+
+msgid "Tableau de bord"
+msgstr "Хяналтын самбар"
+
+msgid "SÉCURITÉ"
+msgstr "АЮУЛГҮЙ БАЙДАЛ"
+
+msgid "Géolocalisation"
+msgstr "Газарзүйн байршил"
+
+msgid "ADMINISTRATION"
+msgstr "УДИРДЛАГА"
+
+msgid "Déconnexion"
+msgstr "Салга"
+
+msgid "Changer de langue"
+msgstr "Хэлийг өөрчлөх"
+
+msgid "Rechercher une langue..."
+msgstr "Хэл хайх..."
+
+msgid "Profil"
+msgstr "Профайл"
+
+msgid "Changer de thème"
+msgstr "Сэдвийг өөрчлөх"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Таны төхөөрөмжийн аюулгүй байдлын тойм"
+
+msgid "Ajouter un appareil"
+msgstr "Төхөөрөмж нэмнэ үү"
+
+msgid "Appareils volés"
+msgstr "Хулгайлагдсан төхөөрөмжүүд"
+
+msgid "Verrouillés à distance"
+msgstr "Алсын түгжээтэй"
+
+msgid "Alertes récentes"
+msgstr "Сүүлийн үеийн сэрэмжлүүлэг"
+
+msgid "Voir tout"
+msgstr "Бүгдийг харах"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Сэрэмжлүүлэг байхгүй. Таны төхөөрөмжүүд аюулгүй!"
+
+msgid "Mes appareils"
+msgstr "Миний төхөөрөмжүүд"
+
+msgid "Aucun appareil enregistré"
+msgstr "Бүртгэгдсэн төхөөрөмж байхгүй"
+
+msgid "Ajouter"
+msgstr "Нэмэх"
+
+msgid "en attente"
+msgstr "түр зогссон"
+
+msgid "Gestion des appareils"
+msgstr "Төхөөрөмжийн удирдлага"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Ухаалаг утсаа бүртгүүлж, удирдаарай"
+
+msgid "Opérateur"
+msgstr "Оператор"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Энэ төхөөрөмжийг алсаас түгжих үү?"
+
+msgid "Verrouiller"
+msgstr "Түгжих"
+
+msgid "Déverrouiller"
+msgstr "Түгжээг тайлах"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Энэ төхөөрөмжийг устгах уу?"
+
+msgid "Supprimer"
+msgstr "УСТГАХ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Хамгаалахын тулд анхны ухаалаг гар утсаа нэмээрэй."
+
+msgid "Nouvel appareil"
+msgstr "Шинэ төхөөрөмж"
+
+msgid "Marque"
+msgstr "Брэнд"
+
+msgid "Sélectionner"
+msgstr "Сонго"
+
+msgid "Autre"
+msgstr "Бусад"
+
+msgid "Modèle"
+msgstr "Загвар"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "утсан дээрээ *#06# гэж бичнэ үү"
+
+msgid "Système d'exploitation"
+msgstr "Үйлдлийн систем"
+
+msgid "Numéro de téléphone"
+msgstr "Утасны дугаар"
+
+msgid "Enregistrer"
+msgstr "Хадгалах"
+
+msgid "Connexion"
+msgstr "Холболт"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Ухаалаг гар утасны хамгаалалтын систем"
+
+msgid "Adresse email"
+msgstr "И-мэйл хаяг"
+
+msgid "Mot de passe"
+msgstr "Нууц үг"
+
+msgid "Se connecter"
+msgstr "Нэвтрэх"
+
+msgid "Mot de passe oublié ?"
+msgstr "Нууц үгээ мартсан уу?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Танд данс байгаа юу? Үгүй бол бүртгэлээ үргэлжлүүлээрэй!"
+
+msgid "Créer un compte"
+msgstr "Бүртгэл үүсгэх"
+
+msgid "Sécurité maximale"
+msgstr "Хамгийн их аюулгүй байдал"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Алсын түгжээгээр хувийн мэдээллээ хамгаалаарай"
+
+msgid "Localisation GPS"
+msgstr "GPS-ийн байршил"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Бодит цаг хугацаанд ухаалаг утасныхаа байршлыг яг таг олоорой"
+
+msgid "Alertes instantanées"
+msgstr "Шуурхай дохиолол"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Хулгай хийсэн тохиолдолд SMS, имэйл болон түлхэх мэдэгдлийг хүлээн авах"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Төхөөрөмжүүдийнхээ байршлыг олж, эрсдэлтэй газруудыг төсөөл"
+
+msgid "Aucun appareil"
+msgstr "Төхөөрөмж байхгүй"
+
+msgid "Zones à risque"
+msgstr "Эрсдэлтэй бүсүүд"
+
+msgid "incidents"
+msgstr "тохиолдлууд"
+
+msgid "Aucune zone signalée"
+msgstr "Ямар ч газар мэдээлээгүй байна"
+
+msgid "Niveau"
+msgstr "Түвшин"
+
+msgid "Incidents"
+msgstr "Үйл явдал"
+
+msgid "Profile utilisateur"
+msgstr "Хэрэглэгчийн профайл"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Хувийн мэдээллээ удирдах"
+
+msgid "Membre depuis"
+msgstr "Түүнээс хойш гишүүн"
+
+msgid "Modifier mes informations"
+msgstr "Миний мэдээллийг засварлана уу"
+
+msgid "Prénom"
+msgstr "Нэр"
+
+msgid "Nom"
+msgstr "Нэр"
+
+msgid "Changer le mot de passe"
+msgstr "Нууц үг солих"
+
+msgid "Nouveau mot de passe"
+msgstr "Шинэ нууц үг"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "өөрчлөхгүйн тулд хоосон орхи"
+
+msgid "Enregistrer les modifications"
+msgstr "Өөрчлөлтүүдийг хадгалах"
+
+msgid "Inscription"
+msgstr "Бүртгэл"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"Төхөөрөмжийнхөө аюулгүй байдлыг сайжруулах үүднээс хулгайн эсрэг "
+"үйлчилгээнд тавтай морилно уу"
+
+msgid "Confirmer"
+msgstr "Баталгаажуулах"
+
+msgid "Créer mon compte"
+msgstr "Миний бүртгэлийг үүсгэ"
+
+msgid "Déjà un compte ?"
+msgstr "Бүртгэлтэй юу?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Нууц үгээ дахин тохируулах"
+
+msgid "Réinitialisation"
+msgstr "Дахин тохируулах"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Хэн болохыг баталгаажуулахын тулд имэйл болон утасны дугаараа оруулна уу"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Бүртгэлийн үед ашигласан дугаар"
+
+msgid "Minimum 6 caractères"
+msgstr "Хамгийн багадаа 6 тэмдэгт"
+
+msgid "Confirmer le mot de passe"
+msgstr "Нууц үгээ баталгаажуулна уу"
+
+msgid "Retourner à la"
+msgstr "-руу буцах"
+
+msgid "page de connexion"
+msgstr "нэвтрэх хуудас"
+
+msgid "Vérification sécurisée"
+msgstr "Аюулгүй баталгаажуулалт"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Таны цахим шуудан болон утасны дугаарыг ашиглан хэн болохыг тань "
+"баталгаажуулна"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Хамгийн багадаа 6 тэмдэгтээс бүрдэх нууц үгээ сонгоно уу"
+
+msgid "d"
+msgstr "г"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{редактор}: Засаж чадсангүй"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{редактор}: Засаж чадсангүй: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows алдаа: {алдаа}"
+
+msgid "deprecated"
+msgstr "хуучирсан"
+
+msgid "Options"
+msgstr "Сонголтууд"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Гэнэтийн нэмэлт аргумент авсан ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"Хэрэглэхийг хориглох Анхааруулга: {name!r} тушаалыг хүчингүй "
+"болгосон.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Цуцлагдсан!"
+
+msgid "Commands"
+msgstr "Тушаалууд"
+
+msgid "Missing command."
+msgstr "Команд алга."
+
+msgid "Value must be an iterable."
+msgstr "Утга нь давтагдах боломжтой байх ёстой."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} утгыг авдаг боловч 1-ийг өгсөн."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "Татгалзах Анхааруулга: {param_type} {name!r} хуучирсан.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "'{name}' нэрийг хоёр удаа тодорхойлсон"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Boolean сонголт {decl!r} нь үнэн/худал гэж ижил тугийг ашиглах боломжгүй."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "{decls!r} мэдэгдэл бүхий сонголтын нэрийг тодорхойлж чадсангүй"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Ямар ч сонголт тодорхойлогдоогүй боловч нэрийг дамжуулсан ({name}). Та "
+"үүний оронд маргаан зарлах гэсэн юм уу? Та '--{name}'-г дамжуулна гэж "
+"бодсон уу?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "өгөгдмөл: {өгөгдмөл}"
+
+msgid "required"
+msgstr "шаардлагатай"
+
+msgid "(dynamic)"
+msgstr "(динамик)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Аргументууд нь яг нэг параметрийн мэдэгдлийг авдаг бөгөөд {length}: "
+"{decls} авсан."
+
+msgid "Do you want to continue?"
+msgstr "Та үргэлжлүүлэхийг хүсч байна уу?"
+
+msgid "Confirm the action without prompting."
+msgstr "Сануулгагүйгээр үйлдлийг баталгаажуулна уу."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, %(version)s хувилбар"
+
+msgid "Show the version and exit."
+msgstr "Хувилбараа үзүүлээд гарна уу."
+
+msgid "Show this message and exit."
+msgstr "Энэ мессежийг үзүүлээд гарна уу."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Та {боломж} гэсэн үг үү?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Алдаа: {мессеж}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Тусламж авах бол '{command} {option}'-г ашиглана уу."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Буруу утга: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint}-н буруу утга: {message}"
+
+msgid "Missing argument"
+msgstr "Аргумент дутуу байна"
+
+msgid "Missing option"
+msgstr "Сонголт дутуу байна"
+
+msgid "Missing parameter"
+msgstr "Параметр дутуу байна"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} дутуу байна"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Дутуу параметр: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Ийм сонголт байхгүй {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Ийм тушаал байхгүй {name!r}."
+
+msgid "unknown error"
+msgstr "үл мэдэгдэх алдаа"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "{filename!r} файлыг нээж чадсангүй: {message}"
+
+msgid "Usage:"
+msgstr "Хэрэглэх:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Сонголтод буруу эхлэл тэмдэгт ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "{name!r} аргумент нь {nargs} утгыг авна."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "{name!r} сонголт нь утга авдаггүй."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "{name!r} сонголт нь аргумент шаарддаг."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "4.4-с өмнөх Bash хувилбаруудад бүрхүүлийн дуусгахыг дэмждэггүй."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Bash хувилбарыг илрүүлж чадсангүй, бүрхүүл дуусгахыг дэмждэггүй."
+
+msgid "Repeat for confirmation"
+msgstr "Баталгаажуулахын тулд давтана уу"
+
+msgid "Error: The two entered values do not match."
+msgstr "Алдаа: Оруулсан хоёр утга таарахгүй байна."
+
+msgid "Error: invalid input"
+msgstr "Алдаа: буруу оролт"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Үл мэдэгдэх өнгө {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Үргэлжлүүлэхийн тулд дурын товчлуурыг дарна уу..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Дараахаас сонгоно уу:\\n\\t{сонголт}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{утга!r} нь {сонголт} биш."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Сонголт({сонголт})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{утга!r} нь {формат} форматтай таарахгүй байна."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{утга!r} нь хүчинтэй {тоо_төрөл} биш байна."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{утга} нь {муж} мужид байхгүй байна."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr ""
+"{утга!r} нь хүчинтэй логик биш байна. Хүлээн зөвшөөрөгдсөн утгууд: "
+"{states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} нь хүчинтэй UUID биш байна."
+
+msgid "file"
+msgstr "файл"
+
+msgid "directory"
+msgstr "лавлах"
+
+msgid "path"
+msgstr "зам"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {файлын нэр!r} байхгүй байна."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} нь файл юм."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {файлын нэр!r} нь лавлах юм."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {файлын нэр!r}-г унших боломжгүй."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {файлын нэр!r} нь бичих боломжгүй."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {файлын нэр!r} ажиллах боломжгүй."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} утгууд шаардлагатай боловч {len_value} өгөгдсөн."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Үл мэдэгдэх стандарт урсгал '{name}'"
+
+msgid "This field is required."
+msgstr "Энэ талбар шаардлагатай."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Файлд зөвшөөрөгдсөн өргөтгөл байхгүй байна: {өргөтгөлүүд}"
+
+msgid "File does not have an approved extension."
+msgstr "Файлд зөвшөөрөгдсөн өргөтгөл байхгүй байна."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Файл {min_size} болон {max_size} байт хооронд байх ёстой."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "'%s' талбарын нэр буруу."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Талбар нь %(other_name)s-тэй тэнцүү байх ёстой."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Талбар хамгийн багадаа %(min)d тэмдэгттэй байх ёстой."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Талбар нь %(max)d тэмдэгтээс урт байж болохгүй."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Талбар яг %(max)d тэмдэгтийн урттай байх ёстой."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Талбар нь %(min)d болон %(max)d тэмдэгтийн хооронд байх ёстой."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Тоо хамгийн багадаа %(min)s байх ёстой."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Тоо хамгийн ихдээ %(max)s байх ёстой."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Тоо %(min)s болон %(max)s хооронд байх ёстой."
+
+msgid "Invalid input."
+msgstr "Буруу оролт."
+
+msgid "Invalid email address."
+msgstr "Буруу имэйл хаяг."
+
+msgid "Invalid IP address."
+msgstr "Буруу IP хаяг."
+
+msgid "Invalid Mac address."
+msgstr "Буруу Mac хаяг."
+
+msgid "Invalid URL."
+msgstr "Хүчингүй URL."
+
+msgid "Invalid UUID."
+msgstr "Буруу UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Буруу утга, нэг нь байх ёстой: %(value)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Буруу утга, аль нь ч байж болохгүй: %(value)s."
+
+msgid "This field cannot be edited."
+msgstr "Энэ талбарыг засах боломжгүй."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Энэ талбар идэвхгүй байгаа бөгөөд утга байх боломжгүй."
+
+msgid "Invalid CSRF Token."
+msgstr "CSRF токен буруу байна."
+
+msgid "CSRF token missing."
+msgstr "CSRF токен дутуу байна."
+
+msgid "CSRF failed."
+msgstr "CSRF амжилтгүй боллоо."
+
+msgid "CSRF token expired."
+msgstr "CSRF токены хугацаа дууссан."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Хүчингүй сонголт: албадлага хийх боломжгүй."
+
+msgid "Choices cannot be None."
+msgstr "Сонголтууд аль нь ч байж болохгүй."
+
+msgid "Not a valid choice."
+msgstr "Зөв сонголт биш."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Буруу сонголт(ууд): нэг буюу хэд хэдэн өгөгдлийн оролтыг албадах "
+"боломжгүй."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' нь энэ талбарт тохирох сонголт биш байна."
+
+msgid "Not a valid datetime value."
+msgstr "Хүчинтэй огноо цагийн утга биш."
+
+msgid "Not a valid date value."
+msgstr "Хүчинтэй огнооны утга биш."
+
+msgid "Not a valid time value."
+msgstr "Хүчинтэй хугацааны утга биш."
+
+msgid "Not a valid week value."
+msgstr "Хүчинтэй долоо хоногийн утга биш."
+
+msgid "Not a valid integer value."
+msgstr "Хүчинтэй бүхэл тоо биш байна."
+
+msgid "Not a valid decimal value."
+msgstr "Аравтын тоо буруу байна."
+
+msgid "Not a valid float value."
+msgstr "Хүчинтэй хөвөх утга биш."
+

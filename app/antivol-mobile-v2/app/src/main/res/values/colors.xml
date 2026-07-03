@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_primary">#FF02000E</color>
+    <color name="bg_secondary">#FF00050F</color>
+    <color name="bg_card">#FF1E293B</color>
+    <color name="bg_glass">#FF0A0015</color>
+
+    <!-- Borders -->
+    <color name="border_color">#FF334155</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFF1F5F9</color>
+    <color name="text_secondary">#FF94A3B8</color>
+    <color name="text_muted">#FF64748B</color>
+    <color name="text_white">#FFFFFFFF</color>
+
+    <!-- Accents -->
+    <color name="accent_blue">#FF3B82F6</color>
+    <color name="accent_blue_dark">#FF2563EB</color>
+    <color name="accent_purple">#FF8B5CF6</color>
+    <color name="accent_teal">#FF06B6D4</color>
+    <color name="accent_green">#FF22C55E</color>
+    <color name="accent_orange">#FFF59E0B</color>
+    <color name="accent_red">#FFEF4444</color>
+    <color name="accent_pink">#FFEC4899</color>
+
+    <!-- Legacy compat -->
+    <color name="primary">#FF3B82F6</color>
+    <color name="primary_dark">#FF2563EB</color>
+    <color name="secondary">#FF06B6D4</color>
+    <color name="background">#FF02000E</color>
+    <color name="surface">#FF0F0F23</color>
+    <color name="error">#FFEF4444</color>
+    <color name="success">#FF22C55E</color>
+    <color name="warning">#FFF59E0B</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_background">#FFFFFFFF</color>
+    <color name="on_surface">#FFFFFFFF</color>
+    <color name="icon_background">#02000e</color>
+</resources>

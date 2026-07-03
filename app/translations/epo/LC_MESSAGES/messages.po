@@ -1,0 +1,1039 @@
+# Translations for EPO.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: epo\n"
+"Language-Team: epo <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Bonvolu ensaluti por aliri ĉi tiun paĝon."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Ĉi tiu IMEI jam estas registrita en la sistemo."
+
+msgid "Accès non autorisé."
+msgstr "Neaŭtorizita aliro."
+
+msgid "Appareil déverrouillé."
+msgstr "Aparato malŝlosita."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Atentigo kreita! Sciigoj senditaj."
+
+msgid "Alerte résolue."
+msgstr "Atentigo solvita."
+
+msgid "Pas encore de compte ?"
+msgstr "Ĉu ankoraŭ neniu konto?"
+
+msgid "Mon Profil"
+msgstr "Mia Profilo"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Konekto sukcesa! Bonvenon."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Malĝusta retpoŝto aŭ pasvorto."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Ĉiuj postulataj kampoj devas esti plenigitaj."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Pasvortoj ne kongruas."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "La pasvorto devas enhavi almenaŭ 6 signojn."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Ĉi tiu retpoŝto jam estas uzata."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Konto kreita sukcese! Ensalutu."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Neniuj kontoj trovitaj kun ĉi tiu retpoŝto."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "La telefonnumero ne kongruas kun la kontnumero."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "La nova pasvorto estas deviga."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Pasvorto rekomencigita sukcese! Ensalutu."
+
+msgid "Vous avez été déconnecté."
+msgstr "Vi estis malkonektita."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Marko, modelo kaj IMEI estas postulataj."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Aparato kun ĉi tiu IMEI jam ekzistas."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Aparato registrita sukcese!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Vi ne estas rajtigita fari ĉi tiun agon."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Aparato malproksime ŝlosita sukcese."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Aparato malŝlosita sukcese."
+
+msgid "Appareil supprimé."
+msgstr "Aparato forigita."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Bonvolu elekti aparaton kaj atentan tipon."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Ĉi tiu aparato ne apartenas al vi."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Atentigo raportita sukcese. La aparato estis sekurigita."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Atentigo markita kiel solvita."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Antaŭnomo, familia nomo kaj retpoŝto estas postulataj."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Ĉi tiu retpoŝto jam estas uzata de alia konto."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profilo ĝisdatigita sukcese!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Aliro rezervita por administrantoj."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Eraro markita kiel solvita."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Vi ne povas forigi vian propran konton."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Uzanto sukcese forigita."
+
+msgid "Administration"
+msgstr "Administrado"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Alcentrigita administrado de la Kontraŭŝtela sistemo"
+
+msgid "Utilisateurs"
+msgstr "Uzantoj"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktiva hodiaŭ"
+
+msgid "Nouveaux ce mois"
+msgstr "Nova ĉi-monate"
+
+msgid "Appareils"
+msgstr "Aparatoj"
+
+msgid "Alertes actives"
+msgstr "Aktivaj atentigoj"
+
+msgid "Analytique"
+msgstr "Analiza"
+
+msgid "Journal d'activité"
+msgstr "Agadprotokolo"
+
+msgid "Erreurs"
+msgstr "Eraroj"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Konektoj (lastaj 7 tagoj)"
+
+msgid "Alertes par type"
+msgstr "Atentigoj laŭ tipo"
+
+msgid "Appareils par opérateur"
+msgstr "Aparatoj laŭ funkciigisto"
+
+msgid "Résumé du système"
+msgstr "Sistema Resumo"
+
+msgid "Utilisateurs total"
+msgstr "Totalaj uzantoj"
+
+msgid "Appareils enregistrés"
+msgstr "Registritaj aparatoj"
+
+msgid "Total alertes"
+msgstr "Totalaj atentigoj"
+
+msgid "Alertes en cours"
+msgstr "Nunaj atentigoj"
+
+msgid "Erreurs non résolues"
+msgstr "Nesolvitaj eraroj"
+
+msgid "Dernières activités"
+msgstr "Plej novaj agadoj"
+
+msgid "récentes"
+msgstr "freŝaj"
+
+msgid "Utilisateur"
+msgstr "Uzanto"
+
+msgid "Action"
+msgstr "Ago"
+
+msgid "Détails"
+msgstr "Detaloj"
+
+msgid "Adresse IP"
+msgstr "IP-adreso"
+
+msgid "Navigateur"
+msgstr "Retumilo"
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Aucune activité"
+msgstr "Neniu aktiveco"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Uzantaj agadoj aperos ĉi tie."
+
+msgid "Journal d'erreurs"
+msgstr "Registro de eraroj"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Ripari ĉiujn erarojn?"
+
+msgid "Tout résoudre"
+msgstr "Solvu ĉion"
+
+msgid "non résolues"
+msgstr "nesolvita"
+
+msgid "Tout est résolu"
+msgstr "Ĉio estas solvita"
+
+msgid "Type"
+msgstr "Afabla"
+
+msgid "Description"
+msgstr "Priskribo"
+
+msgid "Statut"
+msgstr "Statuso"
+
+msgid "Résolu"
+msgstr "Solvita"
+
+msgid "Non résolu"
+msgstr "Nesolvita"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Neniuj eraroj registritaj"
+
+msgid "Le système fonctionne correctement."
+msgstr "La sistemo funkcias ĝuste."
+
+msgid "Gestion des utilisateurs"
+msgstr "Administrado de uzantoj"
+
+msgid "comptes"
+msgstr "kontoj"
+
+msgid "Email"
+msgstr "Retpoŝto"
+
+msgid "Téléphone"
+msgstr "Telefono"
+
+msgid "Rôle"
+msgstr "Rolo"
+
+msgid "Inscrit le"
+msgstr "Registrita je"
+
+msgid "Actions"
+msgstr "Agoj"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Ĉu forigi ĉi tiun uzanton kaj ĉiujn iliajn aparatojn?"
+
+msgid "Vous"
+msgstr "VI"
+
+msgid "Connexions"
+msgstr "Konektoj"
+
+msgid "Vol"
+msgstr "Flugo"
+
+msgid "Perte"
+msgstr "Perdo"
+
+msgid "Anomalie"
+msgstr "Anomalio"
+
+msgid "Alertes"
+msgstr "Atentigoj"
+
+msgid "Gestion des alertes"
+msgstr "Alerta administrado"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Raportu ŝtelon aŭ perdon kaj spuru historion"
+
+msgid "Signaler un vol / perte"
+msgstr "Raportu ŝtelon/perdon"
+
+msgid "En cours"
+msgstr "En progreso"
+
+msgid "Résolues"
+msgstr "Solvita"
+
+msgid "Historique des alertes"
+msgstr "Alerta Historio"
+
+msgid "Appareil"
+msgstr "Aparato"
+
+msgid "Priorité"
+msgstr "Prioritato"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Ĉu marki ĉi tiun atentigon kiel solvita?"
+
+msgid "Résoudre"
+msgstr "Solvu"
+
+msgid "Aucune alerte"
+msgstr "Neniu atentigo"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Bona novaĵo! Neniuj atentigoj estis raportitaj."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Raportu ŝtelon aŭ perdon"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Raportante ŝtelon, via aparato estos aŭtomate ŝlosita kaj sciigoj estos "
+"senditaj."
+
+msgid "Appareil concerné"
+msgstr "Trafita aparato"
+
+msgid "Sélectionner un appareil"
+msgstr "Elektu aparaton"
+
+msgid "Type d'alerte"
+msgstr "Tipo de alarmo"
+
+msgid "Décrivez les circonstances..."
+msgstr "Priskribu la cirkonstancojn..."
+
+msgid "Annuler"
+msgstr "Nuligi"
+
+msgid "Signaler"
+msgstr "Raporto"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Inteligenta Kontraŭŝtela Sistemo — Sekureca platformo por saĝtelefonoj"
+
+msgid "Système Anti-Vol"
+msgstr "Kontraŭŝtela Sistemo"
+
+msgid "PRINCIPAL"
+msgstr "ĈEFA"
+
+msgid "Tableau de bord"
+msgstr "Panelo"
+
+msgid "SÉCURITÉ"
+msgstr "SEKURECO"
+
+msgid "Géolocalisation"
+msgstr "Geolokigo"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRO"
+
+msgid "Déconnexion"
+msgstr "Malkonekti"
+
+msgid "Changer de langue"
+msgstr "Ŝanĝi lingvon"
+
+msgid "Rechercher une langue..."
+msgstr "Serĉu lingvon..."
+
+msgid "Profil"
+msgstr "Profilo"
+
+msgid "Changer de thème"
+msgstr "Ŝanĝi temon"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Superrigardo de via aparato sekureco"
+
+msgid "Ajouter un appareil"
+msgstr "Aldonu aparaton"
+
+msgid "Appareils volés"
+msgstr "Ŝtelitaj aparatoj"
+
+msgid "Verrouillés à distance"
+msgstr "Malproksime ŝlosita"
+
+msgid "Alertes récentes"
+msgstr "Lastatempaj atentigoj"
+
+msgid "Voir tout"
+msgstr "Vidu ĉiujn"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Neniu atentigo. Viaj aparatoj estas sekuraj!"
+
+msgid "Mes appareils"
+msgstr "Miaj aparatoj"
+
+msgid "Aucun appareil enregistré"
+msgstr "Neniuj aparatoj registritaj"
+
+msgid "Ajouter"
+msgstr "Aldoni"
+
+msgid "en attente"
+msgstr "en atendo"
+
+msgid "Gestion des appareils"
+msgstr "Mastrumado de aparatoj"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Registru kaj administru viajn saĝtelefonojn"
+
+msgid "Opérateur"
+msgstr "Operatoro"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Ĉu ŝlosi ĉi tiun aparaton malproksime?"
+
+msgid "Verrouiller"
+msgstr "Ŝlosu"
+
+msgid "Déverrouiller"
+msgstr "Malŝlosu"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Ĉu forigi ĉi tiun aparaton?"
+
+msgid "Supprimer"
+msgstr "FORIGI"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Aldonu vian unuan inteligentan telefonon por komenci protekti ĝin."
+
+msgid "Nouvel appareil"
+msgstr "Nova aparato"
+
+msgid "Marque"
+msgstr "Marko"
+
+msgid "Sélectionner"
+msgstr "Elektu"
+
+msgid "Autre"
+msgstr "Aliaj"
+
+msgid "Modèle"
+msgstr "Modelo"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "tajpu *#06# sur via telefono"
+
+msgid "Système d'exploitation"
+msgstr "Operaciumo"
+
+msgid "Numéro de téléphone"
+msgstr "Telefonnumero"
+
+msgid "Enregistrer"
+msgstr "Konservu"
+
+msgid "Connexion"
+msgstr "Konekto"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sekureca sistemo de inteligenta telefono"
+
+msgid "Adresse email"
+msgstr "Retpoŝtadreso"
+
+msgid "Mot de passe"
+msgstr "Pasvorto"
+
+msgid "Se connecter"
+msgstr "Ensalutu"
+
+msgid "Mot de passe oublié ?"
+msgstr "Forgesita pasvorto?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Ĉu vi jam havas konton? Alie, kreu vian konton!"
+
+msgid "Créer un compte"
+msgstr "Kreu konton"
+
+msgid "Sécurité maximale"
+msgstr "Maksimuma sekureco"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Protektu viajn personajn datumojn per fora ŝlosado"
+
+msgid "Localisation GPS"
+msgstr "GPS-loko"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Trovu la precizan lokon de via inteligenta telefono en reala tempo"
+
+msgid "Alertes instantanées"
+msgstr "Tujaj atentigoj"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Ricevu SMSajn, retpoŝtajn kaj puŝajn sciigojn en kazo de ŝtelo"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Trovu viajn aparatojn kaj bildigu riskajn areojn"
+
+msgid "Aucun appareil"
+msgstr "Neniu aparato"
+
+msgid "Zones à risque"
+msgstr "Riskaj areoj"
+
+msgid "incidents"
+msgstr "okazaĵoj"
+
+msgid "Aucune zone signalée"
+msgstr "Neniuj areoj raportitaj"
+
+msgid "Niveau"
+msgstr "Nivelo"
+
+msgid "Incidents"
+msgstr "Okazaĵoj"
+
+msgid "Profile utilisateur"
+msgstr "Profilo de uzanto"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Administri viajn personajn informojn"
+
+msgid "Membre depuis"
+msgstr "Membro ekde"
+
+msgid "Modifier mes informations"
+msgstr "Redaktu miajn informojn"
+
+msgid "Prénom"
+msgstr "Antaŭnomo"
+
+msgid "Nom"
+msgstr "Nomo"
+
+msgid "Changer le mot de passe"
+msgstr "Ŝanĝi pasvorton"
+
+msgid "Nouveau mot de passe"
+msgstr "Nova Pasvorto"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "lasu malplena por ne ŝanĝi"
+
+msgid "Enregistrer les modifications"
+msgstr "Konservu ŝanĝojn"
+
+msgid "Inscription"
+msgstr "Registrado"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Bonvenon al Anti-Theft por pli bona sekureco de viaj aparatoj"
+
+msgid "Confirmer"
+msgstr "Konfirmu"
+
+msgid "Créer mon compte"
+msgstr "Kreu mian konton"
+
+msgid "Déjà un compte ?"
+msgstr "Ĉu jam havas konton?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Restarigi Pasvorton"
+
+msgid "Réinitialisation"
+msgstr "Restarigi"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Enigu vian retpoŝton kaj telefonnumeron por kontroli vian identecon"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "La nombro uzata dum registriĝo"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimume 6 signoj"
+
+msgid "Confirmer le mot de passe"
+msgstr "Konfirmu pasvorton"
+
+msgid "Retourner à la"
+msgstr "Reiru al"
+
+msgid "page de connexion"
+msgstr "ensaluta paĝo"
+
+msgid "Vérification sécurisée"
+msgstr "Sekura konfirmo"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Via identeco estas kontrolita per via retpoŝto kaj telefonnumero"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Elektu sekuran pasvorton de almenaŭ 6 signoj"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{redaktisto}: Redaktado malsukcesis"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{redaktisto}: Redaktado malsukcesis: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Vindoza eraro: {eraro}"
+
+msgid "deprecated"
+msgstr "malrekomendita"
+
+msgid "Options"
+msgstr "Opcioj"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Ricevis neatenditan kroman argumenton ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"MalrekomenditaAverto: La komando {name!r} estas "
+"malrekomendita.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Abortita!"
+
+msgid "Commands"
+msgstr "Komandoj"
+
+msgid "Missing command."
+msgstr "Mankas komando."
+
+msgid "Value must be an iterable."
+msgstr "Valoro devas esti iterebla."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Prenas {nargs} valorojn sed 1 estis donita."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"MalrekomenditaAverto: La {param_type} {name!r} estas "
+"malrekomendita.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Nomo '{nomo}' difinita dufoje"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Bulea opcio {decl!r} ne povas uzi la saman flagon por vera/malvera."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Ne eblis determini nomon por opcio kun deklaroj {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Neniuj opcioj difinitaj sed nomo estis pasigita ({nomo}). Ĉu vi intencis "
+"deklari argumenton anstataŭe? Ĉu vi intencis pasi '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var env: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "defaŭlte: {defaŭlte}"
+
+msgid "required"
+msgstr "postulata"
+
+msgid "(dynamic)"
+msgstr "(dinamika)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumentoj prenas precize unu parametron deklaron, ricevis {longo}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Ĉu vi volas daŭrigi?"
+
+msgid "Confirm the action without prompting."
+msgstr "Konfirmu la agon sen instigi."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, versio %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Montru la version kaj eliru."
+
+msgid "Show this message and exit."
+msgstr "Montru ĉi tiun mesaĝon kaj eliru."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Ĉu vi volis diri {eblon}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Eraro: {mesaĝo}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Provu '{command} {opcio}' por helpo."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Nevalida valoro: {mesaĝo}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Nevalida valoro por {param_hint}: {mesaĝo}"
+
+msgid "Missing argument"
+msgstr "Mankas argumento"
+
+msgid "Missing option"
+msgstr "Mankas opcio"
+
+msgid "Missing parameter"
+msgstr "Mankas parametro"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Mankas {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Mankas parametro: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Ne tia opcio {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Ne tia komando {name!r}."
+
+msgid "unknown error"
+msgstr "nekonata eraro"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Ne eblis malfermi dosieron {filename!r}: {mesaĝo}"
+
+msgid "Usage:"
+msgstr "Uzu:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Nevalida komenca signo por opcio ({opcio})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumento {name!r} prenas {nargs} valorojn."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Opcio {name!r} ne prenas valoron."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Opcio {name!r} postulas argumenton."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Ŝelkompletigo ne estas subtenata por Bash-versioj pli malnovaj ol 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Ne eblis detekti Bash-version, ŝelkompletigo ne estas subtenata."
+
+msgid "Repeat for confirmation"
+msgstr "Ripetu por konfirmo"
+
+msgid "Error: The two entered values do not match."
+msgstr "Eraro: La du enigitaj valoroj ne kongruas."
+
+msgid "Error: invalid input"
+msgstr "Eraro: nevalida enigo"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Nekonata koloro {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Premu ajnan klavon por daŭrigi..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Elektu el:\\n\\t{elektoj}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{valoro!r} ne estas {elekto}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Elekto({elektoj})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{valoro!r} ne kongruas kun la formato {formato}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ne estas valida {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{valoro} ne estas en la intervalo {gamo}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{valoro!r} ne estas valida buleano. Rekonitaj valoroj: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ne estas valida UUID."
+
+msgid "file"
+msgstr "dosiero"
+
+msgid "directory"
+msgstr "dosierujo"
+
+msgid "path"
+msgstr "vojo"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {dosiernomo!r} ne ekzistas."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} estas dosiero."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {dosiernomo!r} estas dosierujo."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {dosiernomo!r} ne estas legebla."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {dosiernomo!r} ne estas skribebla."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {dosiernomo!r} ne estas plenumebla."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} valoroj estas postulataj, sed {len_value} estis donita."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Nekonata norma fluo '{name}'"
+
+msgid "This field is required."
+msgstr "Ĉi tiu kampo estas postulata."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Dosiero ne havas aprobitan etendon: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Dosiero ne havas aprobitan etendon."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Dosiero devas esti inter {min_size} kaj {max_size} bajtoj."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Nevalida kamponomo '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Kampo devas esti egala al %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Kampo devas havi almenaŭ %(min)d signojn longa."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Kampo ne povas esti pli longa ol %(max)d signo."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Kampo devas havi precize %(max)d signojn longa."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Kampo devas havi inter %(min)d kaj %(max)d signojn longa."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Nombro devas esti almenaŭ %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Nombro devas esti maksimume %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Nombro devas esti inter %(min)s kaj %(max)s."
+
+msgid "Invalid input."
+msgstr "Nevalida enigo."
+
+msgid "Invalid email address."
+msgstr "Nevalida retadreso."
+
+msgid "Invalid IP address."
+msgstr "Nevalida IP-adreso."
+
+msgid "Invalid Mac address."
+msgstr "Nevalida Mac-adreso."
+
+msgid "Invalid URL."
+msgstr "Nevalida URL."
+
+msgid "Invalid UUID."
+msgstr "Nevalida UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Nevalida valoro, devas esti unu el: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Nevalida valoro, ne povas esti iu el: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Ĉi tiu kampo ne povas esti redaktita."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Ĉi tiu kampo estas malŝaltita kaj ne povas havi valoron."
+
+msgid "Invalid CSRF Token."
+msgstr "Nevalida CSRF-Token."
+
+msgid "CSRF token missing."
+msgstr "CSRF-ĵetono mankas."
+
+msgid "CSRF failed."
+msgstr "CSRF malsukcesis."
+
+msgid "CSRF token expired."
+msgstr "CSRF-ĵetono eksvalidiĝis."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Nevalida Elekto: ne povis devigi."
+
+msgid "Choices cannot be None."
+msgstr "Elektoj ne povas esti Neniuj."
+
+msgid "Not a valid choice."
+msgstr "Ne valida elekto."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Nevalida(j) elekto(j): unu aŭ pluraj datenenigaĵoj ne povis esti "
+"devigitaj."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' ne estas valida elekto por ĉi tiu kampo."
+
+msgid "Not a valid datetime value."
+msgstr "Ne valida dattempa valoro."
+
+msgid "Not a valid date value."
+msgstr "Ne valida datvaloro."
+
+msgid "Not a valid time value."
+msgstr "Ne valida tempovaloro."
+
+msgid "Not a valid week value."
+msgstr "Ne valida semajna valoro."
+
+msgid "Not a valid integer value."
+msgstr "Ne valida entjera valoro."
+
+msgid "Not a valid decimal value."
+msgstr "Ne valida dekuma valoro."
+
+msgid "Not a valid float value."
+msgstr "Ne valida flosvaloro."
+

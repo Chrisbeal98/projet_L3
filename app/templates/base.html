@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="{{ get_locale() }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=5">
+    <meta name="description" content="{{ _('Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones') }}">
+    <link rel="icon" href="{{ url_for('static', filename='logo.png') }}">
+    <link rel="apple-touch-icon" href="{{ url_for('static', filename='logo.png') }}">
+    <meta name="theme-color" content="#02000e">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>{% block title %}AntiVol.ci{% endblock %}</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    
+    <!-- Leaflet CSS (pour la carte) -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    {% if current_user.is_authenticated %}
+    <!-- ═══════════════════════════════════════ -->
+    <!-- SIDEBAR -->
+    <!-- ═══════════════════════════════════════ -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <div class="logo">
+                <div class="logo-icon">
+                    <img src="{{ url_for('static', filename='logo.png') }}" alt="AntiVol" style="width:24px;height:24px;object-fit:contain;">
+                </div>
+                <div class="logo-text">
+                    <span class="logo-title">AntiVol.ci</span>
+                    <span class="logo-subtitle">{{ _('Système Anti-Vol') }}</span>
+                </div>
+            </div>
+        </div>
+        
+        <nav class="sidebar-nav">
+            <ul>
+                <li class="nav-section-title">{{ _('PRINCIPAL') }}</li>
+                <li>
+                    <a href="{{ url_for('dashboard.index') }}" class="nav-link {% if request.endpoint == 'dashboard.index' %}active{% endif %}">
+                        <i data-lucide="layout-dashboard"></i>
+                        <span>{{ _('Tableau de bord') }}</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ url_for('dashboard.appareils') }}" class="nav-link {% if request.endpoint and 'appareils' in request.endpoint %}active{% endif %}">
+                        <i data-lucide="smartphone"></i>
+                        <span>{{ _('Appareils') }}</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ url_for('dashboard.alertes') }}" class="nav-link {% if request.endpoint and 'alertes' in request.endpoint %}active{% endif %}">
+                        <i data-lucide="bell-ring"></i>
+                        <span>{{ _('Alertes') }}</span>
+                        {% if total_alertes is defined and total_alertes > 0 %}
+                        <span class="badge-count">{{ total_alertes }}</span>
+                        {% endif %}
+                    </a>
+                </li>
+                
+                <li class="nav-section-title">{{ _('SÉCURITÉ') }}</li>
+                <li>
+                    <a href="{{ url_for('dashboard.carte') }}" class="nav-link {% if request.endpoint == 'dashboard.carte' %}active{% endif %}">
+                        <i data-lucide="map-pin"></i>
+                        <span>{{ _('Géolocalisation') }}</span>
+                    </a>
+                </li>
+                
+                {% if current_user.role == 'admin' %}
+                <li class="nav-section-title">{{ _('ADMINISTRATION') }}</li>
+                <li>
+                    <a href="{{ url_for('dashboard.admin') }}" class="nav-link {% if request.endpoint == 'dashboard.admin' %}active{% endif %}">
+                        <i data-lucide="settings"></i>
+                        <span>{{ _('Administration') }}</span>
+                    </a>
+                </li>
+                {% endif %}
+
+                <li class="nav-section-title">{{ _('HISTORIQUE') }}</li>
+                <li class="nav-history-list">
+                    {% if historique_navigation %}
+                    <ul>
+                        {% for h in historique_navigation %}
+                        <li>
+                            <a href="{{ h.url }}" class="nav-link nav-history-link {% if request.endpoint == h.endpoint %}active{% endif %}" title="{{ h.titre }}">
+                                <i data-lucide="{{ h.icone }}"></i>
+                                <span class="nav-history-label">{{ h.titre }}</span>
+                                <span class="nav-history-time">{{ h.date_visite | timeago }}</span>
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                    {% else %}
+                    <li class="nav-history-empty">{{ _('Aucune visite récente') }}</li>
+                    {% endif %}
+                </li>
+            </ul>
+        </nav>
+        
+        <div class="sidebar-footer">
+            <div class="user-card">
+                <div class="user-avatar">
+                    {{ current_user.prenom[0] }}{{ current_user.nom[0] }}
+                </div>
+                <div class="user-info">
+                    <span class="user-name">{{ current_user.prenom }} {{ current_user.nom }}</span>
+                    <span class="user-role">{{ current_user.role | capitalize }}</span>
+                </div>
+            </div>
+            <a href="{{ url_for('auth.logout') }}" class="btn-logout" title="{{ _('Déconnexion') }}">
+                <i data-lucide="log-out"></i>
+            </a>
+        </div>
+    </aside>
+
+    <!-- ═══════════════════════════════════════ -->
+    <!-- MAIN CONTENT -->
+    <!-- ═══════════════════════════════════════ -->
+    <main class="main-content">
+        <header class="top-bar">
+            <button class="menu-toggle" onclick="toggleSidebar()" id="menuToggle">
+                <i data-lucide="menu"></i>
+            </button>
+            <div class="top-bar-right">
+                <button class="btn-icon" onclick="toggleTheme()" title="{{ _('Changer de thème') }}" id="themeToggleBtn">
+                    <i data-lucide="moon" id="themeIcon"></i>
+                </button>
+                <!-- Sélecteur de langue — toutes les langues du monde -->
+                <div class="lang-selector">
+                    <button class="lang-current" onclick="toggleLangDropdown()" title="{{ _('Changer de langue') }}">
+                        <span class="lang-current-name">{{ LANGUAGE_NAMES.get(get_locale(), get_locale()) }}</span>
+                        <i data-lucide="chevron-down"></i>
+                    </button>
+                    <div class="lang-dropdown" id="langDropdown">
+                        <input type="text" class="lang-search" id="langSearch" placeholder="{{ _('Rechercher une langue...') }}" oninput="filterLangs()">
+                        <div class="lang-list">
+                            {% for lang in LANGUAGES %}
+                            <a href="{{ url_for('set_language', lang=lang) }}" class="lang-option {% if get_locale() == lang %}active{% endif %}" data-lang="{{ lang }}">
+                                {{ LANGUAGE_NAMES.get(lang, lang) }}
+                            </a>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+                <a href="{{ url_for('dashboard.profil') }}" class="btn-icon" title="{{ _('Profil') }}">
+                    <i data-lucide="user"></i>
+                </a>
+            </div>
+        </header>
+        
+        <!-- Flash Messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        <div class="flash-container">
+            {% for category, message in messages %}
+            <div class="flash-message flash-{{ category }}" onclick="this.remove()">
+                {% if category == 'success' %}<i data-lucide="check-circle"></i>
+                {% elif category == 'danger' %}<i data-lucide="x-circle"></i>
+                {% elif category == 'warning' %}<i data-lucide="alert-triangle"></i>
+                {% else %}<i data-lucide="info"></i>{% endif %}
+                <span>{{ message }}</span>
+                <button class="flash-close"><i data-lucide="x"></i></button>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+        {% endwith %}
+        
+        <div class="page-content">
+            {% block content %}{% endblock %}
+        </div>
+    </main>
+    {% else %}
+        {% block auth_content %}{% endblock %}
+    {% endif %}
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- App JS -->
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+    
+    <script>
+        // Initialiser Lucide Icons
+        lucide.createIcons();
+    </script>
+    
+    {% block scripts %}{% endblock %}
+
+    {% if not current_user.is_authenticated %}
+    <button class="theme-toggle-float" onclick="toggleTheme()" title="{{ _('Changer de thème') }}">
+        <i data-lucide="moon" id="themeIcon"></i>
+    </button>
+    {% endif %}
+
+    <!-- ═══════════════════════════════════════ -->
+    <!-- COLLECTE AUTO INFOS TÉLÉPHONE (CONSENTEMENT) -->
+    <!-- ═══════════════════════════════════════ -->
+    <div id="phoneConsentBanner" style="display:none;position:fixed;bottom:20px;left:50%;transform:translateX(-50%);max-width:480px;width:90%;background:#0f0f23;border:1px solid rgba(255,255,255,0.1);border-radius:16px;padding:20px;z-index:9999;box-shadow:0 8px 40px rgba(0,0,0,0.6);">
+        <div style="display:flex;align-items:flex-start;gap:12px;">
+            <div style="width:40px;height:40px;background:rgba(59,130,246,0.15);border-radius:10px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2">
+                    <rect x="5" y="2" width="14" height="20" rx="2" ry="2"/>
+                    <line x1="12" y1="18" x2="12.01" y2="18"/>
+                </svg>
+            </div>
+            <div style="flex:1;">
+                <p style="font-size:14px;font-weight:600;margin-bottom:4px;color:#fff;">📱 Stocker les informations de votre appareil ?</p>
+                <p style="font-size:12px;color:rgba(255,255,255,0.6);margin-bottom:12px;">
+                    AntiVol peut détecter automatiquement les informations de votre téléphone (modèle, OS, navigateur) pour une meilleure expérience.
+                </p>
+                <div style="display:flex;gap:8px;">
+                    <button onclick="acceptPhoneInfo()" style="flex:1;padding:8px 16px;border:none;border-radius:8px;background:linear-gradient(135deg,#3b82f6,#1d4ed8);color:#fff;font-size:13px;font-weight:600;cursor:pointer;">
+                        ✅ Autoriser
+                    </button>
+                    <button onclick="declinePhoneInfo()" style="padding:8px 16px;border:1px solid rgba(255,255,255,0.15);border-radius:8px;background:transparent;color:rgba(255,255,255,0.6);font-size:13px;font-weight:500;cursor:pointer;">
+                        Refuser
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    // ═══════════════════════════════════════════
+    // COLLECTE AUTO INFOS TÉLÉPHONE
+    // ═══════════════════════════════════════════
+    (function() {
+        if (localStorage.getItem('phone_consent') === 'declined') return;
+
+        function getDeviceInfo() {
+            var ua = navigator.userAgent;
+            var platform = navigator.platform || '';
+            var modele = 'Inconnu';
+            var marque = 'Inconnu';
+            var os = 'Inconnu';
+            var versionOs = 'Inconnue';
+            var navigateur = 'Inconnu';
+
+            if (ua.indexOf('Android') > -1) {
+                os = 'Android';
+                var match = ua.match(/Android\s([\d.]+)/);
+                if (match) versionOs = match[1];
+                if (ua.indexOf('Mobile') > -1) modele = 'Mobile';
+                else modele = 'Tablette';
+                var brandMatch = ua.match(/\(([^;]+);\s*([^;]+)/);
+                if (brandMatch) {
+                    marque = brandMatch[1].trim();
+                    modele = brandMatch[2].trim();
+                }
+            } else if (ua.indexOf('iPhone') > -1 || ua.indexOf('iPad') > -1) {
+                os = 'iOS';
+                modele = ua.indexOf('iPhone') > -1 ? 'iPhone' : 'iPad';
+                marque = 'Apple';
+                var verMatch = ua.match(/OS\s([\d_]+)/);
+                if (verMatch) versionOs = verMatch[1].replace(/_/g, '.');
+            } else {
+                os = platform;
+                if (ua.indexOf('Windows') > -1) os = 'Windows';
+                else if (ua.indexOf('Mac') > -1) os = 'macOS';
+                else if (ua.indexOf('Linux') > -1) os = 'Linux';
+            }
+
+            if (ua.indexOf('Chrome') > -1) navigateur = 'Chrome';
+            else if (ua.indexOf('Firefox') > -1) navigateur = 'Firefox';
+            else if (ua.indexOf('Safari') > -1) navigateur = 'Safari';
+            else if (ua.indexOf('Edge') > -1) navigateur = 'Edge';
+
+            return {
+                modele: modele,
+                marque: marque,
+                systeme_os: os,
+                version_os: versionOs,
+                navigateur: navigateur,
+                ecran_largeur: screen.width,
+                ecran_hauteur: screen.height,
+                langue: navigator.language || ''
+            };
+        }
+
+        function sendPhoneInfo(consented) {
+            var info = getDeviceInfo();
+            info.consentement = consented;
+            fetch('/api/phone-info/collect', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify(info)
+            }).catch(function() {});
+        }
+
+        window.acceptPhoneInfo = function() {
+            localStorage.setItem('phone_consent', 'accepted');
+            document.getElementById('phoneConsentBanner').style.display = 'none';
+            sendPhoneInfo(true);
+        };
+
+        window.declinePhoneInfo = function() {
+            localStorage.setItem('phone_consent', 'declined');
+            document.getElementById('phoneConsentBanner').style.display = 'none';
+        };
+
+        var stored = localStorage.getItem('phone_consent');
+        if (stored === 'accepted') {
+            sendPhoneInfo(true);
+        } else if (stored === 'declined') {
+            // ne rien faire
+        } else {
+            // Afficher la bannière après 3 secondes
+            setTimeout(function() {
+                var banner = document.getElementById('phoneConsentBanner');
+                if (banner) banner.style.display = 'block';
+            }, 3000);
+        }
+    })();
+    </script>
+</body>
+</html>

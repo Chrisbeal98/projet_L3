@@ -1,0 +1,1038 @@
+# Translations for BS.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: bs\n"
+"Language-Team: bs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Molimo prijavite se da pristupite ovoj stranici."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Ovaj IMEI je već registrovan u sistemu."
+
+msgid "Accès non autorisé."
+msgstr "Neovlašteni pristup."
+
+msgid "Appareil déverrouillé."
+msgstr "Uređaj je otključan."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Upozorenje kreirano! Obavještenja su poslana."
+
+msgid "Alerte résolue."
+msgstr "Upozorenje je riješeno."
+
+msgid "Pas encore de compte ?"
+msgstr "Još nemate račun?"
+
+msgid "Mon Profil"
+msgstr "Moj profil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Povezivanje uspjelo! Dobrodošli."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Neispravan email ili lozinka."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Sva obavezna polja moraju biti popunjena."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Lozinke se ne podudaraju."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Lozinka mora sadržavati najmanje 6 znakova."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Ova adresa e-pošte je već u upotrebi."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Račun uspješno kreiran! Prijavite se."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Nije pronađen nijedan račun sa ovom e-poštom."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Broj telefona ne odgovara broju računa."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Nova lozinka je obavezna."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Resetiranje lozinke uspješno! Prijavite se."
+
+msgid "Vous avez été déconnecté."
+msgstr "Prekinuli ste vezu."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Marka, model i IMEI su obavezni."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Uređaj sa ovim IMEI već postoji."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Uređaj je uspješno registriran!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Niste ovlašteni da izvršite ovu radnju."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Uređaj je uspješno zaključan daljinski."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Uređaj je uspješno otključan."
+
+msgid "Appareil supprimé."
+msgstr "Uređaj je izbrisan."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Molimo odaberite uređaj i vrstu upozorenja."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Ovaj uređaj ne pripada vama."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Upozorenje je uspješno prijavljeno. Uređaj je osiguran."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Upozorenje je označeno kao riješeno."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Ime, prezime i email su obavezni."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Ovu e-poštu već koristi drugi račun."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil je uspješno ažuriran!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Pristup rezerviran za administratore."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Greška je označena kao riješena."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Ne možete izbrisati vlastiti račun."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Korisnik je uspješno obrisan."
+
+msgid "Administration"
+msgstr "Administracija"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Centralizovano upravljanje sistemom protiv krađe"
+
+msgid "Utilisateurs"
+msgstr "Korisnici"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktivan danas"
+
+msgid "Nouveaux ce mois"
+msgstr "Novo ovog mjeseca"
+
+msgid "Appareils"
+msgstr "Uređaji"
+
+msgid "Alertes actives"
+msgstr "Aktivna upozorenja"
+
+msgid "Analytique"
+msgstr "Analitički"
+
+msgid "Journal d'activité"
+msgstr "Dnevnik aktivnosti"
+
+msgid "Erreurs"
+msgstr "Greške"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Veze (zadnjih 7 dana)"
+
+msgid "Alertes par type"
+msgstr "Upozorenja po vrsti"
+
+msgid "Appareils par opérateur"
+msgstr "Uređaji po operateru"
+
+msgid "Résumé du système"
+msgstr "Sažetak sistema"
+
+msgid "Utilisateurs total"
+msgstr "Ukupno korisnika"
+
+msgid "Appareils enregistrés"
+msgstr "Registrirani uređaji"
+
+msgid "Total alertes"
+msgstr "Totalna upozorenja"
+
+msgid "Alertes en cours"
+msgstr "Trenutna upozorenja"
+
+msgid "Erreurs non résolues"
+msgstr "Neriješene greške"
+
+msgid "Dernières activités"
+msgstr "Najnovije aktivnosti"
+
+msgid "récentes"
+msgstr "nedavno"
+
+msgid "Utilisateur"
+msgstr "Korisnik"
+
+msgid "Action"
+msgstr "Akcija"
+
+msgid "Détails"
+msgstr "Detalji"
+
+msgid "Adresse IP"
+msgstr "IP adresa"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Aucune activité"
+msgstr "Nema aktivnosti"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Ovdje će se pojaviti aktivnosti korisnika."
+
+msgid "Journal d'erreurs"
+msgstr "Dnevnik grešaka"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Ispraviti sve greške?"
+
+msgid "Tout résoudre"
+msgstr "Riješite sve"
+
+msgid "non résolues"
+msgstr "neriješeno"
+
+msgid "Tout est résolu"
+msgstr "Sve je riješeno"
+
+msgid "Type"
+msgstr "Ljubazno"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Statut"
+msgstr "Status"
+
+msgid "Résolu"
+msgstr "Rešeno"
+
+msgid "Non résolu"
+msgstr "Neriješeno"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Nisu zabilježene greške"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sistem radi ispravno."
+
+msgid "Gestion des utilisateurs"
+msgstr "Upravljanje korisnicima"
+
+msgid "comptes"
+msgstr "račune"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telefon"
+
+msgid "Rôle"
+msgstr "Uloga"
+
+msgid "Inscrit le"
+msgstr "Registriran na"
+
+msgid "Actions"
+msgstr "Akcije"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Izbrisati ovog korisnika i sve njegove uređaje?"
+
+msgid "Vous"
+msgstr "TI"
+
+msgid "Connexions"
+msgstr "Veze"
+
+msgid "Vol"
+msgstr "Let"
+
+msgid "Perte"
+msgstr "Gubitak"
+
+msgid "Anomalie"
+msgstr "Anomalija"
+
+msgid "Alertes"
+msgstr "Alerts"
+
+msgid "Gestion des alertes"
+msgstr "Upravljanje upozorenjima"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Prijavite krađu ili gubitak i pratite istoriju"
+
+msgid "Signaler un vol / perte"
+msgstr "Prijavite krađu/gubitak"
+
+msgid "En cours"
+msgstr "U toku"
+
+msgid "Résolues"
+msgstr "Rešeno"
+
+msgid "Historique des alertes"
+msgstr "Istorija upozorenja"
+
+msgid "Appareil"
+msgstr "Uređaj"
+
+msgid "Priorité"
+msgstr "Prioritet"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Označiti ovo upozorenje kao riješeno?"
+
+msgid "Résoudre"
+msgstr "Riješi"
+
+msgid "Aucune alerte"
+msgstr "Nema upozorenja"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Dobre vijesti! Nisu prijavljena nikakva upozorenja."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Prijavite krađu ili gubitak"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Prijavom krađe vaš uređaj će se automatski zaključati i poslat će se "
+"obavještenja."
+
+msgid "Appareil concerné"
+msgstr "Pogođeni uređaj"
+
+msgid "Sélectionner un appareil"
+msgstr "Odaberite uređaj"
+
+msgid "Type d'alerte"
+msgstr "Vrsta upozorenja"
+
+msgid "Décrivez les circonstances..."
+msgstr "Opišite okolnosti..."
+
+msgid "Annuler"
+msgstr "Otkaži"
+
+msgid "Signaler"
+msgstr "Izvještaj"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Inteligentni sistem protiv krađe — Sigurnosna platforma za pametne "
+"telefone"
+
+msgid "Système Anti-Vol"
+msgstr "Sistem protiv krađe"
+
+msgid "PRINCIPAL"
+msgstr "MAIN"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "SIGURNOST"
+
+msgid "Géolocalisation"
+msgstr "Geolokacija"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRACIJA"
+
+msgid "Déconnexion"
+msgstr "Prekini vezu"
+
+msgid "Changer de langue"
+msgstr "Promijeni jezik"
+
+msgid "Rechercher une langue..."
+msgstr "Potražite jezik..."
+
+msgid "Profil"
+msgstr "Profil"
+
+msgid "Changer de thème"
+msgstr "Promijeni temu"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Pregled sigurnosti vašeg uređaja"
+
+msgid "Ajouter un appareil"
+msgstr "Dodajte uređaj"
+
+msgid "Appareils volés"
+msgstr "Ukradeni uređaji"
+
+msgid "Verrouillés à distance"
+msgstr "Daljinski zakljucan"
+
+msgid "Alertes récentes"
+msgstr "Nedavna upozorenja"
+
+msgid "Voir tout"
+msgstr "Vidi sve"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Nema upozorenja. Vaši uređaji su sigurni!"
+
+msgid "Mes appareils"
+msgstr "Moji uređaji"
+
+msgid "Aucun appareil enregistré"
+msgstr "Nema registrovanih uređaja"
+
+msgid "Ajouter"
+msgstr "Dodaj"
+
+msgid "en attente"
+msgstr "na čekanju"
+
+msgid "Gestion des appareils"
+msgstr "Upravljanje uređajima"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Registrirajte i upravljajte svojim pametnim telefonima"
+
+msgid "Opérateur"
+msgstr "Operater"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Zaključati ovaj uređaj daljinski?"
+
+msgid "Verrouiller"
+msgstr "Zaključaj"
+
+msgid "Déverrouiller"
+msgstr "Otključaj"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Izbrisati ovaj uređaj?"
+
+msgid "Supprimer"
+msgstr "IZBRIŠI"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Dodajte svoj prvi pametni telefon da ga zaštitite."
+
+msgid "Nouvel appareil"
+msgstr "Novi uređaj"
+
+msgid "Marque"
+msgstr "Brand"
+
+msgid "Sélectionner"
+msgstr "Odaberite"
+
+msgid "Autre"
+msgstr "Ostalo"
+
+msgid "Modèle"
+msgstr "Model"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "ukucajte *#06# na svom telefonu"
+
+msgid "Système d'exploitation"
+msgstr "Operativni sistem"
+
+msgid "Numéro de téléphone"
+msgstr "Broj telefona"
+
+msgid "Enregistrer"
+msgstr "Sačuvaj"
+
+msgid "Connexion"
+msgstr "Veza"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sigurnosni sistem za pametne telefone"
+
+msgid "Adresse email"
+msgstr "E-mail adresa"
+
+msgid "Mot de passe"
+msgstr "Lozinka"
+
+msgid "Se connecter"
+msgstr "Prijavite se"
+
+msgid "Mot de passe oublié ?"
+msgstr "Zaboravili ste lozinku?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Da li već imate račun? U suprotnom, nastavite sa kreiranjem vašeg naloga!"
+
+msgid "Créer un compte"
+msgstr "Kreirajte nalog"
+
+msgid "Sécurité maximale"
+msgstr "Maksimalna sigurnost"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Zaštitite svoje lične podatke daljinskim zaključavanjem"
+
+msgid "Localisation GPS"
+msgstr "GPS lokacija"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Pronađite tačnu lokaciju svog pametnog telefona u realnom vremenu"
+
+msgid "Alertes instantanées"
+msgstr "Trenutna upozorenja"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Primajte SMS, email i push obavještenja u slučaju krađe"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Locirajte svoje uređaje i vizualizirajte rizična područja"
+
+msgid "Aucun appareil"
+msgstr "Nema uređaja"
+
+msgid "Zones à risque"
+msgstr "Rizična područja"
+
+msgid "incidents"
+msgstr "incidenti"
+
+msgid "Aucune zone signalée"
+msgstr "Nema prijavljenih područja"
+
+msgid "Niveau"
+msgstr "Nivo"
+
+msgid "Incidents"
+msgstr "Incidenti"
+
+msgid "Profile utilisateur"
+msgstr "Korisnički profil"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Upravljajte svojim ličnim podacima"
+
+msgid "Membre depuis"
+msgstr "Član od"
+
+msgid "Modifier mes informations"
+msgstr "Uredi moje podatke"
+
+msgid "Prénom"
+msgstr "Ime"
+
+msgid "Nom"
+msgstr "Ime"
+
+msgid "Changer le mot de passe"
+msgstr "Promijeni lozinku"
+
+msgid "Nouveau mot de passe"
+msgstr "Nova lozinka"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "ostavite prazno da se ne biste promijenili"
+
+msgid "Enregistrer les modifications"
+msgstr "Sačuvaj promjene"
+
+msgid "Inscription"
+msgstr "Registracija"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Dobrodošli u Anti-Theft za bolju sigurnost vaših uređaja"
+
+msgid "Confirmer"
+msgstr "Potvrdi"
+
+msgid "Créer mon compte"
+msgstr "Kreiraj moj nalog"
+
+msgid "Déjà un compte ?"
+msgstr "Već imate račun?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Poništi lozinku"
+
+msgid "Réinitialisation"
+msgstr "Reset"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Unesite svoju e-poštu i broj telefona da potvrdite svoj identitet"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Broj korišten prilikom registracije"
+
+msgid "Minimum 6 caractères"
+msgstr "Najmanje 6 znakova"
+
+msgid "Confirmer le mot de passe"
+msgstr "Potvrdite lozinku"
+
+msgid "Retourner à la"
+msgstr "Povratak na"
+
+msgid "page de connexion"
+msgstr "stranica za prijavu"
+
+msgid "Vérification sécurisée"
+msgstr "Sigurna verifikacija"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Vaš identitet je potvrđen korištenjem vaše e-pošte i broja telefona"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Odaberite sigurnu lozinku od najmanje 6 znakova"
+
+msgid "d"
+msgstr "D"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Uređivanje nije uspjelo"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Uređivanje nije uspjelo: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows greška: {error}"
+
+msgid "deprecated"
+msgstr "zastarjelo"
+
+msgid "Options"
+msgstr "Opcije"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Dobio sam neočekivani dodatni argument ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Naredba {name!r} je zastarjela.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Prekinuto!"
+
+msgid "Commands"
+msgstr "Komande"
+
+msgid "Missing command."
+msgstr "Nedostaje komanda."
+
+msgid "Value must be an iterable."
+msgstr "Vrijednost mora biti iterable."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Uzima {nargs} vrijednosti, ali je data 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: {param_type} {name!r} je zastario.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Ime '{name}' definirano dvaput"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Boolean opcija {decl!r} ne može koristiti istu zastavu za true/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Nije moguće odrediti naziv za opciju s deklaracijama {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Nema definiranih opcija, ali je proslijeđeno ime ({name}). Da li ste "
+"umjesto toga mislili navesti argument? Jeste li mislili proći '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var env: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "zadano: {default}"
+
+msgid "required"
+msgstr "potrebno"
+
+msgid "(dynamic)"
+msgstr "(dinamički)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumenti uzimaju tačno jednu deklaraciju parametra, dobijaju {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Želite li nastaviti?"
+
+msgid "Confirm the action without prompting."
+msgstr "Potvrdite radnju bez upita."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, verzija %(verzija)s"
+
+msgid "Show the version and exit."
+msgstr "Pokažite verziju i izađite."
+
+msgid "Show this message and exit."
+msgstr "Prikažite ovu poruku i izađite."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Jeste li mislili {possibility}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Greška: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Pokušajte sa '{command} {option}' za pomoć."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Nevažeća vrijednost: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Nevažeća vrijednost za {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Nedostaje argument"
+
+msgid "Missing option"
+msgstr "Nedostaje opcija"
+
+msgid "Missing parameter"
+msgstr "Nedostaje parametar"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Nedostaje {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Nedostaje parametar: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Nema takve opcije {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Nema takve naredbe {name!r}."
+
+msgid "unknown error"
+msgstr "nepoznata greška"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Nije moguće otvoriti fajl {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Koristite:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Nevažeći početni znak za opciju ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argument {name!r} uzima {nargs} vrijednosti."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Opcija {name!r} ne uzima vrijednost."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Opcija {name!r} zahtijeva argument."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Dovršavanje ljuske nije podržano za Bash verzije starije od 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Nije moguće otkriti Bash verziju, dovršavanje ljuske nije podržano."
+
+msgid "Repeat for confirmation"
+msgstr "Ponovite za potvrdu"
+
+msgid "Error: The two entered values do not match."
+msgstr "Greška: dvije unesene vrijednosti se ne podudaraju."
+
+msgid "Error: invalid input"
+msgstr "Greška: neispravan unos"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Nepoznata boja {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Pritisnite bilo koji taster da nastavite..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Birajte između:\\n\\t{izbori}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} nije {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Izbor ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ne odgovara formatu {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} nije važeći {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} nije u rasponu {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} nije važeći boolean. Prepoznate vrijednosti: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} nije važeći UUID."
+
+msgid "file"
+msgstr "fajl"
+
+msgid "directory"
+msgstr "imenik"
+
+msgid "path"
+msgstr "put"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} ne postoji."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} je fajl."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} je direktorij."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} nije čitljivo."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} nije moguće pisati."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} nije izvršno."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Vrijednosti {len_type} su obavezne, ali je data {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Nepoznati standardni prijenos '{name}'"
+
+msgid "This field is required."
+msgstr "Ovo polje je obavezno."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Fajl nema odobrenu ekstenziju: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Fajl nema odobrenu ekstenziju."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Fajl mora biti između {min_size} i {max_size} bajtova."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Nevažeći naziv polja '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Polje mora biti jednako %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Polje mora imati najmanje %(min)d znakova."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Polje ne može biti duže od %(max)d znaka."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Polje mora imati tačno %(max)d znakova."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Polje mora imati između %(min)d i %(max)d znakova."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Broj mora biti najmanje %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Broj mora biti najviše %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Broj mora biti između %(min)s i %(max)s."
+
+msgid "Invalid input."
+msgstr "Nevažeći unos."
+
+msgid "Invalid email address."
+msgstr "Nevažeća adresa e-pošte."
+
+msgid "Invalid IP address."
+msgstr "Nevažeća IP adresa."
+
+msgid "Invalid Mac address."
+msgstr "Nevažeća Mac adresa."
+
+msgid "Invalid URL."
+msgstr "Nevažeći URL."
+
+msgid "Invalid UUID."
+msgstr "Nevažeći UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Nevažeća vrijednost, mora biti jedna od: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Nevažeća vrijednost, ne može biti bilo koja od: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Ovo polje se ne može uređivati."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Ovo polje je onemogućeno i ne može imati vrijednost."
+
+msgid "Invalid CSRF Token."
+msgstr "Nevažeći CSRF token."
+
+msgid "CSRF token missing."
+msgstr "Nedostaje CSRF token."
+
+msgid "CSRF failed."
+msgstr "CSRF nije uspio."
+
+msgid "CSRF token expired."
+msgstr "CSRF token je istekao."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Nevažeći izbor: nije moguće prisiliti."
+
+msgid "Choices cannot be None."
+msgstr "Izbori ne mogu biti Ništa."
+
+msgid "Not a valid choice."
+msgstr "Nije valjan izbor."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Nevažeći izbor(i): jedan ili više unosa podataka nije bilo moguće "
+"prisiliti."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' nije valjan izbor za ovo polje."
+
+msgid "Not a valid datetime value."
+msgstr "Nije važeća vrijednost datuma i vremena."
+
+msgid "Not a valid date value."
+msgstr "Nije važeća vrijednost datuma."
+
+msgid "Not a valid time value."
+msgstr "Nije važeća vremenska vrijednost."
+
+msgid "Not a valid week value."
+msgstr "Nije važeća vrijednost sedmice."
+
+msgid "Not a valid integer value."
+msgstr "Nije važeća cjelobrojna vrijednost."
+
+msgid "Not a valid decimal value."
+msgstr "Nije važeća decimalna vrijednost."
+
+msgid "Not a valid float value."
+msgstr "Nije važeća float vrijednost."
+

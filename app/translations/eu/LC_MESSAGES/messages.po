@@ -1,0 +1,1046 @@
+# Translations for EU.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: eu\n"
+"Language-Team: eu <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Mesedez, hasi saioa orri honetara sartzeko."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "IMEI hau dagoeneko erregistratuta dago sisteman."
+
+msgid "Accès non autorisé."
+msgstr "Baimenik gabeko sarbidea."
+
+msgid "Appareil déverrouillé."
+msgstr "Gailua desblokeatu da."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alerta sortu da! Jakinarazpenak bidali."
+
+msgid "Alerte résolue."
+msgstr "Alerta konpondu da."
+
+msgid "Pas encore de compte ?"
+msgstr "Oraindik konturik ez?"
+
+msgid "Mon Profil"
+msgstr "Nire profila"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Konexioa arrakastatsua da! Ongi etorri."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Helbide elektronikoa edo pasahitza okerra."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Beharrezko eremu guztiak bete behar dira."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Pasahitzak ez datoz bat."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Pasahitzak 6 karaktere izan behar ditu gutxienez."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Posta elektroniko hau dagoeneko erabiltzen ari da."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Kontua behar bezala sortu da! Hasi saioa."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Ez da konturik aurkitu mezu elektroniko honekin."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Telefono-zenbakia ez dator bat kontu-zenbakiarekin."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Pasahitz berria derrigorrezkoa da."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Pasahitza ongi berrezarri! Hasi saioa."
+
+msgid "Vous avez été déconnecté."
+msgstr "Deskonektatu zaituzte."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Marka, modeloa eta IMEI behar dira."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "IMEI hau duen gailu bat badago jada."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Gailua ondo erregistratu da!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Ez duzu ekintza hau egiteko baimenik."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Gailua urrunetik blokeatu da."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Gailua behar bezala desblokeatu da."
+
+msgid "Appareil supprimé."
+msgstr "Gailua ezabatu da."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Mesedez, hautatu gailu bat eta alerta mota."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Gailu hau ez da zurea."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alerta behar bezala jakinarazi da. Gailua babestuta dago."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Ebatzi gisa markatu da alerta."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Izena, abizena eta helbide elektronikoa beharrezkoak dira."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Helbide elektroniko hau beste kontu batek erabiltzen du dagoeneko."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profila behar bezala eguneratu da!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Sarbidea administratzaileentzat gordeta."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Ebatzitako errorea markatu da."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Ezin duzu zure kontua ezabatu."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Erabiltzailea behar bezala ezabatu da."
+
+msgid "Administration"
+msgstr "Administrazioa"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Lapurretaren Aurkako sistemaren kudeaketa zentralizatua"
+
+msgid "Utilisateurs"
+msgstr "Erabiltzaileak"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktibo gaur"
+
+msgid "Nouveaux ce mois"
+msgstr "Hilabete honetan berria"
+
+msgid "Appareils"
+msgstr "Gailuak"
+
+msgid "Alertes actives"
+msgstr "Alerta aktiboak"
+
+msgid "Analytique"
+msgstr "Analitikoa"
+
+msgid "Journal d'activité"
+msgstr "Jardueren erregistroa"
+
+msgid "Erreurs"
+msgstr "Akatsak"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Konexioak (azken 7 egunak)"
+
+msgid "Alertes par type"
+msgstr "Alertak motaren arabera"
+
+msgid "Appareils par opérateur"
+msgstr "Gailuak operadorearen arabera"
+
+msgid "Résumé du système"
+msgstr "Sistemaren laburpena"
+
+msgid "Utilisateurs total"
+msgstr "Erabiltzaile guztira"
+
+msgid "Appareils enregistrés"
+msgstr "Erregistratutako gailuak"
+
+msgid "Total alertes"
+msgstr "Alertak guztira"
+
+msgid "Alertes en cours"
+msgstr "Uneko alertak"
+
+msgid "Erreurs non résolues"
+msgstr "Ebatzi gabeko akatsak"
+
+msgid "Dernières activités"
+msgstr "Azken jarduerak"
+
+msgid "récentes"
+msgstr "azkena"
+
+msgid "Utilisateur"
+msgstr "Erabiltzailea"
+
+msgid "Action"
+msgstr "Ekintza"
+
+msgid "Détails"
+msgstr "Xehetasunak"
+
+msgid "Adresse IP"
+msgstr "IP helbidea"
+
+msgid "Navigateur"
+msgstr "Arakatzailea"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Aucune activité"
+msgstr "Ez dago jarduerarik"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Erabiltzaileen jarduerak hemen agertuko dira."
+
+msgid "Journal d'erreurs"
+msgstr "Erroreen erregistroa"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Akats guztiak konpondu?"
+
+msgid "Tout résoudre"
+msgstr "Ebatzi dena"
+
+msgid "non résolues"
+msgstr "konpondu gabe"
+
+msgid "Tout est résolu"
+msgstr "Dena konponduta dago"
+
+msgid "Type"
+msgstr "Jatorra"
+
+msgid "Description"
+msgstr "Deskribapena"
+
+msgid "Statut"
+msgstr "Egoera"
+
+msgid "Résolu"
+msgstr "Ebatzita"
+
+msgid "Non résolu"
+msgstr "Ebatzi gabe"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Ez da akatsik erregistratu"
+
+msgid "Le système fonctionne correctement."
+msgstr "Sistema ondo funtzionatzen ari da."
+
+msgid "Gestion des utilisateurs"
+msgstr "Erabiltzaileen kudeaketa"
+
+msgid "comptes"
+msgstr "kontuak"
+
+msgid "Email"
+msgstr "Posta elektronikoa"
+
+msgid "Téléphone"
+msgstr "Telefonoa"
+
+msgid "Rôle"
+msgstr "Rola"
+
+msgid "Inscrit le"
+msgstr "egunean erregistratuta"
+
+msgid "Actions"
+msgstr "Ekintzak"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Erabiltzaile hau eta bere gailu guztiak ezabatu nahi dituzu?"
+
+msgid "Vous"
+msgstr "ZUEK"
+
+msgid "Connexions"
+msgstr "Konexioak"
+
+msgid "Vol"
+msgstr "Hegaldia"
+
+msgid "Perte"
+msgstr "Galera"
+
+msgid "Anomalie"
+msgstr "Anomalia"
+
+msgid "Alertes"
+msgstr "Alertak"
+
+msgid "Gestion des alertes"
+msgstr "Alertak kudeatzea"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Salatu lapurreta edo galera eta jarraipena egin historia"
+
+msgid "Signaler un vol / perte"
+msgstr "Salatu lapurreta/galera"
+
+msgid "En cours"
+msgstr "Abian"
+
+msgid "Résolues"
+msgstr "Ebatzita"
+
+msgid "Historique des alertes"
+msgstr "Alertaren historia"
+
+msgid "Appareil"
+msgstr "Gailua"
+
+msgid "Priorité"
+msgstr "Lehentasuna"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Alerta hau konponduta bezala markatu nahi duzu?"
+
+msgid "Résoudre"
+msgstr "Ebatzi"
+
+msgid "Aucune alerte"
+msgstr "Ez dago alertarik"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Berri onak! Ez da alertarik jaso."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Salatu lapurreta edo galera"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Lapurreta baten berri emanez gero, zure gailua automatikoki blokeatuko da"
+" eta jakinarazpenak bidaliko dira."
+
+msgid "Appareil concerné"
+msgstr "Eragindako gailua"
+
+msgid "Sélectionner un appareil"
+msgstr "Hautatu gailu bat"
+
+msgid "Type d'alerte"
+msgstr "Alerta mota"
+
+msgid "Décrivez les circonstances..."
+msgstr "Deskribatu egoerak..."
+
+msgid "Annuler"
+msgstr "Utzi"
+
+msgid "Signaler"
+msgstr "Txostena"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Lapurreta Aurkako Sistema Adimenduna — Telefonoetarako segurtasun "
+"plataforma"
+
+msgid "Système Anti-Vol"
+msgstr "Lapurreta Aurkako Sistema"
+
+msgid "PRINCIPAL"
+msgstr "NAGUSIA"
+
+msgid "Tableau de bord"
+msgstr "Aginte-panela"
+
+msgid "SÉCURITÉ"
+msgstr "SEGURTASUNA"
+
+msgid "Géolocalisation"
+msgstr "Geolokalizazioa"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRAZIOA"
+
+msgid "Déconnexion"
+msgstr "Deskonektatu"
+
+msgid "Changer de langue"
+msgstr "Hizkuntza aldatu"
+
+msgid "Rechercher une langue..."
+msgstr "Bilatu hizkuntza bat..."
+
+msgid "Profil"
+msgstr "Profila"
+
+msgid "Changer de thème"
+msgstr "Aldatu gaia"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Zure gailuaren segurtasunaren ikuspegi orokorra"
+
+msgid "Ajouter un appareil"
+msgstr "Gehitu gailu bat"
+
+msgid "Appareils volés"
+msgstr "Lapurtutako gailuak"
+
+msgid "Verrouillés à distance"
+msgstr "Urrunetik blokeatuta"
+
+msgid "Alertes récentes"
+msgstr "Azken alertak"
+
+msgid "Voir tout"
+msgstr "Ikusi guztiak"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Ez dago alertarik. Zure gailuak seguru daude!"
+
+msgid "Mes appareils"
+msgstr "Nire gailuak"
+
+msgid "Aucun appareil enregistré"
+msgstr "Ez dago gailurik erregistratuta"
+
+msgid "Ajouter"
+msgstr "Gehitu"
+
+msgid "en attente"
+msgstr "zain"
+
+msgid "Gestion des appareils"
+msgstr "Gailuen kudeaketa"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Erregistratu eta kudeatu zure telefonoak"
+
+msgid "Opérateur"
+msgstr "Eragilea"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Gailu hau urrunetik blokeatu nahi duzu?"
+
+msgid "Verrouiller"
+msgstr "Blokea"
+
+msgid "Déverrouiller"
+msgstr "Desblokeatu"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Gailu hau ezabatu nahi duzu?"
+
+msgid "Supprimer"
+msgstr "EZABATU"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Gehitu zure lehen telefonoa babesten hasteko."
+
+msgid "Nouvel appareil"
+msgstr "Gailu berria"
+
+msgid "Marque"
+msgstr "Marka"
+
+msgid "Sélectionner"
+msgstr "Hautatu"
+
+msgid "Autre"
+msgstr "Bestela"
+
+msgid "Modèle"
+msgstr "Eredua"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "idatzi *#06# zure telefonoan"
+
+msgid "Système d'exploitation"
+msgstr "Sistema eragilea"
+
+msgid "Numéro de téléphone"
+msgstr "Telefono zenbakia"
+
+msgid "Enregistrer"
+msgstr "Gorde"
+
+msgid "Connexion"
+msgstr "Konexioa"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Smartphone segurtasun sistema"
+
+msgid "Adresse email"
+msgstr "Helbide elektronikoa"
+
+msgid "Mot de passe"
+msgstr "Pasahitza"
+
+msgid "Se connecter"
+msgstr "Hasi saioa"
+
+msgid "Mot de passe oublié ?"
+msgstr "Pasahitza ahaztu duzu?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Badaukazu dagoeneko konturik? Bestela, jarraitu zure kontua sortzen!"
+
+msgid "Créer un compte"
+msgstr "Sortu kontu bat"
+
+msgid "Sécurité maximale"
+msgstr "Segurtasun handiena"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Babestu zure datu pertsonalak urruneko blokeoarekin"
+
+msgid "Localisation GPS"
+msgstr "GPS kokapena"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Aurkitu zure telefonoaren kokapen zehatza denbora errealean"
+
+msgid "Alertes instantanées"
+msgstr "Berehalako alertak"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr ""
+"Jaso SMSak, posta elektronikoa eta push jakinarazpenak lapurreta gertatuz"
+" gero"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Kokatu zure gailuak eta ikusi arrisku-eremuak"
+
+msgid "Aucun appareil"
+msgstr "Ez dago gailurik"
+
+msgid "Zones à risque"
+msgstr "Arrisku-eremuak"
+
+msgid "incidents"
+msgstr "gorabeherak"
+
+msgid "Aucune zone signalée"
+msgstr "Ez dago eremurik jakinarazi"
+
+msgid "Niveau"
+msgstr "Maila"
+
+msgid "Incidents"
+msgstr "Gorabeherak"
+
+msgid "Profile utilisateur"
+msgstr "Erabiltzailearen profila"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Kudeatu zure informazio pertsonala"
+
+msgid "Membre depuis"
+msgstr "Geroztik kidea"
+
+msgid "Modifier mes informations"
+msgstr "Editatu nire informazioa"
+
+msgid "Prénom"
+msgstr "Izena"
+
+msgid "Nom"
+msgstr "Izena"
+
+msgid "Changer le mot de passe"
+msgstr "Aldatu pasahitza"
+
+msgid "Nouveau mot de passe"
+msgstr "Pasahitz berria"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "utzi hutsik ez aldatzeko"
+
+msgid "Enregistrer les modifications"
+msgstr "Gorde aldaketak"
+
+msgid "Inscription"
+msgstr "Izen ematea"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Ongi etorri Anti-Theft-era zure gailuen segurtasun hobea lortzeko"
+
+msgid "Confirmer"
+msgstr "Berretsi"
+
+msgid "Créer mon compte"
+msgstr "Sortu nire kontua"
+
+msgid "Déjà un compte ?"
+msgstr "Kontu bat al duzu dagoeneko?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Berrezarri pasahitza"
+
+msgid "Réinitialisation"
+msgstr "Berrezarri"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Sartu zure helbide elektronikoa eta telefono zenbakia zure identitatea "
+"egiaztatzeko"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Erregistroan erabilitako zenbakia"
+
+msgid "Minimum 6 caractères"
+msgstr "Gutxienez 6 karaktere"
+
+msgid "Confirmer le mot de passe"
+msgstr "Berretsi pasahitza"
+
+msgid "Retourner à la"
+msgstr "Itzuli"
+
+msgid "page de connexion"
+msgstr "saioa hasteko orria"
+
+msgid "Vérification sécurisée"
+msgstr "Egiaztapen segurua"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Zure identitatea zure posta elektronikoa eta telefono zenbakia erabiliz "
+"egiaztatzen da"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Aukeratu gutxienez 6 karaktere dituen pasahitz seguru bat"
+
+msgid "d"
+msgstr "D"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: editatzeak huts egin du"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: editatzeak huts egin du: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows errorea: {error}"
+
+msgid "deprecated"
+msgstr "zaharkitua"
+
+msgid "Options"
+msgstr "Aukerak"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Ustekabeko argumentu gehigarria jaso du ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "ZaharkitzeaOharra: {name!r} komandoa zaharkituta dago.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Abortatu!"
+
+msgid "Commands"
+msgstr "Aginduak"
+
+msgid "Missing command."
+msgstr "Agindua falta da."
+
+msgid "Value must be an iterable."
+msgstr "Balioak errepikakorra izan behar du."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} balioak hartzen ditu baina 1 eman zen."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "ZaharkitzeaOharra: {param_type} {name!r} zaharkituta dago.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "'{izena}' izena bi aldiz definitu da"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"{decl!r} aukera boolearrak ezin du bandera bera erabili egia/gezurra "
+"egiteko."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Ezin izan da zehaztu aukeraren izena {decls!r} adierazpenekin"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Ez dago aukerarik definitu baina izen bat eman da ({izena}). Horren ordez"
+" argudio bat deklaratzea nahi al zenuen? '--{izena}' pasatzea esan nahi "
+"al zenuen?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "ingurune aldagaia: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "lehenetsia: {lehenetsia}"
+
+msgid "required"
+msgstr "beharrezkoak"
+
+msgid "(dynamic)"
+msgstr "(dinamikoa)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumentuek parametro deklarazio bat hartzen dute, {length}: {decls} "
+"lortu."
+
+msgid "Do you want to continue?"
+msgstr "Jarraitu nahi duzu?"
+
+msgid "Confirm the action without prompting."
+msgstr "Berretsi ekintza eskatu gabe."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, %(version)s bertsioa"
+
+msgid "Show the version and exit."
+msgstr "Erakutsi bertsioa eta irten."
+
+msgid "Show this message and exit."
+msgstr "Erakutsi mezu hau eta irten."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "{possibility} esan nahi al zenuen?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Errorea: {mezua}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Saiatu '{command} {option}' laguntza lortzeko."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Balio baliogabea: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint} balio ez du balio: {message}"
+
+msgid "Missing argument"
+msgstr "Argudioa falta da"
+
+msgid "Missing option"
+msgstr "Aukera falta da"
+
+msgid "Missing parameter"
+msgstr "Parametroa falta da"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} falta da"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Falta den parametroa: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Ez dago horrelako aukerarik {izena!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Ez dago halako komandorik {izena!r}."
+
+msgid "unknown error"
+msgstr "errore ezezaguna"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Ezin izan da {filename!r} fitxategia ireki: {message}"
+
+msgid "Usage:"
+msgstr "Erabili:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Aukerarako hasierako karaktere baliogabea ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "{name!r} argumentuak {nargs} balioak hartzen ditu."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "{name!r} aukerak ez du baliorik hartzen."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "{name!r} aukerak argumentu bat behar du."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Shell osatzea ez da onartzen 4.4 baino zaharragoak diren Bash "
+"bertsioetarako."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Ezin izan da Bash bertsioa hauteman, shell osatzea ez da onartzen."
+
+msgid "Repeat for confirmation"
+msgstr "Errepikatu berresteko"
+
+msgid "Error: The two entered values do not match."
+msgstr "Errorea: sartutako bi balioak ez datoz bat."
+
+msgid "Error: invalid input"
+msgstr "Errorea: sarrera baliogabea"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Kolore ezezaguna {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Sakatu edozein tekla jarraitzeko..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Aukeratu hauetatik:\\n\\t{aukerak}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} ez da {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Aukera ({aukerak})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ez dator bat {format} formatuarekin."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ez da baliozko {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{balioa} ez dago {barrutia} barrutian."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ez da baliozko boolearra. Aitortutako balioak: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ez da baliozko UUID bat."
+
+msgid "file"
+msgstr "fitxategia"
+
+msgid "directory"
+msgstr "direktorioa"
+
+msgid "path"
+msgstr "bidea"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} ez da existitzen."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} fitxategi bat da."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} direktorio bat da."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} ezin da irakurtzen."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} ezin da idatzi."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} ez da exekutagarria."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} balioak behar dira, baina {len_value} eman da."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "\"{name}\" korronte estandar ezezaguna"
+
+msgid "This field is required."
+msgstr "Eremu hau beharrezkoa da."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Fitxategiak ez du onartutako luzapenik: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Fitxategiak ez du onartutako luzapenik."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Fitxategiak {min_size} eta {max_size} byte artekoa izan behar du."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "'%s' eremu-izen baliogabea."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Eremuak %(other_name)s-ren berdina izan behar du."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Eremuak %(min)d karaktere izan behar ditu gutxienez."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Eremuak ezin du izan %(max)d karaktere baino luzeagoa."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Eremuak %(max)d karaktere izan behar ditu zehazki."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Eremuak %(min)d eta %(max)d karaktere arteko luzera izan behar du."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Zenbakiak %(min)s izan behar du gutxienez."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Gehienez %(max)s izan behar du zenbakiak."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Zenbakiak %(min)s eta %(max)s artean egon behar du."
+
+msgid "Invalid input."
+msgstr "Sarrera baliogabea."
+
+msgid "Invalid email address."
+msgstr "Helbide elektroniko baliogabea."
+
+msgid "Invalid IP address."
+msgstr "IP helbide baliogabea."
+
+msgid "Invalid Mac address."
+msgstr "Mac helbide baliogabea."
+
+msgid "Invalid URL."
+msgstr "URL baliogabea."
+
+msgid "Invalid UUID."
+msgstr "UUID baliogabea."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Balio baliogabea, hauetako bat izan behar du: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Balio baliogabea, ezin da izan hauetako bat: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Eremu hau ezin da editatu."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Eremu hau desgaituta dago eta ezin du baliorik izan."
+
+msgid "Invalid CSRF Token."
+msgstr "CSRF Token baliogabea."
+
+msgid "CSRF token missing."
+msgstr "CSRF tokena falta da."
+
+msgid "CSRF failed."
+msgstr "CSRF huts egin du."
+
+msgid "CSRF token expired."
+msgstr "CSRF tokena iraungi da."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Aukera baliogabea: ezin izan da behartu."
+
+msgid "Choices cannot be None."
+msgstr "Aukerak ezin dira bat ere izan."
+
+msgid "Not a valid choice."
+msgstr "Ez da baliozko aukera."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Aukera baliogabeak: ezin izan dira datu sarrera bat edo gehiago behartu."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' ez da aukera egokia eremu honetarako."
+
+msgid "Not a valid datetime value."
+msgstr "Ez da baliozko data-ordu-balioa."
+
+msgid "Not a valid date value."
+msgstr "Ez da baliozko data-balioa."
+
+msgid "Not a valid time value."
+msgstr "Ez da baliozko denbora-balioa."
+
+msgid "Not a valid week value."
+msgstr "Ez da balio asteko balio bat."
+
+msgid "Not a valid integer value."
+msgstr "Ez da balio osoko balio bat."
+
+msgid "Not a valid decimal value."
+msgstr "Ez da balio hamartar baliorik."
+
+msgid "Not a valid float value."
+msgstr "Ez da baliozko balio flotatzailea."
+

@@ -1,0 +1,294 @@
+{% extends "base.html" %}
+{% block title %} Anti-vol{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <div>
+        <h1 class="page-title">{{ _('Tableau de bord') }}</h1>
+        <p class="page-subtitle">{{ _("Vue d'ensemble de la sécurité de vos appareils") }}</p>
+    </div>
+    <div class="page-actions">
+        <a href="{{ url_for('dashboard.appareils') }}" class="btn btn-primary">
+            <i data-lucide="plus"></i>
+            {{ _('Ajouter un appareil') }}
+        </a>
+    </div>
+</div>
+
+<!-- ═══ CARTES STATISTIQUES ═══ -->
+<div class="stats-grid">
+    <div class="stat-card stat-card-blue">
+        <div class="stat-icon">
+            <i data-lucide="smartphone"></i>
+        </div>
+        <div class="stat-info">
+            <span class="stat-value">{{ total_appareils }}</span>
+            <span class="stat-label">{{ _('Appareils enregistrés') }}</span>
+        </div>
+    </div>
+    
+    <div class="stat-card stat-card-orange">
+        <div class="stat-icon">
+            <i data-lucide="bell-ring"></i>
+        </div>
+        <div class="stat-info">
+            <span class="stat-value">{{ total_alertes }}</span>
+            <span class="stat-label">{{ _('Alertes en cours') }}</span>
+        </div>
+    </div>
+    
+    <div class="stat-card stat-card-red">
+        <div class="stat-icon">
+            <i data-lucide="alert-triangle"></i>
+        </div>
+        <div class="stat-info">
+            <span class="stat-value">{{ total_voles }}</span>
+            <span class="stat-label">{{ _('Appareils volés') }}</span>
+        </div>
+    </div>
+    
+    <div class="stat-card stat-card-green">
+        <div class="stat-icon">
+            <i data-lucide="lock"></i>
+        </div>
+        <div class="stat-info">
+            <span class="stat-value">{{ total_verrouilles }}</span>
+            <span class="stat-label">{{ _('Verrouillés à distance') }}</span>
+        </div>
+    </div>
+    
+    {% if total_utilisateurs is not none %}
+    <div class="stat-card stat-card-purple">
+        <div class="stat-icon">
+            <i data-lucide="users"></i>
+        </div>
+        <div class="stat-info">
+            <span class="stat-value">{{ total_utilisateurs }}</span>
+            <span class="stat-label">{{ _('Utilisateurs') }}</span>
+        </div>
+    </div>
+    {% endif %}
+</div>
+
+<!-- ═══ CONTENU PRINCIPAL ═══ -->
+<div class="dashboard-grid">
+    <!-- Alertes récentes -->
+    <div class="card card-large">
+        <div class="card-header">
+            <h2><i data-lucide="bell"></i> {{ _('Alertes récentes') }}</h2>
+            <a href="{{ url_for('dashboard.alertes') }}" class="btn btn-ghost btn-sm">{{ _('Voir tout') }}</a>
+        </div>
+        <div class="card-body">
+            {% if alertes_recentes %}
+            <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>{{ _('Type') }}</th>
+                                <th>{{ _('Appareil') }}</th>
+                                <th>{{ _('Statut') }}</th>
+                                <th>{{ _('Date') }}</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for alerte in alertes_recentes[:5] %}
+                            <tr>
+                                <td data-label="{{ _('Type') }}">
+                                    <span class="badge badge-{{ 'danger' if alerte.type_alerte == 'vol' else 'warning' if alerte.type_alerte == 'perte' else 'info' }}">
+                                        {{ alerte.type_alerte | upper }}
+                                    </span>
+                                </td>
+                                <td data-label="{{ _('Appareil') }}">{{ alerte.appareil.marque }} {{ alerte.appareil.modele }}</td>
+                                <td data-label="{{ _('Statut') }}">
+                                    <span class="status-dot status-{{ 'active' if alerte.statut == 'en_cours' else 'resolved' }}"></span>
+                                    {{ alerte.statut | replace('_', ' ') | capitalize }}
+                                </td>
+                                <td class="text-muted" data-label="{{ _('Date') }}">{{ alerte.date_creation.strftime('%d/%m/%Y %H:%M') }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+            </div>
+            {% else %}
+            <div class="empty-state">
+                <i data-lucide="shield-check"></i>
+                <p>{{ _('Aucune alerte. Vos appareils sont en sécurité !') }}</p>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+    
+    <!-- Mes appareils -->
+    <div class="card">
+        <div class="card-header">
+            <h2><i data-lucide="smartphone"></i> {{ _('Mes appareils') }}</h2>
+        </div>
+        <div class="card-body">
+            {% if appareils %}
+            <div class="device-list">
+                {% for appareil in appareils[:5] %}
+                <div class="device-item">
+                    <div class="device-icon device-{{ appareil.statut }}">
+                        <i data-lucide="smartphone"></i>
+                    </div>
+                    <div class="device-info">
+                        <span class="device-name">{{ appareil.marque }} {{ appareil.modele }}</span>
+                        <span class="device-imei">IMEI: {{ appareil.imei }}</span>
+                    </div>
+                    <span class="badge badge-{{ 'success' if appareil.statut == 'actif' else 'danger' if appareil.statut == 'volé' else 'warning' if appareil.statut == 'verrouillé' else 'info' }}">
+                        {{ appareil.statut | capitalize }}
+                    </span>
+                </div>
+                {% endfor %}
+            </div>
+            {% else %}
+            <div class="empty-state">
+                <i data-lucide="smartphone"></i>
+                <p>{{ _('Aucun appareil enregistré') }}</p>
+                <a href="{{ url_for('dashboard.appareils') }}" class="btn btn-primary btn-sm">
+                    <i data-lucide="plus"></i> {{ _('Ajouter') }}
+                </a>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+
+    {% if erreurs_recentes %}
+    <!-- ═══ ERREURS RÉCENTES (ADMIN) ═══ -->
+    <div class="card" style="grid-column: 1 / -1;">
+        <div class="card-header">
+            <h2><i data-lucide="alert-circle"></i> {{ _('Erreurs non résolues') }}</h2>
+            <div class="page-actions">
+                <span class="badge badge-danger">{{ erreurs_non_resolues }} {{ _('en attente') }}</span>
+                <form method="POST" action="{{ url_for('dashboard.resoudre_toutes_erreurs') }}" style="display:inline;">
+                    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                    <button type="submit" class="btn btn-success btn-sm" onclick="return confirm('{{ _("Résoudre toutes les erreurs ?") }}')">
+                        <i data-lucide="check-circle"></i> {{ _('Tout résoudre') }}
+                    </button>
+                </form>
+                <a href="{{ url_for('dashboard.admin') }}#panel-erreurs" class="btn btn-ghost btn-sm">{{ _('Voir tout') }}</a>
+            </div>
+        </div>
+        <div class="card-body no-padding">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>{{ _('Type') }}</th>
+                            <th>URL</th>
+                            <th>{{ _('Description') }}</th>
+                            <th>{{ _('Date') }}</th>
+                            <th>{{ _('Action') }}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for err in erreurs_recentes %}
+                        <tr class="row-highlight">
+                            <td data-label="{{ _('Type') }}">
+                                <span class="badge badge-{{ 'danger' if err.type_erreur in ['500', 'CSRF'] else 'warning' if err.type_erreur == '404' else 'info' }}">
+                                    {{ err.type_erreur }}
+                                </span>
+                            </td>
+                            <td class="text-truncate" data-label="URL"><code>{{ err.url or '—' }}</code></td>
+                            <td class="text-truncate" data-label="{{ _('Description') }}">{{ err.description or '—' }}</td>
+                            <td class="text-muted text-nowrap" data-label="{{ _('Date') }}">{{ err.date.strftime('%d/%m/%Y %H:%M') }}</td>
+                            <td data-label="{{ _('Action') }}">
+                                <div style="display:flex;gap:4px;">
+                                    <button type="button" class="btn btn-info btn-xs" title="{{ _('Voir les détails') }}"
+                                            onclick="showErrorDetails({{ err.id }})">
+                                        <i data-lucide="eye"></i>
+                                    </button>
+                                    <form method="POST" action="{{ url_for('dashboard.resoudre_erreur', id=err.id) }}" style="display:inline;">
+                                        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                        <button type="submit" class="btn btn-success btn-xs" title="{{ _('Marquer comme résolu') }}">
+                                            <i data-lucide="check"></i> {{ _('Résoudre') }}
+                                        </button>
+                                    </form>
+                                </div>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+</div>
+
+<!-- ═══ MODAL DÉTAILS ERREUR ═══ -->
+<div class="modal-overlay" id="errorDetailModal">
+    <div class="modal">
+        <div class="modal-header">
+            <h2><i data-lucide="alert-circle"></i> {{ _("Détails de l'erreur") }}</h2>
+            <button class="modal-close" onclick="closeModal('errorDetailModal')">
+                <i data-lucide="x"></i>
+            </button>
+        </div>
+        <div class="modal-body" id="errorDetailBody">
+            <div class="error-detail-grid">
+                <div class="error-detail-field">
+                    <span class="error-detail-label">{{ _('Type') }}</span>
+                    <span class="error-detail-value" id="detail-type"></span>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">URL</span>
+                    <code class="error-detail-value" id="detail-url"></code>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">{{ _('Utilisateur') }}</span>
+                    <span class="error-detail-value" id="detail-user"></span>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">{{ _('Description') }}</span>
+                    <p class="error-detail-value error-detail-desc" id="detail-description"></p>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">IP</span>
+                    <code class="error-detail-value" id="detail-ip"></code>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">{{ _('Navigateur') }}</span>
+                    <span class="error-detail-value" id="detail-browser"></span>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">{{ _('Date') }}</span>
+                    <span class="error-detail-value" id="detail-date"></span>
+                </div>
+                <div class="error-detail-field">
+                    <span class="error-detail-label">{{ _('Statut') }}</span>
+                    <span class="error-detail-value" id="detail-status"></span>
+                </div>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-ghost" onclick="closeModal('errorDetailModal')">{{ _('Fermer') }}</button>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    const erreursData = {{ erreurs_data | tojson }};
+
+    function showErrorDetails(id) {
+        const err = erreursData.find(e => e.id === id);
+        if (!err) return;
+
+        document.getElementById('detail-type').textContent = err.type_erreur || '—';
+        document.getElementById('detail-url').textContent = err.url || '—';
+        document.getElementById('detail-user').textContent = err.utilisateur
+            ? (err.utilisateur.prenom + ' ' + err.utilisateur.nom)
+            : 'Anonyme';
+        document.getElementById('detail-description').textContent = err.description || '—';
+        document.getElementById('detail-ip').textContent = err.adresse_ip || '—';
+        document.getElementById('detail-browser').textContent = err.navigateur || '—';
+        document.getElementById('detail-date').textContent = err.date || '—';
+        document.getElementById('detail-status').textContent = err.resolu ? 'Résolu' : 'Non résolu';
+
+        document.getElementById('errorDetailModal').classList.add('active');
+        lucide.createIcons();
+    }
+</script>
+{% endblock %}

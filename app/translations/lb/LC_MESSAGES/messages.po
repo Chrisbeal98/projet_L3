@@ -1,0 +1,1036 @@
+# Translations for LB.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: lb\n"
+"Language-Team: lb <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Weg aloggen op dës Säit Zougang."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Dësen IMEI ass schonn am System registréiert."
+
+msgid "Accès non autorisé."
+msgstr "Onerlaabten Zougang."
+
+msgid "Appareil déverrouillé."
+msgstr "Apparat opgespaart."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alarm erstallt! Notifikatiounen geschéckt."
+
+msgid "Alerte résolue."
+msgstr "Alarm geléist."
+
+msgid "Pas encore de compte ?"
+msgstr "Nach kee Kont?"
+
+msgid "Mon Profil"
+msgstr "Mäi Profil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Verbindung erfollegräich! Wëllkomm."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Falsch E-Mail oder Passwuert."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "All erfuerderlech Felder musse fäerdeg sinn."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Passwierder passen net."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "D'Passwuert muss mindestens 6 Zeechen enthalen."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Dës E-Mail ass scho benotzt."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Kont erfollegräich erstallt! Mellt Iech un."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Kee Konte fonnt mat dëser E-Mail."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "D'Telefonsnummer entsprécht net der Kontosnummer."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Dat neit Passwuert ass obligatoresch."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Passwuert zréckgesat erfollegräich! Mellt Iech un."
+
+msgid "Vous avez été déconnecté."
+msgstr "Dir sidd ofgeschalt ginn."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Mark, Modell an IMEI sinn néideg."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "En Apparat mat dësem IMEI existéiert schonn."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Apparat erfollegräich registréiert!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Dir sidd net autoriséiert dës Aktioun ze maachen."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Gerät erfollegräich gespaart."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Apparat erfollegräich opgehuewen."
+
+msgid "Appareil supprimé."
+msgstr "Apparat geläscht."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Wielt w.e.g. en Apparat an en Alarmtyp."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Dësen Apparat gehéiert net zu Iech."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alarm gemellt erfollegräich. Den Apparat ass geséchert."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alarm markéiert als geléist."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Virnumm, Familljennumm an E-Mail sinn néideg."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Dës E-Mail gëtt scho vun engem anere Kont benotzt."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil erfollegräich aktualiséiert!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Zougang reservéiert fir Administrateuren."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Feeler markéiert als geléist."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Dir kënnt net Ären eegene Kont läschen."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Benotzer erfollegräich geläscht."
+
+msgid "Administration"
+msgstr "Administratioun"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Zentraliséiert Gestioun vum Anti-Déifstall System"
+
+msgid "Utilisateurs"
+msgstr "Benotzer"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktiv haut"
+
+msgid "Nouveaux ce mois"
+msgstr "Nei dëse Mount"
+
+msgid "Appareils"
+msgstr "Apparater"
+
+msgid "Alertes actives"
+msgstr "Aktiv Alarmer"
+
+msgid "Analytique"
+msgstr "Analytesch"
+
+msgid "Journal d'activité"
+msgstr "Aktivitéit Logbuch"
+
+msgid "Erreurs"
+msgstr "Feeler"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Verbindungen (lescht 7 Deeg)"
+
+msgid "Alertes par type"
+msgstr "Alarmer no Typ"
+
+msgid "Appareils par opérateur"
+msgstr "Apparater vum Bedreiwer"
+
+msgid "Résumé du système"
+msgstr "System Zesummefaassung"
+
+msgid "Utilisateurs total"
+msgstr "Total Benotzer"
+
+msgid "Appareils enregistrés"
+msgstr "Registréiert Apparater"
+
+msgid "Total alertes"
+msgstr "Total Alarmer"
+
+msgid "Alertes en cours"
+msgstr "Aktuell Alarmer"
+
+msgid "Erreurs non résolues"
+msgstr "Ongeléist Feeler"
+
+msgid "Dernières activités"
+msgstr "Neisten Aktivitéiten"
+
+msgid "récentes"
+msgstr "rezent"
+
+msgid "Utilisateur"
+msgstr "Benotzer"
+
+msgid "Action"
+msgstr "Aktioun"
+
+msgid "Détails"
+msgstr "Detailer"
+
+msgid "Adresse IP"
+msgstr "IP Adress"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Aucune activité"
+msgstr "Keng Aktivitéit"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Benotzeraktivitéiten erschéngen hei."
+
+msgid "Journal d'erreurs"
+msgstr "Feeler Log"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Fix all Feeler?"
+
+msgid "Tout résoudre"
+msgstr "Alles léisen"
+
+msgid "non résolues"
+msgstr "ongeléist"
+
+msgid "Tout est résolu"
+msgstr "Alles ass geléist"
+
+msgid "Type"
+msgstr "Aart"
+
+msgid "Description"
+msgstr "Beschreiwung"
+
+msgid "Statut"
+msgstr "Status"
+
+msgid "Résolu"
+msgstr "Geléist"
+
+msgid "Non résolu"
+msgstr "Ongeléist"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Keng Feeler opgeholl"
+
+msgid "Le système fonctionne correctement."
+msgstr "De System funktionnéiert richteg."
+
+msgid "Gestion des utilisateurs"
+msgstr "Benotzer Gestioun"
+
+msgid "comptes"
+msgstr "Konten"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Téléphone"
+msgstr "Telefon"
+
+msgid "Rôle"
+msgstr "Roll"
+
+msgid "Inscrit le"
+msgstr "Registréiert op"
+
+msgid "Actions"
+msgstr "Aktiounen"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Dëse Benotzer an all hiren Apparater läschen?"
+
+msgid "Vous"
+msgstr "DIR"
+
+msgid "Connexions"
+msgstr "Verbindungen"
+
+msgid "Vol"
+msgstr "Fluch"
+
+msgid "Perte"
+msgstr "Verloscht"
+
+msgid "Anomalie"
+msgstr "Anomalie"
+
+msgid "Alertes"
+msgstr "Alarmer"
+
+msgid "Gestion des alertes"
+msgstr "Alarmmanagement"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Rapport Vol oder Verloscht a Streck Geschicht"
+
+msgid "Signaler un vol / perte"
+msgstr "Rapport Vol / Verloscht"
+
+msgid "En cours"
+msgstr "A Beaarbechtung"
+
+msgid "Résolues"
+msgstr "Geléist"
+
+msgid "Historique des alertes"
+msgstr "Alarm Geschicht"
+
+msgid "Appareil"
+msgstr "Apparat"
+
+msgid "Priorité"
+msgstr "Prioritéit"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Markéiert dës Alarm als geléist?"
+
+msgid "Résoudre"
+msgstr "Opléisen"
+
+msgid "Aucune alerte"
+msgstr "Keng Alarm"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Gutt Noriicht! Keng Alerte goufe gemellt."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Rapport Vol oder Verloscht"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Andeems Dir en Déif mellt, gëtt Ären Apparat automatesch gespaart an "
+"Notifikatioune ginn geschéckt."
+
+msgid "Appareil concerné"
+msgstr "Betraff Apparat"
+
+msgid "Sélectionner un appareil"
+msgstr "Wielt en Apparat"
+
+msgid "Type d'alerte"
+msgstr "Alarmtyp"
+
+msgid "Décrivez les circonstances..."
+msgstr "Beschreift d'Ëmstänn ..."
+
+msgid "Annuler"
+msgstr "Ofbriechen"
+
+msgid "Signaler"
+msgstr "Rapport"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Intelligent Anti-Theft System - Sécherheetsplattform fir Smartphones"
+
+msgid "Système Anti-Vol"
+msgstr "Anti-Déifstall System"
+
+msgid "PRINCIPAL"
+msgstr "MAIN"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "SECURITÉIT"
+
+msgid "Géolocalisation"
+msgstr "Geolocation"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRATIOUN"
+
+msgid "Déconnexion"
+msgstr "Trennen"
+
+msgid "Changer de langue"
+msgstr "Sprooch änneren"
+
+msgid "Rechercher une langue..."
+msgstr "Sich no enger Sprooch ..."
+
+msgid "Profil"
+msgstr "Profil"
+
+msgid "Changer de thème"
+msgstr "Änneren Thema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Iwwersiicht vun Ärem Apparat Sécherheet"
+
+msgid "Ajouter un appareil"
+msgstr "Füügt en Apparat"
+
+msgid "Appareils volés"
+msgstr "Geklauten Apparater"
+
+msgid "Verrouillés à distance"
+msgstr "Ofstand gespaart"
+
+msgid "Alertes récentes"
+msgstr "Rezent Alarmer"
+
+msgid "Voir tout"
+msgstr "Gesinn all"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Keng Alarm. Är Apparater si sécher!"
+
+msgid "Mes appareils"
+msgstr "Meng Apparater"
+
+msgid "Aucun appareil enregistré"
+msgstr "Keng Apparater registréiert"
+
+msgid "Ajouter"
+msgstr "Addéieren"
+
+msgid "en attente"
+msgstr "ophalen"
+
+msgid "Gestion des appareils"
+msgstr "Apparat Gestioun"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Aschreiwen a verwalten Är Smartphones"
+
+msgid "Opérateur"
+msgstr "Bedreiwer"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Spär dësen Apparat op afstand?"
+
+msgid "Verrouiller"
+msgstr "Spär"
+
+msgid "Déverrouiller"
+msgstr "Spär op"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Dësen Apparat läschen?"
+
+msgid "Supprimer"
+msgstr "LËSCHT"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Füügt Ären éischte Smartphone un fir se ze schützen."
+
+msgid "Nouvel appareil"
+msgstr "Neien Apparat"
+
+msgid "Marque"
+msgstr "Mark"
+
+msgid "Sélectionner"
+msgstr "Wielt"
+
+msgid "Autre"
+msgstr "Aner"
+
+msgid "Modèle"
+msgstr "Modell"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "Typ * # 06 # op Ärem Handy"
+
+msgid "Système d'exploitation"
+msgstr "Betribssystem"
+
+msgid "Numéro de téléphone"
+msgstr "Telefonsnummer"
+
+msgid "Enregistrer"
+msgstr "Spueren"
+
+msgid "Connexion"
+msgstr "Verbindung"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Smartphone Sécherheet System"
+
+msgid "Adresse email"
+msgstr "E-Mail Adress"
+
+msgid "Mot de passe"
+msgstr "Passwuert"
+
+msgid "Se connecter"
+msgstr "Mellt Iech un"
+
+msgid "Mot de passe oublié ?"
+msgstr "Passwuert vergiess?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Hutt Dir schonn e Kont? Soss, fuert weider fir Äre Kont ze kreéieren!"
+
+msgid "Créer un compte"
+msgstr "Schafen eng Kont"
+
+msgid "Sécurité maximale"
+msgstr "Maximal Sécherheet"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Schützt Är perséinlech Donnéeën mat Fernsperren"
+
+msgid "Localisation GPS"
+msgstr "GPS Location"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Fannt déi exakt Plaz vun Ärem Smartphone an Echtzäit"
+
+msgid "Alertes instantanées"
+msgstr "Direkt Alarmer"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Kritt SMS, E-Mail a Push Notifikatiounen am Fall vum Vol"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Situéiert Ären Apparater a visualiséiert Risikoberäicher"
+
+msgid "Aucun appareil"
+msgstr "Keen Apparat"
+
+msgid "Zones à risque"
+msgstr "Risiko Beräicher"
+
+msgid "incidents"
+msgstr "Tëschefäll"
+
+msgid "Aucune zone signalée"
+msgstr "Keng Beräicher gemellt"
+
+msgid "Niveau"
+msgstr "Niveau"
+
+msgid "Incidents"
+msgstr "Tëschefäll"
+
+msgid "Profile utilisateur"
+msgstr "Benotzer Profil"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Verwalten Är perséinlech Informatioun"
+
+msgid "Membre depuis"
+msgstr "Member zënter"
+
+msgid "Modifier mes informations"
+msgstr "Änneren meng Informatioun"
+
+msgid "Prénom"
+msgstr "Virnumm"
+
+msgid "Nom"
+msgstr "Numm"
+
+msgid "Changer le mot de passe"
+msgstr "Passwuert änneren"
+
+msgid "Nouveau mot de passe"
+msgstr "Neit Passwuert"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "loosst eidel fir net ze änneren"
+
+msgid "Enregistrer les modifications"
+msgstr "Ännerungen späicheren"
+
+msgid "Inscription"
+msgstr "Aschreiwung"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Wëllkomm op Anti-Theft fir besser Sécherheet vun Ären Apparater"
+
+msgid "Confirmer"
+msgstr "Confirméieren"
+
+msgid "Créer mon compte"
+msgstr "Schafen mäi Kont"
+
+msgid "Déjà un compte ?"
+msgstr "Hutt Dir schonn e Kont?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Reset Passwuert"
+
+msgid "Réinitialisation"
+msgstr "Zerécksetzen"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Gitt Är E-Mail an Telefonsnummer fir Är Identitéit z'iwwerpréiwen"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "D'Zuel benotzt während Aschreiwung"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimum 6 Zeechen"
+
+msgid "Confirmer le mot de passe"
+msgstr "Confirméieren Passwuert"
+
+msgid "Retourner à la"
+msgstr "Zréck op"
+
+msgid "page de connexion"
+msgstr "Login Säit"
+
+msgid "Vérification sécurisée"
+msgstr "Séchert Verifizéierung"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Är Identitéit gëtt verifizéiert mat Ärer E-Mail an Telefonsnummer"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Wielt e séchert Passwuert vu mindestens 6 Zeechen"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{Editor}: Änneren ass gescheitert"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{Editor}: Änneren gescheitert: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows Feeler: {Error}"
+
+msgid "deprecated"
+msgstr "ofgebaut"
+
+msgid "Options"
+msgstr "Optiounen"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Huet onerwaart extra Argument ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: De Kommando {name!r} gëtt ofgeschaaft.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Ofgebrach!"
+
+msgid "Commands"
+msgstr "Kommandoen"
+
+msgid "Missing command."
+msgstr "Vermësst Kommando."
+
+msgid "Value must be an iterable."
+msgstr "Wäert muss en iterable sinn."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Huelt {nargs} Wäerter awer 1 gouf uginn."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"DeprecationWarning: De {param_type} {name!r} gëtt "
+"ofgeschaaft.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Numm '{name}' zweemol definéiert"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Boolesch Optioun {decl!r} kann net dee selwechte Fändel fir "
+"richteg/falsch benotzen."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Konnt den Numm fir d'Optioun net mat Deklaratioune bestëmmen {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Keng Optiounen definéiert awer en Numm gouf iwwerginn ({name}). Hutt Dir "
+"gemengt en Argument ze deklaréieren amplaz? Hutt Dir gemengt '--{name}' "
+"ze passéieren?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default}"
+
+msgid "required"
+msgstr "néideg"
+
+msgid "(dynamic)"
+msgstr "(dynamesch)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Argumenter huelen genee eng Parametererklärung, krut {Längt}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Wëllt Dir weiderfueren?"
+
+msgid "Confirm the action without prompting."
+msgstr "Bestätegt d'Aktioun ouni ze froen."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, Versioun %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Weist d'Versioun a gitt eraus."
+
+msgid "Show this message and exit."
+msgstr "Weisen dëse Message an Sortie."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Hutt Dir {Méiglechkeet} gemengt?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Feeler: {Message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Probéiert '{command} {option}' fir Hëllef."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Ongülteg Wäert: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Ongülteg Wäert fir {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Vermësst Argument"
+
+msgid "Missing option"
+msgstr "Vermësst Optioun"
+
+msgid "Missing parameter"
+msgstr "Vermësst Parameter"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Vermësst {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Fehlend Parameter: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Keng esou Optioun {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Keen esou Kommando {name!r}."
+
+msgid "unknown error"
+msgstr "onbekannt Feeler"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Konnt de Fichier {Filename!r} net opmaachen: {Message}"
+
+msgid "Usage:"
+msgstr "Benotzt:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Ongëlteg Startzeechen fir Optioun ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argument {Numm!r} hëlt {nargs} Wäerter."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Optioun {Name!r} hëlt kee Wäert."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Optioun {name!r} erfuerdert en Argument."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell Ofschloss gëtt net ënnerstëtzt fir Bash Versioune méi al wéi 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Konnt d'Bash Versioun net erkennen, d'Schellfäegkeet gëtt net ënnerstëtzt."
+
+msgid "Repeat for confirmation"
+msgstr "Widderhuelen fir Bestätegung"
+
+msgid "Error: The two entered values do not match."
+msgstr "Feeler: Déi zwee agefouert Wäerter passen net."
+
+msgid "Error: invalid input"
+msgstr "Feeler: ongëlteg Input"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Onbekannt Faarf {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Press all Schlëssel fir weiderzemaachen ..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Wielt aus:\\n\\t{wahlen}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} ass net {wahl}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Choix ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} entsprécht net dem Format {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ass net gëlteg {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} ass net am Beräich {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ass net e gëlteg Boolean. Unerkannte Wäerter: {staten}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ass net eng valabel UUID."
+
+msgid "file"
+msgstr "Fichier"
+
+msgid "directory"
+msgstr "Verzeechnes"
+
+msgid "path"
+msgstr "Wee"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{Name} {Fichiername!r} existéiert net."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{Name} {Filename!r} ass eng Datei."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{Name} {Dateiname!r} ass en Verzeichnis."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{Name} {Fichiername!r} ass net liesbar."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{Name} {Fichiername!r} ass net schreiwenbar."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {Fichiername!r} ass net ausführbar."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} Wäerter sinn erfuerderlech, awer {len_value} gouf uginn."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Onbekannt Standardstream '{name}'"
+
+msgid "This field is required."
+msgstr "Dëst Feld ass erfuerderlech."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "De Fichier huet keng genehmegt Extensioun: {Extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "De Fichier huet keng genehmegt Extensioun."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "De Fichier muss tëscht {min_size} an {max_size} Bytes sinn."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Ongülteg Feldnumm '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Feld muss gläich wéi %(other_name)s sinn."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Feld muss mindestens %(min)d Charakter laang sinn."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Feld kann net méi laang wéi %(max)d Charakter sinn."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Feld muss genau %(max)d Charakter laang sinn."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Feld muss tëscht %(min)d an %(max)d Zeeche laang sinn."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "D'Zuel muss op d'mannst %(min)s sinn."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "D'Zuel muss maximal %(max)s sinn."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "D'Zuel muss tëscht %(min)s an %(max)s sinn."
+
+msgid "Invalid input."
+msgstr "Invalid Input."
+
+msgid "Invalid email address."
+msgstr "Invalid Email Adress."
+
+msgid "Invalid IP address."
+msgstr "Ongülteg IP Adress."
+
+msgid "Invalid Mac address."
+msgstr "Ongülteg Mac Adress."
+
+msgid "Invalid URL."
+msgstr "Invalid URL."
+
+msgid "Invalid UUID."
+msgstr "Invalid UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Ongülteg Wäert, muss ee vun: %(values)s sinn."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Ongülteg Wäert, kann keng vun: %(values)s sinn."
+
+msgid "This field cannot be edited."
+msgstr "Dëst Feld kann net geännert ginn."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Dëst Feld ass behënnert a kann net e Wäert hunn."
+
+msgid "Invalid CSRF Token."
+msgstr "Invalid CSRF Token."
+
+msgid "CSRF token missing."
+msgstr "CSRF Token fehlt."
+
+msgid "CSRF failed."
+msgstr "CSRF gescheitert."
+
+msgid "CSRF token expired."
+msgstr "CSRF Token ofgelaaf."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Ongülteg Wiel: konnt net zwéngen."
+
+msgid "Choices cannot be None."
+msgstr "Choixen kënnen keng sinn."
+
+msgid "Not a valid choice."
+msgstr "Net eng valabel Wiel."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Ongëlteg Choix(en): een oder méi Dateinpute konnten net gezwongen ginn."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' ass net eng valabel Wiel fir dëst Feld."
+
+msgid "Not a valid datetime value."
+msgstr "Net e gültege Datetime Wäert."
+
+msgid "Not a valid date value."
+msgstr "Net eng valabel Datum Wäert."
+
+msgid "Not a valid time value."
+msgstr "Net eng valabel Zäit Wäert."
+
+msgid "Not a valid week value."
+msgstr "Net eng valabel Woch Wäert."
+
+msgid "Not a valid integer value."
+msgstr "Net e gültege ganz Zuel Wäert."
+
+msgid "Not a valid decimal value."
+msgstr "Net e gültege Dezimalwäert."
+
+msgid "Not a valid float value."
+msgstr "Net e gültege Floatwäert."
+

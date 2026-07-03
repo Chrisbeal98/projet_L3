@@ -1,0 +1,1035 @@
+# Translations for LO.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: lo\n"
+"Language-Team: lo <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "ກະລຸນາເຂົ້າສູ່ລະບົບເພື່ອເຂົ້າຫາໜ້ານີ້."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "IMEI ນີ້ຖືກລົງທະບຽນຢູ່ໃນລະບົບແລ້ວ."
+
+msgid "Accès non autorisé."
+msgstr "ການເຂົ້າເຖິງທີ່ບໍ່ໄດ້ຮັບອະນຸຍາດ."
+
+msgid "Appareil déverrouillé."
+msgstr "ປົດລັອກອຸປະກອນແລ້ວ."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "ສ້າງການແຈ້ງເຕືອນແລ້ວ! ສົ່ງການແຈ້ງເຕືອນແລ້ວ."
+
+msgid "Alerte résolue."
+msgstr "ແກ້ໄຂການແຈ້ງເຕືອນແລ້ວ."
+
+msgid "Pas encore de compte ?"
+msgstr "ຍັງບໍ່ມີບັນຊີບໍ?"
+
+msgid "Mon Profil"
+msgstr "ໂປຣໄຟລ໌ຂອງຂ້ອຍ"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "ການເຊື່ອມຕໍ່ສຳເລັດ! ຍິນດີຕ້ອນຮັບ."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "ອີເມວ ຫຼືລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "ຊ່ອງຂໍ້ມູນທີ່ຕ້ອງການທັງໝົດຈະຕ້ອງສໍາເລັດ."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "ລະຫັດຜ່ານບໍ່ກົງກັນ."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "ລະຫັດຜ່ານຕ້ອງມີຢ່າງໜ້ອຍ 6 ຕົວອັກສອນ."
+
+msgid "Cet email est déjà utilisé."
+msgstr "ອີເມວນີ້ຖືກໃຊ້ແລ້ວ."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "ສ້າງບັນຊີສຳເລັດແລ້ວ! ເຂົ້າສູ່ລະບົບ."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "ບໍ່ພົບບັນຊີກັບອີເມວນີ້."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "ເບີໂທລະສັບບໍ່ກົງກັບໝາຍເລກບັນຊີ."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "ລະຫັດຜ່ານໃຫມ່ແມ່ນບັງຄັບ."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "ຣີເຊັດລະຫັດຜ່ານສຳເລັດ! ເຂົ້າສູ່ລະບົບ."
+
+msgid "Vous avez été déconnecté."
+msgstr "ທ່ານໄດ້ຖືກຕັດການເຊື່ອມຕໍ່."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "ຍີ່ຫໍ້, ຮູບແບບແລະ IMEI ແມ່ນຕ້ອງການ."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "ອຸປະກອນທີ່ມີ IMEI ນີ້ມີຢູ່ແລ້ວ."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "ລົງທະບຽນອຸປະກອນສຳເລັດແລ້ວ!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ດໍາເນີນການນີ້."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "ອຸປະກອນຖືກລັອກຈາກໄລຍະໄກສຳເລັດແລ້ວ."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "ປົດລັອກອຸປະກອນສຳເລັດແລ້ວ."
+
+msgid "Appareil supprimé."
+msgstr "ອຸປະກອນຖືກລຶບ."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "ກະລຸນາເລືອກອຸປະກອນ ແລະປະເພດການແຈ້ງເຕືອນ."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "ອຸ​ປະ​ກອນ​ນີ້​ບໍ່​ໄດ້​ເປັນ​ຂອງ​ທ່ານ​."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "ລາຍງານການແຈ້ງເຕືອນສຳເລັດແລ້ວ. ອຸປະກອນໄດ້ຮັບການຮັບປະກັນ."
+
+msgid "Alerte marquée comme résolue."
+msgstr "ໝາຍການແຈ້ງເຕືອນວ່າແກ້ໄຂແລ້ວ."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "ຊື່, ນາມສະກຸນ ແລະອີເມລ໌ແມ່ນຕ້ອງການ."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "ອີເມວນີ້ຖືກໃຊ້ໂດຍບັນຊີອື່ນແລ້ວ."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "ອັບເດດໂປຣໄຟລ໌ສຳເລັດແລ້ວ!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "ສະຫງວນການເຂົ້າເຖິງສໍາລັບຜູ້ບໍລິຫານ."
+
+msgid "Erreur marquée comme résolue."
+msgstr "ໝາຍຄວາມຜິດພາດວ່າແກ້ໄຂແລ້ວ."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "ທ່ານບໍ່ສາມາດລຶບບັນຊີຂອງທ່ານເອງໄດ້."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "ລຶບຜູ້ໃຊ້ສຳເລັດແລ້ວ."
+
+msgid "Administration"
+msgstr "ບໍລິຫານ"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "ການຄຸ້ມຄອງສູນກາງຂອງລະບົບຕ້ານການລັກ"
+
+msgid "Utilisateurs"
+msgstr "ຜູ້ໃຊ້"
+
+msgid "Actifs aujourd'hui"
+msgstr "ມີການເຄື່ອນໄຫວໃນມື້ນີ້"
+
+msgid "Nouveaux ce mois"
+msgstr "ໃໝ່ໃນເດືອນນີ້"
+
+msgid "Appareils"
+msgstr "ອຸປະກອນ"
+
+msgid "Alertes actives"
+msgstr "ການແຈ້ງເຕືອນທີ່ຫ້າວຫັນ"
+
+msgid "Analytique"
+msgstr "ການວິເຄາະ"
+
+msgid "Journal d'activité"
+msgstr "ບັນທຶກການເຄື່ອນໄຫວ"
+
+msgid "Erreurs"
+msgstr "ຄວາມຜິດພາດ"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "ການເຊື່ອມຕໍ່ (7 ມື້ທີ່ຜ່ານມາ)"
+
+msgid "Alertes par type"
+msgstr "ແຈ້ງເຕືອນຕາມປະເພດ"
+
+msgid "Appareils par opérateur"
+msgstr "ອຸປະກອນໂດຍຜູ້ປະກອບການ"
+
+msgid "Résumé du système"
+msgstr "ສະຫຼຸບລະບົບ"
+
+msgid "Utilisateurs total"
+msgstr "ຜູ້ໃຊ້ທັງໝົດ"
+
+msgid "Appareils enregistrés"
+msgstr "ອຸປະກອນທີ່ລົງທະບຽນ"
+
+msgid "Total alertes"
+msgstr "ການແຈ້ງເຕືອນທັງໝົດ"
+
+msgid "Alertes en cours"
+msgstr "ການແຈ້ງເຕືອນໃນປະຈຸບັນ"
+
+msgid "Erreurs non résolues"
+msgstr "ຄວາມຜິດພາດທີ່ບໍ່ໄດ້ຮັບການແກ້ໄຂ"
+
+msgid "Dernières activités"
+msgstr "ກິດ​ຈະ​ກໍາ​ຫລ້າ​ສຸດ​"
+
+msgid "récentes"
+msgstr "ຫຼ້າສຸດ"
+
+msgid "Utilisateur"
+msgstr "ຜູ້ໃຊ້"
+
+msgid "Action"
+msgstr "ການປະຕິບັດ"
+
+msgid "Détails"
+msgstr "ລາຍລະອຽດ"
+
+msgid "Adresse IP"
+msgstr "ທີ່ຢູ່ IP"
+
+msgid "Navigateur"
+msgstr "ຕົວທ່ອງເວັບ"
+
+msgid "Date"
+msgstr "ວັນທີ"
+
+msgid "Aucune activité"
+msgstr "ບໍ່ມີກິດຈະກໍາ"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "ການເຄື່ອນໄຫວຂອງຜູ້ໃຊ້ຈະປາກົດຢູ່ທີ່ນີ້."
+
+msgid "Journal d'erreurs"
+msgstr "ບັນທຶກຄວາມຜິດພາດ"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "ແກ້ໄຂຂໍ້ຜິດພາດທັງຫມົດບໍ?"
+
+msgid "Tout résoudre"
+msgstr "ແກ້ໄຂທຸກຢ່າງ"
+
+msgid "non résolues"
+msgstr "ຍັງບໍ່ໄດ້ແກ້ໄຂ"
+
+msgid "Tout est résolu"
+msgstr "ທຸກສິ່ງທຸກຢ່າງແມ່ນການແກ້ໄຂ"
+
+msgid "Type"
+msgstr "ປະເພດ"
+
+msgid "Description"
+msgstr "ລາຍລະອຽດ"
+
+msgid "Statut"
+msgstr "ສະຖານະ"
+
+msgid "Résolu"
+msgstr "ແກ້ໄຂແລ້ວ"
+
+msgid "Non résolu"
+msgstr "ບໍ່ໄດ້ແກ້ໄຂ"
+
+msgid "Aucune erreur enregistrée"
+msgstr "ບໍ່ມີບັນທຶກຂໍ້ຜິດພາດ"
+
+msgid "Le système fonctionne correctement."
+msgstr "ລະບົບກໍາລັງເຮັດວຽກຢ່າງຖືກຕ້ອງ."
+
+msgid "Gestion des utilisateurs"
+msgstr "ການຄຸ້ມຄອງຜູ້ໃຊ້"
+
+msgid "comptes"
+msgstr "ບັນຊີ"
+
+msgid "Email"
+msgstr "ອີເມລ"
+
+msgid "Téléphone"
+msgstr "ໂທລະສັບ"
+
+msgid "Rôle"
+msgstr "ບົດບາດ"
+
+msgid "Inscrit le"
+msgstr "ລົງທະບຽນເມື່ອ"
+
+msgid "Actions"
+msgstr "ການກະທໍາ"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "ລຶບຜູ້ໃຊ້ນີ້ ແລະອຸປະກອນທັງໝົດຂອງເຂົາເຈົ້າບໍ?"
+
+msgid "Vous"
+msgstr "ເຈົ້າ"
+
+msgid "Connexions"
+msgstr "ການເຊື່ອມຕໍ່"
+
+msgid "Vol"
+msgstr "ຖ້ຽວບິນ"
+
+msgid "Perte"
+msgstr "ການສູນເສຍ"
+
+msgid "Anomalie"
+msgstr "ຜິດປົກກະຕິ"
+
+msgid "Alertes"
+msgstr "ແຈ້ງເຕືອນ"
+
+msgid "Gestion des alertes"
+msgstr "ການຄຸ້ມຄອງການແຈ້ງເຕືອນ"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "ລາຍງານການລັກ ຫຼືການສູນເສຍ ແລະຕິດຕາມປະຫວັດ"
+
+msgid "Signaler un vol / perte"
+msgstr "ລາຍງານການລັກ/ການສູນເສຍ"
+
+msgid "En cours"
+msgstr "ກຳລັງດຳເນີນຢູ່"
+
+msgid "Résolues"
+msgstr "ແກ້ໄຂແລ້ວ"
+
+msgid "Historique des alertes"
+msgstr "ປະຫວັດການແຈ້ງເຕືອນ"
+
+msgid "Appareil"
+msgstr "ອຸປະກອນ"
+
+msgid "Priorité"
+msgstr "ບູລິມະສິດ"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "ໝາຍການແຈ້ງເຕືອນນີ້ວ່າແກ້ໄຂແລ້ວບໍ?"
+
+msgid "Résoudre"
+msgstr "ແກ້ໄຂ"
+
+msgid "Aucune alerte"
+msgstr "ບໍ່ມີການແຈ້ງເຕືອນ"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "ຂ່າວດີ! ບໍ່ມີການແຈ້ງເຕືອນໃດໆ."
+
+msgid "Signaler un vol ou une perte"
+msgstr "ລາຍງານການລັກ ຫຼືການສູນເສຍ"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"ໂດຍການລາຍງານການລັກ, ອຸປະກອນຂອງທ່ານຈະຖືກລັອກໂດຍອັດຕະໂນມັດ "
+"ແລະການແຈ້ງເຕືອນຈະຖືກສົ່ງ."
+
+msgid "Appareil concerné"
+msgstr "ອຸປະກອນທີ່ໄດ້ຮັບຜົນກະທົບ"
+
+msgid "Sélectionner un appareil"
+msgstr "ເລືອກອຸປະກອນ"
+
+msgid "Type d'alerte"
+msgstr "ປະເພດການແຈ້ງເຕືອນ"
+
+msgid "Décrivez les circonstances..."
+msgstr "ອະ​ທິ​ບາຍ​ສະ​ຖາ​ນະ​ການ ..."
+
+msgid "Annuler"
+msgstr "ຍົກເລີກ"
+
+msgid "Signaler"
+msgstr "ລາຍງານ"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "ລະບົບຕ້ານການລັກອັດສະລິຍະ — ແພລະຕະຟອມຄວາມປອດໄພສໍາລັບໂທລະສັບສະຫຼາດ"
+
+msgid "Système Anti-Vol"
+msgstr "ລະບົບຕ້ານການລັກ"
+
+msgid "PRINCIPAL"
+msgstr "ຫຼັກ"
+
+msgid "Tableau de bord"
+msgstr "ແຜງໜ້າປັດ"
+
+msgid "SÉCURITÉ"
+msgstr "ຄວາມປອດໄພ"
+
+msgid "Géolocalisation"
+msgstr "ພູມສາດ"
+
+msgid "ADMINISTRATION"
+msgstr "ບໍລິຫານ"
+
+msgid "Déconnexion"
+msgstr "ຕັດການເຊື່ອມຕໍ່"
+
+msgid "Changer de langue"
+msgstr "ປ່ຽນພາສາ"
+
+msgid "Rechercher une langue..."
+msgstr "ຊອກຫາພາສາ..."
+
+msgid "Profil"
+msgstr "ໂປຣໄຟລ໌"
+
+msgid "Changer de thème"
+msgstr "ປ່ຽນຫົວຂໍ້"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "ພາບລວມຂອງຄວາມປອດໄພອຸປະກອນຂອງທ່ານ"
+
+msgid "Ajouter un appareil"
+msgstr "ເພີ່ມອຸປະກອນ"
+
+msgid "Appareils volés"
+msgstr "ອຸປະກອນຖືກລັກ"
+
+msgid "Verrouillés à distance"
+msgstr "ລັອກໄລຍະໄກ"
+
+msgid "Alertes récentes"
+msgstr "ການແຈ້ງເຕືອນຫຼ້າສຸດ"
+
+msgid "Voir tout"
+msgstr "ເບິ່ງທັງຫມົດ"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "ບໍ່ມີການແຈ້ງເຕືອນ. ອຸປະກອນຂອງທ່ານປອດໄພ!"
+
+msgid "Mes appareils"
+msgstr "ອຸປະກອນຂອງຂ້ອຍ"
+
+msgid "Aucun appareil enregistré"
+msgstr "ບໍ່ມີອຸປະກອນລົງທະບຽນ"
+
+msgid "Ajouter"
+msgstr "ເພີ່ມ"
+
+msgid "en attente"
+msgstr "ຄ້າງໄວ້"
+
+msgid "Gestion des appareils"
+msgstr "ການຈັດການອຸປະກອນ"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "ລົງທະບຽນແລະຈັດການໂທລະສັບສະຫຼາດຂອງທ່ານ"
+
+msgid "Opérateur"
+msgstr "ຜູ້ປະກອບການ"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "ລັອກອຸປະກອນນີ້ຈາກໄລຍະໄກບໍ?"
+
+msgid "Verrouiller"
+msgstr "ລັອກ"
+
+msgid "Déverrouiller"
+msgstr "ປົດລັອກ"
+
+msgid "Supprimer cet appareil ?"
+msgstr "ລຶບອຸປະກອນນີ້ບໍ?"
+
+msgid "Supprimer"
+msgstr "ລຶບ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "ເພີ່ມໂທລະສັບສະຫຼາດທໍາອິດຂອງທ່ານເພື່ອເລີ່ມຕົ້ນການປົກປ້ອງມັນ."
+
+msgid "Nouvel appareil"
+msgstr "ອຸປະກອນໃໝ່"
+
+msgid "Marque"
+msgstr "ຍີ່ຫໍ້"
+
+msgid "Sélectionner"
+msgstr "ເລືອກ"
+
+msgid "Autre"
+msgstr "ອື່ນໆ"
+
+msgid "Modèle"
+msgstr "ຕົວແບບ"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "ພິມ *#06# ໃນໂທລະສັບຂອງທ່ານ"
+
+msgid "Système d'exploitation"
+msgstr "ລະບົບປະຕິບັດການ"
+
+msgid "Numéro de téléphone"
+msgstr "ເບີໂທລະສັບ"
+
+msgid "Enregistrer"
+msgstr "ບັນທຶກ"
+
+msgid "Connexion"
+msgstr "ການເຊື່ອມຕໍ່"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "ລະບົບຄວາມປອດໄພຂອງໂທລະສັບສະຫຼາດ"
+
+msgid "Adresse email"
+msgstr "ທີ່ຢູ່ອີເມວ"
+
+msgid "Mot de passe"
+msgstr "ລະຫັດຜ່ານ"
+
+msgid "Se connecter"
+msgstr "ເຂົ້າສູ່ລະບົບ"
+
+msgid "Mot de passe oublié ?"
+msgstr "ລືມລະຫັດຜ່ານ?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "ເຈົ້າມີບັນຊີຢູ່ແລ້ວບໍ? ຖ້າບໍ່ດັ່ງນັ້ນ, ສືບຕໍ່ສ້າງບັນຊີຂອງທ່ານ!"
+
+msgid "Créer un compte"
+msgstr "ສ້າງບັນຊີ"
+
+msgid "Sécurité maximale"
+msgstr "ຄວາມປອດໄພສູງສຸດ"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "ປົກປ້ອງຂໍ້ມູນສ່ວນຕົວຂອງທ່ານດ້ວຍການລັອກທາງໄກ"
+
+msgid "Localisation GPS"
+msgstr "ສະຖານທີ່ GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "ຊອກຫາສະຖານທີ່ທີ່ແນ່ນອນຂອງໂທລະສັບສະຫຼາດຂອງທ່ານໃນທີ່ໃຊ້ເວລາທີ່ແທ້ຈິງ"
+
+msgid "Alertes instantanées"
+msgstr "ການແຈ້ງເຕືອນທັນທີ"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "ໄດ້​ຮັບ SMS​, ອີ​ເມລ​໌​ແລະ​ການ​ແຈ້ງ​ເຕືອນ​ໃນ​ກໍ​ລະ​ນີ​ຂອງ​ການ​ລັກ​"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "ຊອກຫາອຸປະກອນຂອງທ່ານ ແລະເບິ່ງພາບພື້ນທີ່ຄວາມສ່ຽງ"
+
+msgid "Aucun appareil"
+msgstr "ບໍ່ມີອຸປະກອນ"
+
+msgid "Zones à risque"
+msgstr "ເຂດສ່ຽງ"
+
+msgid "incidents"
+msgstr "ເຫດການ"
+
+msgid "Aucune zone signalée"
+msgstr "ບໍ່ມີພື້ນທີ່ລາຍງານ"
+
+msgid "Niveau"
+msgstr "ລະດັບ"
+
+msgid "Incidents"
+msgstr "ເຫດການ"
+
+msgid "Profile utilisateur"
+msgstr "ໂປຣໄຟລ໌ຜູ້ໃຊ້"
+
+msgid "Gérez vos informations personnelles"
+msgstr "ຈັດການຂໍ້ມູນສ່ວນຕົວຂອງທ່ານ"
+
+msgid "Membre depuis"
+msgstr "ສະມາຊິກຕັ້ງແຕ່"
+
+msgid "Modifier mes informations"
+msgstr "ແກ້ໄຂຂໍ້ມູນຂອງຂ້ອຍ"
+
+msgid "Prénom"
+msgstr "ຊື່"
+
+msgid "Nom"
+msgstr "ຊື່"
+
+msgid "Changer le mot de passe"
+msgstr "ປ່ຽນລະຫັດຜ່ານ"
+
+msgid "Nouveau mot de passe"
+msgstr "ລະຫັດຜ່ານໃໝ່"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "ປ່ອຍຫວ່າງໄວ້ເພື່ອບໍ່ໃຫ້ມີການປ່ຽນແປງ"
+
+msgid "Enregistrer les modifications"
+msgstr "ບັນທຶກການປ່ຽນແປງ"
+
+msgid "Inscription"
+msgstr "ການລົງທະບຽນ"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "ຍິນດີຕ້ອນຮັບສູ່ Anti-Theft ເພື່ອຄວາມປອດໄພທີ່ດີກວ່າຂອງອຸປະກອນຂອງທ່ານ"
+
+msgid "Confirmer"
+msgstr "ຢືນຢັນ"
+
+msgid "Créer mon compte"
+msgstr "ສ້າງບັນຊີຂອງຂ້ອຍ"
+
+msgid "Déjà un compte ?"
+msgstr "ມີບັນຊີຢູ່ແລ້ວບໍ?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "ຣີເຊັດລະຫັດຜ່ານ"
+
+msgid "Réinitialisation"
+msgstr "ຣີເຊັດ"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "ໃສ່ອີເມວ ແລະເບີໂທລະສັບຂອງທ່ານເພື່ອຢັ້ງຢືນຕົວຕົນຂອງທ່ານ"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "ຕົວເລກທີ່ໃຊ້ໃນລະຫວ່າງການລົງທະບຽນ"
+
+msgid "Minimum 6 caractères"
+msgstr "ຢ່າງໜ້ອຍ 6 ຕົວອັກສອນ"
+
+msgid "Confirmer le mot de passe"
+msgstr "ຢືນຢັນລະຫັດຜ່ານ"
+
+msgid "Retourner à la"
+msgstr "ກັບຄືນຫາ"
+
+msgid "page de connexion"
+msgstr "ໜ້າເຂົ້າສູ່ລະບົບ"
+
+msgid "Vérification sécurisée"
+msgstr "ການຢັ້ງຢືນທີ່ປອດໄພ"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "ຕົວຕົນຂອງທ່ານຖືກຢືນຢັນໂດຍໃຊ້ອີເມວ ແລະເບີໂທລະສັບຂອງທ່ານ"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "ເລືອກລະຫັດຜ່ານທີ່ປອດໄພຢ່າງໜ້ອຍ 6 ຕົວອັກສອນ"
+
+msgid "d"
+msgstr "ງ"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: ການແກ້ໄຂລົ້ມເຫລວ"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: ການແກ້ໄຂລົ້ມເຫລວ: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows ຜິດ​ພາດ: {error}"
+
+msgid "deprecated"
+msgstr "ເຊົາໃຊ້ແລ້ວ"
+
+msgid "Options"
+msgstr "ທາງເລືອກ"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "ມີການໂຕ້ຖຽງພິເສດທີ່ບໍ່ຄາດຄິດ ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: ຄໍາ​ສັ່ງ {name!r} ຖືກ​ຍົກ​ເລີກ​ແລ້ວ.{extra_message}"
+
+msgid "Aborted!"
+msgstr "ເອົາລູກອອກ!"
+
+msgid "Commands"
+msgstr "ຄໍາສັ່ງ"
+
+msgid "Missing command."
+msgstr "ບໍ່ມີຄໍາສັ່ງ."
+
+msgid "Value must be an iterable."
+msgstr "ຄ່າຕ້ອງເປັນອັນທີ່ເຮັດໄດ້."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "ເອົາຄ່າ {nargs} ແຕ່ໃຫ້ 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"DeprecationWarning: {param_type} {name!r} "
+"ຖືກປິດການນຳໃຊ້ແລ້ວ.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "ຊື່ '{name}' ກໍານົດສອງຄັ້ງ"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "ຕົວເລືອກ Boolean {decl!r} ບໍ່ສາມາດໃຊ້ທຸງດຽວກັນສໍາລັບ true/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "ບໍ່ສາມາດກໍານົດຊື່ສໍາລັບທາງເລືອກທີ່ມີການປະກາດ {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"ບໍ່​ມີ​ທາງ​ເລືອກ​ທີ່​ກໍາ​ນົດ​ໄວ້​ແຕ່​ຊື່​ໄດ້​ຮັບ​ການ​ຜ່ານ ({name}). "
+"ເຈົ້າໝາຍເຖິງການປະກາດການໂຕ້ແຍ້ງແທນບໍ? ເຈົ້າໝາຍເຖິງການຜ່ານ '--{name}' ບໍ?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "ຄ່າເລີ່ມຕົ້ນ: {default}"
+
+msgid "required"
+msgstr "ຕ້ອງການ"
+
+msgid "(dynamic)"
+msgstr "(ໄດນາມິກ)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "ອາກິວເມັນໃຊ້ເວລາການປະກາດພາຣາມິເຕີອັນດຽວ, ໄດ້ {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "ທ່ານຕ້ອງການສືບຕໍ່ບໍ?"
+
+msgid "Confirm the action without prompting."
+msgstr "ຢືນຢັນການປະຕິບັດໂດຍບໍ່ມີການກະຕຸ້ນເຕືອນ."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, ລຸ້ນ %(version)s"
+
+msgid "Show the version and exit."
+msgstr "ສະແດງສະບັບແລະອອກ."
+
+msgid "Show this message and exit."
+msgstr "ສະແດງຂໍ້ຄວາມນີ້ແລະອອກ."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "ເຈົ້າໝາຍເຖິງ {possibility} ບໍ?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "ຜິດພາດ: {mesage}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "ລອງ '{command} {option}' ເພື່ອຂໍຄວາມຊ່ວຍເຫຼືອ."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "ຄ່າບໍ່ຖືກຕ້ອງ: {mesage}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "ຄ່າບໍ່ຖືກຕ້ອງສຳລັບ {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "ຂາດການໂຕ້ຖຽງ"
+
+msgid "Missing option"
+msgstr "ທາງເລືອກທີ່ຂາດຫາຍໄປ"
+
+msgid "Missing parameter"
+msgstr "ບໍ່ມີຕົວກໍານົດການ"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "ບໍ່ມີ {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "ບໍ່ມີຕົວກໍານົດການ: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "ບໍ່ມີທາງເລືອກດັ່ງກ່າວ {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "ບໍ່ມີຄໍາສັ່ງດັ່ງກ່າວ {name!r}."
+
+msgid "unknown error"
+msgstr "ຄວາມຜິດພາດທີ່ບໍ່ຮູ້ຈັກ"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "ບໍ່ສາມາດເປີດໄຟລ໌ {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "ໃຊ້:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "ຕົວອັກສອນເລີ່ມຕົ້ນບໍ່ຖືກຕ້ອງສຳລັບທາງເລືອກ ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "ອາກິວເມັນ {name!r} ໃຊ້ຄ່າ {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "ທາງເລືອກ {name!r} ບໍ່ເອົາຄ່າ."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "ຕົວເລືອກ {name!r} ຕ້ອງການການໂຕ້ຖຽງ."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "ການສຳເລັດ Shell ແມ່ນບໍ່ຮອງຮັບສຳລັບລຸ້ນ Bash ທີ່ເກົ່າກວ່າ 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "ບໍ່​ສາ​ມາດ​ກວດ​ພົບ​ສະ​ບັບ Bash​, ບໍ່​ຮອງ​ຮັບ​ການ​ສໍາ​ເລັດ​ຮູບ​ແກະ​."
+
+msgid "Repeat for confirmation"
+msgstr "ເຮັດຊ້ໍາອີກຄັ້ງເພື່ອຢືນຢັນ"
+
+msgid "Error: The two entered values do not match."
+msgstr "ຂໍ້ຜິດພາດ: ສອງຄ່າທີ່ປ້ອນເຂົ້າບໍ່ກົງກັນ."
+
+msgid "Error: invalid input"
+msgstr "ຜິດພາດ: ການປ້ອນຂໍ້ມູນບໍ່ຖືກຕ້ອງ"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "ສີທີ່ບໍ່ຮູ້ຈັກ {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "ກົດປຸ່ມໃດກໍໄດ້ເພື່ອສືບຕໍ່..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "ເລືອກຈາກ:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} ບໍ່ແມ່ນ {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "ທາງເລືອກ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ບໍ່ກົງກັບຮູບແບບ {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ບໍ່ແມ່ນ {number_type} ທີ່ຖືກຕ້ອງ."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} ບໍ່ຢູ່ໃນຂອບເຂດ {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ບໍ່ແມ່ນ boolean ທີ່ຖືກຕ້ອງ. ຄ່າທີ່ຮັບຮູ້: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ບໍ່ແມ່ນ UUI ທີ່ຖືກຕ້ອງ."
+
+msgid "file"
+msgstr "ໄຟລ໌"
+
+msgid "directory"
+msgstr "ໄດເລກະທໍລີ"
+
+msgid "path"
+msgstr "ເສັ້ນທາງ"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} ບໍ່ມີ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} ແມ່ນໄຟລ໌."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} ແມ່ນໄດເລກະທໍລີ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} ບໍ່ສາມາດອ່ານໄດ້."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} ບໍ່ສາມາດຂຽນໄດ້."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} ບໍ່ສາມາດປະຕິບັດໄດ້."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} ຄ່າແມ່ນຕ້ອງການ, ແຕ່ {len_value} ໄດ້ຖືກມອບໃຫ້."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "ການຖ່າຍທອດມາດຕະຖານທີ່ບໍ່ຮູ້ຈັກ '{name}'"
+
+msgid "This field is required."
+msgstr "ຊ່ອງນີ້ຕ້ອງການ."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "ໄຟລ໌ບໍ່ມີສ່ວນຂະຫຍາຍທີ່ໄດ້ຮັບອະນຸມັດ: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "ໄຟລ໌ບໍ່ມີສ່ວນຂະຫຍາຍທີ່ໄດ້ຮັບອະນຸມັດ."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "ໄຟລ໌ຕ້ອງຢູ່ລະຫວ່າງ {min_size} ຫາ {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "ຊື່ຊ່ອງຂໍ້ມູນບໍ່ຖືກຕ້ອງ '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "ຊ່ອງຂໍ້ມູນຕ້ອງເທົ່າກັບ %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "ຊ່ອງຂໍ້ມູນຕ້ອງມີຢ່າງໜ້ອຍ %(ນາທີ)d ຕົວອັກສອນຍາວ."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "ຊ່ອງຂໍ້ມູນບໍ່ສາມາດຍາວກວ່າ %(max)d ຕົວອັກສອນ."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "ຊ່ອງຂໍ້ມູນຕ້ອງມີຄວາມຍາວແທ້ %(max)d ຕົວອັກສອນ."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "ຊ່ອງຂໍ້ມູນຕ້ອງຢູ່ລະຫວ່າງ %(min)d ແລະ %(max)d ຕົວອັກສອນຍາວ."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "ຕົວເລກຕ້ອງມີຢ່າງໜ້ອຍ %(ນາທີ)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "ຕົວເລກຈະຕ້ອງມີສູງສຸດ %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "ຕົວເລກຈະຕ້ອງຢູ່ລະຫວ່າງ %(ນາທີ)s ແລະ %(max)s."
+
+msgid "Invalid input."
+msgstr "ການປ້ອນຂໍ້ມູນບໍ່ຖືກຕ້ອງ."
+
+msgid "Invalid email address."
+msgstr "ທີ່ຢູ່ອີເມວບໍ່ຖືກຕ້ອງ."
+
+msgid "Invalid IP address."
+msgstr "ທີ່ຢູ່ IP ບໍ່ຖືກຕ້ອງ."
+
+msgid "Invalid Mac address."
+msgstr "ທີ່ຢູ່ Mac ບໍ່ຖືກຕ້ອງ."
+
+msgid "Invalid URL."
+msgstr "URL ບໍ່ຖືກຕ້ອງ."
+
+msgid "Invalid UUID."
+msgstr "UUI ບໍ່ຖືກຕ້ອງ."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "ຄ່າບໍ່ຖືກຕ້ອງ, ຕ້ອງເປັນຫນຶ່ງໃນ: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "ຄ່າບໍ່ຖືກຕ້ອງ, ບໍ່ສາມາດເປັນອັນໃດນຶ່ງຂອງ: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "ຊ່ອງຂໍ້ມູນນີ້ບໍ່ສາມາດແກ້ໄຂໄດ້."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "ຊ່ອງຂໍ້ມູນນີ້ຖືກປິດໃຊ້ງານ ແລະບໍ່ສາມາດມີຄ່າໄດ້."
+
+msgid "Invalid CSRF Token."
+msgstr "CSRF Token ບໍ່ຖືກຕ້ອງ."
+
+msgid "CSRF token missing."
+msgstr "CSRF token ຫາຍໄປ."
+
+msgid "CSRF failed."
+msgstr "CSRF ລົ້ມເຫລວ."
+
+msgid "CSRF token expired."
+msgstr "ໂທເຄັນ CSRF ໝົດອາຍຸແລ້ວ."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "ທາງເລືອກທີ່ບໍ່ຖືກຕ້ອງ: ບໍ່ສາມາດບີບບັງຄັບໄດ້."
+
+msgid "Choices cannot be None."
+msgstr "ທາງເລືອກບໍ່ສາມາດບໍ່ມີ."
+
+msgid "Not a valid choice."
+msgstr "ບໍ່ແມ່ນທາງເລືອກທີ່ຖືກຕ້ອງ."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"ທາງ​ເລືອກ​ທີ່​ບໍ່​ຖືກ​ຕ້ອງ​: "
+"ຫນຶ່ງ​ຫຼື​ຫຼາຍ​ການ​ປ້ອນ​ຂໍ້​ມູນ​ບໍ່​ສາ​ມາດ​ໄດ້​ຮັບ​ການ​ບີບ​ບັງ​ຄັບ​."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' ບໍ່ແມ່ນທາງເລືອກທີ່ຖືກຕ້ອງສຳລັບຊ່ອງຂໍ້ມູນນີ້."
+
+msgid "Not a valid datetime value."
+msgstr "ບໍ່ແມ່ນຄ່າວັນທີທີ່ຖືກຕ້ອງ."
+
+msgid "Not a valid date value."
+msgstr "ບໍ່ແມ່ນຄ່າວັນທີທີ່ຖືກຕ້ອງ."
+
+msgid "Not a valid time value."
+msgstr "ບໍ່ແມ່ນຄ່າເວລາທີ່ຖືກຕ້ອງ."
+
+msgid "Not a valid week value."
+msgstr "ບໍ່ແມ່ນຄ່າອາທິດທີ່ຖືກຕ້ອງ."
+
+msgid "Not a valid integer value."
+msgstr "ບໍ່ແມ່ນຄ່າຈຳນວນເຕັມທີ່ຖືກຕ້ອງ."
+
+msgid "Not a valid decimal value."
+msgstr "ບໍ່ແມ່ນຄ່າທົດສະນິຍົມທີ່ຖືກຕ້ອງ."
+
+msgid "Not a valid float value."
+msgstr "ບໍ່ແມ່ນຄ່າລອຍທີ່ຖືກຕ້ອງ."
+

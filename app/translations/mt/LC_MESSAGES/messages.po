@@ -1,0 +1,1048 @@
+# Translations for MT.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: mt\n"
+"Language-Team: mt <LL@li.org>\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==0 || ( n%100>=1 && "
+"n%100<=10) ? 1 : (n%100>10 && n%100<20 ) ? 2 : 3);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Jekk jogħġbok idħol biex taċċessa din il-paġna."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Dan l-IMEI huwa diġà rreġistrat fis-sistema."
+
+msgid "Accès non autorisé."
+msgstr "Aċċess mhux awtorizzat."
+
+msgid "Appareil déverrouillé."
+msgstr "Apparat jinfetaħ."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Twissija maħluqa! Notifiki mibgħuta."
+
+msgid "Alerte résolue."
+msgstr "Twissija solvuta."
+
+msgid "Pas encore de compte ?"
+msgstr "Għadu l-ebda kont?"
+
+msgid "Mon Profil"
+msgstr "Il-Profil Tiegħi"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Konnessjoni b'suċċess! Merħba."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email jew password mhux korretta."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "L-oqsma kollha meħtieġa għandhom jimtlew."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Il-passwords ma jaqblux."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Il-password għandu jkun fiha mill-inqas 6 karattri."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Din l-email diġà qed tintuża."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Kont maħluq b'suċċess! Idħol."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Ma nstab l-ebda kont ma' din l-email."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "In-numru tat-telefon ma jaqbilx man-numru tal-kont."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Il-password il-ġdida hija obbligatorja."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Irrisettja l-password b'suċċess! Idħol."
+
+msgid "Vous avez été déconnecté."
+msgstr "Int ġejt skonnettjat."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Ditta, mudell u IMEI huma meħtieġa."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Apparat b'dan l-IMEI diġà jeżisti."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Apparat irreġistrat b'suċċess!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "M'intix awtorizzat biex twettaq din l-azzjoni."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Apparat imsakkar mill-bogħod b'suċċess."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "L-apparat infetaħ b'suċċess."
+
+msgid "Appareil supprimé."
+msgstr "Apparat imħassar."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Jekk jogħġbok agħżel apparat u tip ta' twissija."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Dan l-apparat ma jappartjenix lilek."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Twissija rrappurtata b'suċċess. L-apparat ġie assigurat."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Twissija mmarkata bħala solvuta."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "L-isem, l-kunjom u l-email huma meħtieġa."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Din l-email diġà tintuża minn kont ieħor."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil aġġornat b'suċċess!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Aċċess riservat għall-amministraturi."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Żball immarkat bħala riżolt."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Ma tistax tħassar il-kont tiegħek."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Utent imħassar b'suċċess."
+
+msgid "Administration"
+msgstr "Amministrazzjoni"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Ġestjoni ċentralizzata tas-sistema Kontra s-Serq"
+
+msgid "Utilisateurs"
+msgstr "Utenti"
+
+msgid "Actifs aujourd'hui"
+msgstr "Attiv illum"
+
+msgid "Nouveaux ce mois"
+msgstr "Ġdid dan ix-xahar"
+
+msgid "Appareils"
+msgstr "Apparati"
+
+msgid "Alertes actives"
+msgstr "Twissijiet attivi"
+
+msgid "Analytique"
+msgstr "Analitiku"
+
+msgid "Journal d'activité"
+msgstr "Reġistru tal-attività"
+
+msgid "Erreurs"
+msgstr "Żbalji"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Konnessjonijiet (l-aħħar 7 ijiem)"
+
+msgid "Alertes par type"
+msgstr "Twissijiet skond it-tip"
+
+msgid "Appareils par opérateur"
+msgstr "Apparat skond l-operatur"
+
+msgid "Résumé du système"
+msgstr "Sommarju tas-Sistema"
+
+msgid "Utilisateurs total"
+msgstr "Utenti totali"
+
+msgid "Appareils enregistrés"
+msgstr "Apparati reġistrati"
+
+msgid "Total alertes"
+msgstr "Twissijiet totali"
+
+msgid "Alertes en cours"
+msgstr "Twissijiet kurrenti"
+
+msgid "Erreurs non résolues"
+msgstr "Żbalji mhux solvuti"
+
+msgid "Dernières activités"
+msgstr "L-aħħar attivitajiet"
+
+msgid "récentes"
+msgstr "riċenti"
+
+msgid "Utilisateur"
+msgstr "Utent"
+
+msgid "Action"
+msgstr "Azzjoni"
+
+msgid "Détails"
+msgstr "Dettalji"
+
+msgid "Adresse IP"
+msgstr "indirizz IP"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Aucune activité"
+msgstr "L-ebda attività"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "L-attivitajiet tal-utent se jidhru hawn."
+
+msgid "Journal d'erreurs"
+msgstr "Ġurnal tal-iżbalji"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Waħħal l-iżbalji kollha?"
+
+msgid "Tout résoudre"
+msgstr "Issolvi kollox"
+
+msgid "non résolues"
+msgstr "mhux solvuti"
+
+msgid "Tout est résolu"
+msgstr "Kollox huwa solvut"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Description"
+msgstr "Deskrizzjoni"
+
+msgid "Statut"
+msgstr "Status"
+
+msgid "Résolu"
+msgstr "Solvuti"
+
+msgid "Non résolu"
+msgstr "Mhux solvuti"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Ebda żbalji rreġistrati"
+
+msgid "Le système fonctionne correctement."
+msgstr "Is-sistema qed taħdem sew."
+
+msgid "Gestion des utilisateurs"
+msgstr "Ġestjoni tal-utenti"
+
+msgid "comptes"
+msgstr "kontijiet"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telefon"
+
+msgid "Rôle"
+msgstr "Rwol"
+
+msgid "Inscrit le"
+msgstr "Irreġistrat fuq"
+
+msgid "Actions"
+msgstr "Azzjonijiet"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Tħassar dan l-utent u t-tagħmir kollu tiegħu?"
+
+msgid "Vous"
+msgstr "INTI"
+
+msgid "Connexions"
+msgstr "Konnessjonijiet"
+
+msgid "Vol"
+msgstr "Titjira"
+
+msgid "Perte"
+msgstr "Telf"
+
+msgid "Anomalie"
+msgstr "Anomalja"
+
+msgid "Alertes"
+msgstr "Twissijiet"
+
+msgid "Gestion des alertes"
+msgstr "Ġestjoni ta' twissija"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Irrapporta serq jew telf u track-istorja"
+
+msgid "Signaler un vol / perte"
+msgstr "Irrapporta serq/telf"
+
+msgid "En cours"
+msgstr "Fil-progress"
+
+msgid "Résolues"
+msgstr "Solvuti"
+
+msgid "Historique des alertes"
+msgstr "Storja ta' Twissija"
+
+msgid "Appareil"
+msgstr "Apparat"
+
+msgid "Priorité"
+msgstr "Prijorità"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Immarka din it-twissija bħala solvuta?"
+
+msgid "Résoudre"
+msgstr "Issolvi"
+
+msgid "Aucune alerte"
+msgstr "L-ebda twissija"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Aħbar tajba! L-ebda twissijiet ma ġew irrappurtati."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Irrapporta serq jew telf"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Billi tirrapporta serq, it-tagħmir tiegħek se jissakkar awtomatikament u "
+"jintbagħtu n-notifiki."
+
+msgid "Appareil concerné"
+msgstr "Apparat affettwat"
+
+msgid "Sélectionner un appareil"
+msgstr "Agħżel apparat"
+
+msgid "Type d'alerte"
+msgstr "Tip ta' twissija"
+
+msgid "Décrivez les circonstances..."
+msgstr "Iddeskrivi ċ-ċirkostanzi..."
+
+msgid "Annuler"
+msgstr "Ikkanċella"
+
+msgid "Signaler"
+msgstr "Rapport"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Sistema Intelliġenti Kontra s-Serq — Pjattaforma tas-sigurtà għall-"
+"ismartphones"
+
+msgid "Système Anti-Vol"
+msgstr "Sistema Kontra s-Serq"
+
+msgid "PRINCIPAL"
+msgstr "EWLENIN"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "SIGURTÀ"
+
+msgid "Géolocalisation"
+msgstr "Ġeolokalizzazzjoni"
+
+msgid "ADMINISTRATION"
+msgstr "AMMINISTRAZZJONI"
+
+msgid "Déconnexion"
+msgstr "Skonnettja"
+
+msgid "Changer de langue"
+msgstr "Ibdel il-lingwa"
+
+msgid "Rechercher une langue..."
+msgstr "Fittex għal lingwa..."
+
+msgid "Profil"
+msgstr "Profil"
+
+msgid "Changer de thème"
+msgstr "Ibdel it-tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Ħarsa ġenerali tas-sigurtà tat-tagħmir tiegħek"
+
+msgid "Ajouter un appareil"
+msgstr "Żid apparat"
+
+msgid "Appareils volés"
+msgstr "Apparat misruq"
+
+msgid "Verrouillés à distance"
+msgstr "Imsakkar mill-bogħod"
+
+msgid "Alertes récentes"
+msgstr "Twissijiet riċenti"
+
+msgid "Voir tout"
+msgstr "Ara kollha"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "L-ebda twissija. It-tagħmir tiegħek huwa sigur!"
+
+msgid "Mes appareils"
+msgstr "Apparat tiegħi"
+
+msgid "Aucun appareil enregistré"
+msgstr "Ebda apparat irreġistrat"
+
+msgid "Ajouter"
+msgstr "Żid"
+
+msgid "en attente"
+msgstr "fuq istiva"
+
+msgid "Gestion des appareils"
+msgstr "Ġestjoni tal-apparat"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Irreġistra u mmaniġġja l-ismartphones tiegħek"
+
+msgid "Opérateur"
+msgstr "Operatur"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Issakkar dan l-apparat mill-bogħod?"
+
+msgid "Verrouiller"
+msgstr "Lock"
+
+msgid "Déverrouiller"
+msgstr "Nisfruttaw"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Tħassar dan l-apparat?"
+
+msgid "Supprimer"
+msgstr "Ħassar"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Żid l-ewwel smartphone tiegħek biex tibda tipproteġih."
+
+msgid "Nouvel appareil"
+msgstr "Apparat ġdid"
+
+msgid "Marque"
+msgstr "Brand"
+
+msgid "Sélectionner"
+msgstr "Agħżel"
+
+msgid "Autre"
+msgstr "Oħrajn"
+
+msgid "Modèle"
+msgstr "Mudell"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "ittajpja *#06# fuq it-telefon tiegħek"
+
+msgid "Système d'exploitation"
+msgstr "Sistema operattiva"
+
+msgid "Numéro de téléphone"
+msgstr "Numru tat-telefon"
+
+msgid "Enregistrer"
+msgstr "Ħlief"
+
+msgid "Connexion"
+msgstr "Konnessjoni"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistema ta 'sigurtà ta' smartphone"
+
+msgid "Adresse email"
+msgstr "Indirizz elettroniku"
+
+msgid "Mot de passe"
+msgstr "Password"
+
+msgid "Se connecter"
+msgstr "Idħol"
+
+msgid "Mot de passe oublié ?"
+msgstr "Insejt il-password?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Diġà għandek kont? Inkella, ipproċedi għall-ħolqien tal-kont tiegħek!"
+
+msgid "Créer un compte"
+msgstr "Oħloq kont"
+
+msgid "Sécurité maximale"
+msgstr "Sigurtà massima"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Ipproteġi d-dejta personali tiegħek b'illokkjar mill-bogħod"
+
+msgid "Localisation GPS"
+msgstr "Post tal-GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Sib il-post eżatt tal-ismartphone tiegħek f'ħin reali"
+
+msgid "Alertes instantanées"
+msgstr "Twissijiet istantanji"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Irċievi SMS, email u notifiki push f'każ ta' serq"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Sib it-tagħmir tiegħek u Ħares iż-żoni ta' riskju"
+
+msgid "Aucun appareil"
+msgstr "L-ebda apparat"
+
+msgid "Zones à risque"
+msgstr "Żoni ta' riskju"
+
+msgid "incidents"
+msgstr "inċidenti"
+
+msgid "Aucune zone signalée"
+msgstr "Ebda żoni rrappurtati"
+
+msgid "Niveau"
+msgstr "Livell"
+
+msgid "Incidents"
+msgstr "Inċidenti"
+
+msgid "Profile utilisateur"
+msgstr "Profil tal-utent"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Immaniġġja l-informazzjoni personali tiegħek"
+
+msgid "Membre depuis"
+msgstr "Membru peress"
+
+msgid "Modifier mes informations"
+msgstr "Editja l-informazzjoni tiegħi"
+
+msgid "Prénom"
+msgstr "L-isem"
+
+msgid "Nom"
+msgstr "Isem"
+
+msgid "Changer le mot de passe"
+msgstr "Ibdel il-password"
+
+msgid "Nouveau mot de passe"
+msgstr "Password Ġdida"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "ħalli vojt biex ma jinbidilx"
+
+msgid "Enregistrer les modifications"
+msgstr "Issejvja l-bidliet"
+
+msgid "Inscription"
+msgstr "Reġistrazzjoni"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Merħba għal Anti-Theft għal sigurtà aħjar tat-tagħmir tiegħek"
+
+msgid "Confirmer"
+msgstr "Ikkonferma"
+
+msgid "Créer mon compte"
+msgstr "Oħloq il-kont tiegħi"
+
+msgid "Déjà un compte ?"
+msgstr "Diġà għandek kont?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Irrisettja l-Password"
+
+msgid "Réinitialisation"
+msgstr "Irrisettja"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Daħħal l-email u n-numru tat-telefon tiegħek biex tivverifika l-identità "
+"tiegħek"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "In-numru użat waqt ir-reġistrazzjoni"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimu 6 karattri"
+
+msgid "Confirmer le mot de passe"
+msgstr "Ikkonferma l-password"
+
+msgid "Retourner à la"
+msgstr "Ritorn lejn"
+
+msgid "page de connexion"
+msgstr "paġna tal-login"
+
+msgid "Vérification sécurisée"
+msgstr "Verifika sigura"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"L-identità tiegħek tiġi vverifikata bl-użu tal-email u n-numru tat-"
+"telefon tiegħek"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Agħżel password sigura ta' mill-inqas 6 karattri"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: L-editjar falla"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editur}: L-editjar falla: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Żball tal-Windows: {żball}"
+
+msgid "deprecated"
+msgstr "deprecated"
+
+msgid "Options"
+msgstr "Għażliet"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Għandi argument żejjed mhux mistenni ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarn: Il-kmand {name!r} huwa deprecato.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Abortat!"
+
+msgid "Commands"
+msgstr "Kmandi"
+
+msgid "Missing command."
+msgstr "Kmand nieqes."
+
+msgid "Value must be an iterable."
+msgstr "Il-valur għandu jkun iterable."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Jieħu valuri {nargs} iżda ingħata 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarn: Il-{param_type} {name!r} huwa deprecated.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Isem '{isem}' definit darbtejn"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"L-għażla booleana {decl!r} ma tistax tuża l-istess bandiera għal "
+"vera/falza."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Ma setax jiddetermina l-isem għall-għażla bid-dikjarazzjonijiet {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"L-ebda għażla mfissra iżda ġie mgħoddi isem ({name}). Ridt tiddikjara "
+"argument minflok? Ridt ried tgħaddi '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default}"
+
+msgid "required"
+msgstr "meħtieġa"
+
+msgid "(dynamic)"
+msgstr "(dinamika)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"L-argumenti jieħdu eżattament dikjarazzjoni ta' parametru wieħed, ltqajna"
+" {tul}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Trid tkompli?"
+
+msgid "Confirm the action without prompting."
+msgstr "Ikkonferma l-azzjoni mingħajr ma tħeġġeġ."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, verżjoni %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Uri l-verżjoni u l-ħruġ."
+
+msgid "Show this message and exit."
+msgstr "Uri dan il-messaġġ u oħroġ."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Ridt tfisser {possibility}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Żball: {messaġġ}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Ipprova '{kmand} {għażla}' għall-għajnuna."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Valur mhux validu: {messaġġ}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Valur mhux validu għal {param_hint}: {messaġġ}"
+
+msgid "Missing argument"
+msgstr "Argument nieqes"
+
+msgid "Missing option"
+msgstr "Għażla nieqsa"
+
+msgid "Missing parameter"
+msgstr "Parametru nieqes"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Nieqes {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parametru nieqes: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "L-ebda għażla bħal din {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "L-ebda kmand bħal dan {isem!r}."
+
+msgid "unknown error"
+msgstr "żball mhux magħruf"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Ma setax jiftaħ il-fajl {filename!r}: {messaġġ}"
+
+msgid "Usage:"
+msgstr "Użu:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Karattru tal-bidu mhux validu għall-għażla ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "L-argument {name!r} jieħu valuri {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "L-għażla {name!r} ma tieħux valur."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "L-għażla {name!r} teħtieġ argument."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"It-tlestija tal-shell mhix appoġġata għal verżjonijiet ta' Bash eqdem "
+"minn 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Ma setgħetx tiskopri l-verżjoni Bash, it-tlestija tal-qoxra mhix "
+"appoġġjata."
+
+msgid "Repeat for confirmation"
+msgstr "Irrepeti għall-konferma"
+
+msgid "Error: The two entered values do not match."
+msgstr "Żball: Iż-żewġ valuri mdaħħla ma jaqblux."
+
+msgid "Error: invalid input"
+msgstr "Żball: input mhux validu"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Kulur mhux magħruf {kulur!r}"
+
+msgid "Press any key to continue..."
+msgstr "Agħfas kwalunkwe ċavetta biex tkompli..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Agħżel minn:\\n\\t{għażliet}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} mhix {għażla}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Għażla({għażliet})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ma jaqbilx mal-format {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} mhuwiex {number_type} validu."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{valur} mhuwiex fil-medda {firxa}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} mhuwiex boolean validu. Valuri rikonoxxuti: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} mhuwiex UUID validu."
+
+msgid "file"
+msgstr "fajl"
+
+msgid "directory"
+msgstr "direttorju"
+
+msgid "path"
+msgstr "mogħdija"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} ma jeżistix."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} huwa fajl."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} huwa direttorju."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} ma jinqarax."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} ma jistax jinkiteb."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} mhux eżekutibbli."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Il-valuri {len_type} huma meħtieġa, iżda {len_value} ingħatat."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Fluss standard mhux magħruf '{name}'"
+
+msgid "This field is required."
+msgstr "Dan il-qasam huwa meħtieġ."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Il-fajl m'għandux estensjoni approvata: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Il-fajl m'għandux estensjoni approvata."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Il-fajl irid ikun bejn {min_size} u {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Isem tal-qasam invalidu '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Il-qasam irid ikun ugwali għal %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Il-qasam għandu jkun twil mill-inqas %(min)d karattru."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Il-qasam ma jistax ikun itwal minn %(max)d karattru."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Il-qasam għandu jkun twil eżattament %(max)d karattru."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Il-qasam irid ikun twil bejn %(min)d u %(max)d karattri."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "In-numru għandu jkun mill-inqas %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "In-numru għandu jkun l-aktar %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "In-numru għandu jkun bejn %(min)s u %(max)s."
+
+msgid "Invalid input."
+msgstr "Input mhux validu."
+
+msgid "Invalid email address."
+msgstr "Indirizz elettroniku mhux validu."
+
+msgid "Invalid IP address."
+msgstr "Indirizz IP invalidu."
+
+msgid "Invalid Mac address."
+msgstr "Indirizz Mac invalidu."
+
+msgid "Invalid URL."
+msgstr "URL invalidu."
+
+msgid "Invalid UUID."
+msgstr "UUID invalidu."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Valur mhux validu, irid ikun wieħed minn: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Valur mhux validu, ma jistax ikun xi wieħed minn: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Dan il-qasam ma jistax jiġi editjat."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Dan il-qasam huwa diżattivat u ma jistax ikollu valur."
+
+msgid "Invalid CSRF Token."
+msgstr "Token CSRF invalidu."
+
+msgid "CSRF token missing."
+msgstr "Token CSRF nieqes."
+
+msgid "CSRF failed."
+msgstr "CSRF falla."
+
+msgid "CSRF token expired."
+msgstr "It-token CSRF skada."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Għażla Invalida: ma setgħetx tiġġiegħel."
+
+msgid "Choices cannot be None."
+msgstr "Għażliet ma jistgħux ikunu Xejn."
+
+msgid "Not a valid choice."
+msgstr "Mhux għażla valida."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Għażla(jiet) invalida(i): input tad-dejta wieħed jew aktar ma setgħux "
+"jiġu sfurzati."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' mhix għażla valida għal dan il-qasam."
+
+msgid "Not a valid datetime value."
+msgstr "Mhux valur validu ta' data-ħin."
+
+msgid "Not a valid date value."
+msgstr "Mhux valur ta' data valida."
+
+msgid "Not a valid time value."
+msgstr "Mhux valur tal-ħin validu."
+
+msgid "Not a valid week value."
+msgstr "Mhux valur validu tal-ġimgħa."
+
+msgid "Not a valid integer value."
+msgstr "Mhux valur sħiħ validu."
+
+msgid "Not a valid decimal value."
+msgstr "Mhux valur deċimali validu."
+
+msgid "Not a valid float value."
+msgstr "Mhux valur float validu."
+

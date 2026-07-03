@@ -1,0 +1,1037 @@
+# Translations for SI.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: si\n"
+"Language-Team: si <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "මෙම පිටුවට ප්‍රවේශ වීමට කරුණාකර පුරනය වන්න."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "මෙම IMEI දැනටමත් පද්ධතියේ ලියාපදිංචි වී ඇත."
+
+msgid "Accès non autorisé."
+msgstr "අනවසර පිවිසුම."
+
+msgid "Appareil déverrouillé."
+msgstr "උපාංගය අගුලු හරින ලදී."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "ඇඟවීමක් සාදන ලදී! දැනුම්දීම් යවා ඇත."
+
+msgid "Alerte résolue."
+msgstr "අනතුරු ඇඟවීම විසඳා ඇත."
+
+msgid "Pas encore de compte ?"
+msgstr "තවම ගිණුමක් නැද්ද?"
+
+msgid "Mon Profil"
+msgstr "මගේ පැතිකඩ"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "සම්බන්ධතාවය සාර්ථකයි! සාදරයෙන් පිළිගනිමු."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "වැරදි ඊමේල් හෝ මුරපදය."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "අවශ්‍ය සියලුම ක්ෂේත්‍ර සම්පූර්ණ කළ යුතුය."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "මුරපද නොගැලපේ."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "මුරපදයේ අවම වශයෙන් අක්ෂර 6ක්වත් අඩංගු විය යුතුය."
+
+msgid "Cet email est déjà utilisé."
+msgstr "මෙම විද්‍යුත් තැපෑල දැනටමත් භාවිතයේ පවතී."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "ගිණුම සාර්ථකව සාදන ලදී! ඇතුල් වන්න."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "මෙම විද්‍යුත් තැපෑල සමඟ ගිණුම් කිසිවක් හමු නොවීය."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "දුරකථන අංකය ගිණුම් අංකයට නොගැළපේ."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "නව මුරපදය අනිවාර්ය වේ."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "මුරපදය යළි පිහිටුවීම සාර්ථකයි! ඇතුල් වන්න."
+
+msgid "Vous avez été déconnecté."
+msgstr "ඔබ විසන්ධි වී ඇත."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "වෙළඳ නාමය, ආකෘතිය සහ IMEI අවශ්ය වේ."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "මෙම IMEI සහිත උපාංගයක් දැනටමත් පවතී."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "උපාංගය සාර්ථකව ලියාපදිංචි විය!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "මෙම ක්‍රියාව සිදු කිරීමට ඔබට අවසර නැත."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "උපාංගය දුරස්ථව සාර්ථකව අගුලු දමා ඇත."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "උපාංගය සාර්ථකව අගුලු හරින ලදී."
+
+msgid "Appareil supprimé."
+msgstr "උපාංගය මකා දමන ලදී."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "කරුණාකර උපාංගයක් සහ ඇඟවීම් වර්ගයක් තෝරන්න."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "මෙම උපාංගය ඔබට අයත් නොවේ."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "ඇඟවීම සාර්ථකව වාර්තා විය. උපාංගය සුරක්ෂිත කර ඇත."
+
+msgid "Alerte marquée comme résolue."
+msgstr "ඇඟවීම විසඳන ලද ලෙස සලකුණු කරන ලදී."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "මුල් නම, අවසාන නම සහ ඊමේල් අවශ්ය වේ."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "මෙම විද්‍යුත් තැපෑල දැනටමත් වෙනත් ගිණුමකින් භාවිත කර ඇත."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "පැතිකඩ සාර්ථකව යාවත්කාලීන කරන ලදී!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "ප්‍රවේශය පරිපාලකයින් සඳහා වෙන් කර ඇත."
+
+msgid "Erreur marquée comme résolue."
+msgstr "දෝෂය විසඳන ලද ලෙස සලකුණු කරන ලදී."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "ඔබට ඔබේම ගිණුම මකා දැමිය නොහැක."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "පරිශීලකයා සාර්ථකව මකා ඇත."
+
+msgid "Administration"
+msgstr "පරිපාලනය"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "සොරකම්-විරෝධී පද්ධතියේ මධ්යගත කළමනාකරණය"
+
+msgid "Utilisateurs"
+msgstr "පරිශීලකයන්"
+
+msgid "Actifs aujourd'hui"
+msgstr "අද ක්‍රියාත්මකයි"
+
+msgid "Nouveaux ce mois"
+msgstr "මේ මාසේ අලුත්"
+
+msgid "Appareils"
+msgstr "උපාංග"
+
+msgid "Alertes actives"
+msgstr "ක්රියාකාරී ඇඟවීම්"
+
+msgid "Analytique"
+msgstr "විශ්ලේෂණාත්මක"
+
+msgid "Journal d'activité"
+msgstr "ක්‍රියාකාරකම් ලොගය"
+
+msgid "Erreurs"
+msgstr "දෝෂ"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "සම්බන්ධතා (පසුගිය දින 7)"
+
+msgid "Alertes par type"
+msgstr "වර්ගය අනුව ඇඟවීම්"
+
+msgid "Appareils par opérateur"
+msgstr "ක්රියාකරු විසින් උපාංග"
+
+msgid "Résumé du système"
+msgstr "පද්ධති සාරාංශය"
+
+msgid "Utilisateurs total"
+msgstr "මුළු පරිශීලකයන්"
+
+msgid "Appareils enregistrés"
+msgstr "ලියාපදිංචි උපාංග"
+
+msgid "Total alertes"
+msgstr "සම්පූර්ණ ඇඟවීම්"
+
+msgid "Alertes en cours"
+msgstr "වත්මන් ඇඟවීම්"
+
+msgid "Erreurs non résolues"
+msgstr "නොවිසඳුණු දෝෂ"
+
+msgid "Dernières activités"
+msgstr "නවතම ක්රියාකාරකම්"
+
+msgid "récentes"
+msgstr "මෑත"
+
+msgid "Utilisateur"
+msgstr "පරිශීලක"
+
+msgid "Action"
+msgstr "ක්‍රියාව"
+
+msgid "Détails"
+msgstr "විස්තර"
+
+msgid "Adresse IP"
+msgstr "IP ලිපිනය"
+
+msgid "Navigateur"
+msgstr "බ්රවුසරය"
+
+msgid "Date"
+msgstr "දිනය"
+
+msgid "Aucune activité"
+msgstr "ක්‍රියාකාරකමක් නැත"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "පරිශීලක ක්‍රියාකාරකම් මෙහි දිස්වනු ඇත."
+
+msgid "Journal d'erreurs"
+msgstr "දෝෂ ලොගය"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "සියලු දෝෂ නිවැරදි කරන්නද?"
+
+msgid "Tout résoudre"
+msgstr "සියල්ල විසඳන්න"
+
+msgid "non résolues"
+msgstr "නොවිසඳුනු"
+
+msgid "Tout est résolu"
+msgstr "සියල්ල විසඳී ඇත"
+
+msgid "Type"
+msgstr "කාරුණික"
+
+msgid "Description"
+msgstr "විස්තරය"
+
+msgid "Statut"
+msgstr "තත්ත්වය"
+
+msgid "Résolu"
+msgstr "විසඳා ඇත"
+
+msgid "Non résolu"
+msgstr "නොවිසඳී ඇත"
+
+msgid "Aucune erreur enregistrée"
+msgstr "කිසිදු දෝෂයක් වාර්තා කර නොමැත"
+
+msgid "Le système fonctionne correctement."
+msgstr "පද්ධතිය නිවැරදිව ක්රියා කරයි."
+
+msgid "Gestion des utilisateurs"
+msgstr "පරිශීලක කළමනාකරණය"
+
+msgid "comptes"
+msgstr "ගිණුම්"
+
+msgid "Email"
+msgstr "ඊමේල්"
+
+msgid "Téléphone"
+msgstr "දුරකථනය"
+
+msgid "Rôle"
+msgstr "භූමිකාව"
+
+msgid "Inscrit le"
+msgstr "මත ලියාපදිංචි වී ඇත"
+
+msgid "Actions"
+msgstr "ක්රියාවන්"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "මෙම පරිශීලකයා සහ ඔවුන්ගේ සියලු උපාංග මකන්නද?"
+
+msgid "Vous"
+msgstr "ඔබ"
+
+msgid "Connexions"
+msgstr "සම්බන්ධතා"
+
+msgid "Vol"
+msgstr "පියාසර කිරීම"
+
+msgid "Perte"
+msgstr "පාඩුයි"
+
+msgid "Anomalie"
+msgstr "විෂමතාව"
+
+msgid "Alertes"
+msgstr "ඇඟවීම්"
+
+msgid "Gestion des alertes"
+msgstr "අනතුරු ඇඟවීමේ කළමනාකරණය"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "සොරකම හෝ අලාභය වාර්තා කිරීම සහ ඉතිහාසය සොයා ගැනීම"
+
+msgid "Signaler un vol / perte"
+msgstr "සොරකම් / පාඩු වාර්තා කරන්න"
+
+msgid "En cours"
+msgstr "ප්රගතියේ"
+
+msgid "Résolues"
+msgstr "විසඳා ඇත"
+
+msgid "Historique des alertes"
+msgstr "ඇඟවීම් ඉතිහාසය"
+
+msgid "Appareil"
+msgstr "උපාංගය"
+
+msgid "Priorité"
+msgstr "ප්රමුඛත්වය"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "මෙම ඇඟවීම විසඳා ඇති බවට ලකුණු කරන්නද?"
+
+msgid "Résoudre"
+msgstr "විසඳන්න"
+
+msgid "Aucune alerte"
+msgstr "අනතුරු ඇඟවීමක් නැත"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "හොඳ ආරංචියක්! ඇඟවීම් කිසිවක් වාර්තා වී නොමැත."
+
+msgid "Signaler un vol ou une perte"
+msgstr "සොරකම හෝ පාඩුව වාර්තා කරන්න"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"සොරකමක් වාර්තා කිරීමෙන්, ඔබගේ උපාංගය ස්වයංක්‍රීයව අගුලු දමා දැනුම්දීම් "
+"යවනු ලැබේ."
+
+msgid "Appareil concerné"
+msgstr "බලපෑමට ලක් වූ උපාංගය"
+
+msgid "Sélectionner un appareil"
+msgstr "උපාංගයක් තෝරන්න"
+
+msgid "Type d'alerte"
+msgstr "අනතුරු ඇඟවීමේ වර්ගය"
+
+msgid "Décrivez les circonstances..."
+msgstr "තත්වයන් විස්තර කරන්න..."
+
+msgid "Annuler"
+msgstr "අවලංගු කරන්න"
+
+msgid "Signaler"
+msgstr "වාර්තා කරන්න"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "බුද්ධිමත් සොරකම්-විරෝධී පද්ධතිය - ස්මාර්ට්ෆෝන් සඳහා ආරක්ෂක වේදිකාව"
+
+msgid "Système Anti-Vol"
+msgstr "සොරකම් විරෝධී පද්ධතිය"
+
+msgid "PRINCIPAL"
+msgstr "ප්රධාන"
+
+msgid "Tableau de bord"
+msgstr "උපකරණ පුවරුව"
+
+msgid "SÉCURITÉ"
+msgstr "ආරක්ෂාව"
+
+msgid "Géolocalisation"
+msgstr "භූ පිහිටීම"
+
+msgid "ADMINISTRATION"
+msgstr "පරිපාලනය"
+
+msgid "Déconnexion"
+msgstr "විසන්ධි කරන්න"
+
+msgid "Changer de langue"
+msgstr "භාෂාව වෙනස් කරන්න"
+
+msgid "Rechercher une langue..."
+msgstr "භාෂාවක් සොයන්න..."
+
+msgid "Profil"
+msgstr "පැතිකඩ"
+
+msgid "Changer de thème"
+msgstr "තේමාව වෙනස් කරන්න"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "ඔබගේ උපාංගයේ ආරක්ෂාව පිළිබඳ දළ විශ්ලේෂණය"
+
+msgid "Ajouter un appareil"
+msgstr "උපාංගයක් එක් කරන්න"
+
+msgid "Appareils volés"
+msgstr "සොරකම් කරන ලද උපාංග"
+
+msgid "Verrouillés à distance"
+msgstr "දුරස්ථව අගුලු දමා ඇත"
+
+msgid "Alertes récentes"
+msgstr "මෑත ඇඟවීම්"
+
+msgid "Voir tout"
+msgstr "සියල්ල බලන්න"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "අනතුරු ඇඟවීමක් නැත. ඔබගේ උපාංග ආරක්ෂිතයි!"
+
+msgid "Mes appareils"
+msgstr "මගේ උපාංග"
+
+msgid "Aucun appareil enregistré"
+msgstr "උපාංග ලියාපදිංචි කර නැත"
+
+msgid "Ajouter"
+msgstr "එකතු කරන්න"
+
+msgid "en attente"
+msgstr "රඳවා ගත්"
+
+msgid "Gestion des appareils"
+msgstr "උපාංග කළමනාකරණය"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "ඔබගේ ස්මාර්ට්ෆෝන් ලියාපදිංචි කර කළමනාකරණය කරන්න"
+
+msgid "Opérateur"
+msgstr "ක්රියාකරු"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "මෙම උපාංගය දුරස්ථව අගුලු දමන්නද?"
+
+msgid "Verrouiller"
+msgstr "අගුළු දමන්න"
+
+msgid "Déverrouiller"
+msgstr "අගුළු හරින්න"
+
+msgid "Supprimer cet appareil ?"
+msgstr "මෙම උපාංගය මකන්නද?"
+
+msgid "Supprimer"
+msgstr "මකන්න"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "එය ආරක්ෂා කිරීම ආරම්භ කිරීමට ඔබගේ පළමු ස්මාර්ට් ජංගම දුරකථනය එක් කරන්න."
+
+msgid "Nouvel appareil"
+msgstr "නව උපාංගය"
+
+msgid "Marque"
+msgstr "වෙළඳ නාමය"
+
+msgid "Sélectionner"
+msgstr "තෝරන්න"
+
+msgid "Autre"
+msgstr "වෙනත්"
+
+msgid "Modèle"
+msgstr "ආකෘතිය"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "ඔබගේ දුරකථනයේ *#06# ටයිප් කරන්න"
+
+msgid "Système d'exploitation"
+msgstr "මෙහෙයුම් පද්ධතිය"
+
+msgid "Numéro de téléphone"
+msgstr "දුරකථන අංකය"
+
+msgid "Enregistrer"
+msgstr "සුරකින්න"
+
+msgid "Connexion"
+msgstr "සම්බන්ධතාවය"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "ස්මාර්ට්ෆෝන් ආරක්ෂණ පද්ධතිය"
+
+msgid "Adresse email"
+msgstr "ඊතැපැල් ලිපිනය"
+
+msgid "Mot de passe"
+msgstr "මුරපදය"
+
+msgid "Se connecter"
+msgstr "ඇතුල් වන්න"
+
+msgid "Mot de passe oublié ?"
+msgstr "මුරපදය අමතකද?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "ඔබට දැනටමත් ගිණුමක් තිබේද? එසේ නොමැතිනම්, ඔබගේ ගිණුම සෑදීමට ඉදිරියට යන්න!"
+
+msgid "Créer un compte"
+msgstr "ගිණුමක් තනන්න"
+
+msgid "Sécurité maximale"
+msgstr "උපරිම ආරක්ෂාව"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "දුරස්ථ අගුලු දැමීමකින් ඔබගේ පුද්ගලික දත්ත ආරක්ෂා කරන්න"
+
+msgid "Localisation GPS"
+msgstr "GPS ස්ථානය"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "ඔබගේ ස්මාර්ට් ජංගම දුරකතනයේ නිවැරදි ස්ථානය තථ්‍ය කාලීනව සොයා ගන්න"
+
+msgid "Alertes instantanées"
+msgstr "ක්ෂණික ඇඟවීම්"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "සොරකමකදී SMS, ඊමේල් සහ තල්ලු දැනුම්දීම් ලබා ගන්න"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "ඔබගේ උපාංග ස්ථානගත කර අවදානම් ප්‍රදේශ දෘශ්‍යමාන කරන්න"
+
+msgid "Aucun appareil"
+msgstr "උපාංගයක් නැත"
+
+msgid "Zones à risque"
+msgstr "අවදානම් කලාප"
+
+msgid "incidents"
+msgstr "සිදුවීම්"
+
+msgid "Aucune zone signalée"
+msgstr "ප්‍රදේශ කිසිවක් වාර්තා වී නැත"
+
+msgid "Niveau"
+msgstr "මට්ටම"
+
+msgid "Incidents"
+msgstr "සිදුවීම්"
+
+msgid "Profile utilisateur"
+msgstr "පරිශීලක පැතිකඩ"
+
+msgid "Gérez vos informations personnelles"
+msgstr "ඔබගේ පුද්ගලික තොරතුරු කළමනාකරණය කරන්න"
+
+msgid "Membre depuis"
+msgstr "සිට සාමාජික"
+
+msgid "Modifier mes informations"
+msgstr "මගේ තොරතුරු සංස්කරණය කරන්න"
+
+msgid "Prénom"
+msgstr "මුල් නම"
+
+msgid "Nom"
+msgstr "නම"
+
+msgid "Changer le mot de passe"
+msgstr "මුරපදය වෙනස් කරන්න"
+
+msgid "Nouveau mot de passe"
+msgstr "නව මුරපදය"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "වෙනස් නොවන පරිදි හිස්ව තබන්න"
+
+msgid "Enregistrer les modifications"
+msgstr "වෙනස්කම් සුරකින්න"
+
+msgid "Inscription"
+msgstr "ලියාපදිංචිය"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "ඔබගේ උපාංගවල වඩා හොඳ ආරක්ෂාව සඳහා සොරකම්-විරෝධී වෙත සාදරයෙන් පිළිගනිමු"
+
+msgid "Confirmer"
+msgstr "තහවුරු කරන්න"
+
+msgid "Créer mon compte"
+msgstr "මගේ ගිණුම සාදන්න"
+
+msgid "Déjà un compte ?"
+msgstr "දැනටමත් ගිණුමක් තිබේද?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "මුරපදය යළි පිහිටුවන්න"
+
+msgid "Réinitialisation"
+msgstr "යළි පිහිටුවන්න"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"ඔබගේ අනන්‍යතාවය තහවුරු කිරීමට ඔබගේ විද්‍යුත් තැපෑල සහ දුරකථන අංකය ඇතුලත් "
+"කරන්න"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "ලියාපදිංචි කිරීමේදී භාවිතා කළ අංකය"
+
+msgid "Minimum 6 caractères"
+msgstr "අවම වශයෙන් අක්ෂර 6 ක්"
+
+msgid "Confirmer le mot de passe"
+msgstr "මුරපදය තහවුරු කරන්න"
+
+msgid "Retourner à la"
+msgstr "වෙත ආපසු යන්න"
+
+msgid "page de connexion"
+msgstr "පිවිසුම් පිටුව"
+
+msgid "Vérification sécurisée"
+msgstr "ආරක්ෂිත සත්යාපනය"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "ඔබගේ ඊමේල් සහ දුරකථන අංකය භාවිතයෙන් ඔබගේ අනන්‍යතාවය තහවුරු කර ඇත"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "අවම වශයෙන් අක්ෂර 6 ක ආරක්ෂිත මුරපදයක් තෝරන්න"
+
+msgid "d"
+msgstr "ඈ"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: සංස්කරණය අසාර්ථක විය"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: සංස්කරණය අසාර්ථක විය: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "වින්ඩෝස් දෝෂය: {error}"
+
+msgid "deprecated"
+msgstr "අත්හරින ලදී"
+
+msgid "Options"
+msgstr "විකල්ප"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "අනපේක්ෂිත අමතර තර්කයක් ලැබුණි ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: {name!r} විධානය අත්හරින ලදී.{extra_message}"
+
+msgid "Aborted!"
+msgstr "ගබ්සා කළා!"
+
+msgid "Commands"
+msgstr "විධාන"
+
+msgid "Missing command."
+msgstr "විධානය මග හැරී ඇත."
+
+msgid "Value must be an iterable."
+msgstr "අගය පුනරාවර්තනය විය යුතුය."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} අගයන් ගන්නා නමුත් 1 ලබා දී ඇත."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: {param_type} {name!r} අත්හරින ලදී.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "නම '{name}' දෙවරක් අර්ථ දක්වා ඇත"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Boolean විකල්පය {decl!r} සත්‍ය/අසත්‍යය සඳහා එකම ධජය භාවිතා කළ නොහැක."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "{decls!r} ප්‍රකාශ සහිත විකල්පය සඳහා නම තීරණය කළ නොහැක"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"විකල්ප නිර්වචනය කර නැති නමුත් නමක් සමත් විය ({name}). ඒ වෙනුවට තර්කයක් "
+"ප්‍රකාශ කරන්නද ඔබ අදහස් කළේ? ඔබ අදහස් කළේ '--{name}' සමත් වීමටද?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "පෙරනිමි: {default}"
+
+msgid "required"
+msgstr "අවශ්යයි"
+
+msgid "(dynamic)"
+msgstr "(ගතික)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "තර්කයන් හරියටම එක් පරාමිති ප්‍රකාශයක් ගනී, {දිග}: {decs} ඇත."
+
+msgid "Do you want to continue?"
+msgstr "ඔබට දිගටම කරගෙන යාමට අවශ්‍යද?"
+
+msgid "Confirm the action without prompting."
+msgstr "විමසීමකින් තොරව ක්‍රියාව තහවුරු කරන්න."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, අනුවාදය %(version)s"
+
+msgid "Show the version and exit."
+msgstr "අනුවාදය පෙන්වන්න සහ පිටවන්න."
+
+msgid "Show this message and exit."
+msgstr "මෙම පණිවිඩය පෙන්වා පිටවන්න."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "ඔබ අදහස් කළේ {posibility} ද?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "දෝෂය: {පණිවිඩය}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "උදවු සඳහා '{command} {option}' උත්සාහ කරන්න."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "වලංගු නොවන අගය: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint} සඳහා වලංගු නොවන අගය: {message}"
+
+msgid "Missing argument"
+msgstr "නැතිවූ තර්කය"
+
+msgid "Missing option"
+msgstr "විකල්පය අතුරුදහන්"
+
+msgid "Missing parameter"
+msgstr "පරාමිතිය අතුරුදහන්"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "අස්ථානගත {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "නැතිවූ පරාමිතිය: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "එවැනි විකල්පයක් නැත {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "එවැනි විධානයක් නැත {name!r}."
+
+msgid "unknown error"
+msgstr "නොදන්නා දෝෂයක්"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "{filename!r} ගොනුව විවෘත කිරීමට නොහැකි විය: {message}"
+
+msgid "Usage:"
+msgstr "භාවිතා කරන්න:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "විකල්පය සඳහා වලංගු නොවන ආරම්භක අක්ෂරය ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "තර්කය {name!r} {nargs} අගයන් ගනී."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "{name!r} විකල්පය අගයක් නොගනී."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "{name!r} විකල්පයට තර්කයක් අවශ්‍ය වේ."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "4.4 ට වඩා පැරණි Bash අනුවාද සඳහා Shell සම්පූර්ණ කිරීම සඳහා සහය නොදක්වයි."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Bash අනුවාදය හඳුනා ගැනීමට නොහැකි විය, කවචය සම්පූර්ණ කිරීම සඳහා සහය "
+"නොදක්වයි."
+
+msgid "Repeat for confirmation"
+msgstr "තහවුරු කිරීම සඳහා නැවත නැවත කරන්න"
+
+msgid "Error: The two entered values do not match."
+msgstr "දෝෂය: ඇතුළත් කළ අගයන් දෙක නොගැලපේ."
+
+msgid "Error: invalid input"
+msgstr "දෝෂය: වලංගු නොවන ආදානය"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "නොදන්නා වර්ණය {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "ඉදිරියට යාමට ඕනෑම යතුරක් ඔබන්න..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "මේවායින් තෝරන්න:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} {choice} නොවේ."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "තේරීම ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} {format} ආකෘතියට නොගැලපේ."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} වලංගු {number_type} නොවේ."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} {range} පරාසයේ නැත."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} වලංගු boolean එකක් නොවේ. පිළිගත් අගයන්: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} වලංගු UUID නොවේ."
+
+msgid "file"
+msgstr "ගොනුව"
+
+msgid "directory"
+msgstr "නාමාවලිය"
+
+msgid "path"
+msgstr "මාර්ගය"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} නොපවතී."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} යනු ගොනුවකි."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} යනු නාමාවලියකි."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} කියවිය නොහැක."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} ලිවිය නොහැක."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} ක්‍රියාත්මක කළ නොහැක."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} අගයන් අවශ්‍යයි, නමුත් {len_value} ලබා දී ඇත."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "නොදන්නා සම්මත ප්‍රවාහය '{name}'"
+
+msgid "This field is required."
+msgstr "මෙම ක්ෂේත්රය අවශ්යයි."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "ගොනුවට අනුමත දිගුවක් නොමැත: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "ගොනුවට අනුමත දිගුවක් නොමැත."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "ගොනුව බයිට් {min_size} සහ {max_size} අතර විය යුතුය."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "වලංගු නොවන ක්ෂේත්‍ර නාමය '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "ක්ෂේත්‍රය %(other_name)s ට සමාන විය යුතුය."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "ක්ෂේත්‍රය අවම වශයෙන් අක්ෂර %(min)d දිග විය යුතුය."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "ක්ෂේත්‍රය අනුලකුණු %(max)d ට වඩා දිගු විය නොහැක."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "ක්ෂේත්‍රය හරියටම අක්ෂර %(උපරිම)d දිග විය යුතුය."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "ක්ෂේත්‍රය අක්ෂර %(min)d සහ %(max)d අතර දිග විය යුතුය."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "අංකය අවම වශයෙන් %(min)s විය යුතුය."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "අංකය උපරිම වශයෙන් %(උපරිම)s විය යුතුය."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "අංකය %(min)s සහ %(max)s අතර විය යුතුය."
+
+msgid "Invalid input."
+msgstr "වලංගු නොවන ආදානය."
+
+msgid "Invalid email address."
+msgstr "වලංගු නොවන ඊමේල් ලිපිනයකි."
+
+msgid "Invalid IP address."
+msgstr "වලංගු නොවන IP ලිපිනයක්."
+
+msgid "Invalid Mac address."
+msgstr "වලංගු නොවන Mac ලිපිනය."
+
+msgid "Invalid URL."
+msgstr "වලංගු නොවන URL."
+
+msgid "Invalid UUID."
+msgstr "අවලංගු UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "වලංගු නොවන අගය, මේවායින් එකක් විය යුතුය: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "වලංගු නොවන අගයක්, මේවායින් කිසිවක් විය නොහැක: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "මෙම ක්ෂේත්‍රය සංස්කරණය කළ නොහැක."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "මෙම ක්ෂේත්‍රය අබල කර ඇති අතර අගයක් තිබිය නොහැක."
+
+msgid "Invalid CSRF Token."
+msgstr "වලංගු නොවන CSRF ටෝකනය."
+
+msgid "CSRF token missing."
+msgstr "CSRF ටෝකනය අතුරුදහන්."
+
+msgid "CSRF failed."
+msgstr "CSRF අසාර්ථකයි."
+
+msgid "CSRF token expired."
+msgstr "CSRF ටෝකනය කල් ඉකුත් විය."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "වලංගු නොවන තේරීම: බල කිරීමට නොහැකි විය."
+
+msgid "Choices cannot be None."
+msgstr "තේරීම් කිසිවක් විය නොහැක."
+
+msgid "Not a valid choice."
+msgstr "වලංගු තේරීමක් නොවේ."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"වලංගු නොවන තේරීම(ය): දත්ත ආදාන එකක් හෝ වැඩි ගණනක් බලහත්කාරයෙන් කළ නොහැකි "
+"විය."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(අගය)s' මෙම ක්ෂේත්‍රය සඳහා වලංගු තේරීමක් නොවේ."
+
+msgid "Not a valid datetime value."
+msgstr "වලංගු දින කාල අගයක් නොවේ."
+
+msgid "Not a valid date value."
+msgstr "වලංගු දින අගයක් නොවේ."
+
+msgid "Not a valid time value."
+msgstr "වලංගු කාල අගයක් නොවේ."
+
+msgid "Not a valid week value."
+msgstr "වලංගු සති අගයක් නොවේ."
+
+msgid "Not a valid integer value."
+msgstr "වලංගු පූර්ණ සංඛ්‍යා අගයක් නොවේ."
+
+msgid "Not a valid decimal value."
+msgstr "වලංගු දශම අගයක් නොවේ."
+
+msgid "Not a valid float value."
+msgstr "වලංගු float අගයක් නොවේ."
+

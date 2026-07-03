@@ -1,0 +1,435 @@
+{% extends "base.html" %}
+{% block title %}{{ _('Géolocalisation') }} — AntiVol Intelligent{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <div>
+        <h1 class="page-title">{{ _('Géolocalisation en temps réel') }}</h1>
+        <p class="page-subtitle">{{ _('Trajectoire en direct de vos appareils') }}</p>
+    </div>
+</div>
+
+<div class="map-layout">
+    <div class="card card-map">
+        <div class="card-body no-padding">
+            <div id="map" class="map-container" style="border-radius: 12px;"></div>
+        </div>
+    </div>
+
+    <div class="map-sidebar">
+        <div class="card">
+            <div class="card-header">
+                <h2><i data-lucide="smartphone"></i> {{ _('Appareils en direct') }}</h2>
+            </div>
+            <div class="card-body" id="deviceList">
+                <div class="empty-state-sm"><p>{{ _('Chargement...') }}</p></div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h2><i data-lucide="map-pin"></i> {{ _('Derniers mouvements') }}</h2>
+            </div>
+            <div class="card-body" id="movementLog">
+                <div class="empty-state-sm"><p>{{ _('En attente de données...') }}</p></div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h2><i data-lucide="alert-triangle"></i> {{ _('Zones à risque') }}</h2>
+            </div>
+            <div class="card-body">
+                {% if zones_risque %}
+                <div class="zone-list" style="max-height:180px;overflow-y:auto;">
+                    {% for zone in zones_risque %}
+                    <div class="zone-item zone-{{ zone.niveau_risque }}">
+                        <div class="zone-info">
+                            <span class="zone-name">{{ zone.nom }}</span>
+                            <span class="zone-detail">{{ zone.nombre_incidents }} {{ _('incidents') }}</span>
+                        </div>
+                        <span class="badge badge-{{ 'danger' if zone.niveau_risque == 'critique' else 'warning' if zone.niveau_risque == 'élevé' else 'info' }}">
+                            {{ zone.niveau_risque | capitalize }}
+                        </span>
+                    </div>
+                    {% endfor %}
+                </div>
+                {% else %}
+                <div class="empty-state-sm"><p>{{ _('Aucune zone signalée') }}</p></div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    const map = L.map('map').setView([5.3600, -4.0083], 12);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap contributors',
+        maxZoom: 19
+    }).addTo(map);
+
+    function createIcon(color, pulse) {
+        return L.divIcon({
+            className: 'custom-marker',
+            html: `<div class="marker-dot ${pulse ? 'marker-pulse' : ''}" style="background:${color};border-color:${color};"></div>`,
+            iconSize: [26, 26],
+            iconAnchor: [13, 13]
+        });
+    }
+
+    const deviceData = {};
+    const deviceMarkers = {};
+    const deviceTrails = {};
+    const zoneCircles = [];
+    let movementHistory = [];
+
+    {% for zone in zones_risque %}
+    (function() {
+        const circle = L.circle([{{ zone.latitude }}, {{ zone.longitude }}], {
+            radius: {{ zone.rayon_m }},
+            color: '{% if zone.niveau_risque == "critique" %}#ef4444{% elif zone.niveau_risque == "élevé" %}#f59e0b{% else %}#3b82f6{% endif %}',
+            fillOpacity: 0.15,
+            weight: 2
+        }).addTo(map).bindPopup(`
+            <div style="font-family:Inter,sans-serif;">
+                <strong>&#9888;&#65039; {{ zone.nom }}</strong><br>
+                {{ _('Niveau') }} : {{ zone.niveau_risque | capitalize }}<br>
+                {{ _('Incidents') }} : {{ zone.nombre_incidents }}
+            </div>
+        `);
+        zoneCircles.push(circle);
+    })();
+    {% endfor %}
+
+    function getStatutColor(statut) {
+        switch (statut) {
+            case 'volé': return '#ef4444';
+            case 'verrouillé': return '#f59e0b';
+            case 'récupéré': return '#3b82f6';
+            default: return '#22c55e';
+        }
+    }
+
+    function popupContent(d) {
+        const color = getStatutColor(d.statut);
+        return `
+            <div style="font-family:Inter,sans-serif;min-width:200px;">
+                <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px;">
+                    <span class="status-dot" style="background:${color};width:10px;height:10px;display:inline-block;border-radius:50%;"></span>
+                    <strong style="font-size:15px;">${d.marque} ${d.modele}</strong>
+                </div>
+                <small>IMEI: ${d.imei}</small><br>
+                <span style="color:${color};">&#9679; ${d.statut.charAt(0).toUpperCase() + d.statut.slice(1)}</span><br>
+                <small>&#128197; ${new Date(d.date_capture).toLocaleString('fr-FR')}</small>
+                ${d.adresse ? `<br><small>&#128205; ${d.adresse}</small>` : ''}
+                ${d.precision_m ? `<br><small>&#127760; Précision: ${d.precision_m}m</small>` : ''}
+                ${d.trail && d.trail.length > 1 ? `<br><small>&#128200; ${d.trail.length} points, ${(calcTrailDistance(d.trail)).toFixed(2)} km</small>` : ''}
+            </div>
+        `;
+    }
+
+    function calcTrailDistance(trail) {
+        let total = 0;
+        for (let i = 1; i < trail.length; i++) {
+            total += map.distance(
+                [trail[i-1].latitude, trail[i-1].longitude],
+                [trail[i].latitude, trail[i].longitude]
+            );
+        }
+        return total / 1000;
+    }
+
+    function updateTrail(appareilId, trail) {
+        if (deviceTrails[appareilId]) {
+            map.removeLayer(deviceTrails[appareilId]);
+        }
+        if (!trail || trail.length < 2) return;
+
+        const color = deviceData[appareilId] ? getStatutColor(deviceData[appareilId].statut) : '#3b82f6';
+        const latlngs = trail.map(p => [p.latitude, p.longitude]);
+
+        const polyline = L.polyline(latlngs, {
+            color: color,
+            weight: 3,
+            opacity: 0.5,
+            dashArray: '6, 4'
+        }).addTo(map);
+        deviceTrails[appareilId] = polyline;
+    }
+
+    function updateDeviceList(devices) {
+        const container = document.getElementById('deviceList');
+        if (!devices.length) {
+            container.innerHTML = `<div class="empty-state-sm"><p>{{ _('Aucun appareil') }}</p></div>`;
+            return;
+        }
+        let html = '<div class="device-list">';
+        devices.forEach(d => {
+            const color = getStatutColor(d.statut);
+            const trailLen = d.trail ? d.trail.length : 0;
+            html += `
+                <div class="device-item device-item-clickable" onclick="focusDevice(${d.appareil_id})">
+                    <div class="device-icon-sm" style="background:rgba(255,255,255,0.05);color:${color};">
+                        <i data-lucide="smartphone"></i>
+                    </div>
+                    <div class="device-info" style="min-width:0;flex:1;">
+                        <span class="device-name">${d.marque} ${d.modele}</span>
+                        <span class="device-imei" style="font-size:11px;">${trailLen > 0 ? trailLen + ' pts' : ''}</span>
+                    </div>
+                    <span class="status-dot" style="background:${color};width:10px;height:10px;display:inline-block;border-radius:50%;flex-shrink:0;"></span>
+                </div>
+            `;
+        });
+        html += '</div>';
+        container.innerHTML = html;
+        if (typeof lucide !== 'undefined') lucide.createIcons();
+    }
+
+    function updateMovementLog(devices) {
+        const log = document.getElementById('movementLog');
+        const now = Date.now();
+        const recent = [];
+
+        devices.forEach(d => {
+            const t = new Date(d.date_capture).getTime();
+            if (now - t < 60000) {
+                recent.push(d);
+            }
+        });
+
+        if (!recent.length) {
+            log.innerHTML = `<div class="empty-state-sm"><p style="font-size:12px;">{{ _('Aucun mouvement récent (60s)') }}</p></div>`;
+            return;
+        }
+
+        let html = '<div style="display:flex;flex-direction:column;gap:4px;">';
+        recent.slice(0, 5).forEach(d => {
+            const color = getStatutColor(d.statut);
+            const ago = Math.floor((now - new Date(d.date_capture).getTime()) / 1000);
+            const label = ago < 5 ? `{{ _("À l'instant") }}` : `il y a ${ago}s`;
+            html += `
+                <div style="display:flex;align-items:center;gap:8px;padding:4px 6px;border-radius:6px;background:rgba(255,255,255,0.03);font-size:12px;">
+                    <span class="status-dot" style="background:${color};width:8px;height:8px;display:inline-block;border-radius:50%;flex-shrink:0;"></span>
+                    <span style="flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${d.marque} ${d.modele}</span>
+                    <span class="text-muted" style="flex-shrink:0;font-size:11px;">${label}</span>
+                </div>
+            `;
+        });
+        html += '</div>';
+        log.innerHTML = html;
+    }
+
+    function updateMarkers(data) {
+        const seen = new Set();
+        data.forEach(d => {
+            seen.add(d.appareil_id);
+            deviceData[d.appareil_id] = d;
+            const color = getStatutColor(d.statut);
+            const latlng = [d.latitude, d.longitude];
+
+            updateTrail(d.appareil_id, d.trail);
+
+            if (deviceMarkers[d.appareil_id]) {
+                const marker = deviceMarkers[d.appareil_id];
+                const old = marker.getLatLng();
+                if (old.lat !== d.latitude || old.lng !== d.longitude) {
+                    animateMarker(marker, latlng);
+                }
+                marker.setIcon(createIcon(color));
+                marker.setPopupContent(popupContent(d));
+            } else {
+                const marker = L.marker(latlng, { icon: createIcon(color, true) }).addTo(map);
+                marker.bindPopup(popupContent(d));
+                deviceMarkers[d.appareil_id] = marker;
+            }
+        });
+
+        for (const id in deviceMarkers) {
+            if (!seen.has(parseInt(id))) {
+                map.removeLayer(deviceMarkers[id]);
+                delete deviceMarkers[id];
+                if (deviceTrails[id]) {
+                    map.removeLayer(deviceTrails[id]);
+                    delete deviceTrails[id];
+                }
+            }
+        }
+    }
+
+    function animateMarker(marker, newLatLng) {
+        const start = marker.getLatLng();
+        const end = L.latLng(newLatLng);
+        const duration = 1000;
+        const t0 = performance.now();
+
+        function step(now) {
+            const t = Math.min((now - t0) / duration, 1);
+            marker.setLatLng([
+                start.lat + (end.lat - start.lat) * t,
+                start.lng + (end.lng - start.lng) * t
+            ]);
+            if (t < 1) requestAnimationFrame(step);
+        }
+        requestAnimationFrame(step);
+    }
+
+    function focusDevice(deviceId) {
+        if (deviceMarkers[deviceId]) {
+            map.flyTo(deviceMarkers[deviceId].getLatLng(), 16);
+            deviceMarkers[deviceId].openPopup();
+        }
+    }
+
+    function fetchData() {
+        fetch('/api/localisations/latest')
+            .then(r => r.json())
+            .then(data => {
+                updateMarkers(data);
+                updateDeviceList(data);
+                updateMovementLog(data);
+            })
+            .catch(() => {});
+    }
+
+    // ═══════════════════════════════════════
+    // GPS NAVIGATEUR (comme l'app mobile)
+    // ═══════════════════════════════════════
+    let watchId = null;
+    let myLocationMarker = null;
+    let gpsTrackingActive = false;
+
+    function startGpsTracking() {
+        if (!navigator.geolocation) {
+            alert('La géolocalisation n\'est pas supportée par votre navigateur.');
+            return;
+        }
+
+        function success(pos) {
+            var lat = pos.coords.latitude;
+            var lng = pos.coords.longitude;
+            var prec = pos.coords.accuracy;
+
+            if (myLocationMarker) {
+                myLocationMarker.setLatLng([lat, lng]);
+            } else {
+                myLocationMarker = L.marker([lat, lng], {
+                    icon: L.divIcon({
+                        className: 'custom-marker',
+                        html: '<div class="marker-dot marker-pulse" style="background:#8b5cf6;border-color:#8b5cf6;"></div>',
+                        iconSize: [26, 26],
+                        iconAnchor: [13, 13]
+                    })
+                }).addTo(map)
+                .bindPopup('<div style="font-family:Inter,sans-serif;"><strong>&#128205; Ma position</strong><br><small>Précision: ' + prec.toFixed(0) + 'm</small></div>');
+                map.flyTo([lat, lng], 15);
+            }
+
+            // Envoyer la position au serveur (si connecté)
+            fetch('/api/localisation/update', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({
+                    appareil_id: null,
+                    latitude: lat,
+                    longitude: lng,
+                    precision_m: prec,
+                    source: 'navigateur'
+                })
+            }).catch(function() {});
+        }
+
+        function error(err) {
+            console.warn('Erreur GPS navigateur:', err.message);
+        }
+
+        watchId = navigator.geolocation.watchPosition(success, error, {
+            enableHighAccuracy: true,
+            timeout: 10000,
+            maximumAge: 30000
+        });
+        gpsTrackingActive = true;
+    }
+
+    function stopGpsTracking() {
+        if (watchId !== null) {
+            navigator.geolocation.clearWatch(watchId);
+            watchId = null;
+        }
+        gpsTrackingActive = false;
+        if (myLocationMarker) {
+            map.removeLayer(myLocationMarker);
+            myLocationMarker = null;
+        }
+    }
+
+    function toggleGpsTracking() {
+        if (gpsTrackingActive) {
+            stopGpsTracking();
+        } else {
+            startGpsTracking();
+        }
+        updateGpsButton();
+    }
+
+    function updateGpsButton() {
+        var btn = document.getElementById('gpsToggleBtn');
+        if (!btn) return;
+        if (gpsTrackingActive) {
+            btn.innerHTML = '<i data-lucide="crosshair"></i> Désactiver GPS';
+            btn.className = 'btn btn-danger btn-xs';
+        } else {
+            btn.innerHTML = '<i data-lucide="crosshair"></i> Activer GPS';
+            btn.className = 'btn btn-primary btn-xs';
+        }
+        if (typeof lucide !== 'undefined') lucide.createIcons();
+    }
+
+    // Ajouter le bouton GPS dans la sidebar
+    var sidebarCards = document.querySelectorAll('.map-sidebar .card');
+    if (sidebarCards.length > 0) {
+        var gpsCard = document.createElement('div');
+        gpsCard.className = 'card';
+        gpsCard.innerHTML = `
+            <div class="card-header">
+                <h2><i data-lucide="crosshair"></i> GPS Navigateur</h2>
+            </div>
+            <div class="card-body" style="text-align:center;">
+                <p style="font-size:12px;color:rgba(255,255,255,0.6);margin-bottom:12px;">
+                    Activez le GPS de votre navigateur pour voir votre position en direct (comme l'application mobile).
+                </p>
+                <button id="gpsToggleBtn" class="btn btn-primary btn-xs" onclick="toggleGpsTracking()">
+                    <i data-lucide="crosshair"></i> Activer GPS
+                </button>
+            </div>
+        `;
+        sidebarCards[sidebarCards.length - 1].parentNode.appendChild(gpsCard);
+    }
+
+    fetchData();
+    setInterval(fetchData, 5000);
+    setTimeout(() => map.invalidateSize(), 200);
+</script>
+<style>
+.marker-dot {
+    width: 18px; height: 18px; border-radius: 50%;
+    border: 3px solid;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    transition: all 0.3s ease;
+}
+.marker-pulse {
+    animation: markerPulse 2s ease-in-out infinite;
+}
+@keyframes markerPulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(255,255,255,0.4); }
+    50% { box-shadow: 0 0 0 10px rgba(255,255,255,0); }
+}
+.leaflet-marker-icon.custom-marker {
+    background: none !important;
+    border: none !important;
+}
+</style>
+{% endblock %}

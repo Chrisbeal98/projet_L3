@@ -1,0 +1,1051 @@
+# Translations for PAG.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: pag\n"
+"Language-Team: pag <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Man-log in ka pian makaloob ed sayan pahina."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Sayan IMEI et aka-rehistro la ed sistema."
+
+msgid "Accès non autorisé."
+msgstr "Ag-autorisadon onloob."
+
+msgid "Appareil déverrouillé."
+msgstr "Akalukas so kagawaan."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Nagawa so alerto! Impawit iray abiso."
+
+msgid "Alerte résolue."
+msgstr "Naresolbe so alerto."
+
+msgid "Pas encore de compte ?"
+msgstr "Anggapo ni account?"
+
+msgid "Mon Profil"
+msgstr "Profile Ko"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Matalona so koneksyon! Naabrasa kayo."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Aliwan duga so email o password."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Kaukolan ya nasumpal so amin ya nakaukolan a field."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Ag mantutunosan iray password."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Say password et nepeg ya walaan na ag-onkulang ed 6 a karakter."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Sayan email et nausar la."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Matalonan ginawa so account! Man-log in."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Anggapoy naromog ya account ed sayan email."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Say numero na telepono et ag mipara ed numero na kuenta."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Say balon password et kaukolan."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Matalona so pangi-reset na password! Man-log in."
+
+msgid "Vous avez été déconnecté."
+msgstr "Nadiskonekta ka la."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Kaukolan so tatak, modelo tan IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Wala lay kagawaan ya walaan na sayan IMEI."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Matalonan akarehistro so kagawaan!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Ag ka autorisadon manggawa ed sayan kiwas."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Matalonan aka-lock so device."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Matalonan akalukas so kagawaan."
+
+msgid "Appareil supprimé."
+msgstr "Nabura so kagawaan."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Manpili kay device tan klase na alerto."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Sayan kagawaan et aliwan kayarian mo."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Matalona so inreport na alerto. Say kagawaan et akaseguro."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Say alerto et akamarka ya aresolbe la."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Kaukolan so ngaran, apelyido tan email."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Sayan email et nausar la na sananey ya account."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Matalona ya na-update so profile!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Say access et parad saray administrador."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Say lingo et amarkaan ya naresolbe."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Agmo nayarin buralen so sarilim ya account."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Matalonan nabura so manguusar."
+
+msgid "Administration"
+msgstr "Administrasyon"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Say sentralisadon panangasikaso ed sistema na Anti-Theft"
+
+msgid "Utilisateurs"
+msgstr "Saray manguusar"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktibo natan"
+
+msgid "Nouveaux ce mois"
+msgstr "Balo ed sayan bulan"
+
+msgid "Appareils"
+msgstr "Saray kagawaan"
+
+msgid "Alertes actives"
+msgstr "Saray aktibon alerto"
+
+msgid "Analytique"
+msgstr "Analitikal"
+
+msgid "Journal d'activité"
+msgstr "Activity log"
+
+msgid "Erreurs"
+msgstr "Saray lingo"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Saray koneksion (unor ya 7 agew)"
+
+msgid "Alertes par type"
+msgstr "Saray alerto unong ed klase"
+
+msgid "Appareils par opérateur"
+msgstr "Saray kagawaan unong ed operator"
+
+msgid "Résumé du système"
+msgstr "Sumaryo na Sistema"
+
+msgid "Utilisateurs total"
+msgstr "Dagup na manguusar"
+
+msgid "Appareils enregistrés"
+msgstr "Saray rehistradon kagawaan"
+
+msgid "Total alertes"
+msgstr "Dagup na alerto"
+
+msgid "Alertes en cours"
+msgstr "Saray kaplesan ya alerto"
+
+msgid "Erreurs non résolues"
+msgstr "Ag-aresolbe iran lingo"
+
+msgid "Dernières activités"
+msgstr "Saray sankabaloan ya aktibidad"
+
+msgid "récentes"
+msgstr "agano ni"
+
+msgid "Utilisateur"
+msgstr "User"
+
+msgid "Action"
+msgstr "Gawa"
+
+msgid "Détails"
+msgstr "Saray detalye"
+
+msgid "Adresse IP"
+msgstr "IP address"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Petsa"
+
+msgid "Aucune activité"
+msgstr "Anggapoy aktibidad"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Saray aktibidad na user so ompatnag dia."
+
+msgid "Journal d'erreurs"
+msgstr "Error log"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Ayosen so amin ya lingo?"
+
+msgid "Tout résoudre"
+msgstr "Solbaren so amin"
+
+msgid "non résolues"
+msgstr "ag naresolbe"
+
+msgid "Tout est résolu"
+msgstr "Nasolbar so amin"
+
+msgid "Type"
+msgstr "Maong"
+
+msgid "Description"
+msgstr "Deskripsyon"
+
+msgid "Statut"
+msgstr "Kipapasen"
+
+msgid "Résolu"
+msgstr "Naresolbe"
+
+msgid "Non résolu"
+msgstr "Ag naresolbe"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Anggapoy nirekord ya lingo"
+
+msgid "Le système fonctionne correctement."
+msgstr "Say sistema et mankikimey a maong."
+
+msgid "Gestion des utilisateurs"
+msgstr "Panangasikaso ed manguusar"
+
+msgid "comptes"
+msgstr "kuenta"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telepono"
+
+msgid "Rôle"
+msgstr "Betang"
+
+msgid "Inscrit le"
+msgstr "Nanrehistro ed"
+
+msgid "Actions"
+msgstr "Saray kiwas"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "I-delete mo yan user tan amin ya devices da?"
+
+msgid "Vous"
+msgstr "SIKA"
+
+msgid "Connexions"
+msgstr "Saray koneksion"
+
+msgid "Vol"
+msgstr "Itetekkiab"
+
+msgid "Perte"
+msgstr "Naandi"
+
+msgid "Anomalie"
+msgstr "Anomalya"
+
+msgid "Alertes"
+msgstr "Alerto"
+
+msgid "Gestion des alertes"
+msgstr "Panangasikaso na alerto"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Ireport so panagtakew o inkaandi tan subaybayan so history"
+
+msgid "Signaler un vol / perte"
+msgstr "Ireport so panagtakew/naandi"
+
+msgid "En cours"
+msgstr "Diad iyaaligwas"
+
+msgid "Résolues"
+msgstr "Naresolbe"
+
+msgid "Historique des alertes"
+msgstr "Kasaysayan na Alerto"
+
+msgid "Appareil"
+msgstr "Aparato"
+
+msgid "Priorité"
+msgstr "Prayuridad"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Markaan iyan alerto bilang naresolbe la?"
+
+msgid "Résoudre"
+msgstr "Resolbien"
+
+msgid "Aucune alerte"
+msgstr "Anggapoy alerto"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Maong a balita! Anggapoy nireport ya alerto."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Ireport so panagtakew odino inkaandi"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"No ireport mo so sakey a panagtakew, say device mo et automatikon na-lock"
+" tan saray notipikasyon so nipawit."
+
+msgid "Appareil concerné"
+msgstr "Apektadon kagawaan"
+
+msgid "Sélectionner un appareil"
+msgstr "Manpili na kagawaan"
+
+msgid "Type d'alerte"
+msgstr "Klase na alerto"
+
+msgid "Décrivez les circonstances..."
+msgstr "Ipaliwawa iray sirkumstansya..."
+
+msgid "Annuler"
+msgstr "Kanselaen"
+
+msgid "Signaler"
+msgstr "Report"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Intelligent Anti-Theft System — Seguridad na plataporma parad saray "
+"smartphone"
+
+msgid "Système Anti-Vol"
+msgstr "Anti-Theft System"
+
+msgid "PRINCIPAL"
+msgstr "MANUNAN"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "SEGURIDAD"
+
+msgid "Géolocalisation"
+msgstr "Geolocation"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRASYON"
+
+msgid "Déconnexion"
+msgstr "Idiskonekta"
+
+msgid "Changer de langue"
+msgstr "Manuman na lenguahe"
+
+msgid "Rechercher une langue..."
+msgstr "Mananap na lenguahe..."
+
+msgid "Profil"
+msgstr "Personal ya impormasyon"
+
+msgid "Changer de thème"
+msgstr "Umanen so tema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Panangipatnag na seguridad na kagawaan mo"
+
+msgid "Ajouter un appareil"
+msgstr "Mangiyan na kagawaan"
+
+msgid "Appareils volés"
+msgstr "Saray tinakew ya kagawaan"
+
+msgid "Verrouillés à distance"
+msgstr "Akasara ed arawi"
+
+msgid "Alertes récentes"
+msgstr "Saray agano nin alerto"
+
+msgid "Voir tout"
+msgstr "Nengnengen so amin"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Anggapoy alerto. Maligen iray kagawaan mo!"
+
+msgid "Mes appareils"
+msgstr "Saray kagawaan ko"
+
+msgid "Aucun appareil enregistré"
+msgstr "Anggapoy akarehistro ya kagawaan"
+
+msgid "Ajouter"
+msgstr "Iyarum"
+
+msgid "en attente"
+msgstr "akaalagar"
+
+msgid "Gestion des appareils"
+msgstr "Panangasikaso ed kagawaan"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Manparehistro tan asikasoen iray smartphone yo"
+
+msgid "Opérateur"
+msgstr "Operator"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "I-lock iyan device ed arawi?"
+
+msgid "Verrouiller"
+msgstr "Sarado"
+
+msgid "Déverrouiller"
+msgstr "Ilukas"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Buraen iyan kagawaan?"
+
+msgid "Supprimer"
+msgstr "EKALEN"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Ilaktip so unonan smartphone mo pian naprotektaan itan."
+
+msgid "Nouvel appareil"
+msgstr "Balon kagawaan"
+
+msgid "Marque"
+msgstr "Tatak"
+
+msgid "Sélectionner"
+msgstr "Manpili"
+
+msgid "Autre"
+msgstr "Arom"
+
+msgid "Modèle"
+msgstr "Modelo"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "i-type so *#06# ed teleponom"
+
+msgid "Système d'exploitation"
+msgstr "Operating system"
+
+msgid "Numéro de téléphone"
+msgstr "Numero na telepono"
+
+msgid "Enregistrer"
+msgstr "Iliktar"
+
+msgid "Connexion"
+msgstr "Koneksyon"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistema na seguridad na smartphone"
+
+msgid "Adresse email"
+msgstr "E-mail address"
+
+msgid "Mot de passe"
+msgstr "Password"
+
+msgid "Se connecter"
+msgstr "Onloob"
+
+msgid "Mot de passe oublié ?"
+msgstr "Alingwanan moy password?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Wala lay account mo? No andi, ituloy so panggawa na account mo!"
+
+msgid "Créer un compte"
+msgstr "Manggawa kay account"
+
+msgid "Sécurité maximale"
+msgstr "Sankatageyan a seguridad"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Protektaan so personal ya data yo panamegley na remote locking"
+
+msgid "Localisation GPS"
+msgstr "kawalaan na GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Anapen so eksakton kawalaan na smartphone mo ed mismon oras"
+
+msgid "Alertes instantanées"
+msgstr "Saray tampol ya alerto"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr ""
+"Makaawat na SMS, email tan push notifications no bilang ta walay "
+"panagtakew"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Anapen iray kagawaan mo tan nengnengen iray peligron lugar"
+
+msgid "Aucun appareil"
+msgstr "Anggapoy kagawaan"
+
+msgid "Zones à risque"
+msgstr "Saray lugar ya peligroso"
+
+msgid "incidents"
+msgstr "insidente"
+
+msgid "Aucune zone signalée"
+msgstr "Anggapoy nireport ya lugar"
+
+msgid "Niveau"
+msgstr "Sukat"
+
+msgid "Incidents"
+msgstr "Saray Insidente"
+
+msgid "Profile utilisateur"
+msgstr "Profile na manguusar"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Asikasoen so personal ya impormasyon mo"
+
+msgid "Membre depuis"
+msgstr "Miyembro manlapu nen"
+
+msgid "Modifier mes informations"
+msgstr "I-edit so impormasyon ko"
+
+msgid "Prénom"
+msgstr "Ngaran"
+
+msgid "Nom"
+msgstr "Ngaran"
+
+msgid "Changer le mot de passe"
+msgstr "Umanen so password"
+
+msgid "Nouveau mot de passe"
+msgstr "Balon Password"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "paulyanan ya blangko pian ag manguman"
+
+msgid "Enregistrer les modifications"
+msgstr "I-save iray pananguman"
+
+msgid "Inscription"
+msgstr "Panrehistro"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"Masantos ya kabwasan ed Anti-Theft parad mas maong ya seguridad na saray "
+"kagawaan yo"
+
+msgid "Confirmer"
+msgstr "Konpirma"
+
+msgid "Créer mon compte"
+msgstr "Manggawa na account ko"
+
+msgid "Déjà un compte ?"
+msgstr "Wala lay account mo?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "I-reset so Password"
+
+msgid "Réinitialisation"
+msgstr "I-reset"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Iloob so email tan numero na teleponom pian naseguro no siopa ka"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Say numero ya inusar legan na panagparehistro"
+
+msgid "Minimum 6 caractères"
+msgstr "Ag-onkulang ed 6 a karakter"
+
+msgid "Confirmer le mot de passe"
+msgstr "Kumpirmaen so password"
+
+msgid "Retourner à la"
+msgstr "Pawil ed"
+
+msgid "page de connexion"
+msgstr "login page"
+
+msgid "Vérification sécurisée"
+msgstr "Seguradon beripikasyon"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Say pakabidbiran mo et na-verify panamegley na email tan numero na "
+"teleponom"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Manpili na maligen ya password ya ag-onkulang ed 6 a karakter"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Ag-asumpal so panag-edit"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Ag-asumpal so panag-edit: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows error: {error}"
+
+msgid "deprecated"
+msgstr "agla nausar"
+
+msgid "Options"
+msgstr "Saray Opsyon"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Walay ag inilaloan ya ekstran argumento ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Say ganggan ya {name!r} et agla nausar.{extra_message}"
+
+msgid "Aborted!"
+msgstr "In-abortion!"
+
+msgid "Commands"
+msgstr "Saray ganggan"
+
+msgid "Missing command."
+msgstr "Anggapoy ganggan."
+
+msgid "Value must be an iterable."
+msgstr "Say balor et nepeg ya iterable."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Mangala na {nargs} ya balor balet 1 so niiter."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"DeprecationWarning: Say {param_type} {name!r} et agla "
+"nausar.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Say ngaran '{ngaran}' et mamindua ya indepinsa"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Say boolean ya opsyon ya {decl!r} et ag nayarin mangusar na parehon "
+"bandera parad tua/aliwa."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Ag nadetermina so ngaran na opsyon ya walay deklarasyon ya {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Anggapoy nidetalye ya opsyon balet walay niiter ya ngaran ({name}). Labay"
+" mo kasin ideklara so sakey a argumento imbes? Labay mon ipasa so "
+"'--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default}"
+
+msgid "required"
+msgstr "nakaukolan"
+
+msgid "(dynamic)"
+msgstr "(dinamiko)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Saray argumento et walaan na eksakton sakey a deklarasyon na parameter, "
+"got {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Labay mo ni kasi ya ituloy?"
+
+msgid "Confirm the action without prompting."
+msgstr "Kumpirmaen so ginawa ya anggapoy pangibaga."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, version %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Ipanengneng so bersion tan ompaway."
+
+msgid "Show this message and exit."
+msgstr "Ipanengneng iyan mensahe tan ompaway ka."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Say labay mon ibaga et {posibilidad}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Lingo: {mensahe}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Salien so '{command} {option}' parad tulong."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Aliwan duga so balor: {mensahe}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Aliwan duga so balor parad {param_hint}: {mensahe}"
+
+msgid "Missing argument"
+msgstr "Anggapoy argumento"
+
+msgid "Missing option"
+msgstr "Anggapoy opsyon"
+
+msgid "Missing parameter"
+msgstr "Anggapoy parametro"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Anggapoy {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Anggapoy parameter: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Anggapoy ontan ya opsyon {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Anggapoy ontan ya ganggan {name!r}."
+
+msgid "unknown error"
+msgstr "ag kabat so lingo"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Ag nalukasan so file {filename!r}: {mensahe}"
+
+msgid "Usage:"
+msgstr "Usar:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Aliwan duga so gapoan ya karakter parad opsyon ({opsyon})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Say argumento ya {name!r} et walaan na {nargs} ya balor."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Say opsyon ya {name!r} et anggapoy balor to."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Say opsyon ya {name!r} et mankaukolan na argumento."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Say shell completion et ag nasuportaan parad saray bersion na Bash ya mas"
+" daan nen say 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Ag nadetektaan so Bash version, ag nasusuportaan so shell completion."
+
+msgid "Repeat for confirmation"
+msgstr "Uliten parad kumpirmasyon"
+
+msgid "Error: The two entered values do not match."
+msgstr "Lingo: Say duaran inloob ya balor et agmantutunosan."
+
+msgid "Error: invalid input"
+msgstr "Lingo: aliwan duga so input"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Ag kabat so kolor {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Pindoten so antokaman a key pian makapantultuloy..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Manpili manlapud:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "Say {value!r} et aliwan {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Choice({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "Say {value!r} et ag mipara ed format ya {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "Say {value!r} et aliwan balido ya {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "Say {value} et walad range ya {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "Say {value!r} et aliwan balidon boolean. Saray kabkabat ya balor: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "Say {value!r} et aliwan balidon UUID."
+
+msgid "file"
+msgstr "file"
+
+msgid "directory"
+msgstr "direktoryo"
+
+msgid "path"
+msgstr "dalan"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} et anggapo."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "Say {name} {filename!r} et sakey a file."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "Say {name} {filename!r} et sakey a direktoryo."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "Say {name} {filename!r} et ag nabasa."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "Say {name} {filename!r} et ag nayarin isulat."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "Say {name} {filename!r} et ag nayarin gawaen."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} values ​​so nakaukolan, balet {len_value} so niiter."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Ag kabat ya standard stream '{name}'"
+
+msgid "This field is required."
+msgstr "Sayan lawak so nakaukolan."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Say file et anggapoy naaprobaan ya extension: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Say file et anggapoy naaprobaan ya extension to."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Say file et nepeg ya walad baetan na {min_size} tan {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Aliwan duga so ngaran na field ya '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Say field et nepeg ya mipara ed %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Say field et nepeg ya ag-onkulang ed %(min)d ya karakter so karukey to."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Say field et ag nayarin onlampas ed %(max)d ya karakter."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Say field et nepeg ya eksakton %(max)d ya karakter so karukey to."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr ""
+"Say field et nepeg ya walad baetan na %(min)d anggad %(max)d ya karakter "
+"so karukey to."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Say bilang et nepeg ya ag-onkulang ed %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Say bilang et nepeg ya ag-onsulok ed %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Say bilang et nepeg ya walad baetan na %(min)s tan %(max)s."
+
+msgid "Invalid input."
+msgstr "Aliwan duga so input."
+
+msgid "Invalid email address."
+msgstr "Aliwan duga so email address."
+
+msgid "Invalid IP address."
+msgstr "Aliwan duga so IP address."
+
+msgid "Invalid Mac address."
+msgstr "Aliwan duga so Mac address."
+
+msgid "Invalid URL."
+msgstr "Aliwan duga so URL."
+
+msgid "Invalid UUID."
+msgstr "Aliwan duga so UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Aliwan duga so balor, nepeg ya sakey ed: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Aliwan duga so balor, agnayarin anggan dinan ed: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Sayan lawak et ag nayarin i-edit."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Sayan field et ag-onkikiwas tan anggapoy balor to."
+
+msgid "Invalid CSRF Token."
+msgstr "Aliwan balido so CSRF Token."
+
+msgid "CSRF token missing."
+msgstr "Anggapoy CSRF token."
+
+msgid "CSRF failed."
+msgstr "Ag tinmalona so CSRF."
+
+msgid "CSRF token expired."
+msgstr "Say CSRF token et asumpal la."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Aliwan duga so pinili: ag nayarin piliten."
+
+msgid "Choices cannot be None."
+msgstr "Saray pilien et agnayarin Anggapo."
+
+msgid "Not a valid choice."
+msgstr "Aliwan balido so pilien."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Aliwan duga so pilien: sakey odino masulok nin data inputs so ag nayarin "
+"piliten."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "Say '%(value)s' et aliwan balidon pilien parad sayan lawak."
+
+msgid "Not a valid datetime value."
+msgstr "Aliwan balido so datetime ya balor."
+
+msgid "Not a valid date value."
+msgstr "Aliwan balido so petsa."
+
+msgid "Not a valid time value."
+msgstr "Aliwan balido so balor na panaon."
+
+msgid "Not a valid week value."
+msgstr "Aliwan balido so balor na simba."
+
+msgid "Not a valid integer value."
+msgstr "Aliwan balido so bilang na integer."
+
+msgid "Not a valid decimal value."
+msgstr "Aliwan balido so decimal value."
+
+msgid "Not a valid float value."
+msgstr "Aliwan balido so float value."
+

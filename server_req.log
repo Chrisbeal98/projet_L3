@@ -1,0 +1,4006 @@
+[REQ] GET /
+  [302] GET / [192.168.15.10]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.15.10]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/js/app.js
+  [304] GET /static/css/style.css [192.168.15.10]
+  [304] GET /static/js/app.js [192.168.15.10]
+[REQ] GET /
+  [302] GET / [192.168.15.10]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.15.10]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/js/app.js
+  [304] GET /static/css/style.css [192.168.15.10]
+  [304] GET /static/js/app.js [192.168.15.10]
+[REQ] GET /logout
+  [302] GET /logout [192.168.15.10]
+[REQ] GET /login
+  [200] GET /login [192.168.15.10]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.15.10]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.15.10]
+[REQ] POST /login
+  [302] POST /login [192.168.15.10]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.15.10]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/js/app.js
+  [304] GET /static/css/style.css [192.168.15.10]
+  [304] GET /static/js/app.js [192.168.15.10]
+[REQ] GET /carte
+  [200] GET /carte [192.168.15.10]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.15.10]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.15.10]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.15.10]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.15.10]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.15.10]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.15.10]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.15.10]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.15.10]
+[REQ] GET /alertes
+  [200] GET /alertes [192.168.15.10]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.15.10]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.15.10]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.15.10]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.15.10]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.15.10]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.15.10]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.15.10]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.15.10]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.15.10]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/js/app.js
+  [304] GET /static/css/style.css [192.168.15.10]
+  [304] GET /static/js/app.js [192.168.15.10]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.15.10]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.15.10]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.15.10]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/js/app.js
+  [200] GET /static/css/style.css [127.0.0.1]
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /set-language/de
+  [302] GET /set-language/de [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /set-language/en
+  [302] GET /set-language/en [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /set-language/epo
+  [302] GET /set-language/epo [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /set-language/fr
+  [302] GET /set-language/fr [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /
+  [302] GET / [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+[REQ] GET /static/logo.png
+  [200] GET /static/js/app.js [127.0.0.1]
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /login
+  [302] GET /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/logo.png [127.0.0.1]
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [302] GET /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+  [200] GET /static/css/style.css [127.0.0.1]
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /alertes
+  [200] GET /alertes [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /lock-by-code
+  [200] GET /lock-by-code [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /lock-by-code
+  [200] GET /lock-by-code [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [200] GET /static/css/style.css [127.0.0.1]
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] POST /admin/utilisateurs/3/supprimer
+  [302] POST /admin/utilisateurs/3/supprimer [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] POST /admin/utilisateurs/8/supprimer
+  [302] POST /admin/utilisateurs/8/supprimer [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] POST /admin/utilisateurs/4/supprimer
+  [302] POST /admin/utilisateurs/4/supprimer [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] POST /admin/utilisateurs/5/supprimer
+  [302] POST /admin/utilisateurs/5/supprimer [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] POST /admin/utilisateurs/6/supprimer
+  [302] POST /admin/utilisateurs/6/supprimer [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] POST /admin/utilisateurs/7/supprimer
+  [302] POST /admin/utilisateurs/7/supprimer [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [200] GET /static/logo.png [127.0.0.1]
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+[REQ] GET /admin/utilisateurs/7/supprimer
+  [200] GET /api/localisations/latest [127.0.0.1]
+  [405] GET /admin/utilisateurs/7/supprimer [127.0.0.1]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [127.0.0.1]
+[REQ] GET /admin/utilisateurs/7/supprimer
+  [405] GET /admin/utilisateurs/7/supprimer [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /admin/utilisateurs/7/supprimer
+  [405] GET /admin/utilisateurs/7/supprimer [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+  [200] GET /static/css/style.css [127.0.0.1]
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /alertes
+  [200] GET /alertes [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /alertes
+  [200] GET /alertes [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/js/app.js
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/js/app.js [127.0.0.1]
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [200] GET /static/logo.png [127.0.0.1]
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /dashboard
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [200] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /alertes
+  [200] GET /alertes [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] POST /login
+  [200] POST /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /reset-password
+  [200] GET /reset-password [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [200] GET /static/logo.png [127.0.0.1]
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [200] GET /static/logo.png [127.0.0.1]
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [200] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /alertes
+  [200] GET /alertes [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/js/app.js
+  [200] GET /static/css/style.css [127.0.0.1]
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /lock-by-code
+  [200] GET /lock-by-code [127.0.0.1]
+[REQ] GET /lock-by-code
+  [200] GET /lock-by-code [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+  [200] GET /static/css/style.css [127.0.0.1]
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /dashboard
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+  [200] GET /static/css/style.css [127.0.0.1]
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /
+[REQ] GET /
+[REQ] GET /
+[REQ] GET /
+[REQ] GET /login
+[REQ] GET /admin
+[REQ] GET /dashboard
+[REQ] GET /
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /
+  [302] GET / [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [200] GET /static/css/style.css [127.0.0.1]
+  [200] GET /static/js/app.js [127.0.0.1]
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /lock-by-code
+  [200] GET /lock-by-code [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /set-language/es
+  [302] GET /set-language/es [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /set-language/ko
+  [302] GET /set-language/ko [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /set-language/fr
+  [302] GET /set-language/fr [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /reset-password
+  [200] GET /reset-password [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /
+  [200] GET / [192.168.1.6]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.1.6]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.1.6]
+[REQ] GET /
+  [200] GET / [192.168.1.6]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.1.6]
+[REQ] GET /login
+  [200] GET /login [192.168.1.6]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.6]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.6]
+[REQ] GET /login
+  [200] GET /login [192.168.1.6]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.6]
+[REQ] GET /register
+  [200] GET /register [192.168.1.6]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.6]
+[REQ] GET /login
+  [200] GET /login [192.168.1.6]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.6]
+[REQ] GET /
+  [200] GET / [192.168.43.173]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.43.173]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.43.173]
+[REQ] GET /register
+  [200] GET /register [192.168.43.173]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.43.173]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.43.173]
+[REQ] GET /register
+  [200] GET /register [192.168.43.173]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.43.173]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.43.173]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.43.173]
+[REQ] GET /register
+  [200] GET /register [192.168.43.173]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.43.173]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.43.173]
+[REQ] GET /login
+  [200] GET /login [192.168.43.173]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.43.173]
+[REQ] GET /login
+  [200] GET /login [192.168.43.173]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.43.173]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.43.173]
+[REQ] GET /register
+  [200] GET /register [192.168.43.173]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.43.173]
+[REQ] GET /
+  [200] GET / [192.168.43.173]
+[REQ] GET /
+  [200] GET / [192.168.43.173]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.43.173]
+[REQ] GET /register
+  [200] GET /register [192.168.43.173]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.43.173]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] POST /login
+  [200] POST /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] POST /login
+  [200] POST /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [200] GET /static/logo.png [127.0.0.1]
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /set-language/eu
+  [302] GET /set-language/eu [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /set-language/pms
+  [302] GET /set-language/pms [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /
+  [302] GET / [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [200] GET /static/css/style.css [127.0.0.1]
+  [200] GET /static/logo.png [127.0.0.1]
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] POST /login
+  [200] POST /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /set-language/eu
+  [302] GET /set-language/eu [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /
+  [200] GET / [192.168.1.12]
+[REQ] GET /favicon.ico
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.1.12]
+  [404] GET /favicon.ico [192.168.1.12]
+[REQ] GET /register
+  [200] GET /register [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.12]
+[REQ] GET /login
+  [200] GET /login [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] POST /login
+  [302] POST /login [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.12]
+[REQ] GET /static/js/app.js
+[REQ] GET /static/css/style.css
+  [304] GET /static/js/app.js [192.168.1.12]
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /set-language/eu
+  [302] GET /set-language/eu [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.12]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/js/app.js
+  [200] GET /static/css/style.css [192.168.1.12]
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /set-language/fr
+  [302] GET /set-language/fr [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.12]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/js/app.js
+  [200] GET /static/css/style.css [192.168.1.12]
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.12]
+[REQ] GET /static/js/app.js
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.1.12]
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.12]
+[REQ] GET /set-language/it
+  [302] GET /set-language/it [192.168.1.12]
+[REQ] GET /login
+  [302] GET /login [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /static/favicon.svg
+  [304] GET /static/favicon.svg [192.168.1.12]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.1.12]
+[REQ] GET /logout
+  [302] GET /logout [192.168.1.12]
+[REQ] GET /login
+  [200] GET /login [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.12]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.1.12]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.1.12]
+[REQ] GET /
+  [200] GET / [192.168.1.12]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.1.12]
+[REQ] GET /register
+  [200] GET /register [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /
+  [200] GET / [192.168.1.2]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.1.2]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] POST /login
+  [302] POST /login [192.168.1.2]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.2]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+  [200] GET /static/css/style.css [192.168.1.2]
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.1.2]
+[REQ] GET /set-language/en
+  [302] GET /set-language/en [192.168.1.2]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /set-language/es
+  [302] GET /set-language/es [192.168.1.2]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /set-language/en
+  [302] GET /set-language/en [192.168.1.2]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /set-language/de
+  [302] GET /set-language/de [192.168.1.2]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /logout
+  [302] GET /logout [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.2]
+[REQ] GET /
+  [200] GET / [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /register
+  [200] GET /register [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /register
+  [200] GET /register [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /set-language/fr
+  [302] GET /set-language/fr [192.168.1.2]
+[REQ] GET /register
+  [200] GET /register [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /
+  [200] GET / [192.168.1.12]
+[REQ] GET /favicon.ico
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.1.12]
+  [404] GET /favicon.ico [192.168.1.12]
+[REQ] GET /register
+  [200] GET /register [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.12]
+[REQ] GET /set-language/fr
+  [302] GET /set-language/fr [192.168.1.12]
+[REQ] GET /register
+  [200] GET /register [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /static/favicon.svg
+  [304] GET /static/favicon.svg [192.168.1.12]
+[REQ] GET /login
+  [200] GET /login [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] POST /login
+  [302] POST /login [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /carte
+  [200] GET /carte [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /carte
+  [200] GET /carte [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /login
+  [200] GET /login [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] POST /login
+  [302] POST /login [192.168.1.2]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /carte
+  [200] GET /carte [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /alertes
+  [200] GET /alertes [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /admin
+  [200] GET /admin [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /carte
+  [200] GET /carte [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /profil
+  [200] GET /profil [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /admin
+  [200] GET /admin [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] POST /admin/erreurs/resoudre-tout
+  [302] POST /admin/erreurs/resoudre-tout [192.168.1.2]
+[REQ] GET /admin
+  [200] GET /admin [192.168.1.2]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.2]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.2]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.2]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /carte
+  [200] GET /carte [192.168.1.12]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/js/app.js
+  [200] GET /static/css/style.css [192.168.1.12]
+  [200] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.1.12]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.1.12]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /alertes
+  [200] GET /alertes [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /admin
+  [200] GET /admin [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /
+  [302] GET / [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] POST /login
+  [200] POST /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /alertes
+  [200] GET /alertes [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /logout
+  [302] GET /logout [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /register
+  [200] GET /register [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] POST /appareils/12/supprimer
+  [302] POST /appareils/12/supprimer [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /alertes
+  [200] GET /alertes [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /
+  [200] GET / [192.168.1.12]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.1.12]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.1.12]
+[REQ] GET /register
+  [200] GET /register [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.12]
+[REQ] GET /login
+  [200] GET /login [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] POST /login
+  [302] POST /login [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /set-language/fr
+  [302] GET /set-language/fr [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.1.12]
+[REQ] GET /static/js/app.js
+[REQ] GET /static/css/style.css
+  [304] GET /static/js/app.js [192.168.1.12]
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.1.12]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /
+  [200] GET / [192.168.1.6]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.1.6]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.1.6]
+[REQ] GET /login
+  [200] GET /login [192.168.1.6]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.6]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.1.6]
+[REQ] POST /login
+  [302] POST /login [192.168.1.6]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.6]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.1.6]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.1.6]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [192.168.1.6]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.1.6]
+[REQ] GET /
+  [302] GET / [192.168.1.12]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.1.12]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.1.12]
+[REQ] GET /static/js/app.js
+[REQ] GET /static/logo.png
+  [304] GET /static/js/app.js [192.168.1.12]
+  [304] GET /static/logo.png [192.168.1.12]
+[REQ] GET /
+  [200] GET / [192.168.9.73]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.9.73]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.9.73]
+[REQ] GET /
+  [200] GET / [192.168.9.73]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.9.73]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.9.73]
+[REQ] GET /login
+  [200] GET /login [192.168.9.73]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.9.73]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.9.73]
+[REQ] POST /login
+  [302] POST /login [192.168.9.73]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.9.73]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.9.73]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.9.73]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [192.168.9.73]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.9.73]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.9.73]
+[REQ] GET /alertes
+  [200] GET /alertes [192.168.9.73]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.9.73]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.9.73]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.9.73]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.9.73]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.9.73]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.9.73]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.9.73]
+[REQ] GET /alertes
+  [200] GET /alertes [192.168.9.73]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.9.73]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.9.73]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.9.73]
+[REQ] GET /admin
+  [200] GET /admin [192.168.9.73]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [192.168.9.73]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.9.73]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [192.168.9.73]
+[REQ] GET /
+  [302] GET / [192.168.9.73]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.9.73]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [200] GET /static/logo.png [192.168.9.73]
+  [200] GET /static/css/style.css [192.168.9.73]
+  [200] GET /static/js/app.js [192.168.9.73]
+[REQ] GET /
+  [200] GET / [192.168.40.206]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.40.206]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.40.206]
+[REQ] GET /register
+  [200] GET /register [192.168.40.206]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.40.206]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.40.206]
+[REQ] GET /login
+  [200] GET /login [192.168.40.206]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.40.206]
+[REQ] POST /login
+  [302] POST /login [192.168.40.206]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.40.206]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.40.206]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.40.206]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [192.168.40.206]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.40.206]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.40.206]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.40.206]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.40.206]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.40.206]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [192.168.40.206]
+[REQ] GET /carte
+  [200] GET /carte [192.168.40.206]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.40.206]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.40.206]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [192.168.40.206]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.40.206]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [192.168.40.206]
+[REQ] GET /admin
+  [200] GET /admin [192.168.40.206]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.40.206]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [200] GET /static/logo.png [192.168.40.206]
+  [200] GET /static/js/app.js [192.168.40.206]
+[REQ] GET /
+  [200] GET / [192.168.8.59]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.8.59]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.8.59]
+[REQ] GET /login
+  [200] GET /login [192.168.8.59]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.8.59]
+[REQ] POST /login
+  [302] POST /login [192.168.8.59]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.8.59]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.8.59]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.8.59]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [192.168.8.59]
+[REQ] GET /
+[REQ] GET /
+  [200] GET / [192.168.8.59]
+  [200] GET / [192.168.8.59]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.8.59]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [192.168.8.59]
+[REQ] GET /login
+  [200] GET /login [192.168.8.59]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.8.59]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [192.168.8.59]
+[REQ] POST /login
+  [302] POST /login [192.168.8.59]
+[REQ] GET /dashboard
+  [200] GET /dashboard [192.168.8.59]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.8.59]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [192.168.8.59]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [192.168.8.59]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [192.168.8.59]
+[REQ] GET /appareils
+  [200] GET /appareils [192.168.8.59]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [192.168.8.59]
+[REQ] GET /static/logo.png
+[REQ] GET /static/js/app.js
+  [200] GET /static/logo.png [192.168.8.59]
+  [304] GET /static/js/app.js [192.168.8.59]

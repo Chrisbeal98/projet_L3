@@ -1,0 +1,979 @@
+# Translations for UR.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ur\n"
+"Language-Team: ur <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Veuillez vous connecter pour accéder à cette page."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Cet IMEI est déjà enregistré dans le système."
+
+msgid "Accès non autorisé."
+msgstr "Accès non autorisé."
+
+msgid "Appareil déverrouillé."
+msgstr "Appareil déverrouillé."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alerte créée ! Notifications envoyées."
+
+msgid "Alerte résolue."
+msgstr "Alerte résolue."
+
+msgid "Pas encore de compte ?"
+msgstr "Pas encore de compte ?"
+
+msgid "Mon Profil"
+msgstr "Mon Profil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Connexion réussie ! Bienvenue."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email ou mot de passe incorrect."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Tous les champs obligatoires doivent être remplis."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Les mots de passe ne correspondent pas."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Le mot de passe doit contenir au moins 6 caractères."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Cet email est déjà utilisé."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Compte créé avec succès ! Connectez-vous."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Aucun compte trouvé avec cet email."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Le numéro de téléphone ne correspond pas à celui du compte."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Le nouveau mot de passe est obligatoire."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Mot de passe réinitialisé avec succès ! Connectez-vous."
+
+msgid "Vous avez été déconnecté."
+msgstr "Vous avez été déconnecté."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "La marque, le modèle et l'IMEI sont obligatoires."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Un appareil avec cet IMEI existe déjà."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Appareil enregistré avec succès !"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Vous n'êtes pas autorisé à effectuer cette action."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Appareil verrouillé à distance avec succès."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Appareil déverrouillé avec succès."
+
+msgid "Appareil supprimé."
+msgstr "Appareil supprimé."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Veuillez sélectionner un appareil et un type d'alerte."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Cet appareil ne vous appartient pas."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alerte signalée avec succès. L'appareil a été sécurisé."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alerte marquée comme résolue."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Le prénom, le nom et l'email sont obligatoires."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Cet email est déjà utilisé par un autre compte."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profil mis à jour avec succès !"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Accès réservé aux administrateurs."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Erreur marquée comme résolue."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Vous ne pouvez pas supprimer votre propre compte."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Utilisateur supprimé avec succès."
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Gestion centralisée du système AntiVol"
+
+msgid "Utilisateurs"
+msgstr "Utilisateurs"
+
+msgid "Actifs aujourd'hui"
+msgstr "Actifs aujourd'hui"
+
+msgid "Nouveaux ce mois"
+msgstr "Nouveaux ce mois"
+
+msgid "Appareils"
+msgstr "Appareils"
+
+msgid "Alertes actives"
+msgstr "Alertes actives"
+
+msgid "Analytique"
+msgstr "Analytique"
+
+msgid "Journal d'activité"
+msgstr "Journal d'activité"
+
+msgid "Erreurs"
+msgstr "Erreurs"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Connexions (7 derniers jours)"
+
+msgid "Alertes par type"
+msgstr "Alertes par type"
+
+msgid "Appareils par opérateur"
+msgstr "Appareils par opérateur"
+
+msgid "Résumé du système"
+msgstr "Résumé du système"
+
+msgid "Utilisateurs total"
+msgstr "Utilisateurs total"
+
+msgid "Appareils enregistrés"
+msgstr "Appareils enregistrés"
+
+msgid "Total alertes"
+msgstr "Total alertes"
+
+msgid "Alertes en cours"
+msgstr "Alertes en cours"
+
+msgid "Erreurs non résolues"
+msgstr "Erreurs non résolues"
+
+msgid "Dernières activités"
+msgstr "Dernières activités"
+
+msgid "récentes"
+msgstr "récentes"
+
+msgid "Utilisateur"
+msgstr "Utilisateur"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Détails"
+msgstr "Détails"
+
+msgid "Adresse IP"
+msgstr "Adresse IP"
+
+msgid "Navigateur"
+msgstr "Navigateur"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Aucune activité"
+msgstr "Aucune activité"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Les activités des utilisateurs apparaîtront ici."
+
+msgid "Journal d'erreurs"
+msgstr "Journal d'erreurs"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Résoudre toutes les erreurs ?"
+
+msgid "Tout résoudre"
+msgstr "Tout résoudre"
+
+msgid "non résolues"
+msgstr "non résolues"
+
+msgid "Tout est résolu"
+msgstr "Tout est résolu"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Statut"
+msgstr "Statut"
+
+msgid "Résolu"
+msgstr "Résolu"
+
+msgid "Non résolu"
+msgstr "Non résolu"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Aucune erreur enregistrée"
+
+msgid "Le système fonctionne correctement."
+msgstr "Le système fonctionne correctement."
+
+msgid "Gestion des utilisateurs"
+msgstr "Gestion des utilisateurs"
+
+msgid "comptes"
+msgstr "comptes"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Téléphone"
+msgstr "Téléphone"
+
+msgid "Rôle"
+msgstr "Rôle"
+
+msgid "Inscrit le"
+msgstr "Inscrit le"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Supprimer cet utilisateur et tous ses appareils ?"
+
+msgid "Vous"
+msgstr "Vous"
+
+msgid "Connexions"
+msgstr "Connexions"
+
+msgid "Vol"
+msgstr "Vol"
+
+msgid "Perte"
+msgstr "Perte"
+
+msgid "Anomalie"
+msgstr "Anomalie"
+
+msgid "Alertes"
+msgstr "Alertes"
+
+msgid "Gestion des alertes"
+msgstr "Gestion des alertes"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Signalez un vol ou une perte et suivez l'historique"
+
+msgid "Signaler un vol / perte"
+msgstr "Signaler un vol / perte"
+
+msgid "En cours"
+msgstr "En cours"
+
+msgid "Résolues"
+msgstr "Résolues"
+
+msgid "Historique des alertes"
+msgstr "Historique des alertes"
+
+msgid "Appareil"
+msgstr "Appareil"
+
+msgid "Priorité"
+msgstr "Priorité"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Marquer cette alerte comme résolue ?"
+
+msgid "Résoudre"
+msgstr "Résoudre"
+
+msgid "Aucune alerte"
+msgstr "Aucune alerte"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Bonne nouvelle ! Aucune alerte n'a été signalée."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Signaler un vol ou une perte"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et des n"
+"otifications seront envoyées."
+msgstr ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et des n"
+"otifications seront envoyées."
+
+msgid "Appareil concerné"
+msgstr "Appareil concerné"
+
+msgid "Sélectionner un appareil"
+msgstr "Sélectionner un appareil"
+
+msgid "Type d'alerte"
+msgstr "Type d'alerte"
+
+msgid "Décrivez les circonstances..."
+msgstr "Décrivez les circonstances..."
+
+msgid "Annuler"
+msgstr "Annuler"
+
+msgid "Signaler"
+msgstr "Signaler"
+
+msgid ""
+"Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+
+msgid "Système Anti-Vol"
+msgstr "Système Anti-Vol"
+
+msgid "PRINCIPAL"
+msgstr "PRINCIPAL"
+
+msgid "Tableau de bord"
+msgstr "Tableau de bord"
+
+msgid "SÉCURITÉ"
+msgstr "SÉCURITÉ"
+
+msgid "Géolocalisation"
+msgstr "Géolocalisation"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRATION"
+
+msgid "Déconnexion"
+msgstr "Déconnexion"
+
+msgid "Changer de langue"
+msgstr "Changer de langue"
+
+msgid "Rechercher une langue..."
+msgstr "Rechercher une langue..."
+
+msgid "Profil"
+msgstr "Profil"
+
+msgid "Changer de thème"
+msgstr "Changer de thème"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Vue d'ensemble de la sécurité de vos appareils"
+
+msgid "Ajouter un appareil"
+msgstr "Ajouter un appareil"
+
+msgid "Appareils volés"
+msgstr "Appareils volés"
+
+msgid "Verrouillés à distance"
+msgstr "Verrouillés à distance"
+
+msgid "Alertes récentes"
+msgstr "Alertes récentes"
+
+msgid "Voir tout"
+msgstr "Voir tout"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Aucune alerte. Vos appareils sont en sécurité !"
+
+msgid "Mes appareils"
+msgstr "Mes appareils"
+
+msgid "Aucun appareil enregistré"
+msgstr "Aucun appareil enregistré"
+
+msgid "Ajouter"
+msgstr "Ajouter"
+
+msgid "en attente"
+msgstr "en attente"
+
+msgid "Gestion des appareils"
+msgstr "Gestion des appareils"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Enregistrez et gérez vos smartphones"
+
+msgid "Opérateur"
+msgstr "Opérateur"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Verrouiller cet appareil à distance ?"
+
+msgid "Verrouiller"
+msgstr "Verrouiller"
+
+msgid "Déverrouiller"
+msgstr "Déverrouiller"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Supprimer cet appareil ?"
+
+msgid "Supprimer"
+msgstr "Supprimer"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Ajoutez votre premier smartphone pour commencer à le protéger."
+
+msgid "Nouvel appareil"
+msgstr "Nouvel appareil"
+
+msgid "Marque"
+msgstr "Marque"
+
+msgid "Sélectionner"
+msgstr "Sélectionner"
+
+msgid "Autre"
+msgstr "Autre"
+
+msgid "Modèle"
+msgstr "Modèle"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "tapez *#06# sur votre téléphone"
+
+msgid "Système d'exploitation"
+msgstr "Système d'exploitation"
+
+msgid "Numéro de téléphone"
+msgstr "Numéro de téléphone"
+
+msgid "Enregistrer"
+msgstr "Enregistrer"
+
+msgid "Connexion"
+msgstr "Connexion"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Système de sécurité pour smartphones"
+
+msgid "Adresse email"
+msgstr "Adresse email"
+
+msgid "Mot de passe"
+msgstr "Mot de passe"
+
+msgid "Se connecter"
+msgstr "Se connecter"
+
+msgid "Mot de passe oublié ?"
+msgstr "Mot de passe oublié ?"
+
+msgid ""
+"Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+
+msgid "Créer un compte"
+msgstr "Créer un compte"
+
+msgid "Sécurité maximale"
+msgstr "Sécurité maximale"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Protégez vos données personnelles grâce au verrouillage à distance"
+
+msgid "Localisation GPS"
+msgstr "Localisation GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Retrouvez la position exacte de votre smartphone en temps réel"
+
+msgid "Alertes instantanées"
+msgstr "Alertes instantanées"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Recevez des notifications SMS, email et push en cas de vol"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Localisez vos appareils et visualisez les zones à risque"
+
+msgid "Aucun appareil"
+msgstr "Aucun appareil"
+
+msgid "Zones à risque"
+msgstr "Zones à risque"
+
+msgid "incidents"
+msgstr "incidents"
+
+msgid "Aucune zone signalée"
+msgstr "Aucune zone signalée"
+
+msgid "Niveau"
+msgstr "Niveau"
+
+msgid "Incidents"
+msgstr "Incidents"
+
+msgid "Profile utilisateur"
+msgstr "Profile utilisateur"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Gérez vos informations personnelles"
+
+msgid "Membre depuis"
+msgstr "Membre depuis"
+
+msgid "Modifier mes informations"
+msgstr "Modifier mes informations"
+
+msgid "Prénom"
+msgstr "Prénom"
+
+msgid "Nom"
+msgstr "Nom"
+
+msgid "Changer le mot de passe"
+msgstr "Changer le mot de passe"
+
+msgid "Nouveau mot de passe"
+msgstr "Nouveau mot de passe"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "laisser vide pour ne pas changer"
+
+msgid "Enregistrer les modifications"
+msgstr "Enregistrer les modifications"
+
+msgid "Inscription"
+msgstr "Inscription"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+
+msgid "Confirmer"
+msgstr "Confirmer"
+
+msgid "Créer mon compte"
+msgstr "Créer mon compte"
+
+msgid "Déjà un compte ?"
+msgstr "Déjà un compte ?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Réinitialiser le mot de passe"
+
+msgid "Réinitialisation"
+msgstr "Réinitialisation"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre identité"
+msgstr ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre identité"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Le numéro utilisé lors de l'inscription"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimum 6 caractères"
+
+msgid "Confirmer le mot de passe"
+msgstr "Confirmer le mot de passe"
+
+msgid "Retourner à la"
+msgstr "Retourner à la"
+
+msgid "page de connexion"
+msgstr "page de connexion"
+
+msgid "Vérification sécurisée"
+msgstr "Vérification sécurisée"
+
+msgid ""
+"Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+
+msgid "d"
+msgstr "d"
+
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Editing failed"
+
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Editing failed: {e}"
+
+msgid "Windows error: {error}"
+msgstr "Windows error: {error}"
+
+msgid "deprecated"
+msgstr "deprecated"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Got unexpected extra argument ({args})"
+msgstr "Got unexpected extra argument ({args})"
+
+msgid ""
+"DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Aborted!"
+
+msgid "Commands"
+msgstr "Commands"
+
+msgid "Missing command."
+msgstr "Missing command."
+
+msgid "Value must be an iterable."
+msgstr "Value must be an iterable."
+
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Takes {nargs} values but 1 was given."
+
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is deprecated.{extra_message}"
+msgstr ""
+"DeprecationWarning: The {param_type} {name!r} is deprecated.{extra_message}"
+
+msgid "Name '{name}' defined twice"
+msgstr "Name '{name}' defined twice"
+
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Boolean option {decl!r} cannot use the same flag for true/false."
+
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Could not determine name for option with declarations {decls!r}"
+
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to declare a"
+"n argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"No options defined but a name was passed ({name}). Did you mean to declare a"
+"n argument instead? Did you mean to pass '--{name}'?"
+
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+msgid "default: {default}"
+msgstr "default: {default}"
+
+msgid "required"
+msgstr "required"
+
+msgid "(dynamic)"
+msgstr "(dynamic)"
+
+msgid ""
+"Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Arguments take exactly one parameter declaration, got {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Do you want to continue?"
+
+msgid "Confirm the action without prompting."
+msgstr "Confirm the action without prompting."
+
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, version %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Show the version and exit."
+
+msgid "Show this message and exit."
+msgstr "Show this message and exit."
+
+msgid "Did you mean {possibility}?"
+msgstr "Did you mean {possibility}?"
+
+msgid "Error: {message}"
+msgstr "Error: {message}"
+
+msgid "Try '{command} {option}' for help."
+msgstr "Try '{command} {option}' for help."
+
+msgid "Invalid value: {message}"
+msgstr "Invalid value: {message}"
+
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Invalid value for {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Missing argument"
+
+msgid "Missing option"
+msgstr "Missing option"
+
+msgid "Missing parameter"
+msgstr "Missing parameter"
+
+msgid "Missing {param_type}"
+msgstr "Missing {param_type}"
+
+msgid "Missing parameter: {param_name}"
+msgstr "Missing parameter: {param_name}"
+
+msgid "No such option {name!r}."
+msgstr "No such option {name!r}."
+
+msgid "No such command {name!r}."
+msgstr "No such command {name!r}."
+
+msgid "unknown error"
+msgstr "unknown error"
+
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Could not open file {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Usage:"
+
+msgid "Invalid start character for option ({option})"
+msgstr "Invalid start character for option ({option})"
+
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argument {name!r} takes {nargs} values."
+
+msgid "Option {name!r} does not take a value."
+msgstr "Option {name!r} does not take a value."
+
+msgid "Option {name!r} requires an argument."
+msgstr "Option {name!r} requires an argument."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell completion is not supported for Bash versions older than 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Couldn't detect Bash version, shell completion is not supported."
+
+msgid "Repeat for confirmation"
+msgstr "Repeat for confirmation"
+
+msgid "Error: The two entered values do not match."
+msgstr "Error: The two entered values do not match."
+
+msgid "Error: invalid input"
+msgstr "Error: invalid input"
+
+msgid "Unknown color {colour!r}"
+msgstr "Unknown color {colour!r}"
+
+msgid "Press any key to continue..."
+msgstr "Press any key to continue..."
+
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Choose from:\\n\\t{choices}"
+
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} is not {choice}."
+
+msgid "Choice({choices})"
+msgstr "Choice({choices})"
+
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} does not match the format {format}."
+
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} is not a valid {number_type}."
+
+msgid "{value} is not in the range {range}."
+msgstr "{value} is not in the range {range}."
+
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} is not a valid boolean. Recognized values: {states}"
+
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} is not a valid UUID."
+
+msgid "file"
+msgstr "file"
+
+msgid "directory"
+msgstr "directory"
+
+msgid "path"
+msgstr "path"
+
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} does not exist."
+
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} is a file."
+
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} is a directory."
+
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} is not readable."
+
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} is not writable."
+
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} is not executable."
+
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} values are required, but {len_value} was given."
+
+msgid "Unknown standard stream '{name}'"
+msgstr "Unknown standard stream '{name}'"
+
+msgid "This field is required."
+msgstr "This field is required."
+
+msgid "File does not have an approved extension: {extensions}"
+msgstr "File does not have an approved extension: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "File does not have an approved extension."
+
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "File must be between {min_size} and {max_size} bytes."
+
+msgid "Invalid field name '%s'."
+msgstr "Invalid field name '%s'."
+
+msgid "Field must be equal to %(other_name)s."
+msgstr "Field must be equal to %(other_name)s."
+
+msgid "Field must be at least %(min)d character long."
+msgstr "Field must be at least %(min)d character long."
+
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Field cannot be longer than %(max)d character."
+
+msgid "Field must be exactly %(max)d character long."
+msgstr "Field must be exactly %(max)d character long."
+
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Field must be between %(min)d and %(max)d characters long."
+
+msgid "Number must be at least %(min)s."
+msgstr "Number must be at least %(min)s."
+
+msgid "Number must be at most %(max)s."
+msgstr "Number must be at most %(max)s."
+
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Number must be between %(min)s and %(max)s."
+
+msgid "Invalid input."
+msgstr "Invalid input."
+
+msgid "Invalid email address."
+msgstr "Invalid email address."
+
+msgid "Invalid IP address."
+msgstr "Invalid IP address."
+
+msgid "Invalid Mac address."
+msgstr "Invalid Mac address."
+
+msgid "Invalid URL."
+msgstr "Invalid URL."
+
+msgid "Invalid UUID."
+msgstr "Invalid UUID."
+
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Invalid value, must be one of: %(values)s."
+
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Invalid value, can't be any of: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "This field cannot be edited."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "This field is disabled and cannot have a value."
+
+msgid "Invalid CSRF Token."
+msgstr "Invalid CSRF Token."
+
+msgid "CSRF token missing."
+msgstr "CSRF token missing."
+
+msgid "CSRF failed."
+msgstr "CSRF failed."
+
+msgid "CSRF token expired."
+msgstr "CSRF token expired."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Invalid Choice: could not coerce."
+
+msgid "Choices cannot be None."
+msgstr "Choices cannot be None."
+
+msgid "Not a valid choice."
+msgstr "Not a valid choice."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Invalid choice(s): one or more data inputs could not be coerced."
+
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' is not a valid choice for this field."
+
+msgid "Not a valid datetime value."
+msgstr "Not a valid datetime value."
+
+msgid "Not a valid date value."
+msgstr "Not a valid date value."
+
+msgid "Not a valid time value."
+msgstr "Not a valid time value."
+
+msgid "Not a valid week value."
+msgstr "Not a valid week value."
+
+msgid "Not a valid integer value."
+msgstr "Not a valid integer value."
+
+msgid "Not a valid decimal value."
+msgstr "Not a valid decimal value."
+
+msgid "Not a valid float value."
+msgstr "Not a valid float value."

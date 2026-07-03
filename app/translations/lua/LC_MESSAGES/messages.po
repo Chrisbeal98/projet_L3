@@ -1,0 +1,1045 @@
+# Translations for LUA.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: lua\n"
+"Language-Team: lua <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Tuasakidila bua kubuela mu dibeji edi."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "IMEI eyi ikadi mifunda mu tshiamu."
+
+msgid "Accès non autorisé."
+msgstr "Dibuela didi kadiyi dianyishibue."
+
+msgid "Appareil déverrouillé."
+msgstr "Tshiamu tshiunzulula."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Didimuija difukibua! Mamanyisha atuma."
+
+msgid "Alerte résolue."
+msgstr "Didimuija dijika."
+
+msgid "Pas encore de compte ?"
+msgstr "Kuena ne konte anyi?"
+
+msgid "Mon Profil"
+msgstr "Nsombelu wanyi"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Disangisha dikumbane! Difika dilenga."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email anyi mot de passe mubi."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Miaba yonso idi ikengedibua idi ne tshia kukumbaja."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Mêyi a tshisokomenu kaena apetangana to."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Mukanda wa tshisokomenu udi ne tshia kuikala ne maleta 6."
+
+msgid "Cet email est déjà utilisé."
+msgstr "E-mail eu ukadi muenza mudimu."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Konte muenza bimpa! Buela."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Kakuena konte mipeta mu e-mail ewu to."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Nomba ya telefone kayena ipetangana ne nimero ya konte to."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Mot de passe mupiamupia udi ne tshia kuikalaku."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Dipingaja dia meyi a tshisokomenu ndikumbane! Buela."
+
+msgid "Vous avez été déconnecté."
+msgstr "Udi mukosolola."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Tshimanyishilu, tshilejelu ne IMEI bidi bikengedibua."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Tshiamu tshidi ne IMEI etshi tshikadiku."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Tshiamu tshidi tshifunda bimpa!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Kuena ne bukokeshi bua kuenza bualu ebu to."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Tshiamu tshikanga bimpe ku bule."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Tshiamu tshiunzulula bimpa."
+
+msgid "Appareil supprimé."
+msgstr "Tshiamu tshijimija."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Sungula tshiamu ne mushindu wa didimuija."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Tshiamu etshi ki ntshiebe to."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Didimuija diakafila luapolo luimpe. Tshiamu etshi ntshilama bimpe."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Didimuija dimanyishibua bu dijikijibua."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Dîna dia kumpala, dia ndekelu ne e-mail bidi bikengedibua."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "E-mail eu mmuenze mudimu kale kudi konte mukuabu."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Muyuki mulongolola bimpa!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Bukokeshi budi anu bua balombodi."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Tshilema tshileja bu tshijika."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Kuena mua kujimija konte webe to."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Muena mudimu mmufute bimpa."
+
+msgid "Administration"
+msgstr "Bulombodi"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Dilombola dia bulongolodi bua diluisha buivi"
+
+msgid "Utilisateurs"
+msgstr "Bena mudimu"
+
+msgid "Actifs aujourd'hui"
+msgstr "Udi wenza mudimu lelu"
+
+msgid "Nouveaux ce mois"
+msgstr "Tshipiatshipia ngondo ewu"
+
+msgid "Appareils"
+msgstr "Biamu"
+
+msgid "Alertes actives"
+msgstr "Madimuija adi enzeka"
+
+msgid "Analytique"
+msgstr "Tshikebelu"
+
+msgid "Journal d'activité"
+msgstr "Mukanda wa midimu"
+
+msgid "Erreurs"
+msgstr "Bilema"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Disangisha (matuku 7 a ndekelu)"
+
+msgid "Alertes par type"
+msgstr "Madimuija bilondeshile mishindu"
+
+msgid "Appareils par opérateur"
+msgstr "Biamu bia mudimu bilondeshile muena mudimu"
+
+msgid "Résumé du système"
+msgstr "Tshikoso tshia bulongolodi"
+
+msgid "Utilisateurs total"
+msgstr "Bena mudimu bonso"
+
+msgid "Appareils enregistrés"
+msgstr "Biamu bifunda"
+
+msgid "Total alertes"
+msgstr "Madimuija onso"
+
+msgid "Alertes en cours"
+msgstr "Madimuija a mpindieu"
+
+msgid "Erreurs non résolues"
+msgstr "Bilema bidi kabiyi bijika"
+
+msgid "Dernières activités"
+msgstr "Midimu ya lelu"
+
+msgid "récentes"
+msgstr "bipiabipia"
+
+msgid "Utilisateur"
+msgstr "Muena mudimu"
+
+msgid "Action"
+msgstr "Kuenza"
+
+msgid "Détails"
+msgstr "Malu a makese"
+
+msgid "Adresse IP"
+msgstr "IP adrese"
+
+msgid "Navigateur"
+msgstr "Tshikebelu"
+
+msgid "Date"
+msgstr "Dituku"
+
+msgid "Aucune activité"
+msgstr "Kakuena mudimu to"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Midimu ya bena mudimu neyimueneke apa."
+
+msgid "Journal d'erreurs"
+msgstr "Mukanda wa bilema"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Kulongolola bilema bionso anyi?"
+
+msgid "Tout résoudre"
+msgstr "Ujikije bionso"
+
+msgid "non résolues"
+msgstr "kayi mujikije"
+
+msgid "Tout est résolu"
+msgstr "Bionso mbijika"
+
+msgid "Type"
+msgstr "Mushindu"
+
+msgid "Description"
+msgstr "Diumvuija"
+
+msgid "Statut"
+msgstr "Mushindu"
+
+msgid "Résolu"
+msgstr "Bijikija"
+
+msgid "Non résolu"
+msgstr "Kakuyi kujikija"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Kakuena bilema bifunda to"
+
+msgid "Le système fonctionne correctement."
+msgstr "Nsombelu udi wenza mudimu bimpa."
+
+msgid "Gestion des utilisateurs"
+msgstr "Dilombola dia bena mudimu"
+
+msgid "comptes"
+msgstr "konte"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Tshiamu thia alo alo"
+
+msgid "Rôle"
+msgstr "Mudimu"
+
+msgid "Inscrit le"
+msgstr "Mufundisha pa"
+
+msgid "Actions"
+msgstr "Bienzedi"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Kujimija muena mudimu ewu ne biamu biende bionso anyi?"
+
+msgid "Vous"
+msgstr "WEWA"
+
+msgid "Connexions"
+msgstr "Malanda"
+
+msgid "Vol"
+msgstr "Dibuka"
+
+msgid "Perte"
+msgstr "Kujimija"
+
+msgid "Anomalie"
+msgstr "Anomalie"
+
+msgid "Alertes"
+msgstr "Madimuija"
+
+msgid "Gestion des alertes"
+msgstr "Dilombola dia didimuija"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Umanyishe buivi anyi dijimija ne ulonde malu a kale"
+
+msgid "Signaler un vol / perte"
+msgstr "Kumanyisha buivi/dijimija"
+
+msgid "En cours"
+msgstr "Bidi bienzeka"
+
+msgid "Résolues"
+msgstr "Bijikija"
+
+msgid "Historique des alertes"
+msgstr "Malu a kale a didimuija"
+
+msgid "Appareil"
+msgstr "Tshiamu"
+
+msgid "Priorité"
+msgstr "Tshia mushinga"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Leja didimuija edi bu dijika anyi?"
+
+msgid "Résoudre"
+msgstr "Kujikija"
+
+msgid "Aucune alerte"
+msgstr "Kakuyi didimuija"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Lumu luimpe! Kakuena didimuija didibu bamanyishe to."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Kumanyisha buivi anyi dijimija"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Paudi ufila luapolo lua buivi, tshiamu tshiebe netshikale tshikanga "
+"nkayatshi ne nebakutumine mamanyisha."
+
+msgid "Appareil concerné"
+msgstr "Tshiamu tshidi tshinyanguka"
+
+msgid "Sélectionner un appareil"
+msgstr "Sungula tshiamu"
+
+msgid "Type d'alerte"
+msgstr "Mushindu wa didimuija"
+
+msgid "Décrivez les circonstances..."
+msgstr "Umvuija nsombelu..."
+
+msgid "Annuler"
+msgstr "kumbusha"
+
+msgid "Signaler"
+msgstr "Lapolu"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Tshiamu tshia meji tshia kukandamena buivi — Tshiamu tshia bukubi tshia "
+"telefone ya bianza"
+
+msgid "Système Anti-Vol"
+msgstr "Tshiamu tshia kukandamena buivi"
+
+msgid "PRINCIPAL"
+msgstr "TSHIA MUSHINGA"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "BUKUBI"
+
+msgid "Géolocalisation"
+msgstr "Muaba wa buloba"
+
+msgid "ADMINISTRATION"
+msgstr "BULOMBODI"
+
+msgid "Déconnexion"
+msgstr "Kukosolola"
+
+msgid "Changer de langue"
+msgstr "Shintulula muakulu"
+
+msgid "Rechercher une langue..."
+msgstr "Keba muakulu..."
+
+msgid "Profil"
+msgstr "Tshinfuanyi"
+
+msgid "Changer de thème"
+msgstr "Shintulula tshiena bualu"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Tshikoso tshia bukubi bua tshiamu tshieba"
+
+msgid "Ajouter un appareil"
+msgstr "Weja tshiamu"
+
+msgid "Appareils volés"
+msgstr "Bintu biiba"
+
+msgid "Verrouillés à distance"
+msgstr "Kukanga ku bule"
+
+msgid "Alertes récentes"
+msgstr "Mamanyisha a lelu"
+
+msgid "Voir tout"
+msgstr "Tangila bionso"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Kakuyi didimuija. Biamu biebe bidi mu bukubi!"
+
+msgid "Mes appareils"
+msgstr "Biamu bianyi"
+
+msgid "Aucun appareil enregistré"
+msgstr "Kakuena tshiamu tshifunda to"
+
+msgid "Ajouter"
+msgstr "Kukumbaja"
+
+msgid "en attente"
+msgstr "mu diindila"
+
+msgid "Gestion des appareils"
+msgstr "Dilombola dia biamu"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Difundija ne ulombole telefone yebe ya bianza"
+
+msgid "Opérateur"
+msgstr "Muena mudimu"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Kukanga tshiamu etshi ku bule anyi?"
+
+msgid "Verrouiller"
+msgstr "Tshikangidi"
+
+msgid "Déverrouiller"
+msgstr "Kangula"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Kujimija tshiamu etshi anyi?"
+
+msgid "Supprimer"
+msgstr "KUMBUSHA"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Weja telefone webe wa kumpala bua kutuadija kumulama."
+
+msgid "Nouvel appareil"
+msgstr "Tshiamu tshipiatshipia"
+
+msgid "Marque"
+msgstr "Tshimanyinu"
+
+msgid "Sélectionner"
+msgstr "Kusungula"
+
+msgid "Autre"
+msgstr "Mukwabu"
+
+msgid "Modèle"
+msgstr "Tshilejelu"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "funda *#06# mu telefone webe"
+
+msgid "Système d'exploitation"
+msgstr "Système d'exploitation"
+
+msgid "Numéro de téléphone"
+msgstr "Nomba ya telefone"
+
+msgid "Enregistrer"
+msgstr "Kupandisha"
+
+msgid "Connexion"
+msgstr "Disangisha"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Tshiamu tshia bukubi tshia telefone ya bianza"
+
+msgid "Adresse email"
+msgstr "Adelese wa e-mail"
+
+msgid "Mot de passe"
+msgstr "Tshikemu"
+
+msgid "Se connecter"
+msgstr "Buela"
+
+msgid "Mot de passe oublié ?"
+msgstr "Udi mupue mot de passe muoyo anyi?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Ukadiku ne konte anyi? Shi ki mmuomu, tungunuka ne kuenza konte webe!"
+
+msgid "Créer un compte"
+msgstr "Enza konte"
+
+msgid "Sécurité maximale"
+msgstr "Bukubi bua bungi"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Lama bintu biebe bia pa nkayebe ne dikanga dia ku bule"
+
+msgid "Localisation GPS"
+msgstr "Muaba wa GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Keba muaba menemene udi telefone webe wa bianza mu tshikondo tshilelela"
+
+msgid "Alertes instantanées"
+msgstr "Didimuija dia lukasa"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Angata SMS, e-mail ne mamanyisha a ku Enternete padiku buivi"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Keba biamu biebe ne tangila miaba idi njiwu"
+
+msgid "Aucun appareil"
+msgstr "Kakuena tshiamu"
+
+msgid "Zones à risque"
+msgstr "Miaba idi mu njiwu"
+
+msgid "incidents"
+msgstr "malu adi menzeke"
+
+msgid "Aucune zone signalée"
+msgstr "Kakuena miaba mimanyishibua to"
+
+msgid "Niveau"
+msgstr "Nivo"
+
+msgid "Incidents"
+msgstr "Bilumbu"
+
+msgid "Profile utilisateur"
+msgstr "Muyuki wa muena mudimu"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Lama malu eba nkayebe"
+
+msgid "Membre depuis"
+msgstr "Muena mu tshisumbu katshia"
+
+msgid "Modifier mes informations"
+msgstr "Shintulula ngumu yami"
+
+msgid "Prénom"
+msgstr "Dîna dia kumpala"
+
+msgid "Nom"
+msgstr "Dina"
+
+msgid "Changer le mot de passe"
+msgstr "Shintulula meyi a tshisokomenu"
+
+msgid "Nouveau mot de passe"
+msgstr "Mot de passe mupiamupia"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "shiya munda mutupu bua kubenga kushintuluka"
+
+msgid "Enregistrer les modifications"
+msgstr "Lama malu adibu bashintulule"
+
+msgid "Inscription"
+msgstr "Difundisha"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Tuasakidila ku Anti-Theft bua bukubi buimpe bua biamu biebe"
+
+msgid "Confirmer"
+msgstr "Kujadika"
+
+msgid "Créer mon compte"
+msgstr "Enza konte wanyi"
+
+msgid "Déjà un compte ?"
+msgstr "Ukadi ne konte anyi?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Kupingaja meyi a tshisokomenu"
+
+msgid "Réinitialisation"
+msgstr "Kupingaja"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Funda e-mail webe ne nimero ya telefone bua kujadika bumuntu buebe"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Nomba ivuabu benze nayi mudimu pavuabu badifundisha"
+
+msgid "Minimum 6 caractères"
+msgstr "Maleta 6"
+
+msgid "Confirmer le mot de passe"
+msgstr "Ikala ujadika mot de passe"
+
+msgid "Retourner à la"
+msgstr "Pingana ku"
+
+msgid "page de connexion"
+msgstr "dibeji dia kubuela"
+
+msgid "Vérification sécurisée"
+msgstr "Dijadika dia bukubi"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Bumuntu buebe budi bujadikibua ku diambuluisha dia e-mail ne nomba webe "
+"wa telefone"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Sungula meyi a tshisokomenu adi ne maleta 6"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{mufundi}: Dilongolola diakapanga"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Editing failed: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Tshilema tshia Windows: {tshilema}"
+
+msgid "deprecated"
+msgstr "mupangile"
+
+msgid "Options"
+msgstr "Malu a kusungula"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Ndi ne bualu bukuabu budi kabuyi butekemena ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Didimuija dia dijimija: Dîyi dia {name!r} ndipangile.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Mushipa!"
+
+msgid "Commands"
+msgstr "Mikenji"
+
+msgid "Missing command."
+msgstr "Mukenji udi mupangile."
+
+msgid "Value must be an iterable."
+msgstr "Mushinga udi ne tshia kuikala tshintu tshidi mua kupingana."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Udi wangata mishinga ya {nargs} kadi 1 uvua mufila."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "Didimuija dia dijimija: {param_type} {name!r} mmupangile.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Dîna '{dina}' diumvuija misangu ibidi"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Tshintu tshia Boolean {decl!r} katshiena mua kuenza mudimu ne dibeji dia "
+"muomumue bua bulelela/dishima to."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Katuena mua kumanya dina dia tshintu tshidi ne mamanyisha {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Kakuena mishindu mifila to, kadi dina difila ({dîna}). Uvuaku musue "
+"kumanyisha tshilumbu pamutu pa nanku anyi? Uvua musue kufila '--{name}' "
+"anyi?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "tshibangidilu: {tshibangidilu}"
+
+msgid "required"
+msgstr "bidi bikengela"
+
+msgid "(dynamic)"
+msgstr "(dynamic)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Bilumbu bidi bilomba dimanyisha dimue dia parametre, got {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Udi musue kutungunuka anyi?"
+
+msgid "Confirm the action without prompting."
+msgstr "Ikala ujadika tshienzedi kakuyi dilomba."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, version %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Leja version ne patuka."
+
+msgid "Show this message and exit."
+msgstr "Leja mukenji ewu ne upatuke."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Uvua musue kuamba ne: {tshidi mua kuenzeka} anyi?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Tshilema: {mukenji}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Teta '{command} {option}' bua kupeta diambuluisha."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Mushinga mubi: {mukenji}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Mushinga mubi wa {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Tshilumbu tshidi tshijimina"
+
+msgid "Missing option"
+msgstr "Tshintu tshidi tshijimina"
+
+msgid "Missing parameter"
+msgstr "Tshintu tshidi tshijimina"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} udi kayiku"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Tshintu tshidi tshijimina: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Kakuena mushindu wa nunku to {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Kakuena dîyi dia nunku to {name!r}."
+
+msgid "unknown error"
+msgstr "tshilema tshidi katshiyi tshimanyike"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Kakuena mushindu wa kunzulula mukanda {dîna dia mukanda!r}: {mukenji}"
+
+msgid "Usage:"
+msgstr "Kwenzela:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Maleta a ntuadijilu adi kaayi makane bua disungula ({disungula})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Tshilumbu {name!r} tshidi tshiangata {nargs} mishinga."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Tshintu {name!r} katshiena ne mushinga to."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Disungula {name!r} didi dilomba tshilumbu."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Dijikija dia tshibuelelu kadiena dianyishibua bua mishindu ya Bash ya "
+"kale kupita 4.4 to."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Katuena mua kumona version wa Bash to, dijikija dia shell kadiena "
+"dianyishibue to."
+
+msgid "Repeat for confirmation"
+msgstr "Pingaja bua kujadika"
+
+msgid "Error: The two entered values do not match."
+msgstr "Tshilema: Mishinga ibidi mibueja kayena ipetangana to."
+
+msgid "Error: invalid input"
+msgstr "Tshilema: tshijadiki tshidi katshiyi tshikumbane"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Dikala didi kadiyi dimanyike {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Fina tshintu tshionso bua kutungunuka..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Sungula mu:\\n\\t{masungula}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} ki {choice} to."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Disungula({disungula})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} kena upetangana ne {format} to."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ki {number_type} muimpe to."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{mushinga} kena mu tshitupa tshia {tshitupa} to."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ki mbualu buakane to. Mishinga mimanyike: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ki UUID muimpe to."
+
+msgid "file"
+msgstr "kuteka"
+
+msgid "directory"
+msgstr "tshilaminu"
+
+msgid "path"
+msgstr "njila"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} kenaku to."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} i mukanda."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} i tshilaminu tshia bintu."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} kayena mua kubala to."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} kayena mua kufunda to."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} kena mua kuenzeka to."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} values ​​bidi bikengedibua, kadi {len_value} uvua mufila."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Unknown standard stream '{name}'"
+
+msgid "This field is required."
+msgstr "Tshitupa etshi tshidi tshikengela."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Mukanda kawena ne tshitupa tshianyishibue to: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Mukanda kawena ne tshitupa tshia pa mutu tshianyishibue to."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Mukanda udi ne tshia kuikala pankatshi pa {min_size} ne {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Dîna dia muaba '%s' didi kadiyi diakane."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Tshitupa tshidi ne tshia kuikala tshifuanangane ne %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Tshitupa tshidi ne tshia kuikala ne bule bua %(min)d."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Tshitupa katshiena mua kuikala tshile kupita %(max)d maleta to."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Tshitupa tshidi ne tshia kuikala ne bule bua %(max)d."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Tshitupa tshidi ne tshia kuikala pankatshi pa %(min)d ne %(max)d maleta."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Bungi budi ne tshia kuikala nansha %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Nomba udi ne tshia kuikala pa mutu pa %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Nomba udi ne tshia kuikala pankatshi pa %(min)s ne %(max)s."
+
+msgid "Invalid input."
+msgstr "Dibueja didi kadiyi diakane."
+
+msgid "Invalid email address."
+msgstr "Adelese ya e-mail idi kayiyi mimpe."
+
+msgid "Invalid IP address."
+msgstr "Adelese wa IP mubi."
+
+msgid "Invalid Mac address."
+msgstr "Adelese wa Mac mubi."
+
+msgid "Invalid URL."
+msgstr "URL mubi."
+
+msgid "Invalid UUID."
+msgstr "UUID ki mmuakane to."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Mushinga mubi, udi ne tshia kuikala umue wa ku: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Mushinga mubi, kena mua kuikala nansha umue wa ku: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Muaba eu kawena mua kushintuluka to."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Muaba eu mmupangisha ne kena mua kuikala ne mushinga to."
+
+msgid "Invalid CSRF Token."
+msgstr "Tshimanyinu tshia CSRF tshidi katshiyi tshikumbane."
+
+msgid "CSRF token missing."
+msgstr "Tshimanyinu tshia CSRF tshijimine."
+
+msgid "CSRF failed."
+msgstr "CSRF mupangile."
+
+msgid "CSRF token expired."
+msgstr "Tshimanyinu tshia CSRF tshijika."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Disungula dibi: kadivua mua kuenzeja to."
+
+msgid "Choices cannot be None."
+msgstr "Masungula kaena mua kuikala nansha."
+
+msgid "Not a valid choice."
+msgstr "Ki ndisungula dimpe to."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Masungula adi kaayi makane: tshintu tshimue anyi bia bungi bia kubueja "
+"kabiena mua kuenzejibua to."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' ki mmushindu muimpe wa kusungula bua tshitupa etshi to."
+
+msgid "Not a valid datetime value."
+msgstr "Ki mushinga wa dituku ne dîba udi mukumbane to."
+
+msgid "Not a valid date value."
+msgstr "Ki mushinga wa dituku udi mukumbane to."
+
+msgid "Not a valid time value."
+msgstr "Ki mushinga wa dîba udi mukumbane to."
+
+msgid "Not a valid week value."
+msgstr "Ki mushinga wa lumingu udi mukumbane to."
+
+msgid "Not a valid integer value."
+msgstr "Ki mushinga wa nomba mujima udi mukumbane to."
+
+msgid "Not a valid decimal value."
+msgstr "Ki mushinga wa dikumi udi mukumbane to."
+
+msgid "Not a valid float value."
+msgstr "Ki mushinga wa float udi mukumbane to."
+

@@ -1,0 +1,1041 @@
+# Translations for HU.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: hu\n"
+"Language-Team: hu <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Kérjük, jelentkezzen be az oldal eléréséhez."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Ez az IMEI már regisztrálva van a rendszerben."
+
+msgid "Accès non autorisé."
+msgstr "Jogosulatlan hozzáférés."
+
+msgid "Appareil déverrouillé."
+msgstr "Az eszköz feloldva."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Figyelmeztetés létrehozva! Értesítések elküldve."
+
+msgid "Alerte résolue."
+msgstr "Riasztás megoldva."
+
+msgid "Pas encore de compte ?"
+msgstr "Még nincs fiók?"
+
+msgid "Mon Profil"
+msgstr "Saját profil"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Sikeres csatlakozás! Üdvözöljük."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Hibás e-mail cím vagy jelszó."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Minden kötelező mezőt ki kell tölteni."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "A jelszavak nem egyeznek."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "A jelszónak legalább 6 karakterből kell állnia."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Ez az e-mail már használatban van."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "A fiók sikeresen létrehozva! Jelentkezzen be."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Nem található fiók ezzel az e-mail-címmel."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "A telefonszám nem egyezik a számlaszámmal."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Az új jelszó kötelező."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Sikeres jelszó-visszaállítás! Jelentkezzen be."
+
+msgid "Vous avez été déconnecté."
+msgstr "Ön megszakadt."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "A márka, a modell és az IMEI megadása kötelező."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Már létezik ilyen IMEI-vel rendelkező eszköz."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Az eszköz sikeresen regisztrálva!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Nincs jogosultsága ennek a műveletnek a végrehajtására."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Az eszköz távolról sikeresen lezárva."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Az eszköz sikeresen feloldva."
+
+msgid "Appareil supprimé."
+msgstr "Eszköz törölve."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Kérjük, válasszon egy eszközt és a riasztás típusát."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Ez az eszköz nem az Öné."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "A riasztás sikeresen jelentve. A készüléket biztosították."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Riasztás megoldottként megjelölve."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Keresztnév, vezetéknév és email cím kötelező."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Ezt az e-mail-címet már használja egy másik fiók."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "A profil sikeresen frissítve!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "A hozzáférés a rendszergazdák számára fenntartva."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Hiba megoldottként megjelölve."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Nem törölheti saját fiókját."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Felhasználó sikeresen törölve."
+
+msgid "Administration"
+msgstr "Adminisztráció"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "A Lopásgátló rendszer központi kezelése"
+
+msgid "Utilisateurs"
+msgstr "Felhasználók"
+
+msgid "Actifs aujourd'hui"
+msgstr "Aktív ma"
+
+msgid "Nouveaux ce mois"
+msgstr "Új ebben a hónapban"
+
+msgid "Appareils"
+msgstr "Eszközök"
+
+msgid "Alertes actives"
+msgstr "Aktív riasztások"
+
+msgid "Analytique"
+msgstr "Elemző"
+
+msgid "Journal d'activité"
+msgstr "Tevékenységnapló"
+
+msgid "Erreurs"
+msgstr "Hibák"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Kapcsolatok (elmúlt 7 nap)"
+
+msgid "Alertes par type"
+msgstr "Figyelmeztetések típus szerint"
+
+msgid "Appareils par opérateur"
+msgstr "Eszközök kezelő szerint"
+
+msgid "Résumé du système"
+msgstr "Rendszer összefoglaló"
+
+msgid "Utilisateurs total"
+msgstr "Összes felhasználó"
+
+msgid "Appareils enregistrés"
+msgstr "Regisztrált eszközök"
+
+msgid "Total alertes"
+msgstr "Összes riasztás"
+
+msgid "Alertes en cours"
+msgstr "Aktuális figyelmeztetések"
+
+msgid "Erreurs non résolues"
+msgstr "Megoldatlan hibák"
+
+msgid "Dernières activités"
+msgstr "Legújabb tevékenységek"
+
+msgid "récentes"
+msgstr "legutóbbi"
+
+msgid "Utilisateur"
+msgstr "Felhasználó"
+
+msgid "Action"
+msgstr "Akció"
+
+msgid "Détails"
+msgstr "Részletek"
+
+msgid "Adresse IP"
+msgstr "IP-cím"
+
+msgid "Navigateur"
+msgstr "Böngésző"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "Aucune activité"
+msgstr "Nincs tevékenység"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Itt jelennek meg a felhasználói tevékenységek."
+
+msgid "Journal d'erreurs"
+msgstr "Hibanapló"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Kijavítja az összes hibát?"
+
+msgid "Tout résoudre"
+msgstr "Mindent megoldani"
+
+msgid "non résolues"
+msgstr "megoldatlan"
+
+msgid "Tout est résolu"
+msgstr "Minden megoldva"
+
+msgid "Type"
+msgstr "Fajta"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Statut"
+msgstr "Állapot"
+
+msgid "Résolu"
+msgstr "Megoldva"
+
+msgid "Non résolu"
+msgstr "Megoldatlan"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Nem rögzítettek hibákat"
+
+msgid "Le système fonctionne correctement."
+msgstr "A rendszer megfelelően működik."
+
+msgid "Gestion des utilisateurs"
+msgstr "Felhasználókezelés"
+
+msgid "comptes"
+msgstr "számlák"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Téléphone"
+msgstr "Telefon"
+
+msgid "Rôle"
+msgstr "Szerep"
+
+msgid "Inscrit le"
+msgstr "Regisztrálva:"
+
+msgid "Actions"
+msgstr "Akciók"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Törli ezt a felhasználót és az összes eszközét?"
+
+msgid "Vous"
+msgstr "TE"
+
+msgid "Connexions"
+msgstr "Kapcsolatok"
+
+msgid "Vol"
+msgstr "Repülési"
+
+msgid "Perte"
+msgstr "Veszteség"
+
+msgid "Anomalie"
+msgstr "Anomália"
+
+msgid "Alertes"
+msgstr "Figyelmeztetések"
+
+msgid "Gestion des alertes"
+msgstr "Riasztáskezelés"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Jelentse a lopást vagy elvesztést, és kövesse nyomon az előzményeket"
+
+msgid "Signaler un vol / perte"
+msgstr "Lopás/veszteség bejelentése"
+
+msgid "En cours"
+msgstr "Folyamatban van"
+
+msgid "Résolues"
+msgstr "Megoldva"
+
+msgid "Historique des alertes"
+msgstr "Riasztási előzmények"
+
+msgid "Appareil"
+msgstr "Eszköz"
+
+msgid "Priorité"
+msgstr "Prioritás"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Megjelöli ezt a figyelmeztetést megoldottként?"
+
+msgid "Résoudre"
+msgstr "Oldja meg"
+
+msgid "Aucune alerte"
+msgstr "Nincs riasztás"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Jó hír! Nem jelentettek riasztást."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Jelentse a lopást vagy elvesztést"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"A lopás bejelentésével az eszköz automatikusan zárolásra kerül, és "
+"értesítéseket küld a rendszer."
+
+msgid "Appareil concerné"
+msgstr "Érintett eszköz"
+
+msgid "Sélectionner un appareil"
+msgstr "Válasszon ki egy eszközt"
+
+msgid "Type d'alerte"
+msgstr "Figyelmeztetés típusa"
+
+msgid "Décrivez les circonstances..."
+msgstr "Írd le a körülményeket..."
+
+msgid "Annuler"
+msgstr "Mégse"
+
+msgid "Signaler"
+msgstr "Jelentés"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Intelligens lopásgátló rendszer – Biztonsági platform okostelefonokhoz"
+
+msgid "Système Anti-Vol"
+msgstr "Lopásgátló rendszer"
+
+msgid "PRINCIPAL"
+msgstr "FŐ"
+
+msgid "Tableau de bord"
+msgstr "Műszerfal"
+
+msgid "SÉCURITÉ"
+msgstr "BIZTONSÁG"
+
+msgid "Géolocalisation"
+msgstr "Geolocation"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISZTRÁCIÓ"
+
+msgid "Déconnexion"
+msgstr "Leválasztás"
+
+msgid "Changer de langue"
+msgstr "Nyelv módosítása"
+
+msgid "Rechercher une langue..."
+msgstr "Nyelv keresése..."
+
+msgid "Profil"
+msgstr "Profil"
+
+msgid "Changer de thème"
+msgstr "Téma módosítása"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Az eszköz biztonságának áttekintése"
+
+msgid "Ajouter un appareil"
+msgstr "Adjon hozzá egy eszközt"
+
+msgid "Appareils volés"
+msgstr "Ellopott eszközök"
+
+msgid "Verrouillés à distance"
+msgstr "Távolról zárva"
+
+msgid "Alertes récentes"
+msgstr "Legutóbbi figyelmeztetések"
+
+msgid "Voir tout"
+msgstr "Az összes megtekintése"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Nincs riasztás. Eszközei biztonságban vannak!"
+
+msgid "Mes appareils"
+msgstr "Saját készülékeim"
+
+msgid "Aucun appareil enregistré"
+msgstr "Nincs regisztrált eszköz"
+
+msgid "Ajouter"
+msgstr "Hozzáadás"
+
+msgid "en attente"
+msgstr "tartásban"
+
+msgid "Gestion des appareils"
+msgstr "Eszközkezelés"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Regisztrálja és kezelje okostelefonját"
+
+msgid "Opérateur"
+msgstr "Operátor"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Lezárja távolról ezt az eszközt?"
+
+msgid "Verrouiller"
+msgstr "Zár"
+
+msgid "Déverrouiller"
+msgstr "Kinyit"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Törli ezt az eszközt?"
+
+msgid "Supprimer"
+msgstr "TÖRÖL"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Adja hozzá első okostelefonját a védelmének megkezdéséhez."
+
+msgid "Nouvel appareil"
+msgstr "Új készülék"
+
+msgid "Marque"
+msgstr "Márka"
+
+msgid "Sélectionner"
+msgstr "Válassza ki"
+
+msgid "Autre"
+msgstr "Más"
+
+msgid "Modèle"
+msgstr "Modell"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "írja be a telefonján a *#06# számot"
+
+msgid "Système d'exploitation"
+msgstr "Operációs rendszer"
+
+msgid "Numéro de téléphone"
+msgstr "Telefonszám"
+
+msgid "Enregistrer"
+msgstr "Megtakarítás"
+
+msgid "Connexion"
+msgstr "Kapcsolat"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Okostelefon biztonsági rendszer"
+
+msgid "Adresse email"
+msgstr "E-mail cím"
+
+msgid "Mot de passe"
+msgstr "Jelszó"
+
+msgid "Se connecter"
+msgstr "Jelentkezzen be"
+
+msgid "Mot de passe oublié ?"
+msgstr "Elfelejtett jelszó?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Van már fiókod? Ellenkező esetben folytassa a fiók létrehozásával!"
+
+msgid "Créer un compte"
+msgstr "Hozzon létre egy fiókot"
+
+msgid "Sécurité maximale"
+msgstr "Maximális biztonság"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Védje személyes adatait távzárral"
+
+msgid "Localisation GPS"
+msgstr "GPS hely"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Keresse meg okostelefonja pontos helyét valós időben"
+
+msgid "Alertes instantanées"
+msgstr "Azonnali figyelmeztetések"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Kaphat SMS-t, e-mailt és push értesítéseket lopás esetén"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Keresse meg eszközeit, és jelenítse meg a kockázati területeket"
+
+msgid "Aucun appareil"
+msgstr "Nincs eszköz"
+
+msgid "Zones à risque"
+msgstr "Kockázatos területek"
+
+msgid "incidents"
+msgstr "események"
+
+msgid "Aucune zone signalée"
+msgstr "Nincs jelentett terület"
+
+msgid "Niveau"
+msgstr "Szint"
+
+msgid "Incidents"
+msgstr "Incidensek"
+
+msgid "Profile utilisateur"
+msgstr "Felhasználói profil"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Kezelje személyes adatait"
+
+msgid "Membre depuis"
+msgstr "óta tag"
+
+msgid "Modifier mes informations"
+msgstr "Szerkessze az adataimat"
+
+msgid "Prénom"
+msgstr "Keresztnév"
+
+msgid "Nom"
+msgstr "Név"
+
+msgid "Changer le mot de passe"
+msgstr "Jelszó módosítása"
+
+msgid "Nouveau mot de passe"
+msgstr "Új jelszó"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "hagyja üresen, hogy ne változzon"
+
+msgid "Enregistrer les modifications"
+msgstr "Módosítások mentése"
+
+msgid "Inscription"
+msgstr "Bejegyzés"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"Üdvözöljük az Anti-Theft szolgáltatásban az eszközeinek jobb biztonsága "
+"érdekében"
+
+msgid "Confirmer"
+msgstr "Erősítse meg"
+
+msgid "Créer mon compte"
+msgstr "Hozd létre a fiókomat"
+
+msgid "Déjà un compte ?"
+msgstr "Már van fiókja?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Jelszó visszaállítása"
+
+msgid "Réinitialisation"
+msgstr "Reset"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Adja meg e-mail-címét és telefonszámát személyazonosságának igazolásához"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "A regisztráció során használt szám"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimum 6 karakter"
+
+msgid "Confirmer le mot de passe"
+msgstr "Erősítse meg a jelszót"
+
+msgid "Retourner à la"
+msgstr "Vissza ide"
+
+msgid "page de connexion"
+msgstr "bejelentkezési oldal"
+
+msgid "Vérification sécurisée"
+msgstr "Biztonságos ellenőrzés"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Személyazonosságát e-mail-címe és telefonszáma alapján igazoljuk"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Válasszon legalább 6 karakterből álló biztonságos jelszót"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: A szerkesztés sikertelen"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: A szerkesztés sikertelen: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows hiba: {error}"
+
+msgid "deprecated"
+msgstr "elavult"
+
+msgid "Options"
+msgstr "Opciók"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Váratlan extra argumentum ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Elavulási figyelmeztetés: A {name!r} parancs elavult.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Megszakítva!"
+
+msgid "Commands"
+msgstr "Parancsok"
+
+msgid "Missing command."
+msgstr "Hiányzó parancs."
+
+msgid "Value must be an iterable."
+msgstr "Az értéknek iterálhatónak kell lennie."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} értéket vesz fel, de 1 kapott."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "Elavulási figyelmeztetés: A {param_type} {name!r} elavult.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "A „{name}” név kétszer definiálva"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"A {decl!r} logikai paraméter nem használhatja ugyanazt a jelzőt "
+"igaz/hamis értékhez."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr ""
+"Nem sikerült meghatározni az opció nevét a következő deklarációkkal: "
+"{decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Nincsenek megadva beállítások, de egy név átadásra került ({name}). "
+"Ehelyett érvet akartál mondani? \"--{name}\" át akarta adni?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "alapértelmezett: {alapértelmezett}"
+
+msgid "required"
+msgstr "kívánt"
+
+msgid "(dynamic)"
+msgstr "(dinamikus)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Az argumentumok pontosan egy paraméter-deklarációt vesznek igénybe, a "
+"következőt kapták: {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Folytatja?"
+
+msgid "Confirm the action without prompting."
+msgstr "Erősítse meg a műveletet felszólítás nélkül."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, verzió %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Mutassa meg a verziót és lépjen ki."
+
+msgid "Show this message and exit."
+msgstr "Mutasd meg ezt az üzenetet és lépj ki."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Erre gondolt: {lehetőség}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Hiba: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Segítségért próbálja ki a „{command} {option}” parancsot."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Érvénytelen érték: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Érvénytelen {param_hint} értéke: {message}"
+
+msgid "Missing argument"
+msgstr "Hiányzó érv"
+
+msgid "Missing option"
+msgstr "Hiányzó opció"
+
+msgid "Missing parameter"
+msgstr "Hiányzó paraméter"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Hiányzó {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Hiányzó paraméter: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Nincs ilyen lehetőség {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Nincs ilyen parancs {name!r}."
+
+msgid "unknown error"
+msgstr "ismeretlen hiba"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Nem sikerült megnyitni a következő fájlt: {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Használat:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Érvénytelen kezdőkarakter a(z) opcióhoz ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "A {name!r} argumentum {nargs} értéket vesz fel."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "A {name!r} opció nem vesz fel értéket."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "A {name!r} opció argumentumot igényel."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "A shell-kiegészítés nem támogatott a 4.4-nél régebbi Bash-verziók esetén."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "A Bash-verzió nem észlelhető, a shell-befejezés nem támogatott."
+
+msgid "Repeat for confirmation"
+msgstr "Ismételje meg a megerősítéshez"
+
+msgid "Error: The two entered values do not match."
+msgstr "Hiba: A két megadott érték nem egyezik."
+
+msgid "Error: invalid input"
+msgstr "Hiba: érvénytelen bevitel"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Ismeretlen szín {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Nyomja meg bármelyik gombot a folytatáshoz..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Válasszon a következők közül:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "Az {value!r} nem {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Választás ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "Az {value!r} nem egyezik a {format} formátummal."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "Az {value!r} nem érvényes {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "A(z) {value} nem a(z) {range} tartományban van."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "Az {value!r} nem érvényes logikai érték. Elismert értékek: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "Az {value!r} nem érvényes UUID."
+
+msgid "file"
+msgstr "fájlt"
+
+msgid "directory"
+msgstr "könyvtárat"
+
+msgid "path"
+msgstr "útvonal"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "A(z) {name} {fájlnév!r} nem létezik."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "A {name} {fájlnév!r} egy fájl."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "A {name} {filename!r} egy könyvtár."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "A {name} {fájlnév!r} nem olvasható."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "A {name} {filename!r} nem írható."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "A {name} {filename!r} nem futtatható."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "A {len_type} értékek kötelezőek, de a {len_value} megadva."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Ismeretlen szabványos adatfolyam „{name}”"
+
+msgid "This field is required."
+msgstr "Ez a mező kötelező."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "A fájl nem rendelkezik jóváhagyott kiterjesztéssel: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "A fájl nem rendelkezik jóváhagyott kiterjesztéssel."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "A fájlnak {min_size} és {max_size} bájt között kell lennie."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Érvénytelen mezőnév: „%s”."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "A mezőnek egyenlőnek kell lennie a %(other_name)s értékkel."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "A mezőnek legalább %(min)d karakter hosszúságúnak kell lennie."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "A mező nem lehet hosszabb %(max)d karakternél."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "A mezőnek pontosan %(max)d karakter hosszúságúnak kell lennie."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "A mezőnek %(min)d és %(max)d karakter között kell lennie."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "A számnak legalább %(min)s-nak kell lennie."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "A szám legfeljebb %(max)s lehet."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "A számnak %(min)s és %(max)s között kell lennie."
+
+msgid "Invalid input."
+msgstr "Érvénytelen bevitel."
+
+msgid "Invalid email address."
+msgstr "Érvénytelen e-mail cím."
+
+msgid "Invalid IP address."
+msgstr "Érvénytelen IP-cím."
+
+msgid "Invalid Mac address."
+msgstr "Érvénytelen Mac-cím."
+
+msgid "Invalid URL."
+msgstr "Érvénytelen URL."
+
+msgid "Invalid UUID."
+msgstr "Érvénytelen UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Érvénytelen érték, a következők egyikének kell lennie: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Érvénytelen érték, nem lehet a következő: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Ez a mező nem szerkeszthető."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Ez a mező le van tiltva, és nem lehet értéke."
+
+msgid "Invalid CSRF Token."
+msgstr "Érvénytelen CSRF-token."
+
+msgid "CSRF token missing."
+msgstr "CSRF token hiányzik."
+
+msgid "CSRF failed."
+msgstr "A CSRF nem sikerült."
+
+msgid "CSRF token expired."
+msgstr "CSRF token lejárt."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Érvénytelen választás: nem sikerült kikényszeríteni."
+
+msgid "Choices cannot be None."
+msgstr "A választások nem lehetnek Nincsenek."
+
+msgid "Not a valid choice."
+msgstr "Nem érvényes választás."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Érvénytelen választás(ok): egy vagy több adatbevitelt nem sikerült "
+"kikényszeríteni."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "A „%(value)s” nem megfelelő választás ehhez a mezőhöz."
+
+msgid "Not a valid datetime value."
+msgstr "Érvénytelen dátum és idő érték."
+
+msgid "Not a valid date value."
+msgstr "Érvénytelen dátumérték."
+
+msgid "Not a valid time value."
+msgstr "Érvénytelen időérték."
+
+msgid "Not a valid week value."
+msgstr "Érvénytelen heti érték."
+
+msgid "Not a valid integer value."
+msgstr "Érvénytelen egész érték."
+
+msgid "Not a valid decimal value."
+msgstr "Nem érvényes decimális érték."
+
+msgid "Not a valid float value."
+msgstr "Érvénytelen lebegő érték."
+

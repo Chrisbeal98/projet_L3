@@ -1,0 +1,1052 @@
+# Translations for KA.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ka\n"
+"Language-Team: ka <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "გთხოვთ შეხვიდეთ ამ გვერდზე შესასვლელად."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "ეს IMEI უკვე რეგისტრირებულია სისტემაში."
+
+msgid "Accès non autorisé."
+msgstr "არაავტორიზებული წვდომა."
+
+msgid "Appareil déverrouillé."
+msgstr "მოწყობილობა განბლოკილია."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "გაფრთხილება შეიქმნა! შეტყობინებები გაგზავნილია."
+
+msgid "Alerte résolue."
+msgstr "გაფრთხილება მოგვარდა."
+
+msgid "Pas encore de compte ?"
+msgstr "ჯერ არ გაქვთ ანგარიში?"
+
+msgid "Mon Profil"
+msgstr "ჩემი პროფილი"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "კავშირი წარმატებულია! მოგესალმებით."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "არასწორი ელფოსტა ან პაროლი."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "ყველა საჭირო ველი უნდა იყოს შევსებული."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "პაროლები არ ემთხვევა."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "პაროლი უნდა შეიცავდეს მინიმუმ 6 სიმბოლოს."
+
+msgid "Cet email est déjà utilisé."
+msgstr "ეს ელფოსტა უკვე გამოიყენება."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "ანგარიში წარმატებით შეიქმნა! შესვლა."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "ამ ელფოსტით ანგარიშები ვერ მოიძებნა."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "ტელეფონის ნომერი არ ემთხვევა ანგარიშის ნომერს."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "ახალი პაროლი სავალდებულოა."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "პაროლის აღდგენა წარმატებით დასრულდა! შესვლა."
+
+msgid "Vous avez été déconnecté."
+msgstr "თქვენ გათიშული ხართ."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "საჭიროა ბრენდი, მოდელი და IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "მოწყობილობა ამ IMEI-ით უკვე არსებობს."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "მოწყობილობა წარმატებით დარეგისტრირდა!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "თქვენ არ ხართ უფლებამოსილი, განახორციელოთ ეს მოქმედება."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "მოწყობილობა დისტანციურად დაბლოკილია წარმატებით."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "მოწყობილობა წარმატებით განბლოკილია."
+
+msgid "Appareil supprimé."
+msgstr "მოწყობილობა წაიშალა."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "გთხოვთ, აირჩიოთ მოწყობილობა და გაფრთხილების ტიპი."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "ეს მოწყობილობა არ გეკუთვნით."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "გაფრთხილება წარმატებით დასრულდა. მოწყობილობა დაცულია."
+
+msgid "Alerte marquée comme résolue."
+msgstr "გაფრთხილება მონიშნულია, როგორც გადაწყვეტილი."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "სახელი, გვარი და ელ.ფოსტა აუცილებელია."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "ეს ელფოსტა უკვე გამოიყენება სხვა ანგარიშის მიერ."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "პროფილი წარმატებით განახლდა!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "წვდომა დაცულია ადმინისტრატორებისთვის."
+
+msgid "Erreur marquée comme résolue."
+msgstr "შეცდომა მონიშნულია მოგვარებულად."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "თქვენ არ შეგიძლიათ წაშალოთ თქვენი საკუთარი ანგარიში."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "მომხმარებელი წარმატებით წაიშალა."
+
+msgid "Administration"
+msgstr "ადმინისტრაცია"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Anti-Theft სისტემის ცენტრალიზებული მართვა"
+
+msgid "Utilisateurs"
+msgstr "მომხმარებლები"
+
+msgid "Actifs aujourd'hui"
+msgstr "დღეს აქტიური"
+
+msgid "Nouveaux ce mois"
+msgstr "ახალი ამ თვეში"
+
+msgid "Appareils"
+msgstr "მოწყობილობები"
+
+msgid "Alertes actives"
+msgstr "აქტიური გაფრთხილებები"
+
+msgid "Analytique"
+msgstr "ანალიტიკური"
+
+msgid "Journal d'activité"
+msgstr "აქტივობის ჟურნალი"
+
+msgid "Erreurs"
+msgstr "შეცდომები"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "კავშირები (ბოლო 7 დღე)"
+
+msgid "Alertes par type"
+msgstr "გაფრთხილებები ტიპის მიხედვით"
+
+msgid "Appareils par opérateur"
+msgstr "მოწყობილობები ოპერატორის მიერ"
+
+msgid "Résumé du système"
+msgstr "სისტემის რეზიუმე"
+
+msgid "Utilisateurs total"
+msgstr "სულ მომხმარებლები"
+
+msgid "Appareils enregistrés"
+msgstr "რეგისტრირებული მოწყობილობები"
+
+msgid "Total alertes"
+msgstr "სულ გაფრთხილებები"
+
+msgid "Alertes en cours"
+msgstr "მიმდინარე გაფრთხილებები"
+
+msgid "Erreurs non résolues"
+msgstr "გადაუჭრელი შეცდომები"
+
+msgid "Dernières activités"
+msgstr "უახლესი აქტივობები"
+
+msgid "récentes"
+msgstr "ბოლოდროინდელი"
+
+msgid "Utilisateur"
+msgstr "მომხმარებელი"
+
+msgid "Action"
+msgstr "მოქმედება"
+
+msgid "Détails"
+msgstr "დეტალები"
+
+msgid "Adresse IP"
+msgstr "IP მისამართი"
+
+msgid "Navigateur"
+msgstr "ბრაუზერი"
+
+msgid "Date"
+msgstr "თარიღი"
+
+msgid "Aucune activité"
+msgstr "არანაირი აქტივობა"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "მომხმარებლის აქტივობები აქ გამოჩნდება."
+
+msgid "Journal d'erreurs"
+msgstr "შეცდომების ჟურნალი"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "შეასწორეთ ყველა შეცდომა?"
+
+msgid "Tout résoudre"
+msgstr "მოაგვარეთ ყველაფერი"
+
+msgid "non résolues"
+msgstr "გადაუჭრელი"
+
+msgid "Tout est résolu"
+msgstr "ყველაფერი მოგვარებულია"
+
+msgid "Type"
+msgstr "კეთილი"
+
+msgid "Description"
+msgstr "აღწერა"
+
+msgid "Statut"
+msgstr "სტატუსი"
+
+msgid "Résolu"
+msgstr "მოგვარდა"
+
+msgid "Non résolu"
+msgstr "მოუგვარებელი"
+
+msgid "Aucune erreur enregistrée"
+msgstr "შეცდომები არ დაფიქსირებულა"
+
+msgid "Le système fonctionne correctement."
+msgstr "სისტემა მუშაობს გამართულად."
+
+msgid "Gestion des utilisateurs"
+msgstr "მომხმარებლის მენეჯმენტი"
+
+msgid "comptes"
+msgstr "ანგარიშები"
+
+msgid "Email"
+msgstr "ელ.ფოსტა"
+
+msgid "Téléphone"
+msgstr "ტელეფონი"
+
+msgid "Rôle"
+msgstr "როლი"
+
+msgid "Inscrit le"
+msgstr "დარეგისტრირდა"
+
+msgid "Actions"
+msgstr "მოქმედებები"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "წაშალოთ ეს მომხმარებელი და მისი ყველა მოწყობილობა?"
+
+msgid "Vous"
+msgstr "შენ"
+
+msgid "Connexions"
+msgstr "კავშირები"
+
+msgid "Vol"
+msgstr "ფრენა"
+
+msgid "Perte"
+msgstr "ზარალი"
+
+msgid "Anomalie"
+msgstr "ანომალია"
+
+msgid "Alertes"
+msgstr "გაფრთხილებები"
+
+msgid "Gestion des alertes"
+msgstr "გაფრთხილების მენეჯმენტი"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "შეატყობინეთ ქურდობას ან დაკარგვას და აკონტროლეთ ისტორია"
+
+msgid "Signaler un vol / perte"
+msgstr "შეატყობინეთ ქურდობის/დაკარგვის შესახებ"
+
+msgid "En cours"
+msgstr "მიმდინარეობს"
+
+msgid "Résolues"
+msgstr "მოგვარდა"
+
+msgid "Historique des alertes"
+msgstr "გაფრთხილების ისტორია"
+
+msgid "Appareil"
+msgstr "მოწყობილობა"
+
+msgid "Priorité"
+msgstr "პრიორიტეტი"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "მონიშნოთ ეს გაფრთხილება მოგვარებულად?"
+
+msgid "Résoudre"
+msgstr "ამოხსნა"
+
+msgid "Aucune alerte"
+msgstr "არანაირი გაფრთხილება"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "კარგი ამბავია! გაფრთხილებები არ დაფიქსირებულა."
+
+msgid "Signaler un vol ou une perte"
+msgstr "შეატყობინეთ ქურდობას ან დაკარგვას"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"ქურდობის შესახებ შეტყობინებით, თქვენი მოწყობილობა ავტომატურად დაიბლოკება "
+"და შეტყობინებები გაიგზავნება."
+
+msgid "Appareil concerné"
+msgstr "დაზარალებული მოწყობილობა"
+
+msgid "Sélectionner un appareil"
+msgstr "აირჩიეთ მოწყობილობა"
+
+msgid "Type d'alerte"
+msgstr "გაფრთხილების ტიპი"
+
+msgid "Décrivez les circonstances..."
+msgstr "აღწერეთ გარემოებები..."
+
+msgid "Annuler"
+msgstr "გაუქმება"
+
+msgid "Signaler"
+msgstr "მოხსენება"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"ინტელექტუალური ქურდობის საწინააღმდეგო სისტემა — უსაფრთხოების პლატფორმა "
+"სმარტფონებისთვის"
+
+msgid "Système Anti-Vol"
+msgstr "ქურდობის საწინააღმდეგო სისტემა"
+
+msgid "PRINCIPAL"
+msgstr "მთავარი"
+
+msgid "Tableau de bord"
+msgstr "დაფა"
+
+msgid "SÉCURITÉ"
+msgstr "უსაფრთხოება"
+
+msgid "Géolocalisation"
+msgstr "გეოლოკაცია"
+
+msgid "ADMINISTRATION"
+msgstr "ადმინისტრაცია"
+
+msgid "Déconnexion"
+msgstr "გათიშვა"
+
+msgid "Changer de langue"
+msgstr "ენის შეცვლა"
+
+msgid "Rechercher une langue..."
+msgstr "ენის ძიება..."
+
+msgid "Profil"
+msgstr "პროფილი"
+
+msgid "Changer de thème"
+msgstr "თემის შეცვლა"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "თქვენი მოწყობილობის უსაფრთხოების მიმოხილვა"
+
+msgid "Ajouter un appareil"
+msgstr "დაამატეთ მოწყობილობა"
+
+msgid "Appareils volés"
+msgstr "მოპარული მოწყობილობები"
+
+msgid "Verrouillés à distance"
+msgstr "დისტანციურად ჩაკეტილი"
+
+msgid "Alertes récentes"
+msgstr "ბოლო გაფრთხილებები"
+
+msgid "Voir tout"
+msgstr "იხილეთ ყველა"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "არანაირი გაფრთხილება. თქვენი მოწყობილობები უსაფრთხოა!"
+
+msgid "Mes appareils"
+msgstr "ჩემი მოწყობილობები"
+
+msgid "Aucun appareil enregistré"
+msgstr "არ არის რეგისტრირებული მოწყობილობები"
+
+msgid "Ajouter"
+msgstr "დამატება"
+
+msgid "en attente"
+msgstr "მოლოდინში"
+
+msgid "Gestion des appareils"
+msgstr "მოწყობილობის მართვა"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "დარეგისტრირდით და მართეთ თქვენი სმარტფონები"
+
+msgid "Opérateur"
+msgstr "ოპერატორი"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "დაიბლოკოს ეს მოწყობილობა დისტანციურად?"
+
+msgid "Verrouiller"
+msgstr "ჩაკეტვა"
+
+msgid "Déverrouiller"
+msgstr "განბლოკვა"
+
+msgid "Supprimer cet appareil ?"
+msgstr "წაშალოთ ეს მოწყობილობა?"
+
+msgid "Supprimer"
+msgstr "წაშლა"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "დაამატეთ თქვენი პირველი სმარტფონი, რათა დაიწყოთ მისი დაცვა."
+
+msgid "Nouvel appareil"
+msgstr "ახალი მოწყობილობა"
+
+msgid "Marque"
+msgstr "ბრენდი"
+
+msgid "Sélectionner"
+msgstr "აირჩიეთ"
+
+msgid "Autre"
+msgstr "სხვა"
+
+msgid "Modèle"
+msgstr "მოდელი"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "ჩაწერეთ *#06# თქვენს ტელეფონზე"
+
+msgid "Système d'exploitation"
+msgstr "ოპერაციული სისტემა"
+
+msgid "Numéro de téléphone"
+msgstr "ტელეფონის ნომერი"
+
+msgid "Enregistrer"
+msgstr "შენახვა"
+
+msgid "Connexion"
+msgstr "კავშირი"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "სმარტფონის უსაფრთხოების სისტემა"
+
+msgid "Adresse email"
+msgstr "ელექტრონული ფოსტის მისამართი"
+
+msgid "Mot de passe"
+msgstr "პაროლი"
+
+msgid "Se connecter"
+msgstr "შესვლა"
+
+msgid "Mot de passe oublié ?"
+msgstr "დაგავიწყდათ პაროლი?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"უკვე გაქვთ ანგარიში? წინააღმდეგ შემთხვევაში, გააგრძელეთ თქვენი ანგარიშის "
+"შექმნა!"
+
+msgid "Créer un compte"
+msgstr "შექმენით ანგარიში"
+
+msgid "Sécurité maximale"
+msgstr "მაქსიმალური უსაფრთხოება"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "დაიცავით თქვენი პერსონალური მონაცემები დისტანციური ჩაკეტვით"
+
+msgid "Localisation GPS"
+msgstr "GPS მდებარეობა"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "იპოვნეთ თქვენი სმარტფონის ზუსტი მდებარეობა რეალურ დროში"
+
+msgid "Alertes instantanées"
+msgstr "მყისიერი გაფრთხილებები"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "მიიღეთ SMS, ელ.ფოსტა და Push შეტყობინებები ქურდობის შემთხვევაში"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "იპოვნეთ თქვენი მოწყობილობები და წარმოიდგინეთ რისკის ზონები"
+
+msgid "Aucun appareil"
+msgstr "მოწყობილობა არ არის"
+
+msgid "Zones à risque"
+msgstr "რისკის სფეროები"
+
+msgid "incidents"
+msgstr "ინციდენტები"
+
+msgid "Aucune zone signalée"
+msgstr "ტერიტორიების შესახებ ინფორმაცია არ არის"
+
+msgid "Niveau"
+msgstr "დონე"
+
+msgid "Incidents"
+msgstr "ინციდენტები"
+
+msgid "Profile utilisateur"
+msgstr "მომხმარებლის პროფილი"
+
+msgid "Gérez vos informations personnelles"
+msgstr "მართეთ თქვენი პირადი ინფორმაცია"
+
+msgid "Membre depuis"
+msgstr "წევრი მას შემდეგ"
+
+msgid "Modifier mes informations"
+msgstr "დაარედაქტირე ჩემი ინფორმაცია"
+
+msgid "Prénom"
+msgstr "სახელი"
+
+msgid "Nom"
+msgstr "სახელი"
+
+msgid "Changer le mot de passe"
+msgstr "პაროლის შეცვლა"
+
+msgid "Nouveau mot de passe"
+msgstr "ახალი პაროლი"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "დატოვე ცარიელი ისე, რომ არ შეიცვალოს"
+
+msgid "Enregistrer les modifications"
+msgstr "ცვლილებების შენახვა"
+
+msgid "Inscription"
+msgstr "რეგისტრაცია"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"კეთილი იყოს თქვენი მობრძანება Anti-Theft-ში თქვენი მოწყობილობების უკეთესი"
+" უსაფრთხოებისთვის"
+
+msgid "Confirmer"
+msgstr "დაადასტურეთ"
+
+msgid "Créer mon compte"
+msgstr "შექმენი ჩემი ანგარიში"
+
+msgid "Déjà un compte ?"
+msgstr "უკვე გაქვთ ანგარიში?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "პაროლის აღდგენა"
+
+msgid "Réinitialisation"
+msgstr "გადატვირთვა"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"შეიყვანეთ თქვენი ელ.ფოსტა და ტელეფონის ნომერი თქვენი ვინაობის "
+"დასადასტურებლად"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "ნომერი, რომელიც გამოიყენება რეგისტრაციის დროს"
+
+msgid "Minimum 6 caractères"
+msgstr "მინიმუმ 6 სიმბოლო"
+
+msgid "Confirmer le mot de passe"
+msgstr "დაადასტურეთ პაროლი"
+
+msgid "Retourner à la"
+msgstr "დაბრუნება"
+
+msgid "page de connexion"
+msgstr "შესვლის გვერდი"
+
+msgid "Vérification sécurisée"
+msgstr "უსაფრთხო გადამოწმება"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"თქვენი ვინაობა დამოწმებულია თქვენი ელ.ფოსტისა და ტელეფონის ნომრის "
+"გამოყენებით"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "აირჩიეთ უსაფრთხო პაროლი მინიმუმ 6 სიმბოლოსგან"
+
+msgid "d"
+msgstr "დ"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: რედაქტირება ვერ მოხერხდა"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: რედაქტირება ვერ მოხერხდა: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows-ის შეცდომა: {error}"
+
+msgid "deprecated"
+msgstr "მოძველებული"
+
+msgid "Options"
+msgstr "ოფციები"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "მიიღო მოულოდნელი დამატებითი არგუმენტი ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: ბრძანება {name!r} მოძველებულია.{extra_message}"
+
+msgid "Aborted!"
+msgstr "შეწყდა!"
+
+msgid "Commands"
+msgstr "ბრძანებები"
+
+msgid "Missing command."
+msgstr "ბრძანება აკლია."
+
+msgid "Value must be an iterable."
+msgstr "მნიშვნელობა უნდა იყოს განმეორებადი."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "იღებს {nargs} მნიშვნელობებს, მაგრამ მოცემულია 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "გაუქმება გაფრთხილება: {param_type} {name!r} მოძველებულია.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "სახელი „{name}“ განისაზღვრა ორჯერ"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"ლოგიკური ვარიანტი {decl!r} არ შეუძლია გამოიყენოს იგივე დროშა "
+"true/false-ისთვის."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "ვერ განვსაზღვრე სახელი ვარიანტისთვის დეკლარაციებით {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"პარამეტრები არ არის განსაზღვრული, მაგრამ სახელი გადაეცა ({name}). ამის "
+"ნაცვლად არგუმენტის გამოცხადებას გულისხმობდი? „--{name}“-ის გავლას "
+"გულისხმობდით?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "ნაგულისხმევი: {default}"
+
+msgid "required"
+msgstr "საჭირო"
+
+msgid "(dynamic)"
+msgstr "(დინამიური)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"არგუმენტები იღებს ზუსტად ერთი პარამეტრის დეკლარაციას, მიიღო {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "გსურთ გაგრძელება?"
+
+msgid "Confirm the action without prompting."
+msgstr "დაადასტურეთ მოქმედება მოთხოვნის გარეშე."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, ვერსია %(version)s"
+
+msgid "Show the version and exit."
+msgstr "აჩვენე ვერსია და გამოდი."
+
+msgid "Show this message and exit."
+msgstr "აჩვენეთ ეს შეტყობინება და გამოდით."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "{შესაძლებლობა} იგულისხმე?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "შეცდომა: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "სცადეთ „{command} {option}“ დახმარებისთვის."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "არასწორი მნიშვნელობა: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "არასწორი მნიშვნელობა {param_hint}-ისთვის: {message}"
+
+msgid "Missing argument"
+msgstr "არგუმენტი აკლია"
+
+msgid "Missing option"
+msgstr "გამოტოვებული ვარიანტი"
+
+msgid "Missing parameter"
+msgstr "გამოტოვებული პარამეტრი"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "აკლია {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "გამოტოვებული პარამეტრი: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "არ არის ასეთი ვარიანტი {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "არ არის ასეთი ბრძანება {name!r}."
+
+msgid "unknown error"
+msgstr "უცნობი შეცდომა"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "ფაილის {filename!r} გახსნა ვერ მოხერხდა: {message}"
+
+msgid "Usage:"
+msgstr "გამოყენება:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "არასწორი საწყისი სიმბოლო ვარიანტისთვის ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "არგუმენტი {name!r} იღებს {nargs} მნიშვნელობებს."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "ვარიანტი {name!r} არ იღებს მნიშვნელობას."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "ვარიანტი {name!r} მოითხოვს არგუმენტს."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell-ის შევსება არ არის მხარდაჭერილი Bash 4.4-ზე ძველი ვერსიებისთვის."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Bash-ის ვერსიის აღმოჩენა ვერ მოხერხდა, ჭურვის დასრულება არ არის "
+"მხარდაჭერილი."
+
+msgid "Repeat for confirmation"
+msgstr "გაიმეორეთ დადასტურებისთვის"
+
+msgid "Error: The two entered values do not match."
+msgstr "შეცდომა: ორი შეყვანილი მნიშვნელობა არ ემთხვევა."
+
+msgid "Error: invalid input"
+msgstr "შეცდომა: არასწორი შეყვანა"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "უცნობი ფერი {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "დააჭირეთ ნებისმიერ ღილაკს გასაგრძელებლად..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "აირჩიეთ:\\n\\t{არჩევნები}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} არ არის {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "არჩევანი ({არჩევნები})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} არ ემთხვევა ფორმატს {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} არ არის სწორი {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} არ არის დიაპაზონში {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr ""
+"{value!r} არ არის სწორი ლოგიკური მნიშვნელობა. აღიარებული მნიშვნელობები: "
+"{states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} არ არის სწორი UUID."
+
+msgid "file"
+msgstr "ფაილი"
+
+msgid "directory"
+msgstr "დირექტორია"
+
+msgid "path"
+msgstr "გზა"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} არ არსებობს."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} არის ფაილი."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} არის დირექტორია."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} არ იკითხება."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} არ არის დასაწერი."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} არ არის შესრულებადი."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "საჭიროა {len_type} მნიშვნელობები, მაგრამ მოცემულია {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "უცნობი სტანდარტული ნაკადი '{name}'"
+
+msgid "This field is required."
+msgstr "ეს ველი აუცილებელია."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "ფაილს არ აქვს დამტკიცებული გაფართოება: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "ფაილს არ აქვს დამტკიცებული გაფართოება."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "ფაილი უნდა იყოს {min_size}-დან {max_size} ბაიტამდე."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "ველის სახელი „%s“ არასწორია."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "ველი უნდა იყოს %(other_name)s-ის ტოლი."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "ველი უნდა შეიცავდეს მინიმუმ %(წთ) d სიმბოლოს."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "ველი არ შეიძლება იყოს %(max)d სიმბოლოზე მეტი."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "ველი უნდა იყოს ზუსტად %(max)d სიმბოლოს სიგრძე."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "ველი უნდა იყოს %(min)d და %(max)d სიმბოლოს შორის."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "ნომერი უნდა იყოს მინიმუმ %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "ნომერი უნდა იყოს მაქსიმუმ %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "რიცხვი უნდა იყოს %(min)s-სა და %(max)s-ს შორის."
+
+msgid "Invalid input."
+msgstr "არასწორი შეყვანა."
+
+msgid "Invalid email address."
+msgstr "ელფოსტის მისამართი არასწორია."
+
+msgid "Invalid IP address."
+msgstr "არასწორი IP მისამართი."
+
+msgid "Invalid Mac address."
+msgstr "არასწორი Mac მისამართი."
+
+msgid "Invalid URL."
+msgstr "არასწორი URL."
+
+msgid "Invalid UUID."
+msgstr "არასწორი UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "არასწორი მნიშვნელობა, უნდა იყოს ერთ-ერთი: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "არასწორი მნიშვნელობა, არ შეიძლება იყოს რომელიმე: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "ამ ველის რედაქტირება შეუძლებელია."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "ეს ველი გამორთულია და არ შეიძლება ჰქონდეს მნიშვნელობა."
+
+msgid "Invalid CSRF Token."
+msgstr "არასწორი CSRF ჟეტონი."
+
+msgid "CSRF token missing."
+msgstr "CSRF ჟეტონი აკლია."
+
+msgid "CSRF failed."
+msgstr "CSRF ვერ მოხერხდა."
+
+msgid "CSRF token expired."
+msgstr "CSRF ჟეტონს ვადა გაუვიდა."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "არასწორი არჩევანი: ვერ მოვახერხე იძულება."
+
+msgid "Choices cannot be None."
+msgstr "არჩევანი არ შეიძლება იყოს არცერთი."
+
+msgid "Not a valid choice."
+msgstr "არ არის სწორი არჩევანი."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"არასწორი არჩევანი(ები): ერთი ან მეტი მონაცემთა შეყვანის იძულება ვერ "
+"მოხერხდა."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' არ არის სწორი არჩევანი ამ ველისთვის."
+
+msgid "Not a valid datetime value."
+msgstr "არ არის სწორი თარიღის დროის მნიშვნელობა."
+
+msgid "Not a valid date value."
+msgstr "არ არის სწორი თარიღის მნიშვნელობა."
+
+msgid "Not a valid time value."
+msgstr "არ არის სწორი დროის მნიშვნელობა."
+
+msgid "Not a valid week value."
+msgstr "არ არის სწორი კვირის მნიშვნელობა."
+
+msgid "Not a valid integer value."
+msgstr "არ არის სწორი მთელი რიცხვი."
+
+msgid "Not a valid decimal value."
+msgstr "არ არის სწორი ათობითი მნიშვნელობა."
+
+msgid "Not a valid float value."
+msgstr "არ არის სწორი float მნიშვნელობა."
+

@@ -1,0 +1,72 @@
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.7:8000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 636-878-070
+ * Detected change in 'C:\\wamp\\www\\projet_L3\\app\\__init__.py', reloading
+ * Restarting with stat
+Exception in thread Thread-1 (serve_forever):
+Traceback (most recent call last):
+  File "C:\Users\kouad\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1075, in _bootstrap_inner
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 636-878-070
+ * Detected change in 'C:\\wamp\\www\\projet_L3\\app\\__init__.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Restarting with stat
+ * Debugger is active!
+Exception in thread Thread-1 (serve_forever):
+Fatal Python error: _enter_buffered_busy: could not acquire lock for <_io.BufferedWriter name='<stderr>'> at interpreter shutdown, possibly due to daemon threads
+Python runtime state: finalizing (tstate=0x00007ff875483d50)
+
+Current thread 0x00006fbc (most recent call first):
+  <no Python frame>
+
+Extension modules: markupsafe._speedups, sqlalchemy.cyextension.collections, sqlalchemy.cyextension.immutabledict, sqlalchemy.cyextension.processors, sqlalchemy.cyextension.resultproxy, sqlalchemy.cyextension.util, greenlet._greenlet (total: 7)
+/Jun/2026 14:39:05] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:39:05] "GET /static/logo.png HTTP/1.1" 304 -
+192.168.15.10 - - [19/Jun/2026 14:39:05] "GET /static/logo.png HTTP/1.1" 304 -
+192.168.15.10 - - [19/Jun/2026 14:39:05] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:39:05] "GET /static/logo.png HTTP/1.1" 304 -
+192.168.15.10 - - [19/Jun/2026 14:39:05] "GET /static/logo.png HTTP/1.1" 304 -
+192.168.15.10 - - [19/Jun/2026 14:39:05] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:39:05] "GET /static/logo.png HTTP/1.1" 304 -
+192.168.15.10 - - [19/Jun/2026 14:39:05] "GET /static/logo.png HTTP/1.1" 304 -
+192.168.15.10 - - [19/Jun/2026 14:39:06] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:39:06] "GET /static/logo.png HTTP/1.1" 304 -
+192.168.15.10 - - [19/Jun/2026 14:39:06] "GET /static/logo.png HTTP/1.1" 304 -
+192.168.15.10 - - [19/Jun/2026 14:39:06] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:39:06] "GET /static/logo.png HTTP/1.1" 304 -
+192.168.15.10 - - [19/Jun/2026 14:39:06] "GET /static/logo.png HTTP/1.1" 304 -
+192.168.15.10 - - [19/Jun/2026 14:39:06] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:39:06] "GET /static/logo.png HTTP/1.1" 304 -
+192.168.15.10 - - [19/Jun/2026 14:39:06] "GET /static/logo.png HTTP/1.1" 304 -
+192.168.15.10 - - [19/Jun/2026 14:40:23] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:40:23] "GET /static/logo.png HTTP/1.1" 304 -
+192.168.15.10 - - [19/Jun/2026 14:40:29] "GET /login HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:40:29] "GET /static/css/style.css HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:40:29] "GET /static/js/app.js HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:40:35] "GET /static/logo.png HTTP/1.1" 304 -
+ * Detected change in 'C:\\wamp\\www\\projet_L3\\app\\__init__.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 636-878-070
+ * Detected change in 'C:\\wamp\\www\\projet_L3\\app\\__init__.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Restarting with stat
+ * Debugger is active!
+Exception in thread Thread-1 (serve_forever):
+Traceback (most recent call last):
+Fatal Python error: _enter_buffered_busy: could not acquire lock for <_io.BufferedWriter name='<stderr>'> at interpreter shutdown, possibly due to daemon threads
+Python runtime state: finalizing (tstate=0x00007ff875483d50)
+
+Current thread 0x000055b4 (most recent call first):
+  <no Python frame>
+
+Extension modules: markupsafe._speedups, sqlalchemy.cyextension.collections, sqlalchemy.cyextension.immutabledict, sqlalchemy.cyextension.processors, sqlalchemy.cyextension.resultproxy, sqlalchemy.cyextension.util, greenlet._greenlet (total: 7)

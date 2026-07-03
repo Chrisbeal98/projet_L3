@@ -1,0 +1,1025 @@
+# Translations for AM.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: am\n"
+"Language-Team: am <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s፣ ስሪት %(ስሪት)s"
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(እሴት)' ለዚህ መስክ ትክክለኛ ምርጫ አይደለም።"
+
+msgid "(dynamic)"
+msgstr "(ተለዋዋጭ)"
+
+msgid "ADMINISTRATION"
+msgstr "አስተዳደር"
+
+msgid "Aborted!"
+msgstr "ተቋርጧል!"
+
+msgid "Accès non autorisé."
+msgstr "ያልተፈቀደ መዳረሻ።"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "መዳረሻ ለአስተዳዳሪዎች የተጠበቀ ነው።"
+
+msgid "Actifs aujourd'hui"
+msgstr "ዛሬ ንቁ"
+
+msgid "Action"
+msgstr "ድርጊት"
+
+msgid "Actions"
+msgstr "ድርጊቶች"
+
+msgid "Administration"
+msgstr "አስተዳደር"
+
+msgid "Adresse IP"
+msgstr "የአይፒ አድራሻ"
+
+msgid "Adresse email"
+msgstr "የኢሜል አድራሻ"
+
+msgid "Ajouter"
+msgstr "አክል"
+
+msgid "Ajouter un appareil"
+msgstr "መሣሪያ ያክሉ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "እሱን መጠበቅ ለመጀመር የመጀመሪያውን ስማርትፎንዎን ያክሉ።"
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "ማንቂያ ተፈጥሯል! ማሳወቂያዎች ተልከዋል።"
+
+msgid "Alerte marquée comme résolue."
+msgstr "ማንቂያው እንደተፈታ ምልክት ተደርጎበታል።"
+
+msgid "Alerte résolue."
+msgstr "ማንቂያው ተፈቷል።"
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "ማንቂያ በተሳካ ሁኔታ ተዘግቧል። መሣሪያው ደህንነቱ ተጠብቋል።"
+
+msgid "Alertes"
+msgstr "ማንቂያዎች"
+
+msgid "Alertes actives"
+msgstr "ንቁ ማንቂያዎች"
+
+msgid "Alertes en cours"
+msgstr "ወቅታዊ ማንቂያዎች"
+
+msgid "Alertes instantanées"
+msgstr "ፈጣን ማንቂያዎች"
+
+msgid "Alertes par type"
+msgstr "ማንቂያዎች በአይነት"
+
+msgid "Alertes récentes"
+msgstr "የቅርብ ጊዜ ማንቂያዎች"
+
+msgid "Analytique"
+msgstr "ትንተናዊ"
+
+msgid "Annuler"
+msgstr "ሰርዝ"
+
+msgid "Anomalie"
+msgstr "ያልተለመደ"
+
+msgid "Appareil"
+msgstr "መሳሪያ"
+
+msgid "Appareil concerné"
+msgstr "የተጎዳ መሣሪያ"
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "መሣሪያ በተሳካ ሁኔታ ተከፍቷል።"
+
+msgid "Appareil déverrouillé."
+msgstr "መሳሪያ ተከፍቷል።"
+
+msgid "Appareil enregistré avec succès !"
+msgstr "መሣሪያ በተሳካ ሁኔታ ተመዝግቧል!"
+
+msgid "Appareil supprimé."
+msgstr "መሣሪያ ተሰርዟል።"
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "መሣሪያ በርቀት በተሳካ ሁኔታ ተቆልፏል።"
+
+msgid "Appareils"
+msgstr "መሳሪያዎች"
+
+msgid "Appareils enregistrés"
+msgstr "የተመዘገቡ መሳሪያዎች"
+
+msgid "Appareils par opérateur"
+msgstr "መሳሪያዎች በኦፕሬተር"
+
+msgid "Appareils volés"
+msgstr "የተሰረቁ መሳሪያዎች"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "ክርክር {name!r} የ{nargs} እሴቶችን ይወስዳል።"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "ክርክሮች በትክክል አንድ መለኪያ መግለጫ ይወስዳሉ፣ {ርዝመት} አግኝተዋል፡ {decls}።"
+
+msgid "Aucun appareil"
+msgstr "መሳሪያ የለም"
+
+msgid "Aucun appareil enregistré"
+msgstr "ምንም መሣሪያዎች አልተመዘገቡም።"
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "በዚህ ኢሜይል ምንም መለያዎች አልተገኙም።"
+
+msgid "Aucune activité"
+msgstr "ምንም እንቅስቃሴ የለም።"
+
+msgid "Aucune alerte"
+msgstr "ማንቂያ የለም።"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "ማንቂያ የለም። የእርስዎ መሣሪያዎች ደህና ናቸው!"
+
+msgid "Aucune erreur enregistrée"
+msgstr "ምንም ስህተቶች አልተመዘገቡም።"
+
+msgid "Aucune zone signalée"
+msgstr "ምንም አካባቢዎች ሪፖርት አልተደረገም።"
+
+msgid "Autre"
+msgstr "ሌላ"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "አስቀድሞ መለያ አለህ? አለበለዚያ መለያዎን ለመፍጠር ይቀጥሉ!"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "ለተሻለ የመሣሪያዎ ደህንነት ወደ ፀረ-ስርቆት እንኳን በደህና መጡ"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "መልካም ዜና! ምንም ማንቂያዎች አልተመዘገቡም።"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "የቦሊያን አማራጭ {decl!r} ለእውነት/ለሐሰት ተመሳሳይ ባንዲራ መጠቀም አይችልም።"
+
+msgid "CSRF failed."
+msgstr "CSRF አልተሳካም።"
+
+msgid "CSRF token expired."
+msgstr "የCSRF ማስመሰያ ጊዜው አልፎበታል።"
+
+msgid "CSRF token missing."
+msgstr "የCSRF ማስመሰያ ይጎድላል።"
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "ይህ IMEI አስቀድሞ በስርዓቱ ውስጥ ተመዝግቧል።"
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "ይህ መሳሪያ የአንተ አይደለም።"
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "ይህ ኢሜይል አስቀድሞ በሌላ መለያ ጥቅም ላይ ውሏል።"
+
+msgid "Cet email est déjà utilisé."
+msgstr "ይህ ኢሜይል አስቀድሞ ጥቅም ላይ ውሏል።"
+
+msgid "Changer de langue"
+msgstr "ቋንቋ ቀይር"
+
+msgid "Changer de thème"
+msgstr "ጭብጥ ቀይር"
+
+msgid "Changer le mot de passe"
+msgstr "የይለፍ ቃል ቀይር"
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "ምርጫ({ምርጫ})"
+
+msgid "Choices cannot be None."
+msgstr "ምርጫዎች ምንም ሊሆኑ አይችሉም።"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "ቢያንስ 6 ቁምፊዎች ያለው ደህንነቱ የተጠበቀ የይለፍ ቃል ይምረጡ"
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "ከ፡\\n\\t{ምርጫዎች} ይምረጡ"
+
+msgid "Commands"
+msgstr "ትዕዛዞች"
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "መለያ በተሳካ ሁኔታ ተፈጥሯል! ግባ"
+
+msgid "Confirm the action without prompting."
+msgstr "ሳይጠይቁ እርምጃውን ያረጋግጡ።"
+
+msgid "Confirmer"
+msgstr "አረጋግጥ"
+
+msgid "Confirmer le mot de passe"
+msgstr "የይለፍ ቃል ያረጋግጡ"
+
+msgid "Connexion"
+msgstr "ግንኙነት"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "ግንኙነት ተሳክቷል! እንኳን ደህና መጣህ።"
+
+msgid "Connexions"
+msgstr "ግንኙነቶች"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "ግንኙነቶች (ባለፉት 7 ቀናት)"
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "በ{decls!r} መግለጫዎች የአማራጭ ስም መወሰን አልተቻለም"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "ፋይልን {filename!r}: {message} መክፈት አልተቻለም"
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "የባሽ ሥሪትን ማግኘት አልተቻለም፣ ሼል ማጠናቀቅ አይደገፍም።"
+
+msgid "Créer mon compte"
+msgstr "መለያዬን ፍጠር"
+
+msgid "Créer un compte"
+msgstr "መለያ ፍጠር"
+
+msgid "Date"
+msgstr "ቀን"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "የማቋረጥ ማስጠንቀቂያ፡ {name!r} የሚለው ትዕዛዝ ተቋርጧል።{extra_message}"
+
+#, python-brace-format
+msgid "DeprecationWarning: The {param_type} {name!r} is deprecated.{extra_message}"
+msgstr "የማቋረጥ ማስጠንቀቂያ፡ {param_type} {name!r} ተቋርጧል።{extra_message}"
+
+msgid "Dernières activités"
+msgstr "የቅርብ ጊዜ እንቅስቃሴዎች"
+
+msgid "Description"
+msgstr "መግለጫ"
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "{posibility} ማለትዎ ነውን?"
+
+msgid "Do you want to continue?"
+msgstr "መቀጠል ትፈልጋለህ?"
+
+msgid "Déconnexion"
+msgstr "ግንኙነት አቋርጥ"
+
+msgid "Décrivez les circonstances..."
+msgstr "ሁኔታዎችን ግለጽ..."
+
+msgid "Déjà un compte ?"
+msgstr "መለያ አለህ?"
+
+msgid "Détails"
+msgstr "ዝርዝሮች"
+
+msgid "Déverrouiller"
+msgstr "ክፈት"
+
+msgid "Email"
+msgstr "ኢ-ሜይል"
+
+msgid "Email ou mot de passe incorrect."
+msgstr "የተሳሳተ ኢሜይል ወይም የይለፍ ቃል።"
+
+msgid "En cours"
+msgstr "በሂደት ላይ"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et des "
+"notifications seront envoyées."
+msgstr "ስርቆትን ሪፖርት በማድረግ መሳሪያዎ በራስ-ሰር ይቆለፋል እና ማሳወቂያዎች ይላካሉ።"
+
+msgid "Enregistrer"
+msgstr "አስቀምጥ"
+
+msgid "Enregistrer les modifications"
+msgstr "ለውጦችን ያስቀምጡ"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "የእርስዎን ስማርትፎኖች ይመዝገቡ እና ያስተዳድሩ"
+
+msgid "Entrez votre email et votre numéro de téléphone pour vérifier votre identité"
+msgstr "ማንነትዎን ለማረጋገጥ ኢሜልዎን እና ስልክ ቁጥርዎን ያስገቡ"
+
+msgid "Erreur marquée comme résolue."
+msgstr "ስህተት እንደተፈታ ምልክት ተደርጎበታል።"
+
+msgid "Erreurs"
+msgstr "ስህተቶች"
+
+msgid "Erreurs non résolues"
+msgstr "ያልተፈቱ ስህተቶች"
+
+msgid "Error: The two entered values do not match."
+msgstr "ስህተት፡ ሁለቱ የገቡት እሴቶች አይዛመዱም።"
+
+msgid "Error: invalid input"
+msgstr "ስህተት፡ ልክ ያልሆነ ግቤት"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "ስህተት፡ {መልዕክት}"
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "መስክ ከ%(ከፍተኛ)d ቁምፊ በላይ መሆን አይችልም።"
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "መስክ ቢያንስ %(ደቂቃ)d ቁምፊ ርዝመት ሊኖረው ይገባል።"
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "መስክ በ%(ደቂቃ) d እና %(ከፍተኛ) d ቁምፊዎች መካከል መሆን አለበት።"
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "መስክ ከ%(ሌላ_ስም) ጋር እኩል መሆን አለበት።"
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "መስክ በትክክል %(ከፍተኛ)d ቁምፊ ረጅም መሆን አለበት።"
+
+msgid "File does not have an approved extension."
+msgstr "ፋይሉ የተፈቀደ ቅጥያ የለውም።"
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "ፋይሉ የጸደቀ ቅጥያ የለውም፡ {extensions}"
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "ፋይሉ በ{min_size} እና {max_size} ባይት መካከል መሆን አለበት።"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "የፀረ-ስርቆት ስርዓት ማዕከላዊ አስተዳደር"
+
+msgid "Gestion des alertes"
+msgstr "የማንቂያ አስተዳደር"
+
+msgid "Gestion des appareils"
+msgstr "የመሣሪያ አስተዳደር"
+
+msgid "Gestion des utilisateurs"
+msgstr "የተጠቃሚ አስተዳደር"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "ያልተጠበቀ ተጨማሪ ክርክር አግኝቷል ({args})"
+
+msgid "Géolocalisation"
+msgstr "የመሬት አቀማመጥ"
+
+msgid "Gérez vos informations personnelles"
+msgstr "የእርስዎን የግል መረጃ ያስተዳድሩ"
+
+msgid "Historique des alertes"
+msgstr "የማንቂያ ታሪክ"
+
+msgid "Incidents"
+msgstr "ክስተቶች"
+
+msgid "Inscription"
+msgstr "ምዝገባ"
+
+msgid "Inscrit le"
+msgstr "ላይ ተመዝግቧል"
+
+msgid "Invalid CSRF Token."
+msgstr "ልክ ያልሆነ CSRF Token"
+
+msgid "Invalid Choice: could not coerce."
+msgstr "ልክ ያልሆነ ምርጫ፡ ማስገደድ አልተቻለም።"
+
+msgid "Invalid IP address."
+msgstr "ልክ ያልሆነ የአይፒ አድራሻ"
+
+msgid "Invalid Mac address."
+msgstr "ልክ ያልሆነ የማክ አድራሻ።"
+
+msgid "Invalid URL."
+msgstr "ልክ ያልሆነ URL"
+
+msgid "Invalid UUID."
+msgstr "ልክ ያልሆነ UUID"
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "ልክ ያልሆነ ምርጫ(ዎች)፡ አንድ ወይም ተጨማሪ የውሂብ ግብዓቶች ሊገደዱ አልቻሉም።"
+
+msgid "Invalid email address."
+msgstr "የተሳሳተ የኢሜይል አድራሻ።"
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "ልክ ያልሆነ የመስክ ስም '%s'።"
+
+msgid "Invalid input."
+msgstr "ልክ ያልሆነ ግቤት"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "ለአማራጭ ልክ ያልሆነ የመጀመሪያ ቁምፊ ({አማራጭ})"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "ልክ ያልሆነ ዋጋ ለ{param_hint}፡ {message}"
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "ልክ ያልሆነ እሴት፣ ከ %(እሴቶች) ዎች ውስጥ የትኛውም ሊሆን አይችልም።"
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "ልክ ያልሆነ እሴት፣ ከ %(እሴቶች) s ውስጥ አንዱ መሆን አለበት።"
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "ልክ ያልሆነ እሴት፡ {message}"
+
+msgid "Journal d'activité"
+msgstr "የእንቅስቃሴ ምዝግብ ማስታወሻ"
+
+msgid "Journal d'erreurs"
+msgstr "የስህተት መዝገብ"
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "ብራንድ፣ ሞዴል እና IMEI ያስፈልጋል።"
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "የይለፍ ቃሉ ቢያንስ 6 ቁምፊዎችን መያዝ አለበት።"
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "አዲሱ የይለፍ ቃል ግዴታ ነው."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "ስልክ ቁጥሩ ከመለያ ቁጥሩ ጋር አይዛመድም።"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "በምዝገባ ወቅት ጥቅም ላይ የዋለው ቁጥር"
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "የመጀመሪያ ስም, የአያት ስም እና ኢሜል ያስፈልጋል."
+
+msgid "Le système fonctionne correctement."
+msgstr "ስርዓቱ በትክክል እየሰራ ነው።"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "የተጠቃሚ እንቅስቃሴዎች እዚህ ይታያሉ።"
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "የይለፍ ቃሎች አይዛመዱም።"
+
+msgid "Localisation GPS"
+msgstr "የጂፒኤስ አካባቢ"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "መሣሪያዎችዎን ያግኙ እና የአደጋ ቦታዎችን በዓይነ ሕሊናዎ ይመልከቱ"
+
+msgid "Marque"
+msgstr "የምርት ስም"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "ይህ ማንቂያ እንደተፈታ ምልክት ይደረግበት?"
+
+msgid "Membre depuis"
+msgstr "አባል ጀምሮ"
+
+msgid "Mes appareils"
+msgstr "የእኔ መሣሪያዎች"
+
+msgid "Minimum 6 caractères"
+msgstr "ቢያንስ 6 ቁምፊዎች"
+
+msgid "Missing argument"
+msgstr "የጠፋ ክርክር"
+
+msgid "Missing command."
+msgstr "ትእዛዝ ይጎድላል።"
+
+msgid "Missing option"
+msgstr "አማራጭ ይጎድላል"
+
+msgid "Missing parameter"
+msgstr "መለኪያ ይጎድላል"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "የሚጎድል መለኪያ፡ {param_name}"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} ይጎድላል"
+
+msgid "Modifier mes informations"
+msgstr "መረጃዬን አስተካክል።"
+
+msgid "Modèle"
+msgstr "ሞዴል"
+
+msgid "Mon Profil"
+msgstr "የእኔ መገለጫ"
+
+msgid "Mot de passe"
+msgstr "የይለፍ ቃል"
+
+msgid "Mot de passe oublié ?"
+msgstr "የተረሳ የይለፍ ቃል?"
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "የይለፍ ቃል በተሳካ ሁኔታ ዳግም ማስጀመር! ግባ"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "ስም «{name}» ሁለት ጊዜ ይገለጻል።"
+
+msgid "Navigateur"
+msgstr "አሳሽ"
+
+msgid "Niveau"
+msgstr "ደረጃ"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to declare an"
+" argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"ምንም አማራጮች አልተገለጹም ግን ስም ተላልፏል ({ስም})። በምትኩ ክርክር ማወጅ ማለትዎ ነው? '--{name}' ማለፍ "
+"ፈልገህ ነው?"
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "እንደዚህ ያለ ትዕዛዝ የለም {name!r}።"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "እንደዚህ ያለ አማራጭ {name!r} የለም።"
+
+msgid "Nom"
+msgstr "ስም"
+
+msgid "Non résolu"
+msgstr "አልተፈታም።"
+
+msgid "Not a valid choice."
+msgstr "ትክክለኛ ምርጫ አይደለም።"
+
+msgid "Not a valid date value."
+msgstr "የሚሰራ የቀን እሴት አይደለም።"
+
+msgid "Not a valid datetime value."
+msgstr "የሚሰራ የቀን ጊዜ ዋጋ አይደለም።"
+
+msgid "Not a valid decimal value."
+msgstr "የሚሰራ የአስርዮሽ እሴት አይደለም።"
+
+msgid "Not a valid float value."
+msgstr "የሚሰራ ተንሳፋፊ ዋጋ አይደለም።"
+
+msgid "Not a valid integer value."
+msgstr "ትክክለኛ የኢንቲጀር ዋጋ አይደለም።"
+
+msgid "Not a valid time value."
+msgstr "የሚሰራ የጊዜ እሴት አይደለም።"
+
+msgid "Not a valid week value."
+msgstr "የሚሰራ የሳምንት ዋጋ አይደለም።"
+
+msgid "Nouveau mot de passe"
+msgstr "አዲስ የይለፍ ቃል"
+
+msgid "Nouveaux ce mois"
+msgstr "በዚህ ወር አዲስ"
+
+msgid "Nouvel appareil"
+msgstr "አዲስ መሣሪያ"
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "ቁጥሩ ቢያንስ %(ደቂቃ) ሰ መሆን አለበት።"
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "ቁጥሩ ቢበዛ %(ከፍተኛ) ሰ መሆን አለበት።"
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "ቁጥሩ በ%(min)s እና %(max)s መካከል መሆን አለበት።"
+
+msgid "Numéro de téléphone"
+msgstr "ስልክ ቁጥር"
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "አማራጭ {name!r} ዋጋ አይወስድም።"
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "አማራጭ {name!r} ክርክር ያስፈልገዋል።"
+
+msgid "Options"
+msgstr "አማራጮች"
+
+msgid "Opérateur"
+msgstr "ኦፕሬተር"
+
+msgid "PRINCIPAL"
+msgstr "ዋና"
+
+msgid "Pas encore de compte ?"
+msgstr "እስካሁን መለያ የለም?"
+
+msgid "Perte"
+msgstr "ኪሳራ"
+
+msgid "Press any key to continue..."
+msgstr "ለመቀጠል ማንኛውንም ቁልፍ ይጫኑ..."
+
+msgid "Priorité"
+msgstr "ቅድሚያ"
+
+msgid "Profil"
+msgstr "መገለጫ"
+
+msgid "Profil mis à jour avec succès !"
+msgstr "መገለጫ በተሳካ ሁኔታ ዘምኗል!"
+
+msgid "Profile utilisateur"
+msgstr "የተጠቃሚ መገለጫ"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "የእርስዎን የግል ውሂብ በርቀት መቆለፍ ይጠብቁ"
+
+msgid "Prénom"
+msgstr "የመጀመሪያ ስም"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "በስርቆት ጊዜ ኤስኤምኤስ፣ ኢሜይል እና የግፋ ማሳወቂያዎችን ይቀበሉ"
+
+msgid "Rechercher une langue..."
+msgstr "ቋንቋ ፈልግ..."
+
+msgid "Repeat for confirmation"
+msgstr "ለማረጋገጫ ይድገሙት"
+
+msgid "Retourner à la"
+msgstr "ተመለስ ወደ"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "የስማርትፎንዎን ትክክለኛ ቦታ በእውነተኛ ጊዜ ያግኙ"
+
+msgid "Réinitialisation"
+msgstr "ዳግም አስጀምር"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "የይለፍ ቃል ዳግም አስጀምር"
+
+msgid "Résolu"
+msgstr "ተፈቷል።"
+
+msgid "Résolues"
+msgstr "ተፈቷል።"
+
+msgid "Résoudre"
+msgstr "ይፍቱ"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "ሁሉም ስህተቶች ይጠግኑ?"
+
+msgid "Résumé du système"
+msgstr "የስርዓት ማጠቃለያ"
+
+msgid "Rôle"
+msgstr "ሚና"
+
+msgid "Se connecter"
+msgstr "ግባ"
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "የሼል ማጠናቀቅ ከ4.4 በላይ ለሆኑ የBash ስሪቶች አይደገፍም።"
+
+msgid "Show the version and exit."
+msgstr "ስሪቱን አሳይ እና ውጣ።"
+
+msgid "Show this message and exit."
+msgstr "ይህንን መልእክት አሳይ እና ውጣ።"
+
+msgid "Signaler"
+msgstr "ሪፖርት አድርግ"
+
+msgid "Signaler un vol / perte"
+msgstr "ስርቆትን/ኪሳራውን ሪፖርት አድርግ"
+
+msgid "Signaler un vol ou une perte"
+msgstr "ስርቆትን ወይም ኪሳራን ሪፖርት ያድርጉ"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "ስርቆትን ወይም ኪሳራን ሪፖርት ያድርጉ እና ታሪክን ይከታተሉ"
+
+msgid "Statut"
+msgstr "ሁኔታ"
+
+msgid "Supprimer"
+msgstr "ሰርዝ"
+
+msgid "Supprimer cet appareil ?"
+msgstr "ይህ መሳሪያ ይሰረዝ?"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "ይህ ተጠቃሚ እና ሁሉም መሳሪያዎቻቸው ይሰረዙ?"
+
+msgid "Système Anti-Vol"
+msgstr "ፀረ-ስርቆት ስርዓት"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "ብልህ ፀረ-ስርቆት ስርዓት - ለስማርትፎኖች የደህንነት መድረክ"
+
+msgid "Système d'exploitation"
+msgstr "ስርዓተ ክወና"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "የስማርትፎን ደህንነት ስርዓት"
+
+msgid "SÉCURITÉ"
+msgstr "ደህንነት"
+
+msgid "Sécurité maximale"
+msgstr "ከፍተኛው ደህንነት"
+
+msgid "Sélectionner"
+msgstr "ይምረጡ"
+
+msgid "Sélectionner un appareil"
+msgstr "መሣሪያ ይምረጡ"
+
+msgid "Tableau de bord"
+msgstr "ዳሽቦርድ"
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "የ{nargs} እሴቶችን ይወስዳል ነገር ግን 1 ተሰጥቷል።"
+
+msgid "This field cannot be edited."
+msgstr "ይህ መስክ ሊስተካከል አይችልም።"
+
+msgid "This field is disabled and cannot have a value."
+msgstr "ይህ መስክ ተሰናክሏል እና ዋጋ ሊኖረው አይችልም።"
+
+msgid "This field is required."
+msgstr "ይህ መስክ ያስፈልጋል."
+
+msgid "Total alertes"
+msgstr "ጠቅላላ ማንቂያዎች"
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "ሁሉም አስፈላጊ መስኮች መሞላት አለባቸው."
+
+msgid "Tout est résolu"
+msgstr "ሁሉም ነገር ተፈትቷል"
+
+msgid "Tout résoudre"
+msgstr "ሁሉንም ነገር ይፍቱ"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "ለእገዛ '{command} {option}' ይሞክሩ።"
+
+msgid "Type"
+msgstr "ደግ"
+
+msgid "Type d'alerte"
+msgstr "የማንቂያ አይነት"
+
+msgid "Téléphone"
+msgstr "ስልክ"
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "ይህ IMEI ያለው መሣሪያ አስቀድሞ አለ።"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "ያልታወቀ ቀለም {color!r}"
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "ያልታወቀ መደበኛ ዥረት '{ስም}'"
+
+msgid "Usage:"
+msgstr "ተጠቀም፡"
+
+msgid "Utilisateur"
+msgstr "ተጠቃሚ"
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "ተጠቃሚ በተሳካ ሁኔታ ተሰርዟል።"
+
+msgid "Utilisateurs"
+msgstr "ተጠቃሚዎች"
+
+msgid "Utilisateurs total"
+msgstr "ጠቅላላ ተጠቃሚዎች"
+
+msgid "Value must be an iterable."
+msgstr "እሴት የሚደጋገም መሆን አለበት።"
+
+msgid "Verrouiller"
+msgstr "ቆልፍ"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "ይህ መሳሪያ በርቀት ቆልፍ?"
+
+msgid "Verrouillés à distance"
+msgstr "በርቀት ተቆልፏል"
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "እባክዎ መሳሪያ እና የማንቂያ አይነት ይምረጡ።"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "እባክዎ ይህን ገጽ ለመድረስ ይግቡ።"
+
+msgid "Voir tout"
+msgstr "ሁሉንም ይመልከቱ"
+
+msgid "Vol"
+msgstr "በረራ"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "ማንነትዎ የሚረጋገጠው ኢሜልዎን እና ስልክ ቁጥርዎን በመጠቀም ነው።"
+
+msgid "Vous"
+msgstr "አንተ"
+
+msgid "Vous avez été déconnecté."
+msgstr "ግንኙነት ተቋርጧል።"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "ይህን እርምጃ ለመፈጸም ስልጣን የለዎትም።"
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "የራስዎን መለያ መሰረዝ አይችሉም።"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "የመሣሪያዎ ደህንነት አጠቃላይ እይታ"
+
+msgid "Vérification sécurisée"
+msgstr "አስተማማኝ ማረጋገጫ"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "የዊንዶውስ ስህተት፡ {ስህተት}"
+
+msgid "Zones à risque"
+msgstr "የአደጋ አካባቢዎች"
+
+msgid "comptes"
+msgstr "መለያዎች"
+
+msgid "d"
+msgstr "መ"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "ነባሪ፡ {ነባሪ}"
+
+msgid "deprecated"
+msgstr "ተቋርጧል"
+
+msgid "directory"
+msgstr "ማውጫ"
+
+msgid "en attente"
+msgstr "በመጠባበቅ ላይ"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var፡ {var}"
+
+msgid "file"
+msgstr "ፋይል"
+
+msgid "incidents"
+msgstr "ክስተቶች"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "እንዳይቀይሩ ባዶውን ይተዉት"
+
+msgid "non résolues"
+msgstr "ያልተፈታ"
+
+msgid "page de connexion"
+msgstr "የመግቢያ ገጽ"
+
+msgid "path"
+msgstr "መንገድ"
+
+msgid "required"
+msgstr "ያስፈልጋል"
+
+msgid "récentes"
+msgstr "የቅርብ ጊዜ"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "በስልክዎ ላይ *#06# ብለው ይተይቡ"
+
+msgid "unknown error"
+msgstr "ያልታወቀ ስህተት"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}፡ ማረም አልተሳካም።"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}፡ ማረም አልተሳካም፡ {e}"
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} እሴቶች ያስፈልጋሉ፣ ግን {len_value} ተሰጥቷል።"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} የለም።"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} ማውጫ ነው።"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} ፋይል ነው።"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} ሊተገበር አይችልም።"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} አይነበብም።"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} መፃፍ አይቻልም።"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} ከቅርጸቱ {format} ጋር አይዛመድም።"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ልክ የሆነ UUID አይደለም።"
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ትክክለኛ ቡሊያን አይደለም። የሚታወቁ እሴቶች፡ {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ልክ የሆነ {number_type} አይደለም።"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} {ምርጫ} አይደለም።"
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} በክልል {ክልል} ውስጥ የለም።"
+

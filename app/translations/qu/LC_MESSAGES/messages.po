@@ -1,0 +1,1048 @@
+# Translations for QU.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: qu\n"
+"Language-Team: qu <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Ama hina kaspa, kay p'anqaman yaykunapaq yaykuy."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Kay IMEIqa sistemapi qillqasqañam kachkan."
+
+msgid "Accès non autorisé."
+msgstr "Mana kamachisqa yaykuy."
+
+msgid "Appareil déverrouillé."
+msgstr "Dispositivo kichasqa."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "¡Alerta ruwasqa! Willakuykuna apachisqa."
+
+msgid "Alerte résolue."
+msgstr "Alerta allichasqa."
+
+msgid "Pas encore de compte ?"
+msgstr "Manaraqmi cuentata qonchu?"
+
+msgid "Mon Profil"
+msgstr "Perfilniy"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "¡Conexión exitosa! Allinlla chayaykamuy."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Mana allin correo electrónico utaq contraseña."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Llapan mañasqa chakrakunam huntasqa kanan."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Yaykuna rimaykuna mana tupanchu."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Yaykuna rimayqa 6 qillqayuqmi kanan."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Kay correo electrónico llamk'achisqaña kachkan."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "¡Cuenta ruwasqa allinta! Yaykuy."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Mana yupaykuna tarisqachu kay correo electrónico kaqwan."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Telefono numeroqa manan tupanchu cuenta numerowan."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Musuq yaykuna rimayqa kamachisqa."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "¡Contraseña kutichiy allinta! Yaykuy."
+
+msgid "Vous avez été déconnecté."
+msgstr "Qamqa t’inkisqañam kanki."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Marca, modelo y IMEI nisqakunan necesitakun."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Kay IMEI kaqwan huk dispositivoqa kachkanña."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Dispositivo registrado allinta!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Kay ruwayta ruwanaykipaqqa manam kamachisqachu kanki."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Dispositivo karumanta allinta wichq'asqa."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Dispositivo allinta kichasqa."
+
+msgid "Appareil supprimé."
+msgstr "Dispositivo qullusqa."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Ama hina kaspa, huk dispositivota akllay chaymanta alerta laya."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Kay aparatoqa manan qanpachu."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alerta allinta willakurqa. Chay aparatoqa allin waqaychasqañam kachkan."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alerta allichasqa hina marcasqa."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Ñawpaq suti, qhipa suti, correo electrónico ima necesitakun."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Kay correo electrónico huk yupaywan llamk'achisqaña."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "¡Perfil allinta musuqyachisqa!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Yaykuna kamachiqkunapaq waqaychasqa."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Allchasqa hina pantasqa."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Kikin yupayniykitaqa manam qulluyta atiwaqchu."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Usuario allinta qullusqa."
+
+msgid "Administration"
+msgstr "Administración nisqa"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Anti-Suwakuy sistemapa chawpichasqa kamachiynin"
+
+msgid "Utilisateurs"
+msgstr "Usuariokuna"
+
+msgid "Actifs aujourd'hui"
+msgstr "Kunan punchaw activo"
+
+msgid "Nouveaux ce mois"
+msgstr "Musuq kay killapi"
+
+msgid "Appareils"
+msgstr "Dispositivokuna"
+
+msgid "Alertes actives"
+msgstr "Alertakuna ruwaq"
+
+msgid "Analytique"
+msgstr "Analítico nisqa"
+
+msgid "Journal d'activité"
+msgstr "Ruwaykunapa registron"
+
+msgid "Erreurs"
+msgstr "Pantasqakuna"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "T'inkisqakuna (qhipa 7 p'unchaw) ."
+
+msgid "Alertes par type"
+msgstr "Tipo nisqaman hina alerta"
+
+msgid "Appareils par opérateur"
+msgstr "Dispositivokuna operador nisqaman hina"
+
+msgid "Résumé du système"
+msgstr "Sistema Resumen nisqa"
+
+msgid "Utilisateurs total"
+msgstr "Llapan usuariokuna"
+
+msgid "Appareils enregistrés"
+msgstr "Registrado nisqa aparatokuna"
+
+msgid "Total alertes"
+msgstr "Llapan alertas nisqakuna"
+
+msgid "Alertes en cours"
+msgstr "Kunan pacha alertakuna"
+
+msgid "Erreurs non résolues"
+msgstr "Mana allichasqa pantaykuna"
+
+msgid "Dernières activités"
+msgstr "Qhipa ruwaykuna"
+
+msgid "récentes"
+msgstr "chayllaraq"
+
+msgid "Utilisateur"
+msgstr "Usuario"
+
+msgid "Action"
+msgstr "Ruwana"
+
+msgid "Détails"
+msgstr "Kaqninkuna"
+
+msgid "Adresse IP"
+msgstr "IP tiyay"
+
+msgid "Navigateur"
+msgstr "Navegador"
+
+msgid "Date"
+msgstr "Imay pacha"
+
+msgid "Aucune activité"
+msgstr "Mana ima ruwaypas"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Ruwaqpa ruwayninkunam kaypi rikurimunqa."
+
+msgid "Journal d'erreurs"
+msgstr "Pantasqa qillqa"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "¿Llapa pantaykunata allichay?"
+
+msgid "Tout résoudre"
+msgstr "Tukuy imata allichay"
+
+msgid "non résolues"
+msgstr "mana allichasqa"
+
+msgid "Tout est résolu"
+msgstr "Tukuy imapas allichasqañam"
+
+msgid "Type"
+msgstr "Allin"
+
+msgid "Description"
+msgstr "Willay"
+
+msgid "Statut"
+msgstr "Imayna kaynin"
+
+msgid "Résolu"
+msgstr "Allchasqa"
+
+msgid "Non résolu"
+msgstr "Mana allichasqa"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Mana pantay qillqasqachu"
+
+msgid "Le système fonctionne correctement."
+msgstr "Chay sistemaqa allintam llamkachkan."
+
+msgid "Gestion des utilisateurs"
+msgstr "Usuario kamachiy"
+
+msgid "comptes"
+msgstr "cuentakuna"
+
+msgid "Email"
+msgstr "Correo electrónico nisqapi"
+
+msgid "Téléphone"
+msgstr "Telefono"
+
+msgid "Rôle"
+msgstr "Papel"
+
+msgid "Inscrit le"
+msgstr "Inscrito en"
+
+msgid "Actions"
+msgstr "Ruwaykuna"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "¿Kay usuariota llapa dispositivonkunatapas chinkachiy?"
+
+msgid "Vous"
+msgstr "QAM"
+
+msgid "Connexions"
+msgstr "T’inkisqakuna"
+
+msgid "Vol"
+msgstr "Paway"
+
+msgid "Perte"
+msgstr "Chinkasqa"
+
+msgid "Anomalie"
+msgstr "Anomalía nisqa"
+
+msgid "Alertes"
+msgstr "Alertakuna"
+
+msgid "Gestion des alertes"
+msgstr "Alerta kamachiy"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Suwakuymanta utaq chinkachiymanta willakuy hinaspa historiata qatipay"
+
+msgid "Signaler un vol / perte"
+msgstr "Suwakuy/chinkachiymanta willakuy"
+
+msgid "En cours"
+msgstr "Progresopi kachkan"
+
+msgid "Résolues"
+msgstr "Allchasqa"
+
+msgid "Historique des alertes"
+msgstr "Alerta Historia"
+
+msgid "Appareil"
+msgstr "Dispositivo"
+
+msgid "Priorité"
+msgstr "Ñawpariq"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "¿Kay alertata allichasqa hina marcay?"
+
+msgid "Résoudre"
+msgstr "Chuyanchay"
+
+msgid "Aucune alerte"
+msgstr "Mana alertayuq"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "¡Allin willakuy! Mana ima alertakuna willasqachu."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Suwakuymanta utaq chinkachiymanta willakuy"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Suwakuymanta willaspa, dispositivoyki kikillanmanta wichq'asqa kanqa "
+"chaymanta willakuykunata apachisqa kanqa."
+
+msgid "Appareil concerné"
+msgstr "Afectasqa aparato"
+
+msgid "Sélectionner un appareil"
+msgstr "Huk aparatota akllay"
+
+msgid "Type d'alerte"
+msgstr "Tipo de alerta"
+
+msgid "Décrivez les circonstances..."
+msgstr "Willay imakuna pasakusqanmanta..."
+
+msgid "Annuler"
+msgstr "Sayachiy"
+
+msgid "Signaler"
+msgstr "Willakuy"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Yuyaysapa Anti-Suwakuy Sistema — Smartphones kaqpaq harkasqa plataforma"
+
+msgid "Système Anti-Vol"
+msgstr "Sistema Anti-Suwakuy"
+
+msgid "PRINCIPAL"
+msgstr "QULLANA"
+
+msgid "Tableau de bord"
+msgstr "Tabla de mando"
+
+msgid "SÉCURITÉ"
+msgstr "HARKAY"
+
+msgid "Géolocalisation"
+msgstr "Geolocalización nisqa"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRACIÓN nisqa"
+
+msgid "Déconnexion"
+msgstr "T’aqanakuy"
+
+msgid "Changer de langue"
+msgstr "Simita tikray"
+
+msgid "Rechercher une langue..."
+msgstr "Huk simita maskay..."
+
+msgid "Profil"
+msgstr "Runapa kaynin"
+
+msgid "Changer de thème"
+msgstr "Tema cambiay"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Dispositivoykipa waqaychasqa kayninmanta hatun qhaway"
+
+msgid "Ajouter un appareil"
+msgstr "Huk aparatota yapay"
+
+msgid "Appareils volés"
+msgstr "Suwasqa aparatokuna"
+
+msgid "Verrouillés à distance"
+msgstr "Karumanta wichqasqa"
+
+msgid "Alertes récentes"
+msgstr "Kunan pacha willakuykuna"
+
+msgid "Voir tout"
+msgstr "Tukuy rikuy"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Mana alertayuq. ¡Aparatoykikunaqa segurom kachkan!"
+
+msgid "Mes appareils"
+msgstr "Dispositivoykuna"
+
+msgid "Aucun appareil enregistré"
+msgstr "Mana dispositivokuna registradochu"
+
+msgid "Ajouter"
+msgstr "Yapay"
+
+msgid "en attente"
+msgstr "suyasqapi"
+
+msgid "Gestion des appareils"
+msgstr "Dispositivokuna kamachiy"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Inscribikuy hinaspa smartphones nisqaykikunata kamachiy"
+
+msgid "Opérateur"
+msgstr "Operador nisqa"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "¿Kay aparatota karumanta wichq'aychu?"
+
+msgid "Verrouiller"
+msgstr "Wichqana"
+
+msgid "Déverrouiller"
+msgstr "Desbloquear"
+
+msgid "Supprimer cet appareil ?"
+msgstr "¿Kay aparatota qulluchiy?"
+
+msgid "Supprimer"
+msgstr "CHINKACHIY"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Ñawpaq smartphone nisqaykita yapay chayta waqaychayta qallarinaykipaq."
+
+msgid "Nouvel appareil"
+msgstr "Musuq aparato"
+
+msgid "Marque"
+msgstr "Marca"
+
+msgid "Sélectionner"
+msgstr "Akllay"
+
+msgid "Autre"
+msgstr "Huk"
+
+msgid "Modèle"
+msgstr "Qatina"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "telefonoykipi *#06# nisqa qillqay"
+
+msgid "Système d'exploitation"
+msgstr "Sistema operativo nisqa"
+
+msgid "Numéro de téléphone"
+msgstr "Teléfono yupay"
+
+msgid "Enregistrer"
+msgstr "Waqaychay"
+
+msgid "Connexion"
+msgstr "T’inkisqa"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Smartphone seguridad sistema"
+
+msgid "Adresse email"
+msgstr "Correo electrónico nisqapi"
+
+msgid "Mot de passe"
+msgstr "Kichana"
+
+msgid "Se connecter"
+msgstr "Yaykuy"
+
+msgid "Mot de passe oublié ?"
+msgstr "¿Qunqarqankichu contraseña?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "¿Kanchu cuentayki? Mana chayqa, ¡yupayniyki ruwanaykipaq puriy!"
+
+msgid "Créer un compte"
+msgstr "Huk yupayta ruway"
+
+msgid "Sécurité maximale"
+msgstr "Máxima seguridad nisqa"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Sapanchasqa willayniykikunata karumanta wichq'aywan waqaychay"
+
+msgid "Localisation GPS"
+msgstr "GPS nisqapi tarikusqan"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Tariy maypi chiqap smartphone nisqayki chiqap pachapi"
+
+msgid "Alertes instantanées"
+msgstr "Chaylla alertas"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr ""
+"SMS, correo electrónico chaymanta tanqay willakuykunata chaskiy suwakuy "
+"kaqtin"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Dispositivokuna tariy chaymanta riesgo áreas kaqta qhaway"
+
+msgid "Aucun appareil"
+msgstr "Mana aparatoyuq"
+
+msgid "Zones à risque"
+msgstr "Riesgo nisqa cheqaskuna"
+
+msgid "incidents"
+msgstr "imapas pasasqanmanta"
+
+msgid "Aucune zone signalée"
+msgstr "Mana ima áreas nisqamanta willasqachu"
+
+msgid "Niveau"
+msgstr "Pata"
+
+msgid "Incidents"
+msgstr "Incidentes nisqakuna"
+
+msgid "Profile utilisateur"
+msgstr "Usuariopa perfilnin"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Sapanchasqa willakuyniykikunata kamachiy"
+
+msgid "Membre depuis"
+msgstr "Miembro desde"
+
+msgid "Modifier mes informations"
+msgstr "Willakuyniykunata allichay"
+
+msgid "Prénom"
+msgstr "Ñawpa suti"
+
+msgid "Nom"
+msgstr "Suti"
+
+msgid "Changer le mot de passe"
+msgstr "Yaykuna rimayta tikray"
+
+msgid "Nouveau mot de passe"
+msgstr "Musuq Yaykuna rimay"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "mana tikrakunanpaq ch’usaqllata saqiy"
+
+msgid "Enregistrer les modifications"
+msgstr "Tikraykunata waqaychay"
+
+msgid "Inscription"
+msgstr "Inscripción nisqa"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"Allin hamusqayki Anti-Suwakuyman aswan allin waqaychasqa "
+"dispositivoykikunapaq"
+
+msgid "Confirmer"
+msgstr "Yuyachiy"
+
+msgid "Créer mon compte"
+msgstr "Cuentayta ruway"
+
+msgid "Déjà un compte ?"
+msgstr "¿Ñam cuentayuqñachu kanki?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Contraseña kaqmanta churay"
+
+msgid "Réinitialisation"
+msgstr "Reset nisqa"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Correo electrónicoykita chaymanta telefono numeroykita qillqay "
+"identidadniyki chiqaqchanaykipaq"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Inscripción nisqapi llamk’achisqa yupay"
+
+msgid "Minimum 6 caractères"
+msgstr "Aswan pisi 6 qillqakuna"
+
+msgid "Confirmer le mot de passe"
+msgstr "Yaykuna rimayta takyachiy"
+
+msgid "Retourner à la"
+msgstr "Kutiy kayman"
+
+msgid "page de connexion"
+msgstr "yaykuna p'anqa"
+
+msgid "Vérification sécurisée"
+msgstr "Seguro nisqa chiqapchay"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Identidadniyki chiqaqchasqa kachkan correo electrónicoykiwan chaymanta "
+"telefono yupayniykiwan"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "6 qillqayuqllapas waqaychasqa yaykuna rimayta akllay"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Llamk'apuyqa manam atirqanchu"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Llamk'apuyqa manam atirqanchu: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows pantasqa: {pantasqa}."
+
+msgid "deprecated"
+msgstr "manaña munasqachu"
+
+msgid "Options"
+msgstr "Akllanakuna"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Mana suyasqa yapasqa rimayta chaskirqan ({args}) ."
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"DeprecationWarning: {suti!r} kamachiyqa manañam "
+"llamk'achisqachu.{extra_message}"
+
+msgid "Aborted!"
+msgstr "¡Abortado!"
+
+msgid "Commands"
+msgstr "Kamachiykuna"
+
+msgid "Missing command."
+msgstr "Kamachiy chinkasqa."
+
+msgid "Value must be an iterable."
+msgstr "Valorqa iterable nisqa kanan."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} chanikunata hapin ichaqa 1 qusqa karqan."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"DeprecationWarning: {param_type} {suti!r} nisqa manaña "
+"llamk'achisqachu.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Suti '{suti}' iskay kutita sut'inchasqa"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Boolean akllana {decl!r} mana chiqap/llullapaq kikin bandera "
+"llamk'achiyta atinchu."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Willayta akllanapaq sutita manam tariyta atirqanchu {decls!r}."
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Mana akllanakuna sut'inchasqachu ichataq huk suti pasasqa ({suti}). "
+"¿Chaypa rantinpi huk discutiyta declaraytachu munarqanki? ¿'--{sutin}' "
+"nisqa pasaytachu munarqanki?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}."
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "ñawpaqmanta churasqa: {ñawpaqmanta}."
+
+msgid "required"
+msgstr "mañasqa"
+
+msgid "(dynamic)"
+msgstr "(dinámico) ."
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Arguments take exactly one parameter declaration, got {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "¿Hinalla puriyta munankichu?"
+
+msgid "Confirm the action without prompting."
+msgstr "Mana tapuspa ruwayta takyachiy."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, %(versión)s nisqa laya"
+
+msgid "Show the version and exit."
+msgstr "Versión nisqamanta rikuchiy hinaspa lluqsiy."
+
+msgid "Show this message and exit."
+msgstr "Kay willayta rikuchispa lluqsiy."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "¿{posibilidad} nisqamantachu niyta munarqanki?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Pantasqa: {willakuy}."
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Yanapakunaykipaq '{kamachiy} {akllana}' nisqapi kallpachakuy."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Mana allin chani: {willakuy}."
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint} nisqapaq mana allin chaniyuq: {willakuy}."
+
+msgid "Missing argument"
+msgstr "Argumento faltasqa"
+
+msgid "Missing option"
+msgstr "Opción faltasqa"
+
+msgid "Missing parameter"
+msgstr "Parámetro faltasqa"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Mana {param_type} nisqa."
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Manaña kanchu parámetro: {param_name}."
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Mana chayhina akllana {suti!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Mana chayhina kamachiy {suti!r}."
+
+msgid "unknown error"
+msgstr "mana riqsisqa pantay"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "{filename!r} nisqa willañiqita manam kichayta atirqanchu: {willakuy}."
+
+msgid "Usage:"
+msgstr "Hapiy:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Akllanapaq ({akllana}) mana allin qallariy qillqa."
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumento {sutin!r} {nargs} chanikunata hapin."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Akllana {suti!r} mana chanita hapin."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "{suti!r} akllanaqa huk argumento nisqatam munan."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell tukukuyqa manam yanapasqachu 4.4manta aswan ñawpaq Bash layakunapaq."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Bash laya mana tariyta atirqanchu, shell tukukuyqa manam yanapasqachu."
+
+msgid "Repeat for confirmation"
+msgstr "Yapamanta ruway takyachinapaq"
+
+msgid "Error: The two entered values do not match."
+msgstr "Pantasqa: Iskay yaykusqa chanikunaqa manam tupanchu."
+
+msgid "Error: invalid input"
+msgstr "Pantasqa: mana allin yaykusqa"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Mana riqsisqa llimp'i {color!r}."
+
+msgid "Press any key to continue..."
+msgstr "Ima llavetapas ñit'iy hinalla ruwanaykipaq..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Akllay:\\n\\t{akllanakuna}."
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{valor!r} mana {akllay}chu."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Akllana({akllaykuna}) ."
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} mana {format} nisqawan tupanchu."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{valor!r} nisqaqa manam allin {yupay_laya}chu."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{valor} mana {rango} nisqapichu kachkan."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} nisqaqa manam allin booleanchu. Reqsisqa chanikuna: {states}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} nisqaqa manam allin UUIDchu."
+
+msgid "file"
+msgstr "kipu"
+
+msgid "directory"
+msgstr "directorio nisqapi"
+
+msgid "path"
+msgstr "ñan"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{suti} {willaqpa sutin!r} mana kanchu."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} nisqaqa huk willañiqim."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} nisqaqa huk willañiqim."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{suti} {filename!r} mana ñawirinapaqchu."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{suti} {filename!r} nisqaqa manam qillqanapaqchu."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{sutin} {willaqpa sutin!r} manam ruranachu."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} chanikuna mañasqa, ichataq {len_value} qusqa karqan."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Mana riqsisqa kamachiy mayu '{suti}'."
+
+msgid "This field is required."
+msgstr "Kay chakraqa mañasqam."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Willañiqiqa manam aprobasqa mast'ariyniyuqchu: {extensions}."
+
+msgid "File does not have an approved extension."
+msgstr "Willañiqiqa manam aprobasqa mast'ariyniyuqchu."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Willañiqiqa {min_size} chaymanta {max_size} bytekuna chawpipi kanan tiyan."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Mana allin pampa suti '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Chakra %(huk_suti)s nisqawan kaqlla kanan tiyan."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Chakraqa %(min)d qillqap sayayninmi kanan."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Chakraqa manam %(max)d qillqamanta aswan hatunchu kanman."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Chakraqa %(max)d qillqap sayayninmi kanan."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Chakraqa %(min)d chaymanta %(max)d qillqakunap chawpinpi kanan tiyan."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Yupayqa %(min)s nisqallapas kanan."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Yupayqa aswan %(max)s kanan tiyan."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Yupayqa %(min)s chaymanta %(max)s chawpipi kanan tiyan."
+
+msgid "Invalid input."
+msgstr "Mana allin yaykuchiy."
+
+msgid "Invalid email address."
+msgstr "Mana allin correo electrónico nisqa."
+
+msgid "Invalid IP address."
+msgstr "Mana allin IP tiyay."
+
+msgid "Invalid Mac address."
+msgstr "Mana allin Mac direccion."
+
+msgid "Invalid URL."
+msgstr "Mana allin URL nisqa."
+
+msgid "Invalid UUID."
+msgstr "Mana allin UUID nisqa."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Mana allin chani, hukninmi kanan: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Mana allin chani, manam mayqinpas kayta atinchu: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Kay pampaqa manam llamk'achiyta atikunmanchu."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Kay pampaqa mana llamk'achisqam, manam chaniyuq kayta atinchu."
+
+msgid "Invalid CSRF Token."
+msgstr "Mana allin CSRF Token."
+
+msgid "CSRF token missing."
+msgstr "CSRF token faltasqa."
+
+msgid "CSRF failed."
+msgstr "CSRF mana allintachu ruwarqa."
+
+msgid "CSRF token expired."
+msgstr "CSRF tokenqa tukusqañam."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Mana allin Akllay: mana obligayta atirqachu."
+
+msgid "Choices cannot be None."
+msgstr "Akllaykuna mana kanmanchu Mana imapas."
+
+msgid "Not a valid choice."
+msgstr "Mana allin akllakuychu."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Mana allin akllana(kuna): huk icha aswan willay yaykuchiyqa manam "
+"kallpachayta atirqanchu."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' nisqaqa manam allin akllanachu kay pampapaq."
+
+msgid "Not a valid datetime value."
+msgstr "Mana allin p'unchaw pacha chanichu."
+
+msgid "Not a valid date value."
+msgstr "Mana allin p'unchaw chanichu."
+
+msgid "Not a valid time value."
+msgstr "Mana allin pacha chaniyuqchu."
+
+msgid "Not a valid week value."
+msgstr "Mana allin semana valorniyuqchu."
+
+msgid "Not a valid integer value."
+msgstr "Mana allin hunt'asqa yupay chaniyuqchu."
+
+msgid "Not a valid decimal value."
+msgstr "Mana allin chunkayuq chaniyuqchu."
+
+msgid "Not a valid float value."
+msgstr "Mana allin flotador chaniyuqchu."
+

@@ -1,0 +1,1033 @@
+# Translations for IS.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: is\n"
+"Language-Team: is <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n%10==1 && n%100!=11 ? 0 : 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Vinsamlegast skráðu þig inn til að fá aðgang að þessari síðu."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Þetta IMEI er þegar skráð í kerfið."
+
+msgid "Accès non autorisé."
+msgstr "Óviðkomandi aðgangur."
+
+msgid "Appareil déverrouillé."
+msgstr "Tæki ólæst."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Viðvörun búin til! Tilkynningar sendar."
+
+msgid "Alerte résolue."
+msgstr "Viðvörun leyst."
+
+msgid "Pas encore de compte ?"
+msgstr "Enginn reikningur ennþá?"
+
+msgid "Mon Profil"
+msgstr "Prófíllinn minn"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Tenging tókst! Velkomin."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Rangt netfang eða lykilorð."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Fylla þarf út alla nauðsynlega reiti."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Lykilorð passa ekki saman."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Lykilorðið verður að innihalda að minnsta kosti 6 stafi."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Þessi tölvupóstur er þegar í notkun."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Reikningur búinn til! Skráðu þig inn."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Engir reikningar fundust með þessum tölvupósti."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Símanúmerið passar ekki við reikningsnúmerið."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Nýja lykilorðið er nauðsynlegt."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Lykilorð endurstillt tókst! Skráðu þig inn."
+
+msgid "Vous avez été déconnecté."
+msgstr "Þú hefur verið aftengdur."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Vörumerki, gerð og IMEI eru nauðsynleg."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Tæki með þessu IMEI er þegar til."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Tæki skráð með góðum árangri!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Þú hefur ekki heimild til að framkvæma þessa aðgerð."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Tæki tókst að fjarlæsa."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Tækið var opnað."
+
+msgid "Appareil supprimé."
+msgstr "Tæki eytt."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Vinsamlegast veldu tæki og viðvörunartegund."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Þetta tæki tilheyrir þér ekki."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Viðvörun var tilkynnt. Búið er að tryggja tækið."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Viðvörun merkt sem leyst."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Fornafn, eftirnafn og netfang er krafist."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Þessi tölvupóstur er þegar notaður af öðrum reikningi."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Prófíll uppfærður!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Aðgangur frátekinn fyrir stjórnendur."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Villa merkt sem leyst."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Þú getur ekki eytt þínum eigin reikningi."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Notanda var eytt."
+
+msgid "Administration"
+msgstr "Stjórnsýsla"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Miðstýrð stjórnun þjófavarnakerfisins"
+
+msgid "Utilisateurs"
+msgstr "Notendur"
+
+msgid "Actifs aujourd'hui"
+msgstr "Virkur í dag"
+
+msgid "Nouveaux ce mois"
+msgstr "Nýtt í þessum mánuði"
+
+msgid "Appareils"
+msgstr "Tæki"
+
+msgid "Alertes actives"
+msgstr "Virkar viðvaranir"
+
+msgid "Analytique"
+msgstr "Greinandi"
+
+msgid "Journal d'activité"
+msgstr "Athafnaskrá"
+
+msgid "Erreurs"
+msgstr "Villur"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Tengingar (síðustu 7 dagar)"
+
+msgid "Alertes par type"
+msgstr "Viðvaranir eftir tegund"
+
+msgid "Appareils par opérateur"
+msgstr "Tæki eftir rekstraraðila"
+
+msgid "Résumé du système"
+msgstr "Kerfissamantekt"
+
+msgid "Utilisateurs total"
+msgstr "Samtals notendur"
+
+msgid "Appareils enregistrés"
+msgstr "Skráð tæki"
+
+msgid "Total alertes"
+msgstr "Samtals viðvaranir"
+
+msgid "Alertes en cours"
+msgstr "Núverandi viðvaranir"
+
+msgid "Erreurs non résolues"
+msgstr "Óleystar villur"
+
+msgid "Dernières activités"
+msgstr "Nýjustu starfsemi"
+
+msgid "récentes"
+msgstr "nýleg"
+
+msgid "Utilisateur"
+msgstr "Notandi"
+
+msgid "Action"
+msgstr "Aðgerð"
+
+msgid "Détails"
+msgstr "Upplýsingar"
+
+msgid "Adresse IP"
+msgstr "IP tölu"
+
+msgid "Navigateur"
+msgstr "Vafri"
+
+msgid "Date"
+msgstr "Dagsetning"
+
+msgid "Aucune activité"
+msgstr "Engin virkni"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Notendavirkni mun birtast hér."
+
+msgid "Journal d'erreurs"
+msgstr "Villuskrá"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Laga allar villur?"
+
+msgid "Tout résoudre"
+msgstr "Leystu allt"
+
+msgid "non résolues"
+msgstr "óleyst"
+
+msgid "Tout est résolu"
+msgstr "Allt er leyst"
+
+msgid "Type"
+msgstr "Vingjarnlegur"
+
+msgid "Description"
+msgstr "Lýsing"
+
+msgid "Statut"
+msgstr "Staða"
+
+msgid "Résolu"
+msgstr "Leyst"
+
+msgid "Non résolu"
+msgstr "Óleyst"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Engar villur skráðar"
+
+msgid "Le système fonctionne correctement."
+msgstr "Kerfið virkar rétt."
+
+msgid "Gestion des utilisateurs"
+msgstr "Notendastjórnun"
+
+msgid "comptes"
+msgstr "reikninga"
+
+msgid "Email"
+msgstr "Tölvupóstur"
+
+msgid "Téléphone"
+msgstr "Sími"
+
+msgid "Rôle"
+msgstr "Hlutverk"
+
+msgid "Inscrit le"
+msgstr "Skráð á"
+
+msgid "Actions"
+msgstr "Aðgerðir"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Eyða þessum notanda og öllum tækjum hans?"
+
+msgid "Vous"
+msgstr "ÞÚ"
+
+msgid "Connexions"
+msgstr "Tengingar"
+
+msgid "Vol"
+msgstr "Flug"
+
+msgid "Perte"
+msgstr "Tap"
+
+msgid "Anomalie"
+msgstr "Frávik"
+
+msgid "Alertes"
+msgstr "Viðvaranir"
+
+msgid "Gestion des alertes"
+msgstr "Viðvörunarstjórnun"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Tilkynntu þjófnað eða tap og fylgdu sögu"
+
+msgid "Signaler un vol / perte"
+msgstr "Tilkynna þjófnað/tjón"
+
+msgid "En cours"
+msgstr "Í vinnslu"
+
+msgid "Résolues"
+msgstr "Leyst"
+
+msgid "Historique des alertes"
+msgstr "Viðvörunarsaga"
+
+msgid "Appareil"
+msgstr "Tæki"
+
+msgid "Priorité"
+msgstr "Forgangur"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Merkja þessa viðvörun sem leyst?"
+
+msgid "Résoudre"
+msgstr "Leysa"
+
+msgid "Aucune alerte"
+msgstr "Engin viðvörun"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Góðar fréttir! Engar viðvaranir hafa verið tilkynntar."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Tilkynna þjófnað eða tap"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Með því að tilkynna þjófnað verður tækið þitt sjálfkrafa læst og "
+"tilkynningar sendar."
+
+msgid "Appareil concerné"
+msgstr "Tækið sem hefur áhrif"
+
+msgid "Sélectionner un appareil"
+msgstr "Veldu tæki"
+
+msgid "Type d'alerte"
+msgstr "Tegund viðvörunar"
+
+msgid "Décrivez les circonstances..."
+msgstr "Lýstu aðstæðum..."
+
+msgid "Annuler"
+msgstr "Hætta við"
+
+msgid "Signaler"
+msgstr "Skýrsla"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Greindur þjófavarnarkerfi — Öryggisvettvangur fyrir snjallsíma"
+
+msgid "Système Anti-Vol"
+msgstr "Þjófavarnarkerfi"
+
+msgid "PRINCIPAL"
+msgstr "AÐAL"
+
+msgid "Tableau de bord"
+msgstr "Mælaborð"
+
+msgid "SÉCURITÉ"
+msgstr "ÖRYGGI"
+
+msgid "Géolocalisation"
+msgstr "Landfræðileg staðsetning"
+
+msgid "ADMINISTRATION"
+msgstr "STJÓRNSÝSLA"
+
+msgid "Déconnexion"
+msgstr "Aftengdu"
+
+msgid "Changer de langue"
+msgstr "Skiptu um tungumál"
+
+msgid "Rechercher une langue..."
+msgstr "Leitaðu að tungumáli..."
+
+msgid "Profil"
+msgstr "Prófíll"
+
+msgid "Changer de thème"
+msgstr "Breyta þema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Yfirlit yfir öryggi tækisins þíns"
+
+msgid "Ajouter un appareil"
+msgstr "Bættu við tæki"
+
+msgid "Appareils volés"
+msgstr "Stolin tæki"
+
+msgid "Verrouillés à distance"
+msgstr "Fjarlæst"
+
+msgid "Alertes récentes"
+msgstr "Nýlegar viðvaranir"
+
+msgid "Voir tout"
+msgstr "Sjá allt"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Engin viðvörun. Tækin þín eru örugg!"
+
+msgid "Mes appareils"
+msgstr "Tækin mín"
+
+msgid "Aucun appareil enregistré"
+msgstr "Engin tæki skráð"
+
+msgid "Ajouter"
+msgstr "Bæta við"
+
+msgid "en attente"
+msgstr "í bið"
+
+msgid "Gestion des appareils"
+msgstr "Tækjastjórnun"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Skráðu þig og stjórnaðu snjallsímunum þínum"
+
+msgid "Opérateur"
+msgstr "Rekstraraðili"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Fjarlæsa þessu tæki?"
+
+msgid "Verrouiller"
+msgstr "Læsa"
+
+msgid "Déverrouiller"
+msgstr "Opnaðu"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Eyða þessu tæki?"
+
+msgid "Supprimer"
+msgstr "EYÐA"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Bættu við fyrsta snjallsímanum þínum til að byrja að vernda hann."
+
+msgid "Nouvel appareil"
+msgstr "Nýtt tæki"
+
+msgid "Marque"
+msgstr "Vörumerki"
+
+msgid "Sélectionner"
+msgstr "Veldu"
+
+msgid "Autre"
+msgstr "Annað"
+
+msgid "Modèle"
+msgstr "Fyrirmynd"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "sláðu inn *#06# í símanum þínum"
+
+msgid "Système d'exploitation"
+msgstr "Stýrikerfi"
+
+msgid "Numéro de téléphone"
+msgstr "Símanúmer"
+
+msgid "Enregistrer"
+msgstr "Vista"
+
+msgid "Connexion"
+msgstr "Tenging"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Öryggiskerfi snjallsíma"
+
+msgid "Adresse email"
+msgstr "Netfang"
+
+msgid "Mot de passe"
+msgstr "Lykilorð"
+
+msgid "Se connecter"
+msgstr "Skráðu þig inn"
+
+msgid "Mot de passe oublié ?"
+msgstr "Gleymt lykilorð?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Ertu nú þegar með reikning? Annars skaltu halda áfram að búa til "
+"reikninginn þinn!"
+
+msgid "Créer un compte"
+msgstr "Búðu til reikning"
+
+msgid "Sécurité maximale"
+msgstr "Hámarksöryggi"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Verndaðu persónuleg gögn þín með fjarlæsingu"
+
+msgid "Localisation GPS"
+msgstr "GPS staðsetning"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Finndu nákvæma staðsetningu snjallsímans þíns í rauntíma"
+
+msgid "Alertes instantanées"
+msgstr "Augnablik viðvaranir"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Fáðu SMS, tölvupóst og ýttu tilkynningar ef um þjófnað er að ræða"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Finndu tækin þín og sjáðu áhættusvæði"
+
+msgid "Aucun appareil"
+msgstr "Ekkert tæki"
+
+msgid "Zones à risque"
+msgstr "Áhættusvæði"
+
+msgid "incidents"
+msgstr "atvikum"
+
+msgid "Aucune zone signalée"
+msgstr "Engin svæði tilkynnt"
+
+msgid "Niveau"
+msgstr "Stig"
+
+msgid "Incidents"
+msgstr "Atvik"
+
+msgid "Profile utilisateur"
+msgstr "Notandasnið"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Stjórnaðu persónulegum upplýsingum þínum"
+
+msgid "Membre depuis"
+msgstr "Meðlimur síðan"
+
+msgid "Modifier mes informations"
+msgstr "Breyttu upplýsingum mínum"
+
+msgid "Prénom"
+msgstr "Fornafn"
+
+msgid "Nom"
+msgstr "Nafn"
+
+msgid "Changer le mot de passe"
+msgstr "Breyta lykilorði"
+
+msgid "Nouveau mot de passe"
+msgstr "Nýtt lykilorð"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "skildu eftir autt svo það breytist ekki"
+
+msgid "Enregistrer les modifications"
+msgstr "Vista breytingar"
+
+msgid "Inscription"
+msgstr "Skráning"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Velkomin í Anti-Theft fyrir betra öryggi tækjanna þinna"
+
+msgid "Confirmer"
+msgstr "Staðfesta"
+
+msgid "Créer mon compte"
+msgstr "Búðu til reikninginn minn"
+
+msgid "Déjà un compte ?"
+msgstr "Ertu nú þegar með reikning?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Endurstilla lykilorð"
+
+msgid "Réinitialisation"
+msgstr "Endurstilla"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Sláðu inn netfangið þitt og símanúmer til að staðfesta auðkenni þitt"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Númerið sem notað var við skráningu"
+
+msgid "Minimum 6 caractères"
+msgstr "Lágmark 6 stafir"
+
+msgid "Confirmer le mot de passe"
+msgstr "Staðfestu lykilorð"
+
+msgid "Retourner à la"
+msgstr "Fara aftur til"
+
+msgid "page de connexion"
+msgstr "innskráningarsíðu"
+
+msgid "Vérification sécurisée"
+msgstr "Örugg staðfesting"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Auðkenni þitt er staðfest með tölvupósti og símanúmeri"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Veldu öruggt lykilorð sem er að minnsta kosti 6 stafir"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{ritstjóri}: Breyting mistókst"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Breyting mistókst: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows villa: {villa}"
+
+msgid "deprecated"
+msgstr "afskrifað"
+
+msgid "Options"
+msgstr "Valmöguleikar"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Fékk óvænt auka rifrildi ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "Afskriftaviðvörun: Skipunin {name!r} er úrelt.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Hætt við!"
+
+msgid "Commands"
+msgstr "Skipanir"
+
+msgid "Missing command."
+msgstr "Skipun vantar."
+
+msgid "Value must be an iterable."
+msgstr "Gildi verður að vera endurtekið."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Tekur {nargs} gildi en 1 var gefið."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "Afskriftaviðvörun: {param_type} {name!r} er úrelt.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Nafn '{name}' skilgreint tvisvar"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Boolean valkosturinn {decl!r} getur ekki notað sama fána fyrir satt/ósatt."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Gat ekki ákvarðað nafn fyrir valkost með yfirlýsingum {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Engir valkostir skilgreindir en nafn var sent ({name}). Ætlaðirðu að lýsa"
+" yfir rökræðum í staðinn? Ætlaðirðu að gefa '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "sjálfgefið: {sjálfgefið}"
+
+msgid "required"
+msgstr "krafist"
+
+msgid "(dynamic)"
+msgstr "(dýnamískt)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Rök taka nákvæmlega eina færibreytuyfirlýsingu, fékk {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Viltu halda áfram?"
+
+msgid "Confirm the action without prompting."
+msgstr "Staðfestu aðgerðina án þess að biðja um það."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, útgáfa %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Sýna útgáfuna og hætta."
+
+msgid "Show this message and exit."
+msgstr "Sýna þessi skilaboð og hætta."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Áttirðu við {möguleika}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Villa: {skilaboð}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Prófaðu '{command} {option}' til að fá hjálp."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Ógilt gildi: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Ógilt gildi fyrir {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Vantar rök"
+
+msgid "Missing option"
+msgstr "Vantar valmöguleika"
+
+msgid "Missing parameter"
+msgstr "Vantar færibreytu"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Vantar {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Vantar færibreytu: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Enginn slíkur valkostur {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Engin slík skipun {nafn!r}."
+
+msgid "unknown error"
+msgstr "óþekkt villa"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Gat ekki opnað skrána {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Notaðu:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Ógildur upphafsstafur fyrir valmöguleika ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Rök {nafn!r} tekur {nargs} gildi."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Valkostur {nafn!r} tekur ekki gildi."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Valkostur {nafn!r} krefst rökstuðnings."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Skeljafrágangur er ekki studdur fyrir Bash útgáfur eldri en 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Gat ekki greint Bash útgáfu, skeljaútfylling er ekki studd."
+
+msgid "Repeat for confirmation"
+msgstr "Endurtaktu til staðfestingar"
+
+msgid "Error: The two entered values do not match."
+msgstr "Villa: Tvö innslögðu gildin passa ekki saman."
+
+msgid "Error: invalid input"
+msgstr "Villa: ógilt inntak"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Óþekktur litur {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Ýttu á hvaða takka sem er til að halda áfram..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Veldu úr:\\n\\t{valkostum}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} er ekki {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Val ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} passar ekki við sniðið {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} er ekki gild {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} er ekki á bilinu {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} er ekki gild boolean. Viðurkennd gildi: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} er ekki gilt UUID."
+
+msgid "file"
+msgstr "skrá"
+
+msgid "directory"
+msgstr "skrá"
+
+msgid "path"
+msgstr "leið"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} er ekki til."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} er skrá."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} er skráasafn."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} er ekki læsilegt."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} er ekki hægt að skrifa."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} er ekki keyranlegt."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} gildi eru nauðsynleg, en {len_value} var gefið upp."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Óþekktur staðallstraumur '{name}'"
+
+msgid "This field is required."
+msgstr "Þessi reitur er nauðsynlegur."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Skrá er ekki með samþykkta viðbót: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Skrá er ekki með samþykkta viðbót."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Skrá verður að vera á milli {min_size} og {max_size} bæta."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Ógilt heiti reits '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Reitur verður að vera jöfn %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Reiturinn verður að vera að minnsta kosti %(mín)d stafa langur."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Reitur má ekki vera lengri en %(max)d stafur."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Reitur verður að vera nákvæmlega %(max)d stafur að lengd."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Reitur verður að vera á milli %(min)d og %(max)d stafir að lengd."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Fjöldi verður að vera að minnsta kosti %(mín)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Fjöldi verður að vera að hámarki %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Fjöldi verður að vera á milli %(min)s og %(max)s."
+
+msgid "Invalid input."
+msgstr "Ógilt inntak."
+
+msgid "Invalid email address."
+msgstr "Ógilt netfang."
+
+msgid "Invalid IP address."
+msgstr "Ógilt IP-tala."
+
+msgid "Invalid Mac address."
+msgstr "Ógilt Mac vistfang."
+
+msgid "Invalid URL."
+msgstr "Ógild vefslóð."
+
+msgid "Invalid UUID."
+msgstr "Ógilt UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Ógilt gildi, verður að vera eitt af: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Ógilt gildi, getur ekki verið eitthvað af: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Ekki er hægt að breyta þessum reit."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Þessi reitur er óvirkur og getur ekki haft gildi."
+
+msgid "Invalid CSRF Token."
+msgstr "Ógilt CSRF tákn."
+
+msgid "CSRF token missing."
+msgstr "CSRF tákn vantar."
+
+msgid "CSRF failed."
+msgstr "CSRF mistókst."
+
+msgid "CSRF token expired."
+msgstr "CSRF tákn rann út."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Ógilt val: gat ekki þvingað."
+
+msgid "Choices cannot be None."
+msgstr "Val getur ekki verið Enginn."
+
+msgid "Not a valid choice."
+msgstr "Ekki gilt val."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Ógilt val: ekki var hægt að þvinga eitt eða fleiri gagnainntak."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' er ekki gilt val fyrir þennan reit."
+
+msgid "Not a valid datetime value."
+msgstr "Ekki gilt gildi dagsetningartíma."
+
+msgid "Not a valid date value."
+msgstr "Ekki gilt dagsetningargildi."
+
+msgid "Not a valid time value."
+msgstr "Ekki gilt tímagildi."
+
+msgid "Not a valid week value."
+msgstr "Ekki gilt vikugildi."
+
+msgid "Not a valid integer value."
+msgstr "Ekki gilt heiltölugildi."
+
+msgid "Not a valid decimal value."
+msgstr "Ekki gilt aukastaf."
+
+msgid "Not a valid float value."
+msgstr "Ekki gilt flotgildi."
+

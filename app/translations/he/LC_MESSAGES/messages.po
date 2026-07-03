@@ -1,0 +1,1029 @@
+# Translations for HE.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: he\n"
+"Language-Team: he <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "אנא היכנס כדי לגשת לדף זה."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "IMEI זה כבר רשום במערכת."
+
+msgid "Accès non autorisé."
+msgstr "גישה לא מורשית."
+
+msgid "Appareil déverrouillé."
+msgstr "המכשיר לא נעול."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "התראה נוצרה! נשלחו התראות."
+
+msgid "Alerte résolue."
+msgstr "ההתראה נפתרה."
+
+msgid "Pas encore de compte ?"
+msgstr "עדיין אין חשבון?"
+
+msgid "Mon Profil"
+msgstr "הפרופיל שלי"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "החיבור הצליח! קַבָּלַת פָּנִים."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "אימייל או סיסמה שגויים."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "יש למלא את כל השדות הנדרשים."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "הסיסמאות אינן תואמות."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "הסיסמה חייבת להכיל לפחות 6 תווים."
+
+msgid "Cet email est déjà utilisé."
+msgstr "האימייל הזה כבר בשימוש."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "החשבון נוצר בהצלחה! התחבר."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "לא נמצאו חשבונות עם האימייל הזה."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "מספר הטלפון אינו תואם למספר החשבון."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "הסיסמה החדשה היא חובה."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "איפוס הסיסמה בהצלחה! התחבר."
+
+msgid "Vous avez été déconnecté."
+msgstr "ניתקו אותך."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "מותג, דגם ו-IMEI נדרשים."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "מכשיר עם IMEI זה כבר קיים."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "המכשיר נרשם בהצלחה!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "אינך מורשה לבצע פעולה זו."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "המכשיר ננעל מרחוק בהצלחה."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "נעילת המכשיר בוטלה בהצלחה."
+
+msgid "Appareil supprimé."
+msgstr "המכשיר נמחק."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "אנא בחר מכשיר וסוג התראה."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "המכשיר הזה לא שייך לך."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "התראה דווחה בהצלחה. המכשיר אובטח."
+
+msgid "Alerte marquée comme résolue."
+msgstr "התראה מסומנת כפתורה."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "יש לציין שם פרטי, שם משפחה ואימייל."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "דוא\"ל זה כבר נמצא בשימוש על ידי חשבון אחר."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "הפרופיל עודכן בהצלחה!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "הגישה שמורה למנהלי מערכת."
+
+msgid "Erreur marquée comme résolue."
+msgstr "שגיאה סומנה כפתורה."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "אתה לא יכול למחוק את החשבון שלך."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "המשתמש נמחק בהצלחה."
+
+msgid "Administration"
+msgstr "מִנהָל"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "ניהול מרוכז של מערכת נגד גניבות"
+
+msgid "Utilisateurs"
+msgstr "משתמשים"
+
+msgid "Actifs aujourd'hui"
+msgstr "פעיל היום"
+
+msgid "Nouveaux ce mois"
+msgstr "חדש החודש"
+
+msgid "Appareils"
+msgstr "מכשירים"
+
+msgid "Alertes actives"
+msgstr "התראות פעילות"
+
+msgid "Analytique"
+msgstr "אנליטי"
+
+msgid "Journal d'activité"
+msgstr "יומן פעילות"
+
+msgid "Erreurs"
+msgstr "שגיאות"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "חיבורים (7 הימים האחרונים)"
+
+msgid "Alertes par type"
+msgstr "התראות לפי סוג"
+
+msgid "Appareils par opérateur"
+msgstr "מכשירים לפי מפעיל"
+
+msgid "Résumé du système"
+msgstr "סיכום מערכת"
+
+msgid "Utilisateurs total"
+msgstr "סך כל המשתמשים"
+
+msgid "Appareils enregistrés"
+msgstr "מכשירים רשומים"
+
+msgid "Total alertes"
+msgstr "סך כל התראות"
+
+msgid "Alertes en cours"
+msgstr "התראות נוכחיות"
+
+msgid "Erreurs non résolues"
+msgstr "שגיאות לא פתורות"
+
+msgid "Dernières activités"
+msgstr "הפעילויות האחרונות"
+
+msgid "récentes"
+msgstr "לאחרונה"
+
+msgid "Utilisateur"
+msgstr "מִשׁתַמֵשׁ"
+
+msgid "Action"
+msgstr "פְּעוּלָה"
+
+msgid "Détails"
+msgstr "פרטים"
+
+msgid "Adresse IP"
+msgstr "כתובת IP"
+
+msgid "Navigateur"
+msgstr "דפדפן"
+
+msgid "Date"
+msgstr "תַאֲרִיך"
+
+msgid "Aucune activité"
+msgstr "אין פעילות"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "פעילויות משתמשים יופיעו כאן."
+
+msgid "Journal d'erreurs"
+msgstr "יומן שגיאות"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "לתקן את כל השגיאות?"
+
+msgid "Tout résoudre"
+msgstr "לפתור הכל"
+
+msgid "non résolues"
+msgstr "לא פתורה"
+
+msgid "Tout est résolu"
+msgstr "הכל נפתר"
+
+msgid "Type"
+msgstr "סוּג"
+
+msgid "Description"
+msgstr "תֵאוּר"
+
+msgid "Statut"
+msgstr "סטָטוּס"
+
+msgid "Résolu"
+msgstr "נפתר"
+
+msgid "Non résolu"
+msgstr "לא פתורה"
+
+msgid "Aucune erreur enregistrée"
+msgstr "לא נרשמו שגיאות"
+
+msgid "Le système fonctionne correctement."
+msgstr "המערכת פועלת כמו שצריך."
+
+msgid "Gestion des utilisateurs"
+msgstr "ניהול משתמשים"
+
+msgid "comptes"
+msgstr "חשבונות"
+
+msgid "Email"
+msgstr "אֶלֶקטרוֹנִי"
+
+msgid "Téléphone"
+msgstr "טֵלֵפוֹן"
+
+msgid "Rôle"
+msgstr "תַפְקִיד"
+
+msgid "Inscrit le"
+msgstr "נרשם ב"
+
+msgid "Actions"
+msgstr "פעולות"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "למחוק את המשתמש הזה ואת כל המכשירים שלו?"
+
+msgid "Vous"
+msgstr "אַתָה"
+
+msgid "Connexions"
+msgstr "חיבורים"
+
+msgid "Vol"
+msgstr "טִיסָה"
+
+msgid "Perte"
+msgstr "הֶפסֵד"
+
+msgid "Anomalie"
+msgstr "אֲנוֹמַלִיָה"
+
+msgid "Alertes"
+msgstr "התראות"
+
+msgid "Gestion des alertes"
+msgstr "ניהול התראות"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "דווח על גניבה או אובדן ועקוב אחר ההיסטוריה"
+
+msgid "Signaler un vol / perte"
+msgstr "דווח על גניבה/אובדן"
+
+msgid "En cours"
+msgstr "בתהליך"
+
+msgid "Résolues"
+msgstr "נפתר"
+
+msgid "Historique des alertes"
+msgstr "היסטוריית התראות"
+
+msgid "Appareil"
+msgstr "הֶתקֵן"
+
+msgid "Priorité"
+msgstr "עֲדִיפוּת"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "לסמן את ההתראה הזו כפתורה?"
+
+msgid "Résoudre"
+msgstr "לִפְתוֹר"
+
+msgid "Aucune alerte"
+msgstr "אין התראה"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "חדשות טובות! לא דווחו התראות."
+
+msgid "Signaler un vol ou une perte"
+msgstr "דווח על גניבה או אובדן"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr "על ידי דיווח על גניבה, המכשיר שלך יינעל אוטומטית והודעות יישלחו."
+
+msgid "Appareil concerné"
+msgstr "מכשיר מושפע"
+
+msgid "Sélectionner un appareil"
+msgstr "בחר מכשיר"
+
+msgid "Type d'alerte"
+msgstr "סוג התראה"
+
+msgid "Décrivez les circonstances..."
+msgstr "תאר את הנסיבות..."
+
+msgid "Annuler"
+msgstr "לְבַטֵל"
+
+msgid "Signaler"
+msgstr "דִוּוּחַ"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "מערכת חכמה למניעת גניבה — פלטפורמת אבטחה לסמארטפונים"
+
+msgid "Système Anti-Vol"
+msgstr "מערכת למניעת גניבות"
+
+msgid "PRINCIPAL"
+msgstr "רָאשִׁי"
+
+msgid "Tableau de bord"
+msgstr "לוּחַ מַחווָנִים"
+
+msgid "SÉCURITÉ"
+msgstr "בִּטָחוֹן"
+
+msgid "Géolocalisation"
+msgstr "מיקום גיאוגרפי"
+
+msgid "ADMINISTRATION"
+msgstr "מִנהָל"
+
+msgid "Déconnexion"
+msgstr "לְנַתֵק"
+
+msgid "Changer de langue"
+msgstr "שנה שפה"
+
+msgid "Rechercher une langue..."
+msgstr "חפש שפה..."
+
+msgid "Profil"
+msgstr "פּרוֹפִיל"
+
+msgid "Changer de thème"
+msgstr "שנה נושא"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "סקירה כללית של אבטחת המכשיר שלך"
+
+msgid "Ajouter un appareil"
+msgstr "הוסף מכשיר"
+
+msgid "Appareils volés"
+msgstr "מכשירים גנובים"
+
+msgid "Verrouillés à distance"
+msgstr "נעול מרחוק"
+
+msgid "Alertes récentes"
+msgstr "התראות אחרונות"
+
+msgid "Voir tout"
+msgstr "ראה הכל"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "אין התראה. המכשירים שלך בטוחים!"
+
+msgid "Mes appareils"
+msgstr "המכשירים שלי"
+
+msgid "Aucun appareil enregistré"
+msgstr "לא נרשמו מכשירים"
+
+msgid "Ajouter"
+msgstr "לְהוֹסִיף"
+
+msgid "en attente"
+msgstr "בהמתנה"
+
+msgid "Gestion des appareils"
+msgstr "ניהול מכשירים"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "הרשמה ונהל את הסמארטפונים שלך"
+
+msgid "Opérateur"
+msgstr "מַפעִיל"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "לנעול את המכשיר הזה מרחוק?"
+
+msgid "Verrouiller"
+msgstr "לִנְעוֹל"
+
+msgid "Déverrouiller"
+msgstr "לִפְתוֹחַ"
+
+msgid "Supprimer cet appareil ?"
+msgstr "למחוק את המכשיר הזה?"
+
+msgid "Supprimer"
+msgstr "לִמְחוֹק"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "הוסף את הטלפון החכם הראשון שלך כדי להתחיל להגן עליו."
+
+msgid "Nouvel appareil"
+msgstr "מכשיר חדש"
+
+msgid "Marque"
+msgstr "מותג"
+
+msgid "Sélectionner"
+msgstr "לִבחוֹר"
+
+msgid "Autre"
+msgstr "אַחֵר"
+
+msgid "Modèle"
+msgstr "דֶגֶם"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "הקלד *#06# בטלפון שלך"
+
+msgid "Système d'exploitation"
+msgstr "מַעֲרֶכֶת הַפעָלָה"
+
+msgid "Numéro de téléphone"
+msgstr "מספר טלפון"
+
+msgid "Enregistrer"
+msgstr "לְהַצִיל"
+
+msgid "Connexion"
+msgstr "קֶשֶׁר"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "מערכת אבטחה לסמארטפון"
+
+msgid "Adresse email"
+msgstr "כתובת דואר אלקטרוני"
+
+msgid "Mot de passe"
+msgstr "סִיסמָה"
+
+msgid "Se connecter"
+msgstr "התחבר"
+
+msgid "Mot de passe oublié ?"
+msgstr "שכחת סיסמה?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "יש לך כבר חשבון? אחרת, המשך ליצירת החשבון שלך!"
+
+msgid "Créer un compte"
+msgstr "צור חשבון"
+
+msgid "Sécurité maximale"
+msgstr "אבטחה מקסימלית"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "הגן על הנתונים האישיים שלך עם נעילה מרחוק"
+
+msgid "Localisation GPS"
+msgstr "מיקום GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "מצא את המיקום המדויק של הטלפון החכם שלך בזמן אמת"
+
+msgid "Alertes instantanées"
+msgstr "התראות מיידיות"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "קבל הודעות SMS, אימייל ודחיפה במקרה של גניבה"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "אתר את המכשירים שלך ודמיין אזורי סיכון"
+
+msgid "Aucun appareil"
+msgstr "אין מכשיר"
+
+msgid "Zones à risque"
+msgstr "אזורי סיכון"
+
+msgid "incidents"
+msgstr "אירועים"
+
+msgid "Aucune zone signalée"
+msgstr "לא דווח על אזורים"
+
+msgid "Niveau"
+msgstr "רָמָה"
+
+msgid "Incidents"
+msgstr "תקריות"
+
+msgid "Profile utilisateur"
+msgstr "פרופיל משתמש"
+
+msgid "Gérez vos informations personnelles"
+msgstr "נהל את המידע האישי שלך"
+
+msgid "Membre depuis"
+msgstr "חבר מאז"
+
+msgid "Modifier mes informations"
+msgstr "ערוך את המידע שלי"
+
+msgid "Prénom"
+msgstr "שֵׁם פְּרַטִי"
+
+msgid "Nom"
+msgstr "שֵׁם"
+
+msgid "Changer le mot de passe"
+msgstr "שנה סיסמה"
+
+msgid "Nouveau mot de passe"
+msgstr "סיסמה חדשה"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "השאר ריק כדי לא לשנות"
+
+msgid "Enregistrer les modifications"
+msgstr "שמור שינויים"
+
+msgid "Inscription"
+msgstr "הַרשָׁמָה"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "ברוכים הבאים ל- Anti-Theft לאבטחה טובה יותר של המכשירים שלך"
+
+msgid "Confirmer"
+msgstr "לְאַשֵׁר"
+
+msgid "Créer mon compte"
+msgstr "צור את החשבון שלי"
+
+msgid "Déjà un compte ?"
+msgstr "יש לך כבר חשבון?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "אפס סיסמה"
+
+msgid "Réinitialisation"
+msgstr "אִתחוּל"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "הזן את האימייל ואת מספר הטלפון שלך כדי לאמת את זהותך"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "המספר ששימש במהלך הרישום"
+
+msgid "Minimum 6 caractères"
+msgstr "מינימום 6 תווים"
+
+msgid "Confirmer le mot de passe"
+msgstr "אשר את הסיסמה"
+
+msgid "Retourner à la"
+msgstr "חזור אל"
+
+msgid "page de connexion"
+msgstr "דף הכניסה"
+
+msgid "Vérification sécurisée"
+msgstr "אימות מאובטח"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "זהותך מאומתת באמצעות הדוא\"ל ומספר הטלפון שלך"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "בחר סיסמה מאובטחת של לפחות 6 תווים"
+
+msgid "d"
+msgstr "ד"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{עורך}: העריכה נכשלה"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: העריכה נכשלה: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "שגיאת Windows: {error}"
+
+msgid "deprecated"
+msgstr "הוצא משימוש"
+
+msgid "Options"
+msgstr "אפשרויות"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "קיבל ארגומנט נוסף בלתי צפוי ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: הפקודה {name!r} הוצאה משימוש.{extra_message}"
+
+msgid "Aborted!"
+msgstr "הופסק!"
+
+msgid "Commands"
+msgstr "פקודות"
+
+msgid "Missing command."
+msgstr "חסרה פקודה."
+
+msgid "Value must be an iterable."
+msgstr "הערך חייב להיות איטרציה."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "לוקח ערכים של {nargs} אבל ניתן 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "הוצאה משימוש אזהרה: ה-{param_type} {name!r} הוצא משימוש.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "השם '{name}' הוגדר פעמיים"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "האפשרות הבוליאנית {decl!r} אינה יכולה להשתמש באותו דגל עבור true/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "לא ניתן לקבוע שם לאופציה עם הצהרות {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"לא הוגדרו אפשרויות אבל הועבר שם ({name}). האם התכוונת להכריז במקום טיעון?"
+" האם התכוונת להעביר את '--{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "ברירת מחדל: {default}"
+
+msgid "required"
+msgstr "דָרוּשׁ"
+
+msgid "(dynamic)"
+msgstr "(דִינָמִי)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "ארגומנטים לוקחים בדיוק הצהרת פרמטר אחד, קיבלו {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "האם אתה רוצה להמשיך?"
+
+msgid "Confirm the action without prompting."
+msgstr "אשר את הפעולה ללא הנחיה."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, גרסה %(version)s"
+
+msgid "Show the version and exit."
+msgstr "הצג את הגרסה וצא."
+
+msgid "Show this message and exit."
+msgstr "הצג הודעה זו וצא."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "האם התכוונת ל{אפשרות}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "שגיאה: {הודעה}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "נסה את '{command} {option}' לקבלת עזרה."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "ערך לא חוקי: {הודעה}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "ערך לא חוקי עבור {param_hint}: {הודעה}"
+
+msgid "Missing argument"
+msgstr "טיעון חסר"
+
+msgid "Missing option"
+msgstr "אופציה חסרה"
+
+msgid "Missing parameter"
+msgstr "חסר פרמטר"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "חסר {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "פרמטר חסר: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "אין אפשרות כזו {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "אין פקודה כזו {name!r}."
+
+msgid "unknown error"
+msgstr "שגיאה לא ידועה"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "לא ניתן היה לפתוח את הקובץ {filename!r}: {הודעה}"
+
+msgid "Usage:"
+msgstr "לְהִשְׁתַמֵשׁ:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "תו התחלה לא חוקי עבור אפשרות ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "טענה {name!r} מקבלת ערכי {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "אפשרות {name!r} לא מקבלת ערך."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "האפשרות {name!r} דורשת ארגומנט."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "השלמת מעטפת אינה נתמכת עבור גרסאות Bash ישנות יותר מ-4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "לא ניתן היה לזהות את גרסת Bash, השלמת מעטפת אינה נתמכת."
+
+msgid "Repeat for confirmation"
+msgstr "חזור לאישור"
+
+msgid "Error: The two entered values do not match."
+msgstr "שגיאה: שני הערכים שהוזנו אינם תואמים."
+
+msgid "Error: invalid input"
+msgstr "שגיאה: קלט לא חוקי"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "צבע לא ידוע {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "לחץ על מקש כלשהו כדי להמשיך..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "בחר מתוך:\\n\\t{בחירות}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} אינו {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "בחירה({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} אינו תואם לפורמט {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} אינו {number_type} חוקי."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} אינו בטווח {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} אינו בוליאני חוקי. ערכים מוכרים: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} אינו UUID חוקי."
+
+msgid "file"
+msgstr "קוֹבֶץ"
+
+msgid "directory"
+msgstr "מַדרִיך"
+
+msgid "path"
+msgstr "נָתִיב"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} אינו קיים."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} הוא קובץ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} הוא ספרייה."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} אינו קריא."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} אינו ניתן לכתיבה."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} אינו בר הפעלה."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "ערכי {len_type} נדרשים, אך ניתן {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "זרם סטנדרטי לא ידוע '{name}'"
+
+msgid "This field is required."
+msgstr "שדה זה חובה."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "לקובץ אין סיומת מאושרת: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "לקובץ אין סיומת מאושרת."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "הקובץ חייב להיות בין {min_size} ל-{max_size} בתים."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "שם שדה לא חוקי '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "השדה חייב להיות שווה ל-%(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "השדה חייב להיות באורך %(min)d לפחות."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "השדה לא יכול להיות ארוך מ-%(max)d תו."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "השדה חייב להיות באורך של %(max)d תו."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "השדה חייב להיות באורך של בין %(min)d לבין %(max)d תווים."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "המספר חייב להיות לפחות %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "המספר חייב להיות %(max)s לכל היותר."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "המספר חייב להיות בין %(min)s ל-%(max)s."
+
+msgid "Invalid input."
+msgstr "קלט לא חוקי."
+
+msgid "Invalid email address."
+msgstr "כתובת אימייל לא חוקית."
+
+msgid "Invalid IP address."
+msgstr "כתובת IP לא חוקית."
+
+msgid "Invalid Mac address."
+msgstr "כתובת Mac לא חוקית."
+
+msgid "Invalid URL."
+msgstr "כתובת אתר לא חוקית."
+
+msgid "Invalid UUID."
+msgstr "UUID לא חוקי."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "ערך לא חוקי, חייב להיות אחד מ: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "ערך לא חוקי, לא יכול להיות אחד מ: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "לא ניתן לערוך שדה זה."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "שדה זה מושבת ולא יכול להיות בעל ערך."
+
+msgid "Invalid CSRF Token."
+msgstr "אסימון CSRF לא חוקי."
+
+msgid "CSRF token missing."
+msgstr "חסר אסימון CSRF."
+
+msgid "CSRF failed."
+msgstr "CSRF נכשל."
+
+msgid "CSRF token expired."
+msgstr "פג תוקפו של אסימון CSRF."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "בחירה לא חוקית: לא יכול היה לכפות."
+
+msgid "Choices cannot be None."
+msgstr "בחירות לא יכולות להיות אף אחד."
+
+msgid "Not a valid choice."
+msgstr "לא בחירה חוקית."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "בחירות לא חוקיות: לא ניתן היה לכפות על קלט נתונים אחד או יותר."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' אינו בחירה חוקית עבור שדה זה."
+
+msgid "Not a valid datetime value."
+msgstr "לא ערך תאריך/שעה חוקי."
+
+msgid "Not a valid date value."
+msgstr "לא ערך תאריך חוקי."
+
+msgid "Not a valid time value."
+msgstr "לא ערך זמן חוקי."
+
+msgid "Not a valid week value."
+msgstr "לא ערך שבועי חוקי."
+
+msgid "Not a valid integer value."
+msgstr "לא ערך שלם חוקי."
+
+msgid "Not a valid decimal value."
+msgstr "לא ערך עשרוני חוקי."
+
+msgid "Not a valid float value."
+msgstr "לא ערך צף חוקי."
+

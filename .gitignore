@@ -1,0 +1,19 @@
+# Environnement
+.env
+
+# Base de données
+antivol.db
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

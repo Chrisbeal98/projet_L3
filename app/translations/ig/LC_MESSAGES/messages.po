@@ -1,0 +1,1033 @@
+# Translations for IG.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ig\n"
+"Language-Team: ig <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Biko banye ka ị nweta ibe a."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Edebanyelarị IMEI a na sistemụ."
+
+msgid "Accès non autorisé."
+msgstr "Nweta enweghị ikike."
+
+msgid "Appareil déverrouillé."
+msgstr "Akpọghere ngwaọrụ."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Ekerere mkpu! ezigara ozi."
+
+msgid "Alerte résolue."
+msgstr "Ekpebiri mkpu."
+
+msgid "Pas encore de compte ?"
+msgstr "Enweghị akaụntụ ma?"
+
+msgid "Mon Profil"
+msgstr "Profaịlụ m"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Njikọ gara nke ọma! Nnọọ."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email ma ọ bụ paswọọdụ ezighi ezi."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "A ga-emecharịrị mpaghara niile achọrọ."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Okwuntughe adabaghị."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Okwuntughe ga-enwerịrị opekata mpe mkpụrụedemede 6."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Ejila email a."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Emepụtara akaụntụ nke ọma! Banye."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Enweghị akaụntụ email a hụrụ."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Nọmba ekwentị adabaghị na nọmba akaụntụ ahụ."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Okwuntughe ọhụrụ a bụ iwu."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Tọgharia okwuntughe nke ọma! Banye."
+
+msgid "Vous avez été déconnecté."
+msgstr "Akwụpụla gị."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "A chọrọ ika, ụdị na IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Ngwa nwere IMEI a adịlarị."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Edebanye aha ngwaọrụ nke ọma!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Enweghị ikike ịme ihe a."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Akpọchiela ngwaọrụ ahụ nke ọma."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Emepechara ngwaọrụ nke ọma."
+
+msgid "Appareil supprimé."
+msgstr "ehichapụrụ ngwaọrụ."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Biko họrọ ngwaọrụ na ụdị njikere."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Ngwaọrụ a abụghị nke gị."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Akuko ọkwa ọkwa nke ọma. Edokwala ngwaọrụ a."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Akara ọkwa dị ka edoziri."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Aha mbụ, aha ikpeazụ na email ka achọrọ."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Akaụntụ ọzọ ejirila email a."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Emelitere profaịlụ nke ọma!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Edebere ohere maka ndị nchịkwa."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Akara mperi ka edoziri ya."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Ị nweghị ike ihichapụ akaụntụ nke gị."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Onye ọrụ ehichapụrụ nke ọma."
+
+msgid "Administration"
+msgstr "nchịkwa"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Nlekọta nke usoro mgbochi izu ohi nke etiti"
+
+msgid "Utilisateurs"
+msgstr "Ndị ọrụ"
+
+msgid "Actifs aujourd'hui"
+msgstr "Na-arụ ọrụ taa"
+
+msgid "Nouveaux ce mois"
+msgstr "Ọhụrụ n'ọnwa a"
+
+msgid "Appareils"
+msgstr "Ngwaọrụ"
+
+msgid "Alertes actives"
+msgstr "Ngosipụta na-arụ ọrụ"
+
+msgid "Analytique"
+msgstr "Nyocha"
+
+msgid "Journal d'activité"
+msgstr "Ndekọ mmemme"
+
+msgid "Erreurs"
+msgstr "Njehie"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Njikọ (ụbọchị asaa gara aga)"
+
+msgid "Alertes par type"
+msgstr "Ntinye n'ụdị"
+
+msgid "Appareils par opérateur"
+msgstr "Ngwaọrụ sitere n'aka onye ọrụ"
+
+msgid "Résumé du système"
+msgstr "Nchịkọta Sistemu"
+
+msgid "Utilisateurs total"
+msgstr "Ngụkọta ndị ọrụ"
+
+msgid "Appareils enregistrés"
+msgstr "Ngwaọrụ edebanyere aha"
+
+msgid "Total alertes"
+msgstr "Mgbakọta ọkwa"
+
+msgid "Alertes en cours"
+msgstr "Ngosipụta dị ugbu a"
+
+msgid "Erreurs non résolues"
+msgstr "Njehie edozibeghị"
+
+msgid "Dernières activités"
+msgstr "Ihe omume kacha ọhụrụ"
+
+msgid "récentes"
+msgstr "nso nso a"
+
+msgid "Utilisateur"
+msgstr "Onye ọrụ"
+
+msgid "Action"
+msgstr "Omume"
+
+msgid "Détails"
+msgstr "Nkọwa"
+
+msgid "Adresse IP"
+msgstr "adreesị IP"
+
+msgid "Navigateur"
+msgstr "Ihe nchọgharị"
+
+msgid "Date"
+msgstr "Ụbọchị"
+
+msgid "Aucune activité"
+msgstr "Enweghị ọrụ"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Ihe omume onye ọrụ ga-apụta ebe a."
+
+msgid "Journal d'erreurs"
+msgstr "Ndekọ mperi"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Dozie njehie niile?"
+
+msgid "Tout résoudre"
+msgstr "Dozie ihe niile"
+
+msgid "non résolues"
+msgstr "edozighi ya"
+
+msgid "Tout est résolu"
+msgstr "A na-edozi ihe niile"
+
+msgid "Type"
+msgstr "Ụdị"
+
+msgid "Description"
+msgstr "Nkọwa"
+
+msgid "Statut"
+msgstr "Ọnọdụ"
+
+msgid "Résolu"
+msgstr "Ekpebiri"
+
+msgid "Non résolu"
+msgstr "E dozieghị ya"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Enweghị mperi edekọ"
+
+msgid "Le système fonctionne correctement."
+msgstr "Usoro na-arụ ọrụ nke ọma."
+
+msgid "Gestion des utilisateurs"
+msgstr "Njikwa onye ọrụ"
+
+msgid "comptes"
+msgstr "akaụntụ"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Ekwentị"
+
+msgid "Rôle"
+msgstr "Ọrụ"
+
+msgid "Inscrit le"
+msgstr "Edebara aha na"
+
+msgid "Actions"
+msgstr "Omume"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Hichapụ onye ọrụ a na ngwaọrụ ha niile?"
+
+msgid "Vous"
+msgstr "Ị"
+
+msgid "Connexions"
+msgstr "Njikọ"
+
+msgid "Vol"
+msgstr "Ụgbọ elu"
+
+msgid "Perte"
+msgstr "Ọnwụ"
+
+msgid "Anomalie"
+msgstr "Anomaly"
+
+msgid "Alertes"
+msgstr "Nti mkpu"
+
+msgid "Gestion des alertes"
+msgstr "Njikwa njide"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Kpesa izu ohi ma ọ bụ mfu wee soro akụkọ ihe mere eme"
+
+msgid "Signaler un vol / perte"
+msgstr "Kpọọ izu ohi/ọnwụ"
+
+msgid "En cours"
+msgstr "Na-aga n'ihu"
+
+msgid "Résolues"
+msgstr "Ekpebiri"
+
+msgid "Historique des alertes"
+msgstr "Akụkọ ihe mere eme"
+
+msgid "Appareil"
+msgstr "Ngwaọrụ"
+
+msgid "Priorité"
+msgstr "Ibu ụzọ"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Kaa akara ngosi a ka edoziri ya?"
+
+msgid "Résoudre"
+msgstr "Dozie"
+
+msgid "Aucune alerte"
+msgstr "Enweghị njikere"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Ozi ọma! Ọnwebeghị ọkwa ọkwa."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Kpesa izu ohi ma ọ bụ mfu"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Site na ịkọ akụkọ izu ohi, a ga-akpọchi ngwaọrụ gị na-akpaghị aka, a ga-"
+"ezigakwa ozi."
+
+msgid "Appareil concerné"
+msgstr "Ngwaọrụ emetụtara"
+
+msgid "Sélectionner un appareil"
+msgstr "Họrọ ngwaọrụ"
+
+msgid "Type d'alerte"
+msgstr "Ụdị ọkwa"
+
+msgid "Décrivez les circonstances..."
+msgstr "Kọwaa ọnọdụ..."
+
+msgid "Annuler"
+msgstr "Kagbuo"
+
+msgid "Signaler"
+msgstr "Akuko"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Sistemụ mgbochi izu ohi nwere ọgụgụ isi - ikpo okwu nchekwa maka "
+"smartphones"
+
+msgid "Système Anti-Vol"
+msgstr "Sistemụ mgbochi izu ohi"
+
+msgid "PRINCIPAL"
+msgstr "Isi"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "Nchekwa"
+
+msgid "Géolocalisation"
+msgstr "Ọnọdụ ala"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRATION"
+
+msgid "Déconnexion"
+msgstr "Kwupu njikọ"
+
+msgid "Changer de langue"
+msgstr "Gbanwee asụsụ"
+
+msgid "Rechercher une langue..."
+msgstr "Chọọ asụsụ..."
+
+msgid "Profil"
+msgstr "Profaịlụ"
+
+msgid "Changer de thème"
+msgstr "Gbanwee isiokwu"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Nchịkọta nke nchekwa ngwaọrụ gị"
+
+msgid "Ajouter un appareil"
+msgstr "Tinye ngwaọrụ"
+
+msgid "Appareils volés"
+msgstr "Ngwa zuru ezu"
+
+msgid "Verrouillés à distance"
+msgstr "Akpọchiri anya"
+
+msgid "Alertes récentes"
+msgstr "Ngosipụta nso nso a"
+
+msgid "Voir tout"
+msgstr "Hụ ihe niile"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Enweghị njikere. Ngwaọrụ gị adịghị mma!"
+
+msgid "Mes appareils"
+msgstr "Ngwaọrụ m"
+
+msgid "Aucun appareil enregistré"
+msgstr "Enweghị ngwaọrụ edebanyere aha"
+
+msgid "Ajouter"
+msgstr "Tinye"
+
+msgid "en attente"
+msgstr "nọ na njigide"
+
+msgid "Gestion des appareils"
+msgstr "Njikwa ngwaọrụ"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Debanye aha ma jikwaa ekwentị gị"
+
+msgid "Opérateur"
+msgstr "Onye ọrụ"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Mkpọchi ngwaọrụ a n'ebe dị anya?"
+
+msgid "Verrouiller"
+msgstr "Mkpọchi"
+
+msgid "Déverrouiller"
+msgstr "Mepee"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Hichapụ ngwaọrụ a?"
+
+msgid "Supprimer"
+msgstr "HIchapụ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Tinye ekwentị mbụ gị ka ịmalite ichekwa ya."
+
+msgid "Nouvel appareil"
+msgstr "Ngwaọrụ ọhụrụ"
+
+msgid "Marque"
+msgstr "Ụdị"
+
+msgid "Sélectionner"
+msgstr "Họrọ"
+
+msgid "Autre"
+msgstr "Ndị ọzọ"
+
+msgid "Modèle"
+msgstr "Nlereanya"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "pịnye *#06# na ekwentị gị"
+
+msgid "Système d'exploitation"
+msgstr "Sistemụ nrụọrụ"
+
+msgid "Numéro de téléphone"
+msgstr "Nọmba ekwentị"
+
+msgid "Enregistrer"
+msgstr "Chekwa"
+
+msgid "Connexion"
+msgstr "Njikọ"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Sistemụ nchekwa ekwentị"
+
+msgid "Adresse email"
+msgstr "Adreesị ozi ịntanetị"
+
+msgid "Mot de passe"
+msgstr "Okwuntughe"
+
+msgid "Se connecter"
+msgstr "Banye"
+
+msgid "Mot de passe oublié ?"
+msgstr "Okwuntughe echefuru?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Ị nwere akaụntụ? Ma ọ bụghị ya, gaba n'ihu ịmepụta akaụntụ gị!"
+
+msgid "Créer un compte"
+msgstr "Mepụta akaụntụ"
+
+msgid "Sécurité maximale"
+msgstr "Nchekwa kacha"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Jiri mkpọchi ime ime chekwaa data nkeonwe gị"
+
+msgid "Localisation GPS"
+msgstr "Ọnọdụ GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Chọta kpọmkwem ebe ekwentị gị nọ ozugbo"
+
+msgid "Alertes instantanées"
+msgstr "Ngosipụta ngwa ngwa"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Nata SMS, email na ịkwanye ọkwa n'ihe omume nke izu ohi"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Chọta ngwaọrụ gị wee jiri anya nke uche hụ mpaghara ihe egwu"
+
+msgid "Aucun appareil"
+msgstr "Enweghị ngwaọrụ"
+
+msgid "Zones à risque"
+msgstr "Ebe ihe egwu"
+
+msgid "incidents"
+msgstr "ihe omume"
+
+msgid "Aucune zone signalée"
+msgstr "Enweghị mpaghara akọpụtara"
+
+msgid "Niveau"
+msgstr "Ọkwa"
+
+msgid "Incidents"
+msgstr "Ihe omume"
+
+msgid "Profile utilisateur"
+msgstr "Profaịlụ onye ọrụ"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Jikwaa ozi nkeonwe gị"
+
+msgid "Membre depuis"
+msgstr "Onye otu kemgbe"
+
+msgid "Modifier mes informations"
+msgstr "Dezie ozi m"
+
+msgid "Prénom"
+msgstr "Aha mbụ"
+
+msgid "Nom"
+msgstr "Aha"
+
+msgid "Changer le mot de passe"
+msgstr "Gbanwee okwuntughe"
+
+msgid "Nouveau mot de passe"
+msgstr "Okwuntughe Ọhụrụ"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "hapụ oghere ka ọ ghara ịgbanwe"
+
+msgid "Enregistrer les modifications"
+msgstr "Chekwa mgbanwe"
+
+msgid "Inscription"
+msgstr "Ndebanye aha"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Nabata na mgbochi-ezu ohi maka nchekwa ngwaọrụ gị ka mma"
+
+msgid "Confirmer"
+msgstr "Kwenye"
+
+msgid "Créer mon compte"
+msgstr "Mepụta akaụntụ m"
+
+msgid "Déjà un compte ?"
+msgstr "Ị nwere akaụntụ?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Tọgharia okwuntughe"
+
+msgid "Réinitialisation"
+msgstr "Tọgharia"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Tinye email na akara ekwentị gị iji nyochaa njirimara gị"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Ọnụọgụ ejiri n'oge ndebanye aha"
+
+msgid "Minimum 6 caractères"
+msgstr "mkpụrụedemede 6 kacha nta"
+
+msgid "Confirmer le mot de passe"
+msgstr "Kwenye Na Okwuntughe"
+
+msgid "Retourner à la"
+msgstr "laghachi na"
+
+msgid "page de connexion"
+msgstr "nbanye ibe"
+
+msgid "Vérification sécurisée"
+msgstr "Nyochaa echekwara"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "A na-enyocha njirimara gị site na iji email na akara ekwentị gị"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Họrọ okwuntughe echekwara ma ọ dịkarịa ala mkpụrụedemede 6"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Ndezi adịghị"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Edozighị: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Njehie Windows: {error}"
+
+msgid "deprecated"
+msgstr "kwụsịrị"
+
+msgid "Options"
+msgstr "Nhọrọ"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Enwetara arụmụka atụghị anya ya ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Akwụsịla iwu {name!r}.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Ewepụrụ!"
+
+msgid "Commands"
+msgstr "Iwu"
+
+msgid "Missing command."
+msgstr "Iwu efu."
+
+msgid "Value must be an iterable."
+msgstr "Uru ga-abụrịrị ihe a na-atụgharị."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Na-ewere ụkpụrụ {nargs} mana e nyere 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: Akwụsịla {param_type} {name!r}.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "A kọwapụtara aha '{name}' ugboro abụọ"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Nhọrọ Boolean {decl!r} enweghị ike iji otu ọkọlọtọ maka eziokwu/ụgha."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Enweghị ike ikpebi aha maka nhọrọ yana nkwupụta {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Enweghị nhọrọ akọwapụtara mana aha agafere ({name}). Ị pụtara ikwupụta "
+"arụmụka kama? Ị pụtara ịgafe '-{name}'?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "ihe atụ: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "ndabara: {default}"
+
+msgid "required"
+msgstr "achọrọ"
+
+msgid "(dynamic)"
+msgstr "(dị ike)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Arụmụka na-ewe kpọmkwem otu nkwuputa oke, nwetara {ogologo}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Ị chọrọ ịga n'ihu?"
+
+msgid "Confirm the action without prompting."
+msgstr "Kwenye ihe omume ahụ na-enweghị mkpali."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, ụdị%(ụdị)s"
+
+msgid "Show the version and exit."
+msgstr "Gosi ụdị ahụ wee pụọ."
+
+msgid "Show this message and exit."
+msgstr "Gosi ozi a wee pụọ."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Ị pụtara {posibility}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Njehie: {ozi}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Gbalịa '{command} {option}' maka enyemaka."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Uru ezighi ezi: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Uru ezighi ezi maka {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Arụmụka na-efu"
+
+msgid "Missing option"
+msgstr "Nhọrọ efu"
+
+msgid "Missing parameter"
+msgstr "Oke na-efu efu"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Na-efu {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Oke na-efu efu: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Enweghị nhọrọ dị otú ahụ {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Enweghị iwu dị otú ahụ {name!r}."
+
+msgid "unknown error"
+msgstr "amaghị m njehie"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Enweghị ike imepe faịlụ {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Jiri:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Ederede mmalite na ezighi ezi maka nhọrọ ({nhọrọ})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Arụmụka {name!r} na-ewere ụkpụrụ {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Nhọrọ {name!r} anaghị ewe uru."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Nhọrọ {name!r} chọrọ arụmụka."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Anaghị akwado imecha shell maka ụdị Bash tọrọ karịa 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Enweghị ike ịchọpụta ụdị Bash, akwadoghị ịmecha shei."
+
+msgid "Repeat for confirmation"
+msgstr "Tinyegharịa maka nkwenye"
+
+msgid "Error: The two entered values do not match."
+msgstr "Njehie: Ụkpụrụ abụọ etinyere adabaghị."
+
+msgid "Error: invalid input"
+msgstr "Njehie: ntinye ezighi ezi"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Agba amaghi ama {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Pịa igodo ọ bụla ka ịga n'ihu..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Họrọ site na:\\n\\t{nhọrọ}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} abụghị {nhọrọ}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Nhọrọ({nhọrọ})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} adabaghị na usoro {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} abaghị uru {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} adịghị na nso {n'oke}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} abụghị ezigbo boolean. Ụkpụrụ aghọtara: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} abụghị UUID bara uru."
+
+msgid "file"
+msgstr "faịlụ"
+
+msgid "directory"
+msgstr "ndekọ"
+
+msgid "path"
+msgstr "uzo"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} adịghị."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} bụ faịlụ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} bụ ndekọ."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "Enweghị ike ịgụ {name} {filename!r}."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "Enweghị ike ide {name} {filename!r}."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} agaghị eme ya."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "A chọrọ ụkpụrụ {len_type}, mana e nyere {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Ọkọlọtọ iyi '{name}' amaghi ama"
+
+msgid "This field is required."
+msgstr "A chọrọ ama a."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Faịlụ enweghị ndọtị akwadoro: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Faịlụ enweghị ndọtị akwadoro."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Faịlụ ga-adị n'etiti {min_size} na {max_size} bytes."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Aha ubi '%s' ezighi ezi."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Ubi ga-ha nhata %(other_name) s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Ubi ga-enwerịrị opekata mpe %(min) d ogologo agwa."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Ubi enweghị ike ịdị ogologo karịa %(max)d agwa."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Ubi ga-abụrịrị ogologo agwa %(max)d kpọmkwem."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Ubi ga-adị n'etiti %(min) d na %(max) d mkpụrụedemede ogologo."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Ọnụọgụ ga-abụrịrị opekata mpe %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Ọnụọgụ ga-abụrịrị %(max) s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Nọmba ga-adị n'etiti %(min)s na %(max)s."
+
+msgid "Invalid input."
+msgstr "Ntinye ezighi ezi."
+
+msgid "Invalid email address."
+msgstr "Adreesị ozi-e na-ezighi ezi."
+
+msgid "Invalid IP address."
+msgstr "Adreesị IP na-ezighi ezi."
+
+msgid "Invalid Mac address."
+msgstr "Adreesị Mac na ezighi ezi."
+
+msgid "Invalid URL."
+msgstr "URL ezighi ezi."
+
+msgid "Invalid UUID."
+msgstr "UUID ezighi ezi."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Uru ezighi ezi, ga-abụrịrị otu n'ime: %(uru) s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Uru na-ezighi ezi, enweghị ike ịbụ nke ọ bụla n'ime: %(uru) s."
+
+msgid "This field cannot be edited."
+msgstr "Enweghị ike idezi mpaghara a."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Ogige a nwere nkwarụ na enweghị ike inwe uru."
+
+msgid "Invalid CSRF Token."
+msgstr "Token CSRF ezighi ezi."
+
+msgid "CSRF token missing."
+msgstr "CSRF token na-efu."
+
+msgid "CSRF failed."
+msgstr "CSRF dara."
+
+msgid "CSRF token expired."
+msgstr "CSRF token kubie ume."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Nhọrọ na-ezighi ezi: enweghị ike ịmanye."
+
+msgid "Choices cannot be None."
+msgstr "Nhọrọ enweghị ike ịbụ Ọ nweghị."
+
+msgid "Not a valid choice."
+msgstr "Ọ bụghị ezigbo nhọrọ."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "Nhọrọ(s) ezighi ezi: enweghị ike ịmanye otu ntinye data ma ọ bụ karịa."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(uru)' abụghị ezigbo nhọrọ maka mpaghara a."
+
+msgid "Not a valid datetime value."
+msgstr "Ọ bụghị uru oge dị irè."
+
+msgid "Not a valid date value."
+msgstr "Ọ bụghị uru ụbọchị bara uru."
+
+msgid "Not a valid time value."
+msgstr "Ọ bụghị uru oge bara uru."
+
+msgid "Not a valid week value."
+msgstr "Ọ bụghị uru izu bara uru."
+
+msgid "Not a valid integer value."
+msgstr "Ọ bụghị uru integer bara uru."
+
+msgid "Not a valid decimal value."
+msgstr "Ọ bụghị uru ngụkọ bara uru."
+
+msgid "Not a valid float value."
+msgstr "Ọ bụghị uru ise n'elu mmiri bara uru."
+

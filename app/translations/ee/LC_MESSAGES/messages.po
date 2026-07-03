@@ -1,0 +1,1033 @@
+# Translations for EE.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ee\n"
+"Language-Team: ee <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Taflatse ge ɖe eme be nàge ɖe axa sia."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Woŋlɔ IMEI sia ɖe ɖoɖoa me xoxo."
+
+msgid "Accès non autorisé."
+msgstr "Mɔɖeɖe si ŋu womeɖe mɔ ɖo o."
+
+msgid "Appareil déverrouillé."
+msgstr "Mɔ̃a ʋu."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Wowɔ nuxlɔ̃ame! Nyatakaka siwo woɖo ɖa."
+
+msgid "Alerte résolue."
+msgstr "Wokpɔ nuxlɔ̃ame gbɔ."
+
+msgid "Pas encore de compte ?"
+msgstr "Akɔntabubu aɖeke meli haɖe oa?"
+
+msgid "Mon Profil"
+msgstr "Nye Nyatakakawo"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Kadodoa kpɔ dzidzedze! Woezɔ̃."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email alo nyagbe si mesɔ o."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Ele be woakpe agble siwo katã hiã la ɖo."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Nyagbe ɣaɣlawo mewɔ ɖeka o."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Ele be ŋɔŋlɔdzesi 6 ya teti nanɔ nyagbea me."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Wole e-mail sia zãm xoxo."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Wowɔ akɔntabubu dzidzedzetɔe! Ge ɖe eme."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Womekpɔ akɔntabubu aɖeke le e-mail sia ŋu o."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Telefon xexlẽdzesia mewɔ ɖeka kple gakɔnta ƒe xexlẽdzesi o."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Nyagbe yeyea nye sedziwɔwɔ."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Password reset dzidzedzetɔe! Ge ɖe eme."
+
+msgid "Vous avez été déconnecté."
+msgstr "Wotso kadodoa me na wò."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Wobia tso brand, model kple IMEI si."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Mɔ̃ aɖe si si IMEI sia le li xoxo."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Mɔ̃ si woŋlɔ ŋkɔ na dzidzedzetɔe!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Womeɖe mɔ na wò be nàwɔ nuwɔna sia o."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Wotu mɔ̃a tso didiƒe dzidzedzetɔe."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Woʋu mɔ̃a dzidzedzetɔe."
+
+msgid "Appareil supprimé."
+msgstr "Wotutu mɔ̃a ɖa."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Taflatse tia mɔ̃ aɖe kple nuxlɔ̃ame ƒomevi aɖe."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Mɔ̃ sia menye tɔwò o."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert ka nya ta dzidzedzetɔe. Wotsɔ mɔ̃a de dedie."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Wode dzesi nuxlɔ̃ame be wokpɔ egbɔ."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Wobia ŋkɔ gbãtɔ, ŋkɔ mamlɛtɔ kple e-mail."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Email sia nye esi akɔntabubu bubu zãna xoxo."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Wowɔ profile yeyee dzidzedzetɔe!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Wodzra mɔɖeɖea ɖo na dɔdzikpɔlawo."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Vodada si wode dzesii be wokpɔ egbɔ."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Màte ŋu atutu wò ŋutɔ wò akɔnta o."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Zãla la tutu dzidzedzetɔe."
+
+msgid "Administration"
+msgstr "Dɔdzikpɔkpɔ"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Anti-Theft ɖoɖoa dzi kpɔkpɔ le teƒe ɖeka"
+
+msgid "Utilisateurs"
+msgstr "Zãlawo"
+
+msgid "Actifs aujourd'hui"
+msgstr "Do vevie nu egbea"
+
+msgid "Nouveaux ce mois"
+msgstr "Yeye le ɣleti sia me"
+
+msgid "Appareils"
+msgstr "Mɔ̃wo"
+
+msgid "Alertes actives"
+msgstr "Nuxlɔ̃ame siwo le dɔ wɔm"
+
+msgid "Analytique"
+msgstr "Kukuɖenuŋu"
+
+msgid "Journal d'activité"
+msgstr "Dɔwɔnawo ŋuti nuŋlɔɖi"
+
+msgid "Erreurs"
+msgstr "Vodadawo"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Kadodowo (ŋkeke 7 mamlɛawo) ."
+
+msgid "Alertes par type"
+msgstr "Nuxlɔ̃amewo le woƒe ƒomevi nu"
+
+msgid "Appareils par opérateur"
+msgstr "Mɔ̃wo le dɔwɔla nu"
+
+msgid "Résumé du système"
+msgstr "Ðoɖoa ƒe Kpuie"
+
+msgid "Utilisateurs total"
+msgstr "Ezãlawo katã ƒe xexlẽme"
+
+msgid "Appareils enregistrés"
+msgstr "Mɔ̃ siwo woŋlɔ ŋkɔ na"
+
+msgid "Total alertes"
+msgstr "Nuxlɔ̃amewo katã"
+
+msgid "Alertes en cours"
+msgstr "Nuxlɔ̃ame siwo li fifia"
+
+msgid "Erreurs non résolues"
+msgstr "Vodada siwo gbɔ womekpɔ o"
+
+msgid "Dernières activités"
+msgstr "Dɔwɔna yeyewo"
+
+msgid "récentes"
+msgstr "si gbɔ medidi o"
+
+msgid "Utilisateur"
+msgstr "Zãla"
+
+msgid "Action"
+msgstr "Nuwɔwɔ"
+
+msgid "Détails"
+msgstr "Emenuwo"
+
+msgid "Adresse IP"
+msgstr "IP adrɛs"
+
+msgid "Navigateur"
+msgstr "Browser ƒe dɔwɔnu"
+
+msgid "Date"
+msgstr "Ŋkeke"
+
+msgid "Aucune activité"
+msgstr "Dɔ aɖeke meli o"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Zãla ƒe dɔwɔnawo adze le afisia."
+
+msgid "Journal d'erreurs"
+msgstr "Vodadawo ƒe nuŋlɔɖi"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Dzra vodadawo katã ɖoa?"
+
+msgid "Tout résoudre"
+msgstr "Kpɔ nusianu gbɔ"
+
+msgid "non résolues"
+msgstr "womekpɔ egbɔ o"
+
+msgid "Tout est résolu"
+msgstr "Wokpɔ nusianu gbɔ"
+
+msgid "Type"
+msgstr "Nyo dɔme"
+
+msgid "Description"
+msgstr "Nuɖᴐɖᴐ"
+
+msgid "Statut"
+msgstr "Ɖoƒe"
+
+msgid "Résolu"
+msgstr "Wokpɔ egbɔ"
+
+msgid "Non résolu"
+msgstr "Womekpɔ egbɔ o"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Womeŋlɔ vodada aɖeke ɖi o"
+
+msgid "Le système fonctionne correctement."
+msgstr "Nuɖoanyia le dɔ wɔm nyuie."
+
+msgid "Gestion des utilisateurs"
+msgstr "Zãla ƒe dɔdzikpɔkpɔ"
+
+msgid "comptes"
+msgstr "akɔntabubuwo"
+
+msgid "Email"
+msgstr "E-mail dzi"
+
+msgid "Téléphone"
+msgstr "Kaƒomɔ"
+
+msgid "Rôle"
+msgstr "Wɔƒe"
+
+msgid "Inscrit le"
+msgstr "Woŋlɔ ŋkɔ ɖe eme le"
+
+msgid "Actions"
+msgstr "Nuwɔnawo"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Ðe zãla sia kple woƒe mɔ̃wo katã ɖaa?"
+
+msgid "Vous"
+msgstr "WÒ"
+
+msgid "Connexions"
+msgstr "Kadodowo"
+
+msgid "Vol"
+msgstr "Dzodzo"
+
+msgid "Perte"
+msgstr "Nububu"
+
+msgid "Anomalie"
+msgstr "Nusi mesɔ o"
+
+msgid "Alertes"
+msgstr "Nuxlɔ̃amewo"
+
+msgid "Gestion des alertes"
+msgstr "Nuxlɔ̃amewo dzi kpɔkpɔ"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Ka nya ta tso fififi alo nusiwo bu ŋu eye nàlé ŋku ɖe ŋutinya ŋu"
+
+msgid "Signaler un vol / perte"
+msgstr "Ka nya ta tso fififi/nu siwo bu ŋu"
+
+msgid "En cours"
+msgstr "Le edzi yim"
+
+msgid "Résolues"
+msgstr "Wokpɔ egbɔ"
+
+msgid "Historique des alertes"
+msgstr "Nuxlɔ̃ame Ŋutinya"
+
+msgid "Appareil"
+msgstr "Mᴐ"
+
+msgid "Priorité"
+msgstr "Nu si le veviẽ"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "De dzesi nuxlɔ̃ame sia be wokpɔ egbɔa?"
+
+msgid "Résoudre"
+msgstr "Ɖo eŋu"
+
+msgid "Aucune alerte"
+msgstr "Nuxlɔ̃ame aɖeke meli o"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Nya nyui aɖee nye esia! Womegblɔ nuxlɔ̃ame aɖeke o."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Ka nya ta tso fififi alo nusiwo bu ŋu"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Ne èka nya ta tso fififi aɖe ŋu la, woatu wò mɔ̃a le eɖokui si eye woaɖo "
+"nyatakakawo ɖe wò."
+
+msgid "Appareil concerné"
+msgstr "Mɔ̃ si ŋu wògblẽ nu le"
+
+msgid "Sélectionner un appareil"
+msgstr "Tia mɔ̃ aɖe"
+
+msgid "Type d'alerte"
+msgstr "Nuxlɔ̃ame ƒomevi"
+
+msgid "Décrivez les circonstances..."
+msgstr "Ðe nɔnɔmeawo me..."
+
+msgid "Annuler"
+msgstr "Te fli ɖe eme"
+
+msgid "Signaler"
+msgstr "Nutsotso"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Intelligent Anti-Theft System — Dedienɔnɔ ƒe mɔnu na smartphones"
+
+msgid "Système Anti-Vol"
+msgstr "Nuɖoanyi si Tsi Tre Ðe Fififi Ŋu"
+
+msgid "PRINCIPAL"
+msgstr "ŊUTᴐ"
+
+msgid "Tableau de bord"
+msgstr "Dashboard ƒe ʋuƒo"
+
+msgid "SÉCURITÉ"
+msgstr "DEDIENƆNƆ"
+
+msgid "Géolocalisation"
+msgstr "Anyigba ƒe teƒe si wòle"
+
+msgid "ADMINISTRATION"
+msgstr "DUKPƆKPƆ ƑE NUÐEÐEŊUTI"
+
+msgid "Déconnexion"
+msgstr "Ðe kadodoa ɖa"
+
+msgid "Changer de langue"
+msgstr "Trɔ gbegbɔgblɔ"
+
+msgid "Rechercher une langue..."
+msgstr "Di gbegbɔgblɔ aɖe..."
+
+msgid "Profil"
+msgstr "Ŋuti nya"
+
+msgid "Changer de thème"
+msgstr "Trɔ tanya la"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Wò mɔ̃a ƒe dedienɔnɔ ŋuti nyatakaka kpui aɖe"
+
+msgid "Ajouter un appareil"
+msgstr "Tsɔ mɔ̃ aɖe kpee"
+
+msgid "Appareils volés"
+msgstr "Mɔ̃ siwo wofi"
+
+msgid "Verrouillés à distance"
+msgstr "Wotue le didiƒe ʋĩ"
+
+msgid "Alertes récentes"
+msgstr "Nuxlɔ̃ame siwo woxɔ nyitsɔ laa"
+
+msgid "Voir tout"
+msgstr "Kpɔ wo katã ɖa"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Nuxlɔ̃ame aɖeke meli o. Wò mɔ̃wo le dedie!"
+
+msgid "Mes appareils"
+msgstr "Nye mɔ̃wo"
+
+msgid "Aucun appareil enregistré"
+msgstr "Mɔ̃ aɖeke mele agbalẽ me o"
+
+msgid "Ajouter"
+msgstr "Kpee ɖe eŋu"
+
+msgid "en attente"
+msgstr "le mɔ dzi"
+
+msgid "Gestion des appareils"
+msgstr "Mɔ̃wo dzi kpɔkpɔ"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Ŋlɔ ŋkɔ eye nàkpɔ wò asitelefonwo dzi"
+
+msgid "Opérateur"
+msgstr "Dɔdzikpɔla"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Do mɔ̃ sia le didiƒe?"
+
+msgid "Verrouiller"
+msgstr "Tu"
+
+msgid "Déverrouiller"
+msgstr "Ʋuʋu"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Ðe nàtutu mɔ̃ sia ɖaa?"
+
+msgid "Supprimer"
+msgstr "ƉE ƉA"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Tsɔ wò smartphone gbãtɔ kpee be nàdze etakpɔkpɔ gɔme."
+
+msgid "Nouvel appareil"
+msgstr "Mɔ̃ yeye"
+
+msgid "Marque"
+msgstr "Nudzadzra ŋkɔ"
+
+msgid "Sélectionner"
+msgstr "Tia"
+
+msgid "Autre"
+msgstr "Bubu"
+
+msgid "Modèle"
+msgstr "Kpɔɖeŋu"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "ŋlɔ *#06# ɖe wò fon dzi"
+
+msgid "Système d'exploitation"
+msgstr "Dɔwɔwɔ ƒe ɖoɖo"
+
+msgid "Numéro de téléphone"
+msgstr "Telefon xexlẽdzesi"
+
+msgid "Enregistrer"
+msgstr "Dzrae ɖo"
+
+msgid "Connexion"
+msgstr "Kadodo"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Smartphone dedienɔnɔ ƒe ɖoɖo"
+
+msgid "Adresse email"
+msgstr "E-mail adrɛs"
+
+msgid "Mot de passe"
+msgstr "Safuinya"
+
+msgid "Se connecter"
+msgstr "Ge ɖe eme"
+
+msgid "Mot de passe oublié ?"
+msgstr "Èŋlɔ nyagbe ɣaɣla bea?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Ðe akɔnta le asiwò xoxoa? Ne menye nenema o la, yi edzi nàwɔ wò akɔnta!"
+
+msgid "Créer un compte"
+msgstr "Wɔ akɔntabubu aɖe"
+
+msgid "Sécurité maximale"
+msgstr "Dedienɔnɔ si sɔ gbɔ wu"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Ta wò nyatakakawo ta to adzɔge ʋĩ ƒe ʋuʋu me"
+
+msgid "Localisation GPS"
+msgstr "GPS ƒe teƒe si wole"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Di afisi tututu wò asitelefon le le ɣeyiɣi ŋutɔŋutɔ me"
+
+msgid "Alertes instantanées"
+msgstr "Nuxlɔ̃amewo enumake"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Xɔ SMS, email kple push nyatakakawo ne fififi dzɔ"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Di wò mɔ̃wo eye nàkpɔ afisiwo afɔku le le susu me"
+
+msgid "Aucun appareil"
+msgstr "Mɔ̃ aɖeke meli o"
+
+msgid "Zones à risque"
+msgstr "Afɔku ƒe teƒewo"
+
+msgid "incidents"
+msgstr "nudzɔdzɔwo"
+
+msgid "Aucune zone signalée"
+msgstr "Womeka nya ta tso nuto aɖeke ŋu o"
+
+msgid "Niveau"
+msgstr "Gbadzaa"
+
+msgid "Incidents"
+msgstr "Nudzɔdzɔwo"
+
+msgid "Profile utilisateur"
+msgstr "Zãla ƒe nɔnɔmetata"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Dzra wò nyatakakawo ɖo"
+
+msgid "Membre depuis"
+msgstr "Member since"
+
+msgid "Modifier mes informations"
+msgstr "Trɔ asi le nye nyatakakawo ŋu"
+
+msgid "Prénom"
+msgstr "Ŋkɔ gbãtɔ"
+
+msgid "Nom"
+msgstr "Ŋkɔ"
+
+msgid "Changer le mot de passe"
+msgstr "Trɔ nyagbe ɣaɣla"
+
+msgid "Nouveau mot de passe"
+msgstr "Nyagbe Yeye"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "gblẽe ɖi ƒuƒlu ale be màgatrɔ o"
+
+msgid "Enregistrer les modifications"
+msgstr "Dzra tɔtrɔwo ɖo"
+
+msgid "Inscription"
+msgstr "Ŋkɔŋlɔɖi"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Míexɔ wò nyuie ɖe Anti-Theft hena wò mɔ̃wo ƒe dedienɔnɔ nyuitɔ"
+
+msgid "Confirmer"
+msgstr "Ɖo kpe edzi"
+
+msgid "Créer mon compte"
+msgstr "Wɔ nye akɔnta"
+
+msgid "Déjà un compte ?"
+msgstr "Akɔntabubu le asiwò xoxoa?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Gbugbɔ Ðo Nyagbea Ðo"
+
+msgid "Réinitialisation"
+msgstr "Gbugbɔ ɖoe"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Ŋlɔ wò e-mail kple telefon xexlẽdzesi be nàtsɔ aɖo kpe wò amenyenye dzi"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Xexlẽdzesi si wozã le ŋkɔ ŋɔŋlɔ me"
+
+msgid "Minimum 6 caractères"
+msgstr "Ŋɔŋlɔdzesi 6 ya teti"
+
+msgid "Confirmer le mot de passe"
+msgstr "Ðo kpe nyagbe ɣaɣla dzi"
+
+msgid "Retourner à la"
+msgstr "Trɔ yi"
+
+msgid "page de connexion"
+msgstr "axa si dzi woge ɖo"
+
+msgid "Vérification sécurisée"
+msgstr "Kpeɖodzinya si le dedie"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "Wozãa wò e-mail kple telefon xexlẽdzesi tsɔ ɖoa ​​kpe wò amenyenye dzi"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Tia nyagbe ɣaɣla si le dedie si me ŋɔŋlɔdzesi 6 ya teti le"
+
+msgid "d"
+msgstr "woe d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Trɔ asi le eŋu do kpo nu"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Trɔtrɔ do kpo nu: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows ƒe vodada: {vodada}."
+
+msgid "deprecated"
+msgstr "woɖe asi le eŋu"
+
+msgid "Options"
+msgstr "Tiatia siwo nàte ŋu awɔ"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Woxɔ nyaʋiʋli bubu si womele mɔ kpɔm na o ({args}) ."
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: Woɖe sedede {ŋkɔ!r} ɖa.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Woɖe fu!"
+
+msgid "Commands"
+msgstr "Sededewo"
+
+msgid "Missing command."
+msgstr "Sedede si bu."
+
+msgid "Value must be an iterable."
+msgstr "Ele be asixɔxɔ nanye nusi woate ŋu agbugbɔ agblɔ."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Exɔa {nargs} ƒe asixɔxɔwo gake wotsɔ 1 na."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "Nuxlɔ̃ame: Woɖe asi le {param_type} {ŋkɔ!r} ŋu.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Ŋkɔ '{ŋkɔ}' si woɖe zi eve"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "Boolean tiatia {decl!r} mateŋu azã aflaga ɖeka na nyateƒe/aʋatso o."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Mete ŋu ɖo ŋkɔ na tiatia kple gbeƒãɖeɖewo {decls!r} o."
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Womeɖe tiatia aɖeke gɔme o gake wotsɔ ŋkɔ aɖe ({ŋkɔ}). Ðe nèdi be yeaɖe "
+"gbeƒã nyaʋiʋli aɖe boŋ? Ðe nèdi be yeato '--{ŋkɔ}' mea?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}."
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "default: {default} ."
+
+msgid "required"
+msgstr "si hiã"
+
+msgid "(dynamic)"
+msgstr "(ŋusẽ) ."
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "Nyaʋiʋliwo xɔa parameter ƒe gbeƒãɖeɖe ɖeka pɛpɛpɛ, xɔ {didime}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Ðe nèdi be yeayi edzia?"
+
+msgid "Confirm the action without prompting."
+msgstr "Ðo kpe afɔɖeɖea dzi evɔ màbiae o."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, tɔtrɔ %(trɔtrɔ)wo"
+
+msgid "Show the version and exit."
+msgstr "Fia gɔmeɖeɖea eye nàdo le eme."
+
+msgid "Show this message and exit."
+msgstr "Fia gbedasi sia eye nàdo le eme."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Ðe nèdi be yeagblɔ {nusi ate ŋu adzɔ}a?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Vodada: {gbedasi}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Te '{sedede} {tiatia}' kpɔ hena kpekpeɖeŋu."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Asixɔxɔ si mesɔ o: {message}."
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Asixɔxɔ si mesɔ o na {param_hint}: {message}."
+
+msgid "Missing argument"
+msgstr "Nyaʋiʋli si bu"
+
+msgid "Missing option"
+msgstr "Tiatia si bu"
+
+msgid "Missing parameter"
+msgstr "Parameter si bu"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} si bu."
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parameter si bu: {param_name} ."
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Tiatia ma tɔgbe aɖeke meli {ŋkɔ!r} o."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Sedede ma tɔgbe aɖeke meli {ŋkɔ!r} o."
+
+msgid "unknown error"
+msgstr "vodada si womenya o"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Mete ŋu ʋu faɛl {filename!r}: {message} o."
+
+msgid "Usage:"
+msgstr "Zã:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Gɔmedzedze ƒe ŋɔŋlɔdzesi si mesɔ o na tiatia ({option}) ."
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Nyaʋiʋli {ŋkɔ!r} xɔa {nargs} ƒe asixɔxɔwo."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Tiatia {ŋkɔ!r} mexɔa asixɔxɔ aɖeke o."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Tiatia {ŋkɔ!r} bia be woawɔ nyaʋiʋli."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Womeda asi ɖe Shell ƒe nuwuwu dzi na Bash ƒe tɔtrɔ siwo do ŋgɔ wu 4.4 o."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Mete ŋu de dzesi Bash ƒe tɔtrɔ o, womedo alɔ shell ƒe nuwuwu o."
+
+msgid "Repeat for confirmation"
+msgstr "Gbugbɔ wɔe be nàɖo kpe edzi"
+
+msgid "Error: The two entered values do not match."
+msgstr "Vodada: Asixɔxɔ eve siwo nèŋlɔ la mewɔ ɖeka o."
+
+msgid "Error: invalid input"
+msgstr "Vodada: nya si woŋlɔ ɖe eme si mesɔ o"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Amadede si womenya o {amadede!r}."
+
+msgid "Press any key to continue..."
+msgstr "Zi safui ɖesiaɖe dzi be nàyi edzi..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Tia tso:\\n\\t{tiatia} me."
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} menye {tiatia} o."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Tiatia({tiatia}) ."
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} mewɔ ɖeka kple ɖoɖo {format} o."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} menye {xexlẽdzesi_ƒomevi} si sɔ o."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} mele {range} ƒe domedome o."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} menye boolean si sɔ o. Asixɔxɔ siwo wokpɔ dze sii: {states}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} menye UUID si sɔ o."
+
+msgid "file"
+msgstr "agbalẽ"
+
+msgid "directory"
+msgstr "nyatakakadzraɖoƒe"
+
+msgid "path"
+msgstr "afᴐmᴐ"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{ŋkɔ} {faɛl ŋkɔ!r} meli o."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{ŋkɔ} {faɛl ŋkɔ!r} nye faɛl."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} nye agbalẽdzraɖoƒe."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} nye nusi woateŋu axlẽ o."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} menye nusi woateŋu aŋlɔ o."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} menye nusi woateŋu awɔ o."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} ƒe asixɔxɔwo hiã, gake wona {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Tsi si woɖo ɖi si womenya o '{ŋkɔ}'."
+
+msgid "This field is required."
+msgstr "Agble sia hiã."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Faɛl la mekpɔ kpeɖeŋutɔ si dzi woda asi ɖo o: {extensions}."
+
+msgid "File does not have an approved extension."
+msgstr "File mekpɔ kekeɖenudɔ si dzi woda asi ɖo o."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Ele be faɛl nanɔ {min_size} kple {max_size} bytes dome."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Agble ƒe ŋkɔ si mesɔ o '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Ele be agblea nasɔ kple %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Ele be agblea nadidi %(min)d ŋɔŋlɔdzesi ya teti."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Field mateŋu didi wu %(max)d ŋɔŋlɔdzesi o."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Ele be agblea nanye %(max)d ŋɔŋlɔdzesi ƒe didime pɛpɛpɛ."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Ele be agblea nadidi le %(min)d kple %(max)d ŋɔŋlɔdzesiwo dome."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Ele be xexlẽme nanye %(min)s ya teti."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Ele be xexlẽme nanye %(max)s ƒe agbɔsɔsɔ gãtɔ."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Ele be xexlẽdzesi nanɔ %(min)s kple %(max)s dome."
+
+msgid "Invalid input."
+msgstr "Nya siwo woŋlɔ ɖe eme si mesɔ o."
+
+msgid "Invalid email address."
+msgstr "Email adrɛs si mesɔ o."
+
+msgid "Invalid IP address."
+msgstr "IP adrɛs si mesɔ o."
+
+msgid "Invalid Mac address."
+msgstr "Mac adrɛs si mesɔ o."
+
+msgid "Invalid URL."
+msgstr "URL si mesɔ o."
+
+msgid "Invalid UUID."
+msgstr "UUID si mesɔ o."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Asixɔxɔ si mesɔ o, ele be wòanye: %(asixɔxɔwo) dometɔ ɖeka."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Asixɔxɔ si mesɔ o, mateŋu anye: %(asixɔxɔwo) dometɔ aɖeke o."
+
+msgid "This field cannot be edited."
+msgstr "Womate ŋu atrɔ asi le agble sia ŋu o."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Wotu agble sia nuwɔametɔe eye asixɔxɔ mate ŋu anɔ esi o."
+
+msgid "Invalid CSRF Token."
+msgstr "CSRF ƒe Dzesi si mesɔ o."
+
+msgid "CSRF token missing."
+msgstr "CSRF ƒe dzesi si bu."
+
+msgid "CSRF failed."
+msgstr "CSRF do kpo nu."
+
+msgid "CSRF token expired."
+msgstr "CSRF ƒe dzesi ƒe ɣeyiɣia wu enu."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Tiatia si Mesɔ O: mete ŋu zi ame dzi o."
+
+msgid "Choices cannot be None."
+msgstr "Tiatia mate ŋu anye Ðeke o."
+
+msgid "Not a valid choice."
+msgstr "Menye tiatia si sɔ o."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Tiatia(wo) si mesɔ o: womete ŋu zi nyatakaka ɖeka alo esi wu nenema ƒe "
+"nyawo dede dzi o."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' menye tiatia si sɔ na agble sia o."
+
+msgid "Not a valid datetime value."
+msgstr "Menye datetime ƒe asixɔxɔ si sɔ o."
+
+msgid "Not a valid date value."
+msgstr "Menye ŋkeke ƒe asixɔxɔ si sɔ o."
+
+msgid "Not a valid time value."
+msgstr "Menye ɣeyiɣi ƒe asixɔxɔ si sɔ o."
+
+msgid "Not a valid week value."
+msgstr "Menye kwasiɖa ƒe asixɔxɔ si sɔ o."
+
+msgid "Not a valid integer value."
+msgstr "Menye xexlẽdzesi blibo ƒe asixɔxɔ si sɔ o."
+
+msgid "Not a valid decimal value."
+msgstr "Menye ewolia ƒe asixɔxɔ si sɔ o."
+
+msgid "Not a valid float value."
+msgstr "Menye float ƒe asixɔxɔ si sɔ o."
+

@@ -1,0 +1,1032 @@
+# Translations for AR.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ar\n"
+"Language-Team: ar <LL@li.org>\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
+"n%100>=3 && n%100<=10 ? 3 : n%100>=0 && n%100<=2 ? 4 : 5);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "الرجاء تسجيل الدخول للوصول إلى هذه الصفحة."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "تم تسجيل IMEI هذا بالفعل في النظام."
+
+msgid "Accès non autorisé."
+msgstr "الوصول غير المصرح به."
+
+msgid "Appareil déverrouillé."
+msgstr "تم إلغاء قفل الجهاز."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "تم إنشاء التنبيه! تم إرسال الإخطارات."
+
+msgid "Alerte résolue."
+msgstr "تم حل التنبيه."
+
+msgid "Pas encore de compte ?"
+msgstr "ليس لديك حساب بعد؟"
+
+msgid "Mon Profil"
+msgstr "ملفي الشخصي"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "تم الاتصال بنجاح! مرحباً."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "البريد الإلكتروني أو كلمة المرور غير صحيحة."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "يجب إكمال كافة الحقول المطلوبة."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "كلمات المرور غير متطابقة."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "يجب أن تحتوي كلمة المرور على 6 أحرف على الأقل."
+
+msgid "Cet email est déjà utilisé."
+msgstr "هذا البريد الإلكتروني قيد الاستخدام بالفعل."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "تم إنشاء الحساب بنجاح! تسجيل الدخول."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "لم يتم العثور على حسابات مع هذا البريد الإلكتروني."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "رقم الهاتف لا يتطابق مع رقم الحساب."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "كلمة المرور الجديدة إلزامية."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "تم إعادة تعيين كلمة المرور بنجاح! تسجيل الدخول."
+
+msgid "Vous avez été déconnecté."
+msgstr "لقد تم قطع اتصالك."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "العلامة التجارية والطراز وIMEI مطلوبة."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "يوجد جهاز يحمل IMEI هذا بالفعل."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "تم تسجيل الجهاز بنجاح!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "غير مصرح لك بتنفيذ هذا الإجراء."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "تم قفل الجهاز عن بعد بنجاح."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "تم فتح قفل الجهاز بنجاح."
+
+msgid "Appareil supprimé."
+msgstr "تم حذف الجهاز."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "الرجاء تحديد الجهاز ونوع التنبيه."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "هذا الجهاز لا ينتمي لك."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "تم الإبلاغ عن التنبيه بنجاح. تم تأمين الجهاز."
+
+msgid "Alerte marquée comme résolue."
+msgstr "تم وضع علامة \"تم الحل\" على التنبيه."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "الاسم الأول واسم العائلة والبريد الإلكتروني مطلوبة."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "هذا البريد الإلكتروني مستخدم بالفعل بواسطة حساب آخر."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "تم تحديث الملف الشخصي بنجاح!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "الوصول محفوظة للمسؤولين."
+
+msgid "Erreur marquée comme résolue."
+msgstr "تم وضع علامة على الخطأ بأنه تم حله."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "لا يمكنك حذف حسابك الخاص."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "تم حذف المستخدم بنجاح."
+
+msgid "Administration"
+msgstr "إدارة"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "الإدارة المركزية لنظام مكافحة السرقة"
+
+msgid "Utilisateurs"
+msgstr "المستخدمين"
+
+msgid "Actifs aujourd'hui"
+msgstr "نشط اليوم"
+
+msgid "Nouveaux ce mois"
+msgstr "جديد هذا الشهر"
+
+msgid "Appareils"
+msgstr "الأجهزة"
+
+msgid "Alertes actives"
+msgstr "التنبيهات النشطة"
+
+msgid "Analytique"
+msgstr "تحليلية"
+
+msgid "Journal d'activité"
+msgstr "سجل النشاط"
+
+msgid "Erreurs"
+msgstr "أخطاء"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "الاتصالات (آخر 7 أيام)"
+
+msgid "Alertes par type"
+msgstr "التنبيهات حسب النوع"
+
+msgid "Appareils par opérateur"
+msgstr "الأجهزة حسب المشغل"
+
+msgid "Résumé du système"
+msgstr "ملخص النظام"
+
+msgid "Utilisateurs total"
+msgstr "إجمالي المستخدمين"
+
+msgid "Appareils enregistrés"
+msgstr "الأجهزة المسجلة"
+
+msgid "Total alertes"
+msgstr "إجمالي التنبيهات"
+
+msgid "Alertes en cours"
+msgstr "التنبيهات الحالية"
+
+msgid "Erreurs non résolues"
+msgstr "أخطاء لم يتم حلها"
+
+msgid "Dernières activités"
+msgstr "أحدث الأنشطة"
+
+msgid "récentes"
+msgstr "مؤخرًا"
+
+msgid "Utilisateur"
+msgstr "مستخدم"
+
+msgid "Action"
+msgstr "فعل"
+
+msgid "Détails"
+msgstr "تفاصيل"
+
+msgid "Adresse IP"
+msgstr "عنوان IP"
+
+msgid "Navigateur"
+msgstr "المتصفح"
+
+msgid "Date"
+msgstr "تاريخ"
+
+msgid "Aucune activité"
+msgstr "لا يوجد نشاط"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "ستظهر أنشطة المستخدم هنا."
+
+msgid "Journal d'erreurs"
+msgstr "سجل الأخطاء"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "إصلاح كافة الأخطاء؟"
+
+msgid "Tout résoudre"
+msgstr "حل كل شيء"
+
+msgid "non résolues"
+msgstr "لم يتم حلها"
+
+msgid "Tout est résolu"
+msgstr "تم حل كل شيء"
+
+msgid "Type"
+msgstr "عطوف"
+
+msgid "Description"
+msgstr "وصف"
+
+msgid "Statut"
+msgstr "حالة"
+
+msgid "Résolu"
+msgstr "تم الحل"
+
+msgid "Non résolu"
+msgstr "لم يتم حلها"
+
+msgid "Aucune erreur enregistrée"
+msgstr "لم يتم تسجيل أي أخطاء"
+
+msgid "Le système fonctionne correctement."
+msgstr "النظام يعمل بشكل صحيح."
+
+msgid "Gestion des utilisateurs"
+msgstr "إدارة المستخدم"
+
+msgid "comptes"
+msgstr "الحسابات"
+
+msgid "Email"
+msgstr "بريد إلكتروني"
+
+msgid "Téléphone"
+msgstr "هاتف"
+
+msgid "Rôle"
+msgstr "دور"
+
+msgid "Inscrit le"
+msgstr "مسجل على"
+
+msgid "Actions"
+msgstr "الإجراءات"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "هل تريد حذف هذا المستخدم وجميع أجهزته؟"
+
+msgid "Vous"
+msgstr "أنت"
+
+msgid "Connexions"
+msgstr "اتصالات"
+
+msgid "Vol"
+msgstr "رحلة جوية"
+
+msgid "Perte"
+msgstr "خسارة"
+
+msgid "Anomalie"
+msgstr "شذوذ"
+
+msgid "Alertes"
+msgstr "التنبيهات"
+
+msgid "Gestion des alertes"
+msgstr "إدارة التنبيه"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "الإبلاغ عن السرقة أو الخسارة وتتبع التاريخ"
+
+msgid "Signaler un vol / perte"
+msgstr "الإبلاغ عن السرقة/الخسارة"
+
+msgid "En cours"
+msgstr "في تَقَدم"
+
+msgid "Résolues"
+msgstr "تم الحل"
+
+msgid "Historique des alertes"
+msgstr "تاريخ التنبيه"
+
+msgid "Appareil"
+msgstr "جهاز"
+
+msgid "Priorité"
+msgstr "أولوية"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "هل تريد وضع علامة على هذا التنبيه على أنه تم حله؟"
+
+msgid "Résoudre"
+msgstr "يحل"
+
+msgid "Aucune alerte"
+msgstr "لا تنبيه"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "أخبار جيدة! لم يتم الإبلاغ عن أي تنبيهات."
+
+msgid "Signaler un vol ou une perte"
+msgstr "الإبلاغ عن السرقة أو الخسارة"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"من خلال الإبلاغ عن حالة سرقة، سيتم قفل جهازك تلقائيًا وسيتم إرسال "
+"الإشعارات."
+
+msgid "Appareil concerné"
+msgstr "الجهاز المتأثر"
+
+msgid "Sélectionner un appareil"
+msgstr "حدد جهازًا"
+
+msgid "Type d'alerte"
+msgstr "نوع التنبيه"
+
+msgid "Décrivez les circonstances..."
+msgstr "وصف الظروف..."
+
+msgid "Annuler"
+msgstr "يلغي"
+
+msgid "Signaler"
+msgstr "تقرير"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "نظام ذكي مضاد للسرقة — منصة أمنية للهواتف الذكية"
+
+msgid "Système Anti-Vol"
+msgstr "نظام مضاد للسرقة"
+
+msgid "PRINCIPAL"
+msgstr "رئيسي"
+
+msgid "Tableau de bord"
+msgstr "لوحة القيادة"
+
+msgid "SÉCURITÉ"
+msgstr "حماية"
+
+msgid "Géolocalisation"
+msgstr "تحديد الموقع الجغرافي"
+
+msgid "ADMINISTRATION"
+msgstr "إدارة"
+
+msgid "Déconnexion"
+msgstr "قطع الاتصال"
+
+msgid "Changer de langue"
+msgstr "تغيير اللغة"
+
+msgid "Rechercher une langue..."
+msgstr "ابحث عن لغة..."
+
+msgid "Profil"
+msgstr "حساب تعريفي"
+
+msgid "Changer de thème"
+msgstr "تغيير الموضوع"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "نظرة عامة على أمان جهازك"
+
+msgid "Ajouter un appareil"
+msgstr "أضف جهازًا"
+
+msgid "Appareils volés"
+msgstr "الأجهزة المسروقة"
+
+msgid "Verrouillés à distance"
+msgstr "مغلق عن بعد"
+
+msgid "Alertes récentes"
+msgstr "التنبيهات الأخيرة"
+
+msgid "Voir tout"
+msgstr "شاهد الكل"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "لا تنبيه. أجهزتك آمنة!"
+
+msgid "Mes appareils"
+msgstr "أجهزتي"
+
+msgid "Aucun appareil enregistré"
+msgstr "لم يتم تسجيل أي أجهزة"
+
+msgid "Ajouter"
+msgstr "يضيف"
+
+msgid "en attente"
+msgstr "في الانتظار"
+
+msgid "Gestion des appareils"
+msgstr "إدارة الجهاز"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "تسجيل وإدارة الهواتف الذكية الخاصة بك"
+
+msgid "Opérateur"
+msgstr "المشغل"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "هل تريد قفل هذا الجهاز عن بُعد؟"
+
+msgid "Verrouiller"
+msgstr "قفل"
+
+msgid "Déverrouiller"
+msgstr "فتح"
+
+msgid "Supprimer cet appareil ?"
+msgstr "هل تريد حذف هذا الجهاز؟"
+
+msgid "Supprimer"
+msgstr "يمسح"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "أضف هاتفك الذكي الأول لبدء حمايته."
+
+msgid "Nouvel appareil"
+msgstr "جهاز جديد"
+
+msgid "Marque"
+msgstr "ماركة"
+
+msgid "Sélectionner"
+msgstr "يختار"
+
+msgid "Autre"
+msgstr "آخر"
+
+msgid "Modèle"
+msgstr "نموذج"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "اكتب *#06# على هاتفك"
+
+msgid "Système d'exploitation"
+msgstr "نظام التشغيل"
+
+msgid "Numéro de téléphone"
+msgstr "رقم التليفون"
+
+msgid "Enregistrer"
+msgstr "يحفظ"
+
+msgid "Connexion"
+msgstr "اتصال"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "نظام أمان الهاتف الذكي"
+
+msgid "Adresse email"
+msgstr "عنوان البريد الإلكتروني"
+
+msgid "Mot de passe"
+msgstr "كلمة المرور"
+
+msgid "Se connecter"
+msgstr "تسجيل الدخول"
+
+msgid "Mot de passe oublié ?"
+msgstr "هل نسيت كلمة المرور؟"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "هل لديك حساب بالفعل؟ بخلاف ذلك، تابع إنشاء حسابك!"
+
+msgid "Créer un compte"
+msgstr "إنشاء حساب"
+
+msgid "Sécurité maximale"
+msgstr "أقصى قدر من الأمن"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "قم بحماية بياناتك الشخصية من خلال القفل عن بعد"
+
+msgid "Localisation GPS"
+msgstr "موقع GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "ابحث عن الموقع الدقيق لهاتفك الذكي في الوقت الفعلي"
+
+msgid "Alertes instantanées"
+msgstr "تنبيهات فورية"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "تلقي الرسائل القصيرة والبريد الإلكتروني والإشعارات في حالة السرقة"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "حدد موقع أجهزتك وتصور مناطق الخطر"
+
+msgid "Aucun appareil"
+msgstr "لا يوجد جهاز"
+
+msgid "Zones à risque"
+msgstr "مناطق الخطر"
+
+msgid "incidents"
+msgstr "الحوادث"
+
+msgid "Aucune zone signalée"
+msgstr "لم يتم الإبلاغ عن أي مناطق"
+
+msgid "Niveau"
+msgstr "مستوى"
+
+msgid "Incidents"
+msgstr "الحوادث"
+
+msgid "Profile utilisateur"
+msgstr "ملف تعريف المستخدم"
+
+msgid "Gérez vos informations personnelles"
+msgstr "إدارة معلوماتك الشخصية"
+
+msgid "Membre depuis"
+msgstr "عضو منذ"
+
+msgid "Modifier mes informations"
+msgstr "تحرير المعلومات الخاصة بي"
+
+msgid "Prénom"
+msgstr "الاسم الأول"
+
+msgid "Nom"
+msgstr "اسم"
+
+msgid "Changer le mot de passe"
+msgstr "تغيير كلمة المرور"
+
+msgid "Nouveau mot de passe"
+msgstr "كلمة المرور الجديدة"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "اتركه فارغا حتى لا يتغير"
+
+msgid "Enregistrer les modifications"
+msgstr "حفظ التغييرات"
+
+msgid "Inscription"
+msgstr "تسجيل"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "مرحبًا بك في Anti-Theft لتحسين أمان أجهزتك"
+
+msgid "Confirmer"
+msgstr "يتأكد"
+
+msgid "Créer mon compte"
+msgstr "إنشاء حسابي"
+
+msgid "Déjà un compte ?"
+msgstr "هل لديك حساب بالفعل؟"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "إعادة تعيين كلمة المرور"
+
+msgid "Réinitialisation"
+msgstr "إعادة ضبط"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "أدخل بريدك الإلكتروني ورقم هاتفك للتحقق من هويتك"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "الرقم المستخدم أثناء التسجيل"
+
+msgid "Minimum 6 caractères"
+msgstr "الحد الأدنى 6 أحرف"
+
+msgid "Confirmer le mot de passe"
+msgstr "تأكيد كلمة المرور"
+
+msgid "Retourner à la"
+msgstr "العودة إلى"
+
+msgid "page de connexion"
+msgstr "صفحة تسجيل الدخول"
+
+msgid "Vérification sécurisée"
+msgstr "التحقق الآمن"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "يتم التحقق من هويتك باستخدام بريدك الإلكتروني ورقم هاتفك"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "اختر كلمة مرور آمنة مكونة من 6 أحرف على الأقل"
+
+msgid "d"
+msgstr "د"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{المحرر}: فشل التحرير"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{المحرر}: فشل التحرير: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "خطأ في نظام التشغيل Windows: {خطأ}"
+
+msgid "deprecated"
+msgstr "مهمل"
+
+msgid "Options"
+msgstr "خيارات"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "حصلت على وسيطة إضافية غير متوقعة ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "تحذير إهمال: تم إهمال الأمر {name!r}.{extra_message}"
+
+msgid "Aborted!"
+msgstr "تم الإجهاض!"
+
+msgid "Commands"
+msgstr "الأوامر"
+
+msgid "Missing command."
+msgstr "أمر مفقود."
+
+msgid "Value must be an iterable."
+msgstr "يجب أن تكون القيمة قابلة للتكرار."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "يأخذ قيم {nargs} ولكن تم إعطاء 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "تحذير إهمال: تم إهمال {param_type} {name!r}.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "تم تعريف الاسم '{name}' مرتين"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "لا يمكن للخيار المنطقي {decl!r} استخدام نفس العلامة لـ true/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "تعذر تحديد اسم الخيار الذي يحتوي على التصريحات {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"لم يتم تحديد أي خيارات ولكن تم تمرير اسم ({name}). هل تقصد إعلان حجة بدلا"
+" من ذلك؟ هل تقصد تمرير \"--{name}\"؟"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "البيئة فار: {فار}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "الافتراضي: {افتراضي}"
+
+msgid "required"
+msgstr "مطلوب"
+
+msgid "(dynamic)"
+msgstr "(متحرك)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "تأخذ الوسائط تعريف معلمة واحدة بالضبط، ولها {length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "هل تريد الاستمرار؟"
+
+msgid "Confirm the action without prompting."
+msgstr "تأكيد الإجراء دون المطالبة."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s، الإصدار %(version)s"
+
+msgid "Show the version and exit."
+msgstr "إظهار الإصدار والخروج."
+
+msgid "Show this message and exit."
+msgstr "تظهر هذه الرسالة والخروج."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "هل تقصد {الاحتمال}؟"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "خطأ: {رسالة}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "جرب \"{command} {option}\" للحصول على المساعدة."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "قيمة غير صالحة: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "قيمة غير صالحة لـ {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "حجة مفقودة"
+
+msgid "Missing option"
+msgstr "خيار مفقود"
+
+msgid "Missing parameter"
+msgstr "المعلمة مفقودة"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} مفقود"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "المعلمة المفقودة: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "لا يوجد مثل هذا الخيار {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "لا يوجد مثل هذا الأمر {name!r}."
+
+msgid "unknown error"
+msgstr "خطأ غير معروف"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "تعذر فتح الملف {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "يستخدم:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "حرف بداية غير صالح للخيار ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "الوسيطة {name!r} تأخذ قيم {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "الخيار {name!r} لا يأخذ قيمة."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "يتطلب الخيار {name!r} وسيطة."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "إكمال Shell غير مدعوم لإصدارات Bash الأقدم من 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "تعذر اكتشاف إصدار Bash، وإكمال الصدفة غير مدعوم."
+
+msgid "Repeat for confirmation"
+msgstr "كرر للتأكيد"
+
+msgid "Error: The two entered values do not match."
+msgstr "خطأ: القيمتان المدخلتان غير متطابقتين."
+
+msgid "Error: invalid input"
+msgstr "خطأ: إدخال غير صالح"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "لون غير معروف {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "اضغط على أي مفتاح للمتابعة..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "اختر من:\\n\\t{الاختيارات}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} ليس {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "الاختيار({الاختيارات})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} لا يتطابق مع التنسيق {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} ليس {number_type} صالحًا."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{القيمة} ليست في النطاق {النطاق}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} ليس قيمة منطقية صالحة. القيم المعترف بها: {الحالات}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} ليس UUID صالحًا."
+
+msgid "file"
+msgstr "ملف"
+
+msgid "directory"
+msgstr "دليل"
+
+msgid "path"
+msgstr "طريق"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} غير موجود."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} هو ملف."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} هو دليل."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} غير قابل للقراءة."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} غير قابل للكتابة."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} غير قابل للتنفيذ."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "قيم {len_type} مطلوبة، ولكن تم تقديم {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "دفق قياسي غير معروف '{name}'"
+
+msgid "This field is required."
+msgstr "هذه الخانة مطلوبه."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "الملف ليس له امتداد معتمد: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "الملف ليس له امتداد معتمد."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "يجب أن يتراوح حجم الملف بين {min_size} و{max_size} بايت."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "اسم الحقل '%s' غير صالح."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "يجب أن يكون الحقل مساويًا لـ %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "يجب أن يكون طول الحقل %(min)d حرفًا على الأقل."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "لا يمكن أن يكون الحقل أطول من %(max)d حرف."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "يجب أن يبلغ طول الحقل %(max)d حرفًا بالضبط."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "يجب أن يتراوح طول الحقل بين %(min)d و%(max)d من الأحرف."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "يجب أن يكون الرقم %(min)s على الأقل."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "يجب أن يكون الرقم %(max)s على الأكثر."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "يجب أن يكون الرقم بين %(min)s و%(max)s."
+
+msgid "Invalid input."
+msgstr "إدخال غير صالح."
+
+msgid "Invalid email address."
+msgstr "عنوان البريد الإلكتروني غير صالح."
+
+msgid "Invalid IP address."
+msgstr "عنوان IP غير صالح."
+
+msgid "Invalid Mac address."
+msgstr "عنوان ماك غير صالح."
+
+msgid "Invalid URL."
+msgstr "عنوان URL غير صالح."
+
+msgid "Invalid UUID."
+msgstr "UUID غير صالح."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "قيمة غير صالحة، يجب أن تكون واحدة من: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "قيمة غير صالحة، لا يمكن أن تكون أيًا من: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "لا يمكن تحرير هذا الحقل."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "هذا الحقل معطل ولا يمكن أن يكون له قيمة."
+
+msgid "Invalid CSRF Token."
+msgstr "رمز CSRF غير صالح."
+
+msgid "CSRF token missing."
+msgstr "رمز CSRF مفقود."
+
+msgid "CSRF failed."
+msgstr "فشل CSRF."
+
+msgid "CSRF token expired."
+msgstr "انتهت صلاحية رمز CSRF."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "اختيار غير صالح: لا يمكن الإكراه."
+
+msgid "Choices cannot be None."
+msgstr "لا يمكن أن تكون الاختيارات بلا."
+
+msgid "Not a valid choice."
+msgstr "ليس خيارا صالحا."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "اختيار (اختيارات) غير صالحة: لا يمكن فرض إدخال بيانات واحد أو أكثر."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "إن '%(value)s' ليس اختيارًا صالحًا لهذا الحقل."
+
+msgid "Not a valid datetime value."
+msgstr "ليست قيمة تاريخ/وقت صالحة."
+
+msgid "Not a valid date value."
+msgstr "ليست قيمة تاريخ صالحة."
+
+msgid "Not a valid time value."
+msgstr "ليست قيمة زمنية صالحة."
+
+msgid "Not a valid week value."
+msgstr "ليست قيمة أسبوع صالحة."
+
+msgid "Not a valid integer value."
+msgstr "ليست قيمة عددية صالحة."
+
+msgid "Not a valid decimal value."
+msgstr "ليست قيمة عشرية صالحة."
+
+msgid "Not a valid float value."
+msgstr "ليست قيمة عائمة صالحة."
+

@@ -1,0 +1,171 @@
+[OK] Systeme Anti-Vol Intelligent - Serveur demarre
+[>>] Acces local   : http://localhost:8000
+[>>] Acces reseau  : http://192.168.1.7:8000
+ * Serving Flask app 'app'
+ * Debug mode: on
+[OK] Systeme Anti-Vol Intelligent - Serveur demarre
+[>>] Acces local   : http://localhost:8000
+[>>] Acces reseau  : http://192.168.1.7:8000
+[OK] Systeme Anti-Vol Intelligent - Serveur demarre
+[>>] Acces local   : http://localhost:8000
+[>>] Acces reseau  : http://192.168.15.10:8000
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 636-878-070
+ * Debugger PIN: 636-878-070
+ * Detected change in 'C:\\wamp\\www\\projet_L3\\app\\__init__.py', reloading
+ * Detected change in 'C:\\wamp\\www\\projet_L3\\app\\__init__.py', reloading
+[OK] Systeme Anti-Vol Intelligent - Serveur demarre
+[>>] Acces local   : http://localhost:8000
+[>>] Acces reseau  : http://192.168.15.10:8000
+[OK] Systeme Anti-Vol Intelligent - Serveur demarre
+[>>] Acces local   : http://localhost:8000
+[>>] Acces reseau  : http://192.168.15.10:8000
+ET /static/logo.png [192.168.15.10]
+  [200] GET / [192.168.15.10]
+  [304] GET /static/logo.png [192.168.15.10]
+  [304] GET /static/logo.png [192.168.15.10]
+  [200] GET / [192.168.15.10]
+  [304] GET /static/logo.png [192.168.15.10]
+  [304] GET /static/logo.png [192.168.15.10]
+  [200] GET / [192.168.15.10]
+  [304] GET /static/logo.png [192.168.15.10]
+  [304] GET /static/logo.png [192.168.15.10]
+  [200] GET / [192.168.15.10]
+  [304] GET /static/logo.png [192.168.15.10]
+  [304] GET /static/logo.png [192.168.15.10]
+  [200] GET / [192.168.15.10]
+  [304] GET /static/logo.png [192.168.15.10]
+  [304] GET /static/logo.png [192.168.15.10]
+  [200] GET / [192.168.15.10]
+  [304] GET /static/logo.png [192.168.15.10]
+  [200] GET /login [192.168.15.10]
+  [200] GET /static/css/style.css [192.168.15.10]
+  [200] GET /static/js/app.js [192.168.15.10]
+  [304] GET /static/logo.png [192.168.15.10]
+[OK] Systeme Anti-Vol Intelligent - Serveur demarre
+[>>] Acces local   : http://localhost:8000
+[>>] Acces reseau  : http://192.168.15.10:8000
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 636-878-070
+ * Debugger PIN: 636-878-070
+  [200] GET / [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:03] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:44:03] "GET / HTTP/1.1" 200 -
+  [304] GET /static/logo.png [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:04] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:04] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+  [200] GET / [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "GET / HTTP/1.1" 200 -
+  [304] GET /static/logo.png [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+  [304] GET /static/logo.png [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+  [200] GET / [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "GET / HTTP/1.1" 200 -
+  [304] GET /static/logo.png [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+  [304] GET /static/logo.png [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+  [200] GET / [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "GET / HTTP/1.1" 200 -
+  [304] GET /static/logo.png [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+  [304] GET /static/logo.png [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+  [200] GET / [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "GET / HTTP/1.1" 200 -
+  [304] GET /static/logo.png [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+  [304] GET /static/logo.png [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+  [200] GET / [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "GET / HTTP/1.1" 200 -
+  [304] GET /static/logo.png [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+  [304] GET /static/logo.png [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:09] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+  [200] GET / [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:10] "GET / HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:44:10] "GET / HTTP/1.1" 200 -
+  [304] GET /static/logo.png [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:10] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:10] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+  [304] GET /static/logo.png [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:10] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:10] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+  [200] GET /login [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:12] "GET /login HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:44:12] "GET /login HTTP/1.1" 200 -
+  [304] GET /static/css/style.css [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+  [304] GET /static/js/app.js [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:12] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:12] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+  [302] POST /login [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:24] "[32mPOST /login HTTP/1.1[0m" 302 -
+192.168.15.10 - - [19/Jun/2026 14:44:24] "[32mPOST /login HTTP/1.1[0m" 302 -
+  [200] GET /dashboard [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:24] "GET /dashboard HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:44:24] "GET /dashboard HTTP/1.1" 200 -
+  [304] GET /static/css/style.css [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+  [304] GET /static/js/app.js [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:44:24] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:44:24] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+  [302] GET / [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:45:08] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.15.10 - - [19/Jun/2026 14:45:08] "[32mGET / HTTP/1.1[0m" 302 -
+  [200] GET /dashboard [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:45:08] "GET /dashboard HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:45:08] "GET /dashboard HTTP/1.1" 200 -
+  [304] GET /static/css/style.css [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:45:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:45:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+  [304] GET /static/js/app.js [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:45:09] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:45:09] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+  [302] GET / [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:45:09] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.15.10 - - [19/Jun/2026 14:45:09] "[32mGET / HTTP/1.1[0m" 302 -
+  [200] GET /dashboard [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:45:09] "GET /dashboard HTTP/1.1" 200 -
+192.168.15.10 - - [19/Jun/2026 14:45:09] "GET /dashboard HTTP/1.1" 200 -
+  [304] GET /static/css/style.css [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:45:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:45:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+  [304] GET /static/js/app.js [192.168.15.10]
+192.168.15.10 - - [19/Jun/2026 14:45:09] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+192.168.15.10 - - [19/Jun/2026 14:45:09] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+ * Detected change in 'C:\\wamp\\www\\projet_L3\\app\\__init__.py', reloading
+ * Detected change in 'C:\\wamp\\www\\projet_L3\\app\\__init__.py', reloading
+[OK] Systeme Anti-Vol Intelligent - Serveur demarre
+[>>] Acces local   : http://localhost:8000
+[>>] Acces reseau  : http://192.168.15.10:8000
+[OK] Systeme Anti-Vol Intelligent - Serveur demarre
+[>>] Acces local   : http://localhost:8000
+[>>] Acces reseau  : http://192.168.15.10:8000
+  [302] GET / [192.168.15.10]
+  [302] GET / [192.168.15.10]
+  [200] GET /dashboard [192.168.15.10]
+  [200] GET /dashboard [192.168.15.10]
+  [304] GET /static/js/app.js [192.168.15.10]
+  [304] GET /static/css/style.css [192.168.15.10]

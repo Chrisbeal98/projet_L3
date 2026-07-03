@@ -1,0 +1,1052 @@
+# Translations for EL.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: el\n"
+"Language-Team: el <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Παρακαλούμε συνδεθείτε για πρόσβαση σε αυτή τη σελίδα."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Αυτό το IMEI είναι ήδη καταχωρημένο στο σύστημα."
+
+msgid "Accès non autorisé."
+msgstr "Μη εξουσιοδοτημένη πρόσβαση."
+
+msgid "Appareil déverrouillé."
+msgstr "Η συσκευή ξεκλειδώθηκε."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Η ειδοποίηση δημιουργήθηκε! Ειδοποιήσεις εστάλησαν."
+
+msgid "Alerte résolue."
+msgstr "Η ειδοποίηση επιλύθηκε."
+
+msgid "Pas encore de compte ?"
+msgstr "Δεν υπάρχει λογαριασμός ακόμα;"
+
+msgid "Mon Profil"
+msgstr "Το προφίλ μου"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Επιτυχής σύνδεση! Καλωσόρισμα."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Λάθος email ή κωδικός πρόσβασης."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Πρέπει να συμπληρωθούν όλα τα απαιτούμενα πεδία."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Οι κωδικοί πρόσβασης δεν ταιριάζουν."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον 6 χαρακτήρες."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Αυτό το email χρησιμοποιείται ήδη."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Ο λογαριασμός δημιουργήθηκε με επιτυχία! Συνδεθείτε."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Δεν βρέθηκαν λογαριασμοί με αυτό το email."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Ο αριθμός τηλεφώνου δεν ταιριάζει με τον αριθμό λογαριασμού."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Ο νέος κωδικός πρόσβασης είναι υποχρεωτικός."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Επιτυχής επαναφορά του κωδικού πρόσβασης! Συνδεθείτε."
+
+msgid "Vous avez été déconnecté."
+msgstr "Έχετε αποσυνδεθεί."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Απαιτούνται μάρκα, μοντέλο και IMEI."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Μια συσκευή με αυτό το IMEI υπάρχει ήδη."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Η συσκευή εγγράφηκε με επιτυχία!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Δεν είστε εξουσιοδοτημένοι να εκτελέσετε αυτήν την ενέργεια."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Η συσκευή κλειδώθηκε απομακρυσμένα με επιτυχία."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Η συσκευή ξεκλειδώθηκε με επιτυχία."
+
+msgid "Appareil supprimé."
+msgstr "Η συσκευή διαγράφηκε."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Επιλέξτε συσκευή και τύπο ειδοποίησης."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Αυτή η συσκευή δεν ανήκει σε εσάς."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Η ειδοποίηση αναφέρθηκε με επιτυχία. Η συσκευή έχει ασφαλιστεί."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Η ειδοποίηση επισημάνθηκε ως επιλυμένη."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Το όνομα, το επώνυμο και το email είναι υποχρεωτικά."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Αυτό το email χρησιμοποιείται ήδη από άλλον λογαριασμό."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Το προφίλ ενημερώθηκε με επιτυχία!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Η πρόσβαση δεσμεύεται για διαχειριστές."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Το σφάλμα επισημάνθηκε ως επιλυμένο."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Δεν μπορείτε να διαγράψετε τον δικό σας λογαριασμό."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Ο χρήστης διαγράφηκε με επιτυχία."
+
+msgid "Administration"
+msgstr "Διαχείριση"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Κεντρική διαχείριση του συστήματος Anti-Theft"
+
+msgid "Utilisateurs"
+msgstr "Χρήστες"
+
+msgid "Actifs aujourd'hui"
+msgstr "Ενεργός σήμερα"
+
+msgid "Nouveaux ce mois"
+msgstr "Νέο αυτό το μήνα"
+
+msgid "Appareils"
+msgstr "Συσκευές"
+
+msgid "Alertes actives"
+msgstr "Ενεργές ειδοποιήσεις"
+
+msgid "Analytique"
+msgstr "Αναλυτικός"
+
+msgid "Journal d'activité"
+msgstr "ημερολόγιο δραστηριότητας"
+
+msgid "Erreurs"
+msgstr "Σφάλματα"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Συνδέσεις (τελευταίες 7 ημέρες)"
+
+msgid "Alertes par type"
+msgstr "Ειδοποιήσεις ανά τύπο"
+
+msgid "Appareils par opérateur"
+msgstr "Συσκευές ανά χειριστή"
+
+msgid "Résumé du système"
+msgstr "Σύνοψη συστήματος"
+
+msgid "Utilisateurs total"
+msgstr "Σύνολο χρηστών"
+
+msgid "Appareils enregistrés"
+msgstr "Εγγεγραμμένες συσκευές"
+
+msgid "Total alertes"
+msgstr "Συνολικές ειδοποιήσεις"
+
+msgid "Alertes en cours"
+msgstr "Τρέχουσες ειδοποιήσεις"
+
+msgid "Erreurs non résolues"
+msgstr "Μη επιλυμένα σφάλματα"
+
+msgid "Dernières activités"
+msgstr "Τελευταίες δραστηριότητες"
+
+msgid "récentes"
+msgstr "πρόσφατος"
+
+msgid "Utilisateur"
+msgstr "Μεταχειριζόμενος"
+
+msgid "Action"
+msgstr "Δράση"
+
+msgid "Détails"
+msgstr "Καθέκαστα"
+
+msgid "Adresse IP"
+msgstr "διεύθυνση IP"
+
+msgid "Navigateur"
+msgstr "Πρόγραμμα περιήγησης"
+
+msgid "Date"
+msgstr "Ημερομηνία"
+
+msgid "Aucune activité"
+msgstr "Καμία δραστηριότητα"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Οι δραστηριότητες χρήστη θα εμφανιστούν εδώ."
+
+msgid "Journal d'erreurs"
+msgstr "Αρχείο καταγραφής σφαλμάτων"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Διόρθωση όλων των σφαλμάτων;"
+
+msgid "Tout résoudre"
+msgstr "Λύστε τα πάντα"
+
+msgid "non résolues"
+msgstr "άλυτος"
+
+msgid "Tout est résolu"
+msgstr "Όλα λύνονται"
+
+msgid "Type"
+msgstr "Είδος"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Statut"
+msgstr "Κατάσταση"
+
+msgid "Résolu"
+msgstr "Αποφασισμένος"
+
+msgid "Non résolu"
+msgstr "Αλυτος"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Δεν καταγράφηκαν σφάλματα"
+
+msgid "Le système fonctionne correctement."
+msgstr "Το σύστημα λειτουργεί σωστά."
+
+msgid "Gestion des utilisateurs"
+msgstr "Διαχείριση χρηστών"
+
+msgid "comptes"
+msgstr "λογαριασμούς"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Τηλέφωνο"
+
+msgid "Rôle"
+msgstr "Ρόλος"
+
+msgid "Inscrit le"
+msgstr "Εγγεγραμμένος στις"
+
+msgid "Actions"
+msgstr "Δράσεις"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Διαγραφή αυτού του χρήστη και όλων των συσκευών του;"
+
+msgid "Vous"
+msgstr "ΕΣΕΙΣ"
+
+msgid "Connexions"
+msgstr "Συνδέσεις"
+
+msgid "Vol"
+msgstr "Πτήση"
+
+msgid "Perte"
+msgstr "Απώλεια"
+
+msgid "Anomalie"
+msgstr "Ανωμαλία"
+
+msgid "Alertes"
+msgstr "Ειδοποιήσεις"
+
+msgid "Gestion des alertes"
+msgstr "Διαχείριση ειδοποιήσεων"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Αναφέρετε κλοπή ή απώλεια και παρακολουθήστε το ιστορικό"
+
+msgid "Signaler un vol / perte"
+msgstr "Αναφορά κλοπής/απώλειας"
+
+msgid "En cours"
+msgstr "Σε εξέλιξη"
+
+msgid "Résolues"
+msgstr "Αποφασισμένος"
+
+msgid "Historique des alertes"
+msgstr "Ιστορικό ειδοποιήσεων"
+
+msgid "Appareil"
+msgstr "Συσκευή"
+
+msgid "Priorité"
+msgstr "Προτεραιότητα"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Επισήμανση αυτής της ειδοποίησης ως επιλυμένης;"
+
+msgid "Résoudre"
+msgstr "Λύνω"
+
+msgid "Aucune alerte"
+msgstr "Καμία ειδοποίηση"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Συχαρίκια! Δεν έχουν αναφερθεί ειδοποιήσεις."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Αναφέρετε κλοπή ή απώλεια"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Με την αναφορά κλοπής, η συσκευή σας θα κλειδωθεί αυτόματα και θα "
+"αποσταλούν ειδοποιήσεις."
+
+msgid "Appareil concerné"
+msgstr "Επηρεασμένη συσκευή"
+
+msgid "Sélectionner un appareil"
+msgstr "Επιλέξτε μια συσκευή"
+
+msgid "Type d'alerte"
+msgstr "Τύπος ειδοποίησης"
+
+msgid "Décrivez les circonstances..."
+msgstr "Περιγράψτε τις συνθήκες..."
+
+msgid "Annuler"
+msgstr "Ματαίωση"
+
+msgid "Signaler"
+msgstr "Εκθεση"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Έξυπνο σύστημα κατά της κλοπής — Πλατφόρμα ασφαλείας για smartphone"
+
+msgid "Système Anti-Vol"
+msgstr "Αντικλεπτικό σύστημα"
+
+msgid "PRINCIPAL"
+msgstr "ΚΥΡΙΟΣ"
+
+msgid "Tableau de bord"
+msgstr "Ταμπλό"
+
+msgid "SÉCURITÉ"
+msgstr "ΑΣΦΑΛΕΙΑ"
+
+msgid "Géolocalisation"
+msgstr "Γεωεντοπισμός"
+
+msgid "ADMINISTRATION"
+msgstr "ΔΙΑΧΕΙΡΙΣΗ"
+
+msgid "Déconnexion"
+msgstr "Αποσυνδέω"
+
+msgid "Changer de langue"
+msgstr "Άλλαξε γλώσσα"
+
+msgid "Rechercher une langue..."
+msgstr "Αναζήτηση γλώσσας..."
+
+msgid "Profil"
+msgstr "Προφίλ"
+
+msgid "Changer de thème"
+msgstr "Αλλαγή θέματος"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Επισκόπηση της ασφάλειας της συσκευής σας"
+
+msgid "Ajouter un appareil"
+msgstr "Προσθήκη συσκευής"
+
+msgid "Appareils volés"
+msgstr "Κλεμμένες συσκευές"
+
+msgid "Verrouillés à distance"
+msgstr "Κλειδωμένο από απόσταση"
+
+msgid "Alertes récentes"
+msgstr "Πρόσφατες ειδοποιήσεις"
+
+msgid "Voir tout"
+msgstr "Δείτε όλα"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Καμία ειδοποίηση. Οι συσκευές σας είναι ασφαλείς!"
+
+msgid "Mes appareils"
+msgstr "Οι συσκευές μου"
+
+msgid "Aucun appareil enregistré"
+msgstr "Δεν έχουν καταχωρηθεί συσκευές"
+
+msgid "Ajouter"
+msgstr "Προσθέτω"
+
+msgid "en attente"
+msgstr "σε αναμονή"
+
+msgid "Gestion des appareils"
+msgstr "Διαχείριση συσκευών"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Εγγραφείτε και διαχειριστείτε τα smartphone σας"
+
+msgid "Opérateur"
+msgstr "Χειριστής"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Κλείδωμα αυτής της συσκευής από απόσταση;"
+
+msgid "Verrouiller"
+msgstr "Κλειδαριά"
+
+msgid "Déverrouiller"
+msgstr "Ξεκλειδώνω"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Διαγραφή αυτής της συσκευής;"
+
+msgid "Supprimer"
+msgstr "ΔΙΑΓΡΑΦΩ"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Προσθέστε το πρώτο σας smartphone για να αρχίσετε να το προστατεύετε."
+
+msgid "Nouvel appareil"
+msgstr "Νέα συσκευή"
+
+msgid "Marque"
+msgstr "Μάρκα"
+
+msgid "Sélectionner"
+msgstr "Επιλέγω"
+
+msgid "Autre"
+msgstr "Αλλος"
+
+msgid "Modèle"
+msgstr "Μοντέλο"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "πληκτρολογήστε *#06# στο τηλέφωνό σας"
+
+msgid "Système d'exploitation"
+msgstr "Λειτουργικό σύστημα"
+
+msgid "Numéro de téléphone"
+msgstr "Αριθμός τηλεφώνου"
+
+msgid "Enregistrer"
+msgstr "Εκτός"
+
+msgid "Connexion"
+msgstr "Σύνδεση"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Σύστημα ασφαλείας smartphone"
+
+msgid "Adresse email"
+msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+msgid "Mot de passe"
+msgstr "Σύνθημα"
+
+msgid "Se connecter"
+msgstr "Συνδεθείτε"
+
+msgid "Mot de passe oublié ?"
+msgstr "Ξεχάσατε τον κωδικό πρόσβασης;"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Έχετε ήδη λογαριασμό; Διαφορετικά, προχωρήστε στη δημιουργία του "
+"λογαριασμού σας!"
+
+msgid "Créer un compte"
+msgstr "Δημιουργήστε έναν λογαριασμό"
+
+msgid "Sécurité maximale"
+msgstr "Μέγιστη ασφάλεια"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Προστατέψτε τα προσωπικά σας δεδομένα με απομακρυσμένο κλείδωμα"
+
+msgid "Localisation GPS"
+msgstr "Τοποθεσία GPS"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Βρείτε την ακριβή τοποθεσία του smartphone σας σε πραγματικό χρόνο"
+
+msgid "Alertes instantanées"
+msgstr "Άμεσες ειδοποιήσεις"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Λάβετε SMS, email και ειδοποιήσεις push σε περίπτωση κλοπής"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Εντοπίστε τις συσκευές σας και οπτικοποιήστε τις περιοχές κινδύνου"
+
+msgid "Aucun appareil"
+msgstr "Καμία συσκευή"
+
+msgid "Zones à risque"
+msgstr "Περιοχές κινδύνου"
+
+msgid "incidents"
+msgstr "περιστατικά"
+
+msgid "Aucune zone signalée"
+msgstr "Δεν αναφέρθηκαν περιοχές"
+
+msgid "Niveau"
+msgstr "Επίπεδο"
+
+msgid "Incidents"
+msgstr "Περιστατικά"
+
+msgid "Profile utilisateur"
+msgstr "Προφίλ χρήστη"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Διαχειριστείτε τα προσωπικά σας στοιχεία"
+
+msgid "Membre depuis"
+msgstr "Μέλος από τότε"
+
+msgid "Modifier mes informations"
+msgstr "Επεξεργασία των στοιχείων μου"
+
+msgid "Prénom"
+msgstr "Ονομα"
+
+msgid "Nom"
+msgstr "Ονομα"
+
+msgid "Changer le mot de passe"
+msgstr "Αλλαγή κωδικού πρόσβασης"
+
+msgid "Nouveau mot de passe"
+msgstr "Νέος κωδικός πρόσβασης"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "αφήστε το κενό για να μην αλλάξει"
+
+msgid "Enregistrer les modifications"
+msgstr "Αποθήκευση αλλαγών"
+
+msgid "Inscription"
+msgstr "Εγγραφή"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Καλώς ήρθατε στο Anti-Theft για καλύτερη ασφάλεια των συσκευών σας"
+
+msgid "Confirmer"
+msgstr "Επιβεβαιώνω"
+
+msgid "Créer mon compte"
+msgstr "Δημιουργήστε τον λογαριασμό μου"
+
+msgid "Déjà un compte ?"
+msgstr "Έχετε ήδη λογαριασμό;"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Επαναφορά κωδικού πρόσβασης"
+
+msgid "Réinitialisation"
+msgstr "Επαναφορά"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Εισαγάγετε το email και τον αριθμό τηλεφώνου σας για να επαληθεύσετε την "
+"ταυτότητά σας"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Ο αριθμός που χρησιμοποιήθηκε κατά την εγγραφή"
+
+msgid "Minimum 6 caractères"
+msgstr "Τουλάχιστον 6 χαρακτήρες"
+
+msgid "Confirmer le mot de passe"
+msgstr "Επιβεβαίωση κωδικού πρόσβασης"
+
+msgid "Retourner à la"
+msgstr "Επιστροφή στο"
+
+msgid "page de connexion"
+msgstr "σελίδα σύνδεσης"
+
+msgid "Vérification sécurisée"
+msgstr "Ασφαλής επαλήθευση"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Η ταυτότητά σας επαληθεύεται χρησιμοποιώντας το email και τον αριθμό "
+"τηλεφώνου σας"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Επιλέξτε έναν ασφαλή κωδικό πρόσβασης τουλάχιστον 6 χαρακτήρων"
+
+msgid "d"
+msgstr "ρε"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Η επεξεργασία απέτυχε"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Η επεξεργασία απέτυχε: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Σφάλμα Windows: {error}"
+
+msgid "deprecated"
+msgstr "καταργήθηκε"
+
+msgid "Options"
+msgstr "Επιλογές"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Λήφθηκε απροσδόκητο επιπλέον επιχείρημα ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "ΚατάργησηΠροειδοποίηση: Η εντολή {name!r} έχει καταργηθεί.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Ματαιώθηκε!"
+
+msgid "Commands"
+msgstr "Εντολές"
+
+msgid "Missing command."
+msgstr "Λείπει εντολή."
+
+msgid "Value must be an iterable."
+msgstr "Η τιμή πρέπει να είναι επαναλαμβανόμενη."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Λαμβάνει τιμές {nargs} αλλά δόθηκε 1."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"ΚατάργησηΠροειδοποίηση: Το {param_type} {name!r} έχει "
+"καταργηθεί.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Το όνομα '{name}' ορίστηκε δύο φορές"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Η επιλογή Boolean {decl!r} δεν μπορεί να χρησιμοποιήσει την ίδια σημαία "
+"για true/false."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr ""
+"Δεν ήταν δυνατός ο προσδιορισμός ονόματος για επιλογή με δηλώσεις "
+"{decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Δεν ορίστηκαν επιλογές, αλλά μεταβιβάστηκε ένα όνομα ({name}). Μήπως "
+"εννοούσατε να δηλώσετε ένα επιχείρημα; Μήπως εννοούσατε να περάσετε το "
+"'--{name}';"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var περιβάλλον: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "προεπιλογή: {προεπιλογή}"
+
+msgid "required"
+msgstr "υποχρεούμαι"
+
+msgid "(dynamic)"
+msgstr "(δυναμικός)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Τα ορίσματα λαμβάνουν ακριβώς μια δήλωση παραμέτρου, πήρε {length}: "
+"{decls}."
+
+msgid "Do you want to continue?"
+msgstr "Θέλετε να συνεχίσετε;"
+
+msgid "Confirm the action without prompting."
+msgstr "Επιβεβαιώστε την ενέργεια χωρίς προτροπή."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, έκδοση %(version)s"
+
+msgid "Show the version and exit."
+msgstr "Εμφάνιση της έκδοσης και έξοδος."
+
+msgid "Show this message and exit."
+msgstr "Εμφάνιση αυτού του μηνύματος και έξοδος."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Μήπως εννοούσατε {δυνατότητα};"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Σφάλμα: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Δοκιμάστε το '{command} {option}' για βοήθεια."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Μη έγκυρη τιμή: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Μη έγκυρη τιμή για {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Λείπει επιχείρημα"
+
+msgid "Missing option"
+msgstr "Λείπει η επιλογή"
+
+msgid "Missing parameter"
+msgstr "Λείπει παράμετρος"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Λείπει το {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Λείπει παράμετρος: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Δεν υπάρχει τέτοια επιλογή {name!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Δεν υπάρχει τέτοια εντολή {name!r}."
+
+msgid "unknown error"
+msgstr "άγνωστο σφάλμα"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Δεν ήταν δυνατό το άνοιγμα του αρχείου {filename!r}: {message}"
+
+msgid "Usage:"
+msgstr "Χρήση:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Μη έγκυρος χαρακτήρας έναρξης για την επιλογή ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Το όρισμα {name!r} παίρνει τιμές {nargs}."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Η επιλογή {name!r} δεν παίρνει τιμή."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Η επιλογή {name!r} απαιτεί όρισμα."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Η ολοκλήρωση του κελύφους δεν υποστηρίζεται για εκδόσεις Bash παλαιότερες"
+" από 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Δεν ήταν δυνατός ο εντοπισμός της έκδοσης Bash, η ολοκλήρωση του κελύφους"
+" δεν υποστηρίζεται."
+
+msgid "Repeat for confirmation"
+msgstr "Επαναλάβετε για επιβεβαίωση"
+
+msgid "Error: The two entered values do not match."
+msgstr "Σφάλμα: Οι δύο εισαγόμενες τιμές δεν ταιριάζουν."
+
+msgid "Error: invalid input"
+msgstr "Σφάλμα: μη έγκυρη εισαγωγή"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Άγνωστο χρώμα {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Πατήστε οποιοδήποτε πλήκτρο για να συνεχίσετε..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Επιλέξτε από:\\n\\t{επιλογές}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "Το {value!r} δεν είναι {choice}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Επιλογή ({επιλογές})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "Το {value!r} δεν ταιριάζει με τη μορφή {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "Το {value!r} δεν είναι έγκυρο {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "Το {value} δεν βρίσκεται στο εύρος {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "Το {value!r} δεν είναι έγκυρο boolean. Αναγνωρισμένες τιμές: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "Το {value!r} δεν είναι έγκυρο UUID."
+
+msgid "file"
+msgstr "αρχείο"
+
+msgid "directory"
+msgstr "τηλεφωνικός κατάλογος"
+
+msgid "path"
+msgstr "μονοπάτι"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "Το {name} {filename!r} δεν υπάρχει."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "Το {name} {filename!r} είναι ένα αρχείο."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "Το {name} {filename!r} είναι ένας κατάλογος."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "Το {name} {filename!r} δεν είναι αναγνώσιμο."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "Το {name} {filename!r} δεν είναι εγγράψιμο."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "Το {name} {filename!r} δεν είναι εκτελέσιμο."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "Απαιτούνται τιμές {len_type}, αλλά δόθηκε το {len_value}."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Άγνωστη τυπική ροή \"{name}\""
+
+msgid "This field is required."
+msgstr "Αυτό το πεδίο είναι υποχρεωτικό."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Το αρχείο δεν έχει εγκεκριμένη επέκταση: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Το αρχείο δεν έχει εγκεκριμένη επέκταση."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Το αρχείο πρέπει να είναι μεταξύ {min_size} και {max_size} byte."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Μη έγκυρο όνομα πεδίου '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Το πεδίο πρέπει να είναι ίσο με %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Το πεδίο πρέπει να έχει μήκος τουλάχιστον %(min)d χαρακτήρων."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Το πεδίο δεν μπορεί να είναι μεγαλύτερο από %(max)d χαρακτήρα."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Το πεδίο πρέπει να έχει ακριβώς %(max)d χαρακτήρα."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Το πεδίο πρέπει να έχει μήκος μεταξύ %(min)d και %(max)d χαρακτήρων."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Ο αριθμός πρέπει να είναι τουλάχιστον %(min)s."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Ο αριθμός πρέπει να είναι το πολύ %(max)s."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Ο αριθμός πρέπει να είναι μεταξύ %(min)s και %(max)s."
+
+msgid "Invalid input."
+msgstr "Μη έγκυρη εισαγωγή."
+
+msgid "Invalid email address."
+msgstr "Μη έγκυρη διεύθυνση email."
+
+msgid "Invalid IP address."
+msgstr "Μη έγκυρη διεύθυνση IP."
+
+msgid "Invalid Mac address."
+msgstr "Μη έγκυρη διεύθυνση Mac."
+
+msgid "Invalid URL."
+msgstr "Μη έγκυρη διεύθυνση URL."
+
+msgid "Invalid UUID."
+msgstr "Μη έγκυρο UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Μη έγκυρη τιμή, πρέπει να είναι μία από τις: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Μη έγκυρη τιμή, δεν μπορεί να είναι καμία από: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Δεν είναι δυνατή η επεξεργασία αυτού του πεδίου."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Αυτό το πεδίο είναι απενεργοποιημένο και δεν μπορεί να έχει τιμή."
+
+msgid "Invalid CSRF Token."
+msgstr "Μη έγκυρο διακριτικό CSRF."
+
+msgid "CSRF token missing."
+msgstr "Λείπει το διακριτικό CSRF."
+
+msgid "CSRF failed."
+msgstr "Το CSRF απέτυχε."
+
+msgid "CSRF token expired."
+msgstr "Το διακριτικό CSRF έληξε."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Μη έγκυρη επιλογή: δεν ήταν δυνατός ο εξαναγκασμός."
+
+msgid "Choices cannot be None."
+msgstr "Οι επιλογές δεν μπορούν να είναι Καμία."
+
+msgid "Not a valid choice."
+msgstr "Δεν είναι έγκυρη επιλογή."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Μη έγκυρες επιλογές: δεν ήταν δυνατός ο εξαναγκασμός μιας ή περισσότερων "
+"εισαγωγών δεδομένων."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "Το '%(value)s' δεν είναι έγκυρη επιλογή για αυτό το πεδίο."
+
+msgid "Not a valid datetime value."
+msgstr "Δεν είναι έγκυρη τιμή ημερομηνίας."
+
+msgid "Not a valid date value."
+msgstr "Δεν είναι έγκυρη τιμή ημερομηνίας."
+
+msgid "Not a valid time value."
+msgstr "Δεν είναι έγκυρη τιμή χρόνου."
+
+msgid "Not a valid week value."
+msgstr "Δεν είναι έγκυρη τιμή εβδομάδας."
+
+msgid "Not a valid integer value."
+msgstr "Δεν είναι έγκυρη ακέραια τιμή."
+
+msgid "Not a valid decimal value."
+msgstr "Δεν είναι έγκυρη δεκαδική τιμή."
+
+msgid "Not a valid float value."
+msgstr "Δεν είναι έγκυρη τιμή διακύμανσης."
+

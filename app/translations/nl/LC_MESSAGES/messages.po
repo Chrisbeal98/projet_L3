@@ -1,0 +1,1046 @@
+# Translations for NL.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: nl\n"
+"Language-Team: nl <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Log in om toegang te krijgen tot deze pagina."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "Deze IMEI is al geregistreerd in het systeem."
+
+msgid "Accès non autorisé."
+msgstr "Ongeautoriseerde toegang."
+
+msgid "Appareil déverrouillé."
+msgstr "Apparaat ontgrendeld."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Waarschuwing aangemaakt! Meldingen verzonden."
+
+msgid "Alerte résolue."
+msgstr "Alarm opgelost."
+
+msgid "Pas encore de compte ?"
+msgstr "Nog geen account?"
+
+msgid "Mon Profil"
+msgstr "Mijn profiel"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Verbinding succesvol! Welkom."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Onjuist e-mailadres of wachtwoord."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Alle verplichte velden moeten worden ingevuld."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Wachtwoorden komen niet overeen."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Het wachtwoord moet minimaal 6 tekens bevatten."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Dit e-mailadres is al in gebruik."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Account aangemaakt! Inloggen."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Er zijn geen accounts gevonden met dit e-mailadres."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Het telefoonnummer komt niet overeen met het rekeningnummer."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Het nieuwe wachtwoord is verplicht."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Wachtwoord opnieuw instellen succesvol! Inloggen."
+
+msgid "Vous avez été déconnecté."
+msgstr "De verbinding is verbroken."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Merk, model en IMEI zijn vereist."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Er bestaat al een apparaat met deze IMEI."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Apparaat succesvol geregistreerd!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "U bent niet bevoegd om deze actie uit te voeren."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Apparaat op afstand succesvol vergrendeld."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Apparaat is succesvol ontgrendeld."
+
+msgid "Appareil supprimé."
+msgstr "Apparaat verwijderd."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Selecteer een apparaat en waarschuwingstype."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Dit apparaat is niet van jou."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Waarschuwing succesvol gerapporteerd. Het apparaat is beveiligd."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Melding gemarkeerd als opgelost."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Voornaam, achternaam en e-mailadres zijn verplicht."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Dit e-mailadres wordt al gebruikt door een ander account."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profiel succesvol bijgewerkt!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Toegang gereserveerd voor beheerders."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Fout gemarkeerd als opgelost."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "U kunt uw eigen account niet verwijderen."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Gebruiker succesvol verwijderd."
+
+msgid "Administration"
+msgstr "Administratie"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Gecentraliseerd beheer van het antidiefstalsysteem"
+
+msgid "Utilisateurs"
+msgstr "Gebruikers"
+
+msgid "Actifs aujourd'hui"
+msgstr "Actief vandaag"
+
+msgid "Nouveaux ce mois"
+msgstr "Nieuw deze maand"
+
+msgid "Appareils"
+msgstr "Apparaten"
+
+msgid "Alertes actives"
+msgstr "Actieve waarschuwingen"
+
+msgid "Analytique"
+msgstr "Analytisch"
+
+msgid "Journal d'activité"
+msgstr "Activiteitenlogboek"
+
+msgid "Erreurs"
+msgstr "Fouten"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Verbindingen (laatste 7 dagen)"
+
+msgid "Alertes par type"
+msgstr "Waarschuwingen per type"
+
+msgid "Appareils par opérateur"
+msgstr "Apparaten per operator"
+
+msgid "Résumé du système"
+msgstr "Systeemoverzicht"
+
+msgid "Utilisateurs total"
+msgstr "Totaal aantal gebruikers"
+
+msgid "Appareils enregistrés"
+msgstr "Geregistreerde apparaten"
+
+msgid "Total alertes"
+msgstr "Totaal aantal waarschuwingen"
+
+msgid "Alertes en cours"
+msgstr "Actuele waarschuwingen"
+
+msgid "Erreurs non résolues"
+msgstr "Onopgeloste fouten"
+
+msgid "Dernières activités"
+msgstr "Laatste activiteiten"
+
+msgid "récentes"
+msgstr "recent"
+
+msgid "Utilisateur"
+msgstr "Gebruiker"
+
+msgid "Action"
+msgstr "Actie"
+
+msgid "Détails"
+msgstr "Details"
+
+msgid "Adresse IP"
+msgstr "IP-adres"
+
+msgid "Navigateur"
+msgstr "Browser"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Aucune activité"
+msgstr "Geen activiteit"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Hier verschijnen gebruikersactiviteiten."
+
+msgid "Journal d'erreurs"
+msgstr "Foutenlogboek"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Alle fouten oplossen?"
+
+msgid "Tout résoudre"
+msgstr "Los alles op"
+
+msgid "non résolues"
+msgstr "onopgelost"
+
+msgid "Tout est résolu"
+msgstr "Alles is opgelost"
+
+msgid "Type"
+msgstr "Vriendelijk"
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Statut"
+msgstr "Status"
+
+msgid "Résolu"
+msgstr "Opgelost"
+
+msgid "Non résolu"
+msgstr "Onopgelost"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Geen fouten geregistreerd"
+
+msgid "Le système fonctionne correctement."
+msgstr "Het systeem werkt naar behoren."
+
+msgid "Gestion des utilisateurs"
+msgstr "Gebruikersbeheer"
+
+msgid "comptes"
+msgstr "rekeningen"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Telefoon"
+
+msgid "Rôle"
+msgstr "Rol"
+
+msgid "Inscrit le"
+msgstr "Geregistreerd op"
+
+msgid "Actions"
+msgstr "Acties"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Deze gebruiker en al zijn apparaten verwijderen?"
+
+msgid "Vous"
+msgstr "JIJ"
+
+msgid "Connexions"
+msgstr "Verbindingen"
+
+msgid "Vol"
+msgstr "Vlucht"
+
+msgid "Perte"
+msgstr "Verlies"
+
+msgid "Anomalie"
+msgstr "Anomalie"
+
+msgid "Alertes"
+msgstr "Waarschuwingen"
+
+msgid "Gestion des alertes"
+msgstr "Beheer van waarschuwingen"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "Meld diefstal of verlies en houd de geschiedenis bij"
+
+msgid "Signaler un vol / perte"
+msgstr "Diefstal/verlies melden"
+
+msgid "En cours"
+msgstr "In uitvoering"
+
+msgid "Résolues"
+msgstr "Opgelost"
+
+msgid "Historique des alertes"
+msgstr "Waarschuwingsgeschiedenis"
+
+msgid "Appareil"
+msgstr "Apparaat"
+
+msgid "Priorité"
+msgstr "Prioriteit"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Deze waarschuwing markeren als opgelost?"
+
+msgid "Résoudre"
+msgstr "Oplossen"
+
+msgid "Aucune alerte"
+msgstr "Geen waarschuwing"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Goed nieuws! Er zijn geen waarschuwingen gerapporteerd."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Diefstal of verlies melden"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Als u een diefstal meldt, wordt uw apparaat automatisch vergrendeld en "
+"worden er meldingen verzonden."
+
+msgid "Appareil concerné"
+msgstr "Betrokken apparaat"
+
+msgid "Sélectionner un appareil"
+msgstr "Selecteer een apparaat"
+
+msgid "Type d'alerte"
+msgstr "Type waarschuwing"
+
+msgid "Décrivez les circonstances..."
+msgstr "Beschrijf de omstandigheden..."
+
+msgid "Annuler"
+msgstr "Annuleren"
+
+msgid "Signaler"
+msgstr "Rapport"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "Intelligent antidiefstalsysteem – Beveiligingsplatform voor smartphones"
+
+msgid "Système Anti-Vol"
+msgstr "Antidiefstalsysteem"
+
+msgid "PRINCIPAL"
+msgstr "VOORNAAMST"
+
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+msgid "SÉCURITÉ"
+msgstr "BEVEILIGING"
+
+msgid "Géolocalisation"
+msgstr "Geolocatie"
+
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRATIE"
+
+msgid "Déconnexion"
+msgstr "Verbreek de verbinding"
+
+msgid "Changer de langue"
+msgstr "Taal wijzigen"
+
+msgid "Rechercher une langue..."
+msgstr "Zoek een taal..."
+
+msgid "Profil"
+msgstr "Profiel"
+
+msgid "Changer de thème"
+msgstr "Verander thema"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Overzicht van uw apparaatbeveiliging"
+
+msgid "Ajouter un appareil"
+msgstr "Voeg een apparaat toe"
+
+msgid "Appareils volés"
+msgstr "Gestolen apparaten"
+
+msgid "Verrouillés à distance"
+msgstr "Op afstand vergrendeld"
+
+msgid "Alertes récentes"
+msgstr "Recente waarschuwingen"
+
+msgid "Voir tout"
+msgstr "Bekijk alles"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Geen waarschuwing. Uw apparaten zijn veilig!"
+
+msgid "Mes appareils"
+msgstr "Mijn apparaten"
+
+msgid "Aucun appareil enregistré"
+msgstr "Geen apparaten geregistreerd"
+
+msgid "Ajouter"
+msgstr "Toevoegen"
+
+msgid "en attente"
+msgstr "in de wacht"
+
+msgid "Gestion des appareils"
+msgstr "Apparaatbeheer"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Registreer en beheer uw smartphones"
+
+msgid "Opérateur"
+msgstr "Exploitant"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Dit apparaat op afstand vergrendelen?"
+
+msgid "Verrouiller"
+msgstr "Slot"
+
+msgid "Déverrouiller"
+msgstr "Ontgrendelen"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Dit apparaat verwijderen?"
+
+msgid "Supprimer"
+msgstr "VERWIJDEREN"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Voeg uw eerste smartphone toe om deze te beschermen."
+
+msgid "Nouvel appareil"
+msgstr "Nieuw apparaat"
+
+msgid "Marque"
+msgstr "Merk"
+
+msgid "Sélectionner"
+msgstr "Selecteer"
+
+msgid "Autre"
+msgstr "Ander"
+
+msgid "Modèle"
+msgstr "Model"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "typ *#06# op uw telefoon"
+
+msgid "Système d'exploitation"
+msgstr "Besturingssysteem"
+
+msgid "Numéro de téléphone"
+msgstr "Telefoonnummer"
+
+msgid "Enregistrer"
+msgstr "Redden"
+
+msgid "Connexion"
+msgstr "Verbinding"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Beveiligingssysteem voor smartphones"
+
+msgid "Adresse email"
+msgstr "E-mailadres"
+
+msgid "Mot de passe"
+msgstr "Wachtwoord"
+
+msgid "Se connecter"
+msgstr "Inloggen"
+
+msgid "Mot de passe oublié ?"
+msgstr "Wachtwoord vergeten?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "Heeft u al een account? Ga anders verder met het aanmaken van uw account!"
+
+msgid "Créer un compte"
+msgstr "Maak een account aan"
+
+msgid "Sécurité maximale"
+msgstr "Maximale veiligheid"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Bescherm uw persoonlijke gegevens met vergrendeling op afstand"
+
+msgid "Localisation GPS"
+msgstr "GPS-locatie"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Vind de exacte locatie van uw smartphone in realtime"
+
+msgid "Alertes instantanées"
+msgstr "Directe waarschuwingen"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "Ontvang sms, e-mail en pushmeldingen bij diefstal"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Lokaliseer uw apparaten en visualiseer risicogebieden"
+
+msgid "Aucun appareil"
+msgstr "Geen apparaat"
+
+msgid "Zones à risque"
+msgstr "Risicogebieden"
+
+msgid "incidents"
+msgstr "incidenten"
+
+msgid "Aucune zone signalée"
+msgstr "Geen gebieden gemeld"
+
+msgid "Niveau"
+msgstr "Niveau"
+
+msgid "Incidents"
+msgstr "Incidenten"
+
+msgid "Profile utilisateur"
+msgstr "Gebruikersprofiel"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Beheer uw persoonlijke gegevens"
+
+msgid "Membre depuis"
+msgstr "Lid sinds"
+
+msgid "Modifier mes informations"
+msgstr "Bewerk mijn gegevens"
+
+msgid "Prénom"
+msgstr "Voornaam"
+
+msgid "Nom"
+msgstr "Naam"
+
+msgid "Changer le mot de passe"
+msgstr "Wachtwoord wijzigen"
+
+msgid "Nouveau mot de passe"
+msgstr "Nieuw wachtwoord"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "laat dit leeg zodat het niet verandert"
+
+msgid "Enregistrer les modifications"
+msgstr "Wijzigingen opslaan"
+
+msgid "Inscription"
+msgstr "Registratie"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "Welkom bij Anti-Theft voor een betere beveiliging van uw apparaten"
+
+msgid "Confirmer"
+msgstr "Bevestigen"
+
+msgid "Créer mon compte"
+msgstr "Maak mijn account aan"
+
+msgid "Déjà un compte ?"
+msgstr "Heeft u al een account?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Wachtwoord opnieuw instellen"
+
+msgid "Réinitialisation"
+msgstr "Opnieuw instellen"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "Voer uw e-mailadres en telefoonnummer in om uw identiteit te verifiëren"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Het nummer dat gebruikt is tijdens de registratie"
+
+msgid "Minimum 6 caractères"
+msgstr "Minimaal 6 tekens"
+
+msgid "Confirmer le mot de passe"
+msgstr "Bevestig wachtwoord"
+
+msgid "Retourner à la"
+msgstr "Keer terug naar"
+
+msgid "page de connexion"
+msgstr "inlogpagina"
+
+msgid "Vérification sécurisée"
+msgstr "Veilige verificatie"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Uw identiteit wordt geverifieerd met behulp van uw e-mailadres en "
+"telefoonnummer"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Kies een veilig wachtwoord van minimaal 6 tekens"
+
+msgid "d"
+msgstr "D"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: bewerken mislukt"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: bewerken mislukt: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows-fout: {fout}"
+
+msgid "deprecated"
+msgstr "verouderd"
+
+msgid "Options"
+msgstr "Opties"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Kreeg onverwacht extra argument ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"BeëindigingWaarschuwing: het commando {name!r} is "
+"verouderd.{extra_message}"
+
+msgid "Aborted!"
+msgstr "Afgebroken!"
+
+msgid "Commands"
+msgstr "Commando's"
+
+msgid "Missing command."
+msgstr "Ontbrekende opdracht."
+
+msgid "Value must be an iterable."
+msgstr "Waarde moet iterabel zijn."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Neemt {nargs} waarden aan, maar er is 1 gegeven."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"BeëindigingWaarschuwing: de {param_type} {name!r} is "
+"verouderd.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Naam '{name}' tweemaal gedefinieerd"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"De Booleaanse optie {decl!r} kan niet dezelfde vlag gebruiken voor "
+"waar/onwaar."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "Kan de naam voor de optie met declaraties {decls!r} niet bepalen"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Er zijn geen opties gedefinieerd, maar er is een naam doorgegeven "
+"({name}). Bedoelde u in plaats daarvan een argument te verklaren? "
+"Bedoelde u '--{naam}' door te geven?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "standaard: {standaard}"
+
+msgid "required"
+msgstr "vereist"
+
+msgid "(dynamic)"
+msgstr "(dynamisch)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumenten hebben precies één parameterdeclaratie nodig, namelijk "
+"{length}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Wil je doorgaan?"
+
+msgid "Confirm the action without prompting."
+msgstr "Bevestig de actie zonder te vragen."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, versie %(versie)s"
+
+msgid "Show the version and exit."
+msgstr "Toon de versie en sluit af."
+
+msgid "Show this message and exit."
+msgstr "Toon dit bericht en sluit af."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "Bedoelde je {mogelijkheid}?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Fout: {bericht}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Probeer '{command} {option}' voor hulp."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Ongeldige waarde: {bericht}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "Ongeldige waarde voor {param_hint}: {message}"
+
+msgid "Missing argument"
+msgstr "Ontbrekende argumentatie"
+
+msgid "Missing option"
+msgstr "Ontbrekende optie"
+
+msgid "Missing parameter"
+msgstr "Ontbrekende parameter"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Ontbrekende {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Ontbrekende parameter: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Deze optie bestaat niet {naam!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Een dergelijk commando {naam!r} bestaat niet."
+
+msgid "unknown error"
+msgstr "onbekende fout"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Kan bestand {bestandsnaam!r} niet openen: {message}"
+
+msgid "Usage:"
+msgstr "Gebruik:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Ongeldig startteken voor optie ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argument {naam!r} heeft {nargs} waarden."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Optie {naam!r} neemt geen waarde aan."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Optie {naam!r} vereist een argument."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Shell-voltooiing wordt niet ondersteund voor Bash-versies ouder dan 4.4."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Kon de Bash-versie niet detecteren, shell-voltooiing wordt niet "
+"ondersteund."
+
+msgid "Repeat for confirmation"
+msgstr "Herhaal dit ter bevestiging"
+
+msgid "Error: The two entered values do not match."
+msgstr "Fout: De twee ingevoerde waarden komen niet overeen."
+
+msgid "Error: invalid input"
+msgstr "Fout: ongeldige invoer"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Onbekende kleur {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "Druk op een willekeurige toets om door te gaan..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Kies uit:\\n\\t{keuzes}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{waarde!r} is niet {keuze}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Keuze({keuzes})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} komt niet overeen met de indeling {format}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} is geen geldig {number_type}."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} ligt niet in het bereik {range}."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} is geen geldige booleaanse waarde. Herkende waarden: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} is geen geldige UUID."
+
+msgid "file"
+msgstr "bestand"
+
+msgid "directory"
+msgstr "map"
+
+msgid "path"
+msgstr "pad"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{naam} {bestandsnaam!r} bestaat niet."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{naam} {bestandsnaam!r} is een bestand."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{naam} {bestandsnaam!r} is een directory."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{naam} {bestandsnaam!r} is niet leesbaar."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{naam} {bestandsnaam!r} is niet beschrijfbaar."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{naam} {bestandsnaam!r} is niet uitvoerbaar."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type}-waarden zijn vereist, maar {len_value} is opgegeven."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Onbekende standaardstream '{name}'"
+
+msgid "This field is required."
+msgstr "Dit veld is verplicht."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "Bestand heeft geen goedgekeurde extensie: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "Bestand heeft geen goedgekeurde extensie."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "Bestand moet tussen {min_size} en {max_size} bytes zijn."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Ongeldige veldnaam '%s'."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Veld moet gelijk zijn aan %(other_name)s."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Het veld moet minimaal %(min)d tekens lang zijn."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Veld mag niet langer zijn dan %(max)d teken."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Het veld moet precies %(max)d tekens lang zijn."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Het veld moet tussen %(min)d en %(max)d tekens lang zijn."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Het getal moet minimaal %(min)s zijn."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Het getal mag maximaal %(max)s zijn."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Het getal moet tussen %(min)s en %(max)s liggen."
+
+msgid "Invalid input."
+msgstr "Ongeldige invoer."
+
+msgid "Invalid email address."
+msgstr "Ongeldig e-mailadres."
+
+msgid "Invalid IP address."
+msgstr "Ongeldig IP-adres."
+
+msgid "Invalid Mac address."
+msgstr "Ongeldig Mac-adres."
+
+msgid "Invalid URL."
+msgstr "Ongeldige URL."
+
+msgid "Invalid UUID."
+msgstr "Ongeldige UUID."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Ongeldige waarde, moet een van de volgende zijn: %(values)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Ongeldige waarde, kan geen van de volgende zijn: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "Dit veld kan niet worden bewerkt."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Dit veld is uitgeschakeld en kan geen waarde bevatten."
+
+msgid "Invalid CSRF Token."
+msgstr "Ongeldig CSRF-token."
+
+msgid "CSRF token missing."
+msgstr "CSRF-token ontbreekt."
+
+msgid "CSRF failed."
+msgstr "CSRF is mislukt."
+
+msgid "CSRF token expired."
+msgstr "CSRF-token is verlopen."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Ongeldige keuze: kon niet afdwingen."
+
+msgid "Choices cannot be None."
+msgstr "Keuzes kunnen niet Geen zijn."
+
+msgid "Not a valid choice."
+msgstr "Geen geldige keuze."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Ongeldige keuze(s): een of meer gegevensinvoer kon niet worden "
+"afgedwongen."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' is geen geldige keuze voor dit veld."
+
+msgid "Not a valid datetime value."
+msgstr "Geen geldige datetime-waarde."
+
+msgid "Not a valid date value."
+msgstr "Geen geldige datumwaarde."
+
+msgid "Not a valid time value."
+msgstr "Geen geldige tijdswaarde."
+
+msgid "Not a valid week value."
+msgstr "Geen geldige weekwaarde."
+
+msgid "Not a valid integer value."
+msgstr "Geen geldig geheel getal."
+
+msgid "Not a valid decimal value."
+msgstr "Geen geldige decimale waarde."
+
+msgid "Not a valid float value."
+msgstr "Geen geldige float-waarde."
+

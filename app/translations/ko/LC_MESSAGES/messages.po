@@ -1,0 +1,1029 @@
+# Translations for KO.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ko\n"
+"Language-Team: ko <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "이 페이지에 액세스하려면 로그인하세요."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "이 IMEI는 이미 시스템에 등록되어 있습니다."
+
+msgid "Accès non autorisé."
+msgstr "무단 액세스."
+
+msgid "Appareil déverrouillé."
+msgstr "장치가 잠금 해제되었습니다."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "경고가 생성되었습니다! 알림이 전송되었습니다."
+
+msgid "Alerte résolue."
+msgstr "경고가 해결되었습니다."
+
+msgid "Pas encore de compte ?"
+msgstr "아직 계정이 없나요?"
+
+msgid "Mon Profil"
+msgstr "내 프로필"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "연결 성공! 환영."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "이메일이나 비밀번호가 잘못되었습니다."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "모든 필수 항목을 작성해야 합니다."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "비밀번호가 일치하지 않습니다."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "비밀번호는 6자 이상이어야 합니다."
+
+msgid "Cet email est déjà utilisé."
+msgstr "이 이메일은 이미 사용 중입니다."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "계정이 성공적으로 생성되었습니다! 로그인하세요."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "이 이메일에는 계정이 없습니다."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "전화번호가 계좌번호와 일치하지 않습니다."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "새 비밀번호는 필수입니다."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "비밀번호 재설정이 완료되었습니다! 로그인하세요."
+
+msgid "Vous avez été déconnecté."
+msgstr "연결이 끊어졌습니다."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "브랜드, 모델, IMEI가 필요합니다."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "이 IMEI를 사용하는 기기가 이미 존재합니다."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "장치가 성공적으로 등록되었습니다!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "이 작업을 수행할 권한이 없습니다."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "장치가 원격으로 잠겼습니다."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "장치가 성공적으로 잠금 해제되었습니다."
+
+msgid "Appareil supprimé."
+msgstr "장치가 삭제되었습니다."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "기기와 알림 유형을 선택하세요."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "이 장치는 귀하의 것이 아닙니다."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "경고가 성공적으로 보고되었습니다. 장치가 보안되었습니다."
+
+msgid "Alerte marquée comme résolue."
+msgstr "해결된 것으로 표시된 경고입니다."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "이름, 성, 이메일이 필수입니다."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "이 이메일은 이미 다른 계정에서 사용 중입니다."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "프로필이 업데이트되었습니다!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "관리자용으로 예약된 액세스입니다."
+
+msgid "Erreur marquée comme résolue."
+msgstr "오류가 해결된 것으로 표시되었습니다."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "자신의 계정은 삭제할 수 없습니다."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "사용자가 삭제되었습니다."
+
+msgid "Administration"
+msgstr "관리"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "도난 방지 시스템의 중앙 집중식 관리"
+
+msgid "Utilisateurs"
+msgstr "사용자"
+
+msgid "Actifs aujourd'hui"
+msgstr "오늘 활동 중"
+
+msgid "Nouveaux ce mois"
+msgstr "이번 달 새로운"
+
+msgid "Appareils"
+msgstr "장치"
+
+msgid "Alertes actives"
+msgstr "활성 경고"
+
+msgid "Analytique"
+msgstr "분석적"
+
+msgid "Journal d'activité"
+msgstr "활동 로그"
+
+msgid "Erreurs"
+msgstr "오류"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "연결(지난 7일)"
+
+msgid "Alertes par type"
+msgstr "유형별 알림"
+
+msgid "Appareils par opérateur"
+msgstr "통신사별 기기"
+
+msgid "Résumé du système"
+msgstr "시스템 요약"
+
+msgid "Utilisateurs total"
+msgstr "총 사용자"
+
+msgid "Appareils enregistrés"
+msgstr "등록된 기기"
+
+msgid "Total alertes"
+msgstr "총 알림"
+
+msgid "Alertes en cours"
+msgstr "현재 알림"
+
+msgid "Erreurs non résolues"
+msgstr "해결되지 않은 오류"
+
+msgid "Dernières activités"
+msgstr "최신 활동"
+
+msgid "récentes"
+msgstr "최근의"
+
+msgid "Utilisateur"
+msgstr "사용자"
+
+msgid "Action"
+msgstr "행동"
+
+msgid "Détails"
+msgstr "세부"
+
+msgid "Adresse IP"
+msgstr "IP 주소"
+
+msgid "Navigateur"
+msgstr "브라우저"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Aucune activité"
+msgstr "활동 없음"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "사용자 활동이 여기에 표시됩니다."
+
+msgid "Journal d'erreurs"
+msgstr "오류 로그"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "모든 오류를 수정하시겠습니까?"
+
+msgid "Tout résoudre"
+msgstr "모든 것을 해결하세요"
+
+msgid "non résolues"
+msgstr "해결되지 않은"
+
+msgid "Tout est résolu"
+msgstr "모든 것이 해결되었습니다."
+
+msgid "Type"
+msgstr "친절한"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Statut"
+msgstr "상태"
+
+msgid "Résolu"
+msgstr "해결됨"
+
+msgid "Non résolu"
+msgstr "해결되지 않은"
+
+msgid "Aucune erreur enregistrée"
+msgstr "기록된 오류 없음"
+
+msgid "Le système fonctionne correctement."
+msgstr "시스템이 제대로 작동하고 있습니다."
+
+msgid "Gestion des utilisateurs"
+msgstr "사용자 관리"
+
+msgid "comptes"
+msgstr "계정"
+
+msgid "Email"
+msgstr "이메일"
+
+msgid "Téléphone"
+msgstr "핸드폰"
+
+msgid "Rôle"
+msgstr "역할"
+
+msgid "Inscrit le"
+msgstr "등록 날짜"
+
+msgid "Actions"
+msgstr "행위"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "이 사용자와 해당 사용자의 모든 기기를 삭제하시겠습니까?"
+
+msgid "Vous"
+msgstr "너"
+
+msgid "Connexions"
+msgstr "사이"
+
+msgid "Vol"
+msgstr "비행"
+
+msgid "Perte"
+msgstr "손실"
+
+msgid "Anomalie"
+msgstr "변칙"
+
+msgid "Alertes"
+msgstr "경고"
+
+msgid "Gestion des alertes"
+msgstr "경고 관리"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "도난 또는 분실 신고 및 이력 추적"
+
+msgid "Signaler un vol / perte"
+msgstr "도난/분실 신고"
+
+msgid "En cours"
+msgstr "진행 중"
+
+msgid "Résolues"
+msgstr "해결됨"
+
+msgid "Historique des alertes"
+msgstr "경고 기록"
+
+msgid "Appareil"
+msgstr "장치"
+
+msgid "Priorité"
+msgstr "우선 사항"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "이 경고를 해결된 것으로 표시하시겠습니까?"
+
+msgid "Résoudre"
+msgstr "해결하다"
+
+msgid "Aucune alerte"
+msgstr "알림 없음"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "좋은 소식! 보고된 경고가 없습니다."
+
+msgid "Signaler un vol ou une perte"
+msgstr "도난 또는 분실 신고"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr "도난 신고를 하면 기기가 자동으로 잠기고 알림이 전송됩니다."
+
+msgid "Appareil concerné"
+msgstr "영향을 받는 기기"
+
+msgid "Sélectionner un appareil"
+msgstr "기기 선택"
+
+msgid "Type d'alerte"
+msgstr "경고 유형"
+
+msgid "Décrivez les circonstances..."
+msgstr "상황을 설명하시오..."
+
+msgid "Annuler"
+msgstr "취소"
+
+msgid "Signaler"
+msgstr "보고서"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr "지능형 도난 방지 시스템 — 스마트폰용 보안 플랫폼"
+
+msgid "Système Anti-Vol"
+msgstr "도난방지 시스템"
+
+msgid "PRINCIPAL"
+msgstr "기본"
+
+msgid "Tableau de bord"
+msgstr "계기반"
+
+msgid "SÉCURITÉ"
+msgstr "보안"
+
+msgid "Géolocalisation"
+msgstr "지리적 위치"
+
+msgid "ADMINISTRATION"
+msgstr "관리"
+
+msgid "Déconnexion"
+msgstr "연결 끊기"
+
+msgid "Changer de langue"
+msgstr "언어 변경"
+
+msgid "Rechercher une langue..."
+msgstr "언어를 검색하세요..."
+
+msgid "Profil"
+msgstr "윤곽"
+
+msgid "Changer de thème"
+msgstr "테마 변경"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "장치 보안 개요"
+
+msgid "Ajouter un appareil"
+msgstr "장치 추가"
+
+msgid "Appareils volés"
+msgstr "도난당한 기기"
+
+msgid "Verrouillés à distance"
+msgstr "원격으로 잠김"
+
+msgid "Alertes récentes"
+msgstr "최근 알림"
+
+msgid "Voir tout"
+msgstr "모두 보기"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "경고가 없습니다. 귀하의 장치는 안전합니다!"
+
+msgid "Mes appareils"
+msgstr "내 장치"
+
+msgid "Aucun appareil enregistré"
+msgstr "등록된 기기가 없습니다."
+
+msgid "Ajouter"
+msgstr "추가하다"
+
+msgid "en attente"
+msgstr "보류 중"
+
+msgid "Gestion des appareils"
+msgstr "장치 관리"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "스마트폰 등록 및 관리"
+
+msgid "Opérateur"
+msgstr "연산자"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "이 기기를 원격으로 잠그시겠습니까?"
+
+msgid "Verrouiller"
+msgstr "잠그다"
+
+msgid "Déverrouiller"
+msgstr "터놓다"
+
+msgid "Supprimer cet appareil ?"
+msgstr "이 기기를 삭제하시겠습니까?"
+
+msgid "Supprimer"
+msgstr "삭제"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "첫 번째 스마트폰을 추가하여 보호해 보세요."
+
+msgid "Nouvel appareil"
+msgstr "새 장치"
+
+msgid "Marque"
+msgstr "상표"
+
+msgid "Sélectionner"
+msgstr "선택하다"
+
+msgid "Autre"
+msgstr "다른"
+
+msgid "Modèle"
+msgstr "모델"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "휴대폰에 *#06#을 입력하세요"
+
+msgid "Système d'exploitation"
+msgstr "운영 체제"
+
+msgid "Numéro de téléphone"
+msgstr "전화 번호"
+
+msgid "Enregistrer"
+msgstr "구하다"
+
+msgid "Connexion"
+msgstr "연결"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "스마트폰 보안 시스템"
+
+msgid "Adresse email"
+msgstr "이메일 주소"
+
+msgid "Mot de passe"
+msgstr "비밀번호"
+
+msgid "Se connecter"
+msgstr "로그인"
+
+msgid "Mot de passe oublié ?"
+msgstr "비밀번호를 잊으셨나요?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr "이미 계정이 있나요? 그렇지 않으면 계정 생성을 진행하세요!"
+
+msgid "Créer un compte"
+msgstr "계정 만들기"
+
+msgid "Sécurité maximale"
+msgstr "최대의 보안"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "원격 잠금으로 개인정보를 보호하세요"
+
+msgid "Localisation GPS"
+msgstr "GPS 위치"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "스마트폰의 정확한 위치를 실시간으로 찾아보세요"
+
+msgid "Alertes instantanées"
+msgstr "즉시 알림"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "도난 발생 시 SMS, 이메일, 푸시 알림 수신"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "장치를 찾고 위험 영역을 시각화합니다."
+
+msgid "Aucun appareil"
+msgstr "장치 없음"
+
+msgid "Zones à risque"
+msgstr "위험 지역"
+
+msgid "incidents"
+msgstr "사건"
+
+msgid "Aucune zone signalée"
+msgstr "보고된 지역 없음"
+
+msgid "Niveau"
+msgstr "수준"
+
+msgid "Incidents"
+msgstr "사건"
+
+msgid "Profile utilisateur"
+msgstr "사용자 프로필"
+
+msgid "Gérez vos informations personnelles"
+msgstr "개인정보를 관리하세요"
+
+msgid "Membre depuis"
+msgstr "이후 회원"
+
+msgid "Modifier mes informations"
+msgstr "내 정보 수정"
+
+msgid "Prénom"
+msgstr "이름"
+
+msgid "Nom"
+msgstr "이름"
+
+msgid "Changer le mot de passe"
+msgstr "비밀번호 변경"
+
+msgid "Nouveau mot de passe"
+msgstr "새 비밀번호"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "변경되지 않도록 비워두세요."
+
+msgid "Enregistrer les modifications"
+msgstr "변경사항 저장"
+
+msgid "Inscription"
+msgstr "등록"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "장치 보안 강화를 위한 도난방지에 오신 것을 환영합니다."
+
+msgid "Confirmer"
+msgstr "확인하다"
+
+msgid "Créer mon compte"
+msgstr "내 계정 만들기"
+
+msgid "Déjà un compte ?"
+msgstr "이미 계정이 있나요?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "비밀번호 재설정"
+
+msgid "Réinitialisation"
+msgstr "다시 놓기"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "본인 확인을 위해 이메일과 전화번호를 입력하세요."
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "등록 시 사용된 번호"
+
+msgid "Minimum 6 caractères"
+msgstr "최소 6자"
+
+msgid "Confirmer le mot de passe"
+msgstr "비밀번호 확인"
+
+msgid "Retourner à la"
+msgstr "다음으로 돌아가기"
+
+msgid "page de connexion"
+msgstr "로그인 페이지"
+
+msgid "Vérification sécurisée"
+msgstr "보안 검증"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "귀하의 이메일과 전화번호를 사용하여 귀하의 신원이 확인됩니다"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "최소 6자 이상의 안전한 비밀번호를 선택하세요"
+
+msgid "d"
+msgstr "디"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: 편집에 실패했습니다."
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: 편집 실패: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows 오류: {오류}"
+
+msgid "deprecated"
+msgstr "더 이상 사용되지 않음"
+
+msgid "Options"
+msgstr "옵션"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "예상치 못한 추가 인수가 있습니다({args})."
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "DeprecationWarning: {name!r} 명령은 더 이상 사용되지 않습니다.{extra_message}"
+
+msgid "Aborted!"
+msgstr "중단되었습니다!"
+
+msgid "Commands"
+msgstr "명령"
+
+msgid "Missing command."
+msgstr "명령이 누락되었습니다."
+
+msgid "Value must be an iterable."
+msgstr "값은 반복 가능해야 합니다."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} 값을 취하지만 1이 주어졌습니다."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "DeprecationWarning: {param_type} {name!r}은 더 이상 사용되지 않습니다.{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "'{name}' 이름이 두 번 정의되었습니다."
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "부울 옵션 {decl!r}은 true/false에 대해 동일한 플래그를 사용할 수 없습니다."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "{decls!r} 선언이 포함된 옵션의 이름을 확인할 수 없습니다."
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"정의된 옵션이 없지만 이름({name})이 전달되었습니다. 대신 인수를 선언하려고 했나요? '--{name}'을(를) 전달하려고 "
+"하셨나요?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "환경 변수: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "기본값: {기본값}"
+
+msgid "required"
+msgstr "필수의"
+
+msgid "(dynamic)"
+msgstr "(동적)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "인수는 정확히 하나의 매개변수 선언({length}: {decls})을 사용합니다."
+
+msgid "Do you want to continue?"
+msgstr "계속하시겠습니까?"
+
+msgid "Confirm the action without prompting."
+msgstr "메시지를 표시하지 않고 작업을 확인합니다."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, 버전 %(version)s"
+
+msgid "Show the version and exit."
+msgstr "버전을 표시하고 종료합니다."
+
+msgid "Show this message and exit."
+msgstr "이 메시지를 표시하고 종료하세요."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "{가능성}이라고 말씀하셨나요?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "오류: {메시지}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "도움이 필요하면 '{command} {option}'을 시도해 보세요."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "잘못된 값: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint}에 대한 잘못된 값: {message}"
+
+msgid "Missing argument"
+msgstr "누락된 인수"
+
+msgid "Missing option"
+msgstr "누락된 옵션"
+
+msgid "Missing parameter"
+msgstr "매개변수 누락"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} 누락"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "누락된 매개변수: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "그러한 옵션 {name!r}은 없습니다."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "{name!r} 같은 명령은 없습니다."
+
+msgid "unknown error"
+msgstr "알 수 없는 오류"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "{filename!r} 파일을 열 수 없습니다: {message}"
+
+msgid "Usage:"
+msgstr "사용:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "옵션({option})의 시작 문자가 잘못되었습니다."
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "인수 {name!r}은 {nargs} 값을 사용합니다."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "옵션 {name!r}은 값을 갖지 않습니다."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "옵션 {name!r}에는 인수가 필요합니다."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "4.4 이전 Bash 버전에서는 셸 완성이 지원되지 않습니다."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Bash 버전을 감지할 수 없습니다. 셸 완성이 지원되지 않습니다."
+
+msgid "Repeat for confirmation"
+msgstr "확인을 위해 반복하세요"
+
+msgid "Error: The two entered values do not match."
+msgstr "오류: 입력한 두 값이 일치하지 않습니다."
+
+msgid "Error: invalid input"
+msgstr "오류: 잘못된 입력"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "알 수 없는 색상 {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "계속하려면 아무 키나 누르세요..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "다음 중에서 선택하세요:\\n\\t{선택사항}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r}은(는) {choice}가 아닙니다."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "선택({선택})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r}은(는) {format} 형식과 일치하지 않습니다."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r}은 유효한 {number_type}이 아닙니다."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value}은(는) {range} 범위에 속하지 않습니다."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r}은 유효한 부울이 아닙니다. 인식된 값: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r}은 유효한 UUID가 아닙니다."
+
+msgid "file"
+msgstr "파일"
+
+msgid "directory"
+msgstr "예배 규칙서"
+
+msgid "path"
+msgstr "길"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{이름} {파일 이름!r}이(가) 존재하지 않습니다."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{이름} {파일 이름!r}은 파일입니다."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r}은 디렉토리입니다."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r}을(를) 읽을 수 없습니다."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r}은 쓸 수 없습니다."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r}은(는) 실행 가능하지 않습니다."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} 값이 필수인데, {len_value} 값이 주어졌습니다."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "알 수 없는 표준 스트림 '{name}'"
+
+msgid "This field is required."
+msgstr "이 필드는 필수입니다."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "파일에 승인된 확장자가 없습니다: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "파일에 승인된 확장자가 없습니다."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "파일은 {min_size}~{max_size}바이트 사이여야 합니다."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "필드 이름 '%s'이(가) 잘못되었습니다."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "필드는 %(other_name)s와 동일해야 합니다."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "필드 길이는 %(min)d자 이상이어야 합니다."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "필드는 %(max)d자를 초과할 수 없습니다."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "필드 길이는 정확히 %(max)d자여야 합니다."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "필드 길이는 %(min)d~%(max)d자 사이여야 합니다."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "숫자는 %(min)s 이상이어야 합니다."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "숫자는 최대 %(max)s개여야 합니다."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "숫자는 %(min)s에서 %(max)s 사이여야 합니다."
+
+msgid "Invalid input."
+msgstr "입력이 잘못되었습니다."
+
+msgid "Invalid email address."
+msgstr "이메일 주소가 잘못되었습니다."
+
+msgid "Invalid IP address."
+msgstr "IP 주소가 잘못되었습니다."
+
+msgid "Invalid Mac address."
+msgstr "잘못된 Mac 주소입니다."
+
+msgid "Invalid URL."
+msgstr "URL이 잘못되었습니다."
+
+msgid "Invalid UUID."
+msgstr "UUID가 잘못되었습니다."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "잘못된 값입니다. %(values)s 중 하나여야 합니다."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "잘못된 값입니다. 다음 중 하나일 수 없습니다: %(values)s."
+
+msgid "This field cannot be edited."
+msgstr "이 필드는 편집할 수 없습니다."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "이 필드는 비활성화되어 있으며 값을 가질 수 없습니다."
+
+msgid "Invalid CSRF Token."
+msgstr "CSRF 토큰이 잘못되었습니다."
+
+msgid "CSRF token missing."
+msgstr "CSRF 토큰이 누락되었습니다."
+
+msgid "CSRF failed."
+msgstr "CSRF가 실패했습니다."
+
+msgid "CSRF token expired."
+msgstr "CSRF 토큰이 만료되었습니다."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "잘못된 선택: 강제할 수 없습니다."
+
+msgid "Choices cannot be None."
+msgstr "선택 사항은 None이 될 수 없습니다."
+
+msgid "Not a valid choice."
+msgstr "유효한 선택이 아닙니다."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "잘못된 선택: 하나 이상의 데이터 입력을 강제할 수 없습니다."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s'은(는) 이 필드에 유효한 선택이 아닙니다."
+
+msgid "Not a valid datetime value."
+msgstr "유효한 날짜/시간 값이 아닙니다."
+
+msgid "Not a valid date value."
+msgstr "유효한 날짜 값이 아닙니다."
+
+msgid "Not a valid time value."
+msgstr "유효한 시간 값이 아닙니다."
+
+msgid "Not a valid week value."
+msgstr "유효한 주 값이 아닙니다."
+
+msgid "Not a valid integer value."
+msgstr "유효한 정수 값이 아닙니다."
+
+msgid "Not a valid decimal value."
+msgstr "유효한 십진수 값이 아닙니다."
+
+msgid "Not a valid float value."
+msgstr "유효한 부동 소수점 값이 아닙니다."
+

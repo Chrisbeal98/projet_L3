@@ -1,0 +1,1036 @@
+# Translations for BN.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: bn\n"
+"Language-Team: bn <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "এই পৃষ্ঠা অ্যাক্সেস করতে লগ ইন করুন."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "এই IMEI ইতিমধ্যে সিস্টেমে নিবন্ধিত আছে."
+
+msgid "Accès non autorisé."
+msgstr "অননুমোদিত অ্যাক্সেস।"
+
+msgid "Appareil déverrouillé."
+msgstr "ডিভাইস আনলক করা হয়েছে।"
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "সতর্কতা তৈরি! বিজ্ঞপ্তি পাঠানো হয়েছে।"
+
+msgid "Alerte résolue."
+msgstr "সতর্কতা সমাধান করা হয়েছে।"
+
+msgid "Pas encore de compte ?"
+msgstr "এখনও কোন অ্যাকাউন্ট?"
+
+msgid "Mon Profil"
+msgstr "আমার প্রোফাইল"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "সংযোগ সফল! স্বাগতম।"
+
+msgid "Email ou mot de passe incorrect."
+msgstr "ভুল ইমেল বা পাসওয়ার্ড।"
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "সমস্ত প্রয়োজনীয় ক্ষেত্র সম্পূর্ণ করতে হবে।"
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "পাসওয়ার্ড মেলে না।"
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "পাসওয়ার্ডে কমপক্ষে ৬টি অক্ষর থাকতে হবে।"
+
+msgid "Cet email est déjà utilisé."
+msgstr "এই ইমেলটি ইতিমধ্যেই ব্যবহার করা হচ্ছে৷"
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "অ্যাকাউন্ট সফলভাবে তৈরি করা হয়েছে! লগ ইন করুন।"
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "এই ইমেলের সাথে কোন অ্যাকাউন্ট পাওয়া যায়নি।"
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "ফোন নম্বরটি অ্যাকাউন্ট নম্বরের সাথে মেলে না।"
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "নতুন পাসওয়ার্ড বাধ্যতামূলক।"
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "পাসওয়ার্ড সফলভাবে রিসেট! লগ ইন করুন।"
+
+msgid "Vous avez été déconnecté."
+msgstr "আপনি সংযোগ বিচ্ছিন্ন করা হয়েছে."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "ব্র্যান্ড, মডেল এবং আইএমইআই প্রয়োজন।"
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "এই IMEI সহ একটি ডিভাইস ইতিমধ্যেই বিদ্যমান৷"
+
+msgid "Appareil enregistré avec succès !"
+msgstr "ডিভাইস সফলভাবে নিবন্ধিত হয়েছে!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "আপনি এই ক্রিয়া সম্পাদনের জন্য অনুমোদিত নন৷"
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "ডিভাইসটি দূরবর্তীভাবে সফলভাবে লক করা হয়েছে।"
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "ডিভাইসটি সফলভাবে আনলক করা হয়েছে।"
+
+msgid "Appareil supprimé."
+msgstr "ডিভাইস মুছে ফেলা হয়েছে।"
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "অনুগ্রহ করে একটি ডিভাইস এবং সতর্কতার ধরন নির্বাচন করুন৷"
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "এই ডিভাইসটি আপনার নয়।"
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "সতর্কতা সফলভাবে রিপোর্ট করা হয়েছে। ডিভাইসটি সুরক্ষিত করা হয়েছে।"
+
+msgid "Alerte marquée comme résolue."
+msgstr "সতর্কতা সমাধান করা হয়েছে হিসাবে চিহ্নিত করা হয়েছে৷"
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "প্রথম নাম, পদবী এবং ইমেল প্রয়োজন."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "এই ইমেলটি ইতিমধ্যেই অন্য অ্যাকাউন্ট দ্বারা ব্যবহৃত হয়েছে৷"
+
+msgid "Profil mis à jour avec succès !"
+msgstr "প্রোফাইল সফলভাবে আপডেট হয়েছে!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "প্রবেশাধিকার প্রশাসকদের জন্য সংরক্ষিত."
+
+msgid "Erreur marquée comme résolue."
+msgstr "সমস্যা সমাধান হয়েছে হিসাবে চিহ্নিত করা হয়েছে৷"
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "আপনি আপনার নিজের অ্যাকাউন্ট মুছে ফেলতে পারবেন না."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "ব্যবহারকারী সফলভাবে মুছে ফেলা হয়েছে."
+
+msgid "Administration"
+msgstr "প্রশাসন"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "এন্টি-থেফট সিস্টেমের কেন্দ্রীভূত ব্যবস্থাপনা"
+
+msgid "Utilisateurs"
+msgstr "ব্যবহারকারীদের"
+
+msgid "Actifs aujourd'hui"
+msgstr "আজ সক্রিয়"
+
+msgid "Nouveaux ce mois"
+msgstr "এই মাসে নতুন"
+
+msgid "Appareils"
+msgstr "ডিভাইস"
+
+msgid "Alertes actives"
+msgstr "সক্রিয় সতর্কতা"
+
+msgid "Analytique"
+msgstr "বিশ্লেষণাত্মক"
+
+msgid "Journal d'activité"
+msgstr "কার্যকলাপ লগ"
+
+msgid "Erreurs"
+msgstr "ত্রুটি"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "সংযোগ (গত 7 দিন)"
+
+msgid "Alertes par type"
+msgstr "প্রকার অনুসারে সতর্কতা"
+
+msgid "Appareils par opérateur"
+msgstr "অপারেটর দ্বারা ডিভাইস"
+
+msgid "Résumé du système"
+msgstr "সিস্টেম সারাংশ"
+
+msgid "Utilisateurs total"
+msgstr "মোট ব্যবহারকারী"
+
+msgid "Appareils enregistrés"
+msgstr "নিবন্ধিত ডিভাইস"
+
+msgid "Total alertes"
+msgstr "মোট সতর্কতা"
+
+msgid "Alertes en cours"
+msgstr "বর্তমান সতর্কতা"
+
+msgid "Erreurs non résolues"
+msgstr "অমীমাংসিত ত্রুটি"
+
+msgid "Dernières activités"
+msgstr "সর্বশেষ কার্যক্রম"
+
+msgid "récentes"
+msgstr "সাম্প্রতিক"
+
+msgid "Utilisateur"
+msgstr "ব্যবহারকারী"
+
+msgid "Action"
+msgstr "অ্যাকশন"
+
+msgid "Détails"
+msgstr "বিস্তারিত"
+
+msgid "Adresse IP"
+msgstr "আইপি ঠিকানা"
+
+msgid "Navigateur"
+msgstr "ব্রাউজার"
+
+msgid "Date"
+msgstr "তারিখ"
+
+msgid "Aucune activité"
+msgstr "কোনো কার্যকলাপ নেই"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "ব্যবহারকারী কার্যকলাপ এখানে প্রদর্শিত হবে."
+
+msgid "Journal d'erreurs"
+msgstr "ত্রুটি লগ"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "সব ত্রুটি ঠিক করবেন?"
+
+msgid "Tout résoudre"
+msgstr "সবকিছু সমাধান করুন"
+
+msgid "non résolues"
+msgstr "অমীমাংসিত"
+
+msgid "Tout est résolu"
+msgstr "সবকিছু সমাধান করা হয়"
+
+msgid "Type"
+msgstr "সদয়"
+
+msgid "Description"
+msgstr "বর্ণনা"
+
+msgid "Statut"
+msgstr "স্ট্যাটাস"
+
+msgid "Résolu"
+msgstr "সমাধান করা হয়েছে"
+
+msgid "Non résolu"
+msgstr "অমীমাংসিত"
+
+msgid "Aucune erreur enregistrée"
+msgstr "কোন ত্রুটি রেকর্ড করা"
+
+msgid "Le système fonctionne correctement."
+msgstr "সিস্টেম সঠিকভাবে কাজ করছে."
+
+msgid "Gestion des utilisateurs"
+msgstr "ব্যবহারকারী ব্যবস্থাপনা"
+
+msgid "comptes"
+msgstr "হিসাব"
+
+msgid "Email"
+msgstr "ই-মেইল"
+
+msgid "Téléphone"
+msgstr "ফোন"
+
+msgid "Rôle"
+msgstr "ভূমিকা"
+
+msgid "Inscrit le"
+msgstr "নিবন্ধিত"
+
+msgid "Actions"
+msgstr "কর্ম"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "এই ব্যবহারকারী এবং তাদের সমস্ত ডিভাইস মুছবেন?"
+
+msgid "Vous"
+msgstr "আপনি"
+
+msgid "Connexions"
+msgstr "সংযোগ"
+
+msgid "Vol"
+msgstr "ফ্লাইট"
+
+msgid "Perte"
+msgstr "ক্ষতি"
+
+msgid "Anomalie"
+msgstr "অসঙ্গতি"
+
+msgid "Alertes"
+msgstr "সতর্কতা"
+
+msgid "Gestion des alertes"
+msgstr "সতর্কতা ব্যবস্থাপনা"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr "চুরি বা ক্ষতির রিপোর্ট করুন এবং ইতিহাস ট্র্যাক করুন"
+
+msgid "Signaler un vol / perte"
+msgstr "চুরি/ক্ষতি রিপোর্ট করুন"
+
+msgid "En cours"
+msgstr "চলছে"
+
+msgid "Résolues"
+msgstr "সমাধান করা হয়েছে"
+
+msgid "Historique des alertes"
+msgstr "সতর্কতার ইতিহাস"
+
+msgid "Appareil"
+msgstr "ডিভাইস"
+
+msgid "Priorité"
+msgstr "অগ্রাধিকার"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "এই সতর্কতাটিকে সমাধান করা হয়েছে বলে চিহ্নিত করবেন?"
+
+msgid "Résoudre"
+msgstr "সমাধান করুন"
+
+msgid "Aucune alerte"
+msgstr "কোনো সতর্কতা নেই"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "সুখবর! কোন সতর্কতা রিপোর্ট করা হয়নি."
+
+msgid "Signaler un vol ou une perte"
+msgstr "চুরি বা ক্ষতি রিপোর্ট করুন"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"চুরির রিপোর্ট করলে, আপনার ডিভাইস স্বয়ংক্রিয়ভাবে লক হয়ে যাবে এবং "
+"বিজ্ঞপ্তি পাঠানো হবে।"
+
+msgid "Appareil concerné"
+msgstr "প্রভাবিত ডিভাইস"
+
+msgid "Sélectionner un appareil"
+msgstr "একটি ডিভাইস নির্বাচন করুন"
+
+msgid "Type d'alerte"
+msgstr "সতর্কতার ধরন"
+
+msgid "Décrivez les circonstances..."
+msgstr "পরিস্থিতি বর্ণনা করুন..."
+
+msgid "Annuler"
+msgstr "বাতিল করুন"
+
+msgid "Signaler"
+msgstr "রিপোর্ট"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"ইন্টেলিজেন্ট অ্যান্টি-থেফট সিস্টেম — স্মার্টফোনের জন্য নিরাপত্তা "
+"প্ল্যাটফর্ম"
+
+msgid "Système Anti-Vol"
+msgstr "এন্টি-চুরি সিস্টেম"
+
+msgid "PRINCIPAL"
+msgstr "প্রধান"
+
+msgid "Tableau de bord"
+msgstr "ড্যাশবোর্ড"
+
+msgid "SÉCURITÉ"
+msgstr "নিরাপত্তা"
+
+msgid "Géolocalisation"
+msgstr "ভূ-অবস্থান"
+
+msgid "ADMINISTRATION"
+msgstr "প্রশাসন"
+
+msgid "Déconnexion"
+msgstr "সংযোগ বিচ্ছিন্ন করুন"
+
+msgid "Changer de langue"
+msgstr "ভাষা পরিবর্তন করুন"
+
+msgid "Rechercher une langue..."
+msgstr "একটি ভাষা খুঁজুন..."
+
+msgid "Profil"
+msgstr "প্রোফাইল"
+
+msgid "Changer de thème"
+msgstr "থিম পরিবর্তন করুন"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "আপনার ডিভাইস নিরাপত্তা ওভারভিউ"
+
+msgid "Ajouter un appareil"
+msgstr "একটি ডিভাইস যোগ করুন"
+
+msgid "Appareils volés"
+msgstr "চুরি করা ডিভাইস"
+
+msgid "Verrouillés à distance"
+msgstr "দূর থেকে তালাবদ্ধ"
+
+msgid "Alertes récentes"
+msgstr "সাম্প্রতিক সতর্কতা"
+
+msgid "Voir tout"
+msgstr "সব দেখুন"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "কোনো সতর্কতা নেই। আপনার ডিভাইস নিরাপদ!"
+
+msgid "Mes appareils"
+msgstr "আমার ডিভাইস"
+
+msgid "Aucun appareil enregistré"
+msgstr "কোন ডিভাইস নিবন্ধিত"
+
+msgid "Ajouter"
+msgstr "যোগ করুন"
+
+msgid "en attente"
+msgstr "হোল্ডে"
+
+msgid "Gestion des appareils"
+msgstr "ডিভাইস ব্যবস্থাপনা"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "নিবন্ধন করুন এবং আপনার স্মার্টফোন পরিচালনা করুন"
+
+msgid "Opérateur"
+msgstr "অপারেটর"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "এই ডিভাইসটি দূর থেকে লক করবেন?"
+
+msgid "Verrouiller"
+msgstr "তালা"
+
+msgid "Déverrouiller"
+msgstr "আনলক"
+
+msgid "Supprimer cet appareil ?"
+msgstr "এই ডিভাইসটি মুছবেন?"
+
+msgid "Supprimer"
+msgstr "মুছুন"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "এটি সুরক্ষিত করতে আপনার প্রথম স্মার্টফোন যোগ করুন।"
+
+msgid "Nouvel appareil"
+msgstr "নতুন ডিভাইস"
+
+msgid "Marque"
+msgstr "ব্র্যান্ড"
+
+msgid "Sélectionner"
+msgstr "নির্বাচন করুন"
+
+msgid "Autre"
+msgstr "অন্যান্য"
+
+msgid "Modèle"
+msgstr "মডেল"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "আপনার ফোনে *#06# টাইপ করুন"
+
+msgid "Système d'exploitation"
+msgstr "অপারেটিং সিস্টেম"
+
+msgid "Numéro de téléphone"
+msgstr "ফোন নম্বর"
+
+msgid "Enregistrer"
+msgstr "সংরক্ষণ করুন"
+
+msgid "Connexion"
+msgstr "সংযোগ"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "স্মার্টফোনের নিরাপত্তা ব্যবস্থা"
+
+msgid "Adresse email"
+msgstr "ই-মেইল ঠিকানা"
+
+msgid "Mot de passe"
+msgstr "পাসওয়ার্ড"
+
+msgid "Se connecter"
+msgstr "লগ ইন করুন"
+
+msgid "Mot de passe oublié ?"
+msgstr "পাসওয়ার্ড ভুলে গেছেন?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"আপনি ইতিমধ্যে একটি অ্যাকাউন্ট আছে? অন্যথায়, আপনার অ্যাকাউন্ট তৈরি করতে "
+"এগিয়ে যান!"
+
+msgid "Créer un compte"
+msgstr "একটি অ্যাকাউন্ট তৈরি করুন"
+
+msgid "Sécurité maximale"
+msgstr "সর্বোচ্চ নিরাপত্তা"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "দূরবর্তী লকিং দিয়ে আপনার ব্যক্তিগত ডেটা সুরক্ষিত করুন"
+
+msgid "Localisation GPS"
+msgstr "জিপিএস অবস্থান"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "রিয়েল টাইমে আপনার স্মার্টফোনের সঠিক অবস্থান খুঁজুন"
+
+msgid "Alertes instantanées"
+msgstr "তাত্ক্ষণিক সতর্কতা"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr "চুরির ঘটনায় এসএমএস, ইমেল এবং পুশ বিজ্ঞপ্তি পান"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "আপনার ডিভাইস সনাক্ত করুন এবং ঝুঁকি এলাকা কল্পনা করুন"
+
+msgid "Aucun appareil"
+msgstr "কোনো যন্ত্র নেই"
+
+msgid "Zones à risque"
+msgstr "ঝুঁকিপূর্ণ এলাকা"
+
+msgid "incidents"
+msgstr "ঘটনা"
+
+msgid "Aucune zone signalée"
+msgstr "কোন এলাকায় রিপোর্ট করা হয়নি"
+
+msgid "Niveau"
+msgstr "স্তর"
+
+msgid "Incidents"
+msgstr "ঘটনা"
+
+msgid "Profile utilisateur"
+msgstr "ব্যবহারকারীর প্রোফাইল"
+
+msgid "Gérez vos informations personnelles"
+msgstr "আপনার ব্যক্তিগত তথ্য পরিচালনা করুন"
+
+msgid "Membre depuis"
+msgstr "থেকে সদস্য"
+
+msgid "Modifier mes informations"
+msgstr "আমার তথ্য সম্পাদনা করুন"
+
+msgid "Prénom"
+msgstr "প্রথম নাম"
+
+msgid "Nom"
+msgstr "নাম"
+
+msgid "Changer le mot de passe"
+msgstr "পাসওয়ার্ড পরিবর্তন করুন"
+
+msgid "Nouveau mot de passe"
+msgstr "নতুন পাসওয়ার্ড"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "ফাঁকা রাখুন যাতে পরিবর্তন না হয়"
+
+msgid "Enregistrer les modifications"
+msgstr "পরিবর্তনগুলি সংরক্ষণ করুন"
+
+msgid "Inscription"
+msgstr "নিবন্ধন"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr "আপনার ডিভাইসের আরও ভালো নিরাপত্তার জন্য অ্যান্টি-থেফট-এ স্বাগতম"
+
+msgid "Confirmer"
+msgstr "নিশ্চিত করুন"
+
+msgid "Créer mon compte"
+msgstr "আমার অ্যাকাউন্ট তৈরি করুন"
+
+msgid "Déjà un compte ?"
+msgstr "ইতিমধ্যে একটি অ্যাকাউন্ট আছে?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "পাসওয়ার্ড রিসেট করুন"
+
+msgid "Réinitialisation"
+msgstr "রিসেট করুন"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr "আপনার পরিচয় যাচাই করতে আপনার ইমেল এবং ফোন নম্বর লিখুন"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "নিবন্ধনের সময় ব্যবহৃত নম্বর"
+
+msgid "Minimum 6 caractères"
+msgstr "সর্বনিম্ন 6 অক্ষর"
+
+msgid "Confirmer le mot de passe"
+msgstr "পাসওয়ার্ড নিশ্চিত করুন"
+
+msgid "Retourner à la"
+msgstr "এ ফিরে যান"
+
+msgid "page de connexion"
+msgstr "লগইন পৃষ্ঠা"
+
+msgid "Vérification sécurisée"
+msgstr "নিরাপদ যাচাইকরণ"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr "আপনার ইমেল এবং ফোন নম্বর ব্যবহার করে আপনার পরিচয় যাচাই করা হয়"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "কমপক্ষে 6 অক্ষরের একটি নিরাপদ পাসওয়ার্ড চয়ন করুন"
+
+msgid "d"
+msgstr "%d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: সম্পাদনা ব্যর্থ হয়েছে৷"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: সম্পাদনা ব্যর্থ হয়েছে: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "উইন্ডোজ ত্রুটি: {error}"
+
+msgid "deprecated"
+msgstr "অবমূল্যায়ন"
+
+msgid "Options"
+msgstr "অপশন"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "অপ্রত্যাশিত অতিরিক্ত যুক্তি পেয়েছি ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr "অবচয় সতর্কতা: কমান্ড {name!r} অবচয় করা হয়েছে।{extra_message}"
+
+msgid "Aborted!"
+msgstr "বাতিল করা হয়েছে!"
+
+msgid "Commands"
+msgstr "কমান্ড"
+
+msgid "Missing command."
+msgstr "অনুপস্থিত কমান্ড."
+
+msgid "Value must be an iterable."
+msgstr "মান একটি পুনরাবৃত্তিযোগ্য হতে হবে."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "{nargs} মান নেয় কিন্তু 1 দেওয়া হয়েছিল।"
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr "অবচয় সতর্কতা: {param_type} {name!r} অবচয় করা হয়েছে।{extra_message}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "নাম '{name}' দুবার সংজ্ঞায়িত করা হয়েছে"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr "বুলিয়ান বিকল্প {decl!r} সত্য/মিথ্যার জন্য একই পতাকা ব্যবহার করতে পারে না।"
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr "ঘোষণার সাথে বিকল্পের নাম নির্ধারণ করা যায়নি {decls!r}"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"কোন বিকল্প সংজ্ঞায়িত করা হয়নি কিন্তু একটি নাম পাস করা হয়েছে ({name})। "
+"আপনি পরিবর্তে একটি যুক্তি ঘোষণা করতে চান? আপনি কি '--{name}' পাস করতে "
+"চান?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "var env: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "ডিফল্ট: {default}"
+
+msgid "required"
+msgstr "প্রয়োজনীয়"
+
+msgid "(dynamic)"
+msgstr "(গতিশীল)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr "আর্গুমেন্ট ঠিক একটি প্যারামিটার ঘোষণা নেয়, {দৈর্ঘ্য} পেয়েছে: {decls}।"
+
+msgid "Do you want to continue?"
+msgstr "আপনি কি চালিয়ে যেতে চান?"
+
+msgid "Confirm the action without prompting."
+msgstr "প্রম্পট না করে কর্ম নিশ্চিত করুন।"
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, সংস্করণ %(version)s"
+
+msgid "Show the version and exit."
+msgstr "সংস্করণটি দেখান এবং প্রস্থান করুন।"
+
+msgid "Show this message and exit."
+msgstr "এই বার্তাটি দেখান এবং প্রস্থান করুন।"
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "আপনি কি {সম্ভাবনা} বোঝাতে চেয়েছেন?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "ত্রুটি: {message}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "সাহায্যের জন্য '{command} {option}' ব্যবহার করে দেখুন।"
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "অবৈধ মান: {message}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint} এর জন্য অবৈধ মান: {message}"
+
+msgid "Missing argument"
+msgstr "অনুপস্থিত যুক্তি"
+
+msgid "Missing option"
+msgstr "অনুপস্থিত বিকল্প"
+
+msgid "Missing parameter"
+msgstr "অনুপস্থিত প্যারামিটার"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "অনুপস্থিত {param_type}"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "অনুপস্থিত প্যারামিটার: {param_name}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "এরকম কোনো বিকল্প নেই {name!r}৷"
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "এরকম কোন আদেশ নেই {name!r}৷"
+
+msgid "unknown error"
+msgstr "অজানা ত্রুটি"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "{filename!r} ফাইল খোলা যায়নি: {message}"
+
+msgid "Usage:"
+msgstr "ব্যবহার করুন:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "বিকল্পের জন্য অবৈধ স্টার্ট অক্ষর ({option})"
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "আর্গুমেন্ট {name!r} {nargs} মান নেয়।"
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "বিকল্প {name!r} একটি মান নেয় না।"
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "বিকল্প {name!r}-এর জন্য একটি যুক্তি প্রয়োজন৷"
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "4.4-এর চেয়ে পুরানো ব্যাশ সংস্করণগুলির জন্য শেল সমাপ্তি সমর্থিত নয়।"
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "ব্যাশ সংস্করণ সনাক্ত করা যায়নি, শেল সমাপ্তি সমর্থিত নয়।"
+
+msgid "Repeat for confirmation"
+msgstr "নিশ্চিতকরণের জন্য পুনরাবৃত্তি করুন"
+
+msgid "Error: The two entered values do not match."
+msgstr "ত্রুটি: প্রবেশ করা দুটি মান মেলে না।"
+
+msgid "Error: invalid input"
+msgstr "ত্রুটি: অবৈধ ইনপুট"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "অজানা রঙ {color!r}"
+
+msgid "Press any key to continue..."
+msgstr "চালিয়ে যেতে যেকোনো কী টিপুন..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "থেকে বেছে নিন:\\n\\t{choices}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{value!r} {choice} নয়৷"
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "পছন্দ({choices})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{value!r} বিন্যাস {format} এর সাথে মেলে না।"
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r} একটি বৈধ {number_type} নয়৷"
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value} রেঞ্জ {range} এর মধ্যে নেই৷"
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr "{value!r} একটি বৈধ বুলিয়ান নয়৷ স্বীকৃত মান: {states}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r} একটি বৈধ UUID নয়।"
+
+msgid "file"
+msgstr "ফাইল"
+
+msgid "directory"
+msgstr "ডিরেক্টরি"
+
+msgid "path"
+msgstr "পথ"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{name} {filename!r} বিদ্যমান নেই৷"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{name} {filename!r} একটি ফাইল।"
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{name} {filename!r} একটি ডিরেক্টরি।"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{name} {filename!r} পঠনযোগ্য নয়৷"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{name} {filename!r} লেখার যোগ্য নয়৷"
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{name} {filename!r} এক্সিকিউটেবল নয়৷"
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr "{len_type} মান প্রয়োজন, কিন্তু {len_value} দেওয়া হয়েছে৷"
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "অজানা স্ট্যান্ডার্ড স্ট্রীম '{name}'"
+
+msgid "This field is required."
+msgstr "এই ক্ষেত্রটি প্রয়োজন।"
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "ফাইলের একটি অনুমোদিত এক্সটেনশন নেই: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "ফাইলের একটি অনুমোদিত এক্সটেনশন নেই।"
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "ফাইলটি অবশ্যই {min_size} এবং {max_size} বাইটের মধ্যে হতে হবে।"
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "অবৈধ ক্ষেত্রের নাম '%s'।"
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "ক্ষেত্র অবশ্যই %(other_name)s এর সমান হতে হবে।"
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "ক্ষেত্রটি অবশ্যই কমপক্ষে %(মিনিট)d অক্ষর দীর্ঘ হতে হবে৷"
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "ক্ষেত্রটি %(সর্বোচ্চ)d অক্ষরের বেশি হতে পারে না।"
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "ক্ষেত্রটি অবশ্যই %(সর্বোচ্চ)d অক্ষর দীর্ঘ হতে হবে।"
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "ক্ষেত্রটি অবশ্যই %(মিনিট)d এবং %(সর্বোচ্চ)d অক্ষরের মধ্যে হতে হবে৷"
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "সংখ্যা কমপক্ষে %(মিনিট) হতে হবে।"
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "সংখ্যা অবশ্যই সর্বাধিক %(সর্বোচ্চ) হতে হবে।"
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "সংখ্যা অবশ্যই %(মিনিট) এবং %(সর্বোচ্চ) এর মধ্যে হতে হবে।"
+
+msgid "Invalid input."
+msgstr "অবৈধ ইনপুট"
+
+msgid "Invalid email address."
+msgstr "অবৈধ ইমেল ঠিকানা."
+
+msgid "Invalid IP address."
+msgstr "অবৈধ IP ঠিকানা।"
+
+msgid "Invalid Mac address."
+msgstr "অবৈধ ম্যাক ঠিকানা।"
+
+msgid "Invalid URL."
+msgstr "অবৈধ URL"
+
+msgid "Invalid UUID."
+msgstr "অবৈধ UUID।"
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "অবৈধ মান, একটি হতে হবে: %(মান)s৷"
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "অবৈধ মান, কোনটি হতে পারে না: %(মান)গুলি৷"
+
+msgid "This field cannot be edited."
+msgstr "এই ক্ষেত্র সম্পাদনা করা যাবে না."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "এই ক্ষেত্রটি নিষ্ক্রিয় এবং একটি মান থাকতে পারে না৷"
+
+msgid "Invalid CSRF Token."
+msgstr "অবৈধ CSRF টোকেন।"
+
+msgid "CSRF token missing."
+msgstr "CSRF টোকেন অনুপস্থিত।"
+
+msgid "CSRF failed."
+msgstr "CSRF ব্যর্থ হয়েছে।"
+
+msgid "CSRF token expired."
+msgstr "CSRF টোকেনের মেয়াদ শেষ হয়ে গেছে।"
+
+msgid "Invalid Choice: could not coerce."
+msgstr "অবৈধ পছন্দ: জোর করা যায়নি।"
+
+msgid "Choices cannot be None."
+msgstr "পছন্দ কোনটি হতে পারে না।"
+
+msgid "Not a valid choice."
+msgstr "একটি বৈধ পছন্দ নয়."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr "অবৈধ পছন্দ(গুলি): এক বা একাধিক ডেটা ইনপুট জোর করা যাবে না৷"
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(value)s' এই ক্ষেত্রের জন্য একটি বৈধ পছন্দ নয়।"
+
+msgid "Not a valid datetime value."
+msgstr "একটি বৈধ তারিখ সময় মান নয়।"
+
+msgid "Not a valid date value."
+msgstr "একটি বৈধ তারিখ মান নয়।"
+
+msgid "Not a valid time value."
+msgstr "একটি বৈধ সময়ের মান নয়।"
+
+msgid "Not a valid week value."
+msgstr "একটি বৈধ সপ্তাহ মান নয়।"
+
+msgid "Not a valid integer value."
+msgstr "একটি বৈধ পূর্ণসংখ্যা মান নয়।"
+
+msgid "Not a valid decimal value."
+msgstr "একটি বৈধ দশমিক মান নয়।"
+
+msgid "Not a valid float value."
+msgstr "একটি বৈধ ফ্লোট মান নয়।"
+

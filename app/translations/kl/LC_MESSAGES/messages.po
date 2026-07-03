@@ -1,0 +1,1066 @@
+# Translations for KL.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-29 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: kl\n"
+"Language-Team: kl <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Veuillez vous connecter pour accéder à cette page."
+msgstr "Qupperneq una iserukku iserit."
+
+msgid "Cet IMEI est déjà enregistré dans le système."
+msgstr "IMEI taanna systemimi nalunaarsorneqareersimavoq."
+
+msgid "Accès non autorisé."
+msgstr "Akuersissummik pissarsisinnaaneq."
+
+msgid "Appareil déverrouillé."
+msgstr "Atortoq ammarneqarpoq."
+
+msgid "Alerte créée ! Notifications envoyées."
+msgstr "Alert pilersinneqarpoq! Nalunaarutit nassiunneqarput."
+
+msgid "Alerte résolue."
+msgstr "Alert aaqqinneqarpoq."
+
+msgid "Pas encore de compte ?"
+msgstr "Suli kontoqanngilaq?"
+
+msgid "Mon Profil"
+msgstr "Uanga Profili"
+
+msgid "Connexion réussie ! Bienvenue."
+msgstr "Attaveqarneq iluatsippoq! Tikilluarit."
+
+msgid "Email ou mot de passe incorrect."
+msgstr "Email imaluunniit isissummik eqqunngitsumik."
+
+msgid "Tous les champs obligatoires doivent être remplis."
+msgstr "Piumasaqaatit tamarmik naammassineqarsimassapput."
+
+msgid "Les mots de passe ne correspondent pas."
+msgstr "Isissutissat naleqqutinngillat."
+
+msgid "Le mot de passe doit contenir au moins 6 caractères."
+msgstr "Isissutissaq minnerpaamik 6-inik allassimasoqartariaqarpoq."
+
+msgid "Cet email est déjà utilisé."
+msgstr "Email una atorneqalereerpoq."
+
+msgid "Compte créé avec succès ! Connectez-vous."
+msgstr "Konto iluatsilluartumik pilersinneqarpoq! Isigit."
+
+msgid "Aucun compte trouvé avec cet email."
+msgstr "Email-imik una atorlugu kontonik nassaartoqanngilaq."
+
+msgid "Le numéro de téléphone ne correspond pas à celui du compte."
+msgstr "Oqarasuaatip normua kontop normuanut naleqqutinngilaq."
+
+msgid "Le nouveau mot de passe est obligatoire."
+msgstr "Isissutissaq nutaaq pinngitsoorani atuuppoq."
+
+msgid "Mot de passe réinitialisé avec succès ! Connectez-vous."
+msgstr "Isissummik nutarterineq iluatsippoq! Isigit."
+
+msgid "Vous avez été déconnecté."
+msgstr "Illit attaveqarfigineqarsimavutit."
+
+msgid "La marque, le modèle et l'IMEI sont obligatoires."
+msgstr "Brand, model aamma IMEI pisariaqartinneqarput."
+
+msgid "Un appareil avec cet IMEI existe déjà."
+msgstr "Atortoq IMEI-mik taanna atorlugu pioreersimavoq."
+
+msgid "Appareil enregistré avec succès !"
+msgstr "Atortoq iluatsilluartumik nalunaarsorneqarpoq!"
+
+msgid "Vous n'êtes pas autorisé à effectuer cette action."
+msgstr "Taamatut suliaqarnissamut pisinnaatitaanngilatit."
+
+msgid "Appareil verrouillé à distance avec succès."
+msgstr "Atortoq fjernkontrollerneqarpoq iluatsilluartumik."
+
+msgid "Appareil déverrouillé avec succès."
+msgstr "Atortoq iluatsilluartumik ammarneqarpoq."
+
+msgid "Appareil supprimé."
+msgstr "Atortoq piiarneqarpoq."
+
+msgid "Veuillez sélectionner un appareil et un type d'alerte."
+msgstr "Atortoq aamma mianersoqqussutip suussusaa toqqaruk."
+
+msgid "Cet appareil ne vous appartient pas."
+msgstr "Atortoq una ilinnut pigineqanngilaq."
+
+msgid "Alerte signalée avec succès. L'appareil a été sécurisé."
+msgstr "Alert nalunaarpoq iluatsilluartumik. Atortoq qulakkeerneqarsimavoq."
+
+msgid "Alerte marquée comme résolue."
+msgstr "Alert aaqqinneqarsimasoq nalunaarsorneqarpoq."
+
+msgid "Le prénom, le nom et l'email sont obligatoires."
+msgstr "Aqqit, kingulliit aamma emailik pisariaqartinneqarput."
+
+msgid "Cet email est déjà utilisé par un autre compte."
+msgstr "Email una kontomit allamit atorneqareerpoq."
+
+msgid "Profil mis à jour avec succès !"
+msgstr "Profili iluatsilluartumik nutarterneqarpoq!"
+
+msgid "Accès réservé aux administrateurs."
+msgstr "Isissutissaq aqutsisunut immikkoortinneqarpoq."
+
+msgid "Erreur marquée comme résolue."
+msgstr "Kukkuneq aaqqinneqarsimasoq nalunaarsorneqarpoq."
+
+msgid "Vous ne pouvez pas supprimer votre propre compte."
+msgstr "Nammineq konto-t piiarsinnaanngilat."
+
+msgid "Utilisateur supprimé avec succès."
+msgstr "Atuisoq iluatsilluartumik piiarneqarpoq."
+
+msgid "Administration"
+msgstr "Aqutsineq"
+
+msgid "Gestion centralisée du système AntiVol"
+msgstr "Tillinniarnermut akiuiniarnermi systemimik centralisereqartumik aqutsineq"
+
+msgid "Utilisateurs"
+msgstr "Atuisut"
+
+msgid "Actifs aujourd'hui"
+msgstr "Ullumikkut aktiiviusoq"
+
+msgid "Nouveaux ce mois"
+msgstr "Qaammat una nutaaq"
+
+msgid "Appareils"
+msgstr "Atortut"
+
+msgid "Alertes actives"
+msgstr "Aktiv-imik mianersoqqussut"
+
+msgid "Analytique"
+msgstr "Analyseq"
+
+msgid "Journal d'activité"
+msgstr "Suliassanik nalunaarsuiffik"
+
+msgid "Erreurs"
+msgstr "Kukkunerit"
+
+msgid "Connexions (7 derniers jours)"
+msgstr "Attaveqaatit (ullut kingulliit 7-it)"
+
+msgid "Alertes par type"
+msgstr "Type malillugu nalunaarutit"
+
+msgid "Appareils par opérateur"
+msgstr "Atortut ingerlatsisoq malillugu"
+
+msgid "Résumé du système"
+msgstr "Systemip nassuiaataa"
+
+msgid "Utilisateurs total"
+msgstr "Atuisut katillugit"
+
+msgid "Appareils enregistrés"
+msgstr "Atortut nalunaarsorneqarsimasut"
+
+msgid "Total alertes"
+msgstr "Katillugit nalunaarutit"
+
+msgid "Alertes en cours"
+msgstr "Ullumikkut nalunaarutit"
+
+msgid "Erreurs non résolues"
+msgstr "Kukkunerit aaqqinneqanngitsut"
+
+msgid "Dernières activités"
+msgstr "Suliassat kingulliit"
+
+msgid "récentes"
+msgstr "kingullertigut"
+
+msgid "Utilisateur"
+msgstr "Atuisoq"
+
+msgid "Action"
+msgstr "Iliuuseq"
+
+msgid "Détails"
+msgstr "Annikitsortaanik paasissutissat"
+
+msgid "Adresse IP"
+msgstr "IP-adressi"
+
+msgid "Navigateur"
+msgstr "Browseri"
+
+msgid "Date"
+msgstr "Ulloq"
+
+msgid "Aucune activité"
+msgstr "Aktivitetiqanngilaq"
+
+msgid "Les activités des utilisateurs apparaîtront ici."
+msgstr "Atuisut suliassaat uani takussaapput."
+
+msgid "Journal d'erreurs"
+msgstr "Kukkunermik nalunaarsuiffik"
+
+msgid "Résoudre toutes les erreurs ?"
+msgstr "Kukkunerit tamarmik aaqqissavatit?"
+
+msgid "Tout résoudre"
+msgstr "Suna tamaat aaqqinniarlugu"
+
+msgid "non résolues"
+msgstr "aaqqinneqanngitsoq"
+
+msgid "Tout est résolu"
+msgstr "Suna tamaat aaqqinneqarpoq"
+
+msgid "Type"
+msgstr "Saamasoq"
+
+msgid "Description"
+msgstr "Nassuiaat"
+
+msgid "Statut"
+msgstr "Inissisimanermik nalunaarut"
+
+msgid "Résolu"
+msgstr "Aalajangiunneqarpoq"
+
+msgid "Non résolu"
+msgstr "Ajornartorsiutaanngitsoq"
+
+msgid "Aucune erreur enregistrée"
+msgstr "Kukkusoqarsimanngilaq"
+
+msgid "Le système fonctionne correctement."
+msgstr "Systemi eqqortumik sulivoq."
+
+msgid "Gestion des utilisateurs"
+msgstr "Atuisunik aqutsineq"
+
+msgid "comptes"
+msgstr "kontonik"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Téléphone"
+msgstr "Oqarasuaat"
+
+msgid "Rôle"
+msgstr "Inissisimaneq"
+
+msgid "Inscrit le"
+msgstr "Nalunaarsorneqarsimavoq ulloq"
+
+msgid "Actions"
+msgstr "Suliassat"
+
+msgid "Supprimer cet utilisateur et tous ses appareils ?"
+msgstr "Atuisoq una aamma atortuisa tamarmik piiarpatit?"
+
+msgid "Vous"
+msgstr "ILLIT"
+
+msgid "Connexions"
+msgstr "Attaveqaatit"
+
+msgid "Vol"
+msgstr "Timmisartuussineq"
+
+msgid "Perte"
+msgstr "Annaasat"
+
+msgid "Anomalie"
+msgstr "Anomali"
+
+msgid "Alertes"
+msgstr "Aarlerisaarineq"
+
+msgid "Gestion des alertes"
+msgstr "Alert-imik aqutsineq"
+
+msgid "Signalez un vol ou une perte et suivez l'historique"
+msgstr ""
+"Tillinneq imaluunniit annaasaqarneq nalunaarutigiuk aamma "
+"oqaluttuassartaq malinnaavigiuk"
+
+msgid "Signaler un vol / perte"
+msgstr "Tillinniarneq/annaasaqarneq nalunaarutigiuk"
+
+msgid "En cours"
+msgstr "Ingerlaqqippoq"
+
+msgid "Résolues"
+msgstr "Aalajangiunneqarpoq"
+
+msgid "Historique des alertes"
+msgstr "Alert Oqaluttuassartaq"
+
+msgid "Appareil"
+msgstr "Eqqarsaatigisaq"
+
+msgid "Priorité"
+msgstr "Pingaartitaq"
+
+msgid "Marquer cette alerte comme résolue ?"
+msgstr "Una mianersoqqussut aaqqinneqarsimasutut nalunaarutigiuk?"
+
+msgid "Résoudre"
+msgstr "Aaqqiissut"
+
+msgid "Aucune alerte"
+msgstr "Alert-eqanngilaq"
+
+msgid "Bonne nouvelle ! Aucune alerte n'a été signalée."
+msgstr "Nutaarsiassatsialak! Aarlerisaarisoqanngilaq."
+
+msgid "Signaler un vol ou une perte"
+msgstr "Tillinniarneq imaluunniit annaasaqarneq nalunaarutigiuk"
+
+msgid ""
+"En signalant un vol, votre appareil sera automatiquement verrouillé et "
+"des notifications seront envoyées."
+msgstr ""
+"Tillinniarnermik nalunaaruteqarnikkut atortoq nammineerluni matuneqassaaq"
+" nalunaarutillu nassiunneqassallutik."
+
+msgid "Appareil concerné"
+msgstr "Atortoq sunniuteqartoq"
+
+msgid "Sélectionner un appareil"
+msgstr "Atortoq toqqaruk"
+
+msgid "Type d'alerte"
+msgstr "Alert type"
+
+msgid "Décrivez les circonstances..."
+msgstr "Pissutsit nassuiarlugit..."
+
+msgid "Annuler"
+msgstr "taamaatippaa"
+
+msgid "Signaler"
+msgstr "Nalunaarut"
+
+msgid "Système Anti-Vol Intelligent — Plateforme de sécurité pour smartphones"
+msgstr ""
+"Tillinniarnermut akiuiniarnermut systemi paasinnittaaseq — Smartphonenut "
+"isumannaallisaanermut platformi"
+
+msgid "Système Anti-Vol"
+msgstr "Tillinniarnermut akiuiniarnermi systemi"
+
+msgid "PRINCIPAL"
+msgstr "PINGAARNEQ"
+
+msgid "Tableau de bord"
+msgstr "Instrumentbordi"
+
+msgid "SÉCURITÉ"
+msgstr "ISUMANNAALLISAANEQ"
+
+msgid "Géolocalisation"
+msgstr "Nunap inissisimaffia"
+
+msgid "ADMINISTRATION"
+msgstr "AQQORTSINNEQ"
+
+msgid "Déconnexion"
+msgstr "Attaveqarneq unitsiguk"
+
+msgid "Changer de langue"
+msgstr "Oqaatsit allanngortikkit"
+
+msgid "Rechercher une langue..."
+msgstr "Oqaatsinik ujarlerneq..."
+
+msgid "Profil"
+msgstr "Atuisuuffik"
+
+msgid "Changer de thème"
+msgstr "Tema allanngortiguk"
+
+msgid "Vue d'ensemble de la sécurité de vos appareils"
+msgstr "Atortup isumannaallisaanera pillugu nassuiaat"
+
+msgid "Ajouter un appareil"
+msgstr "Atortoq ilanngukkit"
+
+msgid "Appareils volés"
+msgstr "Atortut tillitsissimasut"
+
+msgid "Verrouillés à distance"
+msgstr "Fjernkontrollerneqarsimavoq"
+
+msgid "Alertes récentes"
+msgstr "Kingullermik nalunaarutit"
+
+msgid "Voir tout"
+msgstr "Tamaasa takukkit"
+
+msgid "Aucune alerte. Vos appareils sont en sécurité !"
+msgstr "Alert-eqanngilaq. Atortut isumannaatsuupput!"
+
+msgid "Mes appareils"
+msgstr "Atortut uanga"
+
+msgid "Aucun appareil enregistré"
+msgstr "Atortut nalunaarsorneqanngillat"
+
+msgid "Ajouter"
+msgstr "Ikkuppaa"
+
+msgid "en attente"
+msgstr "utaqqivoq"
+
+msgid "Gestion des appareils"
+msgstr "Atortunik aqutsineq"
+
+msgid "Enregistrez et gérez vos smartphones"
+msgstr "Smartphonetit nalunaarutigikkit aqutsillugillu"
+
+msgid "Opérateur"
+msgstr "Ingerlatsisoq"
+
+msgid "Verrouiller cet appareil à distance ?"
+msgstr "Atortoq una fjernkontrollerpat?"
+
+msgid "Verrouiller"
+msgstr "Parnaarpaa"
+
+msgid "Déverrouiller"
+msgstr "Ammaasoq"
+
+msgid "Supprimer cet appareil ?"
+msgstr "Atortoq una piiaruk?"
+
+msgid "Supprimer"
+msgstr "NUNGUTERPAA"
+
+msgid "Ajoutez votre premier smartphone pour commencer à le protéger."
+msgstr "Smartphone-it siulleq ilanngukkit illersorniarlugu aallartissaguit."
+
+msgid "Nouvel appareil"
+msgstr "Atortoq nutaaq"
+
+msgid "Marque"
+msgstr "Meqqi"
+
+msgid "Sélectionner"
+msgstr "Toqqaruk"
+
+msgid "Autre"
+msgstr "Alla"
+
+msgid "Modèle"
+msgstr "Takutitassiaq"
+
+msgid "tapez *#06# sur votre téléphone"
+msgstr "telefonimi *#06# allaguk"
+
+msgid "Système d'exploitation"
+msgstr "Ingerlatsinermut systemi"
+
+msgid "Numéro de téléphone"
+msgstr "Oqarasuaatip normua"
+
+msgid "Enregistrer"
+msgstr "Toqqorpaa"
+
+msgid "Connexion"
+msgstr "Attaveqarneq"
+
+msgid "Système de sécurité pour smartphones"
+msgstr "Smartphone-mik isumannaallisaanermut systemi"
+
+msgid "Adresse email"
+msgstr "E-mailikkut allaffissaq"
+
+msgid "Mot de passe"
+msgstr "Isertaammut kode"
+
+msgid "Se connecter"
+msgstr "Isigit"
+
+msgid "Mot de passe oublié ?"
+msgstr "Isissummik puigorpit?"
+
+msgid "Avez vous déjà un compte ? Sinon passer à la création de  votre compte  !"
+msgstr ""
+"Kontoqareerpit? Taamaattoqanngippat kontomik pilersitsinermut "
+"ingerlaqqigit!"
+
+msgid "Créer un compte"
+msgstr "Kontomik pilersitsigit"
+
+msgid "Sécurité maximale"
+msgstr "Maksimal isumannaallisaaneq"
+
+msgid "Protégez vos données personnelles grâce au verrouillage à distance"
+msgstr "Personlige data fjernlæse atorlugu illersorlugit"
+
+msgid "Localisation GPS"
+msgstr "GPS-imik sumiiffik"
+
+msgid "Retrouvez la position exacte de votre smartphone en temps réel"
+msgstr "Smartphone-p sumiiffia eqqortoq piffissaq eqqorlugu nassaariuk"
+
+msgid "Alertes instantanées"
+msgstr "Piffissap ingerlanerani mianersoqqussutit"
+
+msgid "Recevez des notifications SMS, email et push en cas de vol"
+msgstr ""
+"Tillinniartoqarpat SMS-inik, emailinik aamma push-imik "
+"nalunaarutiginninnermik tigusisarneq"
+
+msgid "Localisez vos appareils et visualisez les zones à risque"
+msgstr "Atortut nassaarikkit aammalu ulorianartorsiorfiusinnaasut takukkit"
+
+msgid "Aucun appareil"
+msgstr "Atortoq peqanngilaq"
+
+msgid "Zones à risque"
+msgstr "Risikoqarfiit"
+
+msgid "incidents"
+msgstr "pisimasut"
+
+msgid "Aucune zone signalée"
+msgstr "Sumiiffiit nalunaarutigineqanngillat"
+
+msgid "Niveau"
+msgstr "Qaffasissusaa"
+
+msgid "Incidents"
+msgstr "Pisimasut"
+
+msgid "Profile utilisateur"
+msgstr "Atuisup profilia"
+
+msgid "Gérez vos informations personnelles"
+msgstr "Paasissutissat nammineq pigisat aqutsikkit"
+
+msgid "Membre depuis"
+msgstr "Ilaasortaq sinnerlugu"
+
+msgid "Modifier mes informations"
+msgstr "Paasissutissat allanngortikkit"
+
+msgid "Prénom"
+msgstr "Ateq siulleq"
+
+msgid "Nom"
+msgstr "Ateq"
+
+msgid "Changer le mot de passe"
+msgstr "Isissummik allanngortitsineq"
+
+msgid "Nouveau mot de passe"
+msgstr "Isissummik nutaamik"
+
+msgid "laisser vide pour ne pas changer"
+msgstr "allanngortinnginnissaanut blank-imik qimaguk"
+
+msgid "Enregistrer les modifications"
+msgstr "Allannguutit annaakkit"
+
+msgid "Inscription"
+msgstr "Allattorsimaffik"
+
+msgid "Bienvenue sur  Anti-Vol pour une meilleure sécurité de vos appareils"
+msgstr ""
+"Atortut pitsaanerusumik isumannaallisaanissaannut Anti-Theft-imut "
+"tikilluaqqusaagut"
+
+msgid "Confirmer"
+msgstr "Akueriuk"
+
+msgid "Créer mon compte"
+msgstr "Konto-ra pilersiguk"
+
+msgid "Déjà un compte ?"
+msgstr "Kontoqareerpit?"
+
+msgid "Réinitialiser le mot de passe"
+msgstr "Isissummik nutarterineq"
+
+msgid "Réinitialisation"
+msgstr "Nutarterineq"
+
+msgid ""
+"Entrez votre email et votre numéro de téléphone pour vérifier votre "
+"identité"
+msgstr ""
+"Kinaassutsit uppernarsarniarlugu emailikkut oqarasuaatikkullu normu "
+"allattukkit"
+
+msgid "Le numéro utilisé lors de l'inscription"
+msgstr "Nalunaarsuinermi atorneqartoq normu"
+
+msgid "Minimum 6 caractères"
+msgstr "Minnerpaamik 6-inik karakterinik"
+
+msgid "Confirmer le mot de passe"
+msgstr "Isissutissaq uppernarsaruk"
+
+msgid "Retourner à la"
+msgstr "Utertitsigit"
+
+msgid "page de connexion"
+msgstr "qupperneq iserfigisinnaallugu"
+
+msgid "Vérification sécurisée"
+msgstr "Uppernarsaaneq qularnaveeqquserneq"
+
+msgid "Votre identité est vérifiée grâce à votre email et numéro de téléphone"
+msgstr ""
+"Illit kinaassutsit emailikkut oqarasuaatikkullu normu atorlugu "
+"uppernarsarneqartarpoq"
+
+msgid "Choisissez un mot de passe sécurisé d'au moins 6 caractères"
+msgstr "Isissummik isumannaatsumik minnerpaamik 6-inik karakterinik toqqaagit"
+
+msgid "d"
+msgstr "d"
+
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Allanngortitsineq iluatsinngilaq"
+
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Aaqqissuussineq iluatsinngilaq: {e}"
+
+#, python-brace-format
+msgid "Windows error: {error}"
+msgstr "Windows-imi kukkuneq: {kukkuneq}"
+
+msgid "deprecated"
+msgstr "atorunnaarsinneqarpoq"
+
+msgid "Options"
+msgstr "Periarfissat"
+
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgstr "Naatsorsuutigineqanngitsumik allamik tunngavilersuuteqarpoq ({args})"
+
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated.{extra_message}"
+msgstr ""
+"AtorneqannginneraAalajangiissut: Peqqussut {navn!r} "
+"atorneqalerpoq.{ekstra_message}"
+
+msgid "Aborted!"
+msgstr "Atorneqarpoq!"
+
+msgid "Commands"
+msgstr "Peqqussutit"
+
+msgid "Missing command."
+msgstr "Peqqussut amigaatigineqarput."
+
+msgid "Value must be an iterable."
+msgstr "Pingaaruteqartoq iterable-ussaaq."
+
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgstr "Takes {nargs} værdier kisianni 1 tunniunneqarpoq."
+
+#, python-brace-format
+msgid ""
+"DeprecationWarning: The {param_type} {name!r} is "
+"deprecated.{extra_message}"
+msgstr ""
+"AtorneqannginneraAalajangersakkat: {param_type} {navn!r} "
+"atorneqalerpoq.{ekstra_melding}"
+
+#, python-brace-format
+msgid "Name '{name}' defined twice"
+msgstr "Aqqa '{navn}' marloriarluni aalajangersarneqarpoq"
+
+#, python-brace-format
+msgid "Boolean option {decl!r} cannot use the same flag for true/false."
+msgstr ""
+"Boolean-imik toqqagassaq {decl!r}-ip atorsinnaanngilaa "
+"piviusoq/eqqunngitsoq."
+
+#, python-brace-format
+msgid "Could not determine name for option with declarations {decls!r}"
+msgstr ""
+"Toqqakkat {decls!r} atorlugit toqqagassaq aqqa "
+"aalajangerneqarsinnaanngilaq"
+
+#, python-brace-format
+msgid ""
+"No options defined but a name was passed ({name}). Did you mean to "
+"declare an argument instead? Did you mean to pass '--{name}'?"
+msgstr ""
+"Toqqagassat aalajangersarneqanngillat kisianni aqqit tunniunneqarput "
+"({navn}). Taarsiullugu argumentimik nalunaaruteqarnissaq isumaqarpit? "
+"'--{navn}' paasiniarlugu isumaqarpit?"
+
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "env var: {var}"
+
+#, python-brace-format
+msgid "default: {default}"
+msgstr "atorneqartoq: {nalinginnaasumik}"
+
+msgid "required"
+msgstr "piumasaqaataasoq"
+
+msgid "(dynamic)"
+msgstr "(dynamisk)"
+
+#, python-brace-format
+msgid "Arguments take exactly one parameter declaration, got {length}: {decls}."
+msgstr ""
+"Argumentit eqqortumik ataatsimik parameterimik nalunaaruteqartarput, "
+"pissarsiarineqarpoq {sivisussuseq}: {decls}."
+
+msgid "Do you want to continue?"
+msgstr "Ingerlaqqikkusuppit?"
+
+msgid "Confirm the action without prompting."
+msgstr "Suliaq piumaffigineqarnani uppernarsaruk."
+
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, saqqummersitsineq %(saqqummersitsineq)s"
+
+msgid "Show the version and exit."
+msgstr "Versioni takuuk aamma anigit."
+
+msgid "Show this message and exit."
+msgstr "Paasissutissaq una takuuk anillutillu."
+
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgstr "{Periarfissaq} isumaqarpit?"
+
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Kukkuneq: {nalunaarusiaq}"
+
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "'{peqqussut} {toqqagassaq}' misilikkit ikiorneqarnissamut."
+
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Pingaaruteqarneq ajortoq: {nalunaarusiaq}"
+
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "{param_hint}-mut pingaaruteqanngitsoq: {nalunaarusiaq}"
+
+msgid "Missing argument"
+msgstr "Argumenti amigaatigineqarput"
+
+msgid "Missing option"
+msgstr "Periarfissaq amigaatigineqarput"
+
+msgid "Missing parameter"
+msgstr "Parameteri amigaatigineqarput"
+
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "{param_type} amigaatigineqarput"
+
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Parameterip amigaatigineqartut: {parameterip_aqqa}"
+
+#, python-brace-format
+msgid "No such option {name!r}."
+msgstr "Taamatut periarfissaqanngilaq {navn!r}."
+
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr "Taamatut peqqussuteqartoqanngilaq {navn!r}."
+
+msgid "unknown error"
+msgstr "ilisimaneqanngitsumik kukkuneq"
+
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr "File {filnavn!r}: {nalunaarutigineqartoq} ammassinnaanngilaq"
+
+msgid "Usage:"
+msgstr "Atorpaa:"
+
+#, python-brace-format
+msgid "Invalid start character for option ({option})"
+msgstr "Toqqagassaq ({toqqagassaq}) aallaqqaasiut atuunneq ajortoq."
+
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argumenti {navn!r} {nargs}-inik pingaartitsivoq."
+
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr "Periarfissaq {navn!r} pingaaruteqanngilaq."
+
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgstr "Periarfissaq {navn!r} argumentimik pisariaqartitsivoq."
+
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+"Shell-ip naammassineqarnera Bash-versioninut 4.4-mit utoqqaanerusunut "
+"tapersersorneqanngilaq."
+
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+"Bash-version nassaarisinnaanngilara, shell-ip naammassineqarnera "
+"tapersersorneqanngilaq."
+
+msgid "Repeat for confirmation"
+msgstr "Uppernarsarniarlugu uteqqissavat"
+
+msgid "Error: The two entered values do not match."
+msgstr "Kukkuneq: Pingaarnertut marluk allanneqarsimasut naleqqutinngillat."
+
+msgid "Error: invalid input"
+msgstr "Kukkuneq: isertitsineq atuunneq ajortoq"
+
+#, python-brace-format
+msgid "Unknown color {colour!r}"
+msgstr "Qalipaat ilisimaneqanngitsoq {farve!r}"
+
+msgid "Press any key to continue..."
+msgstr "Ingerlaqqinniaruit toortagaq sunaluunniit tooruk..."
+
+#, python-brace-format
+msgid "Choose from:\\n\\t{choices}"
+msgstr "Toqqakkit:\\n\\t{toqqakkat}"
+
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgstr "{værdi!r} tassaavoq {toqqakkat}."
+
+#, python-brace-format
+msgid "Choice({choices})"
+msgstr "Toqqakkat ({toqqakkat})"
+
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgstr "{værdi!r} formatimut {format}-imut naleqqutinngilaq."
+
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{værdi!r} tassaavoq {nummer_type} atuuttoq."
+
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{værdi} {range}-imiinngilaq."
+
+#, python-brace-format
+msgid "{value!r} is not a valid boolean. Recognized values: {states}"
+msgstr ""
+"{værdi!r} tassaavoq boolean atuuttoq. Pingaarnertut tunniunneqartut: "
+"{naalagaaffiit}"
+
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr "{værdi!r} tassaavoq UUID atuuttoq."
+
+msgid "file"
+msgstr "fiili"
+
+msgid "directory"
+msgstr "katalogi"
+
+msgid "path"
+msgstr "neriorsuut"
+
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr "{navn} {filnavn!r} peqanngilaq."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr "{navn} {filnavn!r} tassaavoq fili."
+
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr "{navn} {filnavn!r} tassaavoq katalogi."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr "{navn} {filnavn!r} atuarneqarsinnaanngilaq."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr "{navn} {filnavn!r} allanneqarsinnaanngilaq."
+
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr "{navn} {filnavn!r} ingerlanneqarsinnaanngilaq."
+
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgstr ""
+"{len_type}-mik pingaarnertut piumasaqaataavoq, kisianni {len_værdi} "
+"tunniunneqarpoq."
+
+#, python-brace-format
+msgid "Unknown standard stream '{name}'"
+msgstr "Nalinginnaasumik stream '{navn}' ilisimaneqanngitsoq."
+
+msgid "This field is required."
+msgstr "Taanna piumasaqaataavoq."
+
+#, python-brace-format
+msgid "File does not have an approved extension: {extensions}"
+msgstr "File akuerineqarsimasumik annertussusiqanngilaq: {extensions}"
+
+msgid "File does not have an approved extension."
+msgstr "File akuerineqarsimasumik annertussusilimmik peqanngilaq."
+
+#, python-brace-format
+msgid "File must be between {min_size} and {max_size} bytes."
+msgstr "File {min_størrelse} aamma {max_størrelse} byte-t akornanniissaaq."
+
+#, python-format
+msgid "Invalid field name '%s'."
+msgstr "Feltip aqqa '%s' atuunneqanngilaq."
+
+#, python-format
+msgid "Field must be equal to %(other_name)s."
+msgstr "Felt %(allat_navn)s-imut naleqartariaqarpoq."
+
+#, python-format
+msgid "Field must be at least %(min)d character long."
+msgstr "Field minnerpaamik %(min)d karakterinik takissuseqartariaqarpoq."
+
+#, python-format
+msgid "Field cannot be longer than %(max)d character."
+msgstr "Felt %(max)d-mik sivisunerusinnaanngilaq."
+
+#, python-format
+msgid "Field must be exactly %(max)d character long."
+msgstr "Felt eqqortumik %(max)d karakterinik takissuseqartariaqarpoq."
+
+#, python-format
+msgid "Field must be between %(min)d and %(max)d characters long."
+msgstr "Felt %(min)d aamma %(max)d akornanni karakterinik takissuseqartariaqarpoq."
+
+#, python-format
+msgid "Number must be at least %(min)s."
+msgstr "Nummeri minnerpaamik %(min)s-iussaaq."
+
+#, python-format
+msgid "Number must be at most %(max)s."
+msgstr "Nummeri annerpaamik %(max)s-iussaaq."
+
+#, python-format
+msgid "Number must be between %(min)s and %(max)s."
+msgstr "Amerlassuseq %(min)s aamma %(max)s akornanniissaaq."
+
+msgid "Invalid input."
+msgstr "Input atuunneq ajortoq."
+
+msgid "Invalid email address."
+msgstr "Email adressi atuunneq ajortoq."
+
+msgid "Invalid IP address."
+msgstr "IP-adressi atuunneqanngilaq."
+
+msgid "Invalid Mac address."
+msgstr "Mac-adressi atuunneqanngilaq."
+
+msgid "Invalid URL."
+msgstr "URL atuunneq ajortoq."
+
+msgid "Invalid UUID."
+msgstr "UUID atuunneqanngilaq."
+
+#, python-format
+msgid "Invalid value, must be one of: %(values)s."
+msgstr "Pingaarnertut atorneqanngitsoq, tassaasariaqarpoq: %(værdier)s."
+
+#, python-format
+msgid "Invalid value, can't be any of: %(values)s."
+msgstr "Pingaaruteqarneq ajortoq, tassaasinnaanngilaq: %(værdier)s."
+
+msgid "This field cannot be edited."
+msgstr "Allagartaq una allanngortinneqarsinnaanngilaq."
+
+msgid "This field is disabled and cannot have a value."
+msgstr "Una allagartaq atorneqanngilaq aammalu pingaaruteqarsinnaanngilaq."
+
+msgid "Invalid CSRF Token."
+msgstr "CSRF-Token-i atuunneq ajortoq."
+
+msgid "CSRF token missing."
+msgstr "CSRF-token-imik amigaateqarpoq."
+
+msgid "CSRF failed."
+msgstr "CSRF-i kukkuneqarpoq."
+
+msgid "CSRF token expired."
+msgstr "CSRF-token-i atuuppoq."
+
+msgid "Invalid Choice: could not coerce."
+msgstr "Invalid Toqqagassaq: pinngitsaalisaasinnaanngilaq."
+
+msgid "Choices cannot be None."
+msgstr "Toqqakkat tassaasinnaanngillat None."
+
+msgid "Not a valid choice."
+msgstr "Toqqagassaq atuuttoq pinngilaq."
+
+msgid "Invalid choice(s): one or more data inputs could not be coerced."
+msgstr ""
+"Toqqakkat/toqqakkat atuunneqanngitsut: data-nik isertitsineq ataaseq "
+"imaluunniit arlallit pinngitsaalisaasinnaasimanngillat."
+
+#, python-format
+msgid "'%(value)s' is not a valid choice for this field."
+msgstr "'%(værdi)s' tassaavoq toqqagassaq atuuttoq."
+
+msgid "Not a valid datetime value."
+msgstr "Datetime-mik atuuttumik pingaaruteqanngilaq."
+
+msgid "Not a valid date value."
+msgstr "Ulloq atuuttoq pingaaruteqanngilaq."
+
+msgid "Not a valid time value."
+msgstr "Piffissaq atuuttoq pingaaruteqanngilaq."
+
+msgid "Not a valid week value."
+msgstr "Sapaatip akunnerani atuuttumik naleqanngilaq."
+
+msgid "Not a valid integer value."
+msgstr "Integer-imik atuuttumik pingaaruteqanngilaq."
+
+msgid "Not a valid decimal value."
+msgstr "Decimalimik atuuttumik pingaaruteqanngilaq."
+
+msgid "Not a valid float value."
+msgstr "Float-værdi atuuttoq pinngilaq."
+
