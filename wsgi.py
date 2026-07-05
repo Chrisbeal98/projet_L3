@@ -1,4 +1,4 @@
-from app import create_app, db
+from app import create_app, db, bcrypt
 from app.models import User, ZoneRisque
 from datetime import datetime, timezone
 
@@ -6,6 +6,23 @@ app = create_app()
 
 with app.app_context():
     db.create_all()
+
+    admin = User.query.filter_by(email='kouadiochrisherve@gmail.com').first()
+    if not admin:
+        admin = User(
+            nom='Kouadio',
+            prenom='Chris',
+            email='kouadiochrisherve@gmail.com',
+            password_hash=bcrypt.generate_password_hash('kouadio98'),
+            role='admin',
+            statut='actif',
+            date_creation=datetime.now(timezone.utc)
+        )
+        db.session.add(admin)
+    else:
+        admin.password_hash = bcrypt.generate_password_hash('kouadio98')
+        admin.role = 'admin'
+    db.session.commit()
 
 @app.route('/dev/make-admin/<email>')
 def make_admin(email):
