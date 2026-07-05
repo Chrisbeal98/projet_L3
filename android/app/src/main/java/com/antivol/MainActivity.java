@@ -1,9 +1,7 @@
 package com.antivol;
 
 import android.annotation.SuppressLint;
-import android.app.admin.DevicePolicyManager;
 import android.content.BroadcastReceiver;
-import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
@@ -12,7 +10,6 @@ import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.os.Build;
 import android.os.Bundle;
-import android.provider.Settings;
 import android.view.View;
 import android.webkit.WebChromeClient;
 import android.webkit.WebResourceError;
@@ -25,7 +22,6 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
@@ -44,7 +40,6 @@ public class MainActivity extends AppCompatActivity {
 
     private static final int LOCATION_PERMISSION_CODE = 100;
     private static final int NOTIFICATION_PERMISSION_CODE = 101;
-    private static final int DEVICE_ADMIN_CODE = 102;
     private static final String PREF_NAME = "antivol_prefs";
     private static final String KEY_DEVICE_UUID = "device_uuid";
     private static final String KEY_DEVICE_ID = "device_id";
@@ -61,8 +56,6 @@ public class MainActivity extends AppCompatActivity {
     private Button unlockButton;
     private TextView unlockError;
 
-    private DevicePolicyManager devicePolicyManager;
-    private ComponentName deviceAdminComponent;
     private String serverUrl;
     private String deviceUuid;
     private String currentLockCode = "";
@@ -74,7 +67,8 @@ public class MainActivity extends AppCompatActivity {
             String action = intent.getAction();
             if ("com.antivol.LOCK_DEVICE".equals(action)) {
                 String code = intent.getStringExtra("code_verrouillage");
-                showLockScreen(code);
+                if (code != null) currentLockCode = code;
+                showLockScreen();
             } else if ("com.antivol.UNLOCK_DEVICE".equals(action)) {
                 hideLockScreen();
             }
@@ -88,8 +82,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         serverUrl = getString(R.string.server_url);
-        devicePolicyManager = (DevicePolicyManager) getSystemService(Context.DEVICE_POLICY_SERVICE);
-        deviceAdminComponent = new ComponentName(this, AntiVolDeviceAdmin.class);
 
         webView = findViewById(R.id.webView);
         progressBar = findViewById(R.id.progressBar);
@@ -115,20 +107,22 @@ public class MainActivity extends AppCompatActivity {
         retryButton.setOnClickListener(v -> reloadPage());
         unlockButton.setOnClickListener(v -> attemptUnlock());
 
-        registerReceiver(lockReceiver, new IntentFilter("com.antivol.LOCK_DEVICE"));
-        registerReceiver(lockReceiver, new IntentFilter("com.antivol.UNLOCK_DEVICE"));
+        IntentFilter filter = new IntentFilter("com.antivol.LOCK_DEVICE");
+        filter.addAction("com.antivol.UNLOCK_DEVICE");
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+            registerReceiver(lockReceiver, filter, Context.RECEIVER_NOT_EXPORTED);
+        } else {
+            registerReceiver(lockReceiver, filter);
+        }
 
         requestPermissions();
         initDevice();
-        loadUrl();
     }
 
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        try {
-            unregisterReceiver(lockReceiver);
-        } catch (Exception ignored) {}
+        try { unregisterReceiver(lockReceiver); } catch (Exception ignored) {}
     }
 
     private void initDevice() {
@@ -140,18 +134,19 @@ public class MainActivity extends AppCompatActivity {
             prefs.edit().putString(KEY_DEVICE_UUID, deviceUuid).apply();
             registerDevice(deviceUuid);
         } else {
-            restoreLockState(prefs);
+            currentLockCode = prefs.getString(KEY_LOCK_CODE, "");
+            boolean wasLocked = prefs.getBoolean("was_locked", false);
+            if (wasLocked) showLockScreen();
         }
 
-        startService(new Intent(this, LockService.class));
-    }
-
-    private void restoreLockState(SharedPreferences prefs) {
-        boolean wasLocked = prefs.getBoolean("was_locked", false);
-        if (wasLocked) {
-            String savedCode = prefs.getString(KEY_LOCK_CODE, "");
-            showLockScreen(savedCode);
+        Intent serviceIntent = new Intent(this, LockService.class);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            startForegroundService(serviceIntent);
+        } else {
+            startService(serviceIntent);
         }
+
+        loadUrl();
     }
 
     private void registerDevice(String uuid) {
@@ -186,17 +181,19 @@ public class MainActivity extends AppCompatActivity {
                     JSONObject json = new JSONObject(response.toString());
                     int deviceId = json.getInt("id");
                     String lockCode = json.optString("code_verrouillage", "");
+                    currentLockCode = lockCode;
 
                     SharedPreferences prefs = getSharedPreferences(PREF_NAME, MODE_PRIVATE);
                     prefs.edit()
                             .putInt(KEY_DEVICE_ID, deviceId)
-                            .putString("registered", "true")
+                            .putString(KEY_LOCK_CODE, lockCode)
                             .apply();
 
-                    if (!lockCode.isEmpty()) {
-                        runOnUiThread(() -> Toast.makeText(this,
-                                "Code verrouillage: " + lockCode, Toast.LENGTH_LONG).show());
-                    }
+                    String finalLockCode = lockCode;
+                    runOnUiThread(() -> {
+                        String msg = "Code déverrouillage: " + finalLockCode;
+                        Toast.makeText(this, msg, Toast.LENGTH_LONG).show();
+                    });
                 }
                 conn.disconnect();
             } catch (Exception e) {
@@ -205,19 +202,17 @@ public class MainActivity extends AppCompatActivity {
         }).start();
     }
 
-    private void showLockScreen(String code) {
-        currentLockCode = code != null ? code : "";
+    private void showLockScreen() {
         isLocked = true;
-
         getSharedPreferences(PREF_NAME, MODE_PRIVATE)
                 .edit()
                 .putBoolean("was_locked", true)
-                .putString(KEY_LOCK_CODE, currentLockCode)
                 .apply();
 
         runOnUiThread(() -> {
             lockOverlay.setVisibility(View.VISIBLE);
             webView.setVisibility(View.GONE);
+            errorView.setVisibility(View.GONE);
             unlockCodeInput.setText("");
             unlockError.setVisibility(View.GONE);
         });
@@ -228,12 +223,12 @@ public class MainActivity extends AppCompatActivity {
         getSharedPreferences(PREF_NAME, MODE_PRIVATE)
                 .edit()
                 .putBoolean("was_locked", false)
-                .remove(KEY_LOCK_CODE)
                 .apply();
 
         runOnUiThread(() -> {
             lockOverlay.setVisibility(View.GONE);
             webView.setVisibility(View.VISIBLE);
+            webView.loadUrl(serverUrl);
         });
     }
 
@@ -241,6 +236,12 @@ public class MainActivity extends AppCompatActivity {
         String enteredCode = unlockCodeInput.getText().toString().trim();
         if (enteredCode.isEmpty()) {
             unlockError.setText("Entrez le code");
+            unlockError.setVisibility(View.VISIBLE);
+            return;
+        }
+
+        if (deviceUuid == null) {
+            unlockError.setText("Erreur: appareil non initialisé");
             unlockError.setVisibility(View.VISIBLE);
             return;
         }
