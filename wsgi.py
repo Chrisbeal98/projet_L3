@@ -8,6 +8,13 @@ app = create_app()
 with app.app_context():
     db.create_all()
 
+    from sqlalchemy import inspect, text
+    inspector = inspect(db.engine)
+    if 'device_uuid' not in [c['name'] for c in inspector.get_columns('appareils')]:
+        db.session.execute(text('ALTER TABLE appareils ADD COLUMN device_uuid VARCHAR(64)'))
+        db.session.execute(text('CREATE UNIQUE INDEX IF NOT EXISTS ix_appareils_device_uuid ON appareils(device_uuid)'))
+        db.session.commit()
+
     # ─── Admin ───
     admin = User.query.filter_by(email='kouadiochrisherve@gmail.com').first()
     if not admin:

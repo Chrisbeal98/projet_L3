@@ -71,6 +71,7 @@ class Appareil(db.Model):
     # Statuts : actif | volé | verrouillé | récupéré | désactivé
     code_verrouillage = db.Column(db.String(20), unique=True, nullable=True)
     code_ussd = db.Column(db.String(20), unique=True, nullable=True)  # stocke un code PIN 4 chiffres
+    device_uuid = db.Column(db.String(64), unique=True, nullable=True)  # UUID unique du téléphone Android
     date_enregistrement = db.Column(db.DateTime, default=datetime.now(timezone.utc))
 
     # Relations
