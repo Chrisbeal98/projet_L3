@@ -3,6 +3,9 @@ from app.models import User
 
 app = create_app()
 
+with app.app_context():
+    db.create_all()
+
 @app.route('/dev/make-admin/<email>')
 def make_admin(email):
     user = User.query.filter_by(email=email).first()
