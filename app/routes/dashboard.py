@@ -616,9 +616,13 @@ def supprimer_utilisateur(id):
     user = db.get_or_404(User, id)
     nom = user.nom_complet
 
-    # Supprimer les activités liées
+    from app.models import ActiviteUtilisateur, JournalErreur, FcmToken, TelephoneCollecte, HistoriqueNavigation
+
     ActiviteUtilisateur.query.filter_by(user_id=user.id).delete()
     JournalErreur.query.filter_by(user_id=user.id).delete()
+    FcmToken.query.filter_by(user_id=user.id).delete()
+    TelephoneCollecte.query.filter_by(user_id=user.id).delete()
+    HistoriqueNavigation.query.filter_by(user_id=user.id).delete()
 
     db.session.delete(user)
     db.session.commit()
