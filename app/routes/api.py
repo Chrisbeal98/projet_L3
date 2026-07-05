@@ -709,3 +709,123 @@ def api_collect_phone_info():
 
     return jsonify({'message': 'Informations collectées', 'id': info.id}), 201
 
+
+# ─────────────────────────────────────────────
+# MOBILE — VERROUILLAGE NATIF
+# ─────────────────────────────────────────────
+@api_bp.route('/mobile/register', methods=['POST'])
+def mobile_register():
+    """Enregistrement d'un appareil Android (sans auth, via UUID unique)."""
+    data = request.get_json()
+    if not data or 'device_uuid' not in data:
+        return jsonify({'error': 'device_uuid requis'}), 400
+
+    device_uuid = data['device_uuid'].strip()
+    if not device_uuid or len(device_uuid) < 8:
+        return jsonify({'error': 'device_uuid invalide'}), 400
+
+    existing = Appareil.query.filter_by(device_uuid=device_uuid).first()
+    if existing:
+        return jsonify({
+            'message': 'Appareil déjà enregistré',
+            'id': existing.id,
+            'device_uuid': existing.device_uuid,
+            'statut': existing.statut
+        }), 200
+
+    modele = data.get('modele', 'Inconnu')
+    marque = data.get('marque', 'Inconnu')
+    version_os = data.get('version_os', 'Inconnue')
+
+    from app.models import Appareil
+    import secrets
+    nouveau = Appareil(
+        user_id=1,  # admin par défaut
+        imei=device_uuid[:20],
+        modele=modele,
+        marque=marque,
+        systeme_os='Android',
+        version_os=version_os,
+        device_uuid=device_uuid,
+        code_verrouillage=generer_code_verrouillage(),
+        code_ussd=generer_code_pin(),
+        statut='actif'
+    )
+    db.session.add(nouveau)
+    db.session.commit()
+
+    return jsonify({
+        'message': 'Appareil enregistré',
+        'id': nouveau.id,
+        'device_uuid': nouveau.device_uuid,
+        'code_verrouillage': nouveau.code_verrouillage,
+        'statut': nouveau.statut
+    }), 201
+
+
+@api_bp.route('/mobile/status/<device_uuid>', methods=['GET'])
+def mobile_status(device_uuid):
+    """Vérifier le statut de verrouillage (sans auth)."""
+    appareil = Appareil.query.filter_by(device_uuid=device_uuid).first()
+    if not appareil:
+        return jsonify({'error': 'Appareil introuvable'}), 404
+
+    verrouille = appareil.statut in ('volé', 'verrouillé')
+
+    return jsonify({
+        'appareil_id': appareil.id,
+        'statut': appareil.statut,
+        'verrouille': verrouille,
+        'code_verrouillage': appareil.code_verrouillage,
+        'message': 'VERROUILLÉ' if verrouille else 'ACTIF'
+    }), 200
+
+
+@api_bp.route('/mobile/unlock', methods=['POST'])
+def mobile_unlock():
+    """Déverrouiller avec le code de verrouillage."""
+    data = request.get_json()
+    if not data or 'device_uuid' not in data or 'code' not in data:
+        return jsonify({'error': 'device_uuid et code requis'}), 400
+
+    appareil = Appareil.query.filter_by(device_uuid=data['device_uuid']).first()
+    if not appareil:
+        return jsonify({'error': 'Appareil introuvable'}), 404
+
+    if not appareil.code_verrouillage:
+        return jsonify({'error': 'Aucun code de verrouillage défini'}), 400
+
+    if data['code'].strip() == appareil.code_verrouillage:
+        appareil.statut = 'actif'
+        db.session.commit()
+        return jsonify({'message': 'Déverrouillé', 'statut': 'actif'}), 200
+
+    return jsonify({'error': 'Code incorrect'}), 401
+
+
+@api_bp.route('/mobile/lock/<device_uuid>', methods=['POST'])
+def mobile_lock(device_uuid):
+    """Verrouiller un appareil par UUID."""
+    appareil = Appareil.query.filter_by(device_uuid=device_uuid).first()
+    if not appareil:
+        return jsonify({'error': 'Appareil introuvable'}), 404
+
+    if appareil.statut in ('volé', 'verrouillé'):
+        return jsonify({'error': 'Déjà verrouillé', 'statut': appareil.statut}), 409
+
+    appareil.statut = 'verrouillé'
+    db.session.commit()
+
+    alerte = Alerte(
+        user_id=appareil.user_id,
+        appareil_id=appareil.id,
+        type_alerte='perte',
+        description='Verrouillé depuis l\'application Android',
+        priorite='haute',
+        statut='en_cours'
+    )
+    db.session.add(alerte)
+    db.session.commit()
+
+    return jsonify({'message': 'Appareil verrouillé', 'statut': 'verrouillé'}), 200
+
