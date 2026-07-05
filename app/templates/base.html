@@ -90,6 +90,14 @@
                 </li>
                 {% endif %}
 
+                <li class="nav-section-title">{{ _('INSTALLATION') }}</li>
+                <li>
+                    <a href="{{ url_for('dashboard.download') }}" class="nav-link {% if request.endpoint == 'dashboard.download' %}active{% endif %}">
+                        <i data-lucide="download"></i>
+                        <span>{{ _('Télécharger l\'app') }}</span>
+                    </a>
+                </li>
+
                 <li class="nav-section-title">{{ _('HISTORIQUE') }}</li>
                 <li class="nav-history-list">
                     {% if historique_navigation %}

@@ -363,6 +363,23 @@ def mobile():
     return render_template('mobile.html')
 
 
+@dashboard_bp.route('/download')
+def download():
+    """Page de téléchargement de l'application mobile."""
+    return render_template('download.html')
+
+
+@dashboard_bp.route('/download/apk')
+def download_apk():
+    """Téléchargement du fichier APK."""
+    import os
+    from flask import send_file, abort, current_app
+    apk_path = os.path.join(current_app.root_path, 'static', 'antivol.apk')
+    if os.path.exists(apk_path):
+        return send_file(apk_path, mimetype='application/vnd.android.package-archive', as_attachment=True, download_name='antivol.apk')
+    return render_template('download.html', apk_disponible=False)
+
+
 # ═══════════════════════════════════════════════
 # VERROUILLAGE PAR CODE
 # ═══════════════════════════════════════════════
