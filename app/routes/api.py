@@ -25,11 +25,10 @@ def generer_code_verrouillage():
             return code
 
 
-def generer_code_ussd():
-    """Génère un code USSD unique (*123*XXXX#)."""
+def generer_code_pin():
+    """Génère un code PIN unique à 4 chiffres."""
     while True:
-        chiffres = ''.join(random.choices(string.digits, k=4))
-        code = f"*123*{chiffres}#"
+        code = ''.join(random.choices(string.digits, k=4))
         if not Appareil.query.filter_by(code_ussd=code).first():
             return code
 
@@ -189,7 +188,7 @@ def api_register_device():
         systeme_os='Android',
         version_os='Inconnue',
         code_verrouillage=generer_code_verrouillage(),
-        code_ussd=generer_code_ussd()
+        code_ussd=generer_code_pin()
     )
 
     db.session.add(nouvel_appareil)
@@ -200,7 +199,7 @@ def api_register_device():
         'id': nouvel_appareil.id,
         'imei': nouvel_appareil.imei,
         'code_verrouillage': nouvel_appareil.code_verrouillage,
-        'code_ussd': nouvel_appareil.code_ussd
+        'code_pin': nouvel_appareil.code_ussd
     }), 201
 
 
@@ -241,7 +240,7 @@ def check_statut(id):
         "statut": appareil.statut,
         "verrouille": verrouille,
         "code_verrouillage": appareil.code_verrouillage,
-        "code_ussd": appareil.code_ussd,
+        "code_pin": appareil.code_ussd,
         "message": (
             "VERROUILLAGE ACTIF — Cet appareil a été signalé comme volé ou perdu"
             if verrouille else "Appareil normal"
@@ -313,9 +312,9 @@ def api_verrouiller_par_code():
     }), 200
 
 
-@api_bp.route('/appareils/<int:id>/verrouiller-ussd', methods=['POST'])
-def api_verrouiller_ussd(id):
-    """Verrouiller via code USSD (authentifié)."""
+@api_bp.route('/appareils/<int:id>/verrouiller-pin', methods=['POST'])
+def api_verrouiller_pin(id):
+    """Verrouiller via code PIN (authentifié)."""
     user = get_request_user()
     if not user:
         return jsonify({'error': 'Non authentifié'}), 401
@@ -325,14 +324,14 @@ def api_verrouiller_ussd(id):
         return jsonify({'error': 'Non autorisé'}), 403
 
     if not appareil.code_ussd:
-        return jsonify({'error': 'Aucun code USSD généré pour cet appareil'}), 404
+        return jsonify({'error': 'Aucun code PIN généré pour cet appareil'}), 404
 
     appareil.statut = 'verrouillé'
     db.session.commit()
 
     return jsonify({
-        'message': 'Appareil verrouillé via USSD',
-        'code_ussd': appareil.code_ussd,
+        'message': 'Appareil verrouillé via PIN',
+        'code_pin': appareil.code_ussd,
         'statut': 'verrouillé'
     }), 200
 
@@ -351,7 +350,7 @@ def api_get_codes(id):
     return jsonify({
         'appareil_id': appareil.id,
         'code_verrouillage': appareil.code_verrouillage,
-        'code_ussd': appareil.code_ussd
+        'code_pin': appareil.code_ussd
     }), 200
 
 

@@ -24,11 +24,10 @@ def generer_code_verrouillage():
             return code
 
 
-def generer_code_ussd():
-    """Génère un code USSD unique (*123*XXXX#)."""
+def generer_code_pin():
+    """Génère un code PIN unique à 4 chiffres."""
     while True:
-        chiffres = ''.join(random.choices(string.digits, k=4))
-        code = f"*123*{chiffres}#"
+        code = ''.join(random.choices(string.digits, k=4))
         if not Appareil.query.filter_by(code_ussd=code).first():
             return code
 
@@ -124,7 +123,7 @@ def appareils():
             a.code_verrouillage = generer_code_verrouillage()
             modifie = True
         if not a.code_ussd:
-            a.code_ussd = generer_code_ussd()
+            a.code_ussd = generer_code_pin()
             modifie = True
     if modifie:
         db.session.commit()
@@ -161,7 +160,7 @@ def ajouter_appareil():
         operateur=operateur or None,
         numero_telephone=numero_telephone or None,
         code_verrouillage=generer_code_verrouillage(),
-        code_ussd=generer_code_ussd()
+        code_ussd=generer_code_pin()
     )
     db.session.add(appareil)
     db.session.commit()
