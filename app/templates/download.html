@@ -1,0 +1,105 @@
+{% extends "base.html" %}
+{% block title %}Télécharger — AntiVol.ci{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <div>
+        <h1 class="page-title">📲 Installer AntiVol.ci</h1>
+        <p class="page-subtitle">{{ _("Téléchargez l'application sur votre téléphone") }}</p>
+    </div>
+</div>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;margin-top:24px">
+
+    <!-- CARTE QR CODE -->
+    <div class="card">
+        <div class="card-body" style="text-align:center;padding:32px">
+            <h2 style="font-size:18px;font-weight:600;margin-bottom:16px">
+                🌐 {{ _('Version Web (PWA)') }}
+            </h2>
+            <p style="font-size:14px;color:var(--text-secondary);margin-bottom:20px">
+                {{ _("Scannez ce QR code avec votre téléphone pour ouvrir l'application.") }}
+                <br><br>
+                <strong>{{ _('Android :') }}</strong> {{ _('Menu → Ajouter à écran accueil') }}<br>
+                <strong>{{ _('iPhone :') }}</strong> {{ _('Partager → Sur écran accueil') }}
+            </p>
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://antivol.onrender.com"
+                 alt="QR Code AntiVol"
+                 style="width:220px;height:220px;border-radius:12px;background:#fff;padding:12px;">
+            <br><br>
+            <a href="https://antivol.onrender.com" class="btn btn-primary">
+                <i data-lucide="globe"></i> {{ _('Ouvrir le site') }}
+            </a>
+        </div>
+    </div>
+
+    <!-- CARTE APK -->
+    <div class="card">
+        <div class="card-body" style="text-align:center;padding:32px">
+            <h2 style="font-size:18px;font-weight:600;margin-bottom:16px">
+                📱 {{ _('Application Android (APK)') }}
+            </h2>
+            <p style="font-size:14px;color:var(--text-secondary);margin-bottom:20px">
+                {{ _("Téléchargez le fichier APK et installez-le sur votre Android.") }}
+                <br><br>
+                1. {{ _('Téléchargez le fichier') }}<br>
+                2. {{ _('Ouvrez-le et autorisez installations inconnues') }}<br>
+                3. {{ _('Lancez AntiVol') }}
+            </p>
+            <div style="font-size:64px;margin-bottom:16px">📦</div>
+            {% if apk_disponible != False %}
+            <a href="{{ url_for('dashboard.download_apk') }}" class="btn btn-success" style="font-size:16px;padding:14px 32px">
+                <i data-lucide="download"></i> {{ _('Télécharger APK') }}
+            </a>
+            <p style="font-size:12px;color:var(--text-muted);margin-top:12px">
+                Version 1.0 — 2.5 MB
+            </p>
+            {% else %}
+            <div style="background:rgba(255,255,255,0.05);border-radius:12px;padding:20px;text-align:center;">
+                <p style="font-size:14px;color:var(--text-secondary);margin-bottom:12px">
+                    {{ _("L'APK n'est pas encore disponible en téléchargement.") }}
+                </p>
+                <a href="https://github.com/Chrisbeal98/projet_L3/tree/main/android" target="_blank" class="btn btn-ghost">
+                    <i data-lucide="github"></i> {{ _('Compiler avec Android Studio') }}
+                </a>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+
+    <!-- CARTE CODE SOURCE -->
+    <div class="card">
+        <div class="card-body" style="text-align:center;padding:32px">
+            <h2 style="font-size:18px;font-weight:600;margin-bottom:16px">
+                🛠️ {{ _('Construire APK soi-même') }}
+            </h2>
+            <p style="font-size:14px;color:var(--text-secondary);margin-bottom:20px">
+                {{ _('Compilez avec Android Studio.') }}
+            </p>
+            <div style="font-size:64px;margin-bottom:16px">⚙️</div>
+            <a href="https://github.com/Chrisbeal98/projet_L3/tree/main/android" target="_blank" class="btn btn-ghost">
+                <i data-lucide="github"></i> {{ _('Code source') }}
+            </a>
+            <p style="font-size:12px;color:var(--text-muted);margin-top:12px">
+                {{ _('Ouvrir android/ dans Android Studio → Build APK') }}
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="card" style="margin-top:24px">
+    <div class="card-body" style="padding:24px">
+        <h2 style="font-size:16px;font-weight:600;margin-bottom:12px">❓ {{ _('Questions fréquentes') }}</h2>
+        <div style="font-size:14px;color:var(--text-secondary);line-height:1.8">
+            <strong>🤔 {{ _("L'APK est-il sécurisé ?") }}</strong><br>
+            {{ _("Oui, l'application utilise une WebView HTTPS. Aucune donnée stockée localement par l'APK.") }}
+            <br><br>
+            <strong>📶 {{ _("Pourquoi l'APK a-t-il besoin d'Internet ?") }}</strong><br>
+            {{ _("L'application charge le site AntiVol.ci. Sans Internet, elle ne fonctionne pas.") }}
+            <br><br>
+            <strong>📱 {{ _('Pourquoi demander la localisation ?') }}</strong><br>
+            {{ _('Pour afficher votre position sur la carte (optionnel).') }}
+        </div>
+    </div>
+</div>
+{% endblock %}
