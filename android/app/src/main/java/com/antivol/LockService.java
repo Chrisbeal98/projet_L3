@@ -137,6 +137,13 @@ public class LockService extends Service {
                     Intent intent = new Intent(verrouille ? "com.antivol.LOCK_DEVICE" : "com.antivol.UNLOCK_DEVICE");
                     intent.putExtra("code_verrouillage", lockCode);
                     sendBroadcast(intent);
+
+                    SharedPreferences.Editor ed = prefs.edit();
+                    ed.putBoolean("was_locked", verrouille);
+                    if (verrouille && "vole".equals(statut)) {
+                        ed.putBoolean("was_stolen", true);
+                    }
+                    ed.apply();
                 }
 
                 Notification notif = buildNotification(verrouille, lockCode);

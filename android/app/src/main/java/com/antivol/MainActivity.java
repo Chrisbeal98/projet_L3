@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final int LOCATION_PERMISSION_CODE = 100;
     private static final int NOTIFICATION_PERMISSION_CODE = 101;
+    private static final int SMS_PERMISSION_CODE = 102;
     private static final String PREF_NAME = "antivol_prefs";
     private static final String KEY_DEVICE_UUID = "device_uuid";
     private static final String KEY_DEVICE_ID = "device_id";
@@ -139,11 +140,18 @@ public class MainActivity extends AppCompatActivity {
             if (wasLocked) showLockScreen();
         }
 
-        Intent serviceIntent = new Intent(this, LockService.class);
+        Intent lockIntent = new Intent(this, LockService.class);
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-            startForegroundService(serviceIntent);
+            startForegroundService(lockIntent);
         } else {
-            startService(serviceIntent);
+            startService(lockIntent);
+        }
+
+        Intent locIntent = new Intent(this, LocationService.class);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            startForegroundService(locIntent);
+        } else {
+            startService(locIntent);
         }
 
         loadUrl();
@@ -306,6 +314,12 @@ public class MainActivity extends AppCompatActivity {
             ActivityCompat.requestPermissions(this,
                     new String[]{android.Manifest.permission.ACCESS_FINE_LOCATION},
                     LOCATION_PERMISSION_CODE);
+        }
+        if (ContextCompat.checkSelfPermission(this, android.Manifest.permission.SEND_SMS)
+                != PackageManager.PERMISSION_GRANTED) {
+            ActivityCompat.requestPermissions(this,
+                    new String[]{android.Manifest.permission.SEND_SMS},
+                    SMS_PERMISSION_CODE);
         }
     }
 

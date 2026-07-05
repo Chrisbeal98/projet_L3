@@ -827,5 +827,59 @@ def mobile_lock(device_uuid):
     db.session.add(alerte)
     db.session.commit()
 
-    return jsonify({'message': 'Appareil verrouillé', 'statut': 'verrouillé'}), 200
+    from app import envoyer_notification_push
+    proprietaire = db.session.get(User, appareil.user_id)
+    if proprietaire:
+        envoyer_notification_push(
+            appareil.user_id,
+            "ALERTE: " + appareil.marque + " " + appareil.modele + " verrouille",
+            "Code de verrouillage applique. Suivez la position en temps reel.",
+            {"appareil_id": str(appareil.id)}
+        )
+
+    return jsonify({'message': 'Appareil verrouille', 'statut': 'verrouille'}), 200
+
+
+@api_bp.route('/mobile/stolen-alert', methods=['POST'])
+def mobile_stolen_alert():
+    """Reception de l'alerte de vol depuis le telephone verrouille."""
+    data = request.get_json()
+    if not data or 'device_uuid' not in data:
+        return jsonify({'error': 'device_uuid requis'}), 400
+
+    appareil = Appareil.query.filter_by(device_uuid=data['device_uuid']).first()
+    if not appareil:
+        return jsonify({'error': 'Appareil introuvable'}), 404
+
+    if appareil.statut not in ('vole', 'verrouille'):
+        appareil.statut = 'vole'
+        db.session.commit()
+
+    lat = data.get('latitude')
+    lng = data.get('longitude')
+    if lat and lng:
+        localisation = Localisation(
+            appareil_id=appareil.id,
+            latitude=lat,
+            longitude=lng,
+            source='gps',
+            date_capture=datetime.now(timezone.utc)
+        )
+        db.session.add(localisation)
+        db.session.commit()
+
+    from app import envoyer_notification_push
+    proprietaire = db.session.get(User, appareil.user_id)
+    if proprietaire:
+        envoyer_notification_push(
+            appareil.user_id,
+            appareil.marque + " " + appareil.modele + " signale vole!",
+            "Position: " + str(lat) + "," + str(lng) + " - Cliquez pour localiser",
+            {"appareil_id": str(appareil.id), "lat": str(lat), "lng": str(lng)}
+        )
+
+    return jsonify({
+        'message': 'Alerte recue, proprietaire notifie',
+        'statut': 'vole'
+    }), 200
 
