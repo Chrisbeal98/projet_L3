@@ -42,4 +42,4 @@ if __name__ == '__main__':
         print('[OK] Systeme Anti-Vol Intelligent - Serveur demarre (HTTPS)')
         print(f'[>>] Acces local   : https://localhost:{port}')
         print(f'[>>] Acces reseau  : https://{ip_locale}:{port}')
-    app.run(debug=False, host='0.0.0.0', port=port, ssl_context='adhoc')
+    app.run(debug=False, host='0.0.0.0', port=port)

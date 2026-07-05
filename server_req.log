@@ -4004,3 +4004,83 @@
 [REQ] GET /static/js/app.js
   [200] GET /static/logo.png [192.168.8.59]
   [304] GET /static/js/app.js [192.168.8.59]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /favicon.ico
+  [404] GET /favicon.ico [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /login
+  [200] GET /login [127.0.0.1]
+[REQ] GET /static/logo.png
+  [206] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/favicon.svg
+  [200] GET /static/favicon.svg [127.0.0.1]
+[REQ] POST /login
+  [302] POST /login [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /
+  [200] GET / [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /static/logo.png
+  [200] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [200] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [200] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /dashboard
+  [200] GET /dashboard [127.0.0.1]
+[REQ] GET /carte
+  [200] GET /carte [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /api/localisations/latest
+  [200] GET /api/localisations/latest [127.0.0.1]
+[REQ] GET /static/css/style.css
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /alertes
+  [200] GET /alertes [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+  [304] GET /static/css/style.css [127.0.0.1]
+  [304] GET /static/logo.png [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /admin
+  [200] GET /admin [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /appareils
+  [200] GET /appareils [127.0.0.1]
+[REQ] GET /static/js/app.js
+  [304] GET /static/js/app.js [127.0.0.1]
+[REQ] GET /static/css/style.css
+[REQ] GET /static/logo.png
+  [304] GET /static/logo.png [127.0.0.1]
+  [304] GET /static/css/style.css [127.0.0.1]
