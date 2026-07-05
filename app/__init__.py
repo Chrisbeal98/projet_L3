@@ -296,6 +296,8 @@ def envoyer_notification_push(user_id, title, body, data=None):
     return success
 
 
+app = create_app()
+
 def log_activite(user_id, action, details=None):
     """Enregistre une activité utilisateur. À appeler depuis les routes."""
     from flask import request
