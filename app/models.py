@@ -70,7 +70,7 @@ class Appareil(db.Model):
     statut = db.Column(db.String(20), default='actif')
     # Statuts : actif | volé | verrouillé | récupéré | désactivé
     code_verrouillage = db.Column(db.String(20), unique=True, nullable=True)
-    code_ussd = db.Column(db.String(20), unique=True, nullable=True)
+    code_ussd = db.Column(db.String(20), unique=True, nullable=True)  # stocke un code PIN 4 chiffres
     date_enregistrement = db.Column(db.DateTime, default=datetime.now(timezone.utc))
 
     # Relations
