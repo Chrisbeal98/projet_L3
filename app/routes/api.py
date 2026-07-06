@@ -907,11 +907,9 @@ def mobile_stolen_alert():
 
 @api_bp.route('/mobile/community-alerts', methods=['GET'])
 def mobile_community_alerts():
-    """Retourne la liste des appareils declares voles recemment (48h)."""
-    depuis = datetime.now(timezone.utc) - __import__('datetime').timedelta(hours=48)
+    """Retourne la liste des appareils actuellement declares voles ou verrouilles."""
     recents = Appareil.query.filter(
-        Appareil.statut.in_(['vole', 'verrouille']),
-        Appareil.date_enregistrement >= depuis
+        Appareil.statut.in_(['vole', 'verrouille'])
     ).all()
 
     resultats = []
@@ -920,13 +918,17 @@ def mobile_community_alerts():
             appareil_id=app.id
         ).order_by(Localisation.date_capture.desc()).first()
 
+        alerte_recente = Alerte.query.filter_by(
+            appareil_id=app.id, type_alerte='vol'
+        ).order_by(Alerte.date_creation.desc()).first()
+
         resultats.append({
             'id': app.id,
             'device_uuid': app.device_uuid,
             'marque': app.marque,
             'modele': app.modele,
             'statut': app.statut,
-            'date_vol': app.date_enregistrement.isoformat() if app.date_enregistrement else None,
+            'date_vol': alerte_recente.date_creation.isoformat() if alerte_recente else None,
             'latitude': derniere_loc.latitude if derniere_loc else None,
             'longitude': derniere_loc.longitude if derniere_loc else None
         })
