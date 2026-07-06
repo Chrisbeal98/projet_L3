@@ -250,50 +250,28 @@ def create_app(config_class=Config):
 
 
 def envoyer_notification_push(user_id, title, body, data=None):
-    """Envoie une notification push FCM à tous les appareils d'un utilisateur."""
-    from app.models import FcmToken
-    import requests as http_requests
-    import json
+    """Envoie une notification push via ntfy.sh (gratuit, sans inscription)."""
+    ntfy_url = current_app.config.get('NTFY_URL', 'https://ntfy.sh')
+    topic = f"antivol-u{user_id}"
 
-    tokens = FcmToken.query.filter_by(user_id=user_id).all()
-    if not tokens:
-        return False
-
-    fcm_server_key = current_app.config.get('FCM_SERVER_KEY', '')
-    if not fcm_server_key:
-        return False
-
-    headers = {
-        'Authorization': f'key={fcm_server_key}',
-        'Content-Type': 'application/json',
+    payload = {
+        "topic": topic,
+        "title": title,
+        "message": body,
+        "priority": 5,
     }
 
-    success = False
-    for fcm_token in tokens:
-        payload = {
-            'to': fcm_token.token,
-            'notification': {
-                'title': title,
-                'body': body,
-                'sound': 'default',
-                'priority': 'high',
-            },
-            'data': data or {},
-        }
+    try:
+        import requests
+        requests.post(ntfy_url, json=payload, timeout=5)
 
-        try:
-            resp = http_requests.post(
-                'https://fcm.googleapis.com/fcm/send',
-                headers=headers,
-                json=payload,
-                timeout=10
-            )
-            if resp.ok:
-                success = True
-        except Exception:
-            continue
+        if data and data.get('type') == 'community_alert':
+            community_payload = {**payload, "topic": "antivol-community"}
+            requests.post(ntfy_url, json=community_payload, timeout=5)
 
-    return success
+        return True
+    except Exception:
+        return False
 
 
 def log_activite(user_id, action, details=None):

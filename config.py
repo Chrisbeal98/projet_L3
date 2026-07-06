@@ -13,9 +13,10 @@ class Config:
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
     # Configuration des notifications
+    NTFY_URL = os.environ.get('NTFY_URL') or 'https://ntfy.sh'
+    # Pour ntfy.sh, définir la variable d'environnement NTFY_URL
+    # Laisser vide pour utiliser https://ntfy.sh (gratuit, sans inscription)
     FCM_SERVER_KEY = os.environ.get('FCM_SERVER_KEY') or ''
-    # Pour FCM, définir la variable d'environnement FCM_SERVER_KEY
-    # ou la modifier directement dans config.py
     SMS_API_KEY = os.environ.get('SMS_API_KEY') or ''
 
     # Sécurité
