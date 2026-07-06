@@ -415,13 +415,24 @@ def lock_by_code():
                 db.session.add(alerte)
                 db.session.commit()
 
-                # Envoyer notification push FCM
+                # Envoyer notification push au propriétaire
                 envoyer_notification_push(
                     appareil.user_id,
                     '🔒 Appareil verrouillé',
                     f'{appareil.marque} {appareil.modele} a été verrouillé à distance.',
                     {'action': 'lock', 'appareil_id': str(appareil.id)}
                 )
+
+                # Broadcast communauté : prévenir tous les autres téléphones
+                tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
+                for autre in tous:
+                    if autre.user_id:
+                        envoyer_notification_push(
+                            autre.user_id,
+                            "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
+                            "Ce telephone a ete declare vole! Restez vigilant.",
+                            {"appareil_id": str(appareil.id), "type": "community_alert"}
+                        )
 
                 result = 'succes'
                 appareil_info = f"{appareil.marque} {appareil.modele}"
