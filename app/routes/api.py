@@ -837,6 +837,16 @@ def mobile_lock(device_uuid):
             {"appareil_id": str(appareil.id)}
         )
 
+    tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
+    for autre in tous:
+        if autre.user_id:
+            envoyer_notification_push(
+                autre.user_id,
+                "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
+                "Un telephone a ete verrouille! Restez vigilant.",
+                {"appareil_id": str(appareil.id), "type": "community_alert"}
+            )
+
     return jsonify({'message': 'Appareil verrouille', 'statut': 'verrouille'}), 200
 
 
@@ -878,8 +888,48 @@ def mobile_stolen_alert():
             {"appareil_id": str(appareil.id), "lat": str(lat), "lng": str(lng)}
         )
 
+    from app import envoyer_notification_push
+    tous = Appareil.query.filter(Appareil.device_uuid != None, Appareil.device_uuid != device_uuid).all()
+    for autre in tous:
+        if autre.user_id:
+            envoyer_notification_push(
+                autre.user_id,
+                "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
+                "Ce telephone a ete declare vole! Modele: " + appareil.marque + " " + appareil.modele + (" - Position: " + str(lat) + "," + str(lng) if lat and lng else ""),
+                {"appareil_id": str(appareil.id), "type": "community_alert"}
+            )
+
     return jsonify({
         'message': 'Alerte recue, proprietaire notifie',
         'statut': 'vole'
     }), 200
+
+
+@api_bp.route('/mobile/community-alerts', methods=['GET'])
+def mobile_community_alerts():
+    """Retourne la liste des appareils declares voles recemment (48h)."""
+    depuis = datetime.now(timezone.utc) - __import__('datetime').timedelta(hours=48)
+    recents = Appareil.query.filter(
+        Appareil.statut.in_(['vole', 'verrouille']),
+        Appareil.date_enregistrement >= depuis
+    ).all()
+
+    resultats = []
+    for app in recents:
+        derniere_loc = Localisation.query.filter_by(
+            appareil_id=app.id
+        ).order_by(Localisation.date_capture.desc()).first()
+
+        resultats.append({
+            'id': app.id,
+            'device_uuid': app.device_uuid,
+            'marque': app.marque,
+            'modele': app.modele,
+            'statut': app.statut,
+            'date_vol': app.date_enregistrement.isoformat() if app.date_enregistrement else None,
+            'latitude': derniere_loc.latitude if derniere_loc else None,
+            'longitude': derniere_loc.longitude if derniere_loc else None
+        })
+
+    return jsonify({'alertes': resultats}), 200
 
