@@ -10,12 +10,15 @@ import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.content.SharedPreferences;
 import android.location.Location;
 import android.os.Build;
 import android.os.Handler;
 import android.os.IBinder;
 import android.os.Looper;
+import android.os.PowerManager;
 import androidx.core.content.ContextCompat;
+import android.telephony.TelephonyManager;
 import android.util.Log;
 
 import com.google.android.gms.location.FusedLocationProviderClient;
@@ -36,12 +39,15 @@ public class MonitorService extends Service {
 
     private static final String TAG = "MonitorService";
     private static final int NOTIFICATION_ID = 1;
+    private static final String PREFS = "antivol_protection";
+    private static final String KEY_WAS_STOLEN = "was_stolen";
 
     private DevicePolicyManager dpm;
     private ComponentName adminComponent;
     private Handler handler;
     private OkHttpClient client;
     private boolean isLocked = false;
+    private PowerManager.WakeLock wakeLock;
 
     private FusedLocationProviderClient fusedLocationClient;
     private LocationCallback locationCallback;
@@ -51,8 +57,41 @@ public class MonitorService extends Service {
         @Override
         public void onReceive(Context context, Intent intent) {
             if ("com.antivol.mobile.ACTION_UNLOCK".equals(intent.getAction())) {
-                Log.i(TAG, "Déverrouillage reçu via broadcast FCM");
+                Log.i(TAG, "Deverrouillage recu");
                 isLocked = false;
+                getSharedPreferences(PREFS, MODE_PRIVATE)
+                    .edit().putBoolean(KEY_WAS_STOLEN, false).apply();
+            }
+        }
+    };
+
+    private BroadcastReceiver shutdownReceiver = new BroadcastReceiver() {
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            if (Intent.ACTION_SHUTDOWN.equals(intent.getAction())) {
+                Log.w(TAG, "Extinction detection ! Sauvegarde statut vole");
+                SharedPreferences prefs = getSharedPreferences(PREFS, MODE_PRIVATE);
+                prefs.edit().putBoolean(KEY_WAS_STOLEN, isLocked).apply();
+
+                Thread lastGps = new Thread(() -> {
+                    try {
+                        int appareilId = AppConfig.getAppareilId(context);
+                        if (appareilId == -1) return;
+                        String apiUrl = AppConfig.getApiUrl(context);
+                        JSONObject json = new JSONObject();
+                        json.put("appareil_id", appareilId);
+                        json.put("alerte", "EXTINCTION_VOLEUR");
+                        RequestBody body = RequestBody.create(json.toString(),
+                            MediaType.parse("application/json; charset=utf-8"));
+                        Request request = new Request.Builder()
+                            .url(apiUrl + "/mobile/stolen-alert")
+                            .post(body)
+                            .build();
+                        client.newCall(request).execute();
+                    } catch (Exception ignored) {}
+                });
+                lastGps.start();
+                try { lastGps.join(2000); } catch (InterruptedException ignored) {}
             }
         }
     };
@@ -73,12 +112,24 @@ public class MonitorService extends Service {
         handler = new Handler(Looper.getMainLooper());
         client = AppConfig.getHttpClient();
         createNotificationChannel();
+        acquireWakeLock();
 
-        IntentFilter filter = new IntentFilter("com.antivol.mobile.ACTION_UNLOCK");
+        IntentFilter unlockFilter = new IntentFilter("com.antivol.mobile.ACTION_UNLOCK");
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
-            registerReceiver(unlockReceiver, filter, Context.RECEIVER_NOT_EXPORTED);
+            registerReceiver(unlockReceiver, unlockFilter, Context.RECEIVER_NOT_EXPORTED);
         } else {
-            registerReceiver(unlockReceiver, filter);
+            registerReceiver(unlockReceiver, unlockFilter);
+        }
+
+        IntentFilter shutdownFilter = new IntentFilter(Intent.ACTION_SHUTDOWN);
+        registerReceiver(shutdownReceiver, shutdownFilter);
+
+        SharedPreferences prefs = getSharedPreferences(PREFS, MODE_PRIVATE);
+        boolean wasStolen = prefs.getBoolean(KEY_WAS_STOLEN, false);
+        if (wasStolen) {
+            Log.w(TAG, "Appareil etait en mode vole avant extinction ! Re-verrouillage.");
+            isLocked = true;
+            lockDevice();
         }
     }
 
@@ -91,18 +142,57 @@ public class MonitorService extends Service {
     }
 
     @Override
+    public void onTaskRemoved(Intent rootIntent) {
+        Log.w(TAG, "App tuee ! Redemarrage force...");
+        Intent restartIntent = new Intent(this, MonitorService.class);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            startForegroundService(restartIntent);
+        } else {
+            startService(restartIntent);
+        }
+        super.onTaskRemoved(rootIntent);
+    }
+
+    @Override
     public void onDestroy() {
         handler.removeCallbacks(checkRunnable);
         stopLocationUpdates();
+        releaseWakeLock();
         try {
             unregisterReceiver(unlockReceiver);
+            unregisterReceiver(shutdownReceiver);
         } catch (Exception ignored) {}
         super.onDestroy();
+
+        Log.w(TAG, "Service detruit ! Relance...");
+        Intent restartIntent = new Intent(this, MonitorService.class);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            startForegroundService(restartIntent);
+        } else {
+            startService(restartIntent);
+        }
     }
 
     @Override
     public IBinder onBind(Intent intent) {
         return null;
+    }
+
+    private void acquireWakeLock() {
+        PowerManager pm = (PowerManager) getSystemService(Context.POWER_SERVICE);
+        if (pm != null) {
+            wakeLock = pm.newWakeLock(
+                PowerManager.PARTIAL_WAKE_LOCK,
+                "AntiVol:ProtectionWakeLock"
+            );
+            wakeLock.acquire(10 * 60 * 1000L);
+        }
+    }
+
+    private void releaseWakeLock() {
+        if (wakeLock != null && wakeLock.isHeld()) {
+            try { wakeLock.release(); } catch (Exception ignored) {}
+        }
     }
 
     private void checkStatus() {
@@ -131,9 +221,13 @@ public class MonitorService extends Service {
 
                         if (verrouille && !isLocked) {
                             isLocked = true;
+                            getSharedPreferences(PREFS, MODE_PRIVATE)
+                                .edit().putBoolean(KEY_WAS_STOLEN, true).apply();
                             lockDevice();
                         } else if (!verrouille) {
                             isLocked = false;
+                            getSharedPreferences(PREFS, MODE_PRIVATE)
+                                .edit().putBoolean(KEY_WAS_STOLEN, false).apply();
                         }
                     }
                 }
