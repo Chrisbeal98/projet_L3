@@ -107,6 +107,13 @@
     <string name="unlock_code_hint">Code de déverrouillage: 2525</string>
     <string name="app_ready">Application prête...</string>
 
+    <!-- Zones à risque -->
+    <string name="zones_title">Zones à risque</string>
+    <string name="zones_subtitle">Zones géographiques signalées comme dangereuses</string>
+    <string name="zones_list">Liste des zones</string>
+    <string name="zones_aucune">Aucune zone à risque</string>
+    <string name="nav_zones">Zones</string>
+
     <!-- Langues -->
     <string name="lang_fr">Français</string>
     <string name="lang_en">English</string>

@@ -10,7 +10,7 @@ import string
 from flask import Blueprint, request, jsonify
 from flask_login import login_required, current_user, login_user
 from app import db, bcrypt
-from app.models import User, Appareil, Alerte, Localisation, FcmToken, TelephoneCollecte
+from app.models import User, Appareil, Alerte, Localisation, FcmToken, TelephoneCollecte, ZoneRisque
 from datetime import datetime, timezone
 from flask import current_app
 
@@ -953,4 +953,20 @@ def mobile_community_alerts():
         })
 
     return jsonify({'alertes': resultats}), 200
+
+
+@api_bp.route('/zones-risque', methods=['GET'])
+def api_zones_risque():
+    """Retourne toutes les zones à risque."""
+    zones = ZoneRisque.query.all()
+    return jsonify([{
+        'id': z.id,
+        'nom': z.nom,
+        'ville': z.ville,
+        'latitude': z.latitude,
+        'longitude': z.longitude,
+        'rayon_m': z.rayon_m,
+        'niveau_risque': z.niveau_risque,
+        'nombre_incidents': z.nombre_incidents
+    } for z in zones]), 200
 
