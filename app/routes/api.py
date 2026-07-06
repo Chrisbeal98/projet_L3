@@ -293,17 +293,36 @@ def api_verrouiller_par_code():
     appareil.statut = 'verrouillé'
     db.session.commit()
 
-    # Créer une alerte automatique
     alerte = Alerte(
         user_id=appareil.user_id,
         appareil_id=appareil.id,
-        type_alerte='perte',
+        type_alerte='vol',
         description='Verrouillé à distance via code de verrouillage',
         priorite='haute',
         statut='en_cours'
     )
     db.session.add(alerte)
     db.session.commit()
+
+    from app import envoyer_notification_push
+    proprietaire = db.session.get(User, appareil.user_id)
+    if proprietaire:
+        envoyer_notification_push(
+            appareil.user_id,
+            "ALERTE: " + appareil.marque + " " + appareil.modele + " verrouille",
+            "Code de verrouillage applique. Suivez la position en temps reel.",
+            {"appareil_id": str(appareil.id)}
+        )
+
+    tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
+    for autre in tous:
+        if autre.user_id:
+            envoyer_notification_push(
+                autre.user_id,
+                "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
+                "Un telephone a ete declare vole! Restez vigilant.",
+                {"appareil_id": str(appareil.id), "type": "community_alert"}
+            )
 
     return jsonify({
         'message': 'Appareil verrouillé avec succès',
