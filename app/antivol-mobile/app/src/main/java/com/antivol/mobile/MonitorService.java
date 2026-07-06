@@ -42,16 +42,23 @@ public class MonitorService extends Service {
     private static final String PREFS = "antivol_protection";
     private static final String KEY_WAS_STOLEN = "was_stolen";
 
+    private static final int GPS_NORMAL_INTERVAL = 10000;
+    private static final int GPS_NORMAL_FASTEST = 5000;
+    private static final int GPS_STOLEN_INTERVAL = 3000;
+    private static final int GPS_STOLEN_FASTEST = 1000;
+
     private DevicePolicyManager dpm;
     private ComponentName adminComponent;
     private Handler handler;
     private OkHttpClient client;
     private boolean isLocked = false;
+    private boolean isStolenMode = false;
     private PowerManager.WakeLock wakeLock;
 
     private FusedLocationProviderClient fusedLocationClient;
     private LocationCallback locationCallback;
     private boolean isGpsStarted = false;
+    private int currentGpsInterval = GPS_NORMAL_INTERVAL;
 
     private BroadcastReceiver unlockReceiver = new BroadcastReceiver() {
         @Override
@@ -218,6 +225,7 @@ public class MonitorService extends Service {
                         String json = body.string();
                         JSONObject obj = new JSONObject(json);
                         boolean verrouille = obj.getBoolean("verrouille");
+                        String statut = obj.optString("statut", "");
 
                         if (verrouille && !isLocked) {
                             isLocked = true;
@@ -228,6 +236,14 @@ public class MonitorService extends Service {
                             isLocked = false;
                             getSharedPreferences(PREFS, MODE_PRIVATE)
                                 .edit().putBoolean(KEY_WAS_STOLEN, false).apply();
+                        }
+
+                        boolean shouldBeStolen = "vole".equals(statut) || "verrouille".equals(statut);
+                        if (shouldBeStolen != isStolenMode) {
+                            isStolenMode = shouldBeStolen;
+                            if (isGpsStarted) {
+                                restartLocationUpdates();
+                            }
                         }
                     }
                 }
@@ -249,6 +265,19 @@ public class MonitorService extends Service {
         startActivity(lockIntent);
     }
 
+    private int getTargetGpsInterval() {
+        return isStolenMode ? GPS_STOLEN_INTERVAL : GPS_NORMAL_INTERVAL;
+    }
+
+    private int getTargetGpsFastest() {
+        return isStolenMode ? GPS_STOLEN_FASTEST : GPS_NORMAL_FASTEST;
+    }
+
+    private void restartLocationUpdates() {
+        stopLocationUpdates();
+        startLocationUpdates();
+    }
+
     private void startLocationUpdates() {
         if (isGpsStarted) return;
 
@@ -260,8 +289,8 @@ public class MonitorService extends Service {
 
         fusedLocationClient = LocationServices.getFusedLocationProviderClient(this);
         LocationRequest locationRequest = LocationRequest.create();
-        locationRequest.setInterval(10000);
-        locationRequest.setFastestInterval(5000);
+        locationRequest.setInterval(getTargetGpsInterval());
+        locationRequest.setFastestInterval(getTargetGpsFastest());
         locationRequest.setPriority(LocationRequest.PRIORITY_HIGH_ACCURACY);
 
         locationCallback = new LocationCallback() {
@@ -277,7 +306,9 @@ public class MonitorService extends Service {
         try {
             fusedLocationClient.requestLocationUpdates(locationRequest, locationCallback, Looper.getMainLooper());
             isGpsStarted = true;
-            Log.i(TAG, "GPS demarre");
+            currentGpsInterval = getTargetGpsInterval();
+            String mode = isStolenMode ? "INTENSIF (3s)" : "NORMAL (10s)";
+            Log.i(TAG, "GPS demarre - Mode " + mode);
         } catch (SecurityException e) {
             Log.e(TAG, "SecurityException GPS: " + e.getMessage());
         }
