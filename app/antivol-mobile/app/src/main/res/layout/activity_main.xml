@@ -310,7 +310,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
-                    android:weightSum="4">
+                    android:weightSum="5">
 
                     <!-- Nav: Appareils -->
                     <LinearLayout
@@ -365,6 +365,35 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/nav_alertes"
+                            android:textSize="11sp"
+                            android:textColor="@color/text_secondary"
+                            android:layout_marginTop="4dp" />
+                    </LinearLayout>
+
+                    <!-- Nav: Zones -->
+                    <LinearLayout
+                        android:id="@+id/navZones"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:padding="8dp"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:background="?attr/selectableItemBackground">
+
+                        <TextView
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:text="&#x26a0;"
+                            android:textSize="20sp"
+                            android:gravity="center"
+                            android:background="#1af59e0b" />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/nav_zones"
                             android:textSize="11sp"
                             android:textColor="@color/text_secondary"
                             android:layout_marginTop="4dp" />

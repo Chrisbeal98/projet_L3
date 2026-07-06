@@ -71,6 +71,11 @@
             android:exported="false"
             android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
 
+        <activity
+            android:name=".ZonesActivity"
+            android:exported="false"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+
         <receiver
             android:name=".BootReceiver"
             android:enabled="true"

@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView tvStatus, tvImei, tvLocked, tvLog, tvDeviceId, tvUserEmail;
     private TextView tvStatsDevices, tvStatsAlertes, tvStatsVol, tvStatsLocked;
     private Button btnActivate, btnStart, btnStop, btnRegister, btnSettings, btnLogout;
-    private LinearLayout navAlertes, navProfile, navDevices, navLocation;
+    private LinearLayout navAlertes, navProfile, navDevices, navLocation, navZones;
     private Handler handler;
     private OkHttpClient client;
     private boolean isMonitoring = false;
@@ -91,6 +91,7 @@ public class MainActivity extends AppCompatActivity {
         navProfile = findViewById(R.id.navProfile);
         navDevices = findViewById(R.id.navDevices);
         navLocation = findViewById(R.id.navLocation);
+        navZones = findViewById(R.id.navZones);
 
         handler = new Handler(Looper.getMainLooper());
         tvUserEmail.setText(AppConfig.getUserEmail(this));
@@ -111,6 +112,7 @@ public class MainActivity extends AppCompatActivity {
         navProfile.setOnClickListener(v -> openProfile());
         navDevices.setOnClickListener(v -> openSettings(v));
         navLocation.setOnClickListener(v -> openLocation());
+        navZones.setOnClickListener(v -> openZones());
 
         checkLocationPermission();
         enforceDeviceSecurity();
@@ -172,6 +174,10 @@ public class MainActivity extends AppCompatActivity {
         String url = apiUrl.replace("/api", "") + "/dashboard/carte?appareil_id=" + appareilId;
         Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
         startActivity(browserIntent);
+    }
+
+    private void openZones() {
+        startActivity(new Intent(this, ZonesActivity.class));
     }
 
     @Override
