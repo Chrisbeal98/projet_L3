@@ -21,7 +21,7 @@ class PreferencesManager(private val context: Context) {
         private val KEY_USER_ID = intPreferencesKey("user_id")
         private val KEY_USER_EMAIL = stringPreferencesKey("user_email")
 
-        private const val DEFAULT_API_URL = "http://192.168.46.54:8000/api"
+        private const val DEFAULT_API_URL = "https://chrisbeal98.pythonanywhere.com/api"
     }
 
     private val prefs: SharedPreferences by lazy {
