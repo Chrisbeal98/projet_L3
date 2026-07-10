@@ -49,7 +49,7 @@ def create_app(config_class=Config):
     login_manager.init_app(app)
     bcrypt.init_app(app)
     csrf.init_app(app)
-    cors.init_app(app, resources={r"/api/*": {"origins": ["https://chrisbeal98.pythonanywhere.com"]}})
+    cors.init_app(app, resources={r"/api/*": {"origins": ["https://antivol.onrender.com"]}})
 
     # Initialiser Babel (i18n)
     def get_locale():
