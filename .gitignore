@@ -14,6 +14,9 @@ venv/
 .idea/
 *.iml
 
+# Logs
+*.log
+
 # OS
 .DS_Store
 Thumbs.db

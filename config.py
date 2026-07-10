@@ -7,8 +7,9 @@ class Config:
     """Configuration de l'application Flask."""
     SECRET_KEY = os.environ.get('SECRET_KEY') or 'antivol-systeme-secret-key-2026'
 
-    # Base de données SQLite (pas de mot de passe, facile pour le développement)
-    SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(basedir, 'antivol.db')
+    # Base de données — utiliser DATABASE_URL en production (ex: PostgreSQL, MySQL)
+    # Par défaut, SQLite local pour le développement
+    SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL') or 'sqlite:///' + os.path.join(basedir, 'antivol.db')
 
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
