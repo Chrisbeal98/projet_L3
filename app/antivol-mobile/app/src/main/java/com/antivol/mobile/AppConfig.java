@@ -16,7 +16,7 @@ public class AppConfig {
     private static final String KEY_APPAREIL_ID = "appareil_id";
     private static final String KEY_API_TOKEN = "api_token";
 
-    private static final String DEFAULT_API_URL = "https://chrisbeal98.pythonanywhere.com/api";
+    private static final String DEFAULT_API_URL = "https://antivol.onrender.com/api";
     private static final int DEFAULT_APPAREIL_ID = -1;
 
     private static OkHttpClient httpClient;

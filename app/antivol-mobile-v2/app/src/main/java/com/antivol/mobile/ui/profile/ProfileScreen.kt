@@ -41,7 +41,7 @@ fun ProfileScreen(onNavigateBack: () -> Unit) {
     LaunchedEffect(Unit) {
         try {
             val prefs = context.getSharedPreferences("antivol_prefs", Context.MODE_PRIVATE)
-            val apiUrl = prefs.getString("api_url", "https://chrisbeal98.pythonanywhere.com/api") ?: ""
+            val apiUrl = prefs.getString("api_url", "https://antivol.onrender.com/api") ?: ""
             val userId = prefs.getInt("user_id", -1)
             if (userId == -1) return@LaunchedEffect
 
