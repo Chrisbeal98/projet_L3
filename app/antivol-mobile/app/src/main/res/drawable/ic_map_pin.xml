@@ -7,9 +7,7 @@
     <path
         android:fillColor="#FFFFFF"
         android:pathData="M21,10c0,7-9,13-9,13s-9-6-9-13a9,9 0,0 1,18 0z" />
-    <circle
+    <path
         android:fillColor="#02000e"
-        android:cx="12"
-        android:cy="10"
-        android:r="3" />
+        android:pathData="M12,7A3,3 0,1,1 12,13A3,3 0,1,1 12,7Z" />
 </vector>

@@ -184,6 +184,23 @@ def verrouiller_appareil(id):
     appareil.statut = 'verrouillé'
     db.session.commit()
 
+    envoyer_notification_push(
+        appareil.user_id,
+        "ALERTE: " + appareil.marque + " " + appareil.modele + " verrouille",
+        "Code de verrouillage applique depuis le tableau de bord. Suivez la position en temps reel.",
+        {"appareil_id": str(appareil.id)}
+    )
+
+    tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
+    for autre in tous:
+        if autre.user_id:
+            envoyer_notification_push(
+                autre.user_id,
+                "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
+                "Un telephone a ete declare vole! Restez vigilant.",
+                {"appareil_id": str(appareil.id), "type": "community_alert"}
+            )
+
     log_activite(current_user.id, 'verrouillage_appareil', f'{appareil.marque} {appareil.modele} verrouillé')
     flash(_('Appareil verrouillé à distance avec succès.'), 'success')
     return redirect(url_for('dashboard.appareils'))
@@ -223,6 +240,33 @@ def supprimer_appareil(id):
 
     log_activite(current_user.id, 'suppression_appareil', f'{nom_appareil} supprimé')
     flash(_('Appareil supprimé.'), 'success')
+    return redirect(url_for('dashboard.appareils'))
+
+
+@dashboard_bp.route('/appareils/reclamer', methods=['POST'])
+@login_required
+def reclamer_appareil():
+    """Réclamer un appareil mobile en entrant son code de verrouillage."""
+    code = request.form.get('code', '').strip()
+    if not code:
+        flash(_('Veuillez entrer un code de verrouillage.'), 'danger')
+        return redirect(url_for('dashboard.appareils'))
+
+    appareil = Appareil.query.filter_by(code_verrouillage=code).first()
+    if not appareil:
+        flash(_('Code invalide. Aucun appareil trouvé avec ce code.'), 'danger')
+        return redirect(url_for('dashboard.appareils'))
+
+    if appareil.user_id == current_user.id:
+        flash(_('Cet appareil vous appartient déjà.'), 'info')
+        return redirect(url_for('dashboard.appareils'))
+
+    old_user = appareil.user_id
+    appareil.user_id = current_user.id
+    db.session.commit()
+
+    log_activite(current_user.id, 'reclamation_appareil', f'{appareil.marque} {appareil.modele} (ancien user: {old_user})')
+    flash(_('%(marque)s %(modele)s a été réclamé avec succès !', marque=appareil.marque, modele=appareil.modele), 'success')
     return redirect(url_for('dashboard.appareils'))
 
 

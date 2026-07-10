@@ -20,3 +20,25 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Android build
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+app/antivol-mobile/.gradle/
+app/antivol-mobile/build/
+app/antivol-mobile/app/build/
+app/antivol-mobile/local.properties
+app/antivol-mobile-v2/.gradle/
+app/antivol-mobile-v2/build/
+app/antivol-mobile-v2/app/build/
+app/antivol-mobile-v2/local.properties
+*.apk
+*.ap_
+*.dex
+*.class
+*.iml
+android/gradle/
+android/gradlew
+android/gradlew.bat

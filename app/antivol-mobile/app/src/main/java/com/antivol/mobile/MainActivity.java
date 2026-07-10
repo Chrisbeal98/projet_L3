@@ -283,7 +283,12 @@ public class MainActivity extends AppCompatActivity {
         btnStop.setVisibility(View.VISIBLE);
         addLog("Surveillance activée - ID: " + appareilId);
 
-        startService(new Intent(this, MonitorService.class));
+        Intent svcIntent = new Intent(this, MonitorService.class);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            startForegroundService(svcIntent);
+        } else {
+            startService(svcIntent);
+        }
 
         checkDeviceStatus();
         handler.post(checkStatusRunnable);

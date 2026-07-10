@@ -24,9 +24,11 @@ public class LockService extends Service {
     private static final String TAG = "LockService";
     private static final int POLL_INTERVAL = 10000;
     private static final int COMMUNITY_POLL_INTERVAL = 30000;
+    private static final int NTFY_POLL_INTERVAL = 30000;
     private static final String PREF_NAME = "antivol_prefs";
     private static final String KEY_DEVICE_UUID = "device_uuid";
     private static final String PREF_SEEN_STOLEN = "seen_stolen_ids";
+    private static final String PREF_SEEN_NTFY = "seen_ntfy_ids";
     private static final String CHANNEL_ID = "antivol_lock_channel";
     private static final String COMMUNITY_CHANNEL_ID = "antivol_community_channel";
     private static final int NOTIF_ID = 1001;
@@ -34,6 +36,7 @@ public class LockService extends Service {
 
     private Thread pollThread;
     private Thread communityPollThread;
+    private Thread ntfyThread;
     private volatile boolean running = false;
     private String serverUrl;
     private boolean lastVerrouilleState = false;
@@ -54,6 +57,8 @@ public class LockService extends Service {
         pollThread.start();
         communityPollThread = new Thread(this::communityPollLoop);
         communityPollThread.start();
+        ntfyThread = new Thread(this::ntfyPollLoop);
+        ntfyThread.start();
         return START_STICKY;
     }
 
@@ -62,6 +67,7 @@ public class LockService extends Service {
         running = false;
         if (pollThread != null) pollThread.interrupt();
         if (communityPollThread != null) communityPollThread.interrupt();
+        if (ntfyThread != null) ntfyThread.interrupt();
         super.onDestroy();
     }
 
@@ -141,6 +147,20 @@ public class LockService extends Service {
             } catch (Exception e) {
                 Log.e(TAG, "Erreur polling communaute", e);
                 try { Thread.sleep(COMMUNITY_POLL_INTERVAL); } catch (InterruptedException ex) { break; }
+            }
+        }
+    }
+
+    private void ntfyPollLoop() {
+        while (running) {
+            try {
+                checkNtfyAlerts();
+                Thread.sleep(NTFY_POLL_INTERVAL);
+            } catch (InterruptedException e) {
+                break;
+            } catch (Exception e) {
+                Log.e(TAG, "Erreur polling ntfy", e);
+                try { Thread.sleep(NTFY_POLL_INTERVAL); } catch (InterruptedException ex) { break; }
             }
         }
     }
@@ -286,6 +306,92 @@ public class LockService extends Service {
             }
         } catch (Exception e) {
             Log.e(TAG, "Erreur notification communaute", e);
+        }
+    }
+
+    private void checkNtfyAlerts() {
+        try {
+            URL url = new URL("https://ntfy.sh/antivol-community/json?poll=1&since=1m");
+            HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+            conn.setRequestMethod("GET");
+            conn.setConnectTimeout(10000);
+            conn.setReadTimeout(35000);
+
+            int code = conn.getResponseCode();
+            if (code == 200) {
+                BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+                StringBuilder response = new StringBuilder();
+                String line;
+                while ((line = reader.readLine()) != null) {
+                    response.append(line);
+                }
+                reader.close();
+
+                SharedPreferences prefs = getSharedPreferences(PREF_NAME, MODE_PRIVATE);
+                String seenStr = prefs.getString(PREF_SEEN_NTFY, "");
+                Set<String> seenIds = new HashSet<>();
+                if (!seenStr.isEmpty()) {
+                    for (String id : seenStr.split(",")) {
+                        String trimmed = id.trim();
+                        if (!trimmed.isEmpty()) seenIds.add(trimmed);
+                    }
+                }
+
+                String myUuid = prefs.getString(KEY_DEVICE_UUID, "");
+                boolean changed = false;
+                String[] lines = response.toString().split("\n");
+
+                for (String jsonLine : lines) {
+                    jsonLine = jsonLine.trim();
+                    if (jsonLine.isEmpty()) continue;
+                    try {
+                        JSONObject msg = new JSONObject(jsonLine);
+                        String eventId = msg.optString("id", "");
+                        if (eventId.isEmpty() || seenIds.contains(eventId)) continue;
+
+                        String topic = msg.optString("topic", "");
+                        String title = msg.optString("title", "");
+                        String message = msg.optString("message", "");
+
+                        if ("antivol-community".equals(topic) && !title.isEmpty()) {
+                            seenIds.add(eventId);
+                            changed = true;
+
+                            String notifTitle = title;
+                            String notifText = message;
+                            if (message.contains(myUuid)) continue;
+
+                            Notification.Builder builder;
+                            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                                builder = new Notification.Builder(this, COMMUNITY_CHANNEL_ID);
+                            } else {
+                                builder = new Notification.Builder(this);
+                            }
+
+                            Notification notif = builder
+                                .setContentTitle(notifTitle)
+                                .setContentText(notifText)
+                                .setSmallIcon(android.R.drawable.ic_lock_lock)
+                                .setAutoCancel(true)
+                                .setDefaults(Notification.DEFAULT_ALL)
+                                .build();
+
+                            NotificationManager nm = getSystemService(NotificationManager.class);
+                            if (nm != null) {
+                                nm.notify(COMMUNITY_NOTIF_BASE + Math.abs(eventId.hashCode()), notif);
+                            }
+                        }
+                    } catch (Exception ignored) {}
+                }
+
+                if (changed) {
+                    String joined = String.join(",", seenIds);
+                    prefs.edit().putString(PREF_SEEN_NTFY, joined).apply();
+                }
+            }
+            conn.disconnect();
+        } catch (Exception e) {
+            Log.e(TAG, "Erreur requete ntfy", e);
         }
     }
 }

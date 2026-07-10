@@ -15,10 +15,26 @@ android {
         versionName '1.0'
     }
 
+    def keystorePropertiesFile = rootProject.file("keystore.properties")
+    def keystoreProperties = new Properties()
+    if (keystorePropertiesFile.exists()) {
+        keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+    }
+
+    signingConfigs {
+        release {
+            storeFile file(keystoreProperties.getProperty('storeFile', 'antivol-release-key.jks'))
+            storePassword keystoreProperties.getProperty('storePassword', 'antivol123')
+            keyAlias keystoreProperties.getProperty('keyAlias', 'antivol-key')
+            keyPassword keystoreProperties.getProperty('keyPassword', 'antivol123')
+        }
+    }
+
     buildTypes {
         release {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
         }
     }
 

@@ -247,6 +247,33 @@
     </div>
 </div>
 
+<!-- ═══ RÉCLAMER UN APPAREIL MOBILE ═══ -->
+<div class="card" style="margin-top:24px;border-left:3px solid #8b5cf6">
+    <div class="card-body" style="padding:20px">
+        <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px">
+            <div style="font-size:28px">📱</div>
+            <div>
+                <h3 style="font-size:16px;font-weight:600">Réclamer un appareil mobile</h3>
+                <p style="font-size:13px;color:rgba(255,255,255,0.5);margin:0">
+                    Entrez le code de verrouillage affiché sur votre téléphone pour l'associer à votre compte et voir sa position.
+                </p>
+            </div>
+        </div>
+        <form method="POST" action="{{ url_for('dashboard.reclamer_appareil') }}" style="display:flex;gap:8px;align-items:flex-end;flex-wrap:wrap">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+            <div style="flex:1;min-width:200px">
+                <input type="text" name="code" inputmode="numeric" pattern="[0-9]{4}" maxlength="4"
+                       placeholder="Code de verrouillage (4 chiffres)"
+                       style="width:100%;padding:12px 16px;border-radius:10px;border:1px solid rgba(255,255,255,0.1);background:rgba(255,255,255,0.05);color:#fff;font-size:18px;font-family:monospace;letter-spacing:4px;text-align:center;outline:none"
+                       autocomplete="off" required>
+            </div>
+            <button type="submit" class="btn btn-primary" style="padding:12px 20px;border-radius:10px;font-size:14px;font-weight:600;white-space:nowrap">
+                <i data-lucide="link"></i> Réclamer l'appareil
+            </button>
+        </form>
+    </div>
+</div>
+
 <style>
 .btn-xs {
     display: inline-flex; align-items: center; gap: 6px;
