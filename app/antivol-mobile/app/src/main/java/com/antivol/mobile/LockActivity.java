@@ -120,7 +120,7 @@ public class LockActivity extends Activity {
         // Prevent back and recent apps
         setFinishOnTouchOutside(false);
         // Mode kiosque : bloque Home et Récents
-        startLockTask();
+        try { startLockTask(); } catch (Exception ignored) {}
 
         // Force max volume alarm sound
         AudioManager audio = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
@@ -130,6 +130,7 @@ public class LockActivity extends Activity {
             try {
                 ToneGenerator tg = new ToneGenerator(AudioManager.STREAM_ALARM, 100);
                 tg.startTone(ToneGenerator.TONE_CDMA_ALERT_CALL_GUARD, 2000);
+                handler.postDelayed(tg::release, 2500);
             } catch (Exception ignored) {}
         }
 
@@ -157,7 +158,7 @@ public class LockActivity extends Activity {
 
         // Écouter le broadcast de déverrouillage distant
         IntentFilter filter = new IntentFilter("com.antivol.mobile.ACTION_UNLOCK");
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {
             registerReceiver(unlockReceiver, filter, Context.RECEIVER_NOT_EXPORTED);
         } else {
             registerReceiver(unlockReceiver, filter);

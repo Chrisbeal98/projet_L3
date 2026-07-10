@@ -75,7 +75,7 @@ public class ProfilActivity extends AppCompatActivity {
                                         + (nom.isEmpty() ? "" : nom.substring(0, 1));
                                 tvAvatar.setText(initials.isEmpty() ? "?" : initials.toUpperCase());
                                 tvFullName.setText(prenom + " " + nom);
-                                tvRole.setText(role.substring(0, 1).toUpperCase() + role.substring(1));
+                                tvRole.setText(role.isEmpty() ? "?" : role.substring(0, 1).toUpperCase() + role.substring(1));
                                 tvEmail.setText(email);
                                 tvTelephone.setText(telephone.isEmpty() ? "Non renseigné" : telephone);
 

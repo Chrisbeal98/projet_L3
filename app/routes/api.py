@@ -140,8 +140,19 @@ def api_login():
 @api_bp.route('/appareils', methods=['GET'])
 @login_required
 def get_appareils():
-    """Récupérer les appareils de l'utilisateur connecté."""
-    appareils = Appareil.query.filter_by(user_id=current_user.id).all()
+    """Récupérer les appareils de l'utilisateur connecté + appareils mobile non réclamés."""
+    if current_user.role == 'admin':
+        appareils = Appareil.query.all()
+    else:
+        appareils = Appareil.query.filter(
+            db.or_(
+                Appareil.user_id == current_user.id,
+                db.and_(
+                    Appareil.device_uuid != None,
+                    Appareil.user_id != current_user.id
+                )
+            )
+        ).all()
 
     return jsonify([{
         'id': a.id, 'imei': a.imei, 'modele': a.modele,
@@ -266,6 +277,26 @@ def api_verrouiller(id):
     appareil.statut = 'verrouillé'
     db.session.commit()
 
+    from app import envoyer_notification_push
+    proprietaire = db.session.get(User, appareil.user_id)
+    if proprietaire:
+        envoyer_notification_push(
+            appareil.user_id,
+            "ALERTE: " + appareil.marque + " " + appareil.modele + " verrouille",
+            "Code de verrouillage applique. Suivez la position en temps reel.",
+            {"appareil_id": str(appareil.id)}
+        )
+
+    tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
+    for autre in tous:
+        if autre.user_id:
+            envoyer_notification_push(
+                autre.user_id,
+                "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
+                "Un telephone a ete declare vole! Restez vigilant.",
+                {"appareil_id": str(appareil.id), "type": "community_alert"}
+            )
+
     print(f"--- ACTION REUSSIE : {appareil.modele} verrouillé ---")
     return jsonify({'message': 'Appareil verrouillé', 'statut': 'verrouillé'}), 200
 
@@ -338,6 +369,9 @@ def api_verrouiller_pin(id):
     if not user:
         return jsonify({'error': 'Non authentifié'}), 401
 
+    data = request.get_json(silent=True) or {}
+    code_pin_saisi = data.get('code_pin', '').strip()
+
     appareil = db.get_or_404(Appareil, id)
     if appareil.user_id != user.id and user.role != 'admin':
         return jsonify({'error': 'Non autorisé'}), 403
@@ -345,8 +379,31 @@ def api_verrouiller_pin(id):
     if not appareil.code_ussd:
         return jsonify({'error': 'Aucun code PIN généré pour cet appareil'}), 404
 
+    if code_pin_saisi and code_pin_saisi != appareil.code_ussd:
+        return jsonify({'error': 'Code PIN incorrect'}), 401
+
     appareil.statut = 'verrouillé'
     db.session.commit()
+
+    from app import envoyer_notification_push
+    proprietaire = db.session.get(User, appareil.user_id)
+    if proprietaire:
+        envoyer_notification_push(
+            appareil.user_id,
+            "ALERTE: " + appareil.marque + " " + appareil.modele + " verrouille",
+            "Code PIN applique. Suivez la position en temps reel.",
+            {"appareil_id": str(appareil.id)}
+        )
+
+    tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
+    for autre in tous:
+        if autre.user_id:
+            envoyer_notification_push(
+                autre.user_id,
+                "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
+                "Un telephone a ete declare vole! Restez vigilant.",
+                {"appareil_id": str(appareil.id), "type": "community_alert"}
+            )
 
     return jsonify({
         'message': 'Appareil verrouillé via PIN',
@@ -384,25 +441,33 @@ def update_localisation():
     lat = data.get('latitude')
     lng = data.get('longitude')
 
-    if not lat or not lng:
+    if lat is None or lng is None:
         return jsonify({"error": "Données GPS incomplètes"}), 400
 
-    if appareil_id:
-        appareil = db.session.get(Appareil, appareil_id)
-        if not appareil:
-            return jsonify({"error": "Appareil introuvable"}), 404
+    try:
+        lat = float(lat)
+        lng = float(lng)
+    except (TypeError, ValueError):
+        return jsonify({"error": "Coordonnées GPS invalides"}), 400
 
-        nouvelle_loc = Localisation(
-            appareil_id=appareil_id,
-            latitude=lat,
-            longitude=lng,
-            precision_m=data.get('precision_m'),
-            source=data.get('source', 'gps'),
-            date_capture=datetime.now(timezone.utc)
-        )
-        db.session.add(nouvelle_loc)
-        db.session.commit()
-        print(f"--- GPS REÇU : Appareil {appareil_id} à ({lat}, {lng}) ---")
+    if not appareil_id:
+        return jsonify({"status": "success", "message": "Position reçue (non stockée, pas d'appareil_id)"}), 200
+
+    appareil = db.session.get(Appareil, appareil_id)
+    if not appareil:
+        return jsonify({"error": "Appareil introuvable"}), 404
+
+    nouvelle_loc = Localisation(
+        appareil_id=appareil_id,
+        latitude=lat,
+        longitude=lng,
+        precision_m=data.get('precision_m'),
+        source=data.get('source', 'gps'),
+        date_capture=datetime.now(timezone.utc)
+    )
+    db.session.add(nouvelle_loc)
+    db.session.commit()
+    print(f"--- GPS REÇU : Appareil {appareil_id} à ({lat}, {lng}) ---")
 
     return jsonify({"status": "success", "message": "Position mise à jour"}), 200
 
@@ -414,7 +479,15 @@ def get_latest_localisations():
     if current_user.role == 'admin':
         q = Appareil.query
     else:
-        q = Appareil.query.filter_by(user_id=current_user.id)
+        q = Appareil.query.filter(
+            db.or_(
+                Appareil.user_id == current_user.id,
+                db.and_(
+                    Appareil.device_uuid != None,
+                    Appareil.user_id != current_user.id
+                )
+            )
+        )
 
     appareils = q.all()
     if not appareils:
@@ -492,7 +565,7 @@ def get_historique_localisations(appareil_id):
 @api_bp.route('/appareils/<int:id>/verifier-code', methods=['POST'])
 def api_verifier_code(id):
     """Vérifier le code de déverrouillage saisi sur le mobile.
-    Utilise les 4 derniers chiffres du mot de passe de l'utilisateur."""
+    Compare le code saisi avec le code_verrouillage de l'appareil."""
     data = request.get_json()
     if not data or 'code' not in data:
         return jsonify({'error': 'Code manquant'}), 400
@@ -501,21 +574,12 @@ def api_verifier_code(id):
     if not appareil:
         return jsonify({'error': 'Appareil introuvable'}), 404
 
-    proprietaire = db.session.get(User, appareil.user_id)
-    if not proprietaire:
-        return jsonify({'error': 'Propriétaire introuvable'}), 404
-
     code_saisi = data.get('code', '').strip()
 
-    pwd_hash = proprietaire.password_hash
-    if isinstance(pwd_hash, bytes):
-        pwd_hash = pwd_hash.decode('utf-8')
-    hash_clean = pwd_hash.replace('$2b$', '').replace('$2a$', '')
-    chiffres = ''.join([c for c in hash_clean if c.isdigit()])
-    if len(chiffres) >= 4:
-        code_attendu = chiffres[-4:]
-    else:
-        code_attendu = chiffres.zfill(4)[:4]
+    code_attendu = appareil.code_verrouillage
+
+    if not code_attendu:
+        return jsonify({'error': 'Aucun code de verrouillage défini pour cet appareil'}), 400
 
     if code_saisi == code_attendu:
         appareil.statut = 'actif'
@@ -745,6 +809,10 @@ def mobile_register():
 
     existing = Appareil.query.filter_by(device_uuid=device_uuid).first()
     if existing:
+        user = get_request_user()
+        if user and existing.user_id != user.id:
+            existing.user_id = user.id
+            db.session.commit()
         return jsonify({
             'message': 'Appareil déjà enregistré',
             'id': existing.id,
@@ -756,10 +824,11 @@ def mobile_register():
     marque = data.get('marque', 'Inconnu')
     version_os = data.get('version_os', 'Inconnue')
 
-    from app.models import Appareil
-    import secrets
+    user = get_request_user()
+    user_id = user.id if user else 1
+
     nouveau = Appareil(
-        user_id=1,  # admin par défaut
+        user_id=user_id,
         imei=device_uuid[:20],
         modele=modele,
         marque=marque,
@@ -822,6 +891,48 @@ def mobile_unlock():
     return jsonify({'error': 'Code incorrect'}), 401
 
 
+@api_bp.route('/mobile/claim', methods=['POST'])
+def mobile_claim():
+    """Associer un appareil mobile (device_uuid) au compte de l'utilisateur connecté."""
+    user = get_request_user()
+    if not user:
+        return jsonify({'error': 'Non authentifié'}), 401
+
+    data = request.get_json()
+    if not data or 'device_uuid' not in data:
+        return jsonify({'error': 'device_uuid requis'}), 400
+
+    device_uuid = data['device_uuid'].strip()
+    appareil = Appareil.query.filter_by(device_uuid=device_uuid).first()
+    if not appareil:
+        return jsonify({'error': 'Appareil introuvable'}), 404
+
+    appareil.user_id = user.id
+    db.session.commit()
+
+    print(f"--- CLAIM : Appareil {appareil.id} ({appareil.marque} {appareil.modele}) associé à User#{user.id} ---")
+    return jsonify({
+        'message': 'Appareil associé au compte',
+        'appareil_id': appareil.id,
+        'user_id': user.id
+    }), 200
+
+
+@api_bp.route('/mobile/me', methods=['GET'])
+def mobile_me():
+    """Retourne l'ID de l'utilisateur connecté (via session cookie)."""
+    user = get_request_user()
+    if not user:
+        return jsonify({'authenticated': False}), 200
+
+    return jsonify({
+        'authenticated': True,
+        'user_id': user.id,
+        'nom': user.nom,
+        'prenom': user.prenom
+    }), 200
+
+
 @api_bp.route('/mobile/lock/<device_uuid>', methods=['POST'])
 def mobile_lock(device_uuid):
     """Verrouiller un appareil par UUID."""
@@ -880,8 +991,10 @@ def mobile_stolen_alert():
     if not appareil:
         return jsonify({'error': 'Appareil introuvable'}), 404
 
-    if appareil.statut not in ('vole', 'verrouille'):
-        appareil.statut = 'vole'
+    device_uuid = data['device_uuid']
+
+    if appareil.statut not in ('volé', 'verrouillé'):
+        appareil.statut = 'volé'
         db.session.commit()
 
     lat = data.get('latitude')
@@ -907,7 +1020,6 @@ def mobile_stolen_alert():
             {"appareil_id": str(appareil.id), "lat": str(lat), "lng": str(lng)}
         )
 
-    from app import envoyer_notification_push
     tous = Appareil.query.filter(Appareil.device_uuid != None, Appareil.device_uuid != device_uuid).all()
     for autre in tous:
         if autre.user_id:
@@ -928,7 +1040,7 @@ def mobile_stolen_alert():
 def mobile_community_alerts():
     """Retourne la liste des appareils actuellement declares voles ou verrouilles."""
     recents = Appareil.query.filter(
-        Appareil.statut.in_(['vole', 'verrouille'])
+        Appareil.statut.in_(['volé', 'verrouillé'])
     ).all()
 
     resultats = []

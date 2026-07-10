@@ -18,8 +18,8 @@ public class SimChangeReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
         String action = intent.getAction();
-        if (TelephonyManager.ACTION_SIM_STATE_CHANGED.equals(action)) {
-            String state = intent.getStringExtra(TelephonyManager.EXTRA_SIM_STATE);
+        if ("android.intent.action.SIM_STATE_CHANGED".equals(action)) {
+            String state = intent.getStringExtra("ss");
             if ("ABSENT".equals(state)) {
                 Log.w(TAG, "SIM retiree !");
                 lockAndAlert(context, "SIM RETIREE");

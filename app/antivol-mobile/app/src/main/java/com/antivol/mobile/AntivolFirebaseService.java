@@ -90,7 +90,11 @@ public class AntivolFirebaseService extends FirebaseMessagingService {
         Log.i(TAG, "Broadcast ACTION_UNLOCK envoyé");
 
         Intent serviceIntent = new Intent(this, MonitorService.class);
-        startService(serviceIntent);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            startForegroundService(serviceIntent);
+        } else {
+            startService(serviceIntent);
+        }
     }
 
     private void showAlertNotification(String title, String body) {

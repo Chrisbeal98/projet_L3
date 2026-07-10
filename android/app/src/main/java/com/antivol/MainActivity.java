@@ -10,10 +10,13 @@ import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.os.Build;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
+import android.webkit.CookieManager;
 import android.webkit.WebChromeClient;
 import android.webkit.WebResourceError;
 import android.webkit.WebResourceRequest;
+import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Button;
@@ -38,6 +41,7 @@ import java.util.UUID;
 
 public class MainActivity extends AppCompatActivity {
 
+    private static final String TAG = "MainActivity";
     private static final int LOCATION_PERMISSION_CODE = 100;
     private static final int NOTIFICATION_PERMISSION_CODE = 101;
     private static final int SMS_PERMISSION_CODE = 102;
@@ -95,6 +99,9 @@ public class MainActivity extends AppCompatActivity {
         unlockButton = findViewById(R.id.unlockButton);
         unlockError = findViewById(R.id.unlockError);
 
+        CookieManager.getInstance().setAcceptCookie(true);
+        CookieManager.getInstance().setAcceptThirdPartyCookies(webView, true);
+
         webView.getSettings().setJavaScriptEnabled(true);
         webView.getSettings().setDomStorageEnabled(true);
         webView.getSettings().setLoadWithOverviewMode(true);
@@ -130,6 +137,13 @@ public class MainActivity extends AppCompatActivity {
         SharedPreferences prefs = getSharedPreferences(PREF_NAME, MODE_PRIVATE);
         deviceUuid = prefs.getString(KEY_DEVICE_UUID, null);
 
+        Intent lockIntent = new Intent(this, LockService.class);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            startForegroundService(lockIntent);
+        } else {
+            startService(lockIntent);
+        }
+
         if (deviceUuid == null) {
             deviceUuid = UUID.randomUUID().toString();
             prefs.edit().putString(KEY_DEVICE_UUID, deviceUuid).apply();
@@ -138,14 +152,16 @@ public class MainActivity extends AppCompatActivity {
             currentLockCode = prefs.getString(KEY_LOCK_CODE, "");
             boolean wasLocked = prefs.getBoolean("was_locked", false);
             if (wasLocked) showLockScreen();
+            startLocationServiceIfNeeded();
         }
 
-        Intent lockIntent = new Intent(this, LockService.class);
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-            startForegroundService(lockIntent);
-        } else {
-            startService(lockIntent);
-        }
+        loadUrl();
+    }
+
+    private void startLocationServiceIfNeeded() {
+        SharedPreferences prefs = getSharedPreferences(PREF_NAME, MODE_PRIVATE);
+        int deviceId = prefs.getInt(KEY_DEVICE_ID, -1);
+        if (deviceId == -1) return;
 
         Intent locIntent = new Intent(this, LocationService.class);
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
@@ -153,11 +169,13 @@ public class MainActivity extends AppCompatActivity {
         } else {
             startService(locIntent);
         }
-
-        loadUrl();
     }
 
     private void registerDevice(String uuid) {
+        registerDeviceWithRetry(uuid, 3);
+    }
+
+    private void registerDeviceWithRetry(String uuid, int retriesLeft) {
         new Thread(() -> {
             try {
                 JSONObject data = new JSONObject();
@@ -202,10 +220,21 @@ public class MainActivity extends AppCompatActivity {
                         String msg = "Code déverrouillage: " + finalLockCode;
                         Toast.makeText(this, msg, Toast.LENGTH_LONG).show();
                     });
+
+                    runOnUiThread(this::startLocationServiceIfNeeded);
+                } else if (retriesLeft > 0) {
+                    Thread.sleep(5000);
+                    registerDeviceWithRetry(uuid, retriesLeft - 1);
                 }
                 conn.disconnect();
             } catch (Exception e) {
-                e.printStackTrace();
+                Log.e(TAG, "Erreur registration", e);
+                if (retriesLeft > 0) {
+                    try {
+                        Thread.sleep(5000);
+                    } catch (InterruptedException ignored) {}
+                    registerDeviceWithRetry(uuid, retriesLeft - 1);
+                }
             }
         }).start();
     }
@@ -336,6 +365,56 @@ public class MainActivity extends AppCompatActivity {
         loadUrl();
     }
 
+    private void claimDeviceForUser() {
+        if (deviceUuid == null) return;
+
+        new Thread(() -> {
+            try {
+                JSONObject data = new JSONObject();
+                data.put("device_uuid", deviceUuid);
+
+                String cookies = CookieManager.getInstance().getCookie(serverUrl);
+
+                URL url = new URL(serverUrl + "/api/mobile/claim");
+                HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+                conn.setRequestMethod("POST");
+                conn.setRequestProperty("Content-Type", "application/json");
+                if (cookies != null) {
+                    conn.setRequestProperty("Cookie", cookies);
+                }
+                conn.setConnectTimeout(15000);
+                conn.setReadTimeout(15000);
+                conn.setDoOutput(true);
+
+                OutputStream os = conn.getOutputStream();
+                os.write(data.toString().getBytes());
+                os.close();
+
+                int responseCode = conn.getResponseCode();
+                if (responseCode == 200) {
+                    BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+                    StringBuilder response = new StringBuilder();
+                    String line;
+                    while ((line = reader.readLine()) != null) response.append(line);
+                    reader.close();
+
+                    JSONObject json = new JSONObject(response.toString());
+                    int userId = json.optInt("user_id", 0);
+                    if (userId > 0) {
+                        getSharedPreferences(PREF_NAME, MODE_PRIVATE)
+                                .edit()
+                                .putInt("user_id", userId)
+                                .apply();
+                        Log.d(TAG, "Appareil lié au compte utilisateur #" + userId);
+                    }
+                }
+                conn.disconnect();
+            } catch (Exception e) {
+                Log.e(TAG, "Erreur claim device", e);
+            }
+        }).start();
+    }
+
     @Override
     public void onBackPressed() {
         if (isLocked) return;
@@ -359,6 +438,10 @@ public class MainActivity extends AppCompatActivity {
             super.onPageFinished(view, url);
             progressBar.setVisibility(View.GONE);
             swipeRefresh.setRefreshing(false);
+
+            if (url.contains("/dashboard") || url.contains("/appareils") || url.contains("/alertes") || url.contains("/carte")) {
+                claimDeviceForUser();
+            }
         }
 
         @Override

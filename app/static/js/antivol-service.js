@@ -5,12 +5,12 @@
  */
 
 const CONFIG = {
-    API_URL: 'http://192.168.45.36:8000/api', // IP du serveur Flask
-    APPAREIL_ID: 1,                           // ID de l'appareil
-    IMEI: '351234567890123',                  // IMEI du téléphone
-    POLL_INTERVAL: 5000,                      // Vérification toutes les 5 secondes
-    LOCK_DELAY: 3000,                         // Délai avant verrouillage (3s)
-    SECRET_CODE: '987654321',                 // Code de déverrouillage (pour l'app)
+    API_URL: window.location.protocol + '//' + window.location.host + '/api',
+    APPAREIL_ID: 1,
+    IMEI: '351234567890123',
+    POLL_INTERVAL: 5000,
+    LOCK_DELAY: 3000,
+    SECRET_CODE: '987654321',
 };
 
 let isLocked = false;
@@ -74,23 +74,30 @@ function attemptUnlock() {
     const code = document.getElementById('unlock-code').value;
     const errorMsg = document.getElementById('unlock-error');
 
-    if (code === CONFIG.SECRET_CODE) {
-        // Vérifier côté serveur que le statut est bien 'actif'
-        fetch(`${CONFIG.API_URL}/appareils/${CONFIG.APPAREIL_ID}/statut`)
-            .then(res => res.json())
-            .then(data => {
-                if (!data.verrouille) {
-                    hideLockScreen();
-                    errorMsg.textContent = '';
-                    console.log('[AntiVol] Appareil déverrouillé avec succès');
-                } else {
-                    errorMsg.textContent = "L'appareil est toujours verrouillé côté serveur.";
-                }
-            });
-    } else {
-        errorMsg.textContent = 'Code incorrect.';
-        console.log('[AntiVol] Code de déverrouillage incorrect');
+    if (!code) {
+        errorMsg.textContent = 'Entrez un code.';
+        return;
     }
+
+    fetch(`${CONFIG.API_URL}/appareils/${CONFIG.APPAREIL_ID}/verifier-code`, {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({code: code})
+    })
+    .then(res => res.json())
+    .then(data => {
+        if (data.statut === 'actif') {
+            hideLockScreen();
+            errorMsg.textContent = '';
+            console.log('[AntiVol] Appareil déverrouillé avec succès');
+        } else {
+            errorMsg.textContent = data.error || 'Code incorrect.';
+            console.log('[AntiVol] Code de déverrouillage incorrect');
+        }
+    })
+    .catch(() => {
+        errorMsg.textContent = 'Erreur réseau.';
+    });
 }
 
 // ═══════════════════════════════════════════

@@ -103,13 +103,26 @@ public class MonitorService extends Service {
         }
     };
 
-    private Runnable checkRunnable = new Runnable() {
+        private Runnable checkRunnable = new Runnable() {
         @Override
         public void run() {
             checkStatus();
+            reacquireWakeLock();
             handler.postDelayed(this, 5000);
         }
     };
+
+    private void reacquireWakeLock() {
+        if (wakeLock != null && !wakeLock.isHeld()) {
+            try {
+                PowerManager pm = (PowerManager) getSystemService(Context.POWER_SERVICE);
+                if (pm != null) {
+                    wakeLock = pm.newWakeLock(PowerManager.PARTIAL_WAKE_LOCK, "AntiVol:ProtectionWakeLock");
+                    wakeLock.acquire(10 * 60 * 1000L);
+                }
+            } catch (Exception ignored) {}
+        }
+    }
 
     @Override
     public void onCreate() {
@@ -122,7 +135,7 @@ public class MonitorService extends Service {
         acquireWakeLock();
 
         IntentFilter unlockFilter = new IntentFilter("com.antivol.mobile.ACTION_UNLOCK");
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {
             registerReceiver(unlockReceiver, unlockFilter, Context.RECEIVER_NOT_EXPORTED);
         } else {
             registerReceiver(unlockReceiver, unlockFilter);
@@ -242,7 +255,7 @@ public class MonitorService extends Service {
                         if (shouldBeStolen != isStolenMode) {
                             isStolenMode = shouldBeStolen;
                             if (isGpsStarted) {
-                                restartLocationUpdates();
+                                handler.post(() -> restartLocationUpdates());
                             }
                         }
                     }
