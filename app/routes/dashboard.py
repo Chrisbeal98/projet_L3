@@ -112,22 +112,27 @@ def index():
 @login_required
 def appareils():
     """Page listant les appareils — utilise le template moderne devices.html."""
-    if current_user.role == 'admin':
-        appareils_liste = Appareil.query.all()
-    else:
-        appareils_liste = Appareil.query.filter_by(user_id=current_user.id).all()
+    try:
+        if current_user.role == 'admin':
+            appareils_liste = Appareil.query.all()
+        else:
+            appareils_liste = Appareil.query.filter_by(user_id=current_user.id).all()
 
-    # Générer les codes pour les appareils qui n'en ont pas encore
-    modifie = False
-    for a in appareils_liste:
-        if not a.code_verrouillage:
-            a.code_verrouillage = generer_code_verrouillage()
-            modifie = True
-        if not a.code_ussd:
-            a.code_ussd = generer_code_pin()
-            modifie = True
-    if modifie:
-        db.session.commit()
+        # Générer les codes pour les appareils qui n'en ont pas encore
+        modifie = False
+        for a in appareils_liste:
+            if not a.code_verrouillage:
+                a.code_verrouillage = generer_code_verrouillage()
+                modifie = True
+            if not a.code_ussd:
+                a.code_ussd = generer_code_pin()
+                modifie = True
+        if modifie:
+            db.session.commit()
+    except Exception as e:
+        db.session.rollback()
+        flash(_('Erreur lors du chargement des appareils : %(err)s', err=str(e)), 'danger')
+        appareils_liste = []
 
     return render_template('devices.html', appareils=appareils_liste)
 
