@@ -18,6 +18,7 @@ class Config:
     # Pour ntfy.sh, définir la variable d'environnement NTFY_URL
     # Laisser vide pour utiliser https://ntfy.sh (gratuit, sans inscription)
     FCM_SERVER_KEY = os.environ.get('FCM_SERVER_KEY') or ''
+    FIREBASE_SERVICE_ACCOUNT = os.environ.get('FIREBASE_SERVICE_ACCOUNT') or 'firebase-service-account.json'
     SMS_API_KEY = os.environ.get('SMS_API_KEY') or ''
 
     # Sécurité

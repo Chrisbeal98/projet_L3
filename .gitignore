@@ -1,6 +1,10 @@
 # Environnement
 .env
 
+# Firebase
+firebase-service-account.json
+**/google-services.json
+
 # Base de données
 antivol.db
 
