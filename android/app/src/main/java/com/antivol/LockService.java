@@ -31,6 +31,7 @@ public class LockService extends Service {
     private static final String PREF_SEEN_NTFY = "seen_ntfy_ids";
     private static final String CHANNEL_ID = "antivol_lock_channel";
     private static final String COMMUNITY_CHANNEL_ID = "antivol_community_channel";
+    private static final String KEY_LOCK_CODE = "lock_code";
     private static final int NOTIF_ID = 1001;
     private static final int COMMUNITY_NOTIF_BASE = 2001;
 
@@ -170,87 +171,81 @@ public class LockService extends Service {
     }
 
     private void personalNtfyPollLoop() {
-        while (running) {
-            try {
-                checkPersonalNtfyAlerts();
-                Thread.sleep(NTFY_POLL_INTERVAL);
-            } catch (InterruptedException e) {
-                break;
-            } catch (Exception e) {
-                Log.e(TAG, "Erreur polling ntfy personnel", e);
-                try { Thread.sleep(NTFY_POLL_INTERVAL); } catch (InterruptedException ex) { break; }
-            }
-        }
-    }
-
-    private void checkPersonalNtfyAlerts() {
         SharedPreferences prefs = getSharedPreferences(PREF_NAME, MODE_PRIVATE);
-        int userId = prefs.getInt("user_id", -1);
-        if (userId <= 0) return;
+        String lastEventId = "0";
 
-        String myUuid = prefs.getString(KEY_DEVICE_UUID, "");
-        String topic = "antivol-u" + userId;
+        while (running) {
+            int userId = prefs.getInt("user_id", -1);
+            if (userId <= 0) {
+                try { Thread.sleep(5000); } catch (InterruptedException e) { break; }
+                continue;
+            }
 
-        try {
-            URL url = new URL("https://ntfy.sh/" + topic + "/json?poll=1&since=1m");
-            HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-            conn.setRequestMethod("GET");
-            conn.setConnectTimeout(10000);
-            conn.setReadTimeout(35000);
+            String topic = "antivol-u" + userId;
+            String myUuid = prefs.getString(KEY_DEVICE_UUID, "");
 
-            int code = conn.getResponseCode();
-            if (code == 200) {
-                BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
-                StringBuilder response = new StringBuilder();
-                String line;
-                while ((line = reader.readLine()) != null) {
-                    response.append(line);
-                }
-                reader.close();
+            try {
+                URL url = new URL("https://ntfy.sh/" + topic + "/json?poll=1&since=" + lastEventId);
+                HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+                conn.setRequestMethod("GET");
+                conn.setConnectTimeout(15000);
+                conn.setReadTimeout(65000);
 
-                String seenStr = prefs.getString("seen_personal_ntfy", "");
-                Set<String> seenIds = new HashSet<>();
-                if (!seenStr.isEmpty()) {
-                    for (String id : seenStr.split(",")) {
-                        String trimmed = id.trim();
-                        if (!trimmed.isEmpty()) seenIds.add(trimmed);
-                    }
-                }
+                int code = conn.getResponseCode();
+                if (code == 200) {
+                    BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+                    String jsonLine;
+                    while ((jsonLine = reader.readLine()) != null) {
+                        jsonLine = jsonLine.trim();
+                        if (jsonLine.isEmpty()) continue;
+                        try {
+                            JSONObject msg = new JSONObject(jsonLine);
+                            String eventId = msg.optString("id", "");
+                            String title = msg.optString("title", "");
+                            String message = msg.optString("message", "");
 
-                boolean changed = false;
-                String[] lines = response.toString().split("\n");
-
-                for (String jsonLine : lines) {
-                    jsonLine = jsonLine.trim();
-                    if (jsonLine.isEmpty()) continue;
-                    try {
-                        JSONObject msg = new JSONObject(jsonLine);
-                        String eventId = msg.optString("id", "");
-                        if (eventId.isEmpty() || seenIds.contains(eventId)) continue;
-
-                        String msgTopic = msg.optString("topic", "");
-                        String title = msg.optString("title", "");
-                        String message = msg.optString("message", "");
-
-                        if (topic.equals(msgTopic) && !title.isEmpty()) {
-                            seenIds.add(eventId);
-                            changed = true;
+                            if (!eventId.isEmpty()) lastEventId = eventId;
 
                             if (message.contains(myUuid)) continue;
 
-                            showPersonalNotification(title, message);
-                        }
-                    } catch (Exception ignored) {}
-                }
+                            String cmd = title.toUpperCase().trim();
+                            if ("LOCK".equals(cmd) || "VOL".equals(cmd) || "PERTE".equals(cmd)
+                                || "VERROUILLER".equals(cmd) || "STOLEN".equals(cmd)) {
+                                Log.d(TAG, "ntfy: commande LOCK reçue → verrouillage instantané");
+                                String lockCode = prefs.getString(KEY_LOCK_CODE, "");
+                                SharedPreferences.Editor ed = prefs.edit();
+                                ed.putBoolean("was_locked", true);
+                                if ("VOL".equals(cmd) || "STOLEN".equals(cmd)) {
+                                    ed.putBoolean("was_stolen", true);
+                                }
+                                ed.apply();
 
-                if (changed) {
-                    String joined = String.join(",", seenIds);
-                    prefs.edit().putString("seen_personal_ntfy", joined).apply();
+                                Intent lockIntent = new Intent(this, LockActivity.class);
+                                lockIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK
+                                    | Intent.FLAG_ACTIVITY_NO_ANIMATION
+                                    | Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
+                                startActivity(lockIntent);
+
+                                Notification notif = buildNotification(true,
+                                    prefs.getString(KEY_LOCK_CODE, ""));
+                                NotificationManager nm = getSystemService(NotificationManager.class);
+                                if (nm != null) nm.notify(NOTIF_ID, notif);
+                            } else if ("UNLOCK".equals(cmd) || "DEVERROUILLER".equals(cmd)) {
+                                Log.d(TAG, "ntfy: commande UNLOCK reçue");
+                                prefs.edit().putBoolean("was_locked", false).apply();
+                            } else if (!title.isEmpty() && !cmd.isEmpty()) {
+                                showPersonalNotification(title, message);
+                            }
+                        } catch (Exception ignored) {}
+                    }
+                    reader.close();
                 }
+                conn.disconnect();
+            } catch (Exception e) {
+                if (Thread.currentThread().isInterrupted()) break;
+                Log.e(TAG, "Erreur ntfy personnel", e);
+                try { Thread.sleep(3000); } catch (InterruptedException ex) { break; }
             }
-            conn.disconnect();
-        } catch (Exception e) {
-            Log.e(TAG, "Erreur requete ntfy personnel", e);
         }
     }
 

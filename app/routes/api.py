@@ -284,7 +284,7 @@ def api_verrouiller(id):
             appareil.user_id,
             "ALERTE: " + appareil.marque + " " + appareil.modele + " verrouille",
             "Code de verrouillage applique. Suivez la position en temps reel.",
-            {"appareil_id": str(appareil.id)}
+            {"appareil_id": str(appareil.id), "command": "LOCK"}
         )
 
     tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
@@ -294,7 +294,7 @@ def api_verrouiller(id):
                 autre.user_id,
                 "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
                 "Un telephone a ete declare vole! Restez vigilant.",
-                {"appareil_id": str(appareil.id), "type": "community_alert"}
+                {"appareil_id": str(appareil.id), "type": "community_alert", "command": "LOCK"}
             )
 
     print(f"--- ACTION REUSSIE : {appareil.modele} verrouillé ---")
@@ -342,7 +342,7 @@ def api_verrouiller_par_code():
             appareil.user_id,
             "ALERTE: " + appareil.marque + " " + appareil.modele + " verrouille",
             "Code de verrouillage applique. Suivez la position en temps reel.",
-            {"appareil_id": str(appareil.id)}
+            {"appareil_id": str(appareil.id), "command": "LOCK"}
         )
 
     tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
@@ -352,7 +352,7 @@ def api_verrouiller_par_code():
                 autre.user_id,
                 "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
                 "Un telephone a ete declare vole! Restez vigilant.",
-                {"appareil_id": str(appareil.id), "type": "community_alert"}
+                {"appareil_id": str(appareil.id), "type": "community_alert", "command": "LOCK"}
             )
 
     return jsonify({
@@ -392,7 +392,7 @@ def api_verrouiller_pin(id):
             appareil.user_id,
             "ALERTE: " + appareil.marque + " " + appareil.modele + " verrouille",
             "Code PIN applique. Suivez la position en temps reel.",
-            {"appareil_id": str(appareil.id)}
+            {"appareil_id": str(appareil.id), "command": "LOCK"}
         )
 
     tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
@@ -402,7 +402,7 @@ def api_verrouiller_pin(id):
                 autre.user_id,
                 "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
                 "Un telephone a ete declare vole! Restez vigilant.",
-                {"appareil_id": str(appareil.id), "type": "community_alert"}
+                {"appareil_id": str(appareil.id), "type": "community_alert", "command": "LOCK"}
             )
 
     return jsonify({
@@ -964,7 +964,7 @@ def mobile_lock(device_uuid):
             appareil.user_id,
             "ALERTE: " + appareil.marque + " " + appareil.modele + " verrouille",
             "Code de verrouillage applique. Suivez la position en temps reel.",
-            {"appareil_id": str(appareil.id)}
+            {"appareil_id": str(appareil.id), "command": "LOCK"}
         )
 
     tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
@@ -974,7 +974,7 @@ def mobile_lock(device_uuid):
                 autre.user_id,
                 "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
                 "Un telephone a ete verrouille! Restez vigilant.",
-                {"appareil_id": str(appareil.id), "type": "community_alert"}
+                {"appareil_id": str(appareil.id), "type": "community_alert", "command": "LOCK"}
             )
 
     return jsonify({'message': 'Appareil verrouille', 'statut': 'verrouille'}), 200
@@ -1017,7 +1017,7 @@ def mobile_stolen_alert():
             appareil.user_id,
             appareil.marque + " " + appareil.modele + " signale vole!",
             "Position: " + str(lat) + "," + str(lng) + " - Cliquez pour localiser",
-            {"appareil_id": str(appareil.id), "lat": str(lat), "lng": str(lng)}
+            {"appareil_id": str(appareil.id), "lat": str(lat), "lng": str(lng), "command": "VOL"}
         )
 
     tous = Appareil.query.filter(Appareil.device_uuid != None, Appareil.device_uuid != device_uuid).all()
@@ -1027,7 +1027,7 @@ def mobile_stolen_alert():
                 autre.user_id,
                 "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
                 "Ce telephone a ete declare vole! Modele: " + appareil.marque + " " + appareil.modele + (" - Position: " + str(lat) + "," + str(lng) if lat and lng else ""),
-                {"appareil_id": str(appareil.id), "type": "community_alert"}
+                {"appareil_id": str(appareil.id), "type": "community_alert", "command": "VOL"}
             )
 
     return jsonify({

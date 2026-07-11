@@ -167,8 +167,40 @@
                         <label>Code de verrouillage (4 chiffres)</label>
                         <input type="text" name="code" inputmode="numeric" pattern="[0-9]{4}" maxlength="4" placeholder="1234" autocomplete="off" required>
                     </div>
-                    <button type="submit" class="btn btn-danger">🔒 Verrouiller l'appareil</button>
+                    <div class="input-group" style="margin-bottom:20px">
+                        <label>Action</label>
+                        <div style="display:flex;gap:8px">
+                            <label style="flex:1;display:flex;align-items:center;justify-content:center;gap:8px;padding:12px;border-radius:10px;border:1px solid rgba(239,68,68,0.3);background:rgba(239,68,68,0.1);cursor:pointer;font-size:14px;font-weight:600;color:#ef4444;transition:all 0.2s" id="lbl_vol">
+                                <input type="radio" name="action" value="vol" style="display:none" onchange="selectAction('vol')">
+                                🚨 Signaler vol
+                            </label>
+                            <label style="flex:1;display:flex;align-items:center;justify-content:center;gap:8px;padding:12px;border-radius:10px;border:1px solid rgba(255,255,255,0.15);background:rgba(255,255,255,0.05);cursor:pointer;font-size:14px;font-weight:600;color:rgba(255,255,255,0.7);transition:all 0.2s" id="lbl_lock">
+                                <input type="radio" name="action" value="lock" checked style="display:none" onchange="selectAction('lock')">
+                                🔒 Verrouiller
+                            </label>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-danger" id="submitBtn">🔒 Verrouiller l'appareil</button>
                 </form>
+                <script>
+                function selectAction(a) {
+                    var vol = document.getElementById('lbl_vol');
+                    var lock = document.getElementById('lbl_lock');
+                    var btn = document.getElementById('submitBtn');
+                    if (a === 'vol') {
+                        vol.style.borderColor = 'rgba(239,68,68,0.5)'; vol.style.background = 'rgba(239,68,68,0.2)'; vol.style.color = '#ef4444';
+                        lock.style.borderColor = 'rgba(255,255,255,0.1)'; lock.style.background = 'rgba(255,255,255,0.05)'; lock.style.color = 'rgba(255,255,255,0.7)';
+                        btn.textContent = '🚨 Signaler vol + Verrouiller';
+                        btn.style.background = 'linear-gradient(135deg, #ef4444, #b91c1c)';
+                    } else {
+                        lock.style.borderColor = 'rgba(59,130,246,0.5)'; lock.style.background = 'rgba(59,130,246,0.15)'; lock.style.color = '#3b82f6';
+                        vol.style.borderColor = 'rgba(255,255,255,0.1)'; vol.style.background = 'rgba(255,255,255,0.05)'; vol.style.color = 'rgba(255,255,255,0.7)';
+                        btn.textContent = '🔒 Verrouiller l\'appareil';
+                        btn.style.background = 'linear-gradient(135deg, #ef4444, #dc2626)';
+                    }
+                }
+                selectAction('lock');
+                </script>
 
                 <div class="footer-links">
                     <a href="/login">Connexion</a>
