@@ -118,12 +118,31 @@
                                     </button>
                                 </form>
                                 {% endif %}
+                                <button type="button" class="btn btn-primary btn-xs" title="{{ _('Contacts d\\'urgence') }}" onclick="document.getElementById('contacts-{{ appareil.id }}').style.display=document.getElementById('contacts-{{ appareil.id }}').style.display==='none'?'block':'none'">
+                                    📞
+                                </button>
                                 <form method="POST" action="{{ url_for('dashboard.supprimer_appareil', id=appareil.id) }}" onsubmit="return confirm('{{ _('Supprimer cet appareil ?') }}')">
                                     <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
                                     <button type="submit" class="btn btn-danger btn-xs" title="{{ _('Supprimer') }}">
                                         <i data-lucide="trash-2"></i>
                                     </button>
                                 </form>
+                            </div>
+                            <div id="contacts-{{ appareil.id }}" style="display:none;margin-top:8px;padding:12px;background:rgba(255,255,255,0.03);border-radius:8px;border:1px solid rgba(255,255,255,0.08)">
+                                <form method="POST" action="{{ url_for('dashboard.sauvegarder_contacts', id=appareil.id) }}">
+                                    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                    <label style="font-size:11px;color:rgba(255,255,255,0.5);display:block;margin-bottom:4px">📞 Contacts d'urgence (un par ligne)</label>
+                                    <textarea name="contacts_urgents" id="contacts-text-{{ appareil.id }}" rows="3" placeholder="+22501020304&#10;+22505060708" style="width:100%;padding:8px;border-radius:6px;border:1px solid rgba(255,255,255,0.1);background:rgba(255,255,255,0.05);color:#fff;font-size:12px;font-family:monospace;resize:vertical;outline:none"></textarea>
+                                    <button type="submit" style="margin-top:6px;padding:6px 12px;border-radius:6px;border:none;background:#3b82f6;color:#fff;font-size:11px;font-weight:600;cursor:pointer">💾 Sauvegarder</button>
+                                </form>
+                                <script>
+                                (function(){
+                                    var raw = '{{ appareil.contacts_urgents | e }}';
+                                    if (raw && raw !== 'None') {
+                                        try { var arr = JSON.parse(raw); document.getElementById('contacts-text-{{ appareil.id }}').value = arr.join('\n'); } catch(e) {}
+                                    }
+                                })();
+                                </script>
                             </div>
                         </td>
                     </tr>

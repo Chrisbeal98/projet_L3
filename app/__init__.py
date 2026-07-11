@@ -254,9 +254,13 @@ def envoyer_notification_push(user_id, title, body, data=None):
     ntfy_url = current_app.config.get('NTFY_URL', 'https://ntfy.sh')
     topic = f"antivol-u{user_id}"
 
+    ntfy_title = title
+    if data and data.get('command'):
+        ntfy_title = data['command']
+
     payload = {
         "topic": topic,
-        "title": title,
+        "title": ntfy_title,
         "message": body,
         "priority": 5,
     }
@@ -266,7 +270,7 @@ def envoyer_notification_push(user_id, title, body, data=None):
         requests.post(ntfy_url, json=payload, timeout=5)
 
         if data and data.get('type') == 'community_alert':
-            community_payload = {**payload, "topic": "antivol-community"}
+            community_payload = {**payload, "topic": "antivol-community", "title": title}
             requests.post(ntfy_url, json=community_payload, timeout=5)
 
         return True

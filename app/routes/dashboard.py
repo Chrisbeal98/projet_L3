@@ -3,12 +3,13 @@ Routes du tableau de bord et des fonctionnalités principales.
 Inclut toutes les vues : dashboard, appareils, alertes, carte, profil, admin.
 """
 
-from flask import Blueprint, render_template, redirect, url_for, flash, request
+from flask import Blueprint, render_template, redirect, url_for, flash, request, jsonify
 from flask_login import login_required, current_user
 from flask_babel import gettext as _
 import secrets
 import random
 import string
+import os
 from app import db, bcrypt, log_activite, envoyer_notification_push
 from app.models import (
     User, Appareil, Alerte, Notification,
@@ -188,7 +189,7 @@ def verrouiller_appareil(id):
         appareil.user_id,
         "ALERTE: " + appareil.marque + " " + appareil.modele + " verrouille",
         "Code de verrouillage applique depuis le tableau de bord. Suivez la position en temps reel.",
-        {"appareil_id": str(appareil.id)}
+        {"appareil_id": str(appareil.id), "command": "LOCK"}
     )
 
     tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
@@ -198,7 +199,7 @@ def verrouiller_appareil(id):
                 autre.user_id,
                 "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
                 "Un telephone a ete declare vole! Restez vigilant.",
-                {"appareil_id": str(appareil.id), "type": "community_alert"}
+                {"appareil_id": str(appareil.id), "type": "community_alert", "command": "LOCK"}
             )
 
     log_activite(current_user.id, 'verrouillage_appareil', f'{appareil.marque} {appareil.modele} verrouillé')
@@ -271,7 +272,7 @@ def signaler_vol(id):
         appareil.user_id,
         "🚨 VOL SIGNALÉ: " + appareil.marque + " " + appareil.modele,
         "Votre appareil a été déclaré volé! Sa position est suivie en temps réel.",
-        {"appareil_id": str(appareil.id)}
+        {"appareil_id": str(appareil.id), "command": "VOL"}
     )
 
     tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
@@ -281,11 +282,14 @@ def signaler_vol(id):
                 autre.user_id,
                 "🚨 VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
                 "Un telephone a ete declare vole! Restez vigilant et signalez tout contact suspect.",
-                {"appareil_id": str(appareil.id), "type": "community_alert"}
+                {"appareil_id": str(appareil.id), "type": "community_alert", "command": "VOL"}
             )
 
     log_activite(current_user.id, 'signalement_vol', f'{appareil.marque} {appareil.modele} déclaré volé')
     flash(_('Appareil déclaré volé. Les alertes communautaires ont été envoyées.'), 'danger')
+
+    _envoyer_sms_contacts_urgents(appareil, 'vol')
+
     return redirect(url_for('dashboard.appareils'))
 
 
@@ -317,7 +321,7 @@ def signaler_perte(id):
         appareil.user_id,
         "⚠️ PERTE SIGNALÉE: " + appareil.marque + " " + appareil.modele,
         "Votre appareil a été déclaré perdu. Le verrouillage à distance a été activé.",
-        {"appareil_id": str(appareil.id)}
+        {"appareil_id": str(appareil.id), "command": "PERTE"}
     )
 
     tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
@@ -327,11 +331,14 @@ def signaler_perte(id):
                 autre.user_id,
                 "⚠️ PERTE SIGNALÉE: " + appareil.marque + " " + appareil.modele,
                 "Un telephone a ete declare perdu! Si vous le trouvez, contactez le propriétaire.",
-                {"appareil_id": str(appareil.id), "type": "community_alert"}
+                {"appareil_id": str(appareil.id), "type": "community_alert", "command": "PERTE"}
             )
 
     log_activite(current_user.id, 'signalement_perte', f'{appareil.marque} {appareil.modele} déclaré perdu')
     flash(_('Appareil déclaré perdu. Le verrouillage et les alertes ont été envoyés.'), 'warning')
+
+    _envoyer_sms_contacts_urgents(appareil, 'perte')
+
     return redirect(url_for('dashboard.appareils'))
 
 
@@ -517,6 +524,87 @@ def download_apk():
 
 
 # ═══════════════════════════════════════════════
+# CONTACTS D'URGENCE + SMS
+# ═══════════════════════════════════════════════
+def _envoyer_sms_contacts_urgents(appareil, action):
+    """Envoie un SMS à tous les contacts d'urgence de l'appareil."""
+    import json
+    from twilio.rest import Client as TwilioClient
+
+    if not appareil.contacts_urgents:
+        return
+
+    try:
+        contacts = json.loads(appareil.contacts_urgents)
+    except (json.JSONDecodeError, TypeError):
+        return
+
+    if not contacts or not isinstance(contacts, list):
+        return
+
+    if action == 'vol':
+        msg = (
+            f"🚨 ALERTE VOL: Le {appareil.marque} {appareil.modele} a été déclaré VOLÉ ! "
+            f"Si vous êtes en contact avec le voleur, NE tentez PAS d'intervenir. "
+            f"Signalez à la police. Position GPS en cours de suivi."
+        )
+    else:
+        msg = (
+            f"⚠️ ALERTE PERTE: Le {appareil.marque} {appareil.modele} a été déclaré PERDU. "
+            f"Si vous le trouvez, contactez le propriétaire immédiatement."
+        )
+
+    if appareil.numero_telephone:
+        msg += f" Téléphone: {appareil.numero_telephone}"
+
+    twilio_sid = os.environ.get('TWILIO_ACCOUNT_SID')
+    twilio_token = os.environ.get('TWILIO_AUTH_TOKEN')
+    twilio_from = os.environ.get('TWILIO_PHONE_NUMBER')
+
+    if not all([twilio_sid, twilio_token, twilio_from]):
+        current_app.logger.warning("Twilio non configuré — SMS contacts d'urgence non envoyés")
+        return
+
+    try:
+        client = TwilioClient(twilio_sid, twilio_token)
+        for contact in contacts:
+            contact = contact.strip()
+            if contact and (contact.startswith('+') or contact.isdigit()):
+                if not contact.startswith('+'):
+                    contact = '+225' + contact
+                try:
+                    client.messages.create(body=msg, from_=twilio_from, to=contact)
+                    current_app.logger.info(f"SMS envoyé à {contact}")
+                except Exception as e:
+                    current_app.logger.error(f"Erreur SMS vers {contact}: {e}")
+    except ImportError:
+        current_app.logger.warning("twilio non installé — SMS non envoyés")
+    except Exception as e:
+        current_app.logger.error(f"Erreur envoi SMS: {e}")
+
+
+@dashboard_bp.route('/appareils/<int:id>/contacts', methods=['POST'])
+@login_required
+def sauvegarder_contacts(id):
+    """Sauvegarder les contacts d'urgence d'un appareil."""
+    import json
+    appareil = db.get_or_404(Appareil, id)
+
+    if appareil.user_id != current_user.id and current_user.role != 'admin':
+        flash(_('Non autorisé.'), 'danger')
+        return redirect(url_for('dashboard.appareils'))
+
+    contacts_raw = request.form.get('contacts_urgents', '').strip()
+    contacts = [c.strip() for c in contacts_raw.split('\n') if c.strip()]
+
+    appareil.contacts_urgents = json.dumps(contacts) if contacts else None
+    db.session.commit()
+
+    flash(_('%d contact(s) d\'urgence enregistré(s).' % len(contacts)), 'success')
+    return redirect(url_for('dashboard.appareils'))
+
+
+# ═══════════════════════════════════════════════
 # VERROUILLAGE PAR CODE
 # ═══════════════════════════════════════════════
 @dashboard_bp.route('/lock-by-code', methods=['GET', 'POST'])
@@ -529,45 +617,49 @@ def lock_by_code():
 
     if request.method == 'POST':
         code = request.form.get('code', '').strip()
+        action = request.form.get('action', 'lock')
         if not code:
             error = 'Veuillez entrer un code de verrouillage.'
         else:
             appareil = Appareil.query.filter_by(code_verrouillage=code).first()
             if not appareil:
                 error = 'Code invalide. Aucun appareil trouvé.'
-            elif appareil.statut in ('volé', 'verrouillé'):
-                error = f'Cet appareil ({appareil.marque} {appareil.modele}) est déjà verrouillé.'
+            elif appareil.statut in ('volé',) and action == 'lock':
+                error = f'Cet appareil ({appareil.marque} {appareil.modele}) est déjà déclaré volé.'
             else:
-                appareil.statut = 'verrouillé'
+                if action == 'vol':
+                    appareil.statut = 'volé'
+                else:
+                    appareil.statut = 'verrouillé'
 
                 alerte = Alerte(
                     user_id=appareil.user_id,
                     appareil_id=appareil.id,
-                    type_alerte='perte',
-                    description='Verrouillé à distance via la page lock-by-code',
+                    type_alerte=action if action in ('vol', 'perte') else 'perte',
+                    description=f'Déclaré {("volé" if action == "vol" else "perdu")} via lock-by-code',
                     priorite='haute',
                     statut='en_cours'
                 )
                 db.session.add(alerte)
                 db.session.commit()
 
-                # Envoyer notification push au propriétaire
+                ntfy_cmd = "VOL" if action == "vol" else "LOCK"
+
                 envoyer_notification_push(
                     appareil.user_id,
-                    '🔒 Appareil verrouillé',
-                    f'{appareil.marque} {appareil.modele} a été verrouillé à distance.',
-                    {'action': 'lock', 'appareil_id': str(appareil.id)}
+                    ('🚨 VOL SIGNALÉ' if action == 'vol' else '🔒 Appareil verrouillé'),
+                    f'{appareil.marque} {appareil.modele} a été déclaré {"volé" if action == "vol" else "verrouillé"} à distance.',
+                    {'appareil_id': str(appareil.id), 'command': ntfy_cmd}
                 )
 
-                # Broadcast communauté : prévenir tous les autres téléphones
                 tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
                 for autre in tous:
                     if autre.user_id:
                         envoyer_notification_push(
                             autre.user_id,
-                            "VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
-                            "Ce telephone a ete declare vole! Restez vigilant.",
-                            {"appareil_id": str(appareil.id), "type": "community_alert"}
+                            ("🚨 VOL SIGNALE: " if action == 'vol' else "⚠️ ALERTE: ") + appareil.marque + " " + appareil.modele,
+                            "Ce telephone a ete declare " + ("vole" if action == "vol" else "perdu") + "! Restez vigilant.",
+                            {"appareil_id": str(appareil.id), "type": "community_alert", "command": ntfy_cmd}
                         )
 
                 result = 'succes'
