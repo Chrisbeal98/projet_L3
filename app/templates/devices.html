@@ -118,7 +118,7 @@
                                     </button>
                                 </form>
                                 {% endif %}
-                                <button type="button" class="btn btn-primary btn-xs" title="{{ _('Contacts d\\'urgence') }}" onclick="document.getElementById('contacts-{{ appareil.id }}').style.display=document.getElementById('contacts-{{ appareil.id }}').style.display==='none'?'block':'none'">
+                                <button type="button" class="btn btn-primary btn-xs" title="{{ _("Contacts d'urgence") }}" onclick="document.getElementById('contacts-{{ appareil.id }}').style.display=document.getElementById('contacts-{{ appareil.id }}').style.display==='none'?'block':'none'">
                                     📞
                                 </button>
                                 <form method="POST" action="{{ url_for('dashboard.supprimer_appareil', id=appareil.id) }}" onsubmit="return confirm('{{ _('Supprimer cet appareil ?') }}')">

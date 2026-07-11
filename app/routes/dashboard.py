@@ -118,14 +118,25 @@ def appareils():
         else:
             appareils_liste = Appareil.query.filter_by(user_id=current_user.id).all()
 
-        # Générer les codes pour les appareils qui n'en ont pas encore
+        codes_vk = {a.code_verrouillage for a in appareils_liste if a.code_verrouillage}
+        codes_pk = {a.code_ussd for a in appareils_liste if a.code_ussd}
         modifie = False
         for a in appareils_liste:
             if not a.code_verrouillage:
-                a.code_verrouillage = generer_code_verrouillage()
+                while True:
+                    c = ''.join(random.choices(string.digits, k=4))
+                    if c not in codes_vk:
+                        a.code_verrouillage = c
+                        codes_vk.add(c)
+                        break
                 modifie = True
             if not a.code_ussd:
-                a.code_ussd = generer_code_pin()
+                while True:
+                    c = ''.join(random.choices(string.digits, k=4))
+                    if c not in codes_pk:
+                        a.code_ussd = c
+                        codes_pk.add(c)
+                        break
                 modifie = True
         if modifie:
             db.session.commit()

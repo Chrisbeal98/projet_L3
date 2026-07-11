@@ -95,12 +95,26 @@ with app.app_context():
             (u5.id, '351234567892567', 'Oppo Reno 10', 'Oppo', 'Android', '13', '+225 05 44 55 67', 'MTN CI', 'actif'),
         ]
 
+        import string as _str
+        codes_vk = set()
+        codes_pk = set()
         appareils = []
         for uid, imei, modele, marque, os, ver, tel, op, statut in devices_data:
+            while True:
+                cv = ''.join(random.choices(_str.digits, k=4))
+                if cv not in codes_vk:
+                    codes_vk.add(cv)
+                    break
+            while True:
+                cp = ''.join(random.choices(_str.digits, k=4))
+                if cp not in codes_pk:
+                    codes_pk.add(cp)
+                    break
             a = Appareil(
                 user_id=uid, imei=imei, modele=modele, marque=marque,
                 systeme_os=os, version_os=ver, numero_telephone=tel,
                 operateur=op, statut=statut,
+                code_verrouillage=cv, code_ussd=cp,
                 date_enregistrement=datetime.now(timezone.utc) - timedelta(days=random.randint(5, 80))
             )
             db.session.add(a)
