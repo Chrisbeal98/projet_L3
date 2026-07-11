@@ -1550,6 +1550,12 @@ code {
     overflow: hidden;
 }
 
+.map-container {
+    height: 60vh;
+    min-height: 400px;
+    width: 100%;
+}
+
 .map-sidebar {
     display: flex;
     flex-direction: column;
