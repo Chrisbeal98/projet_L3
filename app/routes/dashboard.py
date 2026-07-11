@@ -243,6 +243,98 @@ def supprimer_appareil(id):
     return redirect(url_for('dashboard.appareils'))
 
 
+@dashboard_bp.route('/appareils/<int:id>/signaler-vol', methods=['POST'])
+@login_required
+def signaler_vol(id):
+    """Marquer un appareil comme volé + envoyer alertes communautaires."""
+    appareil = db.get_or_404(Appareil, id)
+
+    if appareil.user_id != current_user.id and current_user.role != 'admin':
+        flash(_('Vous n\'êtes pas autorisé à effectuer cette action.'), 'danger')
+        return redirect(url_for('dashboard.appareils'))
+
+    appareil.statut = 'volé'
+    db.session.commit()
+
+    from app.models import Alerte
+    alerte = Alerte(
+        user_id=current_user.id,
+        appareil_id=appareil.id,
+        type_alerte='vol',
+        description=f'{appareil.marque} {appareil.modele} déclaré volé depuis le tableau de bord.',
+        statut='en_cours'
+    )
+    db.session.add(alerte)
+    db.session.commit()
+
+    envoyer_notification_push(
+        appareil.user_id,
+        "🚨 VOL SIGNALÉ: " + appareil.marque + " " + appareil.modele,
+        "Votre appareil a été déclaré volé! Sa position est suivie en temps réel.",
+        {"appareil_id": str(appareil.id)}
+    )
+
+    tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
+    for autre in tous:
+        if autre.user_id:
+            envoyer_notification_push(
+                autre.user_id,
+                "🚨 VOL SIGNALE: " + appareil.marque + " " + appareil.modele,
+                "Un telephone a ete declare vole! Restez vigilant et signalez tout contact suspect.",
+                {"appareil_id": str(appareil.id), "type": "community_alert"}
+            )
+
+    log_activite(current_user.id, 'signalement_vol', f'{appareil.marque} {appareil.modele} déclaré volé')
+    flash(_('Appareil déclaré volé. Les alertes communautaires ont été envoyées.'), 'danger')
+    return redirect(url_for('dashboard.appareils'))
+
+
+@dashboard_bp.route('/appareils/<int:id>/signaler-perte', methods=['POST'])
+@login_required
+def signaler_perte(id):
+    """Marquer un appareil comme perdu + envoyer alertes communautaires."""
+    appareil = db.get_or_404(Appareil, id)
+
+    if appareil.user_id != current_user.id and current_user.role != 'admin':
+        flash(_('Vous n\'êtes pas autorisé à effectuer cette action.'), 'danger')
+        return redirect(url_for('dashboard.appareils'))
+
+    appareil.statut = 'verrouillé'
+    db.session.commit()
+
+    from app.models import Alerte
+    alerte = Alerte(
+        user_id=current_user.id,
+        appareil_id=appareil.id,
+        type_alerte='perte',
+        description=f'{appareil.marque} {appareil.modele} déclaré perdu depuis le tableau de bord.',
+        statut='en_cours'
+    )
+    db.session.add(alerte)
+    db.session.commit()
+
+    envoyer_notification_push(
+        appareil.user_id,
+        "⚠️ PERTE SIGNALÉE: " + appareil.marque + " " + appareil.modele,
+        "Votre appareil a été déclaré perdu. Le verrouillage à distance a été activé.",
+        {"appareil_id": str(appareil.id)}
+    )
+
+    tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
+    for autre in tous:
+        if autre.user_id:
+            envoyer_notification_push(
+                autre.user_id,
+                "⚠️ PERTE SIGNALÉE: " + appareil.marque + " " + appareil.modele,
+                "Un telephone a ete declare perdu! Si vous le trouvez, contactez le propriétaire.",
+                {"appareil_id": str(appareil.id), "type": "community_alert"}
+            )
+
+    log_activite(current_user.id, 'signalement_perte', f'{appareil.marque} {appareil.modele} déclaré perdu')
+    flash(_('Appareil déclaré perdu. Le verrouillage et les alertes ont été envoyés.'), 'warning')
+    return redirect(url_for('dashboard.appareils'))
+
+
 @dashboard_bp.route('/appareils/reclamer', methods=['POST'])
 @login_required
 def reclamer_appareil():

@@ -54,7 +54,7 @@
                         <td data-label="{{ _('Opérateur') }}">{{ appareil.operateur or '—' }}</td>
                         <td data-label="OS">{{ appareil.systeme_os or '—' }}</td>
                         <td data-label="{{ _('Statut') }}">
-                            <span class="badge badge-{{ 'success' if appareil.statut == 'actif' else 'danger' if appareil.statut == 'volé' else 'warning' if appareil.statut == 'verrouillé' else 'info' }}">
+                            <span class="badge badge-{{ 'success' if appareil.statut == 'actif' else 'danger' if appareil.statut == 'volé' else 'warning' if appareil.statut in ['verrouillé', 'perdu'] else 'info' }}">
                                 {{ appareil.statut | capitalize }}
                             </span>
                         </td>
@@ -83,17 +83,37 @@
                         <td class="text-muted" data-label="{{ _('Date') }}">{{ appareil.date_enregistrement.strftime('%d/%m/%Y') }}</td>
                         <td data-label="{{ _('Actions') }}">
                             <div class="action-buttons">
-                                {% if appareil.statut != 'verrouillé' %}
+                                {% if appareil.statut not in ['volé', 'verrouillé'] %}
                                 <form method="POST" action="{{ url_for('dashboard.verrouiller_appareil', id=appareil.id) }}" onsubmit="return confirm('{{ _('Verrouiller cet appareil à distance ?') }}')">
                                     <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
                                     <button type="submit" class="btn btn-warning btn-xs" title="{{ _('Verrouiller') }}">
                                         <i data-lucide="lock"></i>
                                     </button>
                                 </form>
-                                {% else %}
+                                <form method="POST" action="{{ url_for('dashboard.signaler_vol', id=appareil.id) }}" onsubmit="return confirm('{{ _('Déclarer cet appareil VOLÉ ? Une alerte sera envoyée à tous les utilisateurs.') }}')">
+                                    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                    <button type="submit" class="btn btn-danger btn-xs" title="{{ _('Signaler vol') }}">
+                                        🚨
+                                    </button>
+                                </form>
+                                <form method="POST" action="{{ url_for('dashboard.signaler_perte', id=appareil.id) }}" onsubmit="return confirm('{{ _('Déclarer cet appareil PERDU ? Il sera verrouillé et une alerte sera envoyée.') }}')">
+                                    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                    <button type="submit" class="btn btn-warning btn-xs" title="{{ _('Signaler perte') }}" style="background:linear-gradient(135deg,#f97316,#ea580c)">
+                                        ⚠️
+                                    </button>
+                                </form>
+                                {% elif appareil.statut == 'verrouillé' %}
                                 <form method="POST" action="{{ url_for('dashboard.deverrouiller_appareil', id=appareil.id) }}">
                                     <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
                                     <button type="submit" class="btn btn-success btn-xs" title="{{ _('Déverrouiller') }}">
+                                        <i data-lucide="unlock"></i>
+                                    </button>
+                                </form>
+                                {% elif appareil.statut == 'volé' %}
+                                <span class="badge badge-danger" style="font-size:11px;padding:6px 10px">VOLÉ</span>
+                                <form method="POST" action="{{ url_for('dashboard.deverrouiller_appareil', id=appareil.id) }}">
+                                    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                                    <button type="submit" class="btn btn-success btn-xs" title="{{ _('Récupérer') }}">
                                         <i data-lucide="unlock"></i>
                                     </button>
                                 </form>
