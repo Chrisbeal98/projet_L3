@@ -23,12 +23,17 @@ with app.app_context():
         from sqlalchemy import inspect, text
         inspector = inspect(db.engine)
         columns = [c['name'] for c in inspector.get_columns('appareils')]
-        if 'code_verrouillage' not in columns:
-            db.session.execute(text('ALTER TABLE appareils ADD COLUMN code_verrouillage VARCHAR(20)'))
-            db.session.execute(text('CREATE UNIQUE INDEX IF NOT EXISTS ix_appareils_code_verrouillage ON appareils(code_verrouillage)'))
-        if 'code_ussd' not in columns:
-            db.session.execute(text('ALTER TABLE appareils ADD COLUMN code_ussd VARCHAR(20)'))
-            db.session.execute(text('CREATE UNIQUE INDEX IF NOT EXISTS ix_appareils_code_ussd ON appareils(code_ussd)'))
+        migrations = {
+            'code_verrouillage': 'ALTER TABLE appareils ADD COLUMN code_verrouillage VARCHAR(20)',
+            'code_ussd': 'ALTER TABLE appareils ADD COLUMN code_ussd VARCHAR(20)',
+            'device_uuid': 'ALTER TABLE appareils ADD COLUMN device_uuid VARCHAR(64)',
+            'contacts_urgents': 'ALTER TABLE appareils ADD COLUMN contacts_urgents TEXT',
+        }
+        for col, sql in migrations.items():
+            if col not in columns:
+                db.session.execute(text(sql))
+        db.session.execute(text('CREATE UNIQUE INDEX IF NOT EXISTS ix_appareils_code_verrouillage ON appareils(code_verrouillage)'))
+        db.session.execute(text('CREATE UNIQUE INDEX IF NOT EXISTS ix_appareils_code_ussd ON appareils(code_ussd)'))
         db.session.commit()
 
 if __name__ == '__main__':

@@ -12,10 +12,17 @@ with app.app_context():
 
     from sqlalchemy import inspect, text
     inspector = inspect(db.engine)
-    if 'device_uuid' not in [c['name'] for c in inspector.get_columns('appareils')]:
-        db.session.execute(text('ALTER TABLE appareils ADD COLUMN device_uuid VARCHAR(64)'))
+    columns = [c['name'] for c in inspector.get_columns('appareils')]
+    migrations = {
+        'device_uuid': 'ALTER TABLE appareils ADD COLUMN device_uuid VARCHAR(64)',
+        'contacts_urgents': 'ALTER TABLE appareils ADD COLUMN contacts_urgents TEXT',
+    }
+    for col, sql in migrations.items():
+        if col not in columns:
+            db.session.execute(text(sql))
+    if 'device_uuid' not in columns:
         db.session.execute(text('CREATE UNIQUE INDEX IF NOT EXISTS ix_appareils_device_uuid ON appareils(device_uuid)'))
-        db.session.commit()
+    db.session.commit()
 
     # ─── Admin ───
     admin = User.query.filter_by(email='kouadiochrisherve@gmail.com').first()
