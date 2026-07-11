@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}Erreur {{ code }} — AntiVol.ci{% endblock %}
+{% block content %}
+<div style="display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:60vh;text-align:center;padding:40px">
+    <div style="font-size:80px;margin-bottom:16px;opacity:0.6">
+        {% if code == 404 %}🔍{% elif code == 500 %}⚠️{% else %}❌{% endif %}
+    </div>
+    <h1 style="font-size:64px;font-weight:800;color:var(--text-primary);margin:0;opacity:0.3">{{ code }}</h1>
+    <h2 style="font-size:20px;font-weight:600;color:var(--text-primary);margin:16px 0 8px">{{ message }}</h2>
+    <p style="color:var(--text-secondary);margin-bottom:24px;max-width:400px">
+        {% if code == 404 %}
+            La page que vous recherchez n'existe pas ou a été déplacée.
+        {% elif code == 500 %}
+            Une erreur interne s'est produite. Veuillez réessayer dans quelques instants.
+        {% else %}
+            Une erreur inattendue s'est produite.
+        {% endif %}
+    </p>
+    <div style="display:flex;gap:12px">
+        <a href="{{ url_for('dashboard.index') }}" class="btn btn-primary" style="text-decoration:none">
+            Retour au tableau de bord
+        </a>
+        <button onclick="history.back()" class="btn btn-ghost" style="text-decoration:none">
+            ← Retour
+        </button>
+    </div>
+</div>
+{% endblock %}
