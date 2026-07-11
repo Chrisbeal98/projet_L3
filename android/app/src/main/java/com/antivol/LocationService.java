@@ -43,7 +43,26 @@ public class LocationService extends Service implements LocationListener {
         serverUrl = getString(R.string.server_url);
         locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
         createChannel();
-        startForeground(NOTIF_ID, buildNotification("AntiVol", "Localisation en cours..."));
+
+        boolean hasFine = checkSelfPermission(android.Manifest.permission.ACCESS_FINE_LOCATION)
+                == android.content.pm.PackageManager.PERMISSION_GRANTED;
+        boolean hasCoarse = checkSelfPermission(android.Manifest.permission.ACCESS_COARSE_LOCATION)
+                == android.content.pm.PackageManager.PERMISSION_GRANTED;
+
+        if (!hasFine && !hasCoarse) {
+            Log.w(TAG, "Permissions de localisation non accordées — arrêt du service");
+            stopForeground(true);
+            stopSelf();
+            return;
+        }
+
+        try {
+            startForeground(NOTIF_ID, buildNotification("AntiVol", "Localisation en cours..."));
+        } catch (Exception e) {
+            Log.e(TAG, "Erreur startForeground", e);
+            stopForeground(true);
+            stopSelf();
+        }
     }
 
     @Override

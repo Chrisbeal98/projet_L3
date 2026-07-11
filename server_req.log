@@ -4084,3 +4084,11 @@
 [REQ] GET /static/logo.png
   [304] GET /static/logo.png [127.0.0.1]
   [304] GET /static/css/style.css [127.0.0.1]
+[REQ] GET /api/zones-risque
+  [200] GET /api/zones-risque [192.168.1.9]
+[REQ] POST /api/auth/login
+  [401] POST /api/auth/login [192.168.1.9]
+[REQ] POST /api/auth/register
+  [201] POST /api/auth/register [192.168.1.9]
+[REQ] GET /api/zones-risque
+  [200] GET /api/zones-risque [127.0.0.1]

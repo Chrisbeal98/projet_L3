@@ -1,11 +1,11 @@
 package com.antivol;
 
 import android.annotation.SuppressLint;
-import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-import android.content.IntentFilter;
 import android.content.SharedPreferences;
+import android.app.admin.DevicePolicyManager;
+import android.content.ComponentName;
 import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.os.Build;
@@ -20,11 +20,12 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import androidx.activity.result.ActivityResultLauncher;
+import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
@@ -56,29 +57,20 @@ public class MainActivity extends AppCompatActivity {
     private View errorView;
     private TextView errorText;
     private Button retryButton;
-    private View lockOverlay;
-    private EditText unlockCodeInput;
-    private Button unlockButton;
-    private TextView unlockError;
 
     private String serverUrl;
     private String deviceUuid;
     private String currentLockCode = "";
-    private boolean isLocked = false;
-
-    private final BroadcastReceiver lockReceiver = new BroadcastReceiver() {
-        @Override
-        public void onReceive(Context context, Intent intent) {
-            String action = intent.getAction();
-            if ("com.antivol.LOCK_DEVICE".equals(action)) {
-                String code = intent.getStringExtra("code_verrouillage");
-                if (code != null) currentLockCode = code;
-                showLockScreen();
-            } else if ("com.antivol.UNLOCK_DEVICE".equals(action)) {
-                hideLockScreen();
+    private DevicePolicyManager devicePolicyManager;
+    private ComponentName deviceAdminComponent;
+    private final ActivityResultLauncher<Intent> deviceAdminLauncher =
+        registerForActivityResult(new ActivityResultContracts.StartActivityForResult(), result -> {
+            if (isDeviceAdminActive()) {
+                Toast.makeText(this, "Administrateur d'appareil activé", Toast.LENGTH_SHORT).show();
+            } else {
+                Toast.makeText(this, "AntiVol nécessite l'administration de l'appareil pour verrouiller l'écran", Toast.LENGTH_LONG).show();
             }
-        }
-    };
+        });
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override
@@ -87,6 +79,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         serverUrl = getString(R.string.server_url);
+        devicePolicyManager = (DevicePolicyManager) getSystemService(Context.DEVICE_POLICY_SERVICE);
+        deviceAdminComponent = new ComponentName(this, AntiVolDeviceAdmin.class);
 
         webView = findViewById(R.id.webView);
         progressBar = findViewById(R.id.progressBar);
@@ -94,10 +88,6 @@ public class MainActivity extends AppCompatActivity {
         errorView = findViewById(R.id.errorView);
         errorText = findViewById(R.id.errorText);
         retryButton = findViewById(R.id.retryButton);
-        lockOverlay = findViewById(R.id.lockOverlay);
-        unlockCodeInput = findViewById(R.id.unlockCodeInput);
-        unlockButton = findViewById(R.id.unlockButton);
-        unlockError = findViewById(R.id.unlockError);
 
         CookieManager.getInstance().setAcceptCookie(true);
         CookieManager.getInstance().setAcceptThirdPartyCookies(webView, true);
@@ -113,24 +103,15 @@ public class MainActivity extends AppCompatActivity {
 
         swipeRefresh.setOnRefreshListener(this::reloadPage);
         retryButton.setOnClickListener(v -> reloadPage());
-        unlockButton.setOnClickListener(v -> attemptUnlock());
-
-        IntentFilter filter = new IntentFilter("com.antivol.LOCK_DEVICE");
-        filter.addAction("com.antivol.UNLOCK_DEVICE");
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
-            registerReceiver(lockReceiver, filter, Context.RECEIVER_NOT_EXPORTED);
-        } else {
-            registerReceiver(lockReceiver, filter);
-        }
 
         requestPermissions();
+        requestDeviceAdmin();
         initDevice();
     }
 
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        try { unregisterReceiver(lockReceiver); } catch (Exception ignored) {}
     }
 
     private void initDevice() {
@@ -151,7 +132,11 @@ public class MainActivity extends AppCompatActivity {
         } else {
             currentLockCode = prefs.getString(KEY_LOCK_CODE, "");
             boolean wasLocked = prefs.getBoolean("was_locked", false);
-            if (wasLocked) showLockScreen();
+            if (wasLocked) {
+                Intent lockActIntent = new Intent(this, LockActivity.class);
+                lockActIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
+                startActivity(lockActIntent);
+            }
             startLocationServiceIfNeeded();
         }
 
@@ -159,6 +144,16 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void startLocationServiceIfNeeded() {
+        boolean hasFine = ContextCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION)
+                == PackageManager.PERMISSION_GRANTED;
+        boolean hasCoarse = ContextCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION)
+                == PackageManager.PERMISSION_GRANTED;
+
+        if (!hasFine && !hasCoarse) {
+            Log.w(TAG, "Permissions GPS non accordées — LocationService non démarré");
+            return;
+        }
+
         SharedPreferences prefs = getSharedPreferences(PREF_NAME, MODE_PRIVATE);
         int deviceId = prefs.getInt(KEY_DEVICE_ID, -1);
         if (deviceId == -1) return;
@@ -239,94 +234,18 @@ public class MainActivity extends AppCompatActivity {
         }).start();
     }
 
-    private void showLockScreen() {
-        isLocked = true;
-        getSharedPreferences(PREF_NAME, MODE_PRIVATE)
-                .edit()
-                .putBoolean("was_locked", true)
-                .apply();
-
-        runOnUiThread(() -> {
-            lockOverlay.setVisibility(View.VISIBLE);
-            webView.setVisibility(View.GONE);
-            errorView.setVisibility(View.GONE);
-            unlockCodeInput.setText("");
-            unlockError.setVisibility(View.GONE);
-        });
+    private boolean isDeviceAdminActive() {
+        return devicePolicyManager != null && devicePolicyManager.isAdminActive(deviceAdminComponent);
     }
 
-    private void hideLockScreen() {
-        isLocked = false;
-        getSharedPreferences(PREF_NAME, MODE_PRIVATE)
-                .edit()
-                .putBoolean("was_locked", false)
-                .apply();
-
-        runOnUiThread(() -> {
-            lockOverlay.setVisibility(View.GONE);
-            webView.setVisibility(View.VISIBLE);
-            webView.loadUrl(serverUrl);
-        });
-    }
-
-    private void attemptUnlock() {
-        String enteredCode = unlockCodeInput.getText().toString().trim();
-        if (enteredCode.isEmpty()) {
-            unlockError.setText("Entrez le code");
-            unlockError.setVisibility(View.VISIBLE);
-            return;
+    private void requestDeviceAdmin() {
+        if (!isDeviceAdminActive()) {
+            Intent intent = new Intent(DevicePolicyManager.ACTION_ADD_DEVICE_ADMIN);
+            intent.putExtra(DevicePolicyManager.EXTRA_DEVICE_ADMIN, deviceAdminComponent);
+            intent.putExtra(DevicePolicyManager.EXTRA_ADD_EXPLANATION,
+                "AntiVol a besoin de l'administration de l'appareil pour verrouiller l'écran à distance en cas de vol.");
+            deviceAdminLauncher.launch(intent);
         }
-
-        if (deviceUuid == null) {
-            unlockError.setText("Erreur: appareil non initialisé");
-            unlockError.setVisibility(View.VISIBLE);
-            return;
-        }
-
-        unlockButton.setEnabled(false);
-
-        new Thread(() -> {
-            try {
-                JSONObject data = new JSONObject();
-                data.put("device_uuid", deviceUuid);
-                data.put("code", enteredCode);
-
-                URL url = new URL(serverUrl + "/api/mobile/unlock");
-                HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-                conn.setRequestMethod("POST");
-                conn.setRequestProperty("Content-Type", "application/json");
-                conn.setConnectTimeout(15000);
-                conn.setReadTimeout(15000);
-                conn.setDoOutput(true);
-
-                OutputStream os = conn.getOutputStream();
-                os.write(data.toString().getBytes());
-                os.close();
-
-                int code = conn.getResponseCode();
-                conn.disconnect();
-
-                if (code == 200) {
-                    runOnUiThread(() -> {
-                        hideLockScreen();
-                        Toast.makeText(this, "Appareil déverrouillé", Toast.LENGTH_SHORT).show();
-                    });
-                } else {
-                    runOnUiThread(() -> {
-                        unlockError.setText("Code incorrect");
-                        unlockError.setVisibility(View.VISIBLE);
-                        unlockCodeInput.setText("");
-                    });
-                }
-            } catch (Exception e) {
-                runOnUiThread(() -> {
-                    unlockError.setText("Erreur réseau");
-                    unlockError.setVisibility(View.VISIBLE);
-                });
-            } finally {
-                runOnUiThread(() -> unlockButton.setEnabled(true));
-            }
-        }).start();
     }
 
     private void requestPermissions() {
@@ -352,12 +271,23 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    @Override
+    public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+        if (requestCode == LOCATION_PERMISSION_CODE) {
+            for (int result : grantResults) {
+                if (result == PackageManager.PERMISSION_GRANTED) {
+                    startLocationServiceIfNeeded();
+                    return;
+                }
+            }
+        }
+    }
+
     private void loadUrl() {
         errorView.setVisibility(View.GONE);
-        if (!isLocked) {
-            webView.setVisibility(View.VISIBLE);
-            webView.loadUrl(serverUrl);
-        }
+        webView.setVisibility(View.VISIBLE);
+        webView.loadUrl(serverUrl);
     }
 
     private void reloadPage() {
@@ -417,7 +347,6 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
-        if (isLocked) return;
         if (webView.canGoBack()) {
             webView.goBack();
         } else {
@@ -450,11 +379,9 @@ public class MainActivity extends AppCompatActivity {
             if (request.isForMainFrame()) {
                 progressBar.setVisibility(View.GONE);
                 swipeRefresh.setRefreshing(false);
-                if (!isLocked) {
-                    webView.setVisibility(View.GONE);
-                    errorView.setVisibility(View.VISIBLE);
-                    errorText.setText("Impossible de se connecter au serveur.\nVérifiez votre connexion Internet.");
-                }
+                webView.setVisibility(View.GONE);
+                errorView.setVisibility(View.VISIBLE);
+                errorText.setText("Impossible de se connecter au serveur.\nVérifiez votre connexion Internet.");
             }
         }
     }

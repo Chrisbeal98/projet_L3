@@ -37,6 +37,7 @@ public class LockService extends Service {
     private Thread pollThread;
     private Thread communityPollThread;
     private Thread ntfyThread;
+    private Thread personalNtfyThread;
     private volatile boolean running = false;
     private String serverUrl;
     private boolean lastVerrouilleState = false;
@@ -59,6 +60,8 @@ public class LockService extends Service {
         communityPollThread.start();
         ntfyThread = new Thread(this::ntfyPollLoop);
         ntfyThread.start();
+        personalNtfyThread = new Thread(this::personalNtfyPollLoop);
+        personalNtfyThread.start();
         return START_STICKY;
     }
 
@@ -68,6 +71,7 @@ public class LockService extends Service {
         if (pollThread != null) pollThread.interrupt();
         if (communityPollThread != null) communityPollThread.interrupt();
         if (ntfyThread != null) ntfyThread.interrupt();
+        if (personalNtfyThread != null) personalNtfyThread.interrupt();
         super.onDestroy();
     }
 
@@ -165,6 +169,117 @@ public class LockService extends Service {
         }
     }
 
+    private void personalNtfyPollLoop() {
+        while (running) {
+            try {
+                checkPersonalNtfyAlerts();
+                Thread.sleep(NTFY_POLL_INTERVAL);
+            } catch (InterruptedException e) {
+                break;
+            } catch (Exception e) {
+                Log.e(TAG, "Erreur polling ntfy personnel", e);
+                try { Thread.sleep(NTFY_POLL_INTERVAL); } catch (InterruptedException ex) { break; }
+            }
+        }
+    }
+
+    private void checkPersonalNtfyAlerts() {
+        SharedPreferences prefs = getSharedPreferences(PREF_NAME, MODE_PRIVATE);
+        int userId = prefs.getInt("user_id", -1);
+        if (userId <= 0) return;
+
+        String myUuid = prefs.getString(KEY_DEVICE_UUID, "");
+        String topic = "antivol-u" + userId;
+
+        try {
+            URL url = new URL("https://ntfy.sh/" + topic + "/json?poll=1&since=1m");
+            HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+            conn.setRequestMethod("GET");
+            conn.setConnectTimeout(10000);
+            conn.setReadTimeout(35000);
+
+            int code = conn.getResponseCode();
+            if (code == 200) {
+                BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+                StringBuilder response = new StringBuilder();
+                String line;
+                while ((line = reader.readLine()) != null) {
+                    response.append(line);
+                }
+                reader.close();
+
+                String seenStr = prefs.getString("seen_personal_ntfy", "");
+                Set<String> seenIds = new HashSet<>();
+                if (!seenStr.isEmpty()) {
+                    for (String id : seenStr.split(",")) {
+                        String trimmed = id.trim();
+                        if (!trimmed.isEmpty()) seenIds.add(trimmed);
+                    }
+                }
+
+                boolean changed = false;
+                String[] lines = response.toString().split("\n");
+
+                for (String jsonLine : lines) {
+                    jsonLine = jsonLine.trim();
+                    if (jsonLine.isEmpty()) continue;
+                    try {
+                        JSONObject msg = new JSONObject(jsonLine);
+                        String eventId = msg.optString("id", "");
+                        if (eventId.isEmpty() || seenIds.contains(eventId)) continue;
+
+                        String msgTopic = msg.optString("topic", "");
+                        String title = msg.optString("title", "");
+                        String message = msg.optString("message", "");
+
+                        if (topic.equals(msgTopic) && !title.isEmpty()) {
+                            seenIds.add(eventId);
+                            changed = true;
+
+                            if (message.contains(myUuid)) continue;
+
+                            showPersonalNotification(title, message);
+                        }
+                    } catch (Exception ignored) {}
+                }
+
+                if (changed) {
+                    String joined = String.join(",", seenIds);
+                    prefs.edit().putString("seen_personal_ntfy", joined).apply();
+                }
+            }
+            conn.disconnect();
+        } catch (Exception e) {
+            Log.e(TAG, "Erreur requete ntfy personnel", e);
+        }
+    }
+
+    private void showPersonalNotification(String title, String text) {
+        try {
+            Notification.Builder builder;
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                builder = new Notification.Builder(this, COMMUNITY_CHANNEL_ID);
+            } else {
+                builder = new Notification.Builder(this);
+            }
+
+            Notification notif = builder
+                .setContentTitle(title)
+                .setContentText(text)
+                .setSmallIcon(android.R.drawable.ic_lock_lock)
+                .setAutoCancel(true)
+                .setDefaults(Notification.DEFAULT_ALL)
+                .build();
+
+            NotificationManager nm = getSystemService(NotificationManager.class);
+            if (nm != null) {
+                nm.notify(COMMUNITY_NOTIF_BASE + Math.abs(title.hashCode()), notif);
+            }
+        } catch (Exception e) {
+            Log.e(TAG, "Erreur notification personnelle", e);
+        }
+    }
+
     private void checkStatus() {
         SharedPreferences prefs = getSharedPreferences(PREF_NAME, MODE_PRIVATE);
         String uuid = prefs.getString(KEY_DEVICE_UUID, null);
@@ -192,16 +307,20 @@ public class LockService extends Service {
 
                 if (verrouille != lastVerrouilleState) {
                     lastVerrouilleState = verrouille;
-                    Intent intent = new Intent(verrouille ? "com.antivol.LOCK_DEVICE" : "com.antivol.UNLOCK_DEVICE");
-                    intent.putExtra("code_verrouillage", lockCode);
-                    sendBroadcast(intent);
-
                     SharedPreferences.Editor ed = prefs.edit();
                     ed.putBoolean("was_locked", verrouille);
                     if (verrouille && "vole".equals(statut)) {
                         ed.putBoolean("was_stolen", true);
                     }
                     ed.apply();
+
+                    if (verrouille) {
+                        Intent lockIntent = new Intent(this, LockActivity.class);
+                        lockIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK
+                            | Intent.FLAG_ACTIVITY_NO_ANIMATION
+                            | Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
+                        startActivity(lockIntent);
+                    }
                 }
 
                 Notification notif = buildNotification(verrouille, lockCode);
