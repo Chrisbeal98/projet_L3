@@ -220,13 +220,13 @@ def create_app(config_class=Config):
         _log_erreur('404', request.url, 'Page non trouvée', request)
         if request.path.startswith('/api/'):
             return jsonify({'error': 'Endpoint non trouvé'}), 404
-        return render_template('base.html'), 404
+        return render_template('errors.html', code=404, message='Page non trouvée'), 404
 
     @app.errorhandler(500)
     def internal_error(e):
         _log_erreur('500', request.url, str(e), request)
         db.session.rollback()
-        return render_template('base.html'), 500
+        return render_template('errors.html', code=500, message='Erreur interne du serveur'), 500
 
     def _log_erreur(type_err, url, description, req):
         """Enregistre une erreur dans le journal."""
