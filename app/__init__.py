@@ -250,7 +250,9 @@ def create_app(config_class=Config):
 
 
 def envoyer_notification_push(user_id, title, body, data=None):
-    """Envoie une notification push via ntfy.sh (gratuit, sans inscription)."""
+    """Envoie une notification push via ntfy.sh + FCM."""
+    sent = False
+
     ntfy_url = current_app.config.get('NTFY_URL', 'https://ntfy.sh')
     topic = f"antivol-u{user_id}"
 
@@ -266,16 +268,93 @@ def envoyer_notification_push(user_id, title, body, data=None):
     }
 
     try:
-        import requests
-        requests.post(ntfy_url, json=payload, timeout=5)
+        import requests as req
+        req.post(ntfy_url, json=payload, timeout=5)
 
         if data and data.get('type') == 'community_alert':
             community_payload = {**payload, "topic": "antivol-community", "title": title}
-            requests.post(ntfy_url, json=community_payload, timeout=5)
+            req.post(ntfy_url, json=community_payload, timeout=5)
 
-        return True
+        sent = True
     except Exception:
-        return False
+        pass
+
+    try:
+        _envoyer_fcm_push(user_id, title, body, data)
+        sent = True
+    except Exception:
+        pass
+
+    return sent
+
+
+def _envoyer_fcm_push(user_id, title, body, data=None):
+    """Envoie une notification push FCM via firebase-admin."""
+    import os
+
+    service_account_json = current_app.config.get('FIREBASE_SERVICE_ACCOUNT', '')
+    if not service_account_json:
+        return
+
+    try:
+        import firebase_admin
+        from firebase_admin import credentials, messaging
+
+        if not firebase_admin._apps:
+            if os.path.exists(service_account_json):
+                cred = credentials.Certificate(service_account_json)
+            else:
+                import tempfile, json as json_mod
+                sa_info = json_mod.loads(service_account_json)
+                with tempfile.NamedTemporaryFile(mode='w', suffix='.json', delete=False) as f:
+                    json_mod.dump(sa_info, f)
+                    cred = credentials.Certificate(f.name)
+            firebase_admin.initialize_app(cred)
+
+        from app.models import FcmToken
+        tokens = FcmToken.query.filter_by(user_id=user_id).all()
+        if not tokens:
+            return
+
+        fcm_tokens = [t.token for t in tokens]
+
+        command = data.get('command') if data else None
+
+        notification = messaging.Notification(title=title, body=body)
+        android_config = messaging.AndroidConfig(
+            priority='high',
+            notification=messaging.AndroidNotification(
+                title=title,
+                body=body,
+                click_action='OPENMainActivity',
+            ),
+        )
+        data_payload = {}
+        if command:
+            data_payload['command'] = command
+        if data:
+            for k, v in data.items():
+                if v is not None:
+                    data_payload[str(k)] = str(v)
+
+        response = messaging.send_each(
+            messaging.MulticastMessage(
+                notification=notification,
+                android=android_config,
+                data=data_payload,
+                tokens=fcm_tokens,
+            )
+        )
+
+        if response.failure_count > 0:
+            for idx, resp in enumerate(response.responses):
+                if not resp.success:
+                    from app import db
+                    db.session.delete(tokens[idx])
+            db.session.commit()
+
+    except Exception:
+        pass
 
 
 def log_activite(user_id, action, details=None):

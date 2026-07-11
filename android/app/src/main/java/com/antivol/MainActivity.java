@@ -13,6 +13,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.webkit.CookieManager;
+
+import com.google.firebase.messaging.FirebaseMessaging;
 import android.webkit.WebChromeClient;
 import android.webkit.WebResourceError;
 import android.webkit.WebResourceRequest;
@@ -107,6 +109,7 @@ public class MainActivity extends AppCompatActivity {
         requestPermissions();
         requestDeviceAdmin();
         initDevice();
+        registerFcmToken();
     }
 
     @Override
@@ -392,5 +395,43 @@ public class MainActivity extends AppCompatActivity {
             super.onProgressChanged(view, newProgress);
             progressBar.setProgress(newProgress);
         }
+    }
+
+    private void registerFcmToken() {
+        FirebaseMessaging.getInstance().getToken().addOnCompleteListener(task -> {
+            if (!task.isSuccessful()) {
+                Log.w(TAG, "Erreur récupération token FCM");
+                return;
+            }
+            String token = task.getResult();
+            Log.d(TAG, "Token FCM: " + token);
+            sendFcmTokenToServer(token);
+        });
+    }
+
+    private void sendFcmTokenToServer(String token) {
+        new Thread(() -> {
+            try {
+                JSONObject data = new JSONObject();
+                data.put("device_uuid", deviceUuid);
+                data.put("fcm_token", token);
+
+                URL url = new URL(serverUrl + "/api/fcm/register-token");
+                HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+                conn.setRequestMethod("POST");
+                conn.setRequestProperty("Content-Type", "application/json");
+                conn.setConnectTimeout(15000);
+                conn.setDoOutput(true);
+
+                OutputStream os = conn.getOutputStream();
+                os.write(data.toString().getBytes());
+                os.close();
+                int code = conn.getResponseCode();
+                conn.disconnect();
+                Log.d(TAG, "Token FCM envoyé au serveur (code: " + code + ")");
+            } catch (Exception e) {
+                Log.e(TAG, "Erreur envoi token FCM", e);
+            }
+        }).start();
     }
 }

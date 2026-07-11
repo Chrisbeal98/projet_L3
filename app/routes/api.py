@@ -733,6 +733,13 @@ def register_fcm_token():
     """Enregistrer ou mettre à jour un token FCM pour l'utilisateur connecté."""
     user = get_request_user()
     if not user:
+        data = request.get_json(silent=True)
+        if data and data.get('device_uuid'):
+            from app.models import Appareil
+            appareil = Appareil.query.filter_by(device_uuid=data['device_uuid']).first()
+            if appareil and appareil.user_id:
+                user = db.session.get(User, appareil.user_id)
+    if not user:
         return jsonify({'error': 'Non authentifié'}), 401
 
     data = request.get_json()

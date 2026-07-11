@@ -13,3 +13,4 @@ requests==2.31.0
 gunicorn==23.0.0
 psycopg2-binary==2.9.9
 twilio==9.0.0
+firebase-admin==6.5.0
