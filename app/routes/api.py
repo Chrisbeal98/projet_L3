@@ -157,6 +157,7 @@ def get_appareils():
     return jsonify([{
         'id': a.id, 'imei': a.imei, 'modele': a.modele,
         'marque': a.marque, 'statut': a.statut,
+        'code_verrouillage': a.code_verrouillage,
         'date_enregistrement': a.date_enregistrement.isoformat()
     } for a in appareils]), 200
 

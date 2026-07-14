@@ -6,10 +6,8 @@
     android:viewportHeight="24">
     <path
         android:fillColor="#FFFFFF"
-        android:pathData="M1,12s4-8 11-8 11,8 11,8-4,8-11,8-11-8-11-8z" />
-    <circle
+        android:pathData="M1,12s4,-8 11,-8 11,8 11,8 -4,8 -11,8 -11,-8 -11,-8z" />
+    <path
         android:fillColor="#02000e"
-        android:cx="12"
-        android:cy="12"
-        android:r="3" />
+        android:pathData="M12,9a3,3 0,1 0,0 6,3 3,0 1 0,0 -6z" />
 </vector>
