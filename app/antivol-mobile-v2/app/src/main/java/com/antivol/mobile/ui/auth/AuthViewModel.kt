@@ -5,6 +5,7 @@ import android.net.Uri
 import android.widget.Toast
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.antivol.mobile.data.EnrollementAppareil
 import com.antivol.mobile.data.PreferencesManager
 import com.antivol.mobile.data.api.RetrofitClient
 import com.antivol.mobile.data.model.LoginRequest
@@ -16,6 +17,8 @@ import org.json.JSONObject
 data class AuthState(
     val isLoading: Boolean = false,
     val isSuccess: Boolean = false,
+    /** Appareil protégé, ou false si l'enrôlement est à rejouer. */
+    val appareilEnrole: Boolean = true,
     val error: String? = null
 )
 
@@ -43,7 +46,28 @@ class AuthViewModel(
                     val user = response.body()?.user
                     if (user != null) {
                         preferencesManager.saveUserSession(user.id, user.email)
-                        _state.update { it.copy(isLoading = false, isSuccess = true) }
+
+                        // La session existe : on en profite pour enrôler le
+                        // téléphone. C'est le seul moment où le serveur
+                        // accepte de le rattacher à ce compte.
+                        //
+                        // Un échec ici n'empêche PAS la connexion : l'utilisateur
+                        // reste connecté et l'enrôlement est rejoué au prochain
+                        // démarrage. Refuser la connexion parce que le réseau a
+                        // bronché serait bien plus pénible — et l'écran d'accueil
+                        // signale explicitement un appareil non protégé.
+                        val enrole = EnrollementAppareil.enrollerSiBesoin(
+                            context.applicationContext,
+                            preferencesManager
+                        )
+
+                        _state.update {
+                            it.copy(
+                                isLoading = false,
+                                isSuccess = true,
+                                appareilEnrole = enrole
+                            )
+                        }
                     }
                 } else {
                     try {
@@ -91,7 +115,21 @@ class AuthViewModel(
                     val user = response.body()?.user
                     if (user != null) {
                         preferencesManager.saveUserSession(user.id, user.email)
-                        _state.update { it.copy(isLoading = false, isSuccess = true) }
+
+                        // Même principe qu'à la connexion : l'inscription d'un
+                        // compte est aussi l'occasion d'enrôler le téléphone.
+                        val enrole = EnrollementAppareil.enrollerSiBesoin(
+                            context.applicationContext,
+                            preferencesManager
+                        )
+
+                        _state.update {
+                            it.copy(
+                                isLoading = false,
+                                isSuccess = true,
+                                appareilEnrole = enrole
+                            )
+                        }
                     }
                 } else {
                     try {

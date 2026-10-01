@@ -3,15 +3,10 @@ package com.antivol.mobile.service
 import android.app.Notification
 import android.app.NotificationChannel
 import android.app.NotificationManager
-import android.app.admin.DevicePolicyManager
-import android.content.ComponentName
 import android.content.Context
-import android.content.Intent
 import android.os.Build
 import android.util.Log
 import androidx.core.app.NotificationCompat
-import com.antivol.mobile.receiver.AdminReceiver
-import com.antivol.mobile.ui.lock.LockActivity
 import com.google.firebase.messaging.FirebaseMessagingService
 import com.google.firebase.messaging.RemoteMessage
 import kotlinx.coroutines.*
@@ -35,45 +30,67 @@ class AntivolFirebaseService : FirebaseMessagingService() {
 
     override fun onNewToken(token: String) {
         super.onNewToken(token)
-        Log.i(TAG, "Nouveau token FCM: $token")
+        // Le token n'est PAS journalisé : c'est une clé d'abonnement au canal
+        // de notification. Quiconque le lirait dans logcat pourrait s'y
+        // inscrire et recevoir les alertes antivol de ce téléphone — donc sa
+        // position et ses ordres de verrouillage. On se contente du préfixe,
+        // suffisant pour distinguer « renew » d'un échec d'envoi.
+        Log.i(TAG, "Nouveau token FCM (préfixe ${token.take(6)}…)")
         sendTokenToServer(token)
     }
 
     override fun onMessageReceived(message: RemoteMessage) {
         super.onMessageReceived(message)
-        Log.i(TAG, "Message FCM: ${message.data}")
 
-        val action = message.data["action"]
+        val monAppareilId = prefsManager.getAppareilIdSync()
+        val action = CommandeHandler.normaliser(
+            message.data["action"],
+            message.data["command"]
+        )
+
+        // Le contenu du message n'est pas journalisé non plus : il peut
+        // contenir une position GPS ou un ordre de verrouillage.
+        Log.i(TAG, "Message FCM reçu (action=$action, appareil=$monAppareilId)")
+
+        if (action == null) {
+            message.notification?.let {
+                showAlertNotification(it.title ?: "AntiVol", it.body ?: "Notification")
+            }
+            return
+        }
+
+        // Alerte communautaire ou commande visant un autre appareil : on informe seulement.
+        if (action == CommandeHandler.ACTION_ALERT || !CommandeHandler.estPourCetAppareil(
+                message.data["appareil_id"], monAppareilId
+            )
+        ) {
+            showAlertNotification(
+                message.data["title"] ?: message.notification?.title ?: "AntiVol",
+                message.data["body"] ?: message.notification?.body ?: "Notification"
+            )
+            return
+        }
+
+        val titre = message.data["title"] ?: "Appareil verrouillé"
+        val corps = message.data["body"] ?: "Verrouillage à distance activé"
+
         when (action) {
-            "lock" -> lockDevice()
-            "unlock" -> unlockDevice()
-            "alert" -> {
-                val title = message.data["title"] ?: "AntiVol Alerte"
-                val body = message.data["body"] ?: "Action requise"
-                showAlertNotification(title, body)
+            CommandeHandler.ACTION_LOCK -> {
+                Log.i(TAG, "Commande LOCK reçue pour l'appareil $monAppareilId")
+                CommandeHandler.verifierAdmin(this)
+                CommandeHandler.verrouiller(this, titre, corps)
+            }
+            CommandeHandler.ACTION_UNLOCK -> {
+                Log.i(TAG, "Commande UNLOCK reçue")
+                CommandeHandler.deverrouiller(this)
+            }
+            CommandeHandler.ACTION_LOCATE -> {
+                Log.i(TAG, "Commande LOCATE reçue pour l'appareil $monAppareilId")
+                // Le service de surveillance détient le client GPS : c'est lui
+                // qui prend et envoie la position. On le relance au cas où.
+                CommandeHandler.localiser(this)
             }
         }
-
-        message.notification?.let {
-            showAlertNotification(it.title ?: "AntiVol", it.body ?: "Notification")
-        }
-    }
-
-    private fun lockDevice() {
-        val dpm = getSystemService(Context.DEVICE_POLICY_SERVICE) as? DevicePolicyManager
-        val admin = ComponentName(this, AdminReceiver::class.java)
-        if (dpm != null && dpm.isAdminActive(admin)) {
-            dpm.lockNow()
-        }
-        val intent = Intent(this, LockActivity::class.java).apply {
-            addFlags(Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP)
-        }
-        startActivity(intent)
-    }
-
-    private fun unlockDevice() {
-        sendBroadcast(Intent("com.antivol.mobile.ACTION_UNLOCK"))
-        startService(Intent(this, MonitorService::class.java))
     }
 
     private fun showAlertNotification(title: String, body: String) {
@@ -108,11 +125,12 @@ class AntivolFirebaseService : FirebaseMessagingService() {
         scope.launch {
             try {
                 val apiUrl = prefsManager.getApiUrlSync()
-                val userId = prefsManager.getUserIdSync()
-                if (userId == -1) return@launch
+                // Garde-fou local : sans session, le serveur refuse l'appel.
+                // Ce n'est pas une identité — le compte est déduit du cookie.
+                if (prefsManager.getUserIdSync() == -1) return@launch
 
                 val api = com.antivol.mobile.data.api.RetrofitClient.getApiService(apiUrl)
-                api.registerFcmToken(com.antivol.mobile.data.model.FcmTokenRequest(userId, token))
+                api.registerFcmToken(com.antivol.mobile.data.model.FcmTokenRequest(token))
                 Log.i(TAG, "Token FCM envoyé au serveur")
             } catch (e: Exception) {
                 Log.e(TAG, "Erreur envoi token: ${e.message}")

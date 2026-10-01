@@ -118,7 +118,7 @@ fun SettingsScreen(
             Button(
                 onClick = {
                     scope.launch {
-                        app.preferencesManager.clearAll()
+                        app.preferencesManager.clearSession()
                         val intent = Intent(context, com.antivol.mobile.MainActivity::class.java).apply {
                             flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
                         }

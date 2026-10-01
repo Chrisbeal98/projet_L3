@@ -1,5 +1,6 @@
 package com.antivol.mobile.ui.lock
 
+import android.annotation.SuppressLint
 import android.app.admin.DevicePolicyManager
 import android.content.BroadcastReceiver
 import android.content.ComponentName
@@ -58,10 +59,36 @@ class LockActivity : ComponentActivity() {
         }
     }
 
-    override fun onCreate(savedInstanceState: Bundle?) {
+    /**
+ * `UnspecifiedRegisterReceiverFlag` est neutralisé à dessein sur la branche
+ * « ancien Android » : jusqu'à Android 12, la surcharge
+ * `registerReceiver(receiver, filter, flags)` n'existe simplement pas, et
+ * l'alternative serait de ne plus pouvoir recevoir le déverrouillage à
+ * distance sur ces versions.
+ *
+ * Ce n'est donc pas un oubli, et le broadcast reste protégé des deux côtés :
+ * l'émetteur pose `setPackage()` (la diffusion ne sort pas de notre
+ * application) et le serveur ne produit de message que pour l'appareil visé,
+ * avec une signature que nous vérifions.
+ */
+@SuppressLint("UnspecifiedRegisterReceiverFlag")
+override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         prefsManager = (application as AntiVolApp).preferencesManager
 
+        // Affichage par-dessus le verrouillage système (FR-LOCK-01/02).
+        //
+        // `FLAG_SHOW_WHEN_LOCKED`, `FLAG_DISMISS_KEYGUARD` et `FLAG_TURN_SCREEN_ON`
+        // sont dépréciés depuis Android 8 au profit de `setShowWhenLocked()` /
+        // `setTurnScreenOn()` / `KeyguardManager.requestDismissKeyguard()`.
+        // On ne migre pas ici : ce sont ces drapeaux qui font réellement
+        // apparaître l'invite de saisie PAR-DESSUS le verrouillage après un
+        // `lockNow()`, et le seul moyen de le vérifier est un test sur un
+        // téléphone réel verrouillé. Une migration à l'aveugle sur l'écran le
+        // plus sensible de l'application coûterait plus qu'elle ne rapporterait.
+        // `minSdk` est de surcroît 21 : la branche moderne n'existerait pas pour
+        // une part non négligeable du parc.
+        @Suppress("DEPRECATION")
         window.addFlags(
             WindowManager.LayoutParams.FLAG_FULLSCREEN or
             WindowManager.LayoutParams.FLAG_SHOW_WHEN_LOCKED or
@@ -73,11 +100,16 @@ class LockActivity : ComponentActivity() {
         dpm = getSystemService(Context.DEVICE_POLICY_SERVICE) as? DevicePolicyManager
         adminComponent = ComponentName(this, AdminReceiver::class.java)
 
+        // Écran allumé pendant 10 minutes (FR-LOCK-06).
+        //
+        // `PARTIAL_WAKE_LOCK` et non `FULL_WAKE_LOCK` : depuis Android 10, le
+        // second est déprécié et n'a plus d'effet sur l'écran. C'est
+        // `FLAG_KEEP_SCREEN_ON`, posé ci-dessus, qui maintient l'écran allumé
+        // tant que cette activité est au premier plan ; le wakelock partiel ne
+        // sert qu'à garder le CPU éveillé pour que le compte à rebours de
+        // déverrouillage et la sonnerie d'alerte continuent de tourner.
         val pm = getSystemService(Context.POWER_SERVICE) as? PowerManager
-        wakeLock = pm?.newWakeLock(
-            PowerManager.FULL_WAKE_LOCK or PowerManager.ACQUIRE_CAUSES_WAKEUP or PowerManager.ON_AFTER_RELEASE,
-            "AntiVol:LockWakeLock"
-        )
+        wakeLock = pm?.newWakeLock(PowerManager.PARTIAL_WAKE_LOCK, "AntiVol:LockWakeLock")
         wakeLock?.acquire(10 * 60 * 1000L)
 
         setFinishOnTouchOutside(false)
@@ -166,7 +198,18 @@ class LockActivity : ComponentActivity() {
         }
     }
 
-    override fun onBackPressed() {
+    /**
+ * Bouton retour neutralisé (FR-LOCK-04).
+ *
+ * Appeler `super` détruirait le but de cet écran : le propriétaire doit rester
+ * sur l'invite de saisie, et le voleur ne doit pas pouvoir le contourner avec
+ * la touche retour du système. L'absence d'appel à `super` est donc
+ * intentionnelle, et c'est pourquoi lint est neutralisé ici plutôt
+ * qu'ailleurs.
+ */
+@SuppressLint("MissingSuperCall")
+@Deprecated("Neutralisé volontairement : voir la note ci-dessus.")
+override fun onBackPressed() {
         Toast.makeText(this, "Appareil verrouillé", Toast.LENGTH_SHORT).show()
     }
 

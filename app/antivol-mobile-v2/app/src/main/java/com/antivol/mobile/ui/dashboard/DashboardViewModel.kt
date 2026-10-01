@@ -11,15 +11,14 @@ import android.Manifest
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.antivol.mobile.data.EnrollementAppareil
 import com.antivol.mobile.data.PreferencesManager
 import com.antivol.mobile.data.api.RetrofitClient
-import com.antivol.mobile.data.model.RegisterDeviceRequest
 import com.antivol.mobile.data.model.StatsResponse
 import com.antivol.mobile.data.model.DeviceStatusResponse
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
-import java.util.UUID
 
 data class DashboardState(
     val isLoading: Boolean = false,
@@ -76,13 +75,11 @@ class DashboardViewModel(
     fun loadStats() {
         viewModelScope.launch {
             try {
-                val pref = preferencesManager
-                val apiUrl = pref.apiUrl.first()
-                val userId = pref.userId.first()
-                if (userId == -1) return@launch
+                val apiUrl = preferencesManager.apiUrl.first()
+                if (preferencesManager.getUserIdSync() == -1) return@launch
 
                 val api = RetrofitClient.getApiService(apiUrl)
-                val response = api.getDashboardStats(mapOf("user_id" to userId))
+                val response = api.getDashboardStats()
                 if (response.isSuccessful) {
                     _state.update { it.copy(stats = response.body() ?: StatsResponse()) }
                 }
@@ -90,43 +87,28 @@ class DashboardViewModel(
         }
     }
 
+    /**
+     * Enrôle le téléphone auprès du serveur.
+     *
+     * Délégué à `EnrollementAppareil` : cette méthode NE FABRIQUE PAS
+     * d'identifiant. Elle utilisait auparavant `UUID.randomUUID()`, ce qui
+     * créait un nouvel enregistrement à chaque appui sur le bouton — le
+     * propriétaire finissait avec dix « appareils » pour un seul téléphone, et
+     * le secret d'appareil était purement et simplement jeté.
+     *
+     * L'opération est idempotente : si le téléphone est déjà enrôlé, elle ne
+     * refait rien. Le bouton sert donc surtout à réparer un enrôlement échoué,
+     * pas à « enregistrer » à chaque fois.
+     */
     fun registerDevice(context: Context) {
         viewModelScope.launch {
             try {
                 _state.update { it.copy(isLoading = true) }
-                val pref = preferencesManager
-                val apiUrl = pref.apiUrl.first()
-                val userId = pref.userId.first()
-                val imei = UUID.randomUUID().toString().take(20)
 
-                val api = RetrofitClient.getApiService(apiUrl)
-                val response = api.registerDevice(
-                    RegisterDeviceRequest(
-                        imei = imei,
-                        modele = Build.MODEL,
-                        marque = Build.BRAND,
-                        userId = userId
-                    )
-                )
-                if (response.isSuccessful) {
-                    val body = response.body()
-                    if (body != null) {
-                        preferencesManager.setAppareilId(body.id)
-                        if (!body.imei.isNullOrEmpty()) {
-                            preferencesManager.setAppareilImei(body.imei)
-                        }
-                        if (!body.codeVerrouillage.isNullOrEmpty()) {
-                            preferencesManager.setCodeVerrouillage(body.codeVerrouillage)
-                            addLog("🔑 Code verrouillage: ${body.codeVerrouillage}")
-                        }
-                        if (!body.codeUssd.isNullOrEmpty()) {
-                            preferencesManager.setCodeUssd(body.codeUssd)
-                            addLog("📞 Code USSD: ${body.codeUssd}")
-                        }
-                        addLog("Appareil enregistré ! ID: ${body.id}")
-                    }
+                if (EnrollementAppareil.enrollerSiBesoin(context.applicationContext, preferencesManager)) {
+                    addLog("Appareil enregistré et protégé")
                 } else {
-                    addLog("Erreur enregistrement: HTTP ${response.code()}")
+                    addLog("Enrôlement impossible : vérifiez la connexion et l'URL du serveur")
                 }
             } catch (e: Exception) {
                 addLog("Erreur: ${e.message}")
@@ -221,11 +203,18 @@ class DashboardViewModel(
         }
     }
 
+    /**
+     * Déconnexion.
+     *
+     * `clearSession` et non `clearAll` : on efface le compte et l'enrôlement,
+     * mais on garde l'URL du serveur. La ressaisir à chaque déconnexion
+     * n'ajouterait que de la pénibilité — et ce n'est pas un secret.
+     */
     fun logout(context: Context) {
         stopPolling()
         RetrofitClient.clearCookies()
         viewModelScope.launch {
-            preferencesManager.clearAll()
+            preferencesManager.clearSession()
             val intent = Intent(context, com.antivol.mobile.MainActivity::class.java).apply {
                 flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
             }

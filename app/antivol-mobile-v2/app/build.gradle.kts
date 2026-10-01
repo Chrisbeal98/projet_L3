@@ -82,4 +82,11 @@ dependencies {
 
     // DataStore
     implementation("androidx.datastore:datastore-preferences:1.0.0")
+
+    // Tests unitaires JVM
+    testImplementation("junit:junit:4.13.2")
+    // android.jar n'expose que des stubs pour org.json : on fournit
+    // l'implémentation réelle pour que les tests du protocole Calculent
+    // vraiment les signatures au lieu de renvoyer des valeurs par défaut.
+    testImplementation("org.json:json:20240303")
 }

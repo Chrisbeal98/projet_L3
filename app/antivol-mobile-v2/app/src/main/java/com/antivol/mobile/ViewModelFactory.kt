@@ -6,6 +6,7 @@ import com.antivol.mobile.data.PreferencesManager
 import com.antivol.mobile.ui.auth.AuthViewModel
 import com.antivol.mobile.ui.dashboard.DashboardViewModel
 import com.antivol.mobile.ui.alerts.AlertsViewModel
+import com.antivol.mobile.ui.profile.ProfileViewModel
 
 class ViewModelFactory(private val preferencesManager: PreferencesManager) : ViewModelProvider.Factory {
     @Suppress("UNCHECKED_CAST")
@@ -17,6 +18,8 @@ class ViewModelFactory(private val preferencesManager: PreferencesManager) : Vie
                 DashboardViewModel(preferencesManager) as T
             modelClass.isAssignableFrom(AlertsViewModel::class.java) ->
                 AlertsViewModel(preferencesManager) as T
+            modelClass.isAssignableFrom(ProfileViewModel::class.java) ->
+                ProfileViewModel(preferencesManager) as T
             else -> throw IllegalArgumentException("Unknown ViewModel class: ${modelClass.name}")
         }
     }

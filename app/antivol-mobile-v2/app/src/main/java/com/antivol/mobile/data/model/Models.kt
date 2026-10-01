@@ -45,18 +45,44 @@ data class DeviceStatusResponse(
 )
 
 data class RegisterDeviceRequest(
+    /**
+     * Identifiant matériel du téléphone.
+     *
+     * Le champ porte le nom `imei` pour rester compatible avec le serveur et
+     * les anciens clients, mais il reçoit `ANDROID_ID` : `getImei()` est
+     * interdit aux applications ordinaires depuis Android 10. Voir
+     * `EnrollementAppareil`.
+     */
     val imei: String,
     val modele: String,
-    val marque: String,
-    @SerializedName("user_id") val userId: Int
+    val marque: String
 )
 
 data class RegisterDeviceResponse(
     val id: Int,
     val imei: String? = null,
     @SerializedName("code_verrouillage") val codeVerrouillage: String? = null,
-    @SerializedName("code_ussd") val codeUssd: String? = null
-)
+    /**
+     * Code PIN, que le serveur nomme `code_pin`.
+     *
+     * On accepte aussi `code_ussd` : c'est le nom de la colonne en base, et il
+     * a déjà été renvoyé par d'anciennes versions. Mantenir les deux évite de
+     * laisser un champ à null selon la version du serveur déployée.
+     */
+    @SerializedName("code_pin") val codePin: String? = null,
+    @SerializedName("code_ussd") val codeUssd: String? = null,
+    /**
+     * Secret d'appareil, renvoyé UNE SEULE FOIS à l'inscription.
+     *
+     * Il ouvre le canal de commande : sans lui, aucun topic ntfy ne peut être
+     * calculé et aucune commande n'arrive. Il ne faut donc pas le perdre.
+     */
+    @SerializedName("device_token") val deviceToken: String? = null
+) {
+    /** Code PIN, quelle que soit la version du serveur qui a répondu. */
+    val codePinEffectif: String?
+        get() = codePin ?: codeUssd
+}
 
 data class LocationUpdateRequest(
     @SerializedName("appareil_id") val appareilId: Int,
@@ -75,21 +101,25 @@ data class AlerteItem(
 )
 
 data class SignalerAlerteRequest(
-    @SerializedName("user_id") val userId: Int,
     @SerializedName("appareil_id") val appareilId: Int,
     @SerializedName("type_alerte") val typeAlerte: String,
     val description: String = "Signalé depuis l'application mobile"
 )
 
-data class ResolveAlerteRequest(
-    @SerializedName("user_id") val userId: Int
+data class FcmTokenRequest(
+    @SerializedName("fcm_token") val fcmToken: String
 )
 
 data class VerifyCodeRequest(val code: String)
 
-data class FcmTokenRequest(
-    @SerializedName("user_id") val userId: Int,
-    @SerializedName("fcm_token") val fcmToken: String
-)
+/**
+ * Enveloppe de `/auth/me`.
+ *
+ * Le serveur répond `{"user": {...}}`, pas l'objet utilisateur nu : sans cette
+ * classe, Gson chercherait un champ `id` à la racine, ne le trouverait pas et
+ * renverrait un profil vide — l'écran afficherait « -- » sans qu'aucune erreur
+ * ne soit visible.
+ */
+data class ProfileResponse(val user: UserData)
 
 data class ApiError(val error: String)

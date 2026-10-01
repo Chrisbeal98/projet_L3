@@ -1,0 +1,58 @@
+{
+  "commentaire": "Vecteurs de test partages entre app/commandes.py (Python) et CommandeProtocole.kt (Kotlin). Toute divergence entre les deux implementations doit se voir ici immediatement. Genere par app/commandes.py : ne pas editer a la main.",
+  "version": 1,
+  "tolerance_horloge_s": 300,
+  "cas": [
+    {
+      "nom": "verrouillage",
+      "secret": "secret-partage-entre-python-et-kotlin",
+      "ts": 1700000000,
+      "canonique": "{\"action\":\"lock\",\"appareil_id\":\"42\",\"body\":\"Votre telephone a ete verrouille\",\"command\":\"LOCK\",\"title\":\"Vol detecte\",\"ts\":1700000000,\"v\":\"v1\"}",
+      "sig": "1c6358e056fa747b1514c81b8408b7fa08f50717c452d6a95326badbb077e521",
+      "message": {
+        "command": "LOCK",
+        "appareil_id": "42",
+        "action": "lock",
+        "title": "Vol detecte",
+        "body": "Votre telephone a ete verrouille",
+        "ts": 1700000000,
+        "v": "v1",
+        "sig": "1c6358e056fa747b1514c81b8408b7fa08f50717c452d6a95326badbb077e521"
+      },
+      "topic": "antivol-afdae70b168d0be7aecdbc1349b7e8cff"
+    },
+    {
+      "nom": "alerte_communautaire",
+      "secret": "secret-partage-entre-python-et-kotlin",
+      "ts": 1700000000,
+      "canonique": "{\"appareil_id\":\"7\",\"body\":\"Un appareil vole a ete signale\",\"command\":\"ALERT\",\"title\":\"Alerte \\\"vol\\\" — 5,36° / -4,0083°\",\"ts\":1700000000,\"v\":\"v1\"}",
+      "sig": "52711ae996749f14fae03e1915dbc197010df5c2e3dc93ffc04931f2a9c6af09",
+      "message": {
+        "command": "ALERT",
+        "appareil_id": "7",
+        "title": "Alerte \"vol\" — 5,36° / -4,0083°",
+        "body": "Un appareil vole a ete signale",
+        "ts": 1700000000,
+        "v": "v1",
+        "sig": "52711ae996749f14fae03e1915dbc197010df5c2e3dc93ffc04931f2a9c6af09"
+      },
+      "topic": "antivol-afdae70b168d0be7aecdbc1349b7e8cff"
+    },
+    {
+      "nom": "caracteres_speciaux",
+      "secret": "secret-partage-entre-python-et-kotlin",
+      "ts": 1700000001,
+      "canonique": "{\"body\":\"backslash \\\\\\\\ et \\\"guillemets\\\" et \\ttabulation\",\"command\":\"UNLOCK\",\"title\":\"Retour a la normale\",\"ts\":1700000001,\"v\":\"v1\"}",
+      "sig": "a0b9625c2330b56b9f98ba1c9009dec1d4b2f7a49da48e88db1f203656291618",
+      "message": {
+        "command": "UNLOCK",
+        "title": "Retour a la normale",
+        "body": "backslash \\\\ et \"guillemets\" et \ttabulation",
+        "ts": 1700000001,
+        "v": "v1",
+        "sig": "a0b9625c2330b56b9f98ba1c9009dec1d4b2f7a49da48e88db1f203656291618"
+      },
+      "topic": "antivol-afdae70b168d0be7aecdbc1349b7e8cff"
+    }
+  ]
+}

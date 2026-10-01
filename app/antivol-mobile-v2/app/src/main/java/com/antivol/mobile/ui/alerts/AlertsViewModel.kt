@@ -8,7 +8,6 @@ import com.antivol.mobile.data.PreferencesManager
 import com.antivol.mobile.data.api.RetrofitClient
 import com.antivol.mobile.data.model.AlerteItem
 import com.antivol.mobile.data.model.SignalerAlerteRequest
-import com.antivol.mobile.data.model.ResolveAlerteRequest
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
 
@@ -31,11 +30,10 @@ class AlertsViewModel(
             _state.update { it.copy(isLoading = true) }
             try {
                 val apiUrl = preferencesManager.apiUrl.first()
-                val userId = preferencesManager.userId.first()
-                if (userId == -1) return@launch
+                if (preferencesManager.getUserIdSync() == -1) return@launch
 
                 val api = RetrofitClient.getApiService(apiUrl)
-                val response = api.getAlertes(mapOf("user_id" to userId))
+                val response = api.getAlertes()
                 if (response.isSuccessful) {
                     val items = response.body() ?: emptyList()
                     val enCours = items.count { it.statut == "en_cours" }
@@ -51,9 +49,8 @@ class AlertsViewModel(
         viewModelScope.launch {
             try {
                 val apiUrl = preferencesManager.apiUrl.first()
-                val userId = preferencesManager.userId.first()
                 val api = RetrofitClient.getApiService(apiUrl)
-                val response = api.resoudreAlerte(alerteId, ResolveAlerteRequest(userId))
+                val response = api.resoudreAlerte(alerteId)
                 if (response.isSuccessful) loadAlertes()
             } catch (_: Exception) {}
         }
@@ -63,12 +60,11 @@ class AlertsViewModel(
         viewModelScope.launch {
             try {
                 val apiUrl = preferencesManager.apiUrl.first()
-                val userId = preferencesManager.userId.first()
                 val appareilId = preferencesManager.appareilId.first()
                 if (appareilId == -1) return@launch
 
                 val api = RetrofitClient.getApiService(apiUrl)
-                api.signalerAlerte(SignalerAlerteRequest(userId, appareilId, type))
+                api.signalerAlerte(SignalerAlerteRequest(appareilId, type))
                 loadAlertes()
             } catch (_: Exception) {}
         }
