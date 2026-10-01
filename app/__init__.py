@@ -124,6 +124,34 @@ def create_app(config_class=Config):
         )
         return response
 
+    @app.after_request
+    def entetes_securite(response):
+        """En-têtes de durcissement sur toutes les réponses.
+
+        Le tableau de bord expose la position d'un téléphone, son statut de
+        verrouillage et son code PIN : ces pages ne doivent être ni intégrables
+        dans une iframe (clickjacking sur les boutons de verrouillage), ni
+        devinables par le navigateur ( sniffing de type).
+
+        `Content-Security-Policy` est volontairement ABSENT. Les gabarits
+        chargent Lucide depuis un CDN et portent des `<script>` en ligne ;
+        une politique stricte casserait l'affichage. C'est un vrai reste à
+        faire, qui suppose d'externaliser ces scripts d'abord.
+        """
+        response.headers.setdefault('X-Content-Type-Options', 'nosniff')
+        response.headers.setdefault('X-Frame-Options', 'DENY')
+        # Le tableau de bord affiche des positions et des identifiants :
+        # aucune URL ne doit fuiter vers un tiers via le Referer.
+        response.headers.setdefault('Referrer-Policy', 'no-referrer')
+        response.headers.setdefault('Permissions-Policy', 'geolocation=(), camera=(), microphone=()')
+        # HSTS : le cookie de session est `Secure`, donc sur une origine HTTPS
+        # le navigateur ne doit jamais retenter en clair.
+        if request.is_secure:
+            response.headers.setdefault(
+                'Strict-Transport-Security', 'max-age=31536000; includeSubDomains'
+            )
+        return response
+
     # Injecter get_locale, langues et noms dans le contexte Jinja2
     @app.context_processor
     def inject_locale():

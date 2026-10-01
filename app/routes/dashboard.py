@@ -10,12 +10,17 @@ import secrets
 import random
 import string
 import os
+import re
 from app import db, bcrypt, log_activite, envoyer_notification_push
 from app.models import (
     User, Appareil, Alerte, Notification,
-    ZoneRisque, ActiviteUtilisateur, JournalErreur, FcmToken
-)
+    ZoneRisque, ActiviteUtilisateur, JournalErreur, FcmToken)
 from datetime import datetime, timezone, timedelta
+
+# Chaque contact d'urgence déclenche un SMS payant à la déclaration d'un vol
+# ou d'une perte. La borne protège l'exploitant du compte Twilio ; voir
+# `_valider_contacts_urgents`.
+MAX_CONTACTS_URGENTS = 10
 
 def generer_code_verrouillage():
     """Génère un code de verrouillage unique.
@@ -602,6 +607,40 @@ def download_apk():
 # ═══════════════════════════════════════════════
 # CONTACTS D'URGENCE + SMS
 # ═══════════════════════════════════════════════
+def _valider_contacts_urgents(contacts_raw):
+    """Valide et borne une liste de numéros saisis par l'utilisateur.
+
+    Chaque ligne devient un SMS payant au déclenchement d'une alerte vol ou
+    perte. Sans borne ni validation, un compte pouvait en enregistrer des
+    milliers : le simple fait de déclarer un téléphone volé suffisait alors à
+    faire facturer des milliers de messages à l'exploitant, et à harceler les
+    numéros choisis.
+
+    Le format attendu est celui qu'exige déjà l'envoi : un international
+    E.164, c'est-à-dire un `+` suivi de chiffres. Les séparateurs courants
+    (espaces, points, tirets) sont tolérés puis retirés.
+
+    Renvoie `(contacts, rejetes, tronques)`.
+    """
+    contacts = []
+    rejetes = []
+    tronques = False
+
+    for ligne in contacts_raw.split('\n'):
+        numero = re.sub(r'[\s.\-()]', '', ligne.strip())
+        if not numero:
+            continue
+        if len(contacts) >= MAX_CONTACTS_URGENTS:
+            tronques = True
+            continue
+        if not re.fullmatch(r'\+\d{8,15}', numero):
+            rejetes.append(ligne.strip())
+            continue
+        contacts.append(numero)
+
+    return contacts, rejetes, tronques
+
+
 def _envoyer_sms_contacts_urgents(appareil, action):
     """Envoie un SMS à tous les contacts d'urgence de l'appareil."""
     import json
@@ -671,12 +710,23 @@ def sauvegarder_contacts(id):
         return redirect(url_for('dashboard.appareils'))
 
     contacts_raw = request.form.get('contacts_urgents', '').strip()
-    contacts = [c.strip() for c in contacts_raw.split('\n') if c.strip()]
+    contacts, rejetes, tronques = _valider_contacts_urgents(contacts_raw)
 
     appareil.contacts_urgents = json.dumps(contacts) if contacts else None
     db.session.commit()
 
-    flash(_('%d contact(s) d\'urgence enregistré(s).' % len(contacts)), 'success')
+    if tronques:
+        flash(_(
+            'Seuls les %d premiers contacts ont été enregistrés (maximum).'
+            % MAX_CONTACTS_URGENTS
+        ), 'warning')
+    if rejetes:
+        flash(_(
+            '%d ligne(s) ignorée(s) : ce n\'est pas un numéro international valide '
+            '(exemple attendu : +2250701234567).' % len(rejetes)
+        ), 'warning')
+    if contacts or not rejetes:
+        flash(_('%d contact(s) d\'urgence enregistré(s).' % len(contacts)), 'success')
     return redirect(url_for('dashboard.appareils'))
 
 

@@ -33,9 +33,12 @@ class AntivolFirebaseService : FirebaseMessagingService() {
         // Le token n'est PAS journalisé : c'est une clé d'abonnement au canal
         // de notification. Quiconque le lirait dans logcat pourrait s'y
         // inscrire et recevoir les alertes antivol de ce téléphone — donc sa
-        // position et ses ordres de verrouillage. On se contente du préfixe,
-        // suffisant pour distinguer « renew » d'un échec d'envoi.
-        Log.i(TAG, "Nouveau token FCM (préfixe ${token.take(6)}…)")
+        // position et ses ordres de verrouillage.
+        //
+        // Même un préfixe est retiré : un « renew » et un échec d'envoi se
+        // distinguent déjà par ce que journalise `sendTokenToServer`. Il n'y
+        // a rien à diagnostiquer que le token lui-même ne donne.
+        Log.i(TAG, "Nouveau token FCM enregistré")
         sendTokenToServer(token)
     }
 
