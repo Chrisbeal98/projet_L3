@@ -18,19 +18,22 @@ from app.models import (
 from datetime import datetime, timezone, timedelta
 
 def generer_code_verrouillage():
-    """Génère un code de verrouillage unique à 4 chiffres."""
-    while True:
-        code = ''.join(random.choices(string.digits, k=4))
-        if not Appareil.query.filter_by(code_verrouillage=code).first():
-            return code
+    """Génère un code de verrouillage unique.
+
+    Délégué à `app.routes.api` : les deux blueprints doivent produire EXACTEMENT
+    le même format de code. Quand ils avaient chacun leur propre générateur
+    (4 chiffres ici, 4 chiffres là, mais des ensembles de caractères
+    différents), un code créé par le site web pouvait ne pas respecter le
+    format attendu par la vérification mobile — et inversement.
+    """
+    from app.routes.api import generer_code_verrouillage as _genere
+    return _genere()
 
 
 def generer_code_pin():
-    """Génère un code PIN unique à 4 chiffres."""
-    while True:
-        code = ''.join(random.choices(string.digits, k=4))
-        if not Appareil.query.filter_by(code_ussd=code).first():
-            return code
+    """Génère un code PIN unique (6 chiffres). Voir `app.routes.api`."""
+    from app.routes.api import generer_code_pin as _genere
+    return _genere()
 
 
 dashboard_bp = Blueprint('dashboard', __name__)
@@ -361,28 +364,85 @@ def signaler_perte(id):
 @dashboard_bp.route('/appareils/reclamer', methods=['POST'])
 @login_required
 def reclamer_appareil():
-    """Réclamer un appareil mobile en entrant son code de verrouillage."""
+    """Rattacher un téléphone d'occasion à son nouveau compte.
+
+    AVANT : connaître le code de verrouillage suffisait à prendre la
+    propriété de l'appareil. Le détenteur précédent perdait alors tout accès
+    à SON téléphone et à son historique. C'était une prise de contrôle de
+    compte, exécutable par quiconque avait vu le code.
+
+    MAINTENANT : deux voies légitimes, et rien d'autre.
+      1. le téléphone lui-même prouve sa possession (secret d'appareil) ;
+      2. l'appareil est « libéré » : il n'a plus signalé depuis 90 jours, donc
+         son compte précédent est considéré comme abandonné (téléphone vendu
+         sans être déclaré, appareil oublié). Passé ce délai, le rattacher à un
+         autre compte n'est plus un vol : c'est un nettoyage.
+    """
+    from datetime import timedelta
+
+    from app.device_auth import ACTIVITE_FRAICHE_MAX, appareil_authentifie
+
     code = request.form.get('code', '').strip()
     if not code:
         flash(_('Veuillez entrer un code de verrouillage.'), 'danger')
         return redirect(url_for('dashboard.appareils'))
 
     appareil = Appareil.query.filter_by(code_verrouillage=code).first()
+    # Message indifférencié : ne pas confirmer qu'un appareil portant ce code
+    # existe, ni à qui il appartient.
     if not appareil:
-        flash(_('Code invalide. Aucun appareil trouvé avec ce code.'), 'danger')
+        flash(_('Code invalide.'), 'danger')
         return redirect(url_for('dashboard.appareils'))
 
     if appareil.user_id == current_user.id:
-        flash(_('Cet appareil vous appartient déjà.'), 'info')
+        flash(_('Cet appareil est déjà rattaché à votre compte.'), 'info')
         return redirect(url_for('dashboard.appareils'))
 
-    old_user = appareil.user_id
-    appareil.user_id = current_user.id
-    db.session.commit()
+    ancien = appareil.user_id
 
-    log_activite(current_user.id, 'reclamation_appareil', f'{appareil.marque} {appareil.modele} (ancien user: {old_user})')
-    flash(_('%(marque)s %(modele)s a été réclamé avec succès !', marque=appareil.marque, modele=appareil.modele), 'success')
-    return redirect(url_for('dashboard.appareils'))
+    def _rattacher(message):
+        appareil.user_id = current_user.id
+        # L'appareil change de mains : son secret précédent est invalidé. Le
+        # téléphone recevra un nouveau secret à son prochain enregistrement,
+        # et l'ancien ne pourra plus piloter le compte du nouveau détenteur.
+        appareil.device_secret = None
+        appareil.derniere_activite = None
+        db.session.commit()
+        log_activite(current_user.id, 'reclamation_appareil', message)
+        flash(_('%(marque)s %(modele)s a été rattaché à votre compte.',
+                marque=appareil.marque, modele=appareil.modele), 'success')
+        return redirect(url_for('dashboard.appareils'))
+
+    # Voie 1 : le téléphone prouve lui-même sa possession.
+    if appareil_authentifie(appareil_id=appareil.id):
+        return _rattacher(
+            f'{appareil.marque} {appareil.modele} rattaché après preuve de possession '
+            f'(ancien compte #{ancien})'
+        )
+
+    # Voie 2 : appareil abandonné depuis assez longtemps.
+    reference = appareil.derniere_activite or appareil.date_enregistrement
+    if reference is None:
+        # Aucune trace d'activité : on ne sait rien, donc on n'accorde rien.
+        inactif_depuis = None
+    else:
+        if reference.tzinfo is None:
+            reference = reference.replace(tzinfo=timezone.utc)
+        inactif_depuis = datetime.now(timezone.utc) - reference
+
+    if inactif_depuis is None or inactif_depuis <= timedelta(days=90):
+        flash(
+            _('Cet appareil est encore rattaché à un compte actif. Demandez son '
+              'transfert au détenteur précédent, ou faites-le depuis '
+              'l\'application installée sur le téléphone.'),
+            'danger',
+        )
+        return redirect(url_for('dashboard.appareils'))
+
+    return _rattacher(
+        f'{appareil.marque} {appareil.modele} libéré après '
+        f'{inactif_depuis.days} jours d\'inactivité (ancien compte #{ancien})'
+    )
 
 
 # ═══════════════════════════════════════════════
@@ -624,29 +684,52 @@ def sauvegarder_contacts(id):
 # VERROUILLAGE PAR CODE
 # ═══════════════════════════════════════════════
 @dashboard_bp.route('/lock-by-code', methods=['GET', 'POST'])
+@login_required
 def lock_by_code():
-    """Page de verrouillage par code — accessible sans authentification.
-    Utile pour verrouiller depuis un autre téléphone/navigateur."""
+    """Verrouillage depuis un autre poste, en connaissant le code.
+
+    AVANT : page accessible SANS authentification, sans limitation de
+    tentatives, avec deux actions (`lock` et `vol`). Concrètement, un
+    visiteur anonyme pouvait, en devinant un code de 4 chiffres :
+      - mettre n'importe quel téléphone du service en état « verrouillé » ;
+      - le déclarer « volé », ce qui déclenchait une alerte chez son
+        propriétaire et une diffusion à tous les autres utilisateurs.
+
+    MAINTENANT : la connexion est obligatoire, le code doit correspondre à un
+    appareil qui appartient au visiteur, et les tentatives sont limitées.
+    """
     result = None
     error = None
     appareil_info = None
 
     if request.method == 'POST':
+        from app.routes.api import _api_rate_limit, _tentatives_api_code_vk, notifier_proprietaire, avertir_communaute
+
+        ip = request.remote_addr or 'unknown'
+        if not _api_rate_limit(ip, _tentatives_api_code_vk, limite=5, fenetre=900):
+            error = 'Trop de tentatives. Réessayez dans quelques minutes.'
+
         code = request.form.get('code', '').strip()
         action = request.form.get('action', 'lock')
-        if not code:
+        if action not in ('lock', 'vol'):
+            error = 'Action inconnue.'
+
+        if not error and not code:
             error = 'Veuillez entrer un code de verrouillage.'
-        else:
+
+        if not error:
             appareil = Appareil.query.filter_by(code_verrouillage=code).first()
+            # Message indifférencié : ne pas révéler si ce code existe pour un
+            # appareil qui appartient à quelqu'un d'autre.
             if not appareil:
-                error = 'Code invalide. Aucun appareil trouvé.'
-            elif appareil.statut in ('volé',) and action == 'lock':
+                error = 'Code invalide.'
+            elif appareil.user_id != current_user.id and current_user.role != 'admin':
+                error = 'Code invalide.'
+            elif appareil.statut == 'volé' and action == 'lock':
                 error = f'Cet appareil ({appareil.marque} {appareil.modele}) est déjà déclaré volé.'
             else:
-                if action == 'vol':
-                    appareil.statut = 'volé'
-                else:
-                    appareil.statut = 'verrouillé'
+                appareil.statut = 'volé' if action == 'vol' else 'verrouillé'
+                appareil.derniere_activite = datetime.now(timezone.utc)
 
                 alerte = Alerte(
                     user_id=appareil.user_id,
@@ -661,22 +744,14 @@ def lock_by_code():
 
                 ntfy_cmd = "VOL" if action == "vol" else "LOCK"
 
-                envoyer_notification_push(
-                    appareil.user_id,
+                notifier_proprietaire(
+                    appareil,
                     ('🚨 VOL SIGNALÉ' if action == 'vol' else '🔒 Appareil verrouillé'),
-                    f'{appareil.marque} {appareil.modele} a été déclaré {"volé" if action == "vol" else "verrouillé"} à distance.',
+                    f'{appareil.marque} {appareil.modele} a été déclaré '
+                    f'{"volé" if action == "vol" else "verrouillé"} à distance.',
                     {'appareil_id': str(appareil.id), 'command': ntfy_cmd}
                 )
-
-                tous = Appareil.query.filter(Appareil.id != appareil.id, Appareil.device_uuid != None).all()
-                for autre in tous:
-                    if autre.user_id:
-                        envoyer_notification_push(
-                            autre.user_id,
-                            ("🚨 VOL SIGNALE: " if action == 'vol' else "⚠️ ALERTE: ") + appareil.marque + " " + appareil.modele,
-                            "Ce telephone a ete declare " + ("vole" if action == "vol" else "perdu") + "! Restez vigilant.",
-                            {"appareil_id": str(appareil.id), "type": "community_alert", "command": ntfy_cmd}
-                        )
+                avertir_communaute(appareil)
 
                 result = 'succes'
                 appareil_info = f"{appareil.marque} {appareil.modele}"

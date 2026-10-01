@@ -12,6 +12,7 @@ from flask_bcrypt import Bcrypt
 from flask_wtf.csrf import CSRFProtect
 from flask_cors import CORS
 from flask_babel import Babel, lazy_gettext as _l
+from flask_migrate import Migrate
 from config import Config
 
 db = SQLAlchemy()
@@ -20,6 +21,7 @@ bcrypt = Bcrypt()
 csrf = CSRFProtect()
 cors = CORS()
 babel = Babel()
+migrate = Migrate()
 
 
 import logging
@@ -29,14 +31,26 @@ import sys
 # ─── Logger dédié pour les requêtes HTTP (indépendant de werkzeug) ───
 _request_log = logging.getLogger('antivol.http')
 _request_log.setLevel(logging.INFO)
-if not _request_log.handlers:
-    _handler = logging.StreamHandler(sys.__stdout__)
-    _handler.setFormatter(logging.Formatter('%(message)s'))
-    _request_log.addHandler(_handler)
 _request_log.propagate = False
 
 # ─── Forcer werkzeug à logger les requêtes via notre handler ───
 logging.getLogger('werkzeug').setLevel(logging.WARNING)
+
+# Handlers de log actuellement attachés, pour pouvoir les remplacer proprement
+# quand `create_app` est rappelé (voir `_attacher_handlers_log`).
+_handlers_log_actifs = []
+
+
+def _attacher_handlers_log(nouveaux):
+    """Remplace les handlers de requêtes par ceux de la nouvelle instance."""
+    for ancien in _handlers_log_actifs:
+        _request_log.removeHandler(ancien)
+        try:
+            ancien.close()
+        except Exception:
+            pass
+    _handlers_log_actifs.clear()
+    _handlers_log_actifs.append(nouveaux)
 
 
 def create_app(config_class=Config):
@@ -49,6 +63,12 @@ def create_app(config_class=Config):
     login_manager.init_app(app)
     bcrypt.init_app(app)
     csrf.init_app(app)
+    # Migrations versionnées : le schéma de la base est décrit par
+    # `migrations/versions/`, jamais par des `ALTER TABLE` écrits au démarrage.
+    migrate.init_app(app, db, directory=os.path.join(
+        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+        'migrations',
+    ))
     cors.init_app(app, resources={r"/api/*": {"origins": ["https://antivol.onrender.com"]}})
 
     # Initialiser Babel (i18n)
@@ -70,24 +90,38 @@ def create_app(config_class=Config):
 
     babel.init_app(app, locale_selector=get_locale)
 
-    # ─── Log des requêtes HTTP dans le terminal ───
-    import os as _os
-    _logfile = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'server_req.log'), 'a', encoding='utf-8')
+    # ─── Log des requêtes HTTP ───
+    # Le chemin vient de la configuration : les tests le redirigent vers un
+    # fichier temporaire au lieu d'écrire dans le dépôt à chaque exécution.
+    _chemin_log = app.config.get('LOG_FILE') or os.path.join(
+        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+        'server_req.log',
+    )
+    _handler_fichier = logging.FileHandler(_chemin_log, encoding='utf-8')
+    _handler_fichier.setFormatter(logging.Formatter('%(message)s'))
+    # En test, on n'écrit pas sur la console : la sortie resterait illisible
+    # avec des centaines de requêtes.
+    _nouveaux = [_handler_fichier]
+    if not app.config.get('TESTING'):
+        _nouveaux.append(logging.StreamHandler(sys.__stdout__))
+    for _h in _nouveaux:
+        _request_log.addHandler(_h)
+    # `create_app` est rappelé à chaque test : on débranche les handlers de
+    # l'instance précédente, sinon le logger cumule les fichiers ouverts et
+    # écrit chaque ligne autant de fois que l'application a été créée.
+    _attacher_handlers_log(_nouveaux)
+
     @app.before_request
     def log_request_start():
-        _logfile.write(f"[REQ] {request.method} {request.path}\n")
-        _logfile.flush()
-        print(f"[REQ] {request.method} {request.path}", file=sys.stderr)
+        _request_log.info('[REQ] %s %s', request.method, request.path)
+
     @app.after_request
     def log_request(response):
-        method = request.method
-        path = request.path
-        code = response.status_code
-        ip = request.remote_addr or '?'
-        msg = f"  [{code}] {method} {path} [{ip}]"
-        _logfile.write(msg + "\n")
-        _logfile.flush()
-        print(msg)
+        _request_log.info(
+            '  [%s] %s %s [%s]',
+            response.status_code, request.method, request.path,
+            request.remote_addr or '?',
+        )
         return response
 
     # Injecter get_locale, langues et noms dans le contexte Jinja2
@@ -249,38 +283,180 @@ def create_app(config_class=Config):
     return app
 
 
-def envoyer_notification_push(user_id, title, body, data=None):
-    """Envoie une notification push via ntfy.sh + FCM."""
-    sent = False
+# Commandes envoyees par les routes -> actions comprises par l'application mobile.
+# L'app Android ne lit QUE la cle "action" (minuscule) : sans elle, aucune commande
+# n'est executee et seule la notification systeme s'affiche.
+_COMMANDES_ACTIONS = {
+    'LOCK': 'lock',
+    'VERROUILLER': 'lock',
+    'VOL': 'lock',
+    'PERTE': 'lock',
+    'UNLOCK': 'unlock',
+    'DEVERROUILLER': 'unlock',
+    'ALERTE': 'alert',
+    'ALERT': 'alert',
+    'LOCATE': 'locate',
+    'LOCALISER': 'locate',
+}
 
-    ntfy_url = current_app.config.get('NTFY_URL', 'https://ntfy.sh')
-    topic = f"antivol-u{user_id}"
+# Commandes qui doivent arriver au client même quand l'application est en
+# arrière-plan. Sur Android 10+, un message FCM de type `notification` est
+# affiché par le système sans réveiller l'application : la commande est alors
+# perdue. Ces actions-là imposent un message `data-only`.
+_ACTIONS_DATA_ONLY = ('lock', 'unlock', 'locate')
 
-    ntfy_title = title
-    if data and data.get('command'):
-        ntfy_title = data['command']
+
+def _action_depuis_data(data):
+    """Deduit l'action ('lock'/'unlock'/'alert'/None) a partir du dict data.
+
+    Les alertes communautaires ne doivent jamais verrouiller l'appareil du
+    destinataire : on renvoie donc 'alert' pour elles.
+    """
+    if not data:
+        return None
+    if data.get('type') == 'community_alert':
+        return 'alert'
+    commande = data.get('command')
+    if not commande:
+        return None
+    return _COMMANDES_ACTIONS.get(str(commande).strip().upper())
+
+
+def _data_pour_app(data, action, title, body):
+    """Construit le dictionnaire 'data' transmis a l'app (ntfy + FCM)."""
+    payload = {}
+    if data:
+        for k, v in data.items():
+            if v is not None:
+                payload[str(k)] = str(v)
+    if action:
+        payload['action'] = action
+    payload.setdefault('title', title)
+    payload.setdefault('body', body)
+    return payload
+
+
+def _envoyer_ntfy(topic, message, titre, corps):
+    """Publie un message signé sur un topic ntfy privé."""
+    import requests as req
+
+    ntfy_url = (current_app.config.get('NTFY_URL') or 'https://ntfy.sh').rstrip('/')
+    # Jeton d'accès facultatif (serveur ntfy auto-hébergé). Sur ntfy.sh il
+    # n'existe pas : la sécurité repose alors sur le secret du topic et la
+    # signature du message, pas sur une autorisation du service.
+    jeton = current_app.config.get('NTFY_ACCESS_TOKEN') or ''
+    entetes = {'Authorization': f'Bearer {jeton}'} if jeton else {}
 
     payload = {
         "topic": topic,
-        "title": ntfy_title,
-        "message": body,
+        "title": titre,
+        "message": corps,
         "priority": 5,
+        "data": message,
     }
+    req.post(ntfy_url, json=payload, headers=entetes, timeout=5)
+
+
+def envoyer_notification_push(user_id, title, body, data=None):
+    """Envoie une notification aux appareils d'un utilisateur.
+
+    Deux canaux, avec deux garanties différentes :
+
+    - FCM : un jeton par téléphone, géré par Google, inchangé.
+    - ntfy : un topic NON DEVINABLE par téléphone, et un message SIGNÉ (HMAC).
+      Voir `app/commandes.py` : c'est ce qui corrige l'injection de commande
+      (publier un faux « LOCK » sur un topic public) et l'interception de la
+      position (s'abonner au topic d'un utilisateur).
+
+    Règle appliquée ici : on n'émet JAMAIS sur un topic devinable ni sur un
+    topic global. Si l'appareil n'a pas de secret enrôlé, il ne reçoit rien
+    par ntfy — c'est volontaire, et FCM prend le relais.
+    """
+    from app.commandes import signer
+    from app.device_auth import secret_de
+    from app.models import Appareil
+
+    sent = False
+    action = _action_depuis_data(data)
+    app_data = _data_pour_app(data, action, title, body)
+
+    if not current_app.config.get('ANTIVOL_TEST_MODE'):
+        try:
+            for appareil in Appareil.query.filter_by(user_id=user_id).all():
+                secret = secret_de(appareil)
+                if not secret:
+                    # Pas encore enrôlé : pas de canal ntfy pour cet appareil.
+                    continue
+
+                from app.commandes import topic_pour_secret
+                topic = topic_pour_secret(secret)
+                message = signer(secret, app_data)
+                if not (topic and message):
+                    continue
+
+                _envoyer_ntfy(topic, message, title, body)
+                sent = True
+        except Exception:
+            pass
 
     try:
-        import requests as req
-        req.post(ntfy_url, json=payload, timeout=5)
-
-        if data and data.get('type') == 'community_alert':
-            community_payload = {**payload, "topic": "antivol-community", "title": title}
-            req.post(ntfy_url, json=community_payload, timeout=5)
-
+        _envoyer_fcm_push(user_id, title, body, data)
         sent = True
     except Exception:
         pass
 
+    return sent
+
+
+def envoyer_commande_appareil(appareil, commande, titre=None, corps=None):
+    """Envoie une commande à UN SEUL appareil (FR-CMD-05 « locate »).
+
+    `envoyer_notification_push` parle à tous les téléphones d'un utilisateur.
+    C'est le bon comportement pour une alerte, et le mauvais pour une demande
+    de position : chaque téléphone enverrait la sienne, et le propriétaire
+    verrait plusieurs positions superposées sur la carte.
+
+    Deux canaux, une garantie commune :
+
+    - ntfy : le topic privé de CET appareil, message signé. C'est le canal
+      exact, sans autre possibility.
+    - FCM : les jetons appartiennent au compte, pas au téléphone — on ne peut
+      donc pas cibler. Le message porte `appareil_id`, et les clients ignorent
+      toute commande qui ne vise pas leur propre identifiant
+      (`CommandeHandler.estPourCetAppareil`). Un téléphone tiers affiche au
+      pire une notification, il n'exécute rien.
+
+    Renvoie True si au moins un canal a accepté l'envoi.
+    """
+    from app.commandes import signer, topic_pour_secret
+    from app.device_auth import secret_de
+
+    commande = str(commande or '').strip().upper()
+    action = _COMMANDES_ACTIONS.get(commande)
+    if not action:
+        return False
+
+    titre = titre or 'AntiVol'
+    corps = corps or 'Demande de localisation'
+    data = {'appareil_id': str(appareil.id), 'command': commande}
+    app_data = _data_pour_app(data, action, titre, corps)
+
+    sent = False
+
+    if not current_app.config.get('ANTIVOL_TEST_MODE'):
+        try:
+            secret = secret_de(appareil)
+            if secret:
+                topic = topic_pour_secret(secret)
+                message = signer(secret, app_data)
+                if topic and message:
+                    _envoyer_ntfy(topic, message, titre, corps)
+                    sent = True
+        except Exception:
+            pass
+
     try:
-        _envoyer_fcm_push(user_id, title, body, data)
+        _envoyer_fcm_push(appareil.user_id, titre, corps, data)
         sent = True
     except Exception:
         pass
@@ -294,6 +470,17 @@ def _envoyer_fcm_push(user_id, title, body, data=None):
 
     service_account_json = current_app.config.get('FIREBASE_SERVICE_ACCOUNT', '')
     if not service_account_json:
+        return
+    if not os.path.isabs(service_account_json) and not service_account_json.lstrip().startswith('{'):
+        service_account_json = os.path.join(
+            os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+            service_account_json,
+        )
+    if not os.path.exists(service_account_json) and not service_account_json.lstrip().startswith('{'):
+        app.logger.warning(
+            'FCM ignore : service account introuvable (%s). Definit FIREBASE_SERVICE_ACCOUNT.',
+            service_account_json,
+        )
         return
 
     try:
@@ -318,33 +505,36 @@ def _envoyer_fcm_push(user_id, title, body, data=None):
 
         fcm_tokens = [t.token for t in tokens]
 
-        command = data.get('command') if data else None
+        action = _action_depuis_data(data)
+        data_payload = _data_pour_app(data, action, title, body)
 
-        notification = messaging.Notification(title=title, body=body)
-        android_config = messaging.AndroidConfig(
-            priority='high',
-            notification=messaging.AndroidNotification(
-                title=title,
-                body=body,
-                click_action='OPENMainActivity',
-            ),
-        )
-        data_payload = {}
-        if command:
-            data_payload['command'] = command
-        if data:
-            for k, v in data.items():
-                if v is not None:
-                    data_payload[str(k)] = str(v)
-
-        response = messaging.send_each(
-            messaging.MulticastMessage(
-                notification=notification,
-                android=android_config,
+        if action in _ACTIONS_DATA_ONLY:
+            # Message DATA-ONLY : c'est la seule facon d'obtenir
+            # onMessageReceived() meme quand l'app est en arriere-plan.
+            # Un bloc "notification" ferait afficher la notif par Android
+            # sans jamais executer la commande de verrouillage.
+            message = messaging.MulticastMessage(
+                data=data_payload,
+                android=messaging.AndroidConfig(priority='high'),
+                tokens=fcm_tokens,
+            )
+        else:
+            # Alerte informative : on laisse Android afficher la notification.
+            message = messaging.MulticastMessage(
+                notification=messaging.Notification(title=title, body=body),
+                android=messaging.AndroidConfig(
+                    priority='high',
+                    notification=messaging.AndroidNotification(
+                        title=title,
+                        body=body,
+                        click_action='OPENMainActivity',
+                    ),
+                ),
                 data=data_payload,
                 tokens=fcm_tokens,
             )
-        )
+
+        response = messaging.send_each(message)
 
         if response.failure_count > 0:
             for idx, resp in enumerate(response.responses):

@@ -4,6 +4,7 @@ Crée un admin, des utilisateurs, des appareils, des alertes, etc.
 """
 
 from app import create_app, db, bcrypt
+from app.bootstrap import appliquer_migrations
 from app.models import (
     User, Appareil, Alerte, Notification,
     Localisation, ZoneRisque, ActiviteUtilisateur
@@ -14,6 +15,8 @@ import random
 app = create_app()
 
 with app.app_context():
+    # Le schéma n'est plus créé ici : il vient des migrations Alembic.
+    appliquer_migrations()
     print("Peuplement de la base de donnees...")
 
     # ═══════════════════════════════════════

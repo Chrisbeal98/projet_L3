@@ -39,6 +39,22 @@ class User(db.Model, UserMixin):
     statut = db.Column(db.String(20), default='actif')  # actif | suspendu | désactivé
     date_creation = db.Column(db.DateTime, default=datetime.now(timezone.utc))
 
+    # Les contraintes et index sont posés ICI, et uniquement ici : c'est le
+    # modèle qui décrit la base. Ils sont appliqués par la migration Alembic
+    # correspondante, jamais par un `ALTER TABLE` écrit à la main au démarrage
+    # (voir migrations/versions/ et `wsgi.py`).
+    __table_args__ = (
+        db.CheckConstraint(
+            "role IN ('utilisateur', 'admin')",
+            name='ck_utilisateurs_role',
+        ),
+        db.CheckConstraint(
+            "statut IN ('actif', 'suspendu', 'désactivé')",
+            name='ck_utilisateurs_statut',
+        ),
+        db.Index('ix_utilisateurs_statut', 'statut'),
+    )
+
     # Relations
     appareils = db.relationship('Appareil', backref='proprietaire', lazy=True, cascade='all, delete-orphan')
     alertes = db.relationship('Alerte', backref='utilisateur', lazy=True, cascade='all, delete-orphan')
@@ -72,8 +88,38 @@ class Appareil(db.Model):
     code_verrouillage = db.Column(db.String(20), unique=True, nullable=True)
     code_ussd = db.Column(db.String(20), unique=True, nullable=True)  # stocke un code PIN 4 chiffres
     device_uuid = db.Column(db.String(64), unique=True, nullable=True)  # UUID unique du téléphone Android
+    # Secret d'authentification du téléphone (en-tête `X-Device-Token`).
+    #
+    # Stocké EN CLAIR, et c'est un choix assumé : le serveur doit pouvoir
+    # resigner les messages ntfy à tout moment (HMAC), ce qui est impossible
+    # avec un simple hachage. C'est la même situation qu'un jeton d'API
+    # applicative, ou que les jetons FCM déjà stockés en clair dans cette base.
+    #
+    # Ce que le secret NE PERMET PAS : obtenir une session de compte. Il ne
+    # donne accès qu'aux appels d'appareil (statut, position, déverrouillage),
+    # et il est révocable instantanément en le renouvelant.
+    device_secret = db.Column(db.String(64), unique=True, nullable=True, index=True)
+    # Date du dernier appel authentifié : permet de détecter un appareil
+    # hors ligne et de ne pas lui faire confiance indéfiniment.
+    derniere_activite = db.Column(db.DateTime, nullable=True)
     contacts_urgents = db.Column(db.Text, nullable=True)  # JSON: ["+22501020304", "+22505060708"]
     date_enregistrement = db.Column(db.DateTime, default=datetime.now(timezone.utc))
+
+    __table_args__ = (
+        # Un statut hors de cette liste est un bug, pas une donnée : mieux vaut
+        # que la base le refuse que de la laisser passer. Les valeurs sont
+        # exactement celles que manipulent `app/routes/api.py` et
+        # `app/routes/dashboard.py` (diagramme d'état, § 8.3 du cahier des
+        # charges).
+        db.CheckConstraint(
+            "statut IN ('actif', 'volé', 'verrouillé', 'récupéré', 'perdu', 'désactivé')",
+            name='ck_appareils_statut',
+        ),
+        # `/api/appareils`, `/api/dashboard/stats` et la liste des appareils
+        # volés filtrent tous par `user_id` puis par `statut`.
+        db.Index('ix_appareils_user_id', 'user_id'),
+        db.Index('ix_appareils_statut', 'statut'),
+    )
 
     # Relations
     alertes = db.relationship('Alerte', backref='appareil', lazy=True, cascade='all, delete-orphan')
@@ -102,6 +148,45 @@ class Alerte(db.Model):
     date_creation = db.Column(db.DateTime, default=datetime.now(timezone.utc))
     date_resolution = db.Column(db.DateTime, nullable=True)
 
+    # ─── Partage communautaire : consentement explicite ───
+    # Faux par défaut. Tant que le propriétaire n'a pas accepté, l'appareil
+    # signalé n'apparaît chez PERSONNE d'autre que son propriétaire. C'est ce
+    # qui remplace l'ancien comportement « tout appareil avec un device_uuid
+    # est visible par tout le monde », source de fuite massive de données.
+    # Même une fois accepté, seules des métadonnées publiques sont partagées :
+    # jamais l'IMEI, jamais un code, jamais la position au mètre.
+    partage_accepte = db.Column(db.Boolean, nullable=False, default=False, server_default='0')
+    # Niveau de précision accordé par le propriétaire : 'approximatif' ou
+    # 'exact'. ATTENTION : c'est un plafond, pas une autorisation. L'API
+    # ramène toujours à 'approximatif' pour un tiers — suivre quelqu'un au
+    # mètre sans son accord n'a pas à être possible.
+    partage_precision = db.Column(db.String(20), nullable=False, default='approximatif',
+                                  server_default='approximatif')
+
+    __table_args__ = (
+        db.CheckConstraint(
+            "type_alerte IN ('vol', 'perte', 'anomalie', 'changement_sim')",
+            name='ck_alertes_type_alerte',
+        ),
+        db.CheckConstraint(
+            "statut IN ('en_cours', 'traité', 'annulé')",
+            name='ck_alertes_statut',
+        ),
+        db.CheckConstraint(
+            "priorite IN ('basse', 'moyenne', 'haute', 'critique')",
+            name='ck_alertes_priorite',
+        ),
+        db.CheckConstraint(
+            "partage_precision IN ('approximatif', 'exact')",
+            name='ck_alertes_partage_precision',
+        ),
+        # Le tableau de bord compte les alertes « en_cours » d'un utilisateur,
+        # et la page alertes les trie par date décroissante.
+        db.Index('ix_alertes_user_statut', 'user_id', 'statut'),
+        db.Index('ix_alertes_appareil_id', 'appareil_id'),
+        db.Index('ix_alertes_date_creation', 'date_creation'),
+    )
+
     # Relations
     notifications = db.relationship('Notification', backref='alerte', lazy=True, cascade='all, delete-orphan')
 
@@ -126,6 +211,18 @@ class Notification(db.Model):
     # Statuts : en_attente | envoyé | reçu | échoué
     date_envoi = db.Column(db.DateTime, default=datetime.now(timezone.utc))
 
+    __table_args__ = (
+        db.CheckConstraint(
+            "type_notification IN ('sms', 'email', 'push')",
+            name='ck_notifications_type',
+        ),
+        db.CheckConstraint(
+            "statut IN ('en_attente', 'envoyé', 'reçu', 'échoué')",
+            name='ck_notifications_statut',
+        ),
+        db.Index('ix_notifications_alerte_id', 'alerte_id'),
+    )
+
     def __repr__(self):
         return f'<Notification {self.type_notification} - {self.statut}>'
 
@@ -148,6 +245,16 @@ class Localisation(db.Model):
 
     __table_args__ = (
         db.Index('ix_localisations_appareil_date', 'appareil_id', date_capture.desc()),
+        # Une latitude de 999.0 est déjà rejetée par l'API, mais la base doit
+        # aussi refuser la valeur : une position fausse survives au code.
+        db.CheckConstraint(
+            'latitude >= -90 AND latitude <= 90',
+            name='ck_localisations_latitude',
+        ),
+        db.CheckConstraint(
+            'longitude >= -180 AND longitude <= 180',
+            name='ck_localisations_longitude',
+        ),
     )
 
     def __repr__(self):
@@ -172,6 +279,14 @@ class ZoneRisque(db.Model):
     nombre_incidents = db.Column(db.Integer, default=0)
     date_mise_a_jour = db.Column(db.DateTime, default=datetime.now(timezone.utc))
 
+    __table_args__ = (
+        db.CheckConstraint(
+            "niveau_risque IN ('faible', 'moyen', 'élevé', 'critique')",
+            name='ck_zones_risque_niveau',
+        ),
+        db.Index('ix_zones_risque_ville', 'ville'),
+    )
+
     def __repr__(self):
         return f'<ZoneRisque {self.nom} - {self.niveau_risque}>'
 
@@ -192,6 +307,13 @@ class ActiviteUtilisateur(db.Model):
     adresse_ip = db.Column(db.String(45))
     navigateur = db.Column(db.String(200))
     date = db.Column(db.DateTime, default=datetime.now(timezone.utc))
+
+    # L'onglet « Activités » de l'administration affiche les N dernières
+    # actions : index sur (user_id, date) pour éviter un tri en base entière.
+    __table_args__ = (
+        db.Index('ix_activites_utilisateurs_user_date', 'user_id', 'date'),
+        db.Index('ix_activites_utilisateurs_action', 'action'),
+    )
 
     # Relation
     utilisateur = db.relationship('User', backref=db.backref('activites', lazy=True))
@@ -217,6 +339,12 @@ class JournalErreur(db.Model):
     date = db.Column(db.DateTime, default=datetime.now(timezone.utc))
     resolu = db.Column(db.Boolean, default=False)
 
+    # L'onglet « Erreurs » filtre par utilisateur ET par état de traitement.
+    __table_args__ = (
+        db.Index('ix_journal_erreurs_user_date', 'user_id', 'date'),
+        db.Index('ix_journal_erreurs_resolu', 'resolu'),
+    )
+
     # Relation
     utilisateur = db.relationship('User', backref=db.backref('erreurs', lazy=True))
 
@@ -236,6 +364,12 @@ class FcmToken(db.Model):
     token = db.Column(db.String(500), nullable=False, unique=True)
     date_creation = db.Column(db.DateTime, default=datetime.now(timezone.utc))
     date_mise_a_jour = db.Column(db.DateTime, default=datetime.now(timezone.utc))
+
+    # Chaque envoi de notification part d'un utilisateur : l'index évite un
+    # balayage complet de la table à chaque push.
+    __table_args__ = (
+        db.Index('ix_fcm_tokens_user_id', 'user_id'),
+    )
 
     utilisateur = db.relationship('User', backref=db.backref('fcm_tokens', lazy=True))
 
@@ -285,6 +419,10 @@ class HistoriqueNavigation(db.Model):
     icone = db.Column(db.String(50), default='file-text')
     url = db.Column(db.String(500), nullable=False)
     date_visite = db.Column(db.DateTime, default=datetime.now(timezone.utc))
+
+    __table_args__ = (
+        db.Index('ix_historique_navigation_user_date', 'user_id', 'date_visite'),
+    )
 
     utilisateur = db.relationship('User', backref=db.backref('historique_navigation', lazy=True))
 

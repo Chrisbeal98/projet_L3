@@ -5,11 +5,14 @@ flask-wtf==1.2.1
 flask-bcrypt==1.0.1
 flask-cors==4.0.0
 flask-babel==4.0.0
+# Migrations de base versionnées et réversibles (Alembic).
+flask-migrate==4.0.7
+alembic==1.13.3
 email-validator==2.1.0
 python-dotenv==1.0.0
 pymysql==1.1.0
 cryptography
-requests==2.31.0
+requests>=2.31.0,<3
 gunicorn==23.0.0
 psycopg2-binary==2.9.9
 twilio==9.0.0
