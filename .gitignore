@@ -40,9 +40,26 @@ app/antivol-mobile-v2/app/build/
 app/antivol-mobile-v2/local.properties
 *.apk
 *.ap_
+*.aab
 *.dex
 *.class
 *.iml
+*.jks
+*.keystore
+key.properties
+# Secrets Android
+**/google-services.json
+**/local.properties
 android/gradle/
 android/gradlew
 android/gradlew.bat
+
+# Sessions et cookies recuperes (contiennent un cookie de session valide)
+cookies.txt
+*cookies*.txt
+
+# Rapports de crash et traces d'execution
+*.log
+logcat*.txt
+hs_err_pid*.log
+replay_pid*.log
