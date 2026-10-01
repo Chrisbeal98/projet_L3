@@ -183,7 +183,7 @@
 {% endblock %}
 
 {% block scripts %}
-<script>
+<script nonce="{{ csp_nonce() }}">
     const select = document.getElementById('appareil_id');
     {% for appareil in current_user.appareils %}
     const opt{{ appareil.id }} = document.createElement('option');

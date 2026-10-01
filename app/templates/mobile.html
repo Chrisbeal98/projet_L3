@@ -232,7 +232,7 @@
         </div>
     </div>
 
-    <script>
+    <script nonce="{{ csp_nonce() }}">
         const API_URL = window.location.protocol + '//' + window.location.host + '/api';
         const POLL_INTERVAL = 3000;
         let APPAREIL_ID = null;

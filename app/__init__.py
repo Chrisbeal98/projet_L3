@@ -26,6 +26,7 @@ migrate = Migrate()
 
 import logging
 import os
+import secrets
 import sys
 
 # ─── Logger dédié pour les requêtes HTTP (indépendant de werkzeug) ───
@@ -35,6 +36,39 @@ _request_log.propagate = False
 
 # ─── Forcer werkzeug à logger les requêtes via notre handler ───
 logging.getLogger('werkzeug').setLevel(logging.WARNING)
+
+
+def _content_security_policy():
+    """Assemble la politique CSP de la réponse en cours.
+
+    Les origines listées sont celles que les gabarits utilisent réellement :
+    polices Google, Lucide et Leaflet sur unpkg, Chart.js sur jsDelivr, le
+    générateur de QR code, et les tuiles OpenStreetMap. Ajouter une source
+    ici est un choix : elle autorise du code tiers sur toutes les pages.
+
+    `object-src 'none'` et `base-uri 'self'` n'apportent rien en l'état mais
+    ferment deux vecteurs classiques si un gabarit évoluait vers `<object>`,
+    `<embed>` ou `<base>`.
+
+    `img-src` et `connect-src` listent le serveur de tuiles : sans cela, la
+    carte du tableau de bord s'affiche vide.
+    """
+    nonce = request.environ.get('csp_nonce', '')
+    return '; '.join((
+        # Sans `'unsafe-inline'` : seul un script porteur du nonce s'exécute.
+        "script-src 'self' 'nonce-%s' https://unpkg.com https://cdn.jsdelivr.net" % nonce,
+        "style-src 'self' 'unsafe-inline' https://unpkg.com https://fonts.googleapis.com",
+        "font-src 'self' https://fonts.gstatic.com",
+        "img-src 'self' data: https://api.qrserver.com "
+        "https://*.tile.openstreetmap.org https://unpkg.com",
+        "connect-src 'self' https://*.tile.openstreetmap.org",
+        "object-src 'none'",
+        "base-uri 'self'",
+        "form-action 'self'",
+        # Redondant avec X-Frame-Options, mais ce dernier est ignoré par
+        # certains navigateurs pour les requêtes intersites.
+        "frame-ancestors 'none'",
+    ))
 
 # Handlers de log actuellement attachés, pour pouvoir les remplacer proprement
 # quand `create_app` est rappelé (voir `_attacher_handlers_log`).
@@ -114,6 +148,20 @@ def create_app(config_class=Config):
     @app.before_request
     def log_request_start():
         _request_log.info('[REQ] %s %s', request.method, request.path)
+        # Tiré ici et non dans le context_processor : celui-ci ne s'exécute que
+        # si un gabarit est rendu, et une réponse JSON se retrouverait avec une
+        # directive `nonce-` vide. Le stocke dans `environ`, pas dans `g` :
+        # `g` est lié au contexte d'application, qui peut survivre à plusieurs
+        # requêtes si quelqu'un pousse `with app.app_context():` (worker, CLI),
+        # et le nonce deviendrait alors constant — ce qui vide la politique de
+        # son effet. `secrets` tire dans l'OS, pas dans un PRNG attackable.
+        request.environ.setdefault('csp_nonce', secrets.token_urlsafe(16))
+
+    @app.context_processor
+    def inject_nonce():
+        """Expose le nonce CSP aux gabarits, pour qu'ils le recopient sur leurs
+        scripts en ligne."""
+        return dict(csp_nonce=lambda: request.environ['csp_nonce'])
 
     @app.after_request
     def log_request(response):
@@ -131,12 +179,18 @@ def create_app(config_class=Config):
         Le tableau de bord expose la position d'un téléphone, son statut de
         verrouillage et son code PIN : ces pages ne doivent être ni intégrables
         dans une iframe (clickjacking sur les boutons de verrouillage), ni
-        devinables par le navigateur ( sniffing de type).
+        devinables par le navigateur (sniffing de type).
 
-        `Content-Security-Policy` est volontairement ABSENT. Les gabarits
-        chargent Lucide depuis un CDN et portent des `<script>` en ligne ;
-        une politique stricte casserait l'affichage. C'est un vrai reste à
-        faire, qui suppose d'externaliser ces scripts d'abord.
+        `Content-Security-Policy` est la contrepartie côté navigateur de
+        l'échappement Jinja : même si une injection réussissait dans un
+        gabarit, le script injecté n'aurait pas le nonce attendu et ne
+        s'exécuterait pas. `script-src` ne contient donc PAS
+        `'unsafe-inline'` — c'est la seule façon que la politique serve à
+        quelque chose.
+
+        `style-src` conserve `'unsafe-inline'` : les gabarits portent 125
+        attributs `style=` en ligne. Les resserrer suppose de les déplacer
+        dans `static/css/style.css`, refonte à part.
         """
         response.headers.setdefault('X-Content-Type-Options', 'nosniff')
         response.headers.setdefault('X-Frame-Options', 'DENY')
@@ -150,6 +204,10 @@ def create_app(config_class=Config):
             response.headers.setdefault(
                 'Strict-Transport-Security', 'max-age=31536000; includeSubDomains'
             )
+        response.headers.setdefault(
+            'Content-Security-Policy',
+            _content_security_policy(),
+        )
         return response
 
     # Injecter get_locale, langues et noms dans le contexte Jinja2

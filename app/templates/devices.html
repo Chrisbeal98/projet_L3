@@ -135,7 +135,7 @@
                                     <textarea name="contacts_urgents" id="contacts-text-{{ appareil.id }}" rows="3" placeholder="+22501020304&#10;+22505060708" style="width:100%;padding:8px;border-radius:6px;border:1px solid rgba(255,255,255,0.1);background:rgba(255,255,255,0.05);color:#fff;font-size:12px;font-family:monospace;resize:vertical;outline:none"></textarea>
                                     <button type="submit" style="margin-top:6px;padding:6px 12px;border-radius:6px;border:none;background:#3b82f6;color:#fff;font-size:11px;font-weight:600;cursor:pointer">💾 Sauvegarder</button>
                                 </form>
-                                <script>
+                                <script nonce="{{ csp_nonce() }}">
                                 (function(){
                                     var raw = '{{ appareil.contacts_urgents | e }}';
                                     if (raw && raw !== 'None') {

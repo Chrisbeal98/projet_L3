@@ -269,7 +269,7 @@
 {% endblock %}
 
 {% block scripts %}
-<script>
+<script nonce="{{ csp_nonce() }}">
     const erreursData = {{ erreurs_data | tojson }};
 
     function showErrorDetails(id) {

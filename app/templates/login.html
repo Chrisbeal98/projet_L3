@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-    <script>
+    <script nonce="{{ csp_nonce() }}">
         (function() {
             var saved = localStorage.getItem('theme');
             if (saved === 'light') {
@@ -480,7 +480,7 @@
         <p>&copy; 2026 <a href="{{ url_for('auth.accueil') }}" style="color:#3f93cb;text-decoration:none;">AntiVol.ci</a> — {{ _('Système Anti-Vol Intelligent made in Côte d\'Ivoire') }}</p>
     </div>
 
-    <script>
+    <script nonce="{{ csp_nonce() }}">
         function toggleTheme() {
             var html = document.documentElement;
             var isLight = html.getAttribute('data-theme') === 'light';

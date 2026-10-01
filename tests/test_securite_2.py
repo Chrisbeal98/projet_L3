@@ -57,6 +57,139 @@ def test_le_referer_ne_fuit_pas_la_page_de_carte(client):
     assert r.headers['Referrer-Policy'] == 'no-referrer'
 
 
+# ───────────────────────── 2. Content-Security-Policy ─────────────────────────
+# AVANT : aucune politique. L'échappement Jinja protégeait les gabarits, mais
+# toute fuite suffirait à faire exécuter un script sans entrave. La politique
+# n'autorise rien en ligne : seuls les scripts porteurs du nonce de la
+# réponse peuvent s'exécuter.
+
+def test_csp_est_presente(client):
+    r = client.get('/login')
+    assert 'Content-Security-Policy' in r.headers
+
+
+def test_script_src_n_accepte_pas_inline(client):
+    """C'est LA condition qui rend la politique utile.
+
+    Avec `'unsafe-inline'` dans `script-src`, le navigateur exécute le premier
+    script trouvé sur la page, y compris injecté : la politique n'apporte plus
+    rien. Son absence est ce qui bloque réellement une XSS.
+    """
+    r = client.get('/login')
+    script_src = [p for p in r.headers['Content-Security-Policy'].split('; ')
+                  if p.startswith('script-src')][0]
+    assert 'unsafe-inline' not in script_src, script_src
+    assert "'nonce-" in script_src, script_src
+
+
+def test_style_src_peut_conserver_inline(client):
+    """125 attributs `style=` en ligne interdisent de resserrer `style-src`
+    sans refonte des gabarits. Le test documente ce reste à faire au lieu de
+    le laisser passer inaperçu."""
+    r = client.get('/login')
+    assert 'style-src' in r.headers['Content-Security-Policy']
+
+
+def test_le_nonce_du_script_en_ligne_est_autorise(client):
+    """Les scripts en ligne des gabarits ne doivent PAS être bloqués par la
+    politique qu'on vient d'ajouter : sans cela, toute la page est morte.
+
+    Le nonce se lit sur la réponse qui a servi à rendre la page — en prendre
+    une deuxième donnerait un nonce différent, par construction.
+    """
+    r = client.get('/login')
+    nonce = r.headers['Content-Security-Policy'].split("'nonce-")[1].split("'")[0]
+    assert ('nonce="%s"' % nonce) in r.text
+
+
+def test_le_nonce_change_a_chaque_reponse(client):
+    """Un nonce fixe ou réutilisé perdrait toute valeur : il doit être tiré
+    par réponse."""
+    a = client.get('/login').headers['Content-Security-Policy']
+    b = client.get('/login').headers['Content-Security-Policy']
+    assert a != b
+
+
+def test_la_politique_ferme_object_base_et_iframe(client):
+    csp = client.get('/login').headers['Content-Security-Policy']
+    assert "object-src 'none'" in csp
+    assert "base-uri 'self'" in csp
+    assert "frame-ancestors 'none'" in csp
+    assert "form-action 'self'" in csp
+
+
+def test_les_origines_reelles_sont_autorisees(client):
+    """Les gabarits chargent Lucide, Leaflet et Chart.js, les polices Google,
+    un QR code et des tuiles OpenStreetMap. Les oublier viderait la carte et
+    casseraient les icônes : la politique doit les nommer."""
+    csp = client.get('/login').headers['Content-Security-Policy']
+    for origine in ('https://unpkg.com', 'https://cdn.jsdelivr.net',
+                    'https://fonts.googleapis.com', 'https://fonts.gstatic.com',
+                    'https://api.qrserver.com', 'https://*.tile.openstreetmap.org'):
+        assert origine in csp, origine
+
+
+def test_aucun_script_inline_ne_reste_sans_nonce(app):
+    """Porte la sortie : un gabarit oublié casserait sa page en silence."""
+    import pathlib
+    dossiers = pathlib.Path(app.root_path).parent / 'templates'
+    trouves = []
+    for gabarit in dossiers.glob('*.html'):
+        for numero, ligne in enumerate(gabarit.read_text(encoding='utf-8').splitlines(), 1):
+            if '<script>' in ligne:
+                trouves.append('%s:%d' % (gabarit.name, numero))
+    assert not trouves, 'scripts en ligne sans nonce : %s' % trouves
+
+
+def test_toutes_les_pages_rendent_avec_leur_nonce(client, factory, db):
+    """Rattrape les deux erreurs que la CSP peut produire en silence.
+
+    1. Un gabarit qui rend encore mais dont le script n'a pas le nonce → la
+       page se charge et **tout le JavaScript est bloqué** : tableau de bord
+       sans carte ni graphiques, formulaire de connexion inerte.
+    2. Un gabarit cassé par l'édition du nonce → erreur 500.
+
+    On parcourt le site connecté, parce que `/` renvoie l'utilisateur selon son
+    rôle : c'est la page la plus provável d'avoir divergé.
+    """
+    from flask_login import login_user
+    import re
+
+    utilisateur = factory.user()
+    with client.session_transaction() as session:
+        session['_user_id'] = str(utilisateur.id)
+        session['_fresh'] = True
+
+    # Liste réelle issue du url_map (hors API, statique et pages à paramètre) :
+    # inventée à la main, elle contenait '/historique', qui n'existe pas.
+    pages = ['/', '/dashboard', '/appareils', '/alertes', '/carte', '/profil',
+             '/admin', '/lock-by-code', '/mobile', '/login', '/register',
+             '/reset-password', '/download']
+    for page in pages:
+        r = client.get(page, follow_redirects=True)
+        assert r.status_code == 200, '%s -> %d' % (page, r.status_code)
+        # Une page protégée qui retombe sur /login passerait le 200 mais
+        # n'aurait rien à tester : c'est le garde-fou contre un faux positif.
+        assert r.request.path != '/login', \
+            '%s a redirige vers la connexion : session non etablie' % page
+        assert 'Content-Security-Policy' in r.headers, page
+        nonce = r.headers['Content-Security-Policy'].split("'nonce-")[1].split("'")[0]
+        # Chaque script en ligne de la page doit porter CE nonce.
+        for numero in re.findall(r'<script(?! src)[^>]*>', r.text):
+            assert 'nonce="%s"' % nonce in numero, \
+                '%s : script sans le bon nonce -> %s' % (page, numero)
+
+
+def test_le_telechargement_apk_sert_du_binaire(client):
+    """`/download/apk` renvoie un APK, pas du HTML : il ne doit pas être
+    décodé en UTF-8, ni framed par la CSP comme une page."""
+    r = client.get('/download/apk')
+    assert r.status_code in (200, 404, 503)
+    if r.status_code == 200:
+        assert not r.headers.get('Content-Type', '').startswith('text/html')
+
+
+
 # ─────────────────── 2. Contacts d'urgence : format et borne ───────────────────
 # AVANT : la liste était enregistrée telle quelle, sans validation ni borne.
 # Chaque entrée devenait un SMS Twilio payant au déclenchement d'une alerte

@@ -416,7 +416,7 @@
 {% endblock %}
 
 {% block scripts %}
-<script>
+<script nonce="{{ csp_nonce() }}">
     // ═══ DONNÉES ERREURS ═══
     const erreursData = {{ erreurs_data | tojson }};
 
