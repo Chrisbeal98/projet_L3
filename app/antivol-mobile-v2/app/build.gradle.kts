@@ -11,7 +11,11 @@ android {
 
     defaultConfig {
         applicationId = "com.antivol.mobile"
-        minSdk = 21
+        // 23 et non 21 : le chiffrement des secrets passe par le Keystore
+        // Android, dont AES-GCM n'existe pas avant Android 6. Garder 21
+        // obligerait à une branche « stockage en clair » pour ces appareils,
+        // c'est-à-dire exactement la faille qu'on ferme.
+        minSdk = 23
         targetSdk = 34
         versionCode = 2
         versionName = "2.0"

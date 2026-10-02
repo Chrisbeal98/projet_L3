@@ -67,6 +67,81 @@ class PreferencesManager(private val context: Context) {
         context.getSharedPreferences("antivol_prefs_sync", Context.MODE_PRIVATE)
     }
 
+    private val secure by lazy { SecurePrefs(context) }
+
+    /**
+     * Les quatre secrets du téléphone, plus l'adresse de compte.
+     *
+     * Ce sont les seules clés à ne jamais laisser en clair : le secret
+     * d'appareil ouvre le canal de commande, le cookie donne la session, les
+     * codes permettent de déverrouiller l'appareil, et l'e-mail est une donnée
+     * personnelle.
+     *
+     * `etat_vol` n'en fait **pas** partie, volontairement. C'est le drapeau qui
+     * fait reverrouiller un téléphone volé après un redémarrage : s'il dépendait
+     * du Keystore et que la clé était invalidée, le téléphone cesserait
+     * silencieusement de se protéger. Un indicateur de sécurité ne doit pas
+     * pouvoir devenir illisible. Même logique pour `appareil_id`, `user_id`,
+     * `imei` et `api_url` : sans secret à protéger, le chiffrement n'apporterait
+     * rien et ne ferait que compliquer les lectures.
+     */
+    private val CLES_SENSIBLES = setOf(
+        SYNC_DEVICE_SECRET, SYNC_COOKIE_SESSION,
+        SYNC_CODE_VERROUILLAGE, SYNC_CODE_USSD, SYNC_USER_EMAIL,
+    )
+
+    /**
+     * Lit une valeur du miroir synchrone, en la déchiffrant si besoin.
+     *
+     * Trois issues possibles, et le choix entre elles est une décision de
+     * sécurité, pas un détail :
+     *
+     * - `Chiffree` : valeur normale.
+     * - `ClairLegacy` : donnée écrite avant le chiffrement. Elle est renvoyée
+     *   ET réécrite chiffrée, donc la migration se fait au passage, sans
+     *   opération à lancer par l'utilisateur.
+     * - `Illisible` : clé Keystore perdue ou contenu altéré. On renvoie une
+     *   chaîne vide, ce qui fait croire l'appareil non enrôlé et force un
+     *   ré-enrôlement. Renvoyer le blob aurait fait passer des octets
+     *   arbitraires pour un secret, et l'application les aurait envoyés au
+     *   serveur.
+     */
+    private fun lireMiroir(cle: String, defaut: String = ""): String {
+        val brut = prefs.getString(cle, null)
+        if (cle !in CLES_SENSIBLES) return brut ?: defaut
+        return when (val lecture = secure.lire(brut)) {
+            is ValueCipher.Lecture.Chiffree -> lecture.texte
+            is ValueCipher.Lecture.ClairLegacy -> {
+                if (lecture.texte.isNotEmpty()) {
+                    secure.chiffrer(lecture.texte)?.let {
+                        prefs.edit().putString(cle, it).apply()
+                    }
+                }
+                lecture.texte
+            }
+            ValueCipher.Lecture.Illisible -> ""
+        }
+    }
+
+    /**
+     * Écrit une valeur dans le miroir synchrone, en chiffrant si la clé est
+     * sensible.
+     *
+     * Si le Keystore est indisponible, on **supprime** l'entrée au lieu d'écrire
+     * en clair : écrire en clair ici réintroduirait exactement la faille, et le
+     * symptôme serait un secret en clair sur le disque sans la moindre trace.
+     */
+    private fun ecrireMiroir(cle: String, valeur: String) {
+        if (cle !in CLES_SENSIBLES) {
+            prefs.edit().putString(cle, valeur).apply()
+            return
+        }
+        val chiffre = secure.chiffrer(valeur)
+        val editeur = prefs.edit()
+        if (chiffre == null) editeur.remove(cle) else editeur.putString(cle, chiffre)
+        editeur.apply()
+    }
+
     /**
      * Contexte applicatif, pour les ViewModels qui doivent lancer une opération
      * nécessitant un `Context` sans en recevoir un (écran de démarrage).
@@ -90,15 +165,15 @@ class PreferencesManager(private val context: Context) {
     }
 
     val userEmail: Flow<String> = context.dataStore.data.map { prefs ->
-        prefs[KEY_USER_EMAIL] ?: ""
+        dechiffrer(prefs[KEY_USER_EMAIL])
     }
 
     val codeVerrouillage: Flow<String> = context.dataStore.data.map { prefs ->
-        prefs[KEY_APPAREIL_CODE_VERROUILLAGE] ?: ""
+        dechiffrer(prefs[KEY_APPAREIL_CODE_VERROUILLAGE])
     }
 
     val codeUssd: Flow<String> = context.dataStore.data.map { prefs ->
-        prefs[KEY_APPAREIL_CODE_USSD] ?: ""
+        dechiffrer(prefs[KEY_APPAREIL_CODE_USSD])
     }
 
     /**
@@ -113,7 +188,7 @@ class PreferencesManager(private val context: Context) {
      * « mot de passe oublié », par conception.
      */
     val deviceSecret: Flow<String> = context.dataStore.data.map { prefs ->
-        prefs[KEY_DEVICE_SECRET] ?: ""
+        dechiffrer(prefs[KEY_DEVICE_SECRET])
     }
 
     /**
@@ -131,19 +206,19 @@ class PreferencesManager(private val context: Context) {
 
     /** Vrai si le téléphone est enrôlé : il a un identifiant ET un secret. */
     val estEnrole: Flow<Boolean> = context.dataStore.data.map { prefs ->
-        (prefs[KEY_APPAREIL_ID] ?: -1) != -1 && !(prefs[KEY_DEVICE_SECRET] ?: "").isEmpty()
+        (prefs[KEY_APPAREIL_ID] ?: -1) != -1 && dechiffrer(prefs[KEY_DEVICE_SECRET]).isNotEmpty()
     }
 
     fun getApiUrlSync(): String = prefs.getString(SYNC_API_URL, DEFAULT_API_URL) ?: DEFAULT_API_URL
     fun getAppareilIdSync(): Int = prefs.getInt(SYNC_APPAREIL_ID, -1)
     fun getAppareilImeiSync(): String = prefs.getString(SYNC_APPAREIL_IMEI, "") ?: ""
     fun getUserIdSync(): Int = prefs.getInt(SYNC_USER_ID, -1)
-    fun getUserEmailSync(): String = prefs.getString(SYNC_USER_EMAIL, "") ?: ""
-    fun getCodeVerrouillageSync(): String = prefs.getString(SYNC_CODE_VERROUILLAGE, "") ?: ""
-    fun getCodeUssdSync(): String = prefs.getString(SYNC_CODE_USSD, "") ?: ""
+    fun getUserEmailSync(): String = lireMiroir(SYNC_USER_EMAIL)
+    fun getCodeVerrouillageSync(): String = lireMiroir(SYNC_CODE_VERROUILLAGE)
+    fun getCodeUssdSync(): String = lireMiroir(SYNC_CODE_USSD)
 
     /** Secret d'appareil, ou chaîne vide si le téléphone n'est pas enrôlé. */
-    fun getDeviceSecretSync(): String = prefs.getString(SYNC_DEVICE_SECRET, "") ?: ""
+    fun getDeviceSecretSync(): String = lireMiroir(SYNC_DEVICE_SECRET)
 
     /** L'appareil est-il déclaré volé ? Lecture synchrone, pour le service. */
     fun estVolSync(): Boolean = prefs.getBoolean(SYNC_ETAT_VOL, false)
@@ -152,14 +227,15 @@ class PreferencesManager(private val context: Context) {
      * Cookie de session sérialisé, ou `null` si l'application n'a jamais été
      * connectée depuis le dernier effacement.
      */
-    fun getCookieSessionSync(): String? = prefs.getString(SYNC_COOKIE_SESSION, null)
+    fun getCookieSessionSync(): String? = lireMiroir(SYNC_COOKIE_SESSION, defaut = "").ifEmpty { null }
 
     /** Enregistre le cookie de session. Une chaîne vide l'efface. */
     fun saveCookieSessionSync(serialise: String) {
-        prefs.edit().apply {
-            if (serialise.isEmpty()) remove(SYNC_COOKIE_SESSION)
-            else putString(SYNC_COOKIE_SESSION, serialise)
-        }.apply()
+        if (serialise.isEmpty()) {
+            prefs.edit().remove(SYNC_COOKIE_SESSION).apply()
+            return
+        }
+        secure.chiffrer(serialise)?.let { prefs.edit().putString(SYNC_COOKIE_SESSION, it).apply() }
     }
 
     suspend fun setApiUrl(url: String) {
@@ -186,14 +262,17 @@ class PreferencesManager(private val context: Context) {
      * présenter le secret).
      */
     suspend fun setEnrolement(appareilId: Int, secret: String) {
+        val chiffre = secure.chiffrer(secret)
         context.dataStore.edit { prefs ->
             prefs[KEY_APPAREIL_ID] = appareilId
-            prefs[KEY_DEVICE_SECRET] = secret
+            // Sans clé on n'écrit rien : garder l'identifiant seul ferait croire
+            // à un enrôlement valide alors que l'appareil ne peut rien
+            // commander.
+            if (chiffre == null) prefs.remove(KEY_DEVICE_SECRET) else prefs[KEY_DEVICE_SECRET] = chiffre
         }
-        prefs.edit()
-            .putInt(SYNC_APPAREIL_ID, appareilId)
-            .putString(SYNC_DEVICE_SECRET, secret)
-            .apply()
+        val editeur = prefs.edit().putInt(SYNC_APPAREIL_ID, appareilId)
+        if (chiffre == null) editeur.remove(SYNC_DEVICE_SECRET) else editeur.putString(SYNC_DEVICE_SECRET, chiffre)
+        editeur.apply()
     }
 
     /**
@@ -209,13 +288,13 @@ class PreferencesManager(private val context: Context) {
     }
 
     suspend fun setCodeVerrouillage(code: String) {
-        context.dataStore.edit { prefs -> prefs[KEY_APPAREIL_CODE_VERROUILLAGE] = code }
-        prefs.edit().putString(SYNC_CODE_VERROUILLAGE, code).apply()
+        chiffrerDansDataStore(KEY_APPAREIL_CODE_VERROUILLAGE, code)
+        ecrireMiroir(SYNC_CODE_VERROUILLAGE, code)
     }
 
     suspend fun setCodeUssd(code: String) {
-        context.dataStore.edit { prefs -> prefs[KEY_APPAREIL_CODE_USSD] = code }
-        prefs.edit().putString(SYNC_CODE_USSD, code).apply()
+        chiffrerDansDataStore(KEY_APPAREIL_CODE_USSD, code)
+        ecrireMiroir(SYNC_CODE_USSD, code)
     }
 
     suspend fun setUserId(id: Int) {
@@ -224,17 +303,48 @@ class PreferencesManager(private val context: Context) {
     }
 
     suspend fun setUserEmail(email: String) {
-        context.dataStore.edit { prefs -> prefs[KEY_USER_EMAIL] = email }
-        prefs.edit().putString(SYNC_USER_EMAIL, email).apply()
+        chiffrerDansDataStore(KEY_USER_EMAIL, email)
+        ecrireMiroir(SYNC_USER_EMAIL, email)
     }
 
     suspend fun saveUserSession(userId: Int, email: String) {
+        val chiffre = secure.chiffrer(email)
         context.dataStore.edit { prefs ->
             prefs[KEY_USER_ID] = userId
-            prefs[KEY_USER_EMAIL] = email
+            if (chiffre == null) prefs.remove(KEY_USER_EMAIL) else prefs[KEY_USER_EMAIL] = chiffre
         }
-        prefs.edit().putInt(SYNC_USER_ID, userId).putString(SYNC_USER_EMAIL, email).apply()
+        // L'identifiant et l'e-mail sont écrits dans le même `edit` : une coupure
+        // entre les deux laisserait un compte sans adresse affichable.
+        val editeur = prefs.edit().putInt(SYNC_USER_ID, userId)
+        if (chiffre == null) editeur.remove(SYNC_USER_EMAIL) else editeur.putString(SYNC_USER_EMAIL, chiffre)
+        editeur.apply()
     }
+
+    /**
+     * Écrit une valeur sensible dans le DataStore, chiffrée.
+     *
+     * Le DataStore et le miroir synchrone portent les mêmes couples clé/valeur,
+     * donc les deux stockages doivent contenir le même blob — sans quoi une
+     * lecture synchrone renverrait un contenu différent de celui affiché.
+     */
+    private suspend fun chiffrerDansDataStore(
+        cle: androidx.datastore.preferences.core.Preferences.Key<String>,
+        valeur: String,
+    ) {
+        val chiffre = secure.chiffrer(valeur)
+        context.dataStore.edit { prefs ->
+            if (chiffre == null) prefs.remove(cle) else prefs[cle] = chiffre
+        }
+    }
+
+    /** [lecture] d'une valeur sensible stockée dans le DataStore. */
+    private fun dechiffrer(brut: String?): String =
+        when (val lecture = secure.lire(brut)) {
+            is ValueCipher.Lecture.Chiffree -> lecture.texte
+            is ValueCipher.Lecture.ClairLegacy -> lecture.texte
+            // Clé Keystore perdue : l'UI doit voir « rien », pas des octets.
+            ValueCipher.Lecture.Illisible -> ""
+        }
 
     /**
      * Déconnexion : plus rien de l'ancien compte ni de son appareil.
