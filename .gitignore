@@ -63,3 +63,4 @@ cookies.txt
 logcat*.txt
 hs_err_pid*.log
 replay_pid*.log
+app/antivol-mobile-v2/signing/
