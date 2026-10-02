@@ -283,8 +283,30 @@ def create_app(config_class=Config):
 
     # Config Flask-Login
     login_manager.login_view = 'auth.login'
-    login_manager.login_message = _l('Veuillez vous connecter pour accéder à cette page.')
+    login_manager.login_message = _l('Veuillez vous connecter pour acc�der � cette page.')
     login_manager.login_message_category = 'warning'
+
+    @login_manager.unauthorized_handler
+    def _non_authentifie():
+        """401 JSON sous `/api`, redirection vers la connexion ailleurs.
+
+        Sans cette distinction, `@login_required` renvoyait une redirection
+        302 vers `/login`, et le client Android recevait la page HTML de
+        connexion avec un **200**. Retrofit/Gson obtenaient alors une erreur de
+        désérialisation sur du HTML, jamais le 401 attendu : impossible de
+        distinguer « session expirée » d'une panne réseau, et l'utilisateur
+        restait connecté à l'écran de connexion sans comprendre pourquoi.
+
+        Répondre 401 en JSON laisse le client décider, et évite de renvoyer un
+        formulaire de connexion contenant un jeton CSRF à un appelant d'API.
+        """
+        if request.path.startswith('/api/'):
+            return jsonify({
+                'succes': False,
+                'erreur': 'non_authentifie',
+                'message': 'Session absente ou expirée.',
+            }), 401
+        return redirect(url_for('auth.login', next=request.full_path))
 
     # Enregistrer les blueprints
     from app.routes.auth import auth_bp

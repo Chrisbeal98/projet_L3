@@ -57,6 +57,55 @@ def test_le_referer_ne_fuit_pas_la_page_de_carte(client):
     assert r.headers['Referrer-Policy'] == 'no-referrer'
 
 
+# ─────────────────────────── 3. 401 JSON sur l'API ───────────────────────────
+# AVANT : `@login_required` renvoyait 302 vers `/login`. Le client Android
+# suivait la redirection et recevait la page HTML de connexion avec un **200**,
+# que Gson ne pouvait pas désérialiser. L'application ne pouvait donc pas
+# distinguer « session expirée » d'une panne réseau.
+
+def test_api_sans_session_repond_401_json(client):
+    r = client.get('/api/appareils')
+    assert r.status_code == 401
+    assert r.headers['Content-Type'].startswith('application/json')
+
+
+def test_api_sans_session_ne_renvoie_pas_de_html(client):
+    """Le point qui compte : le client mobile ne doit plus recevoir une page web.
+
+    C'est ce retour HTML qui produisait une erreur de parsing côté Android au
+    lieu d'un 401 exploitable.
+    """
+    r = client.get('/api/appareils')
+    assert r.status_code == 401
+    corps = r.get_data(as_text=True)
+    assert '<html' not in corps.lower()
+    assert 'csrf' not in corps.lower(), 'un formulaire de connexion ne doit pas fuiter vers l\'API'
+
+
+def test_le_401_nomme_la_cause(client):
+    # Le client doit pouvoir afficher un message adapté plutôt qu'une erreur
+    # réseau générique.
+    r = client.get('/api/appareils')
+    corps = r.get_json()
+    assert corps['succes'] is False
+    assert corps['erreur'] == 'non_authentifie'
+
+
+def test_une_page_web_reste_redirigee_vers_la_connexion(client):
+    """Le comportement des pages ne doit pas changer : une redirection vers la
+    connexion reste le bon UX pour un navigateur."""
+    r = client.get('/dashboard')
+    assert r.status_code in (302, 401)
+    if r.status_code == 302:
+        assert '/login' in r.headers['Location']
+
+
+def test_les_pages_et_api_ne_se_confondent_pas(client):
+    """Deux routes du même nom logique, deux contrats de réponse distincts."""
+    page = client.get('/appareils', follow_redirects=False)
+    api = client.get('/api/appareils')
+    assert page.status_code in (200, 302)
+    assert api.status_code == 401
 # ───────────────────────── 2. Content-Security-Policy ─────────────────────────
 # AVANT : aucune politique. L'échappement Jinja protégeait les gabarits, mais
 # toute fuite suffirait à faire exécuter un script sans entrave. La politique
